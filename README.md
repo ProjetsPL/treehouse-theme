@@ -1,14 +1,14 @@
 # TreeHouse
-## international interior design affiliate website
+international interior design affiliate website
 
-### International version
+## International version
 * [repo](https://github.com/ProjetsPL/TreeHouse/tree/master/_international)
 * [website](https://treehouse.co)
 
-### Polish version
+## Polish version
 * [repo](https://github.com/ProjetsPL/TreeHouse/tree/master/pl)
 * [website](https://treehouse.co/pl)
 
-### United Kingdom version
+## United Kingdom version
 * [repo](https://github.com/ProjetsPL/TreeHouse/tree/master/uk)
 * [website](https://treehouse.co/uk)
