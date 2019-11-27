@@ -1,0 +1,66 @@
+<head>
+  {% seo %}
+
+  <meta charset="utf-8">
+  <meta name="theme-color" content="#317EFB"/>
+
+  <!-- mobile responsive meta -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title> -->
+  <!-- <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}'> -->
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+  <link rel="manifest" href="manifest.json">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono&display=swap" rel="stylesheet">
+
+  <!-- Main Stylesheet -->
+  <link href="/assets/css/main.css" rel="stylesheet">
+
+  <!-- hreflangs -->
+  <link rel="alternate" hreflang="en" href="https://treehouse.co" />
+  <link rel="alternate" hreflang="en-gb" href="https://treehouse.co/uk" />
+  <link rel="alternate" hreflang="pl" href="https://treehouse.co/pl" />
+  <link rel="alternate" hreflang="it" href="https://treehouse.co/it" />
+  <link rel="alternate" hreflang="sk" href="https://treehouse.co/sk" />
+  <link rel="alternate" hreflang="cs" href="https://treehouse.co/cz" />
+  <link rel="alternate" hreflang="de" href="https://treehouse.co/de" />
+
+  <!-- icons -->
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/img/icons/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/img/icons/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/img/icons/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/img/icons/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/img/icons/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/img/icons/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/img/icons/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/img/icons/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/icons/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="/assets/img/icons/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/img/icons/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/icons/favicon-16x16.png">
+  <link rel="manifest" href="/assets/img/icons/manifest.json">
+
+  <script type="text/javascript">
+    if ("serviceWorker" in navigator) {
+      if (navigator.serviceWorker.controller) {
+        console.log("An active service worker found, no need to register");
+      } else {
+        // Register the service worker
+        navigator.serviceWorker
+          .register("/serviceworker.js", {
+            scope: "./"
+          })
+          .then(function (reg) {
+            console.log("Service worker has been registered for scope: " + reg.scope);
+          });
+      }
+    }
+  </script>
+</head>
