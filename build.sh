@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-cd _international;
+cd international;
 bundle exec jekyll build;
 
 cd ../pl;
