@@ -1,0 +1,248 @@
+<head>
+  <meta charset="utf-8">
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+
+  <!-- mobile responsive meta -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}'>
+  {% seo %}
+  <!-- AMP bolierplate -->
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <!-- AMP styles -->
+  <style amp-custom>
+    .amp-container {
+      max-width: 780px;
+      margin: 0 auto;
+    }
+
+    *, *::after, *::before {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Lora', Georgia, Times, 'Times New Roman', serif;
+      font-size: 16px;
+      background-color: #fff;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    input, textarea {
+      border: 1px solid #f9f9f9;
+      outline: none;
+    }
+
+    input:focus:required:invalid, textarea:focus:required:invalid {
+      border-color: #e02f40;
+    }
+
+    input:required:valid, textarea:required:valid {
+      border-color: #34a74e;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-family: 'Lora', Georgia, Times, 'Times New Roman', serif;
+      font-weight: 400;
+      letter-spacing: 0.1px;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      vertical-align: middle;
+      text-align: center;
+    }
+
+    img+em {
+      text-align: center;
+      display: block;
+      margin-bottom: 10px;
+      font-style: italic;
+      font-weight: 400;
+      font-size: 14px;
+      color: $gray-dark;
+    }
+
+    a {
+        text-decoration: none;
+        transition: color 200ms;
+    }
+
+    a:hover {
+      color: $dark;
+    }
+
+    hr {
+      display: block;
+      width: 6px;
+      height: 6px;
+      margin: 45px auto;
+      border-radius: 50%;
+      border: 0;
+      background: $secondary-color;
+    }
+
+    time {
+      display: block;
+      text-align: center;
+      margin-top: -30px;
+      margin-bottom: 20px;
+      color: #999;
+    }
+
+    .amp-container {
+    	max-width: 780px;
+    	font-size: 16px;
+    	line-height: 29px;
+    	padding: 18px;
+    }
+
+    .amp-container h1 {
+    	font-size: 33px;
+    	line-height: 53px;
+    	margin-bottom: 29px;
+      text-align: center;
+    }
+
+    .amp-container .title {
+    	font-size: 42px;
+    	line-height: 66px;
+    	margin-bottom: 29px;
+    }
+
+    .amp-container h2 {
+    	font-size: 26px;
+    	line-height: 43px;
+    	margin-top: 47px;
+    	margin-bottom: 18px;
+    }
+
+    .amp-container h3 {
+    	font-size: 20px;
+    	line-height: 34px;
+    	margin-top: 29px;
+    	margin-bottom: 11px;
+    }
+
+    .amp-container h4 {
+    	font-size: 16px;
+    	line-height: 29px;
+    	font-weight: bold;
+    	margin-bottom: 7px;
+    }
+
+    .amp-container p, .amp-container ul, .amp-container ol, .amp-container blockquote, .amp-container pre, .amp-container .alert, .amp-container .note, .amp-container .box, .amp-container .footnotes {
+    	margin-bottom: 29px;
+      color: rgba(0,0,0,0.7);
+    }
+
+    .amp-container ul, .amp-container ol {
+    	margin-left: 29px;
+    }
+
+    .amp-container li {
+    	margin-bottom: 11px;
+    }
+
+    .amp-container blockquote {
+    	padding-left: 18px;
+    	border-style: solid;
+    	border-color: rgba(0,0,0,0.15);
+    	border-width: 0 0 0 7px;
+    }
+
+    .amp-container sub, .amp-container sup {
+    	padding: 0 1px;
+    }
+
+    .amp-container code, .amp-container pre, .amp-container kbd {
+    	font-size: 15px;
+    }
+
+    .amp-container code {
+    	background-color: rgba(0,0,0,0.08);
+    	padding: 3px 4px;
+    	border-radius: 7px;
+    	margin: 0 1px;
+    }
+
+    .amp-container pre {
+    	padding: 11px;
+    	border-style: solid;
+    	border-color: rgba(0,0,0,0.15);
+    	border-width: 0 0 0 7px;
+    }
+
+    .amp-container kbd {
+    	background-color: #fff;
+    	padding: 3px 4px;
+    	border-radius: 4px;
+    	box-shadow: 0 0 4px 0 rgba(0,0,0,0.45);
+    	margin: 0 1px;
+    }
+
+    .amp-container .alert, .amp-container .note, .amp-container .box {
+    	padding: 18px;
+    }
+
+    .amp-container .footnotes {
+    	font-size: 13px;
+    	line-height: 24px;
+    	padding-top: 18px;
+    	border-top: 1px dotted rgba(0,0,0,0.15);
+    }
+
+    .amp-container .footnotes p {
+    	margin-bottom: 18px;
+    }
+
+    .amp-container ul ul, .amp-container ul ol, .amp-container ol ul, .amp-container ol ol, .amp-container blockquote.right p, .amp-container blockquote.left p, .amp-container .alert :last-child, .amp-container .note :last-child, .amp-container .box :last-child, .amp-container .footnotes :last-child {
+    	margin-bottom: 0;
+    }
+
+    @media all and (min-width: 838px) {
+    	.amp-container {
+    		padding: 29px;
+    	}
+    }
+
+    .amp-container .amp-logo > a {
+      font-size: 16px;
+      font-weight: 700;
+      color: #333;
+    }
+
+    .amp-container header {
+      position: relative;
+      display: -webkit-flex;
+      display: -ms-flex;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .amp-container .amp-logo {
+      display: block;
+    }
+
+    .amp-container .amp-main-nav {
+      display: block;
+    }
+
+    .amp-container .amp-main-nav ul {
+      list-style-type: none;
+    }
+    .amp-container .amp-main-nav li {
+      display: inline-block;
+    }
+  </style>
+</head>

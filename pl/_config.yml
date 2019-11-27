@@ -2,7 +2,9 @@ title: TreeHouse - zainspiruj się
 logo:  # you can add own logo.
 description: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
 baseurl: "/pl" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+ampdir: amp
+destination: ../_build
 
 # Author Settings
 author:
@@ -11,7 +13,6 @@ author:
   job: TreeHouse
   bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
   email: hello@treehouse.co
-
 
 # Contact links
 contact:
@@ -34,10 +35,8 @@ social:
 # Comment Section (Disqus)
 disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
 
-
 # Google Analytics
 google-analytics: # add your identifier. For example UA-99631805-1.
-
 
 # Build settings
 markdown: kramdown
@@ -48,6 +47,7 @@ plugins:
   - jekyll/tagging
   - jekyll-toc
   - jekyll-seo-tag
+  - amp-jekyll
 
 # Pages Path
 defaults:

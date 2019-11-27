@@ -1,9 +1,9 @@
 ---
 layout: post
-date:   2019-11-19 18:05:55 +0300
-title:  "Jak wygląda wymiana uszczelki w kranie?"
+date: 2019-11-19 18:05:55 +0300
+title: "Jak wygląda wymiana uszczelki w kranie?"
 description: "Masz problem z cieknącym kranem w kuchni lub łazienkce? Prawdopodobna konieczna będzie wymiana uszczelki. Jak wygląda taki proces wymiany uszczelki?"
-image:  '/assets/img/jak-wyglada-wymiana-uszczelki-w-kranie/Jak-wygląda-wymiana-uszczelki-w-kranie.jpg'
+image: '/assets/img/jak-wyglada-wymiana-uszczelki-w-kranie/Jak-wygląda-wymiana-uszczelki-w-kranie.jpg'
 tags: Jekyll
 toc: true
 ---

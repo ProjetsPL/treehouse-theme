@@ -10,8 +10,9 @@ layout: default
       <div class="post__date">
         <time datetime="{{ page.date | date_to_xmlschema }}">Data publikacji {{page.date | date: '%d-%m-%Y'}}</time>
       </div>
+
       {% if page.image %}
-      <div class="post-image img-blur" style="background-image: url({{site.baseurl}}{{page.image}})"></div>
+        <img src='{{site.baseurl}}{{page.image}}' alt='{{ page.title | escape }}'></img>
       {% endif %}
     </div>
 
