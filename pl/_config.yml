@@ -4,7 +4,7 @@ description: Passionate designer curating designs for new startups  and  founder
 baseurl: "/pl" # the subpath of your site, e.g. /blog
 url: "https://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 ampdir: amp
-destination: ../_build
+destination: ../_build/pl
 
 # Author Settings
 author:

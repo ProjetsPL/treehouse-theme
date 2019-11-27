@@ -2,10 +2,9 @@ $(document).ready(function() {
   'use strict';
 
   var headerOverlay = $('.header__overlay'),
-    menuList = $('.main-nav__box'),
-    menuOpenIcon = $('.main-nav__open'),
-    menuCloseIcon = $('.main-nav__close');
-
+      menuList = $('.main-nav__box'),
+      menuOpenIcon = $('.main-nav__open'),
+      menuCloseIcon = $('.main-nav__close');
 
   /* =======================
   // Menu and Navigation
@@ -33,19 +32,10 @@ $(document).ready(function() {
     headerOverlay.removeClass('visible');
   }
 
-
-  /* ================================
-  // AOS - Animate On Scroll Library
-  ================================ */
-  // AOS.init();
-
-
   /* =======================
   // Responsive Videos
   ======================= */
   $(".post__content, .page__content").fitVids({
     customSelector: ['iframe[src*="ted.com"]']
   });
-
-
 });

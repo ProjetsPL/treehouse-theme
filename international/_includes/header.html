@@ -4,14 +4,19 @@
 
     <div class="logo">
       <a class="logo__link" href="/">
-      {%if site.logo %}
-        <img class="logo__image" src="/assets/img/{{ site.logo }}" alt="{{ site.title }}">
-      {% else %}
-        {{ site.author.name }}
-      {% endif %}
+        {% if site.logo %}
+
+          <img class="logo__image" src="/assets/img/{{ site.logo }}" alt="{{ site.title }}">
+
+        {% else %}
+
+          {{ site.author.name }}
+
+        {% endif %}
       </a>
     </div>
 
   </header>
   <!-- end header -->
+
 </div>
