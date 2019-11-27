@@ -13,7 +13,6 @@ author:
   bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
   email: hello@treehouse.co
 
-
 # Contact links
 contact:
   - name: Twitter
@@ -24,7 +23,7 @@ contact:
     link: https://instagram.com/
 
 social:
-  name: Ben Balter
+  name: TreeHouse
   links:
     - https://twitter.com/treehouse_co
     - https://www.facebook.com/treehouse_co
@@ -40,7 +39,6 @@ google-analytics: # add your identifier. For example UA-99631805-1.
 
 # Build settings
 markdown: kramdown
-permalink: /blog/:title
 
 plugins:
   - jekyll-sitemap
@@ -48,20 +46,8 @@ plugins:
   - jekyll-toc
   - jekyll-seo-tag
 
-# Pages Path
-defaults:
-  - scope:
-      path: '_pages'
-    values:
-      permalink: /:basename:output_ext
-
 include:
   - _pages
-
-# Tags
-tag_page_dir:         tag
-tag_page_layout:      tag-page
-tag_permalink_style:  pretty
 
 sass:
   sass_dir: _sass
