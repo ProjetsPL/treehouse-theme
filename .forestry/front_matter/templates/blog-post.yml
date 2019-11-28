@@ -34,7 +34,6 @@ fields:
   label: Spis treści
   default: true
 pages:
-- en/_posts/a-new-post.md
 - pl/_posts/2019-11-28-dekoracje-diy-do-domu-zrób-to-sam.md
 - pl/_posts/asdasdasdasdasd.md
 - pl/_posts/jak-wyczyścić-piekarnik-to-nie-takie-trudne.md
