@@ -1,0 +1,42 @@
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "" # the name of your site, e.g. ACME Corp.
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/blog/:title:output_ext
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Author Settings
+author:
+  name: TreeHouse
+  image: '/assets/img/01.jpg'
+  job: TreeHouse
+  bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
+  email: hello@treehouse.co
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-toc
+
+
+defaults:
+  #languages
+  -
+    scope:
+      path: ""
+    values:
+      lang: ""
+  -
+    scope:
+      path: "en"
+    values:
+      lang: "en"
+  -
+    scope:
+      path: "pl"
+    values:
+      lang: "pl"

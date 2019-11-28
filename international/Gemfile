@@ -1,3 +1,0 @@
-source 'https://rubygems.org'
-
-eval File.read File.expand_path('../../_shared/Gemfile', __FILE__)

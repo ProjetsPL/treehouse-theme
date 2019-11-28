@@ -2,13 +2,11 @@
 layout: post
 date: 2019-11-19T15:05:55.000+00:00
 title: Jak wygląda wymiana uszczelki w kranie?
-description: Masz problem z cieknącym kranem w kuchni lub łazienkce? Prawdopodobna
-  konieczna będzie wymiana uszczelki. Jak wygląda taki proces wymiany uszczelki?
+description: Masz problem z cieknącym kranem w kuchni lub łazienkce? Prawdopodobna konieczna będzie wymiana uszczelki. Jak wygląda taki proces wymiany uszczelki?
 image: "/assets/img/jak-wyglada-wymiana-uszczelki-w-kranie/Jak-wygląda-wymiana-uszczelki-w-kranie.jpg"
-tags: Jekyll
 toc: true
-
 ---
+
 Zmiana wprowadzona przez Forestry
 
 Poprawnie działający kran to podstawa takich pomieszczeń jak kuchnia, czy łazienka. Bez niego pobór wody nie jest możliwy. Może zdarzyć się jednak sytuacja, w której kran zacznie przeciekać. Zazwyczaj wystarcza wówczas wymiana uszczelki. Jak poradzić sobie z tym zadaniem?
