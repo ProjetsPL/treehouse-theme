@@ -4,30 +4,30 @@ hide_body: false
 fields:
 - type: text
   name: layout
-  label: Layout Podstrony
+  label: Layout podstrony
   config:
     required: true
-  default: deafult
+  default: default
 - type: datetime
   name: date
-  label: date
+  label: Data publikacji
 - type: text
   name: title
-  label: Meta Title
+  label: Meta title
   config:
     required: false
 - type: textarea
   name: description
-  label: Meta Description
+  label: Meta description
   config:
     required: true
   default: ''
 - type: file
   name: image
-  label: Główne Zdjęcie
+  label: Główne zdjęcie
 - type: boolean
   name: toc
-  label: Spis Treści
+  label: Spis treści
   default: true
 pages:
 - pl/_posts/2019-11-28-dekoracje-diy-do-domu-zrób-to-sam.md
