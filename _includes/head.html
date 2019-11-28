@@ -1,5 +1,7 @@
 <head>
   <meta charset="utf-8">
+  <meta name="theme-color" content="#fff">
+
   <!-- mobile responsive meta -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,6 +10,7 @@
   <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}'>
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+  <link rel="manifest" href="/manifest.json">
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700&display=swap" rel="stylesheet">
@@ -17,5 +20,8 @@
   <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
 
   {% include alternate.html %}
+  {% include pwa.html %}
+  {% include amp.html %}
 
+  {% seo %}
 </head>

@@ -21,7 +21,10 @@ author:
 plugins:
   - jekyll-sitemap
   - jekyll-toc
+  - amp-jekyll
+  - jekyll-seo-tag
 
+ampdir: amp
 
 defaults:
   #languages
