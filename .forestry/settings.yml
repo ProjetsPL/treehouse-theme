@@ -28,11 +28,6 @@ sections:
   label: EN
   create: all
   match: "**/*"
-- type: directory
-  path: ''
-  label: All
-  create: all
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
