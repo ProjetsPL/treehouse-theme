@@ -4,19 +4,28 @@ hide_body: false
 fields:
 - type: text
   name: layout
-  label: layout
+  label: Layout Podstrony
+  config:
+    required: true
+  default: deafult
 - type: datetime
   name: date
   label: date
 - type: text
   name: title
-  label: title
+  label: Meta Title
+  config:
+    required: false
 - type: textarea
   name: description
-  label: description
+  label: Meta Description
+  config:
+    required: true
+  default: ''
 - type: file
   name: image
-  label: image
+  label: Główne Zdjęcie
 - type: boolean
   name: toc
-  label: toc
+  label: Spis Treści
+  default: true
