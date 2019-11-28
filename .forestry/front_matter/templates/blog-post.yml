@@ -14,6 +14,7 @@ fields:
   default: now
   config:
     required: true
+    export_format: YYYY-MM-DD
 - type: text
   name: title
   label: Meta title
