@@ -4,7 +4,7 @@ hide_body: false
 fields:
 - type: text
   name: layout
-  label: Layout podstrony
+  label: Layout
   config:
     required: true
   default: default
