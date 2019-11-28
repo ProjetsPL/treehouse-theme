@@ -5,7 +5,6 @@ toc: true
 title: A new post
 description: This is only for testing purpose.
 image: ''
-published: false
 
 ---
-This file was added in Forestry.
+This file was added in Forestry. And Now it's been published.
