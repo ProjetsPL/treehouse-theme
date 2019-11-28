@@ -11,6 +11,8 @@ Dekorowanie to ostatni etap urządzania domu lub mieszkania. Stylowo ozdobione w
 
 ## Samodzielnie wykonane ozdoby
 
+![](/uploads/Jak-wygląda-wymiana-uszczelki-w-kranie.jpg)
+
 Nie trzeba być artystą, aby stworzyć swoje własne dzieło sztuki. Do przygotowania dekoracji można wykorzystać wszystko, co znajduje się pod ręką. Bardzo wszechstronnym materiałem jest zwykły papier. Możliwości jest wiele, a ograniczeniem tylko własna wyobraźnia. Przykładowymi ozdobami z papieru mogą być:
 
 * Klosze na lampy - można je wykonać techniką składania papieru origami - wzory krok po kroku znajdują się w sieci. Papier można także pociąć w dowolne kształty i połączyć je w kształt kuli za pomocą kleju. Wycięcie ażurowych wzorów pozwoli uzyskać ciekawy efekt ze światła i cienia na ścianach. Nada to wnętrzu nastrojowej atmosfery.
