@@ -14,7 +14,7 @@ sections:
   path: ''
   label: _International
   create: all
-  match: "/*"
+  match: "*"
 - type: directory
   path: pl
   label: PL
