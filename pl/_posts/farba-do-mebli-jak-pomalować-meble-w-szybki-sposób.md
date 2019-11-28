@@ -5,7 +5,6 @@ toc: true
 title: Farba do mebli - jak pomalować meble w szybki sposób?
 description: Farba do mebli - jak pomalować meble w szybki sposób?
 image: ''
-published: false
 
 ---
 Mebli, które się znudziły, wcale nie trzeba wymieniać na nowe. Dobrym pomysłem na odświeżenie wnętrza jest pomalowanie elementów wyposażenia. Można w ten sposób wydobyć drzemiący w nich potencjał i całkowicie odmienić charakter pomieszczenia. Aby efekt takiej metamorfozy był zadowalający, ważny jest dobór właściwej farby do mebli.
