@@ -11,6 +11,9 @@ fields:
 - type: datetime
   name: date
   label: Data publikacji
+  default: now
+  config:
+    required: true
 - type: text
   name: title
   label: Meta title
