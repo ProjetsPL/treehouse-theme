@@ -4,7 +4,7 @@ date: 2019-11-28 13:09:57 +0000
 toc: true
 title: Farba do mebli - jak pomalować meble w szybki sposób?
 description: Farba do mebli - jak pomalować meble w szybki sposób?
-image: ''
+image: "/uploads/Jak-wygląda-wymiana-uszczelki-w-kranie.jpg"
 
 ---
 Mebli, które się znudziły, wcale nie trzeba wymieniać na nowe. Dobrym pomysłem na odświeżenie wnętrza jest pomalowanie elementów wyposażenia. Można w ten sposób wydobyć drzemiący w nich potencjał i całkowicie odmienić charakter pomieszczenia. Aby efekt takiej metamorfozy był zadowalający, ważny jest dobór właściwej farby do mebli.
