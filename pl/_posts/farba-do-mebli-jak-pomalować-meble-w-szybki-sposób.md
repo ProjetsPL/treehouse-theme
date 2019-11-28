@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 date: 2019-11-28 13:09:57 +0000
 toc: true
 title: Farba do mebli - jak pomalować meble w szybki sposób?
