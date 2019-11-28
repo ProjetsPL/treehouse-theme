@@ -5,7 +5,6 @@ toc: true
 title: Farba do płytek - na czym polega malowanie płytek?
 description: Farba do płytek - na czym polega malowanie płytek?
 image: ''
-published: false
 
 ---
 Kafelki, które wyglądały świetnie kilka lat temu, dzisiaj mogą okazać się nieestetyczne, niemodne lub po prostu nudne. Jednak ich kompletna wymiana często wiąże się ze sporymi kosztami i generalnym remontem kuchni lub łazienki. Można tego uniknąć, decydując się na przemalowanie płytek. Odpowiednia farba w połączeniu z wybranymi dodatkami pozwoli na metamorfozę pomieszczenia nawet w ciągu jednego weekendu.
