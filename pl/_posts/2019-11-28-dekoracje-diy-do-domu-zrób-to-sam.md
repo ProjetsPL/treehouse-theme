@@ -1,5 +1,5 @@
 ---
-layout: deafult
+layout: default
 toc: true
 date: 2019-11-27T23:00:00.000+00:00
 title: Dekoracje DIY do domu - zrób to sam
