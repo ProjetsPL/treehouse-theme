@@ -24,25 +24,25 @@ Bardzo wszechstronnym materiałem do wykonywania ozdób DIY jest zwykły papier.
 
 Przykładowymi ozdobami z papieru mogą być:
 
-* Klosze na lampy - można je wykonać techniką składania papieru origami - wzory krok po kroku znajdują się w sieci. Papier można także pociąć w dowolne wzory i połączyć w kształt kuli za pomocą kleju. Wycięcie ażurowych wzorów pozwoli uzyskać ciekawy efekt ze światła i cienia na ścianach. Nada to wnętrzu nastrojowej atmosfery.
-* Ozdobne girlandy - papierowe łańcuchy to ozdoby, które nadają się nie tylko na okres Bożego Narodzenia, jak uważa wiele osób. Sprawdzą się w ciągu całego roku. Wystarczy wyciąć kilka kształtów z kolorowego papieru, przymocować je do sznurka i powiesić w wybranym miejscu. Do wykorzystania świetnie nadaje się także bibuła, z której można uzyskać wiele interesujących form - kwiaty, kule, frędzle i wiele innych.
-* Trójwymiarowe rzeźby - to bardzo efektowna i prosta w przygotowaniu dekoracja DIY. Do jej zrobienia wystarczy kolorowy papier, nożyczki i klej. Karton należy złożyć tak, aby powstały bryły, które następnie przykleja się obok siebie do ściany. Z takich modułów można uzyskać imponujące struktury, które zachwycą każdego gościa.
-* Kolaże z czasopism - jeżeli posiadasz zbiór starych magazynów ilustrowanych, możesz je wykorzystać do stworzenia obrazu. Wystarczy powycinać zdjęcia, które ci się podobają i ułożyć z nich kompozycję. Tak przygotowany obraz opraw i powieś na ścianie.
+* **Klosze na lampy** - można je wykonać techniką składania papieru origami - wzory krok po kroku znajdują się w sieci. Papier można także pociąć w dowolne wzory i połączyć w kształt kuli za pomocą kleju. Wycięcie ażurowych wzorów pozwoli uzyskać ciekawy efekt ze światła i cienia na ścianach. Nada to wnętrzu nastrojowej atmosfery.
+* **Ozdobne girlandy** - papierowe łańcuchy to ozdoby, które nadają się nie tylko na okres Bożego Narodzenia, jak uważa wiele osób. Sprawdzą się w ciągu całego roku. Wystarczy wyciąć kilka kształtów z kolorowego papieru, przymocować je do sznurka i powiesić w wybranym miejscu. Do wykorzystania świetnie nadaje się także bibuła, z której można uzyskać wiele interesujących form - kwiaty, kule, frędzle i wiele innych.
+* **Trójwymiarowe rzeźby** - to bardzo efektowna i prosta w przygotowaniu dekoracja DIY. Do jej zrobienia wystarczy kolorowy papier, nożyczki i klej. Karton należy złożyć tak, aby powstały bryły, które następnie przykleja się obok siebie do ściany. Z takich modułów można uzyskać imponujące struktury, które zachwycą każdego gościa.
+* **Kolaże z czasopism** - jeżeli posiadasz zbiór starych magazynów ilustrowanych, możesz je wykorzystać do stworzenia obrazu. Wystarczy powycinać zdjęcia, które ci się podobają i ułożyć z nich kompozycję. Tak przygotowany obraz opraw i powieś na ścianie.
 
 ## DIY - czyli sposób na nastrojowe oświetlenie
 
 Oprócz wspomnianych wyżej papierowych kloszy, istnieje wiele innych sposobów DIY na efektowne oświetlenie wnętrza. Z pomocą przychodzą choćby stare lampki choinkowe, które mogą posłużyć jako całoroczna dekoracja. Przykładowe ozdoby ze świątecznego oświetlenia to:
 
-* Lampa ze słoika - światełka włożone do starego słoika pięknie oświetlą pomieszczenie o zmierzchu. Im ciekawszy kształt pojemnika, tym bardziej interesująco będzie wyglądała całość. Świetnie sprawdzą się w tym przypadku również szklane butelki.
-* Świetlne litery - aby wykonać taką dekorację, wystarczy wyciąć odpowiedni kształt z tektury. Wzdłuż brzegów należy zrobić niewielkie otwory, na przykład za pomocą długopisu, a następnie włożyć w nie lampki. Z takich liter można ułożyć cały napis, który będzie idealnym dodatkiem w sypialni.
-* Żyrandol z hula-hop - jeśli masz w domu taki nieużywany przedmiot gimnastyczny, możesz wykonać z niego metodą DIY oryginalny żyrandol. Owiń koło ozdobną taśmą, a następnie wzdłuż obręczy przymocuj lampki. Równomiernie rozmieszczone i zebrane pośrodku sznurki utrzymają całą konstrukcję.
+* **Lampa ze słoika** - światełka włożone do starego słoika pięknie oświetlą pomieszczenie o zmierzchu. Im ciekawszy kształt pojemnika, tym bardziej interesująco będzie wyglądała całość. Świetnie sprawdzą się w tym przypadku również szklane butelki.
+* **Świetlne litery** - aby wykonać taką dekorację, wystarczy wyciąć odpowiedni kształt z tektury. Wzdłuż brzegów należy zrobić niewielkie otwory, na przykład za pomocą długopisu, a następnie włożyć w nie lampki. Z takich liter można ułożyć cały napis, który będzie idealnym dodatkiem w sypialni.
+* **Żyrandol z hula-hop** - jeśli masz w domu taki nieużywany przedmiot gimnastyczny, możesz wykonać z niego metodą DIY oryginalny żyrandol. Owiń koło ozdobną taśmą, a następnie wzdłuż obręczy przymocuj lampki. Równomiernie rozmieszczone i zebrane pośrodku sznurki utrzymają całą konstrukcję.
 
 ![DIY - czyli sposób na nastrojowe oświetlenie](/uploads/corn-2605230_1280.jpg "DIY - czyli sposób na nastrojowe oświetlenie")
 
 W roli kloszy do lamp i lampionów świetnie sprawdzą się wspomniane już słoiki. Można przygotować z nich na przykład:
 
-* Oświetlenie tarasu - do pustego słoika wystarczy włożyć świeczkę LED. Dodatkową ozdobą będzie wyklejenie szklanych ścianek ozdobną kolorową serwetką. Oświetlony wzór, rzuci na podłogę barwną poświatę. Tak wykonane lampki można rozłożyć na balkonie, tarasie, a także wzdłuż ogrodowej ścieżki.
-* Lampiony - ciekawym pomysłem na dekorację tego typu jest lampion “wodny”. Słoik wystarczy napełnić wodą, a na jej powierzchni położyć świeczkę.
+* **Oświetlenie tarasu** - do pustego słoika wystarczy włożyć świeczkę LED. Dodatkową ozdobą będzie wyklejenie szklanych ścianek ozdobną kolorową serwetką. Oświetlony wzór, rzuci na podłogę barwną poświatę. Tak wykonane lampki można rozłożyć na balkonie, tarasie, a także wzdłuż ogrodowej ścieżki.
+* **Lampiony** - ciekawym pomysłem na dekorację tego typu jest lampion “wodny”. Słoik wystarczy napełnić wodą, a na jej powierzchni położyć świeczkę.
 
 ## Zrób to sam - z wszystkiego, co masz pod ręką!
 
@@ -50,11 +50,11 @@ Do wykonania ozdób DIY z powodzeniem można wykorzystać wszystkie materiały, 
 
 Niezwykle uniwersalnym materiałem, który nadaje się do dekoracji wielu obiektów, jest sznurek. Oklejone dratwą butelki, słoiki czy pudełka nabiorą zupełnie innego charakteru. Techniką, która w oryginalny sposób wykorzystuje ten materiał, jest makrama. Polega ona na wiązaniu sznurka za pomocą specjalnych supłów. Metodą tą można wykonać przedmioty takie jak:
 
-* makatki (czyli tkaniny dekoracyjne, które służą do wieszania na ścianach lub na meblach),
-* podkładki pod kubek,
-* wiszące kwietniki,
-* przyborniki na narzędzia,
-* ozdobne torby.
+* **makatki** (czyli tkaniny dekoracyjne, które służą do wieszania na ścianach lub na meblach),
+* **podkładki pod kubek**,
+* **wiszące kwietniki**,
+* **przyborniki na narzędzia**,
+* **ozdobne torby**.
 
 ![](/uploads/dream-catcher-4065288_1280.jpg)
 
@@ -65,8 +65,6 @@ Jeżeli masz w domu dużo kolorowych guzików, możesz je nawlec na drucik lub s
 Twórcy ozdób DIY często zachęcają do upcyklingu, czyli ponownego wykorzystania odpadów. Jest to rozwiązanie nie tylko niezwykle oszczędne, ale też ekologiczne. Warto podarować drugie życie przedmiotom przeznaczonym wyrzucenia.
 
 * Zamiast oddawać przeczytane gazety na makulaturę, możesz zrobić z nich papierową wiklinę. W ten sposób można stworzyć efektowne rzeźby, pudełka, wazony oraz wiele innych obiektów.
-
-
 * Stare puszki po żywności można pomalować farbami lub ozdobić za pomocą techniki decoupage. Będą one ładnie wyglądały jako pojemniki na drobne przedmioty.
 * Nie musisz kupować plastikowych pojemników do przechowywania - wykorzystaj do tego pudełka po butach. Ścianki można obkleić ozdobnym papierem lub pomalować.
 * Przepalone żarówki to dobry materiał na niewielkie dekoracje wiszące. Po usunięciu żarnika można je wypełnić wybranymi przedmiotami - kamieniami, koralikami, płatkami kwiatów, i powiesić na przymocowanym sznurku.
@@ -79,10 +77,10 @@ Rośliny dla wielu są niezbędnym elementem wystroju wnętrza. Aby pięknie si�
 
 Poniżej przedstawiono kilka inspiracji.
 
-* Metalowe puszki - takie pojemniki wystarczy pomalować, dopasowując ich kolorystykę do wnętrza.
-* Nieużywane kubki lub filiżanki - sukulenty będą bardzo dobrze się czuły oraz wyglądały w takiej doniczce.
-* Szklane słoiki - te naczynia dobrze sprawdzą się w kuchni, do posadzenia ziół. Nie trzeba ich malować, przezroczyste będą przyciągały wzrok swoją oryginalnością.
-* Stara skrzynka na narzędzia - pojemnik ten może zastąpić zwykłą skrzynkę na kwiaty. Będzie on dobrze wyglądał na tarasie, balkonie, lub w ogrodzie.
+* **Metalowe puszki** - takie pojemniki wystarczy pomalować, dopasowując ich kolorystykę do wnętrza.
+* **Nieużywane kubki lub filiżanki** - sukulenty będą bardzo dobrze się czuły oraz wyglądały w takiej doniczce.
+* **Szklane słoiki** - te naczynia dobrze sprawdzą się w kuchni, do posadzenia ziół. Nie trzeba ich malować, przezroczyste będą przyciągały wzrok swoją oryginalnością.
+* **Stara skrzynka na narzędzia** - pojemnik ten może zastąpić zwykłą skrzynkę na kwiaty. Będzie on dobrze wyglądał na tarasie, balkonie, lub w ogrodzie.
 
 Ozdobą zyskującą na popularności jest tak zwany “las w słoiku”, czyli kompozycja z niewielkich roślin zamknięta w szklanym naczyniu. Taki miniaturowy ogródek łatwo wykonać samemu, co warto zrobić ze względu na jego niezwykły wygląd. Dekorację DIY można wykonać w dwóch wersjach - otwartej i zamkniętej, zależy to od rodzaju wykorzystywanych roślin. Instrukcje wykonania takiej dekoracji znajdziesz w Internecie.
 
