@@ -6,7 +6,6 @@ title: Dekoracje DIY do domu - zrób to sam
 description: Ozdoby DIY to kreatywne rozwiązanie na wystrój pomieszczeń. Dekoracje
   zrób to sam nie wymagają specjalnych umiejętności. Warto spróbować je przygotować.
 image: "/uploads/Dekoracje DIY do domu - zrób to sam.jpg"
-published: false
 
 ---
 Dekorowanie to ostatni etap urządzania domu lub mieszkania. Stylowo ozdobione wnętrze nie musi wcale wiązać się z dużymi wydatkami. Wiele ciekawych ozdób można wykonać metodą DIY (ang. _Do It Yourself_, czyli “zrób to sam”). Takie projekty są zazwyczaj niedrogie i pozwalają nadać pomieszczeniu niepowtarzalnego, osobistego charakteru. Ich przygotowywanie to świetna okazja na wykorzystanie swojej kreatywności. Warto zatem pobawić się w artystę i udekorować wnętrze dziełami sztuki własnego autorstwa.
