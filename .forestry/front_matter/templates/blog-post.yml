@@ -33,3 +33,5 @@ fields:
   name: toc
   label: Spis treści
   default: true
+pages:
+- pl/_posts/dekoracje-diy-do-domu-zrób-to-sam.md
