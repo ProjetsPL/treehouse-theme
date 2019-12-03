@@ -7,7 +7,7 @@ fields:
   label: Layout
   config:
     required: true
-  default: default
+  default: post
 - type: datetime
   name: date
   label: Data publikacji
