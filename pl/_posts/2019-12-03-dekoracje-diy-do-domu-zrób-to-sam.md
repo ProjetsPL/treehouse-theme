@@ -20,7 +20,7 @@ Dekoracje zrób to sam często oferują wiele ciekawych rozwiązań, jeśli chod
 
 Bardzo wszechstronnym materiałem do wykonywania ozdób DIY jest zwykły papier. Ten tani surowiec jest niezwykle popularny wśród miłośników wszelkich prac plastycznych. Nadaje się on praktycznie do wszystkiego - od malowania po rzeźbienie.
 
-![Zrób to sama - z papieru](/uploads/Zrób to sama - z papieru.jpg "Zrób to sama - z papieru")
+![Zrób to sama - z papieru](/uploads/Zrób to sama - z papieru-1.jpg "Zrób to sama - z papieru")
 
 Przykładowymi ozdobami z papieru mogą być:
 
@@ -37,7 +37,7 @@ Oprócz wspomnianych wyżej papierowych kloszy, istnieje wiele innych sposobów 
 * **Świetlne litery** - aby wykonać taką dekorację, wystarczy wyciąć odpowiedni kształt z tektury. Wzdłuż brzegów należy zrobić niewielkie otwory, na przykład za pomocą długopisu, a następnie włożyć w nie lampki. Z takich liter można ułożyć cały napis, który będzie idealnym dodatkiem w sypialni.
 * **Żyrandol z hula-hop** - jeśli masz w domu taki nieużywany przedmiot gimnastyczny, możesz wykonać z niego metodą DIY oryginalny żyrandol. Owiń koło ozdobną taśmą, a następnie wzdłuż obręczy przymocuj lampki. Równomiernie rozmieszczone i zebrane pośrodku sznurki utrzymają całą konstrukcję.
 
-![DIY - czyli sposób na nastrojowe oświetlenie](/uploads/corn-2605230_1280.jpg "DIY - czyli sposób na nastrojowe oświetlenie")
+![DIY - czyli sposób na nastrojowe oświetlenie](/uploads/DIY - czyli sposób na nastrojowe oświetlenie.jpg "DIY - czyli sposób na nastrojowe oświetlenie")
 
 W roli kloszy do lamp i lampionów świetnie sprawdzą się wspomniane już słoiki. Można przygotować z nich na przykład:
 
@@ -56,7 +56,7 @@ Niezwykle uniwersalnym materiałem, który nadaje się do dekoracji wielu obiekt
 * **przyborniki na narzędzia**,
 * **ozdobne torby**.
 
-![](/uploads/dream-catcher-4065288_1280.jpg)
+![Zrób to sam - z wszystkiego, co masz pod ręką!](/uploads/Zrób to sam - z wszystkiego, co masz pod ręką.jpg "Zrób to sam - z wszystkiego, co masz pod ręką!")
 
 Jeżeli masz w domu dużo kolorowych guzików, możesz je nawlec na drucik lub sznurek, tworząc wiszącą ozdobę. Całość będzie pięknie się prezentowała w połączeniu z ozdobnymi wstążkami. Guziki będą także oryginalnym surowcem do stworzenia niewielkiego obrazka - wystarczy przyszyć je do tkaniny lub przykleić do kartonu w dowolnej kompozycji.
 
