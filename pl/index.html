@@ -11,7 +11,7 @@ layout: default
 
           {% if post.image %}
             <div class="article__image-box">
-              <a href="{{post.url | prepend: site.baseurl}}" class="article__image" style="background-image: url({{site.baseurl}}{{post.image}})"></a>
+              <a href="{{post.url | prepend: site.baseurl}}" class="article__image" style="background-image: url('{{site.baseurl}}{{post.image}}')"></a>
             </div>
           {% endif %}
 
