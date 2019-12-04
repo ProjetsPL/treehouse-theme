@@ -5,10 +5,13 @@
 body {
   font-family: 'Lora', Georgia, Times, 'Times New Roman', serif;
   font-size: 16px;
+  line-height: 29px;
+
   color: $dark;
   background-color: #fff;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
   input, textarea {
     border: 1px solid #f9f9f9;
     outline: none;
@@ -30,66 +33,11 @@ body {
   background-color: $primary-color;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  margin: 45px 0 30px;
-  font-family: 'Lora', Georgia, Times, 'Times New Roman', serif;
-  line-height: initial;
-  font-weight: 400;
-  letter-spacing: 0.1px;
-}
-
-h1 {
-  font-size: 36px;
-}
-
-h2 {
-  font-size: 30px;
-}
-
-h3 {
-  font-size: 24px;
-}
-
-h4 {
-  font-size: 20px;
-}
-
-h5 {
-  font-size: 18px;
-}
-
-h6 {
-  font-size: 16px;
-}
-
-blockquote {
-  padding-left: 30px;
-  font-family: 'Lora', Georgia, Times, serif;
-  font-weight: 400;
-  font-style: italic;
-  font-size: 18px;
-  border-left: 1px solid $secondary-color;
-}
-
-pre {
-  overflow: auto;
-  padding: 15px;
-  margin-bottom: 0;
-  font-size: 14px;
-  white-space: pre-wrap;
-  word-wrap: break-word;
-  word-break: break-all;
-}
-
 img {
   max-width: 100%;
   height: auto;
   vertical-align: middle;
+
   &+em {
     text-align: center;
     display: block;
@@ -119,4 +67,117 @@ hr {
   border-radius: 50%;
   border: 0;
   background: $secondary-color;
+}
+
+// Golden
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+}
+
+
+h1 {
+  font-size: 33px;
+  line-height: 53px;
+  margin-bottom: 29px;
+  text-align: center;
+}
+
+.title {
+  font-size: 42px;
+  line-height: 66px;
+  margin-bottom: 29px;
+}
+
+h2 {
+  font-size: 26px;
+  line-height: 43px;
+  margin-top: 47px;
+  margin-bottom: 18px;
+}
+
+h3 {
+  font-size: 20px;
+  line-height: 34px;
+  margin-top: 29px;
+  margin-bottom: 11px;
+}
+
+h4 {
+  font-size: 16px;
+  line-height: 29px;
+  font-weight: bold;
+  margin-bottom: 7px;
+}
+
+p,  ul,  ol,  blockquote,  pre,  .alert,  .note,  .box,  .footnotes {
+  margin-bottom: 29px;
+  color: rgba(0,0,0,0.7);
+}
+
+ul,  ol {
+  margin-left: 29px;
+}
+
+li {
+  margin-bottom: 11px;
+}
+
+blockquote {
+  padding-left: 18px;
+  border-style: solid;
+  border-color: rgba(0,0,0,0.15);
+  border-width: 0 0 0 7px;
+}
+
+sub,  sup {
+  padding: 0 1px;
+}
+
+code,  pre,  kbd {
+  font-size: 15px;
+}
+
+code {
+  background-color: rgba(0,0,0,0.08);
+  padding: 3px 4px;
+  border-radius: 7px;
+  margin: 0 1px;
+}
+
+pre {
+  padding: 11px;
+  border-style: solid;
+  border-color: rgba(0,0,0,0.15);
+  border-width: 0 0 0 7px;
+}
+
+kbd {
+  background-color: #fff;
+  padding: 3px 4px;
+  border-radius: 4px;
+  box-shadow: 0 0 4px 0 rgba(0,0,0,0.45);
+  margin: 0 1px;
+}
+
+.alert,  .note,  .box {
+  padding: 18px;
+}
+
+.footnotes {
+  font-size: 13px;
+  line-height: 24px;
+  padding-top: 18px;
+  border-top: 1px dotted rgba(0,0,0,0.15);
+}
+
+.footnotes p {
+  margin-bottom: 18px;
+}
+
+ul ul,  ul ol,  ol ul,  ol ol,  blockquote.right p,  blockquote.left p,  .alert :last-child,  .note :last-child,  .box :last-child,  .footnotes :last-child {
+  margin-bottom: 0;
+}
+
+li ul {
+  margin-top: 10px;
 }
