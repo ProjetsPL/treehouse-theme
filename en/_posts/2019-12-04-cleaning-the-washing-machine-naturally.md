@@ -24,7 +24,7 @@ There is a wide range of ready-made products for cleaning a washing machine. How
 
 ### Cleaning washing machine with baking soda
 
-![Cleaning washing machine with baking soda](/uploads/Czyszczenie pralki sodą.jpg "Cleaning washing machine with baking soda")
+![](/uploads/Czyszczenie pralki sodą.jpg)
 
 Bicarbonate, in other words - baking soda is quite a versatile substance. It is used mainly in the kitchen for baking purposes. It is also an ingredient of many home-made cosmetics, such as face masks and scrubs.
 
