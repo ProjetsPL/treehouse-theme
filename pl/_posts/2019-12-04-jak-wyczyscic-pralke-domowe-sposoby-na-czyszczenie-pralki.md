@@ -71,9 +71,8 @@ Samo przepłukanie pralki środkiem odkamieniającym może nie wystarczyć. Wszy
 
 ![](/uploads/Czyszczenie pralki - najważniejsze kwestie.jpg)
 
-{% tip %}
+{:.tip}
 Wymienione wyżej miejsca są najbardziej wystawione na brud, kamień oraz powstawanie pleśni. Dlatego należy zwrócić na nie szczególną uwagę. Systematyczne czyszczenie pralki ze szczególnym ich uwzględnieniem pozwoli uniknąć problemów w przyszłości..
-{% endtip %}
 
 ## Czym wyczyścić pralkę? Wyposażenie, które się sprawdza
 
