@@ -26,9 +26,9 @@ Asortyment farb przeznaczonych do czynności, jaką jest malowanie płytek, ofer
 
 Farba do płytek przeznaczona jest także do malowania metalu, szkła, betonu, tworzyw sztucznych oraz kamienia. Stosuje się następujące produkty:
 
-* Farby epoksydowe - preparaty tego rodzaju są odporne na ścieranie oraz na działanie detergentów. Rozcieńcza się je wodą. Ogromną zaletą jest fakt, że nie generują nieprzyjemnego zapachu.
-* Farby alkidowo-uretanowe - zwykle maluje się nimi metal, ale nadają się również do odświeżania kafli. Ich zaletą jest wysoka odporność na ścieranie, dlatego warto je wybrać do malowania płytek podłogowych.
-* Farby akrylowe do płytek - są one przeznaczone typowo do kafelków. W przeciwieństwie do zwykłych farb akrylowych są one odporne na działanie wilgoci. Można nimi malować również szkło oraz metal.
+* **Farby epoksydowe** - preparaty tego rodzaju są odporne na ścieranie oraz na działanie detergentów. Rozcieńcza się je wodą. Ogromną zaletą jest fakt, że nie generują nieprzyjemnego zapachu.
+* **Farby alkidowo-uretanowe** - zwykle maluje się nimi metal, ale nadają się również do odświeżania kafli. Ich zaletą jest wysoka odporność na ścieranie, dlatego warto je wybrać do malowania płytek podłogowych.
+* **Farby akrylowe do płytek** - są one przeznaczone typowo do kafelków. W przeciwieństwie do zwykłych farb akrylowych są one odporne na działanie wilgoci. Można nimi malować również szkło oraz metal.
 
 Zwykłe farby stosowane do ścian nie nadają się do czynności, jaką jest malowanie płytek łazienkowych, czy kuchennych, ponieważ zwyczajnie spłynęłyby one z gładkiej powierzchni. Jednak po odpowiednim zagruntowaniu glazury można użyć zwykłych farb lateksowych lub olejnych. Należy jedynie pamiętać, żeby były one odporne na mycie, ponieważ płytki kładzione są zazwyczaj w miejscach o podwyższonej wilgotności.
 
@@ -42,11 +42,11 @@ Należy mieć na uwadze, że inną farbę stosuje się do płytek podłogowych, 
 
 Zmiana wystroju pomieszczenia za pomocą farby do płytek nie jest trudna, jednak, aby efekt był zadowalający, należy się do tego odpowiednio przygotować:
 
-1. Wszelkie ubytki w kafelkach należy uzupełnić, aby powierzchnia do malowania była równa. Najlepiej do tego użyć silikonowego wypełniacza lub kleju.
-2. Płytki należy dokładnie umyć i odtłuścić przeznaczonym do tego preparatem. Powierzchnia powinna być idealnie sucha.
-3. Stare silikony powinny zostać usunięte. Po malowaniu należy je wymienić na świeże.
-4. Aby malowanie płytek było łatwiejsze, warto je zmatowić. Wtedy farba do kafelek lub grunt będą miały większą przyczepność do powierzchni. Należy do tego użyć drobnoziarnistego papieru ściernego lub gąbki ściernej. Szczególnie ważne jest wykonanie tej czynności w miejscach o wysokiej wilgotności (prysznic) oraz na posadzce. Następnie kafelki powinno się odpylić.
-5. Jeżeli gruntujesz płytki, należy dobrać odpowiedni preparat do stosowanej farby. Wystarczy nałożyć jedną lub dwie warstwy podkładu, zaczynając od fug.
+1. **Wszelkie ubytki w kafelkach należy uzupełnić**, aby powierzchnia do malowania była równa. Najlepiej do tego użyć silikonowego wypełniacza lub kleju.
+2. **Płytki należy dokładnie umyć i odtłuścić** przeznaczonym do tego preparatem. Powierzchnia powinna być idealnie sucha.
+3. **Stare silikony powinny zostać usunięte**. Po malowaniu należy je wymienić na świeże.
+4. **Aby malowanie płytek było łatwiejsze, warto je zmatowić**. Wtedy farba do kafelek lub grunt będą miały większą przyczepność do powierzchni. Należy do tego użyć drobnoziarnistego papieru ściernego lub gąbki ściernej. Szczególnie ważne jest wykonanie tej czynności w miejscach o wysokiej wilgotności (prysznic) oraz na posadzce. Następnie kafelki powinno się odpylić.
+5. **Jeżeli gruntujesz płytki, należy dobrać odpowiedni preparat do stosowanej farby**. Wystarczy nałożyć jedną lub dwie warstwy podkładu, zaczynając od fug.
 
 Przed malowaniem należy zabezpieczyć wszystkie elementy, które nie będą pokryte farbą, czyli wyłączniki świateł, kontakty, umywalki. Wystarczy do tego zwykła taśma malarska.
 
