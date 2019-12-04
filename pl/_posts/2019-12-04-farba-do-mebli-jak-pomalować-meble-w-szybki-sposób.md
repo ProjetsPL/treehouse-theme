@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-12-04
+date: 2019-12-03
 toc: true
 title: Farba do mebli - jak pomalować meble w szybki sposób?
 description: Farba do mebli to coraz częściej wybierany sposób na odświeżenie pomieszczenia.
