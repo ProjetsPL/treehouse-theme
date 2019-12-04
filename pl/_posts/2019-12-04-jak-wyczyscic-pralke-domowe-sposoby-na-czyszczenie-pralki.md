@@ -70,6 +70,8 @@ Do zwykłego przecierania zazwyczaj wystarczą miękkie szmatki. Można równie�
 
 Regularne czyszczenie pralki to czynność niezwykle ważna. Przede wszystkim pozwala ona na wydłużenie żywotności sprzętu, a także sprawia, że ubrania są dokładnie wyprane i pachną świeżością. Wybierając odpowiedni środek do czyszczenia pralki, warto wziąć pod uwagę domowe sposoby. Ich zaletą jest wysoka skuteczność przy jednoczesnym zachowaniu niskich kosztów. Środki takie, jak soda, ocet, czy kwasek cytrynowy powinny znaleźć się w każdym gospodarstwie domowym. Dlatego warto poświęcić chwilę, aby w ten łatwy sposób zadbać o pralkę. Zapewni to jej niezawodne działanie przez długi czas.
 
+## FAQ
+
 {% faqItem %}
 {% faqQuestion %}
 Czyszczenie pralki octem - jaka temperatura jest właściwa?
