@@ -12,7 +12,7 @@ Mebli, które się znudziły lub wyszły z mody, wcale nie trzeba wymieniać na 
 
 ## Farby do mebli - rodzaje
 
-![](/uploads/Farby do mebli - rodzaje.jpg)
+![Farby do mebli - rodzaje](/uploads/Farby do mebli - rodzaje.jpg "Farby do mebli - rodzaje")
 
 Producenci posiadają w swej ofercie różne farby do mebli, za pomocą których można je odświeżyć. Jednak wśród dostępnych produktów nie każdy nadaje się do wszystkich powierzchni. Zastanawiając się, czym pomalować meble, warto pomyśleć, na jakim efekcie najbardziej ci zależy. Na rynku istnieje wiele rodzajów farb.
 
@@ -37,7 +37,7 @@ Do malowania mebli należy użyć wałka z krótkim włosiem. W przypadku trudno
 
 Efekt oraz jego trwałość zależy głównie od zastosowanej farby do mebli, odpowiednio dobranej do przeznaczenia. Meble takie, jak komody, półki pod telewizor, czy kredensy są mało eksploatowane. Dlatego można do nich dobrać farby mniej trwałe - akrylowe, czy kredowe. Elementy wyposażenia znajdujące się w ogrodzie, kuchni, czy pokoju dziecięcym wymagają bardziej odpornych powierzchni. Tu sprawdzi się farba do mebli odporna na uszkodzenia mechaniczne.
 
-![](/uploads/Farba do mebli - dobry sposób na metamorfozę.jpg)
+![Farba do mebli - dobry sposób na metamorfozę](/uploads/Farba do mebli - dobry sposób na metamorfozę.jpg "Farba do mebli - dobry sposób na metamorfozę")
 
 Jeżeli odświeżany mebel będzie stał w pokoju dziecięcym, należy zadbać, aby stosowany do niego produkt był bezpieczny. W przypadku, gdy nałożona powłoka wydziela ostry zapach, mebel należy dokładnie wywietrzyć przed wstawieniem go do pokoju.
 
@@ -51,7 +51,7 @@ Jeżeli odnawiasz mebel wykonany jest z drewna warto zachować jego oryginalny r
 
 Meble pokryte okleiną, to element wyposażenia wielu mieszkań. Mimo, że wyszły one z mody, wciąż mogą odznaczać się ciekawą formą. Oryginalna kolorystyka takich mebli to często ciemne lub pomarańczowe brązy. Takie barwy stały się już niemodne, ponieważ nadają pomieszczeniom ciężkiego charakteru. Dlatego decydując się na metamorfozę mebli, warto wybierać jasne barwy. Biały kolor jest najbardziej uniwersalny. Zaletą białego wystroju jest także optyczne powiększenie pomieszczenia.
 
-![](/uploads/Biała farba do mebli - kolor uniwersalny.jpg)
+![Biała farba do mebli - kolor uniwersalny](/uploads/Biała farba do mebli - kolor uniwersalny.jpg "Biała farba do mebli - kolor uniwersalny")
 
 Jasne odcienie pasują do wielu aranżacji, w tym do stylu nowoczesnego, który obecnie dominuje w wielu wnętrzach. Decydując się na wystrój w takiej aranżacji, warto z bielą połączyć odcienie szarości.
 
