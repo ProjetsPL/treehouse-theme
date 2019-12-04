@@ -14,7 +14,9 @@ Czynnością, którą często zaniedbuje się w gospodarstwach domowych, jest cz
 
 Elementy pralki stale ulegają zabrudzeniom. Mają one kontakt nie tylko z brudem pochodzącym z pranych ubrań, ale narażone są na ciągły kontakt z wodą. **To może powodować powstawanie kamienia na grzałce, bębnie i filtrze.** Wówczas pralka będzie dłużej nagrzewała wodę, a światło w przewodach zmniejszy się - co obniży ciśnienie wody. Jeżeli osad z kamienia nie będzie regularnie usuwany, wspomniane części zostaną uszkodzone. Wygeneruje to dodatkowe koszty związane z naprawą urządzenia. Może okazać się nawet, że pralkę będzie trzeba wymienić na nową, ponieważ reperowanie popsutych elementów stanie się nieopłacalne. Można więc przyjąć, że czyszczenie pralki chroni sprzęt przed jego poważnymi uszkodzeniami.
 
-{{% warning %}} Stale obecna wilgoć, ciepło oraz słaby obieg powietrza w pralce sprzyja także powstawaniu grzybów i pleśni. Jest to niezwykle niebezpieczne dla zdrowia człowieka, ponieważ organizmy te wydzielają toksyczne substancje. Mają one wpływ na drogi oddechowe, układ nerwowy, a także skórę. Obecność pleśni w mieszkaniu może wywoływać alergie, uczucie zmęczenia oraz katar. Grzyby mogą również powodować swędzące wysypki skórne.{{% endwarning %}}
+{% warning %}
+Stale obecna wilgoć, ciepło oraz słaby obieg powietrza w pralce sprzyja także powstawaniu grzybów i pleśni. Jest to niezwykle niebezpieczne dla zdrowia człowieka, ponieważ organizmy te wydzielają toksyczne substancje. Mają one wpływ na drogi oddechowe, układ nerwowy, a także skórę. Obecność pleśni w mieszkaniu może wywoływać alergie, uczucie zmęczenia oraz katar. Grzyby mogą również powodować swędzące wysypki skórne.
+{% endwarning %}
 
 Nieprzyjemny zapach wydobywający się z pralki oraz nieświeże pranie to także efekty pleśni obecnej w urządzeniu. Aby uniknąć wymienionych wyżej problemów, konieczne jest dokładne i regularne czyszczenie pralki. Nie tylko zminimalizuje ono ryzyko awarii, ale również usprawni skuteczność działania.
 
