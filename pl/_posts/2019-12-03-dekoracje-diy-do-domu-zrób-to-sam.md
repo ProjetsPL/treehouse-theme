@@ -73,7 +73,7 @@ Twórcy ozdób DIY często zachęcają do upcyklingu, czyli ponownego wykorzysta
 
 Rośliny dla wielu są niezbędnym elementem wystroju wnętrza. Aby pięknie się prezentowały, muszą być nie tylko zdrowe, ale i posadzone w estetycznym pojemniku. W przeciwieństwie do zwykłych, sklepowych doniczek, te wykonane własnoręcznie metodą DIY zrób to sam - nadadzą wnętrzu niebanalnego charakteru.
 
-![](/uploads/6001210809_12a2e9aed9_o.jpg)
+![Zielone DIY](/uploads/Zielone DIY.jpg "Zielone DIY")
 
 Poniżej przedstawiono kilka inspiracji.
 
@@ -84,6 +84,6 @@ Poniżej przedstawiono kilka inspiracji.
 
 Ozdobą zyskującą na popularności jest tak zwany “las w słoiku”, czyli kompozycja z niewielkich roślin zamknięta w szklanym naczyniu. Taki miniaturowy ogródek łatwo wykonać samemu, co warto zrobić ze względu na jego niezwykły wygląd. Dekorację DIY można wykonać w dwóch wersjach - otwartej i zamkniętej, zależy to od rodzaju wykorzystywanych roślin. Instrukcje wykonania takiej dekoracji znajdziesz w Internecie.
 
-![](/uploads/light-bulb-3279742_1280.jpg)
+![Las w słoiku](/uploads/Las w słoiku.jpg "Las w słoiku")
 
 Samodzielna dekoracja wnętrz nie musi być trudnym zadaniem. Do wykonania ciekawych ozdób wystarczy tylko trochę chęci. Inspiracji w sieci nie brakuje, a z pomocą własnej wyobraźni łatwo można stworzyć coś niepowtarzalnego. Dekoracje DIY to świetny sposób na oszczędność, a ich tworzenie z pewnością przyniesie sporo satysfakcji.
