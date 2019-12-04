@@ -1,12 +1,11 @@
 ---
 layout: post
-date: 2019-12-04
+date: 2019-12-03
 toc: true
 title: Cleaning the washing machine naturally
 description: How to clean the washing machine naturally? Check out the best and the
   most effective methods of cleaning the washing machine. It’s easier than you think.
 image: "/uploads/Cleaning the washing machine naturally.jpg"
-published: false
 
 ---
 Cleaning the washing machine is a commonly neglected activity. Meanwhile, it is an important part of its maintenance. Ignoring the necessity to clean your washing machine may lead to some serious consequences. As a result, using such a device might not only be unpleasant, but also highly inefficient. For this reason one must remember about regular cleaning of the laundry machine.
