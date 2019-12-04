@@ -1,11 +1,18 @@
 # frozen_string_literal: true
 
+require "kramdown"
+require 'sanitize'
+
 module Jekyll
   class WarningBlock < Liquid::Block
 
     def render(context)
       text = super
-      "<p class='warning'>#{text}</p>"
+
+      html = Kramdown::Document.new(text).to_html
+      output = Sanitize.fragment(html, elements:['strong', 'b', 'i', 'em'])
+
+      "<p class='warning'>#{html}</p>"
     end
 
   end

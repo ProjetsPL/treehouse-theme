@@ -15,6 +15,6 @@ end
 
 Liquid::Template.register_tag('warning', Jekyll::WarningBlock)
 Liquid::Template.register_tag('tip', Jekyll::TipBlock)
-Liquid::Template.register_tag('faqItem', Jekyll::TipBlock)
-Liquid::Template.register_tag('faqQuestion', Jekyll::TipBlock)
-Liquid::Template.register_tag('faqAnswer', Jekyll::TipBlock)
+Liquid::Template.register_tag('faqItem', Jekyll::FaqItemBlock)
+Liquid::Template.register_tag('faqQuestion', Jekyll::FaqQuestionBlock)
+Liquid::Template.register_tag('faqAnswer', Jekyll::FaqAnswerBlock)

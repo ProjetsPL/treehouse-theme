@@ -5,7 +5,7 @@ module Jekyll
 
     def render(context)
       text = super
-      "<h2 itemprop='name'>#{text}</h2>"
+      "<h3 itemprop='name'>#{text}</h3>"
     end
 
   end

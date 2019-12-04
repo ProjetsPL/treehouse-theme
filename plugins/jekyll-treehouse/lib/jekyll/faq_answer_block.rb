@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 module Jekyll
-  class FaqQuestionBlock < Liquid::Block
+  class FaqAnswerBlock < Liquid::Block
 
     def render(context)
       text = super
