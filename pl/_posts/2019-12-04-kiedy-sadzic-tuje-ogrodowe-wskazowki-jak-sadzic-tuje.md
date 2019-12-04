@@ -27,7 +27,7 @@ Istnieje kilka gatunków żywotnika, a każdy z nich różni się między sobą 
 
 * **Wschodni** - ze względu na wysoką wrażliwość na chłody, gatunek ten należy do najrzadziej wybieranych. Nadaje się w cieplejsze regiony kraju, jednak wymaga dobrze nasłonecznionych miejsc. Żywotnik wschodni jest bardzo odporny na suszę i toleruje gleby o różnej kwasowości.
 
-> Jeśli tuje mają w przyszłości utworzyć żywopłot, najlepiej wybrać gatunek zachodni. Charakteryzuje się on średnim przyrostem (około 30 cm rocznie), wykształca niewiele szyszek i ma regularny kształt.
+> **Jeśli tuje mają w przyszłości utworzyć żywopłot, najlepiej wybrać gatunek zachodni.** Charakteryzuje się on średnim przyrostem (około 30 cm rocznie), wykształca niewiele szyszek i ma regularny kształt.
 
 Tuje wschodnie, które dorastają niewielkich rozmiarów (jeden metr), idealnie nadają się na skalniaki. Na kompozycje rabatowe warto wybierać rośliny o zróżnicowanych wzrostach i rozmiarach. Przy wyborze należy uwzględnić warunki, jakie panują w ogrodzie oraz rodzaj gleby, w której tuje będą rosnąć. Nie bez znaczenia jest także informacja kiedy sadzić tuje. Można uzyskać ją od sprzedającego przy zakupie iglaków.
 
