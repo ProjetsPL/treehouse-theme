@@ -78,7 +78,7 @@ Czyszczenie pralki octem - jaka temperatura jest właściwa?
 {% faqAnswer %}
 Czyszczenie pralki za pomocą octu należy wykonywać w najwyższej możliwej temperaturze. Przyspieszy to reakcję kwasu z kamieniem, co wzmocni siłę oczyszczania. Najlepiej nastawić program gotowania w 90°C.
 {% endfaqAnswer %}
-{% endfaq %}
+{% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
@@ -88,7 +88,7 @@ Czyszczenie pralki - jak wpływa na jej wytrzymałość?
 {% faqAnswer %}
 Regularnie wykonywane czyszczenie pralki to skuteczny sposób na przedłużenie jej trwałości. Nie dopuszczając do nagromadzenia kamienia w urządzeniu, można mieć pewność, że będzie ono działało bezawaryjnie przez długi czas.
 {% endfaqAnswer %}
-{% endfaq %}
+{% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
@@ -98,7 +98,7 @@ Ile kosztuje czyszczenie pralki?
 {% faqAnswer %}
 Koszt domowych sposobów na czyszczenie pralki to zaledwie kilka złotych. Wiąże się to jedynie z zakupem środków, takich jak ocet, soda lub kwasek cytrynowy. Jest to rozwiązanie o wiele tańsze, niż stosowanie specjalistycznych produktów do czyszczenia.
 {% endfaqAnswer %}
-{% endfaq %}
+{% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
@@ -108,4 +108,4 @@ Czyszczenie pralki - jak często powtarzać czynność?
 {% faqAnswer %}
 Odkamienianie pralki warto przeprowadzać raz w miesiącu. W ten sposób kamień i inne substancje nie zdążą się nagromadzić w urządzeniu. Dokładne czyszczenie elementów takich, jak filtry i pojemnik na proszek wystarczy wykonywać raz na pół roku.a.
 {% endfaqAnswer %}
-{% endfaq %}
+{% endfaqItem %}
