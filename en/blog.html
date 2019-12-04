@@ -9,9 +9,10 @@ layout: default
         <div class="article">
           {% if post.image %}
             <div class="article__image-box">
-              <a href="{{post.url | prepend: site.baseurl}}" class="article__image" style="background-image: url({{site.baseurl}}{{post.image}})"></a>
+              <a href="{{post.url | prepend: site.baseurl}}" class="article__image" style="background-image: url('{{site.baseurl}}{{post.image}}')"></a>
             </div>
           {% endif %}
+
           <div class="article__content">
             <h2 class="article__title">
               <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>

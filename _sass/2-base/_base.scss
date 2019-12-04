@@ -118,6 +118,10 @@ ul,  ol {
   margin-left: 29px;
 }
 
+ul ul, ol ol {
+  margin-left: 0px;
+}
+
 li {
   margin-bottom: 11px;
 }
@@ -125,8 +129,16 @@ li {
 blockquote {
   padding-left: 18px;
   border-style: solid;
-  border-color: rgba(0,0,0,0.15);
+  border-color: #04BF8A;
   border-width: 0 0 0 7px;
+  // font-weight: bold;
+  &:before {
+    content: "!!";
+    color: #04BF8A;
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 24px;
+  }
 }
 
 sub,  sup {

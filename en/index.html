@@ -3,15 +3,31 @@ layout: default
 ---
 
 <div class="container">
+  <!-- begin author -->
+  <section class="author">
+    <div class="author__inner">
+  <img src="{{site.baseurl}}{{site.author.image}}" alt="{{site.author.name}}" class="author__img">
+      <h1 class="author__job">{{ site.author.job }}</h1>
+      <p class="author__bio">TreeHouse is a platform where you can find many brilliant ideas for home and garden. Get inspired and find products that will meet all your expectations.</p>
+      <div class="author__more">
+        <a href="mailto:{{site.author.email}}?subject=Hello%20%F0%9F%91%8B" class="say-hello">Say hello</a>
+        <a href="/uk/about/" class="know-more">Know More</a>
+      </div>
+    </div>
+  </section>
+  <!-- end author -->
+
+
   {% if site.posts.size > 0 %}
     {% for post in site.posts %}
       {% if post.lang == 'en' %}
         <div class="article">
           {% if post.image %}
             <div class="article__image-box">
-              <a href="{{post.url | prepend: site.baseurl}}" class="article__image" style="background-image: url({{site.baseurl}}{{post.image}})"></a>
+              <a href="{{post.url | prepend: site.baseurl}}" class="article__image" style="background-image: url('{{site.baseurl}}{{post.image}}')"></a>
             </div>
           {% endif %}
+
           <div class="article__content">
             <h2 class="article__title">
               <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
