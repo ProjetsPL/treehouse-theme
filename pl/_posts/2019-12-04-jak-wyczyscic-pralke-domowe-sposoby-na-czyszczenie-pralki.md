@@ -43,7 +43,7 @@ Alternatywnym sposobem na czyszczenie pralki jest zastosowanie octu. **Jest to d
 Podobnie jak soda, ocet ma zdolność pochłaniania zapachów. Aby wyczyścić pralkę, do pojemnika na proszek należy wlać od jednego do dwóch litrów octu i nastawić pranie w wysokiej temperaturze. W ten sposób z pralki usunięty zostanie kamień, pleśnie oraz bakterie.
 
 {:.warning}
-Jedynym mankamentem przy zastosowaniu tej metody jest o**stry zapach octu, który może rozejść się po całym domu**. Jednak po odpowiednim wywietrzeniu pomieszczeń zapach szybko zniknie.
+Jedynym mankamentem przy zastosowaniu tej metody jest **ostry zapach octu, który może rozejść się po całym domu**. Jednak po odpowiednim wywietrzeniu pomieszczeń zapach szybko zniknie.
 
 Czyszczenie pralki octem warto zakończyć nastawieniem jeszcze jednego cyklu prania z dodatkiem proszku do prania. Jego zapach skutecznie zwalczy nieprzyjemną octową woń.
 
