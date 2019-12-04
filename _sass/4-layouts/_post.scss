@@ -71,6 +71,25 @@
   ul li, ol li {
     color: $gray;
   }
+
+
+
+  p.warning {
+    padding-left: 18px;
+    border-style: solid;
+    border-color: $warning;
+    border-width: 0 0 0 7px;
+    // font-weight: bold;
+
+    &:before {
+      content: "!!";
+      display: block;
+      color: $warning;
+      font-weight: bold;
+      vertical-align: top;
+      font-size: 24px;
+    }
+  }
 }
 
 /* Post Navigation */
