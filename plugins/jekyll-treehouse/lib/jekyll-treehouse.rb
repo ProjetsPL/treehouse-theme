@@ -2,6 +2,10 @@
 
 require "jekyll"
 require "jekyll/warning_block"
+require "jekyll/tip_block"
+require "jekyll/faq_item_block"
+require "jekyll/faq_question_block"
+require "jekyll/faq_answer_block"
 
 module Jekyll
   module Treehouse
@@ -10,3 +14,7 @@ module Jekyll
 end
 
 Liquid::Template.register_tag('warning', Jekyll::WarningBlock)
+Liquid::Template.register_tag('tip', Jekyll::TipBlock)
+Liquid::Template.register_tag('faqItem', Jekyll::TipBlock)
+Liquid::Template.register_tag('faqQuestion', Jekyll::TipBlock)
+Liquid::Template.register_tag('faqAnswer', Jekyll::TipBlock)
