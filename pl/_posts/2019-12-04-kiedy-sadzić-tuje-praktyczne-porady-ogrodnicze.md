@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2019-12-04
+date: 2019-12-03
 toc: true
-title: Kiedy sadzić tuje? Praktyczne porady ogrodnicze
+title: Kiedy sadzić tuje ogrodowe? Wskazówki, jak sadzić tuje
 description: Wiele osób zakładających własny ogródek decyduje się na tuje ogrodowe.
   Ich uprawa nie jest trudna. Sprawdź, kiedy sadzić tuje oraz jak je pielęgnować.
 image: "/uploads/Kiedy sadzić tuje ogrodowe. Wskazówki, jak sadzić tuje.jpg"
