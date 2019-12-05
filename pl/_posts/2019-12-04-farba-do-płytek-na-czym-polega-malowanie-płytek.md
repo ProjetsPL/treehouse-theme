@@ -84,7 +84,7 @@ Jaka farba do płytek jest najlepsza?
 {% faqAnswer %}
 Każda dostępna na rynku specjalna farba do płytek spełni swoje zadanie. Produkt powinien zostać dobrany pod względem własnych potrzeb i pożądanego efektu. Należy pamiętać o tym, aby do podłóg wybierać farby do płytek o najwyższej trwałości.
 {% endfaqAnswer %}
-{% endfaq %}
+{% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
@@ -94,7 +94,7 @@ Jaka farba do płytek ceramicznych będzie trwała?
 {% faqAnswer %}
 Najtrwalsze farby do płytek to te alkidowo-uretanowe. Ich największą zaletą jest wysoka odporność na ścieranie. Można nimi również malować elementy metalowe.
 {% endfaqAnswer %}
-{% endfaq %}
+{% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
@@ -104,7 +104,7 @@ Ile schnie farba do płytek?
 {% faqAnswer %}
 Pojedyncza warstwa farby do płytek schnie od 16 do 24 godzin. Jest to czas, który należy odczekać przed nałożeniem kolejnej powłoki. Samych właściwości farba do płytek może nabierać nawet do 20 dni.
 {% endfaqAnswer %}
-{% endfaq %}
+{% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
@@ -114,4 +114,4 @@ Ile kosztuje farba do płytek?
 {% faqAnswer %}
 Standardowa puszka farby do malowania płytek do koszt od 50 złotych w górę. Ceny produktów różnią się w zależności od producenta, jak rodzaju farby do płytek. Wliczając koszty narzędzi i dodatkowych materiałów, na renowację płytek można wydać nie więcej niż 200 zł.
 {% endfaqAnswer %}
-{% endfaq %}
+{% endfaqItem %}
