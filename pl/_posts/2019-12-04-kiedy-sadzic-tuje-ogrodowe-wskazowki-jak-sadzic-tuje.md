@@ -114,7 +114,7 @@ Jak sadzić tuje?
 {% faqAnswer %}
 Tuje ogrodowe należy sadzić w dołkach, co najmniej 2 razy większych niż bryła korzeniowa. Dno otworów powinno być wyłożone podłożem do iglaków. Rośliny powinno się sadzić pionowo, a po zasypaniu korzeni obficie podlane.
 {% endfaqAnswer %}
-{% endfaq %}
+{% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
@@ -124,7 +124,7 @@ Kiedy przycinać tuje?
 {% faqAnswer %}
 Przycinanie tuj można wykonywać przez okres od kwietnia aż do końca sierpnia. Tuje ogrodowe, których rozmiary sięgają poniżej 1 metra, nie powinny być przycinane. Po upływie sierpnia następne przycinanie należy zaplanować dopiero na wiosnę. Gałązki przycięte jesienią mogłyby przemarznąć i obumrzeć w zimie.
 {% endfaqAnswer %}
-{% endfaq %}
+{% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
@@ -134,4 +134,4 @@ Kiedy nawozić tuje?
 {% faqAnswer %}
 Tuje ogrodowe powinny być nawożone od wiosny do połowy lipca. Zabieg zwykle przeprowadza się raz w miesiącu. Jesienią można jeszcze nawozić rośliny, jednak stosowane preparaty powinny zawierać niewielkie ilości azotu.
 {% endfaqAnswer %}
-{% endfaq %}
+{% endfaqItem %}
