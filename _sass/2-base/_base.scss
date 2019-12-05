@@ -109,12 +109,12 @@ h4 {
   margin-bottom: 7px;
 }
 
-p,  ul,  ol,  blockquote,  pre,  .alert,  .note,  .box,  .footnotes {
+p,  ul:not(.section-nav),  ol,  blockquote,  pre,  .alert,  .note,  .box,  .footnotes {
   margin-bottom: 29px;
   color: rgba(0,0,0,0.7);
 }
 
-ul,  ol {
+ul:not(.section-nav),  ol {
   margin-left: 29px;
 }
 
@@ -132,7 +132,7 @@ blockquote {
   border-color: #04BF8A;
   border-width: 0 0 0 7px;
   // font-weight: bold;
-  
+
   &:before {
     content: "!!";
     color: #04BF8A;

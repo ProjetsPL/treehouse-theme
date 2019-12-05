@@ -84,7 +84,9 @@
     border-style: solid;
     border-color: $warning;
     border-width: 0 0 0 7px;
-    // font-weight: bold;
+    background: #dd114412;
+    padding-top: 10px;
+    padding-bottom: 10px;
 
     &:before {
       content: "!!";
@@ -92,7 +94,9 @@
       color: $warning;
       font-weight: bold;
       vertical-align: top;
-      font-size: 24px;
+      font-size: 40px;
+      margin-top: -20px;
+      margin-bottom: 10px;
     }
   }
 
@@ -101,7 +105,9 @@
     border-style: solid;
     border-color: $info;
     border-width: 0 0 0 7px;
-    // font-weight: bold;
+    background: #03a9f412;
+    padding-top: 10px;
+    padding-bottom: 10px;
 
     &:before {
       content: "i";
@@ -109,16 +115,48 @@
       color: $info;
       font-weight: bold;
       vertical-align: top;
-      font-size: 24px;
+      font-size: 40px;
+      margin-top: -20px;
+      margin-bottom: 10px;
+    }
+  }
+
+  li.list-yes, ul.list-yes li {
+    list-style: none;
+
+    &:before {
+      display: block;
+      float: left;
+      content: '✔';
+      margin-left: -23px;
+      color: $green;
+    }
+  }
+
+  li.list-no, ul.list-no li {
+    list-style: none;
+
+    &:before {
+      display: block;
+      float: left;
+      content: '×';
+      margin-left: -24px;
+      color: $warning;
+      font-size: 26px;
+      margin-top: -1px;
+      font-weight: bold;
     }
   }
 
   div[itemprop="mainEntity"] {
     margin-bottom: 20px;
     padding-left: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     border-style: solid;
     border-color: $green;
     border-width: 0 0 0 7px;
+    background: #04BF8A12;
     // font-weight: bold;
 
     h3 {
@@ -126,12 +164,14 @@
     }
 
     &:before {
-      content: "??";
+      content: "?";
       display: block;
       color: $green;
       font-weight: bold;
       vertical-align: top;
-      font-size: 24px;
+      font-size: 34px;
+      float: left;
+      margin-top: -20px;
     }
   }
 }
