@@ -147,6 +147,7 @@
       font-weight: bold;
     }
   }
+
   div[itemtype="http://schema.org/Question"] {
     margin-bottom: 20px;
     padding-left: 18px;
@@ -201,6 +202,25 @@
       padding-left: 0;
       margin-bottom: 0;
       margin-top: 0;
+    }
+  }
+
+  p.read-also {
+    &:before {
+      display: inline-block;
+      content: "⊕";
+      font-size: 26px;
+      float: left;
+      padding-right: 10px;
+      color: $green;
+      margin-top: -2px;
+    }
+
+    font-weight: bold;
+    padding: 20px 0 20px 20px;
+
+    a {
+      color: $green;
     }
   }
 }

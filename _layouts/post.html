@@ -55,6 +55,16 @@ layout: default
       </ul>
     </div>
 
+    <p>Przeczytaj również</p>
+
+    {% if page.previous.url and page.previous.lang == page.lang %}
+      {% include parts/article.html article=page.previous %}
+    {% endif %}
+
+    {% if page.next.url and page.next.lang == page.lang %}
+      {% include parts/article.html article=page.next %}
+    {% endif %}
+
     <div class="post__navigation">
       {% if page.previous.url and page.previous.lang == page.lang %}
         <a class="prev" href="{{site.baseurl}}{{page.previous.url}}">

@@ -29,6 +29,10 @@ Producenci posiadają w swej ofercie **różne farby do mebli**, za pomocą któ
 
 Przed przystąpieniem do **malowania mebla** należy go właściwie do tego przygotować. Wszystkie szuflady powinny zostać wyjęte, a gałki, uchwyty i zawiasy odkręcone. Powierzchnia powinna być zmatowiona, sucha i odpylona. **Do szlifowania należy użyć papieru ściernego** o odpowiedniej grubości. Wygodna w użyciu będzie gąbka ścierna.
 
+{% if page.previous.previous.url and page.previous.lang == page.lang %}
+  {% include post/check_also.md article=page.previous.previous %}
+{% endif %}
+
 {:.tip}
 
 Przed pokryciem powierzchni preparatem, jakim jest farba do mebli, warto pozbyć się z niej wszystkich rys i wgłębień. **Świeżo nałożone farby do mebli** mogłyby podkreślić takie defekty, dając nieestetyczne wykończenie. Płytkie rysy można zeszlifować, a te głębsze wypełnić kitem do drewna.
@@ -55,7 +59,7 @@ Jeżeli odnawiasz mebel wykonany jest z drewna warto zachować jego oryginalny r
 
 ## Biała farba do mebli - kolor uniwersalny
 
-Meble pokryte okleiną, to element wyposażenia wielu mieszkań. Mimo, że wyszły one z mody, wciąż mogą odznaczać się ciekawą formą. **Oryginalna kolorystyka** takich mebli to często ciemne lub pomarańczowe brązy. Takie barwy stały się już niemodne, ponieważ nadają pomieszczeniom ciężkiego charakteru. 
+Meble pokryte okleiną, to element wyposażenia wielu mieszkań. Mimo, że wyszły one z mody, wciąż mogą odznaczać się ciekawą formą. **Oryginalna kolorystyka** takich mebli to często ciemne lub pomarańczowe brązy. Takie barwy stały się już niemodne, ponieważ nadają pomieszczeniom ciężkiego charakteru.
 
 Dlatego decydując się na metamorfozę mebli, warto wybierać jasne barwy. **Biały kolor jest najbardziej uniwersalny,** ponadczasowy i niezwykle modny. Zaletą białego wystroju jest także optyczne powiększenie pomieszczenia.
 

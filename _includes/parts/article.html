@@ -1,0 +1,25 @@
+<div class="article">
+
+  {% if include.article.image %}
+    <div class="article__image-box">
+      <a href="{{include.article.url | prepend: site.baseurl}}" class="article__image" style="background-image: url('{{site.baseurl}}{{include.article.image}}')"></a>
+    </div>
+  {% endif %}
+
+  <div class="article__content">
+    <h2 class="article__title">
+      <a href="{{ include.article.url | prepend: site.baseurl }}">{{include.article.title}}</a>
+    </h2>
+
+    <div class="article__meta">
+      <span class="article__date">
+        Opublikowano
+        <time datetime="{{ include.article.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%m/%d/%Y" %}{{ include.article.date | date: date_format }}</time>
+      </span>
+    </div>
+
+    <p class="article__excerpt">{% if include.article.description %}{{ include.article.description }}{% else %}{{ include.article.content | strip_html | truncate: 130 }}{% endif %}</p>
+    <a href="{{ include.article.url | prepend: site.baseurl }}" class="read-more">Przeczytaj całość</a>
+  </div>
+
+</div>
