@@ -16,7 +16,7 @@ Mebli, które się znudziły lub wyszły z mody, wcale nie trzeba wymieniać na 
 
 Producenci posiadają w swej ofercie różne farby do mebli, za pomocą których można je odświeżyć. Jednak wśród dostępnych produktów nie każdy nadaje się do wszystkich powierzchni. Zastanawiając się, czym pomalować meble, warto pomyśleć, na jakim efekcie najbardziej ci zależy. Na rynku istnieje wiele rodzajów farb.
 
-{:.list-yes}
+{:.list-no}
 
 * **Emalie akrylowe** - ich spoiwem jest żywica akrylowa a rozcieńczalnikiem woda. Dzięki temu nie wydzielają dużo zapachu i szybko schną. Dają matowe, półmatowe lub błyszczące wykończenie. Są mało odporne na uszkodzenia mechaniczne, ale mogą wytrzymać trudne warunki pogodowe oraz promieniowanie UV. Dzięki temu z biegiem lat meble nie zmienią koloru. Taka farba do mebli nadaje się do elementów pokrytych okleiną.
 * **Farby ftalowe (alkidowe)** - podstawą ich składu są żywice alkidowe i oleje, co czyni je odpornymi na czynniki zewnętrzne. Powierzchnie nimi pokryte wytrzymają uszkodzenia mechaniczne, działanie wody i temperatury. Ich największą wadą jest ciężki zapach podczas malowania.
