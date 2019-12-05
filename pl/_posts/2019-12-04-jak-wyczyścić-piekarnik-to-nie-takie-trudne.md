@@ -94,7 +94,7 @@ Jak czyścić piekarnik żeby go nie uszkodzić?
 {% faqAnswer %}
 W celu uniknięcia uszkodzenia piekarnika wszystkie zabrudzenia przed czyszczeniem należy namoczyć. Dzięki temu nie będzie konieczne długotrwałe szorowanie, które mogłoby zarysować części. Uporczywe plamy można czyścić za pomocą szczotki z plastikowym włosiem. Jednak należy zachować przy tym ostrożność.
 {% endfaqAnswer %}
-{% endfaq %}
+{% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
@@ -104,7 +104,7 @@ Jak wyczyścić mocno zabrudzony piekarnik?
 {% faqAnswer %}
 Na mocno zabrudzony piekarnik doskonale sprawdzi się posmarowanie powierzchni specjalną pastą z sody. Działa ono w przypadku większości opornych zabrudzeń. Taki środek można przygotować łącząc sodę z ciepłą wodą oraz solą. Pozostawiony na kilkanaście minut lub nawet na całą noc, powinien zmiękczyć uporczywe plamy.
 {% endfaqAnswer %}
-{% endfaq %}
+{% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
@@ -114,4 +114,4 @@ Jak umyć piekarnik z termoobiegiem?
 {% faqAnswer %}
 Piekarnik z termoobiegiem można wyczyścić metodą parową. Do naczynia żaroodpornego wystarczy wlać wodę i sok z cytryny. Termoobieg w 170°C rozprowadzi parę po całym piekarniku. Po jego wystudzeniu wnętrze wystarczy przetrzeć miękką szmatką.
 {% endfaqAnswer %}
-{% endfaq %}
+{% endfaqItem %}
