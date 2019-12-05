@@ -5,7 +5,7 @@ module Jekyll
 
     def render(context)
       text = super
-      "<div itemscope itemprop='mainEntity' itemtype='https://schema.org/'>#{text}</div>"
+      "<div itemscope itemtype='http://schema.org/Question'>#{text}</div>"
     end
 
   end

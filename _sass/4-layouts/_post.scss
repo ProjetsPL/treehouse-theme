@@ -147,8 +147,7 @@
       font-weight: bold;
     }
   }
-
-  div[itemprop="mainEntity"] {
+  div[itemtype="http://schema.org/Question"] {
     margin-bottom: 20px;
     padding-left: 18px;
     padding-top: 10px;
@@ -172,6 +171,36 @@
       font-size: 34px;
       float: left;
       margin-top: -20px;
+    }
+  }
+
+  p.section-nav-header {
+    margin-bottom: 10px;
+  }
+
+  ul.section-nav {
+    list-style-type: decimal;
+    padding-left: 15px;
+    margin-left: 0;
+    font-size: 14px;
+    margin-bottom: 20px;
+
+    a {
+      // color: green;
+      color: $dark;
+      &:hover {
+        color: $green;
+      }
+    }
+    li {
+      margin-bottom: 0;
+    }
+    ul {
+      list-style-type: lower-latin;
+      margin-left: 15px;
+      padding-left: 0;
+      margin-bottom: 0;
+      margin-top: 0;
     }
   }
 }
