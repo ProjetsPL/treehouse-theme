@@ -104,7 +104,7 @@ DIY - co to dokładnie jest?
 {% faqAnswer %}
 DIY to sposób wykonywania wszelkiego rodzaju przedmiotów na własne potrzeby bez pomocy profesjonalistów. Wiąże się to zazwyczaj z jakimś twórczym hobby, takim jak szydełkowanie, malowanie, czy robienie na drutach. Jest to świetny sposób na rozwinięcie swojej kreatywności.
 {% endfaqAnswer %}
-{% endfaq %}
+{% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
@@ -114,7 +114,7 @@ Co znaczy DIY?
 {% faqAnswer %}
 DIY to skrót zapożyczony z języka angielskiego zwrotu _Do It Yourself,_ który oznacza “zrób to sam”. Termin ten obejmuje zarówno wykonywanie ozdób, jak i przedmiotów codziennego użytku, odzieży, a nawet kosmetyków.
 {% endfaqAnswer %}
-{% endfaq %}
+{% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
@@ -124,4 +124,4 @@ Jak ozdobić pokój DIY?
 {% faqAnswer %}
 Aby przystroić pomieszczenie, warto wykonać ozdoby zrób to sam DIY. Wiele inspiracji można znaleźć w Internecie lub w magazynach DIY. Ważne aby skomponowane dodatki odpowiednio ze sobą współgrały.
 {% endfaqAnswer %}
-{% endfaq %}
+{% endfaqItem %}
