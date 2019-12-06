@@ -48,12 +48,18 @@
   line-height: 29px;
   padding: 18px;
 
-  // .octicon.octicon-link {
-  //   &:before {
-  //     content: '#';
-  //     display: inline-block;
-  //   }
-  // }
+  ul.selectcountry__list {
+    list-style: none;
+    padding-left: 0;
+    margin-left: 0;
+    text-align: center;
+    
+    li {
+      display: inline-block;
+      padding: 0px 15px;
+      font-size: 18px;
+    }
+  }
 
   p {
     color: $gray;

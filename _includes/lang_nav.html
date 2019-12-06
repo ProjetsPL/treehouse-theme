@@ -8,9 +8,9 @@
 
           {% for item in posts %}
             {% if item.path == page.path %}
-              <a hreflang="{{item.lang}}" class="active">{{site.data.locales[item.lang].title}}text</a>
+              <a hreflang="{{item.full-lang}}" class="active">{{site.data.locales[item.lang].title}}text</a>
             {% else %}
-              <a hreflang="{{item.lang}}" href="{{item.url|absolute_url}}">{{site.data.locales[item.lang].title}}text</a>
+              <a hreflang="{{item.full-lang}}" href="{{item.url|absolute_url}}">{{site.data.locales[item.lang].title}}text</a>
             {% endif %}
           {% endfor %}
 

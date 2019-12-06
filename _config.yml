@@ -33,14 +33,39 @@ defaults:
     scope:
       path: ""
     values:
-      lang: ""
+      lang: "en"
+      full-lang: "en"
   -
     scope:
-      path: "en"
+      path: "us"
     values:
-      lang: "en"
+      lang: "us"
+      full-lang: 'en-US'
   -
     scope:
       path: "pl"
     values:
       lang: "pl"
+      full-lang: "pl"
+
+disqus-identifier: treehouse-co
+
+i18n:
+  pl:
+    read_more: "Przeczytaj całość"
+    published: "Opublikowano"
+    toc: "Spis treści"
+    read_also: "Przeczytaj również"
+    leave_comment: "Zostaw komentarz"
+  us:
+    read_more: "Read more"
+    published: "Published"
+    toc: "Table of Content"
+    read_also: "Read also"
+    leave_comment: "Leave a comment"
+  en:
+    read_more: "Read more"
+    published: "Published"
+    toc: "Table of Content"
+    read_also: "Read also"
+    leave_comment: "Leave a comment"

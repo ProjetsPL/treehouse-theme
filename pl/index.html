@@ -12,19 +12,27 @@ title: Treehouse
       <p class="author__bio">TreeHouse to miejsce, w którym znajdziesz wskazówki dotyczące domu i ogrodu. Zainspiruj się się pomysłami i znajdź produkty odpowiadające Twoim oczekiwaniom.</p>
       <div class="author__more">
         <a href="mailto:{{site.author.email}}?subject=Hello%20%F0%9F%91%8B" class="say-hello">Napisz do nas!</a>
-        <a href="/pl/o-treehouse/" class="know-more">Dowiedz się więcej</a>
+        <a href="/pl/" class="know-more">Dowiedz się więcej</a>
       </div>
     </div>
   </section>
-  <!-- end author -->
 
-  {% if site.posts.size > 0 %}
-    {% for article in site.posts limit:3 %}
-      {% if article.lang == 'pl' %}
 
-        {% include parts/article.html article=article %}
+  {% assign articles = site.posts | where:"lang", "pl" %}
 
-      {% endif %}
-    {% endfor %}
-  {% endif %}
+  {% for article in articles limit: 3 %}
+    {% include parts/article.html article=article %}
+  {% endfor %}
+
+  <article class="post">
+    <div class="post__content">
+
+      <h2>Zainspiruj się najnowszymi trendami</h2>
+      <p>Postaw na oryginalne aranżacje w swoim domu lub mieszkaniu. Zainspiruj się naszymi pomysłami dotyczącymi wnętrz domowych oraz ich dekoracji. W propozycjach Treehouse znajdziesz projekty, które charakteryzuje nowoczesny design. Wolisz klasykę? Przygotowaliśmy także nowe wydania tradycyjnego wystroju. Na naszej stronie znajdziesz także najnowsze trendy wnętrzarskie.</p>
+
+      <h2>Korzystaj z porad specjalistów</h2>
+      <p>Marzysz o pięknym domu lub ogrodzie, ale nie wiesz, od czego zacząć? Szukasz wskazówek dotyczących produktów, prac remontowych, czy wyboru sprzętu do mieszkania? Nie wiesz, jakie meble wybrać lub czy będą pasować do danego wnętrza? Nie musisz już więcej się martwić. Skorzystaj z podpowiedzi naszych specjalistów. Przygotowaliśmy dla Ciebie porady z różnych obszarów tematycznych.</p>
+
+    </div>
+  </article>
 </div>

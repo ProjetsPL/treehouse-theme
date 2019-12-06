@@ -1,8 +1,14 @@
 ---
 layout: default
 ---
-
 <div class="container">
+
+  <section class="author">
+    <div class="author__inner">
+      <h1 class="author__job">Blog</h1>
+    </div>
+  </section>
+
   {% if site.posts.size > 0 %}
     {% for article in site.posts %}
       {% if article.lang == 'pl' %}

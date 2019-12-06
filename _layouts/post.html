@@ -7,7 +7,7 @@ layout: default
   <article class="post">
     <div class="post__head">
       <div class="post__date">
-        <time datetime="{{ page.date | date_to_xmlschema }}">Data publikacji {{page.date | date: '%d-%m-%Y'}}</time>
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ site.i18n[page.lang].published }} {{page.date | date: '%d-%m-%Y'}}</time>
       </div>
 
       <h1 class="post__title">{{ page.title | escape }}</h1>
@@ -18,7 +18,7 @@ layout: default
     </div>
 
     <div class="post__content">
-      <p class="section-nav-header">Spis treści</p>
+      <p class="section-nav-header">{{ site.i18n[page.lang].toc }}</p>
       {{ content | toc }}
     </div>
 
@@ -54,8 +54,9 @@ layout: default
         </li>
       </ul>
     </div>
-
-    <p>Przeczytaj również</p>
+    {% if page.previous.url and page.previous.lang == page.lang or page.next.url and page.next.lang == page.lang %}
+      <p class="h2">{{ site.i18n[page.lang].read_also }}</p>
+    {% endif %}
 
     {% if page.previous.url and page.previous.lang == page.lang %}
       {% include parts/article.html article=page.previous %}
@@ -78,7 +79,7 @@ layout: default
         </a>
       {% endif %}
 
-      {% if page.next.url %}
+      {% if page.next.url and page.next.lang == page.lang %}
         <a class="next" href="{{site.baseurl}}{{page.next.url}}">
           <div class="next__post-icon">
             <svg enable-background="new 0 0 512 512" height="512" viewBox="0 0 512 512" width="512" xmlns="http://www.w3.org/2000/svg"><path d="m160 128.4 32.3-32.4 159.7 160-159.7 160-32.3-32.4 127.3-127.6z"/></svg>
@@ -91,7 +92,7 @@ layout: default
       {% endif %}
     </div>
 
-    {% include lang_nav.html %}
+    <!-- {% include lang_nav.html %} -->
 
     {% if site.disqus-identifier %}
       {% include show-disqus.html %}

@@ -16,27 +16,21 @@ layout: default
     </div>
   </section>
   <!-- end author -->
-</div>
 
-<div class="container">
+  {% assign articles = site.posts | where:"lang", "us" %}
+
+  {% for article in articles limit: 3 %}
+    {% include parts/article.html article=article %}
+  {% endfor %}
+
   <article class="post">
     <div class="post__content">
-      <h2>Select your country:</h2>
-      <ul class="selectcountry__list">
-        <li class="selectcountry__item">
-          <a class="selectcountry__link" href="/pl/">🇵🇱 Polska</a>
-        </li>
-        <li class="selectcountry__item">
-          <a class="selectcountry__link" href="/us/">🇺🇸 United States</a>
-        </li>
-      </ul>
 
       <h2>Get inspired with the latest trends</h2>
       <p>Bring the most original projects into your house. Get inspired with our best home decor ideas. On Treehouse you will find the most innovative project designs. Perhaps you are a traditionalist? We got you covered. We prepared some fresh designs of well-known classic forms. On our website you will find the latest trends and styles in interior design.</p>
 
       <h2>Ask our experts</h2>
       <p>You dream of a beautiful house or garden but you don’t know where to start? Are you looking for some guidance on choosing a product, making a renovation or furnishing your room? You are not sure which furniture to choose or whether it will fit your house? Worry no more. Refer to our specialists. We prepared the best an most original tips and tricks on various topics.</p>
-
 
     </div>
   </article>

@@ -1,4 +1,12 @@
 PATH
+  remote: plugins/amp-jekyll
+  specs:
+    amp-jekyll (1.0.3)
+      fastimage (>= 1.8.0)
+      jekyll (>= 3.0, < 5.0)
+      nokogiri (>= 1.6.0)
+
+PATH
   remote: plugins/jekyll-treehouse
   specs:
     jekyll-treehouse (0.0.1)
@@ -10,10 +18,6 @@ GEM
   specs:
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
-    amp-jekyll (1.0.3)
-      fastimage (>= 1.8.0)
-      jekyll (>= 3.0, < 5.0)
-      nokogiri (>= 1.6.0)
     coderay (1.1.2)
     colorator (1.1.0)
     concurrent-ruby (1.1.5)
@@ -92,7 +96,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  amp-jekyll
+  amp-jekyll!
   jekyll
   jekyll-seo-tag
   jekyll-sitemap

@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="container">
+  <section class="author">
+    <div class="author__inner">
+      <h1 class="author__job">Blog</h1>
+    </div>
+  </section>
+
+
+  {% assign articles = site.posts | where:"lang", "us" %}
+
+  {% for article in articles %}
+    {% include parts/article.html article=article %}
+  {% endfor %}
+</div>
