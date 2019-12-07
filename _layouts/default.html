@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+<html lang="{{ page.full-lang | default: site.lang | default: 'en' }}">
 
   {% include head.html %}
 
@@ -14,12 +14,29 @@
 
     {% include footer.html %}
 
-    <!-- begin js -->
-    <script src="{{ site.baseurl }}/assets/js/vendors/jquery-3.3.1.min.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/vendors/aos.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/vendors/jquery.fitvids.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/common.js"></script>
-    <!-- end js -->
+    <script type="text/javascript">
+      WebFontConfig = {
+        google: { families: [ 'Lora:400,400i,700|IBM+Plex+Mono' ] }
+      };
+      (function() {
+        var wf = document.createElement('script');
+        wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+      })();
+    </script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137223789-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-137223789-2');
+    </script>
   </body>
 
 </html>

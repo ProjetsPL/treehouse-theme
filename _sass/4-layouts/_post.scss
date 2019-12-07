@@ -53,7 +53,7 @@
     padding-left: 0;
     margin-left: 0;
     text-align: center;
-    
+
     li {
       display: inline-block;
       padding: 0px 15px;
@@ -286,7 +286,7 @@
     left: 0
   }
 
-  .post__nav-image ~ h2 {
+  .post__nav-image ~ .post__nav-title {
     padding-left: calc(70px + 15px);
     padding-right: 0;
   }
@@ -318,7 +318,7 @@
     left: auto;
   }
 
-  .post__nav-image ~ h2 {
+  .post__nav-image ~ .post__nav-title {
     padding-right: calc(70px + 15px);
     padding-left: 0;
   }
@@ -380,7 +380,7 @@
   }
 }
 
-.post__nav-image ~ h2 {
+.post__nav-image ~ .post__nav-title {
   padding-left: calc(70px + 15px);
 }
 

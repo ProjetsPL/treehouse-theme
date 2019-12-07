@@ -5,10 +5,17 @@ title: "" # the name of your site, e.g. ACME Corp.
 # Build settings
 markdown: kramdown
 permalink: /:categories/blog/:title:output_ext
+
 # Sass
 sass:
   sass_dir: _sass
   style: compressed
+
+exclude:
+  - config
+  - plugins
+  - Capfile
+  - README.md
 
 # Author Settings
 author:
@@ -21,7 +28,7 @@ author:
 plugins:
   - jekyll-sitemap
   - jekyll-toc
-  - amp-jekyll
+  # - amp-jekyll
   - jekyll-seo-tag
   - jekyll-treehouse
 

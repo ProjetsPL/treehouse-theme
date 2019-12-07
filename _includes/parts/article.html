@@ -2,7 +2,7 @@
 
   {% if include.article.image %}
     <div class="article__image-box">
-      <a href="{{include.article.url | prepend: site.baseurl}}" class="article__image" style="background-image: url('{{site.baseurl}}{{include.article.image}}')"></a>
+      <a href="{{include.article.url | prepend: site.baseurl}}" class="article__image" title="{{include.article.title}}" style="background-image: url('{{site.baseurl}}{{include.article.image}}')"></a>
     </div>
   {% endif %}
 
