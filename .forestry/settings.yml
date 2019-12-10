@@ -24,8 +24,8 @@ sections:
   templates:
   - blog-post
 - type: directory
-  path: en
-  label: EN
+  path: us
+  label: US
   create: all
   match: "**/*"
 upload_dir: uploads
