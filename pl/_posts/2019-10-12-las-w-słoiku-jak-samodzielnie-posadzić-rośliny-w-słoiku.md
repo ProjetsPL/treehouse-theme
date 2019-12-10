@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-12-10
+date: 2019-12-09
 toc: true
 title: Las w słoiku. Jak samodzielnie posadzić rośliny w słoiku?
 description: Rośliny w słoiku to efektywna i mało wymagająca ozdoba. Wiele osób zastanawia
@@ -101,3 +101,35 @@ Może się zdarzyć, że **rośliny w słoiku zaatakują szkodniki**. Czasami s�
 Po wykryciu owadów warto zastosować chemiczne **środki owadobójcze**. Po kilkunastu dniach aplikowania preparatów problem powinien się rozwiązać.
 
 **Las w słoiku to efektowna i mało wymagająca ozdoba. Jej największą zaletą jest samowystarczalność. Taki las w szkle jest niezwykle prosty w przygotowaniu. W przypadku braku chęci lub czasu na komponowanie takiej ozdoby, gotowe zestawy można nabyć w kwiaciarni. Warto posiadać taką piękną i niecodzienną dekorację.**
+
+## Las w słoiku - FAQ
+
+{% faqItem %}
+{% faqQuestion %}
+Las w słoiku - jakie rośliny wybierać?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Las w słoiku mogą tworzyć rośliny tropikalne, jak i sukulenty. Ważne, aby nie łączyć tych dwóch rodzajów. Rośliny w słoiku, które lubią wilgoć, powinny być szczelnie zamknięte, natomiast kaktusy nadają się do otwartych kompozycji.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+Las w słoiku - jak dbać o rośliny?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Z pewnymi wyjątkami, las w słoiku jest samowystarczalny. Rośliny w słoiku, który jest otwarty, powinny być regularnie podlewane. Zamknięty mikroklimat natomiast nie powinien być otwierany.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+Gdzie kupić las w słoiku?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Las w szkle można kupić w większości kwiaciarni lub w sklepach internetowych. Gotowe zestawy dostępne są w różnych rozmiarach. Największe słoje mogą kosztować nawet do 300 zł.
+{% endfaqAnswer %}
+{% endfaqItem %}
