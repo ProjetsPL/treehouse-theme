@@ -6,7 +6,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 30px 0;
+  padding: 10px 0 30px 0;
 }
 
 .logo {
@@ -19,7 +19,7 @@
 }
 
 .logo__image {
-  max-height: 50px;
+  width: 90px;
 }
 
 .nav__item {

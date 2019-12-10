@@ -1,6 +1,8 @@
 url: "https://treehouse.co" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "" # the name of your site, e.g. ACME Corp.
+logo: '/assets/img/logo.svg'
+icon: '/assets/img/01.png'
 
 # Build settings
 markdown: kramdown
@@ -19,8 +21,9 @@ exclude:
 
 # Author Settings
 author:
-  name: TreeHouse
-  image: '/assets/img/01.png'
+  name: TreeHouse.co
+  image: '/assets/img/logo.png'
+  logo: '/assets/img/logo.png'
   job: TreeHouse
   bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
   email: hello@treehouse.co
@@ -28,7 +31,7 @@ author:
 plugins:
   - jekyll-sitemap
   - jekyll-toc
-  # - amp-jekyll
+  - amp-jekyll
   - jekyll-seo-tag
   - jekyll-treehouse
 

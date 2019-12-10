@@ -109,7 +109,7 @@ h4, .h4 {
   margin-bottom: 7px;
 }
 
-p,  ul:not(.section-nav),  ol,  blockquote,  pre,  .alert,  .note,  .box,  .footnotes {
+p,  ul:not(.section-nav):not(.nav__list),  ol,  blockquote,  pre,  .alert,  .note,  .box,  .footnotes {
   margin-bottom: 29px;
   color: rgba(0,0,0,0.7);
 }
@@ -122,7 +122,7 @@ ul ul, ol ol {
   margin-left: 0px;
 }
 
-li {
+ul:not(.nav__list) li {
   margin-bottom: 11px;
 }
 

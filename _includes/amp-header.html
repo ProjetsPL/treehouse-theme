@@ -2,7 +2,7 @@
   <div class="amp-logo">
     <a href="{{ site.baseurl }}/">
     {%if site.logo %}
-      <img class="logo__image" src="{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }}">
+      <amp-img class="logo__image" src="{{ site.baseurl }}{{ site.logo }}" width="90" height="85" alt="{{ site.title }}">
     {% else %}
       {{ site.author.name }}
     {% endif %}
@@ -10,9 +10,13 @@
   </div>
 
   <nav class="amp-main-nav">
-    <ul>
-      <li>
-        <a href="{{site.baseurl}}/">Home</a>
+    <ul class="nav__list list-reset">
+      <li class="nav__item">
+        <a href="{{site.baseurl}}/{{page.lang}}/" class="nav__link">Home</a>
+      </li>
+
+      <li class="nav__item">
+        <a href="{{site.baseurl}}/{{page.lang}}/blog.html" class="nav__link">Blog</a>
       </li>
     </ul>
   </nav>

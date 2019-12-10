@@ -8,6 +8,12 @@ PATH
       pry
 
 PATH
+  remote: plugins/jekyll-sitemap
+  specs:
+    jekyll-sitemap (1.4.0)
+      jekyll (>= 3.7, < 5.0)
+
+PATH
   remote: plugins/jekyll-treehouse
   specs:
     jekyll-treehouse (0.0.1)
@@ -64,8 +70,6 @@ GEM
       sassc (> 2.0.1, < 3.0)
     jekyll-seo-tag (2.6.1)
       jekyll (>= 3.3, < 5.0)
-    jekyll-sitemap (1.4.0)
-      jekyll (>= 3.7, < 5.0)
     jekyll-toc (0.12.2)
       nokogiri (~> 1.9)
     jekyll-watch (2.2.1)
@@ -124,7 +128,7 @@ DEPENDENCIES
   capistrano-rvm
   jekyll
   jekyll-seo-tag
-  jekyll-sitemap
+  jekyll-sitemap!
   jekyll-toc
   jekyll-treehouse!
   rvm1-capistrano3
