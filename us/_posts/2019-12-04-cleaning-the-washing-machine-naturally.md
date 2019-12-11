@@ -30,7 +30,7 @@ There is a wide range of ready-made products for cleaning a washing machine. How
 
 ### Cleaning washing machine with baking soda
 
-![Cleaning washing machine with baking soda](/uploads/Czyszczenie pralki sodą.jpg "Cleaning washing machine with baking soda")
+![Cleaning washing machine with baking soda](/uploads/Cleaning washing machine with baking soda.jpg "Cleaning washing machine with baking soda")
 
 **Bicarbonate**, in other words - **baking soda** is quite a versatile substance. It is used mainly in the kitchen for baking purposes. It is also an ingredient of many home-made cosmetics, such as face masks and scrubs.
 
@@ -72,7 +72,7 @@ Just rinsing the **washing machine with a cleaning solution** might be not enoug
 * **Detergent drawer** - in this place mould is very likely to grow. If the washing machine was not cleaned for a very long time, the drawer should be removed from its socket and thoroughly scrubbed. It is best to use a sponge and an appropriate cleaning product, or soda. Apart from the drawer, the socket itself should be cleaned as well.
 * **Seal and other rubber parts** - those components are the most susceptible for damage from water. In front load types the most filth residues can be found under the door seal, therefore it should be cleaned regularly. The aforementioned paste made of vinegar and baking soda will be perfect for this purpose. Using it makes cleaning easy and quick.
 
-![Cleaning the washing machine - essential issues](/uploads/Czyszczenie pralki - najważniejsze kwestie.jpg "Cleaning the washing machine - essential issues")
+![Cleaning the washing machine - essential issues](/uploads/Cleaning the washing machine - essential issues.jpg "Cleaning the washing machine - essential issues")
 
 {:.warning}
 
