@@ -5,7 +5,7 @@ toc: true
 title: Modne meble ogrodowe z palet. Jak zrobić meble ogrodowe z palet?
 description: Meble ogrodowe z palet to popularny trend ostatnich sezonów. Meble z
   europalet to rozwiązanie tanie i ekologiczne. Ich wykonanie nie jest skomplikowane.
-image: ''
+image: "/uploads/Modne meble ogrodowe z palet. Jak zrobic meble ogrodowe z palet.jpg"
 
 ---
 **Żeby czas spędzony na odpoczynku w ogrodzie lub na tarasie był przyjemny, potrzebne są odpowiednie meble. Jednak wygodny zestaw wypoczynkowy może kosztować całkiem sporo. Tymczasem istnieje rozwiązanie, które jest nie tylko tanie, ale i oryginalne. Ciekawym i coraz bardziej popularnym rozwiązaniem są meble ogrodowe z palet. Ich wykonanie nie jest trudne i co najważniejsze nie wiąże się z dużymi wydatkami.**
