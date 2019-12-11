@@ -15,6 +15,8 @@ image: "/uploads/Dekoracje DIY do domu - zrób to sam.jpg"
 
 You don’t need to have any special abilities to create some elegant and **charming decorations**. Such DIY projects usually do not require spending a lot of money. All needed materials are within your reach. Very few, if any things are required to buy - and usually they are cheap. Naturally, total expenses differ from project to project. There is, however, plenty of **DIY ideas** that do not require buying anything, because everything you need you can find in your own house.
 
+{:.tip}
+
 **DIY projects** offer a lot of interesting interior design solutions. They often involve renovating old objects or creating brand new ones with the use of cheap materials. Individuals who seek for inexpensive ideas to furnish their households often collect old furniture. Then they **refurbish** them - by modifying, repainting or even combining several parts into one. Such unusual inventions result in unique **DIY decorations**, which combine remarkable style and functionality.
 
 ## DIY - paper crafts
@@ -61,11 +63,15 @@ String can be used as a decoration of many objects. Wrapping bottles, jars and *
 
 ![Do it yourself - something out of nothing!](/uploads/Zrób to sam - z wszystkiego, co masz pod ręką.jpg "Do it yourself - something out of nothing!")
 
+{:.tip}
+
 If you have a lot of **colourful buttons** at home, you can put them onto a wire or a string and make a hanging decoration. It will look great with some decorative ribbons attached. Buttons are also great when you want to make a small picture. Just sew them on a piece of fabric or **glue them onto a cardboard**, arranging them as you please.
 
 ## Don’t throw away - do it yourself!
 
 DIY makers often are supporters of movements such as upcycling - **transforming thrash and other used materials into art**. It’s not only ecological, but also highly economical. Giving a second life to objects which were meant to be thrown away is definitely worth the effort.
+
+{:.list-yes}
 
 * Instead of throwing away old **newspapers and magazines**, you can use them to prepare paper wicker. You can make impressive sculptures, **boxes**, vases and many other objects out of it.
 * You can repaint old tin cans or decorate them using **decoupage**. They can be used as decorative containers for pens or other small objects.
