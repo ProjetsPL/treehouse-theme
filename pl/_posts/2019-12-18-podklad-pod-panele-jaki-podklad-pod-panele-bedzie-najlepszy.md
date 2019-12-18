@@ -6,7 +6,6 @@ title: Podkład pod panele - jaki podkład pod panele będzie najlepszy?
 description: Podkład pod panele podłogowe to ważna część podłogi. Zastanawiając się,
   co wybrać pod panele, należy rozważyć kilka czynników. Pomoże to wybrać produkt.
 image: "/uploads/podklad-pod-panele-jaki-podklad-pod-panele-bedzie-najlepszy.jpg"
-published: false
 
 ---
 Po rozstrzygnięciu bardzo ważnej kwestii na temat tego, jakie panele podłogowe wybrać, należy zastanowić się także, jaki podkład pod panele będzie najlepszy. Jest to istotny element, od którego zależy między innymi trwałość podłogi. Za pomocą odpowiedniego materiału można również zniwelować pewne mankamenty podłogi lub pomieszczenia. Dlatego warto poświęcić odrobinę czasu, aby wybrać odpowiedni podkład pod panele.
