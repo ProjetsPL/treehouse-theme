@@ -1,12 +1,11 @@
 ---
 layout: post
-date: 2019-12-18
+date: 2019-12-17
 toc: true
 title: Nowoczesny salon - jak nowocześnie urządzić salon?
 description: Nowoczesny salon to marzenie wielu osób. Zastanawiając się, jak nowocześnie
   urządzić salon, warto zainspirować się modnymi stylami, na przykład skandynawskim.
 image: "/uploads/nowoczesny-salon-w-odpowiednim-stylu.jpg"
-published: false
 
 ---
 Salon jest jednym z najważniejszych pomieszczeń w każdym domu. Właśnie tutaj zazwyczaj organizuje się wszelkie spotkania towarzyskie. To pomieszczenie służy również do wypoczynku. Dlatego jego urządzenie może stanowić spore wyzwanie. Wystrój takiego wnętrza powinien być nie tylko przytulny, ale również zgodny z obowiązującymi trendami. Nowoczesny salon to połączenie estetyki i funkcjonalności.
