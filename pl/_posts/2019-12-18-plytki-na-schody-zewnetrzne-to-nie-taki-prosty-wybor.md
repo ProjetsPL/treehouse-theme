@@ -6,7 +6,6 @@ title: Płytki na schody zewnętrzne - to nie taki prosty wybór
 description: Wiele osób zastanawia się, jakie wybrać płytki na schody zewnętrzne.
   Przy wyborze warto zwrócić uwagę na kilka aspektów, które pomogą w podjęciu decyzji.
 image: "/uploads/plytki-na-schody-zewnetrzne-to-nie-taki-prosty-wybor-min.jpg"
-published: false
 
 ---
 Schody zewnętrzne to istotny element wykończenia domu. Najczęściej wybieranym materiałem do ich wyłożenia są kafelki. Głównym aspektem, który biorą pod uwagę osoby wybierające płytki na schody zewnętrzne, jest wygląd. Jednak przy takim zakupie należy zwrócić uwagę na szereg innych, równie istotnych kwestii. Żeby wykończenie schodów było trwałe przez długie lata, powinno ono łączyć w sobie zarówno estetykę, jak i najlepsze właściwości wytrzymałościowe.
