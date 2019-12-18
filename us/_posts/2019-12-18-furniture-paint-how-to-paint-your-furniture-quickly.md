@@ -7,7 +7,6 @@ description: " Furniture paint is a good idea for a quick, inexpensive makeover.
   is the best furniture paint that will make the room look great? Learn some useful
   tricks!"
 image: "/uploads/Farba do mebli - jak pomalować meble w szybki sposób.jpg"
-published: false
 
 ---
 You don’t have to throw away your old furniture if its only flaw is being out-of-date. If you just realized that your furnishing is boring, consider renovating it. Something so simple as brand new colour will give the room a surprisingly fresh look. Furniture paint might unearth the hidden potential of your old furniture. However one must be careful to choose the right product. In this way you can be sure that the makeover will be successful.
