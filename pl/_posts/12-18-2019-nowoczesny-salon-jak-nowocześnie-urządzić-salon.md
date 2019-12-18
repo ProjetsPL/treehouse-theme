@@ -52,6 +52,7 @@ Konkretny styl, w którym urządzony jest nowoczesny salon, nie jest tak naprawd
 Wszystkie **współczesne wnętrza** charakteryzują pewne cechy wspólne. Powinny zostać one uwzględnione w każdym pomieszczeniu. Nowoczesny salon musi zatem odznaczać się następującymi elementami:
 
 {:.list-yes}
+
 * **Odpowiednie oświetlenie** - nowoczesne salony wyróżniają się jasnymi przestrzeniami. Do wnętrza należy wpuścić jak najwięcej naturalnego światła. Jeżeli pokój jest niewielki, można z powodzeniem **zrezygnować z zasłon i firanek**. Również same lampy powinny dobrze oświetlać cały pokój - warto zastosować kilka rodzajów oświetlenia (przykładowo sufitowe i ścienne).
 * **Otwarta przestrzeń** - nie należy przytłaczać pokoju zbyt dużą ilością przedmiotów. W niewielkich przestrzeniach sprawdzą się meble na nóżkach - mają one “lżejszy” wygląd. **Elementy wyposażenia** powinny odznaczać się prostotą, można jednak wybrać kilka nietypowych, ozdobnych form.
 * **Dobrane dodatki** - dekoracje powinny stylistycznie do siebie pasować. Należy także zachować **umiar**. Zbyt wiele ozdób stworzy wrażenie bałaganu, co nie sprzyja nowoczesnemu wyglądowi.
