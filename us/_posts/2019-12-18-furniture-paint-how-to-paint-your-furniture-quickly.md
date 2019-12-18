@@ -18,15 +18,13 @@ There are a lot of types of furniture paint available. Such product is perfect f
 * **Acrylic paint** - acrylic resin acts here as a binder, whereas water is the diluter. Because of that, this kind of furniture paint dries quickly and the smell is relatively weak. They give either satin, semi-gloss or high-gloss finish. The surface is quite **susceptible to physical damage**, however it is weatherproof. It UV light resistant, therefore its colour will not change in the future. Such furniture paint is good for painting objects covered with veneer.
 * **Oil paint (alkyd paint)** - its main ingredients are alkyd resin and oils, thanks to which the paint is **weatherproof**. Surfaces covered with oil furniture paint are resistant to physical damage, water and temperature.
 
-  {:.warning}
-
-  Its biggest drawback is the acrid smell of the fumes.
+  **Its biggest drawback is the acrid smell of the fumes.**
 * **Chalk paint** - it is made of water, chalk powder and some pigment. Thanks to the simplicity of its composition you can easily prepare such paint at home. It provides a matte finish, dries quickly and does not smell. Chalk furniture paint is **ecological** and therefore suitable for children’s bedroom. It is not resistant against physical damage and weather, hence it should be coated with **additional layer of varnish or wax**. Chalk paint is perfect for furniture distressing techniques.
 * **Stain and varnish** - if you want to highlight the wood pattern, the most suitable products are varnish and stain. Stain might be coloured, but it doesn’t cover the natural pattern. Depending on the type of the product, varnishes and stains can give matt, semi-gloss or **high-gloss finish**. Water-based varnish does not smell and dries quickly, however it can be easily damaged. Alternatively you can use **polyurethane varnish**, but keep in mind that it might darken in time.
 
 ![Types of furniture paint](/uploads/Farby do mebli - rodzaje.jpg "Types of furniture paint")
 
-* **Renovation paint** - such paints are produced specifically for the purpose of furniture renovation. They are suitable for wood, laminate and plywood, as well as ceramic tiles. This type of furniture paint is highly **resistant to any kind of damage**.   
+* **Renovation paint** - such paints are produced specifically for the purpose of furniture renovation. They are suitable for wood, laminate and plywood, as well as ceramic tiles. This type of furniture paint is highly **resistant to any kind of damage**.  
   {:.warning}
 
   The biggest disadvantage of using them is a very long time to dry (even 12 hours). They should be applied at least twice.
