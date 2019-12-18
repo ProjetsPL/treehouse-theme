@@ -5,7 +5,7 @@ toc: true
 title: How to clean an oven? The best oven cleaners and home remedies
 description: How to clean oven effectively? It doesn’t have to be very complicated.
   There are a lot of home remedies that will help you prepare the best oven cleaners.
-image: "/uploads/Jak wyczyścić piekarnik - To nie takie trudne.jpg"
+image: "/uploads/Jak wyczyscic piekarnik - To nie takie trudne.jpg"
 
 ---
 Cleaning an oven is not quite the most pleasurable activity. For this reason you are most likely want to “do it later” - which leads to even bigger mess in your kitchen. The old dirt becomes more difficult to remove and you are getting more and more frustrated. Fortunately there are many quick and easy methods to help you. Thanks to the oven cleaners shown below you will finally stop wondering how to clean your oven.
@@ -20,7 +20,7 @@ There are many **commercial oven cleaners** available to buy. However their comp
 
 So how to clean the oven? Fortunately there are plenty of natural oven cleaners that are **eco-friendly, safe and most importantly - effective**.
 
-![How to clean oven? Oven cleaners and cleaning hacks](/uploads/Czym wyczyścić piekarnik.jpg "How to clean oven? Oven cleaners and cleaning hacks")
+![How to clean oven? Oven cleaners and cleaning hacks](/uploads/Czym wyczyscic piekarnik.jpg "How to clean oven? Oven cleaners and cleaning hacks")
 
 ### Oven cleaners for light stains
 
@@ -45,7 +45,7 @@ The most popular methods use mixtures of substances such as:
 * **Baking soda, dish soap and vinegar** - mix those substances as follows: half a glass of soap, half a glass of vinegar and 5-10 tablespoons of baking soda. How to clean the oven with this method? Set the temperature to 50°C and turn the oven off once it warms up. Spread the paste in the oven and leave it overnight. Next day just clean it with warm water and leave it to dry.
 * **Baking soda, salt and hot water** - mix the soda and water 1:1 and add two teaspoons of salt. Place the paste onto every stained spot and leave it for 5 min to 12 hours. Clean the oven afterwards **using a sponge or a brush**. Rinse it with clean water and dry with a cloth or paper towel.
 
-![How to clean oven - old dirt](/uploads/Jak umyć piekarnik z trwałych zanieczyszczeń.jpg "How to clean oven - old dirt")
+![How to clean oven - old dirt](/uploads/Jak umyc piekarnik z trwalych zanieczyszczen.jpg "How to clean oven - old dirt")
 
 ## How to clean a self cleaning oven?
 
