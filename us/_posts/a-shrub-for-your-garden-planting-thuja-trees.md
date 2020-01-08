@@ -7,7 +7,6 @@ description: Evergreen plants are important part of every garden. What is the be
   shrub to plant? Thuja might be a good choice. It can be planted either as a tree
   or shrub.
 image: "/uploads/shrub-for-your-garden.jpg"
-published: false
 
 ---
 Thuja trees are quite popular plants growing in many gardens. They can be used as windscreens, thick hedges and shrubs. Thuja is an evergreen, pollution and heat resistant plant. It grows pretty quick and is quite resilient. If you are designing your own garden, you should consider choosing such a plant, for instance thuja green giant. It is worth to learn how to take care of a thuja, so that it is always beautiful and healthy.
