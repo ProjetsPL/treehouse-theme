@@ -26,6 +26,7 @@ Painting furniture is possible even when the surfaces are scratched and slightly
 Manufacturers provide a great variety of products that can be used to paint kitchen furniture. A good paint can cover the whole surface and hide small flaws. The most **popular paints** that can be used for kitchen furniture include:
 
 {:.list-yes}
+
 * **Acrylic paint** - this type is the most universal of all. They are highly resistant to scratching and UV lighting - therefore they won’t turn yellow after some time. Paint of this type dries very fast and is odourless.
 * **Renovation paint** - it can be used both for wooden and ceramic surfaces. Such type of product is used for **kitchen furniture as well as for ceramic tiles**. The product is resistant to mechanical damage, high temperature and dirt.
 * **Chalk paint** - it is one of the most eco-friendly type of paint. Such products typically have a wide variety of pastel colours. Depending on the type, chalk paints can give matte or satin finish. They are perfect for creating an ombre effect. They are good for painting kitchen furniture, however they require adding a protective layer of varnish or wax. Without it they are prone to damage.
@@ -74,3 +75,45 @@ A standard number is **two layers** of paint. It is best to apply the paint with
 Make sure that the layers are **as thin as possible**. This will result in an even and smooth surface. Remember that paint needs up to 20 days to fully cure. Before it happens, be careful not to damage the delicate surface. If you need to clean it, use a **soft cloth or a sponge**.
 
 **Restoring kitchen furniture** does not have to be very expensive. **Painting furniture** is a simple solution for a quick and cheap renovation. A good **furniture paint**, right tools and correct preparation guarantee a satisfying result. Such an easy procedure is a good way to transform your kitchen while spending as little as possible.
+
+## Painting kitchen furniture - FAQ
+
+{% faqItem %}
+{% faqQuestion %}
+How to clean wood furniture before painting?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Wash all surfaces with a detergent and degrease them. For this purpose you can use gasoline or acetone, however any degreaser you have will suffice.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+How to prepare furniture for painting?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Remove any knobs and handles and fill any holes and dents with wood adhesive. Sand the surfaces so that the paint sticks better.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+How to remove wax from furniture before painting?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+If the wax is soft (it come off when scratching the surface with a fingernail), it can be removed with mineral spirits. For harder and older surfaces, use a wax removal product.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+How to sand furniture for painting?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Use a 240 sanding paper or sanding sponge. Be careful with laminate furniture - to sand it, use 400 grit and work delicately to not to damage the surface.
+{% endfaqAnswer %}
+{% endfaqItem %}
