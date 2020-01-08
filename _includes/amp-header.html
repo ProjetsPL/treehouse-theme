@@ -1,8 +1,8 @@
 <header class="amp-header">
   <div class="amp-logo">
-    <a href="{{ site.baseurl }}/">
+    <a href="{{ site.baseurl }}/{{ page.lang }}/">
     {%if site.logo %}
-      <amp-img class="logo__image" src="{{ site.baseurl }}{{ site.logo }}" width="90" height="85" alt="{{ site.title }}">
+      <amp-img class="logo__image" src="{{ site.baseurl }}{{ site.logo_svg }}" width="90" height="85" alt="{{ site.i18n[page.lang].title }}">
     {% else %}
       {{ site.author.name }}
     {% endif %}

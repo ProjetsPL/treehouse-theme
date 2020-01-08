@@ -7,9 +7,9 @@
 .article__image-box {
   display: table;
   margin-right: 30px;
-  @media (max-width: $mobile) {
-    display: none;
-  }
+  // @media (max-width: $mobile) {
+  //   display: none;
+  // }
 }
 
 .article__image {

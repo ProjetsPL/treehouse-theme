@@ -1,7 +1,8 @@
 url: "https://treehouse.co" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "" # the name of your site, e.g. ACME Corp.
-logo: '/assets/img/logo.svg'
+logo: '/assets/img/logo.png'
+logo_svg: '/assets/img/logo.svg'
 icon: '/assets/img/01.png'
 
 # Build settings
@@ -67,15 +68,19 @@ i18n:
     toc: "Spis treści"
     read_also: "Przeczytaj również"
     leave_comment: "Zostaw komentarz"
+    title: 'Zainspiruj się i stwórz z nami swój wymarzony dom! - Treehouse'
   us:
     read_more: "Read more"
     published: "Published"
     toc: "Table of Content"
     read_also: "Read also"
     leave_comment: "Leave a comment"
+    title: 'Get inspired and create your dream home with us! - Treehouse'
+
   en:
     read_more: "Read more"
     published: "Published"
     toc: "Table of Content"
     read_also: "Read also"
     leave_comment: "Leave a comment"
+    title: 'Get inspired and create your dream home with us! - Treehouse'
