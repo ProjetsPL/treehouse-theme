@@ -8,7 +8,7 @@ description: Malowanie mebli kuchennych to świetny sposób na tanią metamorfoz
 image: "/uploads/Malowanie mebli kuchennych - jak odnowic meble kuchenne.jpg"
 
 ---
-**Remont kuchni może okazać się bardzo kosztowny. Takie przedsięwzięcie pochłania także spore ilości czasu. W duchu modnego obecnie DIY wiele osób decyduje się na malowanie mebli kuchennych. Tego typu rozwiązanie jest zdecydowanie tańsze od zakupu zupełnie nowych elementów wyposażenia. Nie oznacza to jednak, że efekt będzie gorszy - wręcz przeciwnie. Malowanie szafek kuchennych to świetny sposób na całkowitą metamorfozę kuchni.**
+Remont kuchni może okazać się bardzo kosztowny. Takie przedsięwzięcie pochłania także spore ilości czasu. W duchu modnego obecnie DIY wiele osób decyduje się na malowanie mebli kuchennych. Tego typu rozwiązanie jest zdecydowanie tańsze od zakupu zupełnie nowych elementów wyposażenia. Nie oznacza to jednak, że efekt będzie gorszy - wręcz przeciwnie. Malowanie szafek kuchennych to świetny sposób na całkowitą metamorfozę kuchni.
 
 ## Renowacja mebli kuchennych - od czego zacząć?
 
