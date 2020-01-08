@@ -8,7 +8,7 @@ description: Wiele osób zakładających własny ogródek decyduje się na tuje 
 image: "/uploads/Kiedy sadzić tuje ogrodowe. Wskazówki, jak sadzić tuje.jpg"
 
 ---
-**Tuje ogrodowe to jeden z najpopularniejszych rodzajów iglaków obecnych w polskich ogrodach. Wykorzystuje się je jako osłony przeciwwiatrowe, żywopłoty oraz gęste szpalery. Są zimozielone, wytrzymałe i szybko rosną. Osoby zakładające własny ogród mogą zastanawiać się nad wieloma kwestiami, przykładowo - kiedy sadzić tuje. Warto poznać sposoby pielęgnacji tych roślin, aby długo były zdrowe i piękne.**
+Tuje ogrodowe to jeden z najpopularniejszych rodzajów iglaków obecnych w polskich ogrodach. Wykorzystuje się je jako osłony przeciwwiatrowe, żywopłoty oraz gęste szpalery. Są zimozielone, wytrzymałe i szybko rosną. Osoby zakładające własny ogród mogą zastanawiać się nad wieloma kwestiami, przykładowo - kiedy sadzić tuje. Warto poznać sposoby pielęgnacji tych roślin, aby długo były zdrowe i piękne.
 
 ## Tuje ogrodowe - rośliny uniwersalne
 
@@ -31,7 +31,7 @@ Istnieje kilka gatunków żywotnika, a każdy z nich różni się między sobą 
 
 * **Wschodni** - ze względu na wysoką wrażliwość na chłody, gatunek ten należy do najrzadziej wybieranych. Nadaje się w cieplejsze regiony kraju, jednak **wymaga dobrze nasłonecznionych miejsc**. Żywotnik wschodni jest bardzo odporny na suszę i toleruje gleby o różnej kwasowości.
 
-Jeśli tuje mają w przyszłości utworzyć **żywopłot**, najlepiej wybrać gatunek zachodni. Charakteryzuje się on średnim przyrostem (około 30 cm rocznie), wykształca niewiele szyszek i ma regularny kształt. 
+Jeśli tuje mają w przyszłości utworzyć **żywopłot**, najlepiej wybrać gatunek zachodni. Charakteryzuje się on średnim przyrostem (około 30 cm rocznie), wykształca niewiele szyszek i ma regularny kształt.
 
 Tuje wschodnie, które dorastają niewielkich rozmiarów (jeden metr), **idealnie nadają się na skalniaki**. Na kompozycje rabatowe warto wybierać rośliny o zróżnicowanych wzrostach i rozmiarach. Przy wyborze należy uwzględnić warunki, jakie panują w ogrodzie oraz rodzaj gleby, w której tuje będą rosnąć. Nie bez znaczenia jest także informacja **kiedy sadzić tuje**. Można uzyskać ją od sprzedającego przy zakupie iglaków.
 
