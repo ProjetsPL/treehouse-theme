@@ -6,7 +6,6 @@ title: Sufit napinany - czym dokładnie wyróżniają się sufity napinane?
 description: Sufit napinany to dobra alternatywa dla regipsów. Może on ukryć wady
   sufitu właściwego i obniżyć strop. Warto wziąć sufit napinany pod uwagę przy remoncie.
 image: "/uploads/sufit-napinany.jpg"
-published: false
 
 ---
 Często zdarza się, że naprawa zniszczonego stropu jest zbyt pracochłonna i kosztowna. Popularnym rozwiązaniem są sufity podwieszane. Taka metoda skutecznie zakrywa wszelkie mankamenty. Znacznie lżejszym i szybszym sposobem jest sufit napinany. Zamiast stosowania regipsów, nieestetyczną powierzchnię zakrywa się płachtą wykonaną z tworzywa lub tkaniny. Jeżeli w pomieszczeniu znajduje się mało atrakcyjny strop, warto rozważyć taką metodę.
