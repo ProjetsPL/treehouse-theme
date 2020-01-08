@@ -6,7 +6,7 @@ title: Terrarium - your miniature garden. How to make a terrarium?
 description: Terrarium is a very unusual, low-effort decoration. You might wonder
   how to make a terrarium. It is very easy to prepare - you don’t need any complicated
   tools.
-image: "/uploads/Las w słoiku - Jak samodzielnie posadzić rośliny w słoiku.jpg"
+image: "/uploads/terrarium-your-miniature-garden.jpg"
 
 ---
 Terrarium is an increasingly popular home decoration. Such project is very easy to make and it fits every home decor style. Terrarium plants look very interesting in a glass container. They will fascinate anyone visiting your house. What’s more, they are perfect plants for busy people who don’t have time to remember to water them. You won’t spend much time on taking care of terraria, as they are practically self-supporting.
@@ -27,7 +27,7 @@ Making your own **terrarium** does not require any special skills. All you need 
 {:.tip}
 Preparing a **terrarium**, you have two options. You can make a closed terrarium and seal the container so the plants thrive in their own climate. You can also make an open decoration that needs to be watered from time to time. The type of plants that you will choose depends on this decision.
 
-![How to pick the right terrarium plants?](/uploads/Jakie wybrać rośliny do lasu w słoiku.jpg "How to pick the right terrarium plants?")
+![How to pick the right terrarium plants?](/uploads/how-to-pick-the-right-terrarium-plants.jpg "How to pick the right terrarium plants?")
 
 Closed vessels may contain **tropical plants** and the ones that like humidity. Slow growing plants will be the best choice - they won’t change their appearance very much for a long time.
 
@@ -68,7 +68,7 @@ If your composition will be placed in an open container, you should choose plant
 * **Activated charcoal** - you can purchase it at the pharmacy or in a pet shop. **Charcoal is going to regulate the level of humidity in a closed container**. It will also prevent the plants from rotting. You can skip this part in case of an open container.
 * **Gravel or sand** - terrarium needs a drainage layer. material such as sand or gravel gather the excess of water and **protect the roots from drenching**. You can also use keramsite for this purpose.
 
-![Gravel or sand](/uploads/Żwirek lub piasek.jpg "Gravel or sand")
+![Gravel or sand](/uploads/gravel-or-sand.jpg "Gravel or sand")
 
 ### Making a terrarium
 
@@ -82,7 +82,7 @@ If you prepared all the needed elements, you can start making your **DIY terrari
 6. Place the **decorations** - cones, pebbles, tree bark and moss. **Do not place heavy stones on the moss**, as it could make it rot.
 7. The last stage is watering your **terrarium**. It is best to use a pipette and pour around 10-15 millilitres of water. Then **tightly close** the container (if it’s closed terrarium).
 
-![Making a terrarium](/uploads/Jak zrobić las w słoiku.jpg "Making a terrarium")
+![Making a terrarium](/uploads/making-a-terrarium.jpg "Making a terrarium")
 
 ## How to plant a terrarium?
 
@@ -116,7 +116,7 @@ How to take care of a terrarium?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Terrarium should be self-sufficient, with some exceptions. Open terrarium plants should be watered regularly. Closed terrarium should not be opened. 
+Terrarium should be self-sufficient, with some exceptions. Open terrarium plants should be watered regularly. Closed terrarium should not be opened.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
