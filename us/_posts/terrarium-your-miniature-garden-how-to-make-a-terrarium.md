@@ -7,7 +7,6 @@ description: Terrarium is a very unusual, low-effort decoration. You might wonde
   how to make a terrarium. It is very easy to prepare - you don’t need any complicated
   tools.
 image: "/uploads/Las w słoiku - Jak samodzielnie posadzić rośliny w słoiku.jpg"
-published: false
 
 ---
 Terrarium is an increasingly popular home decoration. Such project is very easy to make and it fits every home decor style. Terrarium plants look very interesting in a glass container. They will fascinate anyone visiting your house. What’s more, they are perfect plants for busy people who don’t have time to remember to water them. You won’t spend much time on taking care of terraria, as they are practically self-supporting.
