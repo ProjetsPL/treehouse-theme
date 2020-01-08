@@ -8,8 +8,7 @@ description: Malowanie boazerii to popularny sposób na odświeżenie pomieszcze
 image: "/uploads/Malowanie boazerii. Jak pomalowac boazerie, aby dobrze wygladala.jpg"
 
 ---
-
-**Boazeria to element wystroju wnętrz, który był szczególnie popularny w latach 70. i 80. ubiegłego wieku. Takie wykończenie wciąż znajduje się w wielu polskich domach. Chcąc wyremontować mieszkanie, wiele osób zastanawia się nad całkowitym pozbyciem się desek ze ścian. Istnieje jednak mniej pracochłonne, a zarazem bardzo efektowne rozwiązanie, czyli malowanie boazerii na inny kolor. Wystarczy odpowiednia farba do boazerii, aby całkowicie odmienić wnętrze.**
+Boazeria to element wystroju wnętrz, który był szczególnie popularny w latach 70. i 80. ubiegłego wieku. Takie wykończenie wciąż znajduje się w wielu polskich domach. Chcąc wyremontować mieszkanie, wiele osób zastanawia się nad całkowitym pozbyciem się desek ze ścian. Istnieje jednak mniej pracochłonne, a zarazem bardzo efektowne rozwiązanie, czyli malowanie boazerii na inny kolor. Wystarczy odpowiednia farba do boazerii, aby całkowicie odmienić wnętrze.
 
 ## Malowanie boazerii - na czym polega?
 
