@@ -23,10 +23,12 @@ Antracyt jest kolorem uniwersalnym - w związku z tym można go dostosować do k
 
 Kolor antracytowy w przeszłości pojawiał się na ścianach niezwykle rzadko. Ciemna barwa wydawała się mało ciekawa i zbyt mocna. Tymczasem umiejętnie wykorzystany antracyt może doskonale sprawdzić się w niemal **każdej przestrzeni**.
 
+{:.tip}
 Ten uniwersalny kolor znajdzie zastosowanie we wszystkich pomieszczeniach zaaranżowanych w nowoczesny sposób - kuchni, łazience, sypialni czy gabinecie.
 
 Pomieszczenia, w których kolor antracyt sprawdzi się na ścianach, powinny być nie tylko przestronne, ale także dobrze oświetlone. Barwa ta dobrze sprawdzi się w pokojach o dużym natężeniu naturalnego światła. Najlepiej ozdabiać nią pokoje znajdujące się od strony **wschodniej, południowo-wschodniej oraz zachodniej**. Nie powinno się natomiast malować ścian na ciemnoszary w pomieszczeniach od strony północnej - będą one wyglądać zbyt ponuro i chłodno. W takich przypadkach lepiej połączyć tę barwę z innymi, jaśniejszymi odcieniami.
 
+{:.warning}
 Jeżeli pomieszczenie ma niewielkie rozmiary, nie powinno się malować ścian na antracytowy. Intensywna, ciemna barwa tylko przytłoczyłaby już i tak małą przestrzeń. Lepszym rozwiązaniem jest pomalowanie ścian na neutralną, jasną barwę, która optycznie powiększy pokój. Antracyt w takim przypadku można wykorzystać do podkreślenia charakteru wystroju - za pomocą mebli i dodatków.
 
 ### Kolor antracytowy - jak pokryć ściany?
@@ -37,6 +39,7 @@ Jeżeli chodzi o farby w takiej barwie - najlepiej sprawdzą się produkty dają
 
 Mimo, że tapety dzisiaj wciąż kojarzą się z minioną epoką, warto rozważyć zastosowanie takiego pokrycia ścian. Tapety powoli wracają do łask, a na rynku można dostać produkty o ciekawych wzorach. Również w modnym kolorze, jakim jest antracyt. Odpowiednio dobrana tapeta o ciekawej teksturze będzie stanowić doskonałą ozdobę wnętrza.
 
+{:.tip}
 Dobrym pomysłem zamiast zwykłej farby jest zastosowanie farby tablicowej w odcieniu ciemnej szarości. Ściany zyskają wówczas funkcję pisania. Może się to okazać szczególnie przydatne w kuchni, gabinecie, czy pokoju dziecięcym.
 
 ## Meble w kolorze antracytu
@@ -55,6 +58,7 @@ Antracyt to bardzo mocny kolor i jak już wspomniano, łatwo jest przytłoczyć 
 
 Jeżeli ściany w pomieszczeniu pomalowano na kolor antracytowy, najlepiej wybierać meble i dekoracje w odcieniach kontrastujących. Najbezpieczniejsze kolory uzupełniające to biele, beże, ale również mocna czerń. Kolor antracytowy dobrze współpracuje z jasnymi brązami - warto więc stawiać na meble w kolorze naturalnego drewna. Jest to szczególnie dobre rozwiązanie w **stylu skandynawskim**, który wykorzystuje przede wszystkim naturalne faktury.
 
+{:.tip}
 Ciekawym rozwiązaniem do salonu, w którym kolor ścian to antracyt, jest wybór sofy w mocnym kolorze - przykładowo niebieskim lub żółtym. Taki zabieg idealnie ożywi wnętrze, a **antracyt podkreśli intensywny kolor mebla**.
 
 ### Antracyt jako akcent
@@ -63,6 +67,7 @@ Antracyt nie zawsze nadaje się na kolor ścian. W takim przypadku nie trzeba wc
 
 Do jasnych przestrzeni warto dobierać **ciemnoszare elementy wyposażenia**, takie jak zasłony, czy ozdobne poduszki. Dobrym pomysłem jest także wybór drobnych sprzętów w kolorze, jakim jest antracyt - krzeseł, stolików i lamp.
 
+{:.tip}
 Elementy takie, jak drzwi, kaloryfery i ramy okien w tego typu odcieniach również podkreślą jasne wnętrze. Takie elementy ożywiają jasne wnętrze, jednocześnie nadając mu charakteru.
 
 ## Antracyt, czyli pomysł na wystrój łazienki
