@@ -95,7 +95,7 @@ The best natural material for this purpose is **cork underlay**. Its main advant
 
 **Finishing your house might be quite a difficult process. Many homeowners ask specialists: what is the best laminate underlay? A good material is a guarantee that your vinyl plank floor is going to last long. It might also have some additional features. One should consider what criterion is the most important for them and use it to choose the right product. If you have a problem with making the decision, you should ask a salesperson to help you.**
 
-## FAQ
+## Underlay for plank flooring - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
