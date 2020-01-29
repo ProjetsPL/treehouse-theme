@@ -29,6 +29,8 @@ Ważną kwestią jest stan, w jakim znajdują się palety. **Łóżko z palet**,
 
 Łóżko z palet to jeden z najchętniej wykonywanych elementów wyposażenia z tego typu materiału. Jego wykonanie nie jest trudnym zadaniem. Potrzebne są jednak odpowiednie materiały. Warto także przygotować **odpowiedni projekt**, aby mieć dokładną wizję tego, jak taki mebel ma wyglądać. Ma to wpływ na ostateczny efekt.
 
+![Łóżko na paletach - jak go zrobić krok po kroku?](/uploads/lozko-na-paletach-jak-go-zrobic-krok-po-kroku.jpg "Łóżko na paletach - jak go zrobić krok po kroku?")
+
 ### Co jest potrzebne do wykonania łóżka z palet?
 
 Przed rozpoczęciem wykonywanie mebla, jakim jest łóżko z palet, należy zgromadzić wszystkie niezbędne materiały. Najważniejszym elementem są oczywiście palety. Do projektu można wybrać **europalety**, których standardowe wymiary to 120x80 cm. Można oczywiście wybrać palety o innych parametrach. W każdym przypadku natomiast rozmiar trzeba dopasować do wymiarów materaca.
@@ -40,6 +42,7 @@ Liczba palet to kwestia indywidualna. W zależności od konkretnego projektu pod
 
 Oprócz palet, **do wykonania łóżka potrzebne będą narzędzia**:
 {:.list-yes}
+
 * szlifierka,
 * metalowe płaskowniki i wkręty do drewna,
 * materiały do zabezpieczenia drewna - bejca lub grunt,
@@ -58,6 +61,8 @@ Na etapie projektowania mebla, jakim jest łóżko z palet, można zastanowić s
 
 Ostatnim etapem jest malowanie nowo powstałego mebla. Jeżeli naturalny rysunek drewna ma zostać zachowany, powierzchnię wystarczy pokryć bejcą lub lakierem do drewna. Można także zdecydować się na kolor - wówczas należy wybrać odpowiednią farbę do drewna o wybranym stopniu krycia. Dobrym rozwiązaniem jest także zastosowanie **kolorowej bejcy**.
 
+![Jak wykonać łóżko z palet?](/uploads/jak-wykonac-lozko-z-palet.jpg "Jak wykonać łóżko z palet?")
+
 ## Łóżko z palet - jaki materac wybrać?
 
 Łóżko z palet jest jedynie podwyższeniem, na którym należy położyć materac. To od niego, a nie od ramy zależy **wygoda łóżka**. Materac powinno się dobierać do indywidualnych potrzeb. Pozycja spania, waga ciała oraz ilość osób śpiących w łóżku to czynniki, którymi należy się kierować podczas wyboru materaca. Również sam rozmiar, jaki ma konstrukcja, jest kluczową sprawą.
@@ -70,6 +75,7 @@ Jeżeli łóżko na paletach jest przeznaczone do pokoju gościnnego, warto wybr
 
 Przykładowe zastosowanie palet to:
 {:.list-yes}
+
 * huśtawka ogrodowa z palet,
 * donica na kwiaty,
 * stolik kawowy.
@@ -80,6 +86,8 @@ Czworonogi również mogą skorzystać z palet. Aby wykonać legowisko, można z
 
 {:.tip}
 Wykonując meble z palet, warto pomyśleć o ich wielofunkcyjności. Można je przykładowo wzbogacić o elementy takie jak kółka. Konstrukcja europalet umożliwia także wykonanie **szuflad**, które zwiększą ilość miejsca do przechowywania.
+
+![Inne pomysły na meble z palet](/uploads/inne-pomysly-na-meble-z-palet.jpg "Inne pomysły na meble z palet")
 
 Meble z palet to tanie i łatwe w wykonaniu elementy wyposażenia. Łóżko z palet może okazać się lepszą alternatywą niż zakup tego rodzaju wyposażenia. Warto rozważyć jego **własnoręczne wykonanie** - nie jest to zbyt trudne, a instrukcji w sieci nie brakuje. Co więcej, jeżeli zależy Ci na jakości i czasie, a mniej na finansach - łóżko z palet możesz kupić gotowe. Entuzjaści prac ręcznych często oferują swoje dzieła na sprzedaż.
 
