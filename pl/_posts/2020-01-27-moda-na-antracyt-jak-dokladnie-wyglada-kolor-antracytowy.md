@@ -17,6 +17,8 @@ Intrygujący kolor - antracyt jest bardzo **ciemnym odcieniem szarości**. Jest 
 
 Ten rodzaj szarego znacznie zyskał na popularności w ostatnich latach. Jest to jednak kolor dosyć trudny w zastosowaniu. **Antracyt w aranżacji wnętrz** należy wkomponować w sposób ostrożny i umiejętny. Łatwo przytłoczyć pokój zbyt dużą ilością tej ciemnej barwy. Najlepiej stosować go w przestronnych wnętrzach. Nie oznacza to jednak, że w przypadku mniejszych pomieszczeń trzeba z niego całkowicie rezygnować. Warto natomiast w takim przypadku postawić na dodatki.
 
+![Antracyt - co to za kolor?](/uploads/antracyt-co-to-za-kolor.jpg "Antracyt - co to za kolor?")
+
 Antracyt jest kolorem uniwersalnym - w związku z tym można go dostosować do każdego stylu. Dobrze sprawdzi się w nowoczesnych aranżacjach wnętrz. Pasuje szczególnie do **stylu skandynawskiego, industrialnego, jak i minimalistycznego**. Umiejętnie dopasowany kolor antracytowy nada pomieszczeniu indywidualnego i wyjątkowego charakteru, ożywiając wnętrze i podkreślając elementy wystroju.
 
 ## Antracyt na ścianach
@@ -45,6 +47,8 @@ Dobrym pomysłem zamiast zwykłej farby jest zastosowanie farby tablicowej w odc
 ## Meble w kolorze antracytu
 
 Jeżeli kolor, którym jest antracyt jako pokrycie ścian to zbyt dużo, można zdecydować się na zakup mebli w tym odcieniu. Będą one stanowić doskonałe podkreślenie charakteru wnętrza. Ponieważ **antracyt jest mocną barwą**, takie meble powinny odznaczać się dosyć prostą formą. Najlepsze będą w tym przypadku formy geometryczne. Meble antracytowe najlepiej wyglądają na tle jasnych, neutralnych ścian. Mają wtedy szansę wyróżnić się mocnym odcieniem, który sam w sobie stanowi dekorację.
+
+![Meble w kolorze antracytu](/uploads/meble-w-kolorze-antracytu.jpg "Meble w kolorze antracytu")
 
 Do salonu dobrze sprawdzi się także sofa w stylu lat 60. na wysokich nóżkach. Meble w kolorze, jakim jest antracyt, powinny posiadać gładką i prostą fakturę. Warto zestawiać elementy w różnych kolorach - przykładowo ciemnoszarą sofę oraz białe fotele. Antracyt jest również doskonałym wyborem do **nowoczesnej kuchni**. Meble mogą być w całości antracytowe lub połączone z jasnymi dodatkami. Modnym akcentem są również ciemnoszare blaty, kontrastujące z jasnym kolorem mebli.
 
