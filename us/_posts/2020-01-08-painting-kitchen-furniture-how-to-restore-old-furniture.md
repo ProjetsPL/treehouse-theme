@@ -10,7 +10,7 @@ image: "/uploads/Malowanie mebli kuchennych - jak odnowic meble kuchenne.jpg"
 ---
 Kitchen renovation might be a costly project. Such a task is also very time-consuming. Following the trend of DIY, many people decide to paint their kitchen furniture instead of throwing it away. Such a solution is surely far less expensive than buying completely new kitchen and dining furniture sets. It does not mean that the furniture will look worse than the new one - on the contrary. If you are looking for kitchen furniture ideas, painting it is a great idea for a quick and satisfying metamorphosis.
 
-# How to restore old furniture in the kitchen?
+## How to restore old furniture in the kitchen?
 
 The popularity of **painting kitchen furniture** results probably from its cheap price. Another factor might be the impressive effect that one can achieve with paint. Painting an old chair, table or chest of drawers is nothing surprising nowadays. **Restoring kitchen furniture**, however, might be more problematic than it is with other objects.
 
