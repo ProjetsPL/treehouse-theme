@@ -5,7 +5,7 @@ toc: true
 title: Fotel wiszący. Czy fotel podwieszany to dobry pomysł?
 description: Fotel wiszący zyskuje na popularności. Sprawdza się on niemal w każdym
   pomieszczeniu. Fotel wiszący to element wyposażenia lubiany przez dzieci i dorosłych.
-image: "/uploads/fotel-wiszacy..jpg"
+image: "/uploads/fotel-wiszacy.jpg"
 
 ---
 Fotel wiszący to wygodny mebel, który coraz częściej pojawia się w mieszkaniach. Kojarzy się z pokojem młodzieżowym czy dziecięcym, jednak takie siedzisko jest cenione również przez dorosłych. Nic dziwnego - delikatne kołysanie to idealny sposób na szybkie odprężenie całego ciała. Fotel wiszący jest także niezwykle estetycznym elementem wystroju. Czy jednak nadaje się on do każdego rodzaju pomieszczenia?
