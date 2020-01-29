@@ -5,7 +5,7 @@ toc: true
 title: Is a hanging chair a good idea? Hanging chair types
 description: Hanging chair is a popular piece of furniture. It fits almost any interior
   design. This comfortable element is appreciated both by children and adults.
-image: "/uploads/fotel-wiszacy..jpg"
+image: "/uploads/fotel-wiszacy.jpg"
 
 ---
 Hanging chair is a comfortable piece of furniture that can be found in many apartments. It is mostly associated with a teenager’s or children’s room, however it is also appreciated among adults. It’s not surprising - rocking movement can quickly relax the whole body. Hanging chair is also a highly aesthetic element. Is it suitable for every type of interior design?
