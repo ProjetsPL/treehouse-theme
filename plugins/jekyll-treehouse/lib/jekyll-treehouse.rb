@@ -1,11 +1,12 @@
 # frozen_string_literal: true
 
+require "pry"
 require "jekyll"
-require "jekyll/warning_block"
-require "jekyll/tip_block"
-require "jekyll/faq_item_block"
-require "jekyll/faq_question_block"
-require "jekyll/faq_answer_block"
+require "jekyll-treehouse/service"
+require "jekyll-treehouse/faq_item_block"
+require "jekyll-treehouse/faq_question_block"
+require "jekyll-treehouse/faq_answer_block"
+require "jekyll-treehouse/seo_tag"
 
 module Jekyll
   module Treehouse
@@ -13,8 +14,7 @@ module Jekyll
   end
 end
 
-Liquid::Template.register_tag('warning', Jekyll::WarningBlock)
-Liquid::Template.register_tag('tip', Jekyll::TipBlock)
-Liquid::Template.register_tag('faqItem', Jekyll::FaqItemBlock)
-Liquid::Template.register_tag('faqQuestion', Jekyll::FaqQuestionBlock)
-Liquid::Template.register_tag('faqAnswer', Jekyll::FaqAnswerBlock)
+Liquid::Template.register_tag('faqItem', Jekyll::Treehouse::FaqItemBlock)
+Liquid::Template.register_tag('faqQuestion', Jekyll::Treehouse::FaqQuestionBlock)
+Liquid::Template.register_tag('faqAnswer', Jekyll::Treehouse::FaqAnswerBlock)
+Liquid::Template.register_tag('treehouseseo', Jekyll::Treehouse::SeoTag)

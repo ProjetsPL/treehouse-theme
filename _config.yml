@@ -38,6 +38,19 @@ plugins:
 
 ampdir: amp
 
+seo:
+  organization:
+    name: Treehouse.co
+    same_as:
+    logo:
+      url: 'https://treehouse.co/assets/img/logo.png'
+      width: 106
+      height: 100
+  website:
+    name: Treehouse.co
+  person:
+    name: Treehouse
+    id: 'author/treehouse'
 defaults:
   #languages
   -
