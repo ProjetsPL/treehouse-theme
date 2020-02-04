@@ -27,7 +27,9 @@ Między innymi ze względu na te właściwości może być ona stosowana w ogrod
 
 Uprawa lawendy w domu nie jest trudnym zadaniem. Roślina ta nie jest bardzo wymagająca. Odpowiednio posadzona, będzie służyć przez długie lata. Istnieje wiele gatunków lawendy, a większość z nich nadaje się do **uprawy w doniczce**. Rośliny jednoroczne, które nie mają szans przetrwać mrozów przy uprawie ogrodowej, będą czuły się świetnie w pojemniku.
 
+{% fig %}
 ![Lawenda w doniczce - co warto o niej wiedzieć?](/uploads/lawenda-w-doniczce-co-warto-o-niej-wiedziec.jpg "Lawenda w doniczce - co warto o niej wiedzieć?")
+{% endfig %}
 
 ### Uprawa lawendy w domu - gatunki
 
@@ -52,7 +54,9 @@ Niezależnie od wyboru rodzaju rośliny, wszystkie gatunki mają podobne wymagan
 
 Roślina powinna zostać posadzona w dość głębokiej donicy. Zaleca się stosowanie pojemników ceramicznych, które pozwalają na **odparowanie nadmiaru wody**. W przypadku plastikowych donic istnieje ryzyko, że woda będzie w nich stać. Na dnie koniecznie trzeba umieścić warstwę drenażu oraz wykonać odpływ, ponieważ lawenda nie toleruje nadmiaru wilgoci.
 
+{% fig %}
 ![Lawenda w doniczce - jak ją posadzić?](/uploads/lawenda-w-doniczce-jak-ja-posadzic.jpg "Lawenda w doniczce - jak ją posadzić?")
+{% endfig %}
 
 Najlepsza ziemia dla tych roślin jest lekka, przepuszczalna, bogata w wapń. Wyróżnia ją **zasadowy lub obojętny odczyn**. Można wykorzystać ziemię uniwersalną zmieszaną z piaskiem w proporcji 1:1. W kwiaciarniach dostępne są także gotowe podłoża do lawendy. Młodą roślinę należy posadzić, a jej korzenie dodatkowo przysypać warstwą ziemi.
 
@@ -84,7 +88,9 @@ Lawenda w doniczce świetnie będzie rosła z gatunkami takimi jak:
 * nachyłki,
 * goździki.
 
+{% fig %}
 ![Lawenda na balkonie i w domu - przykładowe aranżacje](/uploads/lawenda-na-balkonie-i-w-domu.jpg "Lawenda na balkonie i w domu - przykładowe aranżacje")
+{% endfig %}
 
 Powinna być ona zestawiana z roślinami o delikatnych barwach, aby jej nie zagłuszyć. Szczególnie dobrze wyglądają **kompozycje z innymi ziołami prowansalskimi**, takimi jak tymianek, rozmaryn czy szałwia. Takie połączenie idealnie nadaje się do kuchni - jako ozdoba oraz ogródek ziołowy.
 
@@ -97,7 +103,9 @@ Jak już wspomniano, lawenda ma wiele właściwości. Hodując tę roślinę w d
 {:.list.list-positive}
 * **Środek przeciw owadom** - owady nie znoszą intensywnego zapachy lawendy. Ususzone kwiaty można umieścić w bawełnianych lub lnianych woreczkach i zawiesić w wybranych miejscach, np. **w sypialni**. Jest to także sprawdzony sposób na mole - woreczek wystarczy umieścić w szafie.
 
+{% fig %}
 ![Lawenda - praktyczne zastosowania](/uploads/lawenda-praktyczne-zastosowania.jpg "Lawenda - praktyczne zastosowania")
+{% endfig %}
 
 {:.list.list-positive}
 * **Sposób na ból głowy** - ten zapach działa **kojąco i rozluźniająco**. Kilka kwiatów można umieścić w wazonie w sypialni. Woreczek z suszonymi roślinami można umieścić pod poduszką - pomoże to w zaśnięciu.
@@ -105,7 +113,9 @@ Jak już wspomniano, lawenda ma wiele właściwości. Hodując tę roślinę w d
 * **Cukier aromatyzowany** - taki dodatek jest bardzo łatwy w przygotowaniu. Wystarczy zasypać suszone lub świeże, posiekane kwiaty cukrem i zamknąć szczelnie na kilka tygodni. Po tym czasie cukier należy przesiać, oddzielając rośliny. Jest on **idealny do kawy, herbaty, ciast oraz ciasteczek**.
 * **Lawendowa dekoracja** - ścięte i zasuszone gałązki to świetny element dekoracyjny. Pojedynczymi pędami można przykładowo udekorować świece lub zrobić z nich bukiet i wsadzić do wazonu.
 
+{% fig %}
 ![Lawenda - praktyczne zastosowania](/uploads/lawenda-praktyczne-zastosowania2.jpg "Lawenda - praktyczne zastosowania")
+{% endfig %}
 
 To tylko kilka zastosowań, jakie ma lawenda. Pomysłów oczywiście jest o wiele więcej - wystarczy odrobina kreatywności oraz inspiracji. Jest to niezwykła roślina, nad której uprawą warto posiadać w domu lub w ogrodzie. Do wyboru jest wiele gatunków, które różnią się od siebie wyglądem. Roślina ta wymaga tylko odrobiny uwagi, a to niewiele w porównaniu z korzyściami płynącymi z jej posiadania. Lawenda w doniczce to także świetny pomysł, który sprawdzi się w wystroju każdego wnętrza.
 
