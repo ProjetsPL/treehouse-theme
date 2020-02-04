@@ -12,6 +12,7 @@ intro: Lawenda to wyjątkowa roślina o wielu właściwościach, która gości w
   aby korzystać z właściwości tej rośliny. Lawenda w doniczce to dobry pomysł, gdy
   przestrzeń jest ograniczona. Jak ją pielęgnować?
 update_date: 2020-02-01
+promoted: true
 
 ---
 ## Jakie właściwości ma lawenda?
