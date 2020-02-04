@@ -1,27 +1,12 @@
-<div class="article">
-
-  {% if include.article.image %}
-    <div class="article__image-box">
-      <a href="{{include.article.url | prepend: site.baseurl}}" class="article__image" title="{{include.article.title}}" style="background-image: url('{{site.baseurl}}{{include.article.image}}')"></a>
-    </div>
-  {% endif %}
-
-  <div class="article__content">
-    <p class="h2 article__title">
-      <a href="{{ include.article.url | prepend: site.baseurl }}">{{include.article.title}}</a>
-    </p>
-
-    <div class="article__meta">
-      <span class="article__date">
-        {{ site.i18n[page.lang].published }}
-        <time datetime="{{ include.article.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%m/%d/%Y" %}{{ include.article.date | date: date_format }}</time>
-      </span>
-    </div>
-
-    <p class="article__excerpt">{% if include.article.description %}{{ include.article.description }}{% else %}{{ include.article.content | strip_html | truncate: 130 }}{% endif %}</p>
-    <a href="{{ include.article.url | prepend: site.baseurl }}" class="read-more">
-      {{ site.i18n[page.lang].read_more }}
-    </a>
-  </div>
-
+<div class="beam-item b-size-1">
+    <article class="articles-listing-boxitem-sm">
+        <a href="{{ include.article.url | prepend: site.baseurl }}">
+            <div class="img-box img-ratio-16-9">
+                <img class="img" src="{{site.baseurl}}{{include.article.image}}" alt="{{include.article.title}}">
+            </div>
+            <h3 class="h-articles-listing-boxitem-sm">{{include.article.title}}</h3>
+            <span class="article-label article-label-garden">Ogród</span>
+            <span class="article-rank-label "><img src="/assets/img/rank-star.svg" alt="Rank"></span>
+        </a>
+    </article>
 </div>

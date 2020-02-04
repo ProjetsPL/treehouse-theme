@@ -1,0 +1,8 @@
+<svg id="Icon_-_Alert_-_Danger" data-name="Icon - Alert - Danger" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <circle id="bg" cx="15" cy="15" r="15" fill="#d40a0a"/>
+  <path id="shadow" d="M207.985,333.7a15,15,0,1,1,0-29.4,15.008,15.008,0,0,0,0,29.4Z" transform="translate(-190 -304)" fill="#fff" opacity="0.3"/>
+  <g id="Detail">
+    <rect id="Rectangle_54" data-name="Rectangle 54" width="3" height="11" transform="translate(16.5 18) rotate(180)" fill="#fff"/>
+    <rect id="Rectangle_55" data-name="Rectangle 55" width="4" height="4" rx="2" transform="translate(17 24) rotate(-180)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg id="Icon_-_Alert_-_Info" data-name="Icon - Alert - Info" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <circle id="Ellipse_2" data-name="Ellipse 2" cx="15" cy="15" r="15" fill="#0b6eb9"/>
+  <path id="Path_135" data-name="Path 135" d="M207.985,293.7a15,15,0,1,1,0-29.4,15.008,15.008,0,0,0,0,29.4Z" transform="translate(-190 -264)" fill="#fff" opacity="0.3"/>
+  <g id="Detail">
+    <rect id="Rectangle_52" data-name="Rectangle 52" width="3" height="9" transform="translate(13.5 15)" fill="#fff"/>
+    <rect id="Rectangle_53" data-name="Rectangle 53" width="4" height="4" rx="2" transform="translate(13 7)" fill="#fff"/>
+  </g>
+</svg>

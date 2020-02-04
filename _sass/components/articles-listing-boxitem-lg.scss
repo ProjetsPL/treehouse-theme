@@ -1,0 +1,89 @@
+.articles-listing-boxitem-lg {
+    position: relative;
+    margin-bottom: $beam-gutter-size * 0.75;
+    a {
+        display: flex;
+        flex-direction: column;
+        text-decoration: none;
+        position: relative;
+        h1,
+        h2,
+        h3,
+        h4 {
+            display: flex;
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background-color: rgba( $main, .9);
+            color: $gray-0;
+            padding: 10px;
+        }
+        .article-label {
+            position: absolute;
+            top: 0;
+            right: 0;
+        }
+        .article-rank-label {
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+        .h-articles-listing-boxitem-lg {
+            font-size: 15px;
+            line-height: 21px;
+            margin: 0px;
+            &::before {
+                display: none;
+            }
+        }
+        &:hover {
+            h1,
+            h2,
+            h3,
+            h4 {
+                background-color: lighten( $main, 5%);
+            }
+            .img {
+                opacity: 0.95;
+            }
+            .article-label-main {
+                background-color: lighten( $main, 5%);
+            }
+            .article-label-garden {
+                background-color: lighten( $garden, 5%);
+            }
+            .article-label-construction {
+                background-color: lighten( $construction, 5%);
+            }
+            .article-label-interior {
+                background-color: lighten( $interior, 5%);
+            }
+            .article-rank-label {
+                background-color: lighten( $main, 5%);
+            }
+        }
+        &:active {
+            transform: scale(0.98);
+        }
+    }
+}
+
+@media (max-width: 750px) {
+    .articles-listing-boxitem-lg {
+        a {
+            h1,
+            h2,
+            h3,
+            h4 {
+                position: relative;
+                bottom: 0;
+                left: 0;
+                width: 100%;
+                background-color: rgba( $main, .9);
+                color: $gray-0;
+                padding: 10px;
+            }
+        }
+    }
+}

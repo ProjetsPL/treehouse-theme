@@ -1,0 +1,50 @@
+---
+---
+// two lines are required to parse scss
+
+@import "variables.scss";
+
+.static-content {
+    .static-article {
+        >.beam-item {
+            max-width: 680px;
+            flex-basis: 100%;
+        }
+    }
+}
+
+@media (max-width: 800px) {
+    .static-content {
+        .static-article {
+            flex-direction: column;
+            &>.b-size-3 {
+                flex-basis: 100%;
+            }
+        }
+        .featured-articles {
+            >.beam-item {
+                &:first-child {
+                    flex-basis: 100%;
+                }
+                flex-basis: 50%;
+            }
+        }
+    }
+}
+
+
+
+@media (max-width: 450px) {
+    .static-content {
+        .featured-articles {
+            >.beam-item {
+                &:first-child {
+                    flex-basis: 100%;
+                }
+                flex-basis: 100%;
+            }
+        }
+    }
+}
+
+@import "components/articles-listing-boxitem-sm.scss";

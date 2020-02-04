@@ -1,45 +1,25 @@
-<div class="container">
-  <!-- begin footer -->
-  <footer class="footer">
-    <div class="footer__inner">
-      <div class="contact">
-        <div class="contact__title">
-          <ul class="contact__list list-reset">
-            <li class="contact__item">
-              <a class="contact__link contact__flag" href="/">🌎 Global</a>
-            </li>
-            <li class="contact__item">
-              <a class="contact__link contact__flag" href="/pl/">🇵🇱 Polska</a>
-            </li>
-            <li class="contact__item">
-              <a class="contact__link contact__flag" href="/us/">🇺🇸 United States</a>
-            </li>
-            <!-- <li class="contact__item">
-              <a class="contact__link contact__flag" href="/it/">🇮🇹 Italia</a>
-            </li>
-            <li class="contact__item">
-              <a class="contact__link contact__flag" href="/sk/">🇸🇰 Slovensko</a>
-            </li>
-            <li class="contact__item">
-              <a class="contact__link contact__flag" href="/cz/">🇨🇿 Česká republika</a>
-            </li>
-            <li class="contact__item">
-              <a class="contact__link contact__flag" href="/de/">🇩🇪 Deutschland</a>
-            </li> -->
-          </ul>
-        </div>
-
-        <ul class="contact__list list-reset">
-          {% for contact in site.contact %}
-
-            <li class="contact__item">
-              <a class="contact__link" href="{{contact.link}}">{{contact.name}}</a>
-            </li>
-
-          {% endfor %}
+<footer class="beams-wrapper global-beam-wrapper page-footer">
+  <div class="beam">
+    <div class="beam-item page-footer-content">
+      <p class="copy">© 2020 Treehouse. All rights reserved.</p>
+      <nav>
+        <ul>
+          <li>
+            <a href="static.html" class="btn btn-link">Kontakt</a>
+          </li>
+          <li>
+            <a href="static.html" class="btn btn-link">O nas</a>
+          </li>
+          <li>
+            <a href="static.html" class="btn btn-link">Polityka prywatności</a>
+          </li>
         </ul>
+      </nav>
+      <div class="language">
+        <p>Wybierz język:</p>
+        <a href="" class="btn btn-img-left"><img src="/assets/img/flag-usa.svg" alt="United States flag">United States</a>
+        <a href="" class="btn btn-img-left btn-active"><img src="/assets/img/flag-poland.svg" alt="Poland flag">Polska</a>
       </div>
     </div>
-  </footer>
-  <!-- end footer -->
-</div>
+  </div>
+</footer>

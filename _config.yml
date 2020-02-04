@@ -14,6 +14,10 @@ sass:
   sass_dir: _sass
   style: compressed
 
+toc:
+  min_level: 2
+  max_level: 2
+
 exclude:
   - config
   - plugins
@@ -78,22 +82,28 @@ i18n:
   pl:
     read_more: "Przeczytaj całość"
     published: "Opublikowano"
+    updated: "Data aktualizacji"
     toc: "Spis treści"
     read_also: "Przeczytaj również"
     leave_comment: "Zostaw komentarz"
     title: 'Zainspiruj się i stwórz z nami swój wymarzony dom! - Treehouse'
+    home_and_garden: Dom i Ogród
   us:
     read_more: "Read more"
     published: "Published"
+    updated: "Last update"
     toc: "Table of Content"
     read_also: "Read also"
     leave_comment: "Leave a comment"
     title: 'Get inspired and create your dream home with us! - Treehouse'
+    home_and_garden: Home & Garden
 
   en:
     read_more: "Read more"
     published: "Published"
+    updated: "Last update"
     toc: "Table of Content"
     read_also: "Read also"
     leave_comment: "Leave a comment"
     title: 'Get inspired and create your dream home with us! - Treehouse'
+    home_and_garden: Home & Garden

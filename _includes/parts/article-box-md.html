@@ -1,0 +1,10 @@
+<article class="articles-listing-boxitem-md">
+  <a href="{{ include.article.url | prepend: site.baseurl }}">
+    <div class="img-box img-ratio-16-9">
+      <img class="img" src="{{site.baseurl}}{{include.article.image}}" alt="Test">
+    </div>
+    <h3 class="h-articles-listing-boxitem-sm">{{include.article.title}}</h3>
+    <span class="article-label article-label-garden">{{ site.i18n[page.lang].home_and_garden }}</span>
+    <!-- <span class="article-rank-label "><img src="/assets/img/rank-star.svg" alt="Rank"></span> -->
+  </a>
+</article>

@@ -1,0 +1,101 @@
+.page-footer {
+    background-color: white;
+    border-top: 1px solid $gray-2;
+    display: flex;
+    width: 100%;
+    .page-footer-content {
+        height: 80px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        p,
+        a,
+        button {
+            margin: 0;
+        }
+        .copy {
+            position: relative;
+            top: 2px;
+        }
+        nav {
+            position: relative;
+            top: 2px;
+            ul {
+                list-style: none;
+                display: flex;
+                li {
+                    padding-right: 0px;
+                    &:last-child {
+                        padding-right: 0px;
+                    }
+                }
+            }
+        }
+    }
+    .language {
+        display: flex;
+        align-content: center;
+        p {
+            position: relative;
+            top: 2px;
+            line-height: 32px;
+            padding-right: 10px;
+            color: $gray-6;
+        }
+        a {
+            &:last-child {
+                margin-left: 10px;
+            }
+        }
+    }
+}
+
+@media (max-width: 1050px) {
+    .page-footer {
+        .page-footer-content {
+            flex-direction: column;
+            height: auto;
+            .copy,
+            nav,
+            .language {
+                margin: 10px 0;
+            }
+            .copy {
+                order: 2;
+            }
+        }
+    }
+}
+
+@media (max-width: 460px) {
+    .page-footer {
+        .page-footer-content {
+            .copy {
+                text-align: center;
+            }
+            nav {
+                ul {
+                    flex-direction: column;
+                    li {
+                        display: flex;
+                        justify-content: center;
+                    }
+                }
+            }
+            .language {
+                flex-direction: column;
+                p {
+                    padding: 0;
+                    text-align: center;
+                }
+                a {
+                    margin-bottom: 10px;
+                    &:last-child {
+                        margin-left: 0px;
+                        margin-bottom: 0px;
+                    }
+                }
+            }
+        }
+    }
+}

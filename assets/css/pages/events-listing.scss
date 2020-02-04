@@ -1,0 +1,135 @@
+---
+---
+// two lines are required to parse scss
+
+@import "variables.scss";
+
+.events-list-sidebar {
+    .h-section {
+        margin-bottom: 15px;
+    }
+}
+
+.events-list-content {
+    .events-list-events {
+        ul {
+            list-style: none;
+        }
+    }
+}
+
+@media (max-width: 1050px) {
+    .events-list-content {
+        >.beam {
+            >.beam-item {
+                flex-basis: 100%;
+            }
+        }
+        .events-list-sidebar {
+            .articles-listing-listitem-sm {
+                h3 {
+                    display: flex;
+                    align-items: left;
+                    justify-content: flex-start;
+                }
+            }
+            >.beam {
+                >.beam-item {
+                    &:first-child {
+                        flex-basis: 100%;
+                    }
+                    flex-basis: 33.33%;
+                }
+                .beam-more {
+                    flex-basis: 100%;
+                }
+            }
+            .recommended-articles {
+                >.beam-item {
+                    flex-basis: 50%;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 750px) {
+    .events-list-content {
+        >.beam {
+            >.beam-item {
+                >.beam {
+                    >.beam-item {
+                        &:first-child {
+                            flex-basis: 100%;
+                        }
+                        flex-basis: 50%;
+                    }
+                    .beam-pagination,
+                    .beam-more {
+                        flex-basis: 100%;
+                    }
+                }
+            }
+            .events-list-events {
+                .events-listing-listitem-md {
+                    .title-box {
+                        flex-direction: column;
+                        justify-content: flex-start;
+                        align-items: flex-start;
+                        span {
+                            padding-left: 0px;
+                        }
+                    }
+                }
+            }
+            .events-list-sidebar {
+                >.beam {
+                    >.beam-item {
+                        &:first-child {
+                            flex-basis: 100%;
+                        }
+                        flex-basis: 100%;
+                    }
+                    .beam-more {
+                        flex-basis: 100%;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 500px) {
+    .events-list-content {
+        >.beam {
+            .events-list-events {
+                .events-listing-listitem-md {
+                    a {
+                        flex-direction: column;
+                        padding: 20px 0;
+                        .img-box {
+                            margin-bottom: 20px;
+                            img {
+                                width: auto;
+                                max-width: 80%;
+                            }
+                        }
+                        .detail-box {
+                            padding-left: 0px;
+                        }
+                    }
+                }
+            }
+            >.beam-item {
+                >.beam {
+                    >.beam-item {
+                        flex-basis: 100%;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@import "components/articles-listing-listitem-sm.scss";
+@import "components/events-listing-listitem-md.scss";
