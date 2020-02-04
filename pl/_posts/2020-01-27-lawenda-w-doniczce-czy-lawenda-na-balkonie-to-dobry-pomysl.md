@@ -3,14 +3,16 @@ layout: post
 date: 2020-01-27
 toc: true
 title: Lawenda w doniczce. Czy lawenda na balkonie to dobry pomysł?
-description: |-
-  Lawenda w doniczce. Czy lawenda na balkonie to dobry pomysł?
-  Lawenda to popularna roślina często uprawiana w ogrodach. Nie trzeba mieć jednak ogródka - świetnym pomysłem jest posadzenie lawendy w doniczce na balkonie.
+description: Lawenda to popularna roślina często uprawiana w ogrodach. Nie trzeba
+  mieć jednak ogródka - świetnym pomysłem jest posadzenie lawendy w doniczce na balkonie.
 image: "/uploads/lawenda-w-doniczce.jpg"
+intro: Lawenda to wyjątkowa roślina o wielu właściwościach, która gości w wielu ogrodach.
+  Jest ceniona ze względu na piękny kolor i mocny zapach. Uprawa lawendy nie sprawia
+  wielu problemów, co jest jej dodatkowym atutem. Jednak nie trzeba posiadać ogrodu,
+  aby korzystać z właściwości tej rośliny. Lawenda w doniczce to dobry pomysł, gdy
+  przestrzeń jest ograniczona. Jak ją pielęgnować?
 
 ---
-Lawenda to wyjątkowa roślina o wielu właściwościach, która gości w wielu ogrodach. Jest ceniona ze względu na piękny kolor i mocny zapach. Uprawa lawendy nie sprawia wielu problemów, co jest jej dodatkowym atutem. Jednak nie trzeba posiadać ogrodu, aby korzystać z właściwości tej rośliny. Lawenda w doniczce to dobry pomysł, gdy przestrzeń jest ograniczona. Jak ją pielęgnować?
-
 ## Jakie właściwości ma lawenda?
 
 Lawenda to krzew z rodziny jasnotowatych, czyli wargowych. Jest to roślina nie tylko ozdobna, ale także uprawna. Dorasta do wysokości pół metra, istnieją też wyższe gatunki. Cechą charakterystyczną są **fioletowe lub wręcz niebieskie kwiaty**, które rosnące w długich słupkach i wydzielają kamforowy zapach. Roślina jest ceniona ze względu na swoje właściwości lecznicze, ale nie tylko. Lawenda stosowana jest także w przemyśle perfumeryjnym oraz jako przyprawa. Wykorzystywane są jej kwiaty, najczęściej w formie suszonej. Wytwarza się z nich także olejek eteryczny, który posiada właściwości odkażające.
