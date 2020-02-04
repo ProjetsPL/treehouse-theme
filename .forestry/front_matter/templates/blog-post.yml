@@ -8,6 +8,10 @@ fields:
   config:
     required: true
   default: post
+- name: promoted
+  type: boolean
+  label: Promowane
+  description: Czy wpis ma być promowany?
 - type: datetime
   name: date
   label: Data publikacji
