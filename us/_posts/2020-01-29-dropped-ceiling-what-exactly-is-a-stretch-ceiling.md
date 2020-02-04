@@ -1,16 +1,21 @@
 ---
 layout: post
-date: 2020-01-29
+date: 2020-01-27
 toc: true
 title: Dropped ceiling - what exactly is a stretch ceiling?
 description: Dropped ceiling is quite a popular solution that can hide imperfections
   of the main ceiling. If you are not convinced to plasterboard, consider stretch
   ceiling.
 image: "/uploads/sufit-napinany.jpg"
+promoted: true
+update_date: 2020-02-03
+intro: Repairing an old, damaged ceiling might cost too much money and effort. In
+  such a case you might consider a dropped ceiling to conceal the imperfections. An
+  increasingly popular solution of this type is stretch ceiling. It is much more lightweight
+  than plasterboard. It also allows for a quicker installation. Fabric ceiling is
+  an alternative that is worth considering.
 
 ---
-Repairing an old, damaged ceiling might cost too much money and effort. In such a case you might consider a dropped ceiling to conceal the imperfections. An increasingly popular solution of this type is stretch ceiling. It is much more lightweight than plasterboard. It also allows for a quicker installation. Fabric ceiling is an alternative that is worth considering.
-
 ## What is a stretch ceiling?
 
 **Stretch ceiling** is a kind of dropped ceiling. This method is one of the oldest techniques in the category of **interior design**. Hanging a fabric under ceiling was popular in many countries throughout the centuries. Ancient Romans used silk, Egyptians - flax, while Armenians preferred cotton.
