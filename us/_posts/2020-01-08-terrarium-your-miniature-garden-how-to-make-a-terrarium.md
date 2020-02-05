@@ -7,10 +7,16 @@ description: Terrarium is a very unusual, low-effort decoration. You might wonde
   how to make a terrarium. It is very easy to prepare - you don’t need any complicated
   tools.
 image: "/uploads/terrarium-your-miniature-garden.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: Terrarium is an increasingly popular home decoration. Such project is very
+  easy to make and it fits every home decor style. Terrarium plants look very interesting
+  in a glass container. They will fascinate anyone visiting your house. What’s more,
+  they are perfect plants for busy people who don’t have time to remember to water
+  them. You won’t spend much time on taking care of terraria, as they are practically
+  self-supporting.
 
 ---
-Terrarium is an increasingly popular home decoration. Such project is very easy to make and it fits every home decor style. Terrarium plants look very interesting in a glass container. They will fascinate anyone visiting your house. What’s more, they are perfect plants for busy people who don’t have time to remember to water them. You won’t spend much time on taking care of terraria, as they are practically self-supporting.
-
 ## What is a terrarium? Tiny forest in a glass
 
 Plants should be present in every household. Living in a city means a very limited contact with nature. For this reason, plants for many are absolutely necessary elements of interior decoration. They have soothing effect on human body. **Terraria** are perfect for this purpose - such a **miniature garden** is a closed ecosystem which looks like a piece of a real forest. Observing what is happening inside of the glass is a very relaxing activity.
