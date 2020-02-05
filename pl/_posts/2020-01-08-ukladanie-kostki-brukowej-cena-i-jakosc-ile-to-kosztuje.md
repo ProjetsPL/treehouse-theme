@@ -6,10 +6,16 @@ title: Układanie kostki brukowej - cena i jakość. Ile to kosztuje?
 description: Wiele osób zastanawia się, czy warto zdecydować się układanie kostki
   brukowej. Cena może być tu decydująca. Producenci oferują różne rodzaje kostki brukowej.
 image: "/uploads/ukladanie-kostki-brukowej.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: Zastanawiając się, z czego wykonać ścieżki i podjazdy wokół domu, można wybierać
+  spośród wielu materiałów. Podjęcie decyzji nie zawsze jest łatwe. Ważne, aby przestrzeń
+  na zewnątrz prezentowała się estetycznie i pasowała do ogólnego wystroju domu. Wiele
+  osób decyduje się na układanie kostki brukowej. Cena tego materiału jest zdecydowanie
+  zaletą takiego rozwiązania. Istnieje wiele rodzajów kostki, a każdy różni się ceną,
+  jak i właściwościami.
 
 ---
-Zastanawiając się, z czego wykonać ścieżki i podjazdy wokół domu, można wybierać spośród wielu materiałów. Podjęcie decyzji nie zawsze jest łatwe. Ważne, aby przestrzeń na zewnątrz prezentowała się estetycznie i pasowała do ogólnego wystroju domu. Wiele osób decyduje się na układanie kostki brukowej. Cena tego materiału jest zdecydowanie zaletą takiego rozwiązania. Istnieje wiele rodzajów kostki, a każdy różni się ceną, jak i właściwościami.
-
 ## Układanie kostki brukowej - cena za metr kwadratowy
 
 Przed rozpoczęciem prac przy alejkach i podjazdach, należy wybrać odpowiedni materiał. Kostka brukowa odznacza się sporą ilością dostępnych wariantów. Przy wyborze należy wziąć pod uwagę rodzaj materiału, jego kolor oraz ogólny efekt, jaki ma przynieść **układanie kostki brukowej**. Cena również jest niewątpliwie ważną kwestią. Jaki jest koszt ułożenia kostki brukowej? To zależy od kilku kwestii.
