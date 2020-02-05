@@ -4,13 +4,19 @@ date: 2020-01-17
 toc: true
 title: Osłona na kaloryfer. Czym jest maskownica grzejnika?
 description: |-
-  Czym jest osłona na kaloryfer? Zastosowanie maskownicy grzejnika
+  Czym jest osłona na kaloryfer? Zastosowanie maskownicy grzejnika.
   Jeżeli grzejnik nie ma żadnych walorów estetycznych, dobrym rozwiązaniem jest osłona na kaloryfer. Jakie wady i zalety ma zabudowa osłona na kaloryfer?
 image: "/uploads/oslona-na-kaloryfer-main.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: Często zdarza się, że w nowo urządzonym mieszkaniu wszystko do siebie pasuje
+  - poza jednym elementem. Jest nim nieestetyczny grzejnik. Mimo istnienia ozdobnych
+  urządzeń tego typu, niestety większość rozwiązań grzewczych nie szczyci się pięknym
+  wyglądem. W takiej sytuacji dobrym pomysłem może być osłona na kaloryfer. Pomoże
+  ona ukryć wszelkie mankamenty, przy jednoczesnym zachowaniu funkcjonalności urządzenia.
+  Jaka zabudowa grzejnika będzie najlepsza?
 
 ---
-Często zdarza się, że w nowo urządzonym mieszkaniu wszystko do siebie pasuje - poza jednym elementem. Jest nim nieestetyczny grzejnik. Mimo istnienia ozdobnych urządzeń tego typu, niestety większość rozwiązań grzewczych nie szczyci się pięknym wyglądem. W takiej sytuacji dobrym pomysłem może być osłona na kaloryfer. Pomoże ona ukryć wszelkie mankamenty, przy jednoczesnym zachowaniu funkcjonalności urządzenia. Jaka zabudowa grzejnika będzie najlepsza?
-
 ## Czym jest osłona na kaloryfer?
 
 Zabudowa kaloryfera to rozwiązanie stosowane przede wszystkim w przypadku, gdy urządzenie grzewcze nie spełnia oczekiwanych wymogów estetycznych. **Grzejniki żeberkowe** starego typu rzadko kiedy pasują do nowoczesnych wnętrz. Również nowe, stalowe kaloryfery zazwyczaj nie są zbyt estetyczne.
