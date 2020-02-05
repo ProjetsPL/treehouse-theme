@@ -6,10 +6,15 @@ title: Is a hanging chair a good idea? Hanging chair types
 description: Hanging chair is a popular piece of furniture. It fits almost any interior
   design. This comfortable element is appreciated both by children and adults.
 image: "/uploads/fotel-wiszacy.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: Hanging chair is a comfortable piece of furniture that can be found in many
+  apartments. It is mostly associated with a teenager’s or children’s room, however
+  it is also appreciated among adults. It’s not surprising - rocking movement can
+  quickly relax the whole body. Hanging chair is also a highly aesthetic element.
+  Is it suitable for every type of interior design?
 
 ---
-Hanging chair is a comfortable piece of furniture that can be found in many apartments. It is mostly associated with a teenager’s or children’s room, however it is also appreciated among adults. It’s not surprising - rocking movement can quickly relax the whole body. Hanging chair is also a highly aesthetic element. Is it suitable for every type of interior design?
-
 ## Hanging chair - comfort in your home
 
 First hanging chairs were constructed in the 60s. The most popular model from that period is the famous **Bubble Chair**, designed in 1968 by a Finnish creator. The seat is perfectly round and made of transparent material. The chair is hung from the ceiling on a metal chain, so that it resembles a floating bubble.
@@ -27,6 +32,7 @@ There are many types of **hanging chairs**. Designers constantly create new form
 The main difference between furniture of this type is in appearance and construction. Not every hanging chair is suitable for every room. When choosing the right object, consider your own needs and the purpose of the chair. Most furniture shops offer products such as:
 
 {:.list.list-positive}
+
 * **Ceiling hanging chair** - it is the most appealing type. The seat hangs on a rope attached to a hook fixed to a ceiling. This type allows full range of movement for a user. There are wider and narrower models, you can choose the one that fits your particular needs.
 * **Hanging chair with stand** - this type is more mobile. The seat hangs from a stand placed on the floor. It is much smaller than the version attached to a ceiling. It is a big advantage in places of limited space. A hanging chair of this type offers a smaller range of movement. The mobility allows to put it on a balcony or in summer - on a patio.
 * **Brazilian hammock chair** - it’s a type of hammock. Its advantage is the fact that it perfectly fits any body shape. It is also much cheaper than the previous models. The hanging chair of this type might be removed if needed. It can be easily stored in a wardrobe, not taking too much space.
@@ -43,6 +49,7 @@ If you decided to buy a hanging chair, pay attention to its shape. There are man
 The shape is not the only criterion that you should pay attention to. A **hanging chair** might be made of various materials. The original Bubble Chair is made of acrylic, stainless steel frame and leather cushion. The most commonly used materials are:
 
 {:.list.list-positive}
+
 * **Rattan** - rattan constructions are very decorative. It’s a **durable and eco-friendly** material, although it is not resistant to water. For this reason weaved furniture should not be placed outside. You can coat the pieces with varnish.
 * **Technorattan** - a technorattan hanging chair is as decorative as natural rattan furniture. Its main advantage is **durability and resistance** to weather conditions.
 * **Wood** - material of this type is heavier than the others. It is perfect for those who value natural materials.
