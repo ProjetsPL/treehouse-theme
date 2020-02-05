@@ -7,10 +7,15 @@ description: |-
   Nowoczesne łóżko z palet. Jak zrobić łóżko na paletach?
   Meble z palet to ostatnio bardzo popularny trend. Jest to niezwykle ekologiczny sposób na stylowe i tanie wyposażenie. Ciekawym pomysłem jest łóżko z palet.
 image: "/uploads/nowoczesne-lozko-z-palet.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: Meble z palet to ostatnimi czasy popularny sposób na urządzenie wnętrz. Jest
+  to nie tylko tanie rozwiązanie. Zaletą mebli z palet jest także możliwość dostosowania
+  ich rozmiaru i kształtu do własnych potrzeb. Jednym z najchętniej wykorzystywanych
+  mebli jest łóżko z palet. Nie jest to trudny projekt, dlatego łóżko można wykonać
+  samodzielnie. Odpowiednio przygotowane prezentuje się natomiast niezwykle efektownie.
 
 ---
-Meble z palet to ostatnimi czasy popularny sposób na urządzenie wnętrz. Jest to nie tylko tanie rozwiązanie. Zaletą mebli z palet jest także możliwość dostosowania ich rozmiaru i kształtu do własnych potrzeb. Jednym z najchętniej wykorzystywanych mebli jest łóżko z palet. Nie jest to trudny projekt, dlatego łóżko można wykonać samodzielnie. Odpowiednio przygotowane prezentuje się natomiast niezwykle efektownie.
-
 ## Łóżko z palet - sposób na tanie meble
 
 Palety jeszcze do niedawna były materiałem wykorzystywanym jedynie do transportu towarów. Jednak w ostatnich latach jest to również chętnie wybierany budulec do różnego rodzaju **elementów wyposażenia wnętrz** i ogrodów. Takie rozwiązanie wpisuje się w niezwykle popularne trendy upcyklingu i zero-waste.
