@@ -88,6 +88,9 @@ i18n:
     leave_comment: "Zostaw komentarz"
     title: 'Zainspiruj się i stwórz z nami swój wymarzony dom! - Treehouse'
     home_and_garden: Dom i Ogród
+    select_country: "Wybierz kraj"
+    home_page: "Strona główna"
+    blog_page: "Artykuły"
   us:
     read_more: "Read more"
     published: "Published"
@@ -97,6 +100,9 @@ i18n:
     leave_comment: "Leave a comment"
     title: 'Get inspired and create your dream home with us! - Treehouse'
     home_and_garden: Home & Garden
+    select_country: "Select country"
+    home_page: "Home page"
+    blog_page: "Articles"
 
   en:
     read_more: "Read more"
@@ -107,3 +113,6 @@ i18n:
     leave_comment: "Leave a comment"
     title: 'Get inspired and create your dream home with us! - Treehouse'
     home_and_garden: Home & Garden
+    select_country: "Select country"
+    home_page: "Home page"
+    blog_page: "Articles"

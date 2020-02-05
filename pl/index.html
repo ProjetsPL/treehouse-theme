@@ -18,18 +18,18 @@ description: TreeHouse to miejsce, w którym znajdziesz wskazówki dotyczące do
         </div>
     </div>
     <div class="beams-wrapper global-beam-wrapper index-content">
-        <div class="beam b-size-3">
-            <div class="beam-item b-size-3 index-articles">
-                <section class="beam b-size-3">
-                    <div class="beam-item b-size-3">
-                        <h2 class="h-section">Polecane artykuły</h2>
+        <div class="beam b-size-4">
+            <div class="beam-item b-size-4 index-articles">
+                <section class="beam b-size-4">
+                    <div class="beam-item b-size-4">
+                        <h2 class="h-section">Najnowsze Artykuły</h2>
                     </div>
 
                     {% assign articles = site.posts | where:"lang", "pl" %}
                     {% assign i = 0 %}
 
                     {% for article in articles limit: 10 %}
-                      {% if i == 0 or i == 6 %}
+                      {% if i == 0 or i == 9 %}
                         <div class="beam-item b-size-2">
                           {% include parts/article-box-lg.html article=article %}
                         </div>
@@ -41,6 +41,7 @@ description: TreeHouse to miejsce, w którym znajdziesz wskazówki dotyczące do
 
                       {% assign i = i | plus: 1 %}
                     {% endfor %}
+
                 </section>
             </div>
         </div>

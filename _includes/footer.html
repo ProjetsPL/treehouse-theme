@@ -1,10 +1,10 @@
 <footer class="beams-wrapper global-beam-wrapper page-footer">
   <div class="beam">
     <div class="beam-item page-footer-content">
-      <p class="copy">© 2020 Treehouse. All rights reserved.</p>
+      <p class="copy">© 2018 - 2020 Treehouse. All rights reserved.</p>
       <nav>
         <ul>
-          <li>
+          <!-- <li>
             <a href="static.html" class="btn btn-link">Kontakt</a>
           </li>
           <li>
@@ -12,13 +12,29 @@
           </li>
           <li>
             <a href="static.html" class="btn btn-link">Polityka prywatności</a>
-          </li>
+          </li> -->
         </ul>
       </nav>
       <div class="language">
-        <p>Wybierz język:</p>
-        <a href="" class="btn btn-img-left"><img src="/assets/img/flag-usa.svg" alt="United States flag">United States</a>
-        <a href="" class="btn btn-img-left btn-active"><img src="/assets/img/flag-poland.svg" alt="Poland flag">Polska</a>
+        <p>{{ site.i18n[page.lang].select_country }}:</p>
+
+        {% if page.lang == 'us' %}
+          <a href="/us/" class="btn btn-img-left btn-active">
+        {% else %}
+          <a href="/us/" class="btn btn-img-left">
+        {% endif %}
+          <img src="/assets/img/flag-usa.svg" alt="United States flag"/>
+          United States
+        </a>
+
+        {% if page.lang == 'pl' %}
+          <a href="/pl/" class="btn btn-img-left btn-active">
+        {% else %}
+          <a href="/pl/" class="btn btn-img-left">
+        {% endif %}
+          <img src="/assets/img/flag-poland.svg" alt="Poland flag">
+          Polska
+        </a>
       </div>
     </div>
   </div>

@@ -7,6 +7,7 @@
 .index-title {
     background-color: white;
     border-bottom: 1px solid $gray-2;
+
     .index-title-content {
         display: flex;
         flex-shrink: 1;
@@ -17,7 +18,7 @@
             margin-right: 10px;
         }
         h1 {
-            top: 1px;
+            top: 3px;
             font-size: 15px;
             line-height: 20px;
             font-weight: normal;

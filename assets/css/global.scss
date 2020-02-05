@@ -65,6 +65,7 @@ body {
             margin: 0px;
             padding: 0px;
             li {
+                top: 2px;
                 margin: 0px;
                 padding: 0 0 0 20px;
                 position: relative;
@@ -81,7 +82,7 @@ body {
                 &:before {
                     content: " ";
                     position: absolute;
-                    top: 13px;
+                    top: 12px;
                     left: 1px;
                     display: block;
                     height: 4px;
