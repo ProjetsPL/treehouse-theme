@@ -1,0 +1,56 @@
+.articles-listing-listitem-sm {
+    border-bottom: 1px solid $gray-2;
+    a {
+        display: flex;
+        padding: 20px 0px;
+        text-decoration: none;
+        flex-direction: column;
+        .title-box {
+            display: flex;
+            .img-box {
+                height: 60px;
+                width: 60px;
+                .img {
+                    width: auto;
+                    height: 110%;
+                }
+                .article-rank-label {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    z-index: 1;
+                }
+            }
+            h3 {
+                display: flex;
+                align-items: center;
+                width: calc(100% - 60px);
+                font-size: 14px;
+                line-height: 20px;
+                margin: 0px;
+                padding-left: 10px;
+                display: -webkit-box;
+                -webkit-line-clamp: 3;
+                -webkit-box-orient: vertical;
+                overflow: hidden;
+                &::before {
+                    display: none;
+                }
+            }
+        }
+        &:hover {
+            .title-box {
+                display: flex;
+                .img-box {
+                    opacity: 0.9;
+                }
+                h3 {
+                    color: lighten( $main, 5%);
+                }
+            }
+            &:active {
+                transform: scale(0.98);
+            }
+        }
+    }
+}

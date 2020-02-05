@@ -1,39 +1,60 @@
 ---
-layout: default
+layout: index
 title:  Zainspiruj się i stwórz z nami swój wymarzony dom! - Treehouse
 description: TreeHouse to miejsce, w którym znajdziesz wskazówki dotyczące domu i ogrodu. Zainspiruj się się pomysłami i znajdź produkty odpowiadające Twoim oczekiwaniom.
 ---
-
-<div class="container">
-  <!-- begin author -->
-  <section class="author">
-    <div class="author__inner">
-  <img src="{{site.baseurl}}{{site.icon}}" alt="{{site.author.name}}" class="author__img">
-      <h1 class="author__job">{{ site.author.job }}</h1>
-      <p class="author__bio">TreeHouse to miejsce, w którym znajdziesz wskazówki dotyczące domu i ogrodu. Zainspiruj się się pomysłami i znajdź produkty odpowiadające Twoim oczekiwaniom.</p>
-      <div class="author__more">
-        <a href="mailto:{{site.author.email}}?subject=Hello%20%F0%9F%91%8B" class="say-hello">Napisz do nas!</a>
-        <a href="/pl/" class="know-more">Dowiedz się więcej</a>
-      </div>
+<main class=" page page-index">
+    <div class="beams-wrapper global-beam-wrapper index-title">
+        <div class="beam b-size-4">
+            <div class="beam-item b-size-4 index-title-content">
+                <svg id="Signature_-_gray" data-name="Signature - gray" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+                    <g id="Group_42" data-name="Group 42" transform="translate(-172.5 -172.5)" opacity="0.19">
+                        <path id="Path_129" data-name="Path 129" d="M214.082,188.5v8.909a1.018,1.018,0,0,1-1.018,1.018H209.5v-8.176Z" transform="translate(-27.582 -11.927)" fill="#233030"/>
+                        <path id="Path_130" data-name="Path 130" d="M177.845,178.1v1.782l2.291-.876V186.5h-6.618a1.018,1.018,0,0,1-1.018-1.018V173.518a1.018,1.018,0,0,1,1.018-1.018h11.964a1.018,1.018,0,0,1,1.018,1.018v1.273Z" fill="#233030"/>
+                    </g>
+                </svg>
+                <h1>Zainspiruj się i stwórz z nami swój wymarzony dom!</h1>
+            </div>
+        </div>
     </div>
-  </section>
+    <div class="beams-wrapper global-beam-wrapper index-content">
+        <div class="beam b-size-4">
+            <div class="beam-item b-size-4 index-articles">
+                <section class="beam b-size-4">
+                    <div class="beam-item b-size-4">
+                        <h2 class="h-section">Najnowsze Artykuły</h2>
+                    </div>
 
+                    {% assign articles = site.posts | where:"lang", "pl" %}
+                    {% assign i = 0 %}
 
-  {% assign articles = site.posts | where:"lang", "pl" %}
+                    {% for article in articles limit: 10 %}
+                      {% if i == 0 or i == 9 %}
+                        <div class="beam-item b-size-2">
+                          {% include parts/article-box-lg.html article=article %}
+                        </div>
+                      {% else %}
+                      <div class="beam-item b-size-1">
+                        {% include parts/article-box-sm.html article=article %}
+                      </div>
+                      {% endif %}
 
-  {% for article in articles limit: 3 %}
-    {% include parts/article.html article=article %}
-  {% endfor %}
+                      {% assign i = i | plus: 1 %}
+                    {% endfor %}
 
-  <article class="post">
-    <div class="post__content">
+                </section>
+            </div>
+        </div>
 
-      <h2>Zainspiruj się najnowszymi trendami</h2>
-      <p>Postaw na oryginalne aranżacje w swoim domu lub mieszkaniu. Zainspiruj się naszymi pomysłami dotyczącymi wnętrz domowych oraz ich dekoracji. W propozycjach Treehouse znajdziesz projekty, które charakteryzuje nowoczesny design. Wolisz klasykę? Przygotowaliśmy także nowe wydania tradycyjnego wystroju. Na naszej stronie znajdziesz także najnowsze trendy wnętrzarskie.</p>
-
-      <h2>Korzystaj z porad specjalistów</h2>
-      <p>Marzysz o pięknym domu lub ogrodzie, ale nie wiesz, od czego zacząć? Szukasz wskazówek dotyczących produktów, prac remontowych, czy wyboru sprzętu do mieszkania? Nie wiesz, jakie meble wybrać lub czy będą pasować do danego wnętrza? Nie musisz już więcej się martwić. Skorzystaj z podpowiedzi naszych specjalistów. Przygotowaliśmy dla Ciebie porady z różnych obszarów tematycznych.</p>
-
+        <div class="beam  b-size-4">
+            <section class="beam-item b-size-2">
+                <h2 class="h-section">Zainspiruj się najnowszymi trendami</h2>
+                <p>Postaw na oryginalne aranżacje w swoim domu lub mieszkaniu. Zainspiruj się naszymi pomysłami dotyczącymi wnętrz domowych oraz ich dekoracji. W propozycjach Treehouse znajdziesz projekty, które charakteryzuje nowoczesny design. Wolisz klasykę? Przygotowaliśmy także nowe wydania tradycyjnego wystroju. Na naszej stronie znajdziesz także najnowsze trendy wnętrzarskie.</p>
+            </section>
+            <section class="beam-item b-size-2">
+                <h2 class="h-section">Korzystaj z porad specjalistów</h2>
+                <p>Marzysz o pięknym domu lub ogrodzie, ale nie wiesz, od czego zacząć? Szukasz wskazówek dotyczących produktów, prac remontowych, czy wyboru sprzętu do mieszkania? Nie wiesz, jakie meble wybrać lub czy będą pasować do danego wnętrza? Nie musisz już więcej się martwić. Skorzystaj z podpowiedzi naszych specjalistów. Przygotowaliśmy dla Ciebie porady z różnych obszarów tematycznych.</p>
+            </section>
+        </div>
     </div>
-  </article>
-</div>
+</main>

@@ -1,20 +1,86 @@
 ---
-layout: default
+layout: blog
 title: Blog Treehouse - create your dream home with us!
 description: TreeHouse is a platform where you can find many brilliant ideas for home and garden. Get inspired and find products that will meet all your expectations.
 ---
-
-<div class="container">
-  <section class="author">
-    <div class="author__inner">
-      <h1 class="author__job">Blog</h1>
+<main class="page page-articles-list">
+    <div class="beams-wrapper global-beam-wrapper breadcrumbs">
+        <div class="beam b-size-4">
+            <div class="beam-item b-size-4 breadcrumbs-content">
+                <svg id="Signature_-_gray" data-name="Signature - gray" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+                    <g id="Group_42" data-name="Group 42" transform="translate(-172.5 -172.5)" opacity="0.19">
+                        <path id="Path_129" data-name="Path 129" d="M214.082,188.5v8.909a1.018,1.018,0,0,1-1.018,1.018H209.5v-8.176Z" transform="translate(-27.582 -11.927)" fill="#233030"/>
+                        <path id="Path_130" data-name="Path 130" d="M177.845,178.1v1.782l2.291-.876V186.5h-6.618a1.018,1.018,0,0,1-1.018-1.018V173.518a1.018,1.018,0,0,1,1.018-1.018h11.964a1.018,1.018,0,0,1,1.018,1.018v1.273Z" fill="#233030"/>
+                    </g>
+                </svg>
+                <ul>
+                    <li><a href="/us/">Home page</a></li>
+                    <li><a href="/us/blog.html">Articles</a></li>
+                </ul>
+            </div>
+        </div>
     </div>
-  </section>
+    <div class="beams-wrapper  global-beam-wrapper articles-list-content ">
+        <div class="beam b-size-4">
+            <div class="beam-item b-size-3 articles-list-articles">
+                 <section class="beam b-size-6">
+                    <div class="beam-item b-size-6">
+                        <h1 class="h-section">Articles</h1>
+                        <p>Bring the most original projects into your house. Get inspired with our best home decor ideas. On Treehouse you will find the most innovative project designs. Perhaps you are a traditionalist? We got you covered. We prepared some fresh designs of well-known classic forms. On our website you will find the latest trends and styles in interior design.</p>
+                    </div>
 
+                    {% assign articles = site.posts | where:"lang", "us" %}
+                    {% assign i = 0 %}
 
-  {% assign articles = site.posts | where:"lang", "us" %}
+                    {% for article in articles %}
+                      {% if i == 0 or i == 1 %}
+                        <div class="beam-item b-size-3">
+                          {% include parts/article-box-md.html article=article %}
+                        </div>
+                      {% else %}
+                      <div class="beam-item b-size-2">
+                        {% include parts/article-box-sm.html article=article %}
+                      </div>
+                      {% endif %}
 
-  {% for article in articles %}
-    {% include parts/article.html article=article %}
-  {% endfor %}
-</div>
+                      {% assign i = i | plus: 1 %}
+                    {% endfor %}
+
+                    <!-- <div class="beam-item beam-pagination">
+                        <ul>
+                            <li class="previous"><a href=""><img src="/assets/img/more-arrow.svg"  alt="Poprzednia strona"></a></a></li>
+                            <li><a href="">1</a></li>
+                            <li class="active"><a href="">3</a></li>
+                            <li><a href="">4</a></li>
+                            <li><a href="">...</a></li>
+                            <li class="next"><a href=""><img src="/assets/img/more-arrow.svg"  alt="Następna strona"></a></li>
+                        </ul>
+                    </div> -->
+                </section>
+            </div>
+            <div class="beam-item b-size-1 articles-list-sidebar">
+                 <section class="beam recommended-articles">
+                    <div class="beam-item">
+                        <h2 class="h-section">Promoted</h2>
+                    </div>
+                    {% assign promoted_articles = site.posts | where:"lang", "us" | where:"promoted", true %}
+
+                    {% for article in promoted_articles limit: 10 %}
+                      <div class="beam-item">
+                        {% include parts/article-list-sm.html article=article %}
+                      </div>
+                    {% endfor %}
+                </section>
+
+            </div>
+        </div>
+
+        <div class="beam b-size-2">
+
+            <section class="beam-item b-size-2">
+                <h2 class="h-section">Ask our experts</h2>
+                <p>You dream of a beautiful house or garden but you don’t know where to start? Are you looking for some guidance on choosing a product, making a renovation or furnishing your room? You are not sure which furniture to choose or whether it will fit your house? Worry no more. Refer to our specialists. We prepared the best an most original tips and tricks on various topics.</p>
+            </section>
+        </div>
+    </div>
+</main>

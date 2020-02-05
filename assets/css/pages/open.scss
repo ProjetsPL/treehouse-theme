@@ -1,0 +1,72 @@
+---
+---
+// two lines are required to parse scss
+
+@import "variables.scss";
+
+.page-home {
+    margin-top: 0px;
+    .home-header {
+        min-height: 100vh;
+        .header-img {
+            .img-box {
+                height: 100%;
+                max-width: 500px;
+                margin-left: -$beam-gutter-size/2;
+                .img {
+                    height: 100%;
+                    width: auto;
+                }
+            }
+        }
+        .header-content {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            .logo {
+                margin-bottom: 70px;
+            }
+            p{
+                margin-top: 0px;
+            }
+            .language {
+                p {
+                    margin-bottom: 20px;
+                }
+            }
+        }
+    }
+}
+@media (max-width: 1050px) {
+    .page-home {
+        .home-header {
+            .header-content {
+                .logo {
+                    margin-bottom: 20px;
+                }
+            }
+        }
+    }
+}
+@media (max-width: 750px) {
+    .page-home {
+        .home-header {
+            min-height: auto;
+            .header-img {
+                display: none;
+            }
+            .header-content {
+                flex-basis: 100%;
+                height: auto;
+                .logo {
+                    margin-top: 20px;
+                }
+            }
+        }
+        .home-content {
+            .beam-item {
+                flex-basis: 100%;
+            }
+        }
+    }
+}

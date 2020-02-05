@@ -1,0 +1,368 @@
+.btn {
+    display: inline-flex;
+    align-content: center;
+    justify-content: center;
+    line-height: 34px;
+    height: 34px;
+    padding: 0 30px;
+    border: 1px solid $gray-3;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    color: $gray-6;
+    outline: none;
+    cursor: pointer;
+    &:hover {
+        border-color: lighten( $main, 5%);
+    }
+    &:active {
+        transform: scale(0.97);
+    }
+    &.btn-main {
+        background-color: $main;
+        color: $gray-0;
+        border-color: $main;
+        &:hover {
+            background-color: lighten( $main, 5%);
+            color: $gray-0;
+            border-color: lighten( $main, 5%);
+        }
+    }
+    &.btn-up {
+        text-transform: uppercase;
+        letter-spacing: 1.5px;
+    }
+    &.btn-img-right {
+        font-weight: normal;
+        padding: 0 15px;
+        img {
+            padding-left: 10px;
+        }
+    }
+    &.btn-img-left {
+        font-weight: normal;
+        padding: 0 15px;
+        img {
+            padding-right: 10px;
+        }
+    }
+    &.btn-active {
+        border-color: $main;
+        &:hover {
+            border-color: lighten( $main, 10%);
+        }
+    }
+    &.btn-link {
+        padding: 0 10px;
+        font-weight: normal;
+        border: 0px;
+        img {
+            padding-right: 0px;
+        }
+        &:hover {
+            background-color: $gray-1;
+        }
+    }
+}
+
+.inp {
+    display: inline-flex;
+    margin-bottom: 20px;
+    .info {
+        position: absolute;
+        bottom: -10px;
+        left: 0px;
+        width: 100%;
+        font-size: 8px;
+        color: $danger;
+    }
+    input {
+        display: inline-flex;
+        line-height: 32px;
+        height: 34px;
+        border: 1px solid $gray-3;
+        border-radius: 4px;
+        padding: 2px 25px 0 15px;
+        font-size: 14px;
+        outline: none;
+        margin-bottom: 0px;
+        &::placeholder {
+            color: $gray-3;
+        }
+        &:focus {
+            border: 1px solid $main;
+        }
+    }
+    &.success {
+        position: relative;
+        &:before {
+            background-image: url('../img/inp-success.svg');
+            background-size: cover;
+            content: "";
+            display: block;
+            height: 7px;
+            right: 10px;
+            position: absolute;
+            bottom: 13px;
+            width: 10px;
+        }
+    }
+    &.danger {
+        position: relative;
+        input {
+            border-color: $danger;
+        }
+        &:before {
+            background-image: url('../img/inp-danger.svg');
+            background-size: cover;
+            content: "";
+            display: block;
+            height: 10px;
+            right: 10px;
+            position: absolute;
+            bottom: 12px;
+            width: 2.3px;
+        }
+    }
+}
+
+.inp-btn {
+    display: inline-flex;
+    .inp {
+        border-right-width: 0px;
+        border-radius: 4px 0px 0px 4px;
+        &:focus {
+            border-right-width: 0px;
+        }
+    }
+    .btn {
+        border-radius: 0px 4px 4px 0px;
+    }
+}
+
+figure {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 30px 0;
+    img,
+    figcaption {
+        width: 100%;
+    }
+    figcaption {
+        background-color: $gray-1;
+        padding: 10px 20px;
+        font-size: 13px;
+        line-height: 22px;
+    }
+}
+
+.distinction {
+    display: block;
+    position: relative;
+    padding: 20px;
+    background-color: $gray-1;
+    border-left: 5px solid $gray-3;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    &.distinction-question,
+    &.distinction-information,
+    &.distinction-warning {
+        &:before {
+            content: "";
+            display: block;
+            position: absolute;
+            height: 30px;
+            width: 30px;
+            background-size: cover;
+            top: 50%;
+            transform: translateY(-50%);
+            left: -50px;
+        }
+    }
+    >* {
+        margin: 0;
+        margin: 0px 0px 10px 0px;
+        &:last-child {
+            margin-bottom: 0px;
+        }
+    }
+    h1,
+    h2,
+    h3,
+    h4 {
+        font-size: 15px;
+        line-height: 22px;
+        &::before {
+            display: none;
+        }
+    }
+    &.distinction-question {
+        background-color: rgba($main, .03);
+        border-left: 5px solid $main;
+        color: darken($main, 5%);
+        * {
+            color: darken($main, 5%);
+        }
+        &:before {
+            background-image: url('../img/icon-question.svg');
+        }
+    }
+    &.distinction-information {
+        background-color: rgba($info, .03);
+        border-left: 5px solid $info;
+        color: $info;
+        * {
+            color: $info;
+        }
+        &:before {
+            background-image: url('../img/icon-info.svg');
+        }
+    }
+    &.distinction-warning {
+        background-color: rgba($danger, .03);
+        border-left: 5px solid $danger;
+        color: $danger;
+        * {
+            color: $danger;
+        }
+        &:before {
+            background-image: url('../img/icon-danger.svg');
+        }
+    }
+}
+
+@media (max-width:1200px+100px) {
+    .distinction {
+        &.distinction-question,
+        &.distinction-information,
+        &.distinction-warning {
+            &:before {
+                left: -18px;
+                top: 0px;
+            }
+        }
+    }
+}
+
+.article-label {
+    display: inline-flex;
+    padding: 7px 10px 5px 10px;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 0.4px;
+    text-transform: uppercase;
+    font-weight: 600;
+    &.article-label-main {
+        color: $gray-0;
+        background-color: $main;
+    }
+    &.article-label-garden {
+        color: $gray-0;
+        background-color: $garden;
+    }
+    &.article-label-construction {
+        color: $gray-6;
+        background-color: $construction;
+    }
+    &.article-label-interior {
+        color: $gray-0;
+        background-color: $interior;
+    }
+}
+
+.article-rank-label {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20px;
+    width: 20px;
+    color: $gray-0;
+    background-color: $main;
+}
+
+.list {
+    padding-left: 50px;
+    list-style: none;
+    li {
+        line-height: 26px;
+        padding-bottom: 10px;
+        position: relative;
+        &:before {
+            content: "";
+            display: block;
+            position: absolute;
+            top: 10px;
+            left: -26px;
+            height: 6px;
+            width: 6px;
+            background-image: url('../img/list-dot.svg');
+            background-position: center;
+        }
+    }
+    &.list-positive {
+        li {
+            &:before {
+                top: 10px;
+                left: -26px;
+                height: 7px;
+                width: 10px;
+                background-image: url('../img/list-dot-positive.svg');
+            }
+        }
+    }
+    &.list-negative {
+        li {
+            &:before {
+                top: 8px;
+                left: -26px;
+                height: 9px;
+                width: 9px;
+                background-image: url('../img/list-dot-negative.svg');
+            }
+        }
+    }
+}
+
+@media (max-width: 550px) {
+    .list {
+        padding-left: 20px;
+        li {
+            &:before {
+                left: -16px;
+            }
+        }
+    }
+}
+
+q {
+    display: block;
+    position: relative;
+    padding: 20px;
+    background-color: $gray-1;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    &:after,
+    &:before {
+        display: none;
+    }
+    footer {
+        display: block;
+        position: relative;
+        padding-top: 5px;
+        margin-top: 5px;
+        border-top: 1px solid $gray-2;
+        font-size: 13px;
+        line-height: 19px;
+        text-align: right;
+        * {
+            font-size: 13px;
+            line-height: 19px;
+        }
+        a {
+            color: darken($main, 5%);
+        }
+    }
+}

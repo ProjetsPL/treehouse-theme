@@ -6,7 +6,7 @@ module Jekyll
 
       def render(context)
         text = super
-        "<div class='faq-item'>#{text}</div>"
+        "<section class='distinction distinction-question'>#{text}</section>"
       end
 
     end

@@ -1,0 +1,312 @@
+---
+---
+// two lines are required to parse scss
+
+// Fonts
+@import "fonts.scss";
+
+// Variables
+@import "variables.scss";
+
+// Typography
+@import "components-global/typogrphy.scss";
+
+// UI components (buttons, inputs, etc)
+@import "components-global/ui_components.scss";
+
+*,
+ ::before,
+ ::after {
+    box-sizing: border-box;
+    font-family: poppins, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    color: $gray-6;
+    font-size: 15px;
+    line-height: 26px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.page {
+    margin-top: 80px;
+}
+
+@media (max-width: 950px) {
+    .page {
+        margin-top: 50px;
+    }
+}
+
+@media (max-width: 620px) {
+    .page {
+        margin-top: 0px;
+    }
+}
+
+// Breadcrumbs
+.breadcrumbs {
+    background-color: white;
+    border-bottom: 1px solid $gray-2;
+    .breadcrumbs-content {
+        display: flex;
+        align-items: center;
+        height: 30px;
+        svg {
+            margin-right: 5px;
+        }
+        ul {
+            display: flex;
+            align-items: baseline;
+            list-style: none;
+            margin: 0px;
+            padding: 0px;
+            li {
+                top: 2px;
+                margin: 0px;
+                padding: 0 0 0 20px;
+                position: relative;
+                a {
+                    display: block;
+                    padding: 2px 5px 0;
+                    line-height: 28px;
+                    text-decoration: none;
+                    color: $gray-6;
+                    &:hover {
+                        color: lighten( $main, 5%);
+                    }
+                }
+                &:before {
+                    content: " ";
+                    position: absolute;
+                    top: 12px;
+                    left: 1px;
+                    display: block;
+                    height: 4px;
+                    width: 16px;
+                    background-image: url('../img/breadcrumb-arrow.svg');
+                    background-size: cover;
+                }
+                &:first-child {
+                    padding: 0;
+                    &:before {
+                        display: none;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 1050px) {
+    .breadcrumbs {
+        .breadcrumbs-content {
+            svg {
+                display: none;
+            }
+            ul {
+                li {
+                    display: none;
+                    &:nth-last-child(2) {
+                        display: block;
+                        padding-left: 0px;
+                        &:before {
+                            transform: rotate(180deg);
+                            left: 0px;
+                        }
+                        a {
+                            padding-left: 20px;
+                            padding-right: 10px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+//IMG ratio boxes
+.img-box {
+    position: relative;
+    overflow: hidden;
+    .img {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        width: 100%;
+        transform: translateX(-50%) translateY(-50%);
+    }
+    &.img-ratio-16-9 {
+        position: relative;
+        width: 100%;
+        padding-top: 56.25%;
+    }
+    &.img-ratio-16-6 {
+        position: relative;
+        width: 100%;
+        padding-top: 35%;
+        /*16-5.657*/
+        // padding-top: 37.5%;  16-6
+    }
+}
+
+@media (max-width: 750px) {
+    .img-box {
+        &.img-ratio-16-6 {
+            padding-top: 56.25%;
+        }
+    }
+}
+
+//Document Structure
+.beams-wrapper {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-left: 0px;
+    padding-right: 0px;
+    position: relative;
+    &.global-beam-wrapper {
+        .beam {
+            max-width: $beam-size;
+        }
+    }
+}
+
+.beam-item>.beam {
+    margin-left: -($beam-gutter-size/2);
+    --beam-gutter-size: #{$beam-gutter-size};
+    max-width: $beam-size;
+    width: calc(var(--beam-gutter-size) + 100%);
+}
+
+.beam {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: calc(100%);
+    &.b-size-6 {
+        >.b-size-1 {
+            flex-basis: 16.66%;
+        }
+        >.b-size-2 {
+            flex-basis: 33.33%;
+        }
+        >.b-size-3 {
+            flex-basis: 50%;
+        }
+        >.b-size-4 {
+            flex-basis: 66.66%;
+        }
+        >.b-size-5 {
+            flex-basis: 83.33%;
+        }
+        >.b-size-6 {
+            flex-basis: 100%;
+        }
+    }
+    &.b-size-5 {
+        >.b-size-1 {
+            flex-basis: 20%;
+        }
+        >.b-size-2 {
+            flex-basis: 40%;
+        }
+        >.b-size-3 {
+            flex-basis: 60%;
+        }
+        >.b-size-4 {
+            flex-basis: 80%;
+        }
+        >.b-size-5 {
+            flex-basis: 100%;
+        }
+    }
+    &.b-size-4 {
+        >.b-size-1 {
+            flex-basis: 25%;
+        }
+        >.b-size-2 {
+            flex-basis: 50%;
+        }
+        >.b-size-3 {
+            flex-basis: 75%;
+        }
+        >.b-size-4 {
+            flex-basis: 100%;
+        }
+    }
+    &.b-size-3 {
+        >.b-size-1 {
+            flex-basis: 33.33%;
+        }
+        >.b-size-2 {
+            flex-basis: 66.66%;
+        }
+        >.b-size-3 {
+            flex-basis: 100%;
+        }
+    }
+    .beam-item {
+        padding-left: $beam-gutter-size/2;
+        padding-right: $beam-gutter-size/2;
+        width: 100%;
+        &.beam-more {
+            padding-top: 10px;
+            display: flex;
+            justify-content: flex-end;
+        }
+        &.beam-pagination {
+            ul {
+                border-top: 1px solid $gray-2;
+                border-bottom: 1px solid $gray-2;
+                list-style: none;
+                display: flex;
+                flex-direction: row;
+                justify-content: center;
+                align-items: center;
+                margin-bottom: 20px;
+                li {
+                    &.previous {
+                        transform: rotate(180deg);
+                    }
+                    a {
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        height: 24px;
+                        width: 24px;
+                        text-decoration: none;
+                        color: $gray-6;
+                        padding-top: 2px;
+                        &:hover {
+                            background-color: $gray-1;
+                        }
+                        &:active {
+                            transform: scale(0.9);
+                        }
+                    }
+                    &.previous,
+                    &.next {
+                        a {
+                            padding-top: 0px;
+                        }
+                    }
+                    &.active {
+                        a {
+                            background-color: $main;
+                            color: $gray-0;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@import "components-global/page_header.scss";
+@import "components-global/page_footer.scss";
