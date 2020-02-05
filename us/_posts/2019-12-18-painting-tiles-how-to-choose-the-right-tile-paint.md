@@ -6,10 +6,16 @@ title: Painting tiles - how to choose the right tile paint?
 description: Tile paint is a great product that you can use for a quick room renovation.
   It’s quite easy! Check which tile paint is the best for your bathroom or kitchen.
 image: "/uploads/Farba do płytek - na czym polega malowanie płytek.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: Your bathroom floor tiles that looked amazing several years ago, now are probably
+  not as great. They might seem unaesthetic, outdated, or simply boring. However a
+  complete tile replacement means a lot of expenses and a long time spent on a renovation.
+  You can avoid all the trouble if you decide to use tile paint. Painting tile is
+  much quicker than replacing them. Combined with some other minor changes, you can
+  completely transform your room over the course of one weekend.
 
 ---
-Your bathroom floor tiles that looked amazing several years ago, now are probably not as great. They might seem unaesthetic, outdated, or simply boring. However a complete tile replacement means a lot of expenses and a long time spent on a renovation. You can avoid all the trouble if you decide to use tile paint. Painting tile is much quicker than replacing them. Combined with some other minor changes, you can completely transform your room over the course of one weekend.
-
 ## Painting tile - a quick makeover
 
 Ceramic tile is a quite sturdy material. However the longer the tiles are exploited, the less radiant they become. **Floor tiles** lose their original gloss and the grout colour fades. Tile replacement might be pretty expensive and overly exhausting. Usually such makeover means either hiring a construction crew or sacrificing one’s own freetime to **do such a renovation yourself**.
