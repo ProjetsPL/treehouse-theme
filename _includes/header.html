@@ -88,24 +88,18 @@
             </g>
           </g>
         </svg>
-        <span>Artykuły</span>
+        <span>{{site.i18n[page.lang].blog_page}}</span>
       </a>
     </li>
 
-    <li>
-      <a href="static.html">
-        <span>O nas</span>
-      </a>
-    </li>
-    <li>
-      <a href="static.html">
-        <span>Kontakt</span>
-      </a>
-    </li>
-    <li>
-      <a href="static.html">
-        <span>Polityka prywatności</span>
-      </a>
-    </li>
   </ul>
 </nav>
+
+<script type="text/javascript">
+  function menuButtonAction() {
+      const menuButton = document.querySelector("#menuButton"),
+          menuContainer = document.querySelector("#menuContainer");
+      menuButton.classList.toggle("open");
+      menuContainer.classList.toggle("open");
+  }
+</script>
