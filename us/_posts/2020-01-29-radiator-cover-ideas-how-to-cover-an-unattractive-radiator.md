@@ -6,10 +6,15 @@ title: Radiator cover ideas. How to cover an unattractive radiator?
 description: If all your radiator does is heating and it doesn’t have any aesthetic
   valours, a radiator cover might be a good idea. What are pros and cons of such solution?
 image: "/uploads/oslona-na-kaloryfer.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: An unaesthetic radiator is a problem of many, otherwise good looking, apartments.
+  Despite the existence of decorative radiators, most of available heating devices
+  are not particularly beautiful objects. If it is also your problem, a radiator cover
+  might be a good idea. It hides the ugly device, keeping its functionality. What
+  type of radiator cover is the best?
 
 ---
-An unaesthetic radiator is a problem of many, otherwise good looking, apartments. Despite the existence of decorative radiators, most of available heating devices are not particularly beautiful objects. If it is also your problem, a radiator cover might be a good idea. It hides the ugly device, keeping its functionality. What type of radiator cover is the best?
-
 ## What is a radiator cover?
 
 Radiator cover is a perfect solution when your heating device does not comply with your own aesthetic standards. **Old column radiators** rarely fit newly furnished interiors. New, steel heaters are not very aesthetically pleasing either.
