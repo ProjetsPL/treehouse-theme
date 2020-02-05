@@ -6,10 +6,15 @@ title: Las w słoiku. Jak samodzielnie posadzić rośliny w słoiku?
 description: Rośliny w słoiku to efektywna i mało wymagająca ozdoba. Wiele osób zastanawia
   się, jak zrobić las w słoiku. Taka dekoracja jest bardzo łatwa w przygotowaniu.
 image: "/uploads/Las w słoiku - Jak samodzielnie posadzić rośliny w słoiku.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: Las w słoiku jest coraz popularniejszym elementem wystroju wnętrz. Taka dekoracja
+  jest niezwykle łatwa do wykonania i pasuje do aranżacji w każdym stylu. Rośliny
+  w słoiku wyglądają bardzo efektownie w domowej przestrzeni, wzbudzając zachwyt gości.
+  Są one idealne dla osób zabieganych - ich pielęgnacja wiąże się z zaledwie minimalnym
+  wysiłkiem.
 
 ---
-**Las w słoiku jest coraz popularniejszym elementem wystroju wnętrz. Taka dekoracja jest niezwykle łatwa do wykonania i pasuje do aranżacji w każdym stylu. Rośliny w słoiku wyglądają bardzo efektownie w domowej przestrzeni, wzbudzając zachwyt gości. Są one idealne dla osób zabieganych - ich pielęgnacja wiąże się z zaledwie minimalnym wysiłkiem.**
-
 ## Miniaturowy las w słoiku
 
 W każdym domowym wyposażeniu powinny znaleźć się jakieś rośliny. W miastach kontakt z naturą jest szczególnie mocno ograniczony. Dlatego dla wielu osób ten element wystroju wnętrz może okazać się wręcz niezbędny. Obecność roślin w mieszkaniu przede wszystkim wpływa kojąco na organizm człowieka. **Rośliny w słoiku** idealnie nadają się do tego zadania. Taki **miniaturowy ogródek** to zamknięty ekosystem przypominający prawdziwą ściółkę leśną. Ponadto jego obserwacja to niezwykle relaksujące zajęcie.
@@ -37,6 +42,7 @@ W słoikach, które będą zamknięte, najlepiej umieszczać **rośliny tropikal
 Do tego rodzaju kompozycji można użyć **gatunków** takich jak:
 
 {:.list.list-positive}
+
 * paprocie,
 * mech,
 * skrzydłokwiat,
@@ -52,6 +58,7 @@ Do tego rodzaju kompozycji można użyć **gatunków** takich jak:
 Oprócz roślin należy zwrócić uwagę również na wybór **dodatków dekoracyjnych**. W tym przypadku będą to:
 
 {:.list}
+
 * kamienie,
 * kora,
 * szyszki,
@@ -68,6 +75,7 @@ Jeżeli kompozycja ma być otwarta, to w słoiku powinny znaleźć się **kaktus
 **Przed przystąpieniem do układania kompozycji**, należy zaopatrzyć się w pewne niezbędne elementy. Po wybraniu **odpowiednich roślin** potrzebne będą jeszcze:
 
 {:.list}
+
 * **Szklane naczynie** - pojemnik może mieć dowolny kształt. Jeżeli las w szkle będzie składał się z roślin lubiących wilgoć, naczynie musi posiadać natomiast szczelne zamknięcie. Wielkość słoja należy dobierać odpowiednio do rozmiaru roślin. Warto wybrać większe naczynie, aby pozostawić trochę miejsca na wzrost. Do dekoracji, jaką jest **las w słoiku**, sprawdzą się duże słoje, butelki o szerokich szyjkach, a nawet zużyte żarówki, z których usunięto żarnik.
 
 {% fig %}
@@ -75,6 +83,7 @@ Jeżeli kompozycja ma być otwarta, to w słoiku powinny znaleźć się **kaktus
 {% endfig %}
 
 {:.list}
+
 * **Podłoże** - wystarczy zwykła ziemia uniwersalna, ale sprawdzi się również każde inne podłoże. Należy upewnić się, że jest ono **wolne od chorób oraz grzybów.** Jeżeli w słoju będą znajdować się **sukulenty**, warto zastosować ziemię przeznaczoną specjalnie do nich.
 * **Węgiel drzewny aktywowany** - produkt ten można nabyć w aptece lub w sklepie zoologicznym. Będzie on odpowiadać za regulację wilgotności w zamkniętym naczyniu. **Węgiel zapewnia również, że rośliny w słoiku nie zaczną gnić.** Nie jest on wymagany w przypadku kompozycji otwartych z sukulentami.
 * **Żwirek lub piasek** - podłoże tego typu stanowi drenaż w kompozycji, jaką jest las w słoiku. Warstwy piasku lub żwiru **zbierają nadmiar wody** i chronią system korzeniowy roślin przed przemakaniem. W tej roli dobrze sprawdzi się także keramzyt ogrodniczy.
@@ -88,6 +97,7 @@ Jeżeli kompozycja ma być otwarta, to w słoiku powinny znaleźć się **kaktus
 Po przygotowaniu wszystkich niezbędnych elementów można zabrać się za wykonanie dekoracji, jaką jest **las w słoiku**. Wbrew pozorom, nie jest to trudne zadanie. Powierzchnię roboczą warto zabezpieczyć gazetami, aby **zminimalizować sprzątanie po skończonej pracy.**
 
 {:.list}
+
 1. Naczynia należy umyć, a następnie wyparzyć. Szkło powinno zostać dokładnie wytarte do sucha. Jeżeli istnieje obawa, że **warstwa drenażowa** oraz podłoże są zanieczyszczone, można je uprażyć w piecu. Taki zabieg skutecznie usunie grzyby i bakterie.
 2. Na dnie naczynia należy umieścić pierwszą warstwę, czyli drenaż. Wysypany **piasek lub żwir powinny mieć kilka centymetrów grubości**, najlepiej od 2 do 5 cm.
 3. Drugą warstwą, która składa się na **las w słoiku**, jest **węgiel aktywowany**. Jeżeli rośliny w słoiku to sukulenty, etap ten można pominąć.
