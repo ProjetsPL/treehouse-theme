@@ -6,10 +6,16 @@ title: Modern living room - how to furnish your living room?
 description: A modern living room is a dream of many homeowners. If you wonder how
   to furnish your living room, you might inspire yourself with contemporary styles.
 image: "/uploads/nowoczesny-salon-w-odpowiednim-stylu.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: Living room is one of the most important rooms in every house. It is the area
+  where most social gatherings take place. Living room is usually also the room of
+  relaxation, therefore furnishing it might be quite a challenge. Its design should
+  be characterised by a certain level of coziness. Should it, however, impress your
+  guests, it also has to comply with the latest trends. A modern living room is a
+  combination of an aesthetically pleasing design and functionality.
 
 ---
-Living room is one of the most important rooms in every house. It is the area where most social gatherings take place. Living room is usually also the room of relaxation, therefore furnishing it might be quite a challenge. Its design should be characterised by a certain level of coziness. Should it, however, impress your guests, it also has to comply with the latest trends. A modern living room is a combination of an aesthetically pleasing design and functionality.
-
 ## Modern living room ideas
 
 Living room is the most **representative part of every house** or apartment. Usually it is also a place in which one spends the most of the time. For this reason everyone who designs an interior of this type, should aim for a living room that is not only modern, but also comfortable. Wondering **how to furnish your modern living room**, one should consider the most popular styles and trends.
@@ -58,6 +64,7 @@ As a matter of fact, a particular style is not the most important part of a mode
 All **modern interiors** have certain common features. They should be kept in mind when planning each room of your house. A contemporary modern living room should have:
 
 {:.list.list-positive}
+
 * **Good lighting** - every modern living room needs bright spaces. Let as much natural lighting into the room as possible. If the room is small, you can r**emove curtains and drapes**. Choose lamps that illuminate the whole interior - consider installing several types of lighting (for instance a ceiling lamp and wall lights).
 * **Open space** - do not overwhelm your room with too many objects. If the space is limited, consider choosing furniture with legs, which looks more lightweight. The **furnishing** should be simple, you can choose, however, one or two objects with an unusual form.
 * **Good additions** - all decorations should fit each other. Use ornaments with **moderation** - too many would create a sense of disarray, which is just the opposite of a modern design.
