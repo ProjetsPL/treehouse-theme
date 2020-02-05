@@ -7,10 +7,16 @@ description: Czyszczenie piekarnika może być uciążliwą czynnością. Wcale 
   tak być! Dzięki tym prostym sposobom przestaniesz się zastanawiać, jak wyczyścić
   piekarnik.
 image: "/uploads/Jak wyczyścić piekarnik - To nie takie trudne.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: Czyszczenie piekarnika nie należy do najprzyjemniejszych czynności. Z tego
+  powodu jest ono zazwyczaj odkładane na później, co prowadzi do jeszcze większego
+  nagromadzenia zabrudzeń. Stają się one coraz trudniejsze do usunięcia. Na szczęście
+  istnieje wiele sposobów, dzięki którym przestaniesz się zastanawiać, jak wyczyścić
+  piekarnik. Podane poniżej metody nie powinny sprawić ci większych trudności w przywróceniu
+  sprzętowi dawnego blasku.
 
 ---
-**Czyszczenie piekarnika nie należy do najprzyjemniejszych czynności. Z tego powodu jest ono zazwyczaj odkładane na później, co prowadzi do jeszcze większego nagromadzenia zabrudzeń. Stają się one coraz trudniejsze do usunięcia. Na szczęście istnieje wiele sposobów, dzięki którym przestaniesz się zastanawiać, jak wyczyścić piekarnik. Podane poniżej metody nie powinny sprawić ci większych trudności w przywróceniu sprzętowi dawnego blasku.**
-
 ## Czym wyczyścić piekarnik?
 
 Żeby porządki w kuchni nie były za każdym razem utrapieniem, a Ty nie musiał się zastanawiać **jak wyczyścić piekarnik z nagromadzonego brudu**, powinieneś robić to systematycznie. Najlepiej przecierać jego wnętrze po każdym użyciu. Jednak w praktyce czynność ta jest oddalana w czasie, dopóki zabrudzenia nie zaczną przeszkadzać w użytkowaniu.
@@ -30,8 +36,6 @@ Zatem czym czyścić piekarnik? Na szczęście istnieje wiele domowych sposobów
 Jeżeli we wnętrzu urządzenia nie ma wielu zabrudzeń, ich usunięcie nie powinno sprawić większych kłopotów. Sposoby na to, **jak wyczyścić piekarnik**, które nie wymagają wysiłku ani szorowania to:
 
 * **Czyszczenie piekarnika parą** - zastosowanie takiej metody jest możliwe w piekarnikach, które mają funkcję termoobiegu. Jak **wyczyścić piekarnik parą**? Wystarczy naczynie żaroodporne i cytryna. Do naczynia należy wlać wodę i dodać sok z połowy cytryny, a piekarnik nastawić na termoobieg w temperaturze 170°C. Dzięki termoobiegowi para dotrze we wszystkie zakamarki. Po wyłączeniu i ostygnięciu, wnętrze trzeba **przetrzeć czystą ściereczką nasączoną wodą i płynem do naczyń**. Następnie należy usunąć pozostałości płynu i pozostawić powierzchnię do całkowitego wyschnięcia.
-
-
 * **Woda z octem** - lekkie zabrudzenia można skutecznie usunąć, przecierając piekarnik mieszaniną wody z octem. Można do tego użyć miękkiej szmatki lub w przypadku przypalonych resztek jedzenia - ostrej gąbki. Umyte części wystarczy wypłukać czystą wodą i osuszyć, przykładowo za pomocą ręcznika papierowego.
 
 {% fig %}
