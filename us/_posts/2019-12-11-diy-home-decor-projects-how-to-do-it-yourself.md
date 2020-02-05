@@ -7,10 +7,17 @@ description: DIY projects provide a lot of creative decorating ideas for your ho
   Do it yourself decorations do not require any special skills. It is worth to make
   them.
 image: "/uploads/Dekoracje DIY do domu - zrób to sam.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: Decorating is the last stage of home renovation. Stylish decorations might
+  be costly, but don’t necessarily have to be. You can craft a lot of interesting
+  decorations yourself. DIY projects are not only incredibly cheap but also very impressive.
+  They are very easy to make and will give your interior uniqueness, adding a personal
+  touch. Crafting such decorations is a great opportunity to release your creative
+  skills and imagination. So do it yourself, pretend you are an artist and decorate
+  your place with your own pieces of art.
 
 ---
-**Decorating is the last stage of home renovation. Stylish decorations might be costly, but don’t necessarily have to be. You can craft a lot of interesting decorations yourself. DIY projects are not only incredibly cheap but also very impressive. They are very easy to make and will give your interior uniqueness, adding a personal touch. Crafting such decorations is a great opportunity to release your creative skills and imagination. So do it yourself, pretend you are an artist and decorate your place with your own pieces of art.**
-
 ## Do it yourself! Home decor ideas for everyone
 
 You don’t need to have any special abilities to create some elegant and **charming decorations**. Such DIY projects usually do not require spending a lot of money. All needed materials are within your reach. Very few, if any things are required to buy - and usually they are cheap. Naturally, total expenses differ from project to project. There is, however, plenty of **DIY ideas** that do not require buying anything, because everything you need you can find in your own house.
