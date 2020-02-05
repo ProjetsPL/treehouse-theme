@@ -6,10 +6,15 @@ title: Farba do mebli - jak pomalować meble w szybki sposób?
 description: Farba do mebli to coraz częściej wybierany sposób na odświeżenie pomieszczenia.
   Jak pomalować meble, aby efekt był zadowalający? Wystarczy kilka wskazówek!
 image: "/uploads/Farba do mebli - jak pomalować meble w szybki sposób.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: Mebli, które się znudziły lub wyszły z mody, wcale nie trzeba wymieniać na
+  nowe - czasem wystarczy ich renowacja. Dobrym pomysłem na odświeżenie wnętrza jest
+  pomalowanie elementów wyposażenia na nowy kolor. Farba do mebli może wydobyć drzemiący
+  w nich potencjał i całkowicie odmienić charakter pomieszczenia. Jednak, aby efekt
+  takiej metamorfozy nie okazał się rozczarowaniem, ważny jest dobór właściwego produktu.
 
 ---
-**Mebli, które się znudziły lub wyszły z mody, wcale nie trzeba wymieniać na nowe - czasem wystarczy ich renowacja. Dobrym pomysłem na odświeżenie wnętrza jest pomalowanie elementów wyposażenia na nowy kolor. Farba do mebli może wydobyć drzemiący w nich potencjał i całkowicie odmienić charakter pomieszczenia. Jednak, aby efekt takiej metamorfozy nie okazał się rozczarowaniem, ważny jest dobór właściwego produktu.**
-
 ## Farby do mebli - rodzaje
 
 {% fig %}
@@ -19,11 +24,11 @@ image: "/uploads/Farba do mebli - jak pomalować meble w szybki sposób.jpg"
 Producenci posiadają w swej ofercie **różne farby do mebli**, za pomocą których można je odświeżyć. Jednak wśród dostępnych produktów nie każdy nadaje się do wszystkich powierzchni. Zastanawiając się, czym pomalować meble, warto pomyśleć, na jakim efekcie najbardziej ci zależy. Na rynku istnieje wiele rodzajów farb.
 
 * **Emalie akrylowe** - ich spoiwem jest żywica akrylowa a rozcieńczalnikiem woda. Dzięki temu nie wydzielają dużo zapachu i szybko schną. Dają matowe, półmatowe lub błyszczące wykończenie. Są mało **odporne na uszkodzenia mechaniczne**, ale mogą wytrzymać trudne warunki pogodowe oraz promieniowanie UV. Dzięki temu z biegiem lat meble nie zmienią koloru. Taka farba do mebli nadaje się do elementów pokrytych okleiną.
-* **Farby ftalowe (alkidowe)** - podstawą ich składu są żywice alkidowe i oleje, co czyni je **odpornymi na czynniki zewnętrzne.** Powierzchnie nimi pokryte wytrzymają uszkodzenia mechaniczne, działanie wody i temperatury.   
+* **Farby ftalowe (alkidowe)** - podstawą ich składu są żywice alkidowe i oleje, co czyni je **odpornymi na czynniki zewnętrzne.** Powierzchnie nimi pokryte wytrzymają uszkodzenia mechaniczne, działanie wody i temperatury.  
   {:.distinction.distinction-warning}Ich największą wadą jest ciężki zapach podczas malowania.
 * **Farby kredowe** - składają się z wody, proszku kredowego oraz pigmentu. Dzięki prostocie składu są łatwe do samodzielnego wykonania. Dają matowe wykończenie, szybko schną i nie wydzielają ostrego zapachu. Są **ekologiczne** i nadają się do mebli dziecięcych. Ponieważ taka farba do mebli jest mało odporna na uszkodzenia i czynniki zewnętrzne, warto ją **zabezpieczyć lakierem lub woskiem**. Ten rodzaj jest często wykorzystywany przy wykonywaniu efektu przetarcia.
 * **Lakiery i lakierobejce** - jeśli pożądanym efektem jest podkreślenie słoi, sprawdzi się w tym lakier. Lakierobejca nada meblowi kolor, zachowując jednocześnie naturalny rysunek drewna. W zależności od typu lakieru lub lakierobejcy można uzyskać matowe, satynowe lub **błyszczące wykończenie**. Lakiery wodorozcieńczalne mają słaby zapach i szybko schną, ale są mało odporne na zarysowania. Alternatywą są **lakiery poliuretanowe**, jednak te mają tendencję do ciemnienia.
-* **Farby renowacyjne** - ten typ farb jest przeznaczony specjalnie do odnawiania mebli. Nadaje się on do drewna, laminatu, sklejki, jak i płytek ceramicznych. Takie farby do mebli odznaczają się **odpornością na wszelkie uszkodzenia**.   
+* **Farby renowacyjne** - ten typ farb jest przeznaczony specjalnie do odnawiania mebli. Nadaje się on do drewna, laminatu, sklejki, jak i płytek ceramicznych. Takie farby do mebli odznaczają się **odpornością na wszelkie uszkodzenia**.  
   Ich wadą jest długi czas schnięcia (do 12 godzin) w połączeniu z koniecznością nałożenia 2-3 warstw.
 * **Farby tablicowe** - pomalowana nimi powierzchnia nadaje się do pisania kredą oraz zmywania na sucho i mokro. Sprawdzają się w przypadku **mebli dziecięcych**, np. na blat stolika lub drzwi szafy, po których można wówczas rysować.
 
@@ -32,7 +37,7 @@ Producenci posiadają w swej ofercie **różne farby do mebli**, za pomocą któ
 Przed przystąpieniem do **malowania mebla** należy go właściwie do tego przygotować. Wszystkie szuflady powinny zostać wyjęte, a gałki, uchwyty i zawiasy odkręcone. Powierzchnia powinna być zmatowiona, sucha i odpylona. **Do szlifowania należy użyć papieru ściernego** o odpowiedniej grubości. Wygodna w użyciu będzie gąbka ścierna.
 
 {% if page.previous.previous.url and page.previous.lang == page.lang %}
-  {% include post/check_also.md article=page.previous.previous %}
+{% include post/check_also.md article=page.previous.previous %}
 {% endif %}
 
 {:.distinction.distinction-information}
