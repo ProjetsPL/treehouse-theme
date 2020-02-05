@@ -7,7 +7,7 @@ description: You do not have to throw away your old wood paneling. Painted panel
   looks better than new. How to paint wood paneling? All you need is good paint and
   tools.
 image: "/uploads/Malowanie boazerii. Jak pomalowac boazerie, aby dobrze wygladala.jpg"
-promoted: false
+promoted: true
 update_date: 2020-02-05
 intro: Wood paneling was a very popular interior design element of 1970s and 1980s.
   It was cheap and relatively quick to instal. Such decoration still remains in many
