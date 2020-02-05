@@ -6,10 +6,15 @@ title: Farba do płytek - na czym polega malowanie płytek?
 description: Malowanie płytek to świetny sposób na remont pomieszczenia. To proste
   rozwiązanie! Sprawdź, jaka farba do płytek sprawdzi się w twojej łazience lub kuchni
 image: "/uploads/Farba do płytek - na czym polega malowanie płytek.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: Kafelki, które wyglądały świetnie kilka lat temu, dzisiaj mogą okazać się nieestetyczne,
+  niemodne lub po prostu nudne. Jednak ich kompletna wymiana często wiąże się ze sporymi
+  kosztami i generalnym remontem kuchni lub łazienki. Można tego uniknąć, decydując
+  się na ich przemalowanie. Odpowiednia farba do płytek w połączeniu z wybranymi dodatkami
+  pozwoli przeprowadzić metamorfozę pomieszczenia nawet w ciągu jednego weekendu.
 
 ---
-**Kafelki, które wyglądały świetnie kilka lat temu, dzisiaj mogą okazać się nieestetyczne, niemodne lub po prostu nudne. Jednak ich kompletna wymiana często wiąże się ze sporymi kosztami i generalnym remontem kuchni lub łazienki. Można tego uniknąć, decydując się na ich przemalowanie. Odpowiednia farba do płytek w połączeniu z wybranymi dodatkami pozwoli przeprowadzić metamorfozę pomieszczenia nawet w ciągu jednego weekendu.**
-
 ## Malowanie płytek - sposób na szybki remont
 
 Płytki zazwyczaj są całkiem trwałym materiałem. Jednak w miarę ich użytkowania tracą one dawny blask. **Kafle podłogowe** wycierają się, a fugi tracą kolor. Gruntowna wymiana glazury może okazać się kosztowna i uciążliwa. Zazwyczaj oznacza to wynajęcie ekipy lub poświęcenie swoich dni wolnych na **samodzielnie wykonanie remontu**.
