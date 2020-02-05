@@ -7,10 +7,16 @@ description: " Furniture paint is a good idea for a quick, inexpensive makeover.
   is the best furniture paint that will make the room look great? Learn some useful
   tricks!"
 image: "/uploads/Farba do mebli.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: You don’t have to throw away your old furniture if its only flaw is being out-of-date.
+  If you just realized that your furnishing is boring, consider renovating it. Something
+  so simple as brand new colour will give the room a surprisingly fresh look. Furniture
+  paint might unearth the hidden potential of your old furniture. However one must
+  be careful to choose the right product. In this way you can be sure that the makeover
+  will be successful.
 
 ---
-You don’t have to throw away your old furniture if its only flaw is being out-of-date. If you just realized that your furnishing is boring, consider renovating it. Something so simple as brand new colour will give the room a surprisingly fresh look. Furniture paint might unearth the hidden potential of your old furniture. However one must be careful to choose the right product. In this way you can be sure that the makeover will be successful.
-
 ## Types of furniture paint
 
 There are a lot of types of furniture paint available. Such product is perfect for renewing furniture. However among **various types of paint**, not each of them is suitable for every surface. Deciding, which type is the best furniture paint for one’s particular needs, it’s good to consider the result you expect. There are various kinds of paint on the market.
