@@ -6,9 +6,14 @@ title: TreeHouse Is First Retailer To Sell Tesla Home Battery
 description: Tesla has chosen TreeHouse as the first retailer authorized to sell the
   Tesla home battery, the Powerwall.
 image: "/uploads/tesla-890x399.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: AUSTIN — Texas startup TreeHouse will play a pivotal role in getting Tesla’s
+  just-unveiled home battery to market. The maker of the premium electric car has
+  chosen TreeHouse as the first retailer authorized to sell its groundbreaking home
+  energy storage battery, the Powerwall.
 
 ---
-AUSTIN — Texas startup TreeHouse will play a pivotal role in getting Tesla’s just-unveiled home battery to market. The maker of the premium electric car has chosen TreeHouse as the first retailer authorized to sell its groundbreaking home energy storage battery, the Powerwall.
 
 “This is really going to transform the way homes are powered,” said TreeHouse co-founder and CEO Jason Ballard, speaking at Tesla’s energy storage event in Hawthorne, Calif. “I think in the near future, having a battery in your home will be as normal as having a water heater or a dishwasher.”
 
