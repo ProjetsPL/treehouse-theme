@@ -6,7 +6,7 @@ title: Malowanie boazerii. Jak pomalować boazerię, aby dobrze wyglądała?
 description: Malowanie boazerii to popularny sposób na odświeżenie pomieszczenia.
   Jak pomalować boazerię? Wystarczy odrobina dobrych chęci i dobra farba do boazerii.
 image: "/uploads/Malowanie boazerii. Jak pomalowac boazerie, aby dobrze wygladala.jpg"
-promoted: false
+promoted: true
 update_date: 2020-02-05
 intro: Boazeria to element wystroju wnętrz, który był szczególnie popularny w latach
   70. i 80. ubiegłego wieku. Takie wykończenie wciąż znajduje się w wielu polskich
