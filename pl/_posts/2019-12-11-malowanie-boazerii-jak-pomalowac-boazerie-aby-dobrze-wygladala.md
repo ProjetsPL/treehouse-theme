@@ -6,10 +6,16 @@ title: Malowanie boazerii. Jak pomalować boazerię, aby dobrze wyglądała?
 description: Malowanie boazerii to popularny sposób na odświeżenie pomieszczenia.
   Jak pomalować boazerię? Wystarczy odrobina dobrych chęci i dobra farba do boazerii.
 image: "/uploads/Malowanie boazerii. Jak pomalowac boazerie, aby dobrze wygladala.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: Boazeria to element wystroju wnętrz, który był szczególnie popularny w latach
+  70. i 80. ubiegłego wieku. Takie wykończenie wciąż znajduje się w wielu polskich
+  domach. Chcąc wyremontować mieszkanie, wiele osób zastanawia się nad całkowitym
+  pozbyciem się desek ze ścian. Istnieje jednak mniej pracochłonne, a zarazem bardzo
+  efektowne rozwiązanie, czyli malowanie boazerii na inny kolor. Wystarczy odpowiednia
+  farba do boazerii, aby całkowicie odmienić wnętrze.
 
 ---
-Boazeria to element wystroju wnętrz, który był szczególnie popularny w latach 70. i 80. ubiegłego wieku. Takie wykończenie wciąż znajduje się w wielu polskich domach. Chcąc wyremontować mieszkanie, wiele osób zastanawia się nad całkowitym pozbyciem się desek ze ścian. Istnieje jednak mniej pracochłonne, a zarazem bardzo efektowne rozwiązanie, czyli malowanie boazerii na inny kolor. Wystarczy odpowiednia farba do boazerii, aby całkowicie odmienić wnętrze.
-
 ## Malowanie boazerii - na czym polega?
 
 W ubiegłym wieku **boazeria była niezwykle modna**. Deski w kolorze naturalnego drewna gościły w przedpokojach, salonach i kuchniach. Dzisiaj jednak taka brązowa okładzina ścienna kojarzy się z kiczem, a jej ciemny kolor zwyczajnie przytłacza. Wiele osób przy okazji remontu chętnie się jej pozbywa. Jest to jednak zadanie czasochłonne i kosztowne. Po zdjęciu desek może okazać się, że ściana pod spodem jest nierówna, zniszczona i zadrapana.
