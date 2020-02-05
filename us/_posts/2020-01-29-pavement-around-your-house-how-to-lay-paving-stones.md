@@ -6,10 +6,15 @@ title: Pavement around your house. How to lay paving stones?
 description: You might wonder whether you should choose stone pavers for a pavement
   around your house. Paving stones might be the right choice. They have many advantages.
 image: "/uploads/ukladanie-kostki-brukowej.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: If you are planning to make pathways or a patio around your house, you might
+  wonder what material you should choose. Making the right decision is not easy. The
+  main goal for paving is to enhance the looks of the area surrounding your house.
+  Many homeowners decide to lay paving stones. Paved pathways are quite durable and
+  cheap.
 
 ---
-If you are planning to make pathways or a patio around your house, you might wonder what material you should choose. Making the right decision is not easy. The main goal for paving is to enhance the looks of the area surrounding your house. Many homeowners decide to lay paving stones. Paved pathways are quite durable and cheap.
-
 ## Paving stones - choosing the right material
 
 Before you start working on your paths and patio, you should choose the right material. You can get many different types of **paving slabs**. Choosing the right one you should pay attention to the material, it colour and general effect you expect from the pavement. The price of the material is a crucial aspect as well. Keep in mind that the prices differ, depending not only on the material but also on the size and thickness of stones. Manufacturers usually set the price by the weight, therefore make sure you know **how sufficient the material is**.
