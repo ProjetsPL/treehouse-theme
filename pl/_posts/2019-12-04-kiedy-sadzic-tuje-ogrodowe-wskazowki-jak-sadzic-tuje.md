@@ -6,7 +6,7 @@ title: Kiedy sadzić tuje ogrodowe? Wskazówki, jak sadzić tuje
 description: Wiele osób zakładających własny ogródek decyduje się na tuje ogrodowe.
   Ich uprawa nie jest trudna. Sprawdź, kiedy sadzić tuje oraz jak je pielęgnować.
 image: "/uploads/Kiedy sadzić tuje ogrodowe. Wskazówki, jak sadzić tuje.jpg"
-promoted: false
+promoted: true
 update_date: 2020-02-05
 intro: Tuje ogrodowe to jeden z najpopularniejszych rodzajów iglaków obecnych w polskich
   ogrodach. Wykorzystuje się je jako osłony przeciwwiatrowe, żywopłoty oraz gęste
