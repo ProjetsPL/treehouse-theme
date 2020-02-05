@@ -6,10 +6,17 @@ title: Dekoracje DIY do domu - zrób to sam
 description: Ozdoby DIY to kreatywne rozwiązanie na wystrój pomieszczeń. Dekoracje
   zrób to sam nie wymagają specjalnych umiejętności. Warto spróbować je przygotować.
 image: "/uploads/Dekoracje DIY do domu - zrób to sam.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: Dekorowanie to ostatni etap urządzania domu lub mieszkania. Stylowo ozdobione
+  wnętrze nie musi wcale wiązać się z dużymi wydatkami. Wiele ciekawych ozdób można
+  wykonać metodą DIY (ang. _Do It Yourself_, czyli “zrób to sam”). Takie projekty
+  są zazwyczaj niedrogie i pozwalają nadać pomieszczeniu niepowtarzalnego, osobistego
+  charakteru. Ich przygotowywanie to świetna okazja na wykorzystanie swojej kreatywności.
+  Warto zatem pobawić się w artystę i udekorować wnętrze dziełami sztuki własnego
+  autorstwa.
 
 ---
-**Dekorowanie to ostatni etap urządzania domu lub mieszkania. Stylowo ozdobione wnętrze nie musi wcale wiązać się z dużymi wydatkami. Wiele ciekawych ozdób można wykonać metodą DIY (ang. _Do It Yourself_, czyli “zrób to sam”). Takie projekty są zazwyczaj niedrogie i pozwalają nadać pomieszczeniu niepowtarzalnego, osobistego charakteru. Ich przygotowywanie to świetna okazja na wykorzystanie swojej kreatywności. Warto zatem pobawić się w artystę i udekorować wnętrze dziełami sztuki własnego autorstwa.**
-
 ## Zrób to sam! Dekoracje do każdego domu
 
 Nie trzeba posiadać specjalnych umiejętności, aby stworzyć **estetyczne** i przyciągające uwagę **ozdoby**. Takie rozwiązania zazwyczaj nie wiążą się z wielkimi nakładami finansowymi. Zwykle potrzebne materiały znajdują się w zasięgu ręki, a dokupić wystarczy jedynie kilka niedrogich przyborów. Oczywiście koszt różni się w zależności od każdego projektu. Istnieje **wiele pomysłów DIY**, które nie wymagają dodatkowych wydatków, ponieważ wszystko, co potrzebne można znaleźć we własnym domu.
@@ -43,7 +50,7 @@ Oprócz wspomnianych wyżej papierowych kloszy, istnieje wiele innych sposobów 
 
 {% fig %}
 ![DIY - czyli sposób na nastrojowe oświetlenie](/uploads/DIY - czyli sposób na nastrojowe oświetlenie.jpg "DIY - czyli sposób na nastrojowe oświetlenie")
-{% endfig %} 
+{% endfig %}
 
 W roli kloszy do lamp i lampionów świetnie sprawdzą się wspomniane już słoiki. Można przygotować z nich na przykład:
 
