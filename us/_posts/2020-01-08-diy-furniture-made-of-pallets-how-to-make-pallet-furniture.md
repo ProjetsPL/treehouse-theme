@@ -6,7 +6,7 @@ title: DIY furniture made of pallets. How to make pallet furniture?
 description: Pallets are popular material for DIY furniture. If you are looking for
   a cheap and eco-friendly garden furniture, you should consider using wood pallets.
 image: "/uploads/Modne meble ogrodowe z palet. Jak zrobic meble ogrodowe z palet.jpg"
-promoted: false
+promoted: true
 update_date: 2020-02-05
 intro: Comfortable and functional furniture is an essential element if you want to
   spend a pleasant time in your garden or on your patio. A new, good quality garden
