@@ -7,10 +7,16 @@ description: Evergreen plants are important part of every garden. What is the be
   shrub to plant? Thuja might be a good choice. It can be planted either as a tree
   or shrub.
 image: "/uploads/shrub-for-your-garden.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: Thuja trees are quite popular plants growing in many gardens. They can be used
+  as windscreens, thick hedges and shrubs. Thuja is an evergreen, pollution and heat
+  resistant plant. It grows pretty quick and is quite resilient. If you are designing
+  your own garden, you should consider choosing such a plant, for instance thuja green
+  giant. It is worth to learn how to take care of a thuja, so that it is always beautiful
+  and healthy.
 
 ---
-Thuja trees are quite popular plants growing in many gardens. They can be used as windscreens, thick hedges and shrubs. Thuja is an evergreen, pollution and heat resistant plant. It grows pretty quick and is quite resilient. If you are designing your own garden, you should consider choosing such a plant, for instance thuja green giant. It is worth to learn how to take care of a thuja, so that it is always beautiful and healthy.
-
 ## What is thuja tree?
 
 **Thuja, or arborvitae** is a coniferous tree native to Asia and North America. Because of the versatility of those trees, they are used worldwide as garden plants. They can be planted in groups as well as a single, individual plant. Thuja has a lot of varieties which can be useful for various conditions. Such a wide choice provided by those plants is the main reason for their popularity among gardeners.
@@ -28,7 +34,7 @@ There are a few types of arborvitaes and each of them differs by their specific 
 * **Giant arborvitae** - the most popular variety of this type is thuja green giant. Its needles have dark green colour. The tree can grow very high, however there are also smaller, shrub varieties. Young seedlings are **vulnerable to cold temperatures**, therefore they need to be planted in warm and sunny spots. Giant thuja is more resistant to droughts than the eastern type.
 
 {% fig %}
-  ![Giant arborvitae](/uploads/which-type-of-thuja-should-I-choose.jpg "Giant arborvitae")
+![Giant arborvitae](/uploads/which-type-of-thuja-should-I-choose.jpg "Giant arborvitae")
 {% endfig %}
 
 * **Chinese thuja** - also called oriental arborvitae. This type is native to Asia. Because it is very vulnerable to cold temperatures, it is rarely chosen for colder regions. This kind of shrub grows quite well in warm zones. it requires warm and sunny spots. Its advantages are high resistance to droughts and good tolerance of different types of soil.
