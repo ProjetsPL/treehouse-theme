@@ -6,10 +6,15 @@ title: Outside tile flooring - ideas for patio flooring and stairs
 description: If you wonder what outdoor flooring is the best, you should consider
   tile flooring. Choosing an outdoor tile, you should pay attention to several aspects.
 image: "/uploads/plytki-na-schody-zewnetrzne-to-nie-taki-prosty-wybor-min-1.jpg"
+intro: Tile flooring is one of the most popular patio floor ideas. Appearance of the
+  tiles is usually the most important aspect for homeowners designing their flooring.
+  However it is worth paying attention to other issues, as they are as important as
+  the looks. Tile flooring should combine both pleasing aesthetics and good strength
+  so it can last for a long time.
+update_date: 2020-02-05
+promoted: false
 
 ---
-Tile flooring is one of the most popular patio floor ideas. Appearance of the tiles is usually the most important aspect for homeowners designing their flooring. However it is worth paying attention to other issues, as they are as important as the looks. Tile flooring should combine both pleasing aesthetics and good strength so it can last for a long time.
-
 ## Outside steps tile flooring - which outdoor tiles are the best
 
 Finishing outside stairs is an important aspect of house construction. There is no difference whether you finish patio stairs or steps leading to the main entrance. Both are representative elements of a house - therefore they should combine good appearance with proper functionality.
@@ -26,6 +31,7 @@ Ceramic and sandstone tiles are perfect for traditional styles, such as rustic. 
 Apart from the appearance, outside floor tiling material should contain several features that decide on their durability. You should pay attention to aspects such as:
 
 {:.list.list-positive}
+
 * **Water absorption** - firm structure of the material ensures that a tile is not easily damaged. Floor tiling that quickly absorbs water tends to crack and break if placed outside. For this reason you should choose tiles of as low as possible water absorption rate.
 * **Slip resistance** - this parameter is marked by an “R” letter. Non-slippery tile flooring range from R9 to R13. Materials below R9 are slippery and they shouldn’t be used outside. For outside stair, you should choose R11-R13 tiles. You can also purchase tiles with diagonal channels for additional protection from slipping.
 * **Frost resistance** - protection from low temperatures. Manufacturers mark it with a snowflake symbol.
@@ -62,6 +68,7 @@ Apart from tile flooring, you might consider using other materials for outdoor f
 Laying floor tiles by yourself is not very difficult. It is important to choose tiles with the right qualities. If laid properly, the tiles will last for a long time without damage. When tiling the stairs, remember about a few issues:
 
 {:.list.list-positive}
+
 * Choose tiles that were **produced particularly for the purpose of covering steps**. Elements included in such sets are easier to install and the overall appearance of the stairs is better.
 * If you have to cut the tiles, cut only those that you plan to place on the edges of the stairs. Such procedure helps to **keep the symmetry** of the stairs and the cuts are less visible. The steps look more elegant.
 * Before beginning the process of laying tile floor make sure that the steps have correct slope. It is important that the water flows down - if it stayed on the surface, it would damage it. If you noticed that the stairs do not have the proper slope, you need to fix it using spackling paste. **The correct stair slope is 1-2%**.
