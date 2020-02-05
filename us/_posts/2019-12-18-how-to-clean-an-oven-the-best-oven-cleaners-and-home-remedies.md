@@ -14,13 +14,15 @@ Cleaning an oven is not quite the most pleasurable activity. For this reason you
 
 If you don’t want to feel frustration every time you tidy your kitchen, you should **clean your oven** on a regular basis. It is best to wipe its insides every time after using it. In practice, however, such activities are postponed as much as possible, until the dirt becomes a serious obstacle.
 
-{:.warning}
+{:.distinction.distinction-warning}
 
 There are many **commercial oven cleaners** available to buy. However their components often are controversial. The ingredients of such products are usually chemicals that tend to release strong smell. What’s more, they might be dangerous in contact with skin.
 
 So how to clean the oven? Fortunately there are plenty of natural oven cleaners that are **eco-friendly, safe and most importantly - effective**.
 
+{% fig %}
 ![How to clean oven? Oven cleaners and cleaning hacks](/uploads/Czym wyczyscic piekarnik.jpg "How to clean oven? Oven cleaners and cleaning hacks")
+{% endfig %}
 
 ### Oven cleaners for light stains
 
@@ -29,13 +31,15 @@ If the oven is not very dirty, it should be quite easy to clean. The best **oven
 * **Steam for oven cleaning** - this method is possible only in convection ovens. How to clean the oven with steam? All you need is an ovenproof dish and half a lemon. Just pour some water into the dish and squeeze the lemon juice into it. Set the temperature to 170°C. The fan will spread the steam everywhere in the oven. Turn the oven off after a while and wait until it cools down. Then just wipe the interior with a clean **cloth soaked with water and dish soap**. Rinse the soap residues with water and leave the oven open until it dries completely.
 * **Water mixed with vinegar** - light stains can be cleaned with the use of water mixed with some vinegar. Just wipe the oven with a cloth soaked with the mixture, or in case of heavier stains - use a sponge scrubber. After the cleaning rinse the oven with clear water and wipe it dry, using paper towel or a dry piece of cloth.
 
+{% fig %}
 ![Oven cleaners for light stains](/uploads/Jak czyścić piekarnik z lekkich zabrudzeń-1.jpg "Oven cleaners for light stains")
+{% endfig %}
 
 ### How to clean oven - old dirt
 
 **Which oven cleaner** will clean stubborn dirt? Removing burnt and baked food particles is time consuming. Even thorough scrubbing might not be effective, unless you use the right methods. Fortunately there are some **reliable home remedies**.They will save you a lot of time and energy and you will clean your oven in no time.
 
-{:.tip}
+{:.distinction.distinction-information}
 
 The most commonly used oven cleaner is baking soda. This substance is a highly effective - along with the dirt, it also **removes the unpleasant smell** of burnt food. You can use baking soda in combination with other products.
 
@@ -45,7 +49,9 @@ The most popular methods use mixtures of substances such as:
 * **Baking soda, dish soap and vinegar** - mix those substances as follows: half a glass of soap, half a glass of vinegar and 5-10 tablespoons of baking soda. How to clean the oven with this method? Set the temperature to 50°C and turn the oven off once it warms up. Spread the paste in the oven and leave it overnight. Next day just clean it with warm water and leave it to dry.
 * **Baking soda, salt and hot water** - mix the soda and water 1:1 and add two teaspoons of salt. Place the paste onto every stained spot and leave it for 5 min to 12 hours. Clean the oven afterwards **using a sponge or a brush**. Rinse it with clean water and dry with a cloth or paper towel.
 
+{% fig %}
 ![How to clean oven - old dirt](/uploads/Jak umyc piekarnik z trwalych zanieczyszczen.jpg "How to clean oven - old dirt")
+{% endfig %}
 
 ## How to clean a self cleaning oven?
 
@@ -53,7 +59,7 @@ Many modern ovens have the function of self-cleaning. There are two technologies
 
 Catalytic cleaning, on the other hand, happens with the use of the oven. Special catalytic liners absorb grease and dirt.
 
-{:.warning}
+{:.distinction.distinction-warning}
 
 If you have this type of oven, remember about **cleaning the liners regularly**. Do it delicately, as they are easy to damage. Do not let the grease to grow on them - if such layer gets too thick, you will have to replace the liners.
 
@@ -65,7 +71,7 @@ You should also clean the front of the oven. The easiest method is pouring some 
 
 How to clean oven from the outside? **Remember about the glass**, which is the most important part. It’s the place where all the grease accumulates and dries up. Such a film is difficult to remove. The methods with baking soda mentioned above will surely clean the dirty glass. If it’s possible with your particular oven model, take out the glass to make the cleaning easier.
 
-{:.tip}
+{:.distinction.distinction-information}
 
 **If the stains are very difficult** to get rid of, you can try cleaning with petroleum jelly, which should soften the dirt. Just spread it on the glass and wait a couple of minutes. Then use glass cleaner.
 

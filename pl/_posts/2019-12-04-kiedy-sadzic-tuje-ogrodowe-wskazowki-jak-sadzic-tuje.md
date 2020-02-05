@@ -14,7 +14,7 @@ Tuje ogrodowe to jeden z najpopularniejszych rodzajów iglaków obecnych w polsk
 
 **Tuje, czyli żywotniki**, to rośliny, które przybyły do **Europy z Ameryki Północnej oraz Azji**. Są one niezwykle uniwersalne. Można je sadzić zarówno w grupach, do ochrony przed wiatrem, jak i pojedynczo, jako **rośliny soliterowe**. Szeroki wybór odmian, wielkości oraz zastosowań to powody, dla których drzewa te cieszą się ogromną popularnością wśród ogrodników.
 
-{:.tip}
+{:.distinction.distinction-information}
 
 **Tuje ogrodowe** to rośliny wyjątkowo odporne na wszelkie warunki atmosferyczne. Są zimozielone i łatwe w uprawie. Można je sadzić w donicach, dlatego **mogą być ozdobą nie tylko ogrodów, ale również balkonów, tarasów i schodów zewnętrznych**. Niskie odmiany nadają się również do skalniaków.
 
@@ -27,7 +27,9 @@ Istnieje kilka gatunków żywotnika, a każdy z nich różni się między sobą 
 * **Zachodni** - roślina ta preferuje przepuszczalne, lekko kwaśne oraz żyzne gleby. Większość odmian jest odpornych na mrozy i zanieczyszczenia, jednak **należy je osłaniać przed mroźnym wiatrem i suszą**. Najlepiej rośnie w słonecznych stanowiskach, chociaż niektóre odmiany wolą bardziej zacienione miejsca. W momencie zakupu należy dokładnie sprawdzić wymagania krzewu np. to kiedy sadzić tuje tego rodzaju.
 * **Olbrzymi** - iglak ten posiada ciemnozielone igły. Krzew dorasta do wysokich rozmiarów, jednak istnieją również mniejsze, karłowate odmiany. Młode sadzonki nie **są odporne na mróz**, dlatego należy je sadzić w ciepłych i słonecznych stanowiskach. Tuje olbrzymie lepiej znoszą suszę niż tuja zachodnia.
 
-![](/uploads/Tuje ogrodowe - jaki rodzaj wybrać.jpg)
+{% fig %}
+![Tuje ogrodowe - jaki rodzaj wybrać?](/uploads/Tuje ogrodowe - jaki rodzaj wybrać.jpg "Tuje ogrodowe - jaki rodzaj wybrać?")
+{% endfig %}
 
 * **Wschodni** - ze względu na wysoką wrażliwość na chłody, gatunek ten należy do najrzadziej wybieranych. Nadaje się w cieplejsze regiony kraju, jednak **wymaga dobrze nasłonecznionych miejsc**. Żywotnik wschodni jest bardzo odporny na suszę i toleruje gleby o różnej kwasowości.
 
@@ -37,18 +39,20 @@ Tuje wschodnie, które dorastają niewielkich rozmiarów (jeden metr), **idealni
 
 ### Tuje ogrodowe - wybór sadzonek
 
-{:.warning}
+{:.distinction.distinction-warning}
 
 Przy zakupie należy zwrócić uwagę na stan sadzonek. Nie należy kupować roślin zwiędniętych, z uszkodzoną bryłą korzeniową lub uszkodzonych przez szkodniki.
 
 Najlepsze są **tuje ogrodowe o niewielkich rozmiarach**, uprawiane od początku w pojemnikach. Takie rośliny są droższe, ale mają największą szansę na przyjęcie się w nowym otoczeniu. Kupując drzewko, warto obejrzeć spód doniczki:
 
-{:.list-no}
+{:.list.list-negative}
 
 * Wystające korzenie oznaczają, że roślina jest przesuszona.
 * Nie należy kupować również roślin, w których bryle widać ślady po obcięciu większych korzeni. Oznacza to, że roślina nie wyrosła w doniczce, a niedawno ją tam przesadzono.
 
-![](/uploads/Tuje ogrodowe - wybór sadzonek.jpg)
+{% fig %}
+![Tuje ogrodowe - wybór sadzonek](/uploads/Tuje ogrodowe - wybór sadzonek.jpg "Tuje ogrodowe - wybór sadzonek")
+{% endfig %}
 
 Decydując się na **roślinę ze szkółki**, należy zwrócić uwagę na jej bryłę korzeniową. Powinna ona być zwarta i nieprzesuszona. Nie warto kupować także drzewek, których objętość korzeni jest nieproporcjonalnie mała w stosunku do części nadziemnej. Istnieje wtedy duże prawdopodobieństwo, że iglak zwiędnie niedługo po posadzeniu.
 
@@ -56,10 +60,12 @@ Decydując się na **roślinę ze szkółki**, należy zwrócić uwagę na jej b
 
 Jednym z najczęściej pojawiających się pytań jest kwestia dotycząca tego, kiedy sadzić tuje.Rośliny, które wyhodowano w pojemniku, **można sadzić przez cały sezon** - od wczesnej wiosny (najlepiej od połowy kwietnia) aż do późnej jesieni. Najlepszy okres to wczesna wiosna i późne lato. **Wiosną rośliny zaaklimatyzują się** i przygotują przed upałami. Natomiast tuje posadzone w sierpniu lub wrześniu będą miały czas na przygotowanie do zimy. Żywotniki można sadzić najpóźniej 6 tygodni przed pojawianiem się pierwszych przymrozków.
 
-{:.tip}  
+{:.distinction.distinction-information}  
 Rośliny, które sprzedawane są z gołym korzeniem, **owinięte w jutę ogrodniczą**, powinny być sadzone w kwietniu lub od połowy sierpnia do połowy września. Należy je posadzić od razu po zakupie, aby nie dopuścić do wyschnięcia korzeni.
 
-![](/uploads/Kiedy sadzić tuje.jpg)
+{% fig %}
+![Kiedy sadzić tuje?](/uploads/Kiedy sadzić tuje.jpg "Kiedy sadzić tuje?")
+{% endfig %}
 
 ## Jak sadzić tuje ogrodowe?
 
@@ -73,14 +79,16 @@ Jeżeli mają utworzyć **gęsty żywopłot**, najlepiej rozmieścić je co 60 c
 
 Wykopane dołki należy wypełnić do połowy wspomnianym wcześniej podłożem do iglaków lub mieszanką kompostu. Na takim podłożu trzeba:
 
-{:.list-yes}
+{:.list.list-positive}
 
 * Ustawić roślinę w pozycji pionowej, a korzenie przysypać ziemią.
 * Otwór należy napełnić wodą, a po wchłonięciu zasypać go pozostałym podłożem aż do poziomu gruntu.
 * Po **wyrównaniu powierzchni** ponownie trzeba podlać roślinę.
 * Teren wokół tuj warto wyściółkować folią ogrodniczą i korą, aby powstrzymać parowanie wody.
 
-![](/uploads/Co ile sadzić tuje.jpg)
+{% fig %}
+![Co ile sadzić tuje?](/uploads/Co ile sadzić tuje.jpg "Co ile sadzić tuje?")
+{% endfig %}
 
 ## Tuje ogrodowe - wskazówki pielęgnacji
 
@@ -88,7 +96,7 @@ Wykopane dołki należy wypełnić do połowy wspomnianym wcześniej podłożem 
 
 Jeżeli zdecydujesz się, kiedy sadzić tuje warto zaopatrzyć się w szczepionkę mikoryzową i zaaplikować ją tuż po umieszczeniu roślin w ziemi. Taki zabieg ułatwi roślinom pobieranie wody i składników odżywczych z podłoża. Zaoszczędzi to również wielu wydatków związanych z pielęgnacją w przyszłości. **Nawożenie roślin** powinno rozpocząć się wiosną i być kontynuowane do połowy lipca. Można stosować zarówno **nawozy uniwersalne**, jak i te przeznaczone specjalnie do iglaków. Od sierpnia do września można dodatkowo użyć nawozów jesiennych ubogich w azot.
 
-{:.tip}
+{:.distinction.distinction-information}
 
 Krzewy można swobodnie **przycinać i formować** od wiosny do połowy lata. Jest to szczególnie ważne w przypadku żywopłotów. Ostatnie przycinanie należy wykonać w sierpniu, aby nie narażać świeżo przyciętych pędów na zamarzanie.
 

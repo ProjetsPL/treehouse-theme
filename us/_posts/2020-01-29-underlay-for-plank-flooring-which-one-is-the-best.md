@@ -17,7 +17,7 @@ Some people believe that underlay is not necessary and that vinyl planks can be 
 
 **Floor underlay** plays an important role for a vinyl plank floor - it secures the floor. The most important functions of underlay are:
 
-{:.list-yes}
+{:.list.list-positive}
 
 * **Cushioning** - a soft, elastic layer under the planks secures them so that they do **not bend under pressure**. The underlay absorbs energy from hits and heavy objects, protecting the floor from damage.
 * **Thermal insulation** - floor underlayment is a layer which separates the flooring from the subfloor. This way the cold air doesn’t reach the room. Such insulation reduces thermal loss which saves the costs of heating.
@@ -32,7 +32,9 @@ Regardless of the type of underlay, you should install it at 45 degrees angle. U
 
 There are various types of underlay available. They differ from each other by **price, durability, material and intended purpose**. Type of the plank flooring doesn’t affect the type of underlay. You should consider, however, what are your own needs and expectations.
 
+{% fig %}
 ![Types of laminate flooring underlay](/uploads/podklad-pod-panele-podlogowe-rodzaje.jpg "Types of laminate flooring underlay")
+{% endfig %}
 
 ### Natural flooring underlay
 
@@ -42,7 +44,9 @@ Natural underlayment is usually made of wood and similar materials. Such product
 * **Plywood** - this material protects from noise and thermal loss, although not as well as cork. It’s thicker, sold in 4-7 mm thick sheets. Because this type of undelay **absorbs water** easily, you should put an additional layer of vapour membrane over it.
 * **Corrugated fiberboard** - it is **one of the cheapest underlays**. It conducts warmth well, however does not isolate sounds. This type requires a perfectly even underfloor.
 
+{% fig %}
 ![Natural flooring underlay](/uploads/tektura-karbowana-i-papier-falisty.jpg "Natural flooring underlay")
+{% endfig %}
 
 ### Synthetic flooring underlay
 
@@ -50,7 +54,7 @@ Natural underlayment is usually made of wood and similar materials. Such product
 
 * **Foam** - it is the most commonly chosen underlay - mainly for its cheap price. It is waterproof, however it does not isolate from sounds.
 
-{:.warning}
+{:.distinction.distinction-warning}
 It loses its shape relatively quickly and it cannot be used under wooden boards.
 
 * **Polyethylene (PE)** - it can be used if the underfloor is uneven, as it can fix small imperfections, up to 4 milimetres. It is a good thermal and acoustic insulator.
@@ -64,18 +68,20 @@ It loses its shape relatively quickly and it cannot be used under wooden boards.
 
 If you lay vinyl **plank flooring over floor heating**, you should choose an underlay without heat insulation properties. Wrong underlay could hinder the heat, cooling down the room. Therefore an underlay for floor with heating system should **conduct heat** well.
 
-{:.tip}
+{:.distinction.distinction-information}
 **Corrugated fiberboard** is one of the best underlay for vinyl plank flooring with floor heating.
 
 Paper underlays are good heat conductors, however they do not isolate the room acoustically. If this is what you need the most, a good choice is underlay made of polystyrene (XPS). It does not conduct heat, but it has **special holes** that let the heat move through.
 
+{% fig %}
 ![Underlay for floor heating](/uploads/podklad-pod-panele-z-tektury-karbowanej.jpg "Underlay for floor heating")
+{% endfig %}
 
 ### Underlayment for floor isolation
 
 If the room in which you decided to lay laminate boards is located over an unheated room or on the ground, the underlay should provide good **heat insulation**. It means that the material shouldn’t conduct temperature. The best underlays of this type are made of polyethylene and polystyrene.
 
-{:.tip}
+{:.distinction.distinction-information}
 If acoustic insulation is your priority, cork underlay is worth choosing. Depending on the thickness, it absorbs even up to **25% of sounds**. Polystyrene underlay is another good choice - it reduces sounds to 19 dB.
 
 ### Underlay for an extensively used floor
@@ -88,7 +94,7 @@ One of the most durable materials is polystyrene. Quartz underlay is probably th
 
 If an **allergy sufferer** is going to live in the room with vinyl flooring, the material used for underlay needs a special attention.
 
-{:.warning}
+{:.distinction.distinction-warning}
 An allergy-proof underlay for vinyl plank flooring must not release any dust - therefore using **plywood** in this case is not advised. Material of this type is quite dusty, which might be irritating or even dangerous for an allergy sufferer.
 
 The best natural material for this purpose is **cork underlay**. Its main advantages is resistance to moisture, as well as mould and fungi. Alternatively you can use a plastic material underlay which does not absorb water nor release any dust.

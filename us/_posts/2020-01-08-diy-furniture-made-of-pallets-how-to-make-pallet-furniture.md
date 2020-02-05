@@ -14,18 +14,20 @@ Comfortable and functional furniture is an essential element if you want to spen
 
 According to the latest trends, **DIY furniture** is a stylish element of interior decoration. Recycling and upcycling is an important part of life for an increasing number of people. Pallet furniture is a realisation of both trendy interior design and ecological lifestyle. There are many advantages of creating objects made of pallets. Most importantly they are extremely cheap.
 
-{:.tip}
+{:.distinction.distinction-information}
 If you already own pallets that were used for materials storage, the cost of creating pallet furniture covers only several minor products. You can also **get some pallets for free** or low price in industrial areas, supermarkets or wholesalers.
 
 Although pallets usually are not made of **high quality wood**, they are very sturdy and resistant to damage. Therefore pallet wood projects are strong and such furniture serves for a long time. The material is lightweight and eco-friendly. If designed well, pallet furniture can be elegant and quite stylish. A pallet table or **pallet bench** is a perfect complimentary element to scandinavian or minimalistic style.
 
-![DIY pallet furniture - how to make it?](/uploads/Meble ogrodowe z palet - jak zrobic je samodzielnie.jpg "DIY pallet furniture - how to make it?")
+{% fig %}
+![DIY pallet furniture - how to make it?](/uploads/Meble ogrodowe z palet - jak zrobic je samodzielnie.jpg "DIY pallet furnture - how to make it?")
+{% endfig %}
 
 ## Pallet furniture for your garden - which pallets are the best?
 
 **Wooden pallets used in transport** are often left after building materials used for construction. If you bought them with materials for construction, they basically cost you nothing. You could also try to get some pallets in supermarkets, small shops or industrial areas. They aren’t very expensive. A good idea is to browse through auction websites, where one can buy pallets even cheaper than in a shop.
 
-{:.tip}
+{:.distinction.distinction-information}
 Looking for pallet ideas and **DIY furniture projects**, consider the size of those elements. There are different types of pallets, each having various sizes.
 
 The most common types are:
@@ -34,18 +36,20 @@ The most common types are:
 * **ISO pallet** - it’s a single-layer pallet. Its dimensions are 120x100x14,4 cm.
 * **½ pallet** - its dimensions are 800×600×144 mm. It is good for building small furniture pieces.
 
+{% fig %}
 ![Pallet furniture for your garden - which pallets are the best?](/uploads/Meble ogrodowe z palet - jakie palety wybrac.jpg "Pallet furniture for your garden - which pallets are the best?")
+{% endfig %}
 
 Because of their universal dimensions and exceptional sturdiness, Euro-pallets are the most popular choice for **pallet furniture**. They are made of impregnated and thermally processed wood. You can, however use any kind of wooden pallet for DIY pallet projects.
 
-{:.tip}
+{:.distinction.distinction-information}
 Make sure that **pallets** you choose are not damaged and prepare the correctly. If you pick pallets from various sources, remember to choose elements of the same type.
 
 ## How to make pallet furniture?
 
 Before starting your pallet wood project you should equip yourself with **right tools** and products. Apart from the pallets, you will also need:
 
-{:.list-yes}
+{:.list.list-positive}
 * grinder tool with 80-100 grit sanding paper for the first sanding and grit 200 for smoothing the surface,
 * screw gun with screws,
 * wood adhesive for filling the holes in wood,
@@ -58,17 +62,19 @@ Before starting your pallet wood project you should equip yourself with **right 
 
 Before starting **making pallet furniture**, you need a proper design. Measure the place where the furniture is supposed to be placed. The size of your pallet furniture should match the size of a pallet accordingly, to avoid cutting.
 
-{:.warning}
+{:.distinction.distinction-warning}
 It is good if the size of the final piece is a multiple of a pallet’s length. This way, if you want to increase the length, you just add another piece to one side. A standard height of the **furniture** is usually a height of two pallets. To get a higher piece, just add another layer of pallet.
 
 Having prepared a detailed project which includes the number of pallets you are going to need, you need to prepare the pallets:
 
-{:.list-yes}
+{:.list.list-positive}
 * Any damage should be repaired. **Remove rotten elements** and fill holes and dents with a wood adhesive.
 * Use the grinder tool to smoothen rough surface and **remove any splinters**. Grind the pallet thoroughly so that there are no sharp or rough elements. Fill any gaps with the mentioned adhesive. Remove or hammer any nails sticking out of the wood.
 * **Clean the pallets** from dust and apply the wood preserver to the surface. After it dries, you can cover the pallets with a varnish or paint.
 
+{% fig %}
 ![Pallet furniture - step by step](/uploads/Meble ogrodowe z palet - krok po kroku.jpg "Pallet furniture - step by step")
+{% endfig %}
 
 If the elements have dried, you can start linking them into one piece. To do this, use screws, angles and flat bars. Match the pieces in the least visible places, such as the bottom and sides of a pallet. You can add wheels to the tables so that they can be easily moved. You can also add **decorative elements** such as cushions and mattresses.
 
@@ -81,7 +87,9 @@ There are many **DIY pallet projects** that you can use for furnishing your gard
 * **Swing** - just build a seat of of pallets and attach it to an appropriate constructions, for instance between two trees.
 * **Flower bed** - you can make either a flower stand or a vertical garden. To make the latter, cover the invisible side of the pallet and its bottom with garden foil. Fill the spaces with soil and plant some flowers inside. When their roots grow large enough, you can position the pallet vertically.
 
+{% fig %}
 ![Pallet furniture ideas](/uploads/Przykladowe meble z europalet.jpg "Pallet furniture ideas")
+{% endfig %}
 
 Those are only a few ideas for **pallet furniture** to use in your garden. You can find more inspirations on the Internet. There are many tutorials available with a step-by-step instruction.
 
@@ -89,13 +97,15 @@ Those are only a few ideas for **pallet furniture** to use in your garden. You c
 
 A simple pallet bench is very easy to make. All you need is **three pallets**. Their size is not important - use the one that fits your own preferences. Cut one of the pallets in two along the boards. One piece will be the backrest and the boards from the other are going to be used for securing it in place.
 
+{% fig %}
 ![Pallet bench - DIY furniture](/uploads/Kanapa z palet - DIY.jpg "Pallet bench - DIY furniture")
+{% endfig %}
 
 After grounding the surface and protecting it with preserver place one whole pallet on the other. Attach three boards to the backseat part. Cut the boards so they are equal in length. Then just attach the back to the seat. The **pallet bench** is more comfortable if you put a mattress of an appropriate length on the seat.
 
 **Garden pallet furniture** is a good solution for cheap and eco-friendly furnishing. It can be used in a garden, on a patio and on a balcony. Making pallet furniture is relatively easy, therefore it is worth to try to make them. Pallet furniture is a good idea for furnishing a stylish garden.
 
-## FAQ
+## DIY furniture made of pallets - FAQ
 
 {% faqItem %}
 {% faqQuestion %}

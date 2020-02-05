@@ -17,7 +17,7 @@ Wood paneling was one of the **biggest trends of interior design** during the la
 
 Typical for such walls dark shades of brown are simply overwhelming and make an interior look smaller. Many homeowners remove those elements when **renovating a room**. It might be, however, a time consuming and costly task. The uncovered walls are often damaged, uneven and scratched and might require further, usually costly improvements.
 
-{:.tip}
+{:.distinction.distinction-information}
 
 Wood paneling is **becoming popular again**. For this reason the boards are quite often left on walls and painted to new, brighter colours. The contemporary interior design styles favour such solution. Scandinavian style, for instance, combines natural materials and simplicity, so painted wooden boards will be perfect in this case.
 
@@ -29,11 +29,13 @@ The previous era favoured brown and dark coloured boards. The wood paneling was 
 
 Having that in mind, **painting wood panels with a light paint** is a good idea to make the interior bigger and brighter.
 
+{% fig %}
 ![Choosing the right paint for wood paneling](/uploads/Odpowiednia farba do boazerii to podstawa.jpg "Choosing the right paint for wood paneling")
+{% endfig %}
 
 To achieve the best results when renovating wood paneling, one should pick the right paint. Some of the available products that should work well for **painting wood wall paneling** are:
 
-{:.list-yes}
+{:.list.list-positive}
 
 * **Wood and metal acrylic paint** - it is thinned with water and therefore does not generate unpleasant smell. Such products are safe for health and dry pretty fast. The final layer is smooth and solid.
 * **Typical wood products** - varnish, wax and oil for wood is a good solution if you want to keep the natural looks of the wood. If you want the wood paneling to have a certain colour, use a coloured wood stain.
@@ -43,7 +45,9 @@ To achieve the best results when renovating wood paneling, one should pick the r
 
 **Painting wood paneling is not a complicated task.** You should finish the work by one afternoon. Such renovation usually does not take more than one weekend. Having chosen the right product for your wood panel wall, one should prepare accordingly. The result highly depends on the proper preparation.
 
+{% fig %}
 ![How to paint wood paneling? Step by step](/uploads/Jak pomalowac boazerie - Krok po kroku-1.jpg "How to paint wood paneling? Step by step")
+{% endfig %}
 
 ### Preparing the surface
 
@@ -61,7 +65,7 @@ One of the most important matters when **painting wood paneling** is following t
 
 You may start **painting the wood paneling** right after the primer dries.
 
-{:.warning}
+{:.distinction.distinction-warning}
 
 If the boards are narrow, a small brush will suffice; to paint wider paneling, use a paint roller.
 
@@ -71,7 +75,7 @@ If the boards are narrow, a small brush will suffice; to paint wider paneling, u
 
 **Sanding the wood paneling** is time consuming and removing the old layers of paint or varnish might be quite difficult. It is possible, however, to paint wood paneling without the necessity of smoothing the boards. In such a case it is best to use chalk paint, as it sticks well to every type of surface. Such paint dries substantially quicker than other types - in most cases one can apply another layer after 20 minutes.
 
-{:.tip}
+{:.distinction.distinction-information}
 
 Chalk paint used for wood paneling is useful if you plan to distress the wooden boards. After using the paint remember to cover your paneling with a protective layer of varnish or wax.
 
@@ -81,7 +85,9 @@ The most popular choice for **restoring wood paneling** is white. Such colour fi
 
 Bright colours are perfect for enlightening a room and making it visually bigger. Such shades are the best choice for narrow hallways and foyers.
 
+{% fig %}
 ![Painted wood paneling - white or colour?](/uploads/Malowanie boazerii - na bialo, czy na kolor.jpg "Painted wood paneling - white or colour?")
+{% endfig %}
 
 **Strong colours** work best in spacious and well illuminated interiors. For such rooms you can use for instance dark blue or green colours. Choose them, however, very carefully, as it is easy to overwhelm the interior with too dark shades. If you decided to use a single colour it is a good idea to mix its various tones. It look particularly interesting with matte finishes.
 

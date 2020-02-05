@@ -15,7 +15,7 @@ image: "/uploads/Dekoracje DIY do domu - zrób to sam.jpg"
 
 You don’t need to have any special abilities to create some elegant and **charming decorations**. Such DIY projects usually do not require spending a lot of money. All needed materials are within your reach. Very few, if any things are required to buy - and usually they are cheap. Naturally, total expenses differ from project to project. There is, however, plenty of **DIY ideas** that do not require buying anything, because everything you need you can find in your own house.
 
-{:.tip}
+{:.distinction.distinction-information}
 
 **DIY projects** offer a lot of interesting interior design solutions. They often involve renovating old objects or creating brand new ones with the use of cheap materials. Individuals who seek for inexpensive ideas to furnish their households often collect old furniture. Then they **refurbish** them - by modifying, repainting or even combining several parts into one. Such unusual inventions result in unique **DIY decorations**, which combine remarkable style and functionality.
 
@@ -23,7 +23,9 @@ You don’t need to have any special abilities to create some elegant and **char
 
 A great many of DIY projects can be made of **plain paper.** This cheap material is quite versatile and therefore highly popular amongst handicraft lovers. Paper can be used for practically anything - from painting to sculpting.
 
+{% fig %}
 ![DIY - paper crafts](/uploads/DIY - paper crafts.jpg "DIY - paper crafts")
+{% endfig %}
 
 Some home decor ideas involving paper:
 
@@ -40,7 +42,9 @@ Apart from the paper lampshades, there are many more DIY projects involving **at
 * **DIY light up letters - all you need for such a decoration is a cardboard. Cut a shape of a letter out of it and pierce little holes along the edges (to do it, you can use a pen or a hole punch). Insert the lights in the holes. You can set up a whole phrase on the wall - for instance to light up your bedroom.**
 * **Hula hoop chandelier - if you have an old hoop lying around in your house, you can use it for a DIY chandelier. Just wrap it in a decorative tape and secure the lights around the edges. Fasten some strings around the circle - evenly placed and brought together in the middle, they will hold the whole construction.**
 
+{% fig %}
 ![DIY - atmospheric lighting in your house](/uploads/DIY - atmospheric lighting in your house.jpg "DIY - atmospheric lighting in your house")
+{% endfig %}
 
 Mason jars are perfect for making lanterns and lamps. They can be used to prepare, for instance:
 
@@ -61,9 +65,11 @@ String can be used as a decoration of many objects. Wrapping bottles, jars and *
 * hanging pocket organisers,
 * decorative shopping bags.
 
+{% fig %}
 ![Do it yourself - something out of nothing](/uploads/Do it yourself - something out of nothing.jpg "Do it yourself - something out of nothing")
+{% endfig %}
 
-{:.tip}
+{:.distinction.distinction-information}
 
 If you have a lot of **colourful buttons** at home, you can put them onto a wire or a string and make a hanging decoration. It will look great with some decorative ribbons attached. Buttons are also great when you want to make a small picture. Just sew them on a piece of fabric or **glue them onto a cardboard**, arranging them as you please.
 
@@ -71,7 +77,7 @@ If you have a lot of **colourful buttons** at home, you can put them onto a wire
 
 DIY makers often are supporters of movements such as upcycling - **transforming thrash and other used materials into art**. It’s not only ecological, but also highly economical. Giving a second life to objects which were meant to be thrown away is definitely worth the effort.
 
-{:.list-yes}
+{:.list.list-positive}
 
 * Instead of throwing away old **newspapers and magazines**, you can use them to prepare paper wicker. You can make impressive sculptures, **boxes**, vases and many other objects out of it.
 * You can repaint old tin cans or decorate them using **decoupage**. They can be used as decorative containers for pens or other small objects.
@@ -82,7 +88,9 @@ DIY makers often are supporters of movements such as upcycling - **transforming 
 
 Many claim that plants are absolutely necessary in any interior. To make the most of their decorative value, one should put them in aesthetically pleasing pots. Instead of buying boring, ordinary flowerpots, you can make them yourself. Such **handmade containers** will definitely give your place an original, fresh look.
 
+{% fig %}
 ![Green DIY](/uploads/Green DIY.jpg "Green DIY")
+{% endfig %}
 
 There are a lot of **DIY projects** that you can use for decorating your plants. Take a look at the inspirations below:
 
@@ -93,7 +101,9 @@ There are a lot of **DIY projects** that you can use for decorating your plants.
 
 One plant decoration is quite popular recently. **Bottle gardens** are small terraria for plants, made of glass bottles or mason jars. The mini gardens are very easy to make. It’s definitely worth trying, as bottle gardens are very decorative and original. This DIY project has two varieties - open and closed. Depending on the version, one can use different types of plants. There are a lot of guides in the Web on how to make a bottle garden.
 
+{% fig %}
 ![Bottle gardens](/uploads/Bottle gardens.jpg "Bottle gardens")
+{% endfig %}
 
 **DIY home decor** is not a complicated matter. All you need is your own enthusiasm. The Internet is full of inspiring DIY ideas - adding your own imagination to them will result in unique and beautiful decorations. **DIY projects** are great if you want to get fabulous decorations for a low price. Making them is also a fantastic way to use your own creativity. Surely it will bring you a lot of satisfaction.
 

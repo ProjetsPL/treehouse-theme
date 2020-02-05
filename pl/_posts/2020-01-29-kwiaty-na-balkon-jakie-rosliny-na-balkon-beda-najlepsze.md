@@ -20,10 +20,12 @@ Jednym z podstawowych kryteriów decydujących o wyborze odpowiedniej rośliny s
 
 To, jakie kwiaty na balkon wybrać, zależy również od indywidualnego gustu. Warto wziąć pod uwagę kolorystykę wystroju i pod tym względem dobierać rośliny. Jeżeli balkon znajduje się w bloku, nie można zaburzyć estetyki budynku. Niektóre spółdzielnie dokładnie regulują, jakie kwiaty można wykorzystać, a jakich powinno się unikać.
 
-{:.warning}
+{:.distinction.distinction-warning}
 Warto także pomyśleć o sąsiadach. Jeżeli mieszkasz na piętrze, to raczej powinieneś zrezygnować z drzewek lub pnączy, które jesienią zrzucają liście. Mogłyby one zaśmiecić balkon sąsiada. W niektórych przypadkach nie powinno się również wystawiać skrzynki z kwiatami za balustradę. Taka sytuacja sprawia zagrożenie, że doniczka spadnie i kogoś poważnie zrani.
 
+{% fig %}
 ![Kwiaty na balkonie - warunki uprawy](/uploads/kwiaty-na-balkonie-warunki-uprawy.jpg "Kwiaty na balkonie - warunki uprawy")
+{% endfig %}
 
 ## Kwiaty na balkon - rodzaj stanowiska
 
@@ -35,7 +37,7 @@ Nasłoneczniony balkon to przede wszystkim taki, znajdujący się od strony zach
 
 Z tego powodu rośliny takie, jak **begonia czy fuksja** nie poradzą sobie na takim nasłonecznionym stanowisku. Kwiaty na balkon, który jest mocno nasłoneczniony, muszą być **odporne na wysoką temperaturę**. Najlepsze gatunki, które można posadzić w takim miejscu to:
 
-{:.list-yes}
+{:.list.list-positive}
 * **Pelargonie** - są to najczęściej wybierane kwiaty na balkon, uwielbiają one pełne słońce. Należy je obficie podlewać, nawet 2 razy dziennie.
 * **Petunie** - rośliny te kwitną bardzo gęsto. Istnieje wiele gatunków w różnych kolorach. Takie kwiaty na balkon są dosyć wymagające, jednak warto poświęcić im trochę czasu ze względu na wyjątkowy wygląd.
 * **Surfinie** - to bardzo efektowne rośliny na balkon, które tworzą piękne kaskady. Dostępne są w wielu kolorach, najlepiej kwitną w pełnym słońcu.
@@ -43,7 +45,9 @@ Z tego powodu rośliny takie, jak **begonia czy fuksja** nie poradzą sobie na t
 * **Lobelia** - roślina ta odznacza się drobnymi, błękitnymi, białymi lub fioletowymi kwiatami. Nie lubi wilgotnego podłoża, dlatego należy ją podlewać umiarkowanie. Jest to roślina zwisająca, dlatego dobrze będzie wyglądać w wiszących skrzynkach.
 * **Lawenda** - jest to roślina, która bardzo lubi słoneczne i suche stanowiska. Kwiaty mają kolory od białego po fioletowy. Dodatkową zaletą jest intensywny zapach, który odstrasza owady.
 
+{% fig %}
 ![Jakie kwiaty na balkon południowy, nasłoneczniony?](/uploads/jakie-kwiaty-na-balkon-poludniowy.jpg "Jakie kwiaty na balkon południowy, nasłoneczniony?")
+{% endfig %}
 
 ### Jakie kwiaty na balkon w cieniu?
 
@@ -51,7 +55,7 @@ Najmniej słońca dociera do tarasów i balkonów znajdujących się **od strony
 
 Choć wybór jest mniejszy, niż w przypadku roślin lubiących słońce, kwiatów cieniolubnych i tak jest sporo. Najczęściej polecane rośliny na balkon z małą ilością światła to:
 
-{:.list-yes}
+{:.list.list-positive}
 * **Begonia** - to bardzo ozdobna roślina o kwiatach w różnych kolorach. Istnieją także odmiany o dekoracyjnych liściach. Jest bardzo łatwa w uprawie i pielęgnacji.
 * **Niecierpek** - jest to roślina jednoroczna. Odznacza się dużą ilością kwiatów. Niecierpki lubią stale wilgotne podłoże, dlatego należy je sporo podlewać.
 * **Fuksja** - jej kwiaty są fioletowo czerwone. Pędy można prowadzić w górę lub pozwolić im swobodnie zwisać. Jest to roślina jednoroczna, jednak można ją przezimować w mieszkaniu.
@@ -61,7 +65,9 @@ Choć wybór jest mniejszy, niż w przypadku roślin lubiących słońce, kwiat�
 
 Ponieważ powietrze w cieniu nie jest suche ani przegrzane, kwiaty na balkon w takim miejscu nie wymagają obfitego podlewania. Należy wręcz uważać, aby woda nie zostawała na spodkach, ponieważ rośliny mogą zacząć gnić i obumierać.
 
+{% fig %}
 ![Jakie kwiaty na balkon w cieniu?](/uploads/jakie-kwiaty-na-balkon-w-cieniu.jpg "Jakie kwiaty na balkon w cieniu?")
+{% endfig %}
 
 ## Rośliny na balkon - przykładowe aranżacje
 
@@ -71,17 +77,19 @@ Ważne, aby rośliny posadzone w jednej doniczce miały podobne potrzeby. Kwiaty
 
 Kolorystyka zależy od indywidualnego gustu, ale także od ogólnego wystroju balkonu. Dobrym pomysłem jest **dobór podobnych kolorów w różnym odcieniu**, przykładowo różu lub fioletu. Różnokolorowe pastele i biel to świetne rozwiązanie, jeżeli mocne kontrasty wydają się zbyt krzykliwe. Do kolorów warto również dopasować odpowiednie odcienie pojemników.
 
-{:.tip}
+{:.distinction.distinction-information}
 Żadna aranżacja nie będzie wyglądać dobrze, jeżeli nie będzie ona zadbana. Należy zatem pamiętać o regularnym podlewaniu oraz nawożeniu rośliny. Jeżeli kwiaty na balkonie tego wymagają, można przycinać ich pędy lub obrywać przekwitłe kwiaty, aby pobudzić rośliny do wzrostu.
 
 ## Rośliny na balkon - trawy i bluszcze
 
 Jeżeli brakuje Ci czasu na pielęgnację kwiatów, możesz zdecydować się na **niekwitnące rośliny** **na balkon**. W takim przypadku dobrym rozwiązaniem są różnego rodzaju trawy i pnącza. Istnieje wiele gatunków traw ozdobnych, które zyskują na popularności. Wiele z nich jest mrozoodpornych, dlatego nie trzeba ich nawet przenosić na zimę do domu - wystarczy je tylko odpowiednio zabezpieczyć.
 
-{:.tip}
+{:.distinction.distinction-information}
 Trawy, czy turzyce jako rośliny na balkon wbrew pozorom mogą być bardzo dekoracyjne. Dostępne gatunki odznaczają się różną wielkością, formą i barwą liści. Warto zdecydować się na posadzenie ich w wysokich donicach jako niezwykła ozdoba balkonowa.
 
+{% fig %}
 ![Rośliny na balkon - trawy i bluszcze](/uploads/rosliny-na-balkon-trawy-i-bluszcze.jpg "Rośliny na balkon - trawy i bluszcze")
+{% endfig %}
 
 Innym pomysłem są **pnącza i bluszcze** na balkon. Mają one nie tylko walory dekoracyjne - jest to dobry sposób na zacienienie nasłonecznionego balkonu. W ten sposób można stworzyć zaciszny, zielony kąt, oddzielając się od sąsiadów lub ulicznego hałasu. Wybór jest spory - można zdecydować się na szybko rosnące pnącza jednoroczne, takie jak groszek pachnący czy powój. Rośliny wieloletnie, przykładowo winobluszcz lub wiciokrzew rosną wolniej, lecz są trwalsze.
 

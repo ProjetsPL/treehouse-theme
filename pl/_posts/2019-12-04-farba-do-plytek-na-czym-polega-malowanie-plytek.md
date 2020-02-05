@@ -16,13 +16,15 @@ Płytki zazwyczaj są całkiem trwałym materiałem. Jednak w miarę ich użytko
 
 Dlatego pozostawienie starych kafelków i ich pomalowanie może być dobrym pomysłem na szybką i **nieskomplikowaną metamorfozę pomieszczenia**. Decydując się na takie rozwiązanie, nie musisz liczyć się z koniecznością ich skuwania i zrywania. Jest ono także atrakcyjne cenowo w porównaniu z dokładną modernizacją łazienki czy kuchni. Malowanie kafelek może okazać się także korzystne dla osób, które często zmieniają wystrój pomieszczeń. **Farby do płytek** można nakładać w wielu warstwach, wystarczy trzymać się zaleceń producentów.
 
-{:.tip}
+{:.distinction.distinction-information}
 
-**Zmiana koloru płytek** nie jest czynnością trudną i wcale nie wymaga wynajęcia specjalisty. Zabieg w całości można wykonać samodzielnie, a jedynym wymogiem jest odpowiednia farba do płytek i dobre przygotowanie. Nie są do tego potrzebne żadne skomplikowane narzędzia. 
+**Zmiana koloru płytek** nie jest czynnością trudną i wcale nie wymaga wynajęcia specjalisty. Zabieg w całości można wykonać samodzielnie, a jedynym wymogiem jest odpowiednia farba do płytek i dobre przygotowanie. Nie są do tego potrzebne żadne skomplikowane narzędzia.
 
 Dodatkowo taka renowacja nie generuje hałasu - przez co nie będziesz musiał się martwić, że zakłócasz spokój sąsiadów. Po **przemalowaniu kafelków** nie będzie trzeba dużo sprzątać tak, jak dzieje się po ich wymianie. Cały proces jest stosunkowo prosty i szybki do wykonania - metamorfozę można skończyć nawet w jeden dzień, a maksymalnie w trzy. Czas jest uzależniony od ilości nakładanych warstw i tego, ile schną.
 
+{% fig %}
 ![Malowanie płytek - sposób na szybki remont](/uploads/Malowanie płytek - sposób na szybki remont.jpg "Malowanie płytek - sposób na szybki remont")
+{% endfig %}
 
 ## Wybór farby do płytek
 
@@ -36,19 +38,21 @@ Asortyment farb przeznaczonych do czynności, jaką jest **malowanie płytek**, 
 
 Zwykłe farby stosowane do ścian nie nadają się do czynności, jaką jest **malowanie płytek łazienkowych, czy kuchennych**, ponieważ zwyczajnie spłynęłyby one z gładkiej powierzchni. Jednak po odpowiednim zagruntowaniu glazury można użyć zwykłych farb lateksowych lub olejnych. Należy jedynie pamiętać, żeby były one **odporne na mycie**, ponieważ płytki kładzione są zazwyczaj w miejscach o podwyższonej wilgotności.
 
-{:.warning}
+{:.distinction.distinction-warning}
 
 Takie rozwiązanie może okazać się korzystne, jeżeli zależy ci na szerszej palecie kolorów. Niestety typowa farba do płytek ma mocno ograniczoną kolorystykę.
 
 Należy mieć na uwadze, że inną farbę stosuje się do płytek podłogowych, a inną do tych położonych na ścianie. W przypadku podłogi powłoka powinna być wyjątkowo odporna na ścieranie. Natomiast **kafelki ścienne**, szczególnie te w prysznicu, wymagają farby wodoodpornej i niepodatnej na działanie detergentów. Dobierając produkt, warto się również zastanowić nad rodzajem wykończenia, jaki ma zapewnić farba do płytek. **Powłoka satynowa jest bardziej elegancka**, błyszcząca natomiast optycznie powiększy pomieszczenie.
 
+{% fig %}
 ![Wybór farby do płytek](/uploads/Wybór farby do płytek.jpg "Wybór farby do płytek")
+{% endfig %}
 
 ## Jak prawidłowo wykonać malowanie kafelek?
 
 **Zmiana wystroju pomieszczenia za pomocą farby do płytek nie jest trudna**, jednak, aby efekt był zadowalający, należy się do tego odpowiednio przygotować:
 
-{:.list-yes}
+{:.list.list-positive}
 
 1. Wszelkie ubytki w kafelkach należy uzupełnić, aby powierzchnia do malowania była równa. Najlepiej do tego użyć silikonowego wypełniacza lub kleju.
 2. Płytki należy dokładnie **umyć i odtłuścić** przeznaczonym do tego preparatem. Powierzchnia powinna być idealnie sucha.
@@ -62,7 +66,7 @@ Przed malowaniem należy **zabezpieczyć wszystkie elementy**, które nie będą
 
 Jeżeli powierzchnia została **odpowiednio zabezpieczona**, można zacząć malować kafelki. Czynność tę najlepiej wykonywać w suche i wietrzne dni. Jeżeli istnieje taka możliwość, warto otworzyć okno, aby uniknąć wdychania oparów oraz żeby farba do płytek szybciej wyschła. Substancję należy dokładnie wymieszać, ściśle trzymając się zaleceń producenta. Do nakładania produktu najlepiej używać **wałków gąbkowych** - pędzle pozostawią widoczne smugi. Istnieje również możliwość zastosowania metody natryskowej, jednak spośród wymienionych jest ona najtrudniejsza do wykonania. Taki sposób wymaga użycia specjalnych narzędzi.
 
-{:.warning}
+{:.distinction.distinction-warning}
 
 Po pierwszym malowaniu powinno się odczekać 16-24 godzin. Po tym czasie można nałożyć drugą warstwę. W przypadku podłogi powinno się zastosować trzy powłoki. Najlepiej nakładać cienkie warstwy, w przypadku grubszych łatwiej o powstanie nierówności.
 

@@ -15,13 +15,15 @@ image: "/uploads/Jak wyczyścić piekarnik - To nie takie trudne.jpg"
 
 Żeby porządki w kuchni nie były za każdym razem utrapieniem, a Ty nie musiał się zastanawiać **jak wyczyścić piekarnik z nagromadzonego brudu**, powinieneś robić to systematycznie. Najlepiej przecierać jego wnętrze po każdym użyciu. Jednak w praktyce czynność ta jest oddalana w czasie, dopóki zabrudzenia nie zaczną przeszkadzać w użytkowaniu.
 
-{:.warning}
+{:.distinction.distinction-warning}
 
 Na rynku istnieje wiele **środków specjalnie przeznaczonych do piekarników**. Jednak ich skład może budzić zastrzeżenia, a zastosowane w nich żrące substancje chemiczne często wydzielają nieprzyjemny zapach i mogą być szkodliwe dla skóry.
 
 Zatem czym czyścić piekarnik? Na szczęście istnieje wiele domowych sposobów, które są **ekologiczne, bezpieczne i skuteczne**.
 
-![](/uploads/Czym wyczyścić piekarnik.jpg)
+{% fig %}
+![Czym wyczyścić piekarnik?](/uploads/Czym wyczyścić piekarnik.jpg "Czym wyczyścić piekarnik?")
+{% endfig %}
 
 ### Jak czyścić piekarnik z lekkich zabrudzeń
 
@@ -32,13 +34,15 @@ Jeżeli we wnętrzu urządzenia nie ma wielu zabrudzeń, ich usunięcie nie powi
 
 * **Woda z octem** - lekkie zabrudzenia można skutecznie usunąć, przecierając piekarnik mieszaniną wody z octem. Można do tego użyć miękkiej szmatki lub w przypadku przypalonych resztek jedzenia - ostrej gąbki. Umyte części wystarczy wypłukać czystą wodą i osuszyć, przykładowo za pomocą ręcznika papierowego.
 
+{% fig %}
 ![Jak czyścić piekarnik z lekkich zabrudzeń](/uploads/Jak czyścić piekarnik z lekkich zabrudzeń-1.jpg "Jak czyścić piekarnik z lekkich zabrudzeń")
+{% endfig %}
 
 ### Jak umyć piekarnik z trwałych zanieczyszczeń
 
 **Jak wyczyścić piekarnik**, który nie był dawno czyszczony? Pozbycie się zwęglonych i zapieczonych resztek jedzenia może okazać się pracochłonne. Nawet długotrwałe szorowanie czasami nie przynosi efektów, jeżeli nie zostaną **zastosowane odpowiednie środki**. Istnieją jednak sprawdzone, domowe sposoby, które zaoszczędzą ci wiele czasu i energii.
 
-{:.tip}
+{:.distinction.distinction-information}
 
 Najczęściej wybierany naturalny środek to soda oczyszczona. Czyszczenie za jej pomocą jest niezwykle skuteczne i pomaga **pozbyć się nieprzyjemnego zapachu spalenizny**. Soda jest używana w połączeniu z różnymi innymi produktami.
 
@@ -48,7 +52,9 @@ Najpopularniejsze sposoby wykorzystują substancje takie jak:
 * **Soda, płyn do naczyń i ocet** - podane substancje trzeba zmieszać w proporcji: pół szklanki płynu, pół szklanki octu i jedno opakowanie sody. Jak wyczyścić piekarnik dzięki tej metodzie? Urządzenie należy rozgrzać do temperatury 50°C i wyłączyć. Pasta powinna zostać rozprowadzona na całej powierzchni piekarnika i pozostawiona na całą noc. Na drugi dzień piecyk trzeba umyć ciepłą wodą i wysuszyć.
 * **Soda, sól i gorąca woda** - sodę i wodę należy wymieszać w proporcji 1:1, a do powstałej pasty dodać dwie łyżeczki soli kuchennej. Substancję trzeba nałożyć na zaplamione miejsca i pozostawić od 5 min do 12 godzin, w zależności od stopnia zabrudzenia. Następnie **piekarnik należy dokładnie wyczyścić za pomocą gąbki** lub szczotki, wypłukać oraz osuszyć.
 
-![](/uploads/Jak umyć piekarnik z trwałych zanieczyszczeń.jpg)
+{% fig %}
+![Jak umyć piekarnik z trwałych zanieczyszczeń](/uploads/Jak umyć piekarnik z trwałych zanieczyszczeń.jpg "Jak umyć piekarnik z trwałych zanieczyszczeń")
+{% endfig %}
 
 ## Jak wyczyścić piekarnik z funkcją oczyszczania?
 
@@ -56,7 +62,7 @@ Nowoczesne piekarniki często posiadają wbudowane funkcje wspomagające oczyszc
 
 Oczyszczanie katalityczne odbywa się podczas użytkowania urządzenia. W temperaturze 200°C zabrudzenia są wyłapywane przez specjalne płytki pokryte emalią.
 
-{:.warning}
+{:.distinction.distinction-warning}
 
 Posiadając taki piekarnik, należy pamiętać o **regularnym oczyszczaniu płytek katalitycznych z tłuszczu**. Trzeba to robić bardzo delikatnie, aby ich nie uszkodzić. Nie można też doprowadzić do powstania na nich warstwy tłuszczu, bo w takim przypadku jedynym rozwiązaniem jest ich wymiana.
 
@@ -68,7 +74,7 @@ Front piecyka również wymaga czyszczenia. Można do tego zastosować mieszanin
 
 Jak wyczyścić piekarnik z zewnątrz? Warto pamiętać o tym, że najważniejsza jest szyba. To na niej gromadzi się tłuszcz, który następnie zasycha, tworząc trudną do usunięcia powłokę. Wyżej wspomniane mieszaniny z sody z pewnością poradzą sobie z tego typu zabrudzeniami. Jeżeli model piekarnika na to pozwala, warto wyjąć szybę, aby ułatwić sobie czyszczenie.
 
-{:.tip}
+{:.distinction.distinction-information}
 
 Wyjątkowo **uporczywe plamy** można spróbować wyczyścić wazeliną, która zmiękczy zabrudzenia. Wystarczy posmarować nią szybę i odczekać kilkanaście minut. Po tym czasie szybę należy umyć płynem do szyb.
 

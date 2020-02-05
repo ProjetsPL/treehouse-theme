@@ -18,21 +18,23 @@ Wykończenie schodów zewnętrznych to ważny etap w trakcie budowy domu. Nie je
 
 Wybierając płytki na schody zewnętrzne, należy zwrócić uwagę na pozostałe elementy wykończenia domu. To do nich należy dopasować płytki. Najlepiej wybierać materiały podobne do tych, z których wykonano kolumny ganku, parapety, cokoły i narożniki. Schody zewnętrzne mogą być również **dopasowane do ścieżek i podjazdów** wokół domu. Ważne, aby materiał wykończenia schodów pasował do ogólnego stylu posesji.
 
-{:.tip}
+{:.distinction.distinction-information}
 Płytki gresowe lub z piaskowca dobrze sprawdzają się w przypadku stylów tradycyjnych, takich jak rustykalny. Przy eleganckich posesjach warto zastosować granit, który podkreśli styl budynku. **Gres porcelanowy** natomiast nadaje się do domów w stylu nowoczesnym, nadając całości prostoty.
 
 ### Płytki schodowe zewnętrzne - najważniejsze właściwości
 
 Oprócz wyglądu, materiał na płytki na schody zewnętrzne powinien posiadać szereg właściwości, dzięki którym będą one trwałe. Najważniejsze aspekty, na które należy zwrócić uwagę to:
 
-{:.list-yes}
+{:.list.list-positive}
 * **Nasiąkliwość** - zwarta struktura materiału to pewność, że płytka nie ulegnie uszkodzeniu. Jeżeli kafle będą łatwo wchłaniały wilgoć, szybko zaczną się kruszyć i pękać. Dlatego należy wybierać materiały, których maksymalny stopień nasiąkliwości to 3%.
 * **Antypoślizgowość** - ten parametr jest oznaczany literą R. Posadzki antypoślizgowe to zakres R9 do R13. Materiały poniżej R9 są śliskie i nie nadają się do wykończeń na zewnątrz. Najlepiej, aby płytki na schody zewnętrzne miały klasę R11-R13. Można również wybrać stopnice z ryflowaną powierzchnią, której żłobienia są dodatkowym zabezpieczeniem przed poślizgiem.
 * **Mrozoodporność** - zapewnia ochronę przed niskimi temperaturami. Tę właściwość producenci oznaczają za pomocą symbolu płatka śniegu.
 * **Ścieralność** - płytki zewnętrzne są zazwyczaj intensywnie użytkowane. Z tego powodu materiał musi odznaczać się wysoką odpornością na ścieranie. Klasa ścieralności, jeżeli chodzi o płytki na schody zewnętrzne powinna wynosić 4 lub 5.
 * **Twardość** - płytki schodowe zewnętrzne powinny być odporne na uszkodzenia mechaniczne. Najlepiej wybierać materiały o stopniu twardości w przedziale 7-8. Zapewni to wysoką odporność na pęknięcia i zarysowania.
 
+{% fig %}
 ![Płytki schodowe zewnętrzne - najważniejsze właściwości](/uploads/plytki-schodowe-zewnetrzne-najwazniejsze-wlasciwosci.jpg "Płytki schodowe zewnętrzne - najważniejsze właściwości")
+{% endfig %}
 
 ## Jakie płytki na schody zewnętrzne wybrać?
 
@@ -43,20 +45,22 @@ Istnieje wiele materiałów, które można zastosować do wykończenia schodów.
 
 Wadą tego materiału jest niska odporność na zabrudzenia. Dlatego powierzchnie z klinkieru trzeba regularnie czyścić.
 
+{% fig %}
 ![Jakie płytki na schody zewnętrzne wybrać](/uploads/jakie-plytki-na-schody-zewnetrzne-wybrac.jpg "Jakie płytki na schody zewnętrzne wybrać")
+{% endfig %}
 
 * **Granit** - jest to bardzo trwały materiał. Charakteryzuje go duża odporność na ścieranie, wilgoć, zabrudzenia oraz wysokie i niskie temperatury. Granit występuje w wielu kolorach, a jego zaletą jest **elegancja wykończenia**. Dostępne są różne faktury tego kamienia, które można dopasować pod względem przeznaczenia. Granitowe płytki na schody zewnętrzne są estetyczne i wytrzymałe.
 * **Piaskowiec** - jest to kamień mniej trwały od granitu. Przy wyborze należy zwrócić uwagę na twardość materiału, ponieważ istnieją różne rodzaje piaskowca. Niektóre z nich mogą łatwo nasiąkać i szybko ulegać zniszczeniu. Produkty wykonane z tego materiału to przede wszystkim płytki na schody zewnętrzne antypoślizgowe.
 * **Trawertyn** - materiał ten jest naturalnie chropowaty, co sprawia, że takie płytki na schody zewnętrzne są antypoślizgowe. Ponieważ jest on mało odporny i podatny na zarysowania, **wymaga zabezpieczenia żywicą**.
 
-{:.tip}
+{:.distinction.distinction-information}
 Oprócz płytek, warto rozważyć zastosowanie alternatywnych materiałów do wykończenia schodów. Dobrym rozwiązaniem może być **zastosowanie kostki brukowej**, która jest tańsza od płytek, a także odporna na uszkodzenia i ścieranie. Kostka powinna być jednak stosowana wówczas, gdy przy schodach znajduje się ścieżka lub taras wyłożony tym surowcem. W innych przypadkach takie schody będą wyglądać nieestetycznie.
 
 ## Jak układać płytki schodowe zewnętrzne?
 
 Samodzielne wyłożenie schodów za pomocą płytek nie jest trudne. Ważny jest wybór płytek o **odpowiednich parametrach**. Prawidłowo zamontowane, będą służyły przez długie lata, nie ulegając zniszczeniu. Przy wykańczaniu schodów należy trzymać się pewnych wskazówek:
 
-{:.list-yes}
+{:.list.list-positive}
 * Przy zakupie warto wybrać **zestaw płytek przeznaczonych typowo do schodów.** Dzięki zawartym w takim zestawie elementom montaż będzie znacznie łatwiejszy, a schody będą wyglądały bardziej estetycznie.
 * Jeżeli płytki na schody zewnętrzne będą przycinane, warto umieścić skrócone elementy na brzegach. Takie rozmieszczenie pozwoli na zachowanie **symetrycznego wyglądu** schodów, a przycięcia nie będą tak bardzo widoczne. W ten sposób schody zyskają na estetyce.
 * Przed rozpoczęciem układania kafli należy upewnić się, że stopnie posiadają odpowiednie nachylenie. Jest to konieczne, aby woda mogła swobodnie spływać i nie zalegała na powierzchni schodów. Jeżeli po przyłożeniu poziomicy okaże się, że nie ma spadku, należy to poprawić, nakładając masę szpachlową. **Prawidłowe nachylenie schodów wynosi 1-2%**.

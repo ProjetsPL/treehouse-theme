@@ -14,7 +14,7 @@ image: "/uploads/Dekoracje DIY do domu - zrób to sam.jpg"
 
 Nie trzeba posiadać specjalnych umiejętności, aby stworzyć **estetyczne** i przyciągające uwagę **ozdoby**. Takie rozwiązania zazwyczaj nie wiążą się z wielkimi nakładami finansowymi. Zwykle potrzebne materiały znajdują się w zasięgu ręki, a dokupić wystarczy jedynie kilka niedrogich przyborów. Oczywiście koszt różni się w zależności od każdego projektu. Istnieje **wiele pomysłów DIY**, które nie wymagają dodatkowych wydatków, ponieważ wszystko, co potrzebne można znaleźć we własnym domu.
 
-{:.tip}
+{:.distinction.distinction-information}
 
 Dekoracje **zrób to sam** często oferują wiele ciekawych rozwiązań, jeśli chodzi o niedrogie urządzanie mieszkania. Takie pomysły często wykorzystują **odnawianie starych przedmiotów** lub tworzenie całkiem nowych - z niedrogich materiałów. Część osób poszukujących tanich rozwiązań na urządzenie mieszkania poświęca czas na zbieranie wyrzuconych mebli. Następnie je odnawiają - przerabiają, przemalowują, niekiedy łączą kilka ze sobą. W ten sposób powstają nietypowe domowe **dekoracje DIY**, które skupiają w sobie niepowtarzalny styl i funkcjonalność.
 
@@ -22,7 +22,9 @@ Dekoracje **zrób to sam** często oferują wiele ciekawych rozwiązań, jeśli 
 
 Bardzo wszechstronnym materiałem do wykonywania ozdób DIY jest **zwykły papier.** Ten tani surowiec jest niezwykle popularny wśród miłośników wszelkich prac plastycznych. Nadaje się on praktycznie do wszystkiego - od malowania po rzeźbienie.
 
+{% fig %}
 ![Zrób to sama - z papieru](/uploads/Zrób to sama - z papieru-1.jpg "Zrób to sama - z papieru")
+{% endfig %}
 
 Przykładowymi ozdobami z papieru mogą być:
 
@@ -39,7 +41,9 @@ Oprócz wspomnianych wyżej papierowych kloszy, istnieje wiele innych sposobów 
 * **Świetlne litery** - aby wykonać taką dekorację, wystarczy wyciąć odpowiedni kształt z tektury. Wzdłuż brzegów należy zrobić niewielkie otwory, na przykład za pomocą długopisu, a następnie włożyć w nie lampki. Z takich liter można **ułożyć cały napis**, który będzie idealnym dodatkiem w sypialni.
 * **Żyrandol z hula-hop** - jeśli masz w domu taki nieużywany przedmiot gimnastyczny, możesz wykonać z niego metodą DIY **oryginalny żyrandol**. Owiń koło ozdobną taśmą, a następnie wzdłuż obręczy przymocuj lampki. Równomiernie rozmieszczone i zebrane pośrodku sznurki utrzymają całą konstrukcję.
 
+{% fig %}
 ![DIY - czyli sposób na nastrojowe oświetlenie](/uploads/DIY - czyli sposób na nastrojowe oświetlenie.jpg "DIY - czyli sposób na nastrojowe oświetlenie")
+{% endfig %} 
 
 W roli kloszy do lamp i lampionów świetnie sprawdzą się wspomniane już słoiki. Można przygotować z nich na przykład:
 
@@ -60,7 +64,9 @@ Techniką, która w oryginalny sposób wykorzystuje ten materiał, jest **makram
 * przyborniki na narzędzia,
 * ozdobne torby.
 
+{% fig %}
 ![Zrób to sam - z wszystkiego, co masz pod ręką!](/uploads/Zrób to sam - z wszystkiego, co masz pod ręką.jpg "Zrób to sam - z wszystkiego, co masz pod ręką!")
+{% endfig %}
 
 Jeżeli masz w domu **dużo kolorowych guzików**, możesz je nawlec na drucik lub sznurek, tworząc wiszącą ozdobę. Całość będzie pięknie się prezentowała w połączeniu z ozdobnymi wstążkami. Guziki będą także oryginalnym surowcem do stworzenia niewielkiego obrazka - wystarczy przyszyć je do tkaniny lub **przykleić do kartonu w dowolnej kompozycji**.
 
@@ -68,7 +74,7 @@ Jeżeli masz w domu **dużo kolorowych guzików**, możesz je nawlec na drucik l
 
 **Twórcy ozdób DIY** często zachęcają do upcyklingu, czyli ponownego wykorzystania odpadów. Jest to rozwiązanie nie tylko niezwykle oszczędne, ale też ekologiczne. Warto podarować drugie życie przedmiotom przeznaczonym wyrzucenia.
 
-{:.list-yes}
+{:.list.list-positive}
 
 * Zamiast oddawać przeczytane **gazety** na makulaturę, możesz zrobić z nich papierową wiklinę. W ten sposób można stworzyć efektowne rzeźby, **pudełka**, wazony oraz wiele innych obiektów.
 * Stare puszki po żywności można pomalować farbami lub ozdobić za pomocą **techniki decoupage**. Będą one ładnie wyglądały jako pojemniki na drobne przedmioty.
@@ -79,7 +85,9 @@ Jeżeli masz w domu **dużo kolorowych guzików**, możesz je nawlec na drucik l
 
 Rośliny dla wielu są niezbędnym elementem wystroju wnętrza. Aby pięknie się prezentowały, muszą być nie tylko zdrowe, ale i posadzone w estetycznym pojemniku. W przeciwieństwie do zwykłych, sklepowych doniczek, te **wykonane własnoręcznie metodą DIY** zrób to sam - nadadzą wnętrzu niebanalnego charakteru.
 
+{% fig %}
 ![Zielone DIY](/uploads/Zielone DIY.jpg "Zielone DIY")
+{% endfig %}
 
 Poniżej przedstawiono kilka inspiracji.
 
@@ -90,7 +98,9 @@ Poniżej przedstawiono kilka inspiracji.
 
 Ozdobą zyskującą na popularności jest tak zwany **“las w słoiku”**, czyli kompozycja z niewielkich roślin zamknięta w szklanym naczyniu. Taki miniaturowy ogródek łatwo wykonać samemu, co warto zrobić ze względu na jego niezwykły wygląd. **Dekorację DIY** można wykonać w dwóch wersjach - otwartej i zamkniętej, zależy to od rodzaju wykorzystywanych roślin. Instrukcje wykonania takiej dekoracji znajdziesz w Internecie.
 
+{% fig %}
 ![Las w słoiku](/uploads/Las w słoiku.jpg "Las w słoiku")
+{% endfig %}
 
 **Samodzielna dekoracja wnętrz** nie musi być trudnym zadaniem. Do wykonania ciekawych ozdób wystarczy tylko trochę chęci. Inspiracji w sieci nie brakuje, a z pomocą własnej wyobraźni łatwo można stworzyć coś niepowtarzalnego. **Dekoracje DIY** to świetny sposób na oszczędność, a ich tworzenie z pewnością przyniesie sporo satysfakcji.
 

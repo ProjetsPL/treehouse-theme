@@ -20,11 +20,13 @@ Obecnie jednym z najchętniej wybieranych stylów, w których urządzane są now
 
 **Kolorami dominującymi w stylu skandynawskim jest biel oraz odcienie szarości.** Często eksponowany jest także jeden wyrazisty kolor, taki jak żółty lub niebieski. Urządzając nowoczesny salon skandynawski, warto zdecydować się na jedną mocną barwę, która podkreśli charakter całego pomieszczenia, ale go nie zdominuje i nie przytłoczy. W jej odcieniach należy dobierać większość dodatków, które będą się ładnie prezentować na neutralnym tle.
 
-{:.tip}
+{:.distinction.distinction-information}
 
 Wystrój skandynawski pozwala na wykorzystanie antyków, szczególnie starych drewnianych mebli. Dlatego **styl nowoczesny** niekoniecznie oznacza zakupu całkiem nowych mebli. Można do niego dostosować już posiadane elementy wyposażenia - wystarczy je pomalować na wybrany kolor (najlepiej odcienie bieli).
 
+{% fig %}
 ![Nowoczesny salon w stylu skandynawskim](/uploads/nowoczesny-salon-w-stylu-skandynawskim.jpg "Nowoczesny salon w stylu skandynawskim")
+{% endfig %}
 
 ### Nowoczesny minimalistyczny salon
 
@@ -32,7 +34,7 @@ Wystrój skandynawski pozwala na wykorzystanie antyków, szczególnie starych dr
 
 Styl określany mianem minimalistycznego oznacza jak najmniejszą ilość przedmiotów pozostawionych na wierzchu. Dominujące wzory powinny wyróżniać się prostotą i brakiem zbędnych zdobień. Najczęściej spotykane formy w tym stylu nawiązują do prostych figur geometrycznych. Podobnie, jak w wystroju skandynawskim, **nowoczesny minimalistyczny salon powinien odsłaniać jak najwięcej przestrzeni**. Z powodzeniem można zrezygnować z zasłon i firanek, aby wpuścić do pomieszczenia jak najwięcej światła.
 
-{:.warning}
+{:.distinction.distinction-warning}
 
 Urządzając taki **nowoczesny salon**, należy pozbyć się większości ozdobnych bibelotów. Najlepiej, aby powierzchnie były puste. Można zostawić kilka ozdób o możliwie jak najprostszych formach, należy jednak ograniczyć je do minimum.
 
@@ -40,10 +42,12 @@ Urządzając taki **nowoczesny salon**, należy pozbyć się większości ozdobn
 
 Nowoczesny salon niekoniecznie musi rezygnować z klasycznych dodatków. Jeżeli wnętrze ma być zarówno modne, jak i ponadczasowe, warto wybrać styl retro. W przeciwieństwie do wspomnianych wyżej stylów retro pozwala na zastosowanie o wiele szerszej palety kolorów. **Nowoczesny salon retro** powinien wykorzystywać dodatki w mocnych, wręcz krzykliwych barwach. Popularne jest łączenie kontrastów, takich, jak biel z czernią czy czerwień z miętową zielenią. Aby zrównoważyć całość, jako tło warto wybierać kolory stonowane. Sprawdzą się ty ściany i podłogi w odcieniach bieli i brązu.
 
-{:.tip}
+{:.distinction.distinction-information}
 **Styl retro** pozwala na łączenie różnych tekstur, takich jak drewno, chromowany metal, plastik i cegła. Aranżacja dodatków w takim stylu sprzyja wykorzystaniu już posiadanych elementów ozdobnych. Ozdoby pochodzące z poprzedniej epoki - czasów PRL - doskonale udekorują nowoczesny salon retro.
 
+{% fig %}
 ![Salon nowoczesny - postaw na retro](/uploads/salon-nowoczesny-postaw-na-retro-1.jpg "Salon nowoczesny - postaw na retro")
+{% endfig %}
 
 ## Jak nowocześnie urządzić salon?
 
@@ -51,7 +55,7 @@ Konkretny styl, w którym urządzony jest nowoczesny salon, nie jest tak naprawd
 
 Wszystkie **współczesne wnętrza** charakteryzują pewne cechy wspólne. Powinny zostać one uwzględnione w każdym pomieszczeniu. Nowoczesny salon musi zatem odznaczać się następującymi elementami:
 
-{:.list-yes}
+{:.list.list-positive}
 
 * **Odpowiednie oświetlenie** - nowoczesne salony wyróżniają się jasnymi przestrzeniami. Do wnętrza należy wpuścić jak najwięcej naturalnego światła. Jeżeli pokój jest niewielki, można z powodzeniem **zrezygnować z zasłon i firanek**. Również same lampy powinny dobrze oświetlać cały pokój - warto zastosować kilka rodzajów oświetlenia (przykładowo sufitowe i ścienne).
 * **Otwarta przestrzeń** - nie należy przytłaczać pokoju zbyt dużą ilością przedmiotów. W niewielkich przestrzeniach sprawdzą się meble na nóżkach - mają one “lżejszy” wygląd. **Elementy wyposażenia** powinny odznaczać się prostotą, można jednak wybrać kilka nietypowych, ozdobnych form.
@@ -64,7 +68,9 @@ Każdy **nowoczesny salon** powinien być zarówno komfortowy, jak i modny. Moż
 
 Współczesne trendy sprzyjają salonom o małej powierzchni. Wspomniana już, pasująca niemal do każdego stylu biel optycznie powiększa wnętrze. Im jaśniejszy pokój, tym większy się wydaje. Popularnym w ostatnich latach rozwiązaniem jest **połączenie funkcji dwóch pomieszczeń w jednym**. W ten sposób nowoczesny salon może stać się również kuchnią, jadalnią lub sypialnią. Likwidacja ścian działowych zaoszczędzi sporo przestrzeni, a odpowiednio dobrane meble optycznie ją powiększą.
 
+{% fig %}
 ![Pomysł na nowoczesny salon o niewielkiej powierzchni](/uploads/pomysl-na-nowoczesny-salon-o-niewielkiej-powierzchni.jpg "Pomysł na nowoczesny salon o niewielkiej powierzchni")
+{% endfig %}
 
 Wymienione wcześniej meble modułowe zwiększają funkcjonalność pomieszczenia. Decydując się na sofę z funkcją spania, można połączyć salon z sypialnią. Stół, który można przekształcić w biurko to dobry pomysł na nowoczesny salon, który jest jednocześnie jadalnią i biurem. Dobierając elementy wyposażenia, warto zdecydować się na **materiały, o błyszczącej powierzchni**, które odbijają światło. Podobnie, jak lustra, które powiększają przestrzeń.
 

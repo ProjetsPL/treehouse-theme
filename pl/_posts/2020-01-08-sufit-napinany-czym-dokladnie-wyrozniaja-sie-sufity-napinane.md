@@ -18,7 +18,9 @@ Sufity napinane z czasem stały się rzadkością, by powrócić dopiero w XX wi
 
 * **Sufit 3D** - na tkaninie nadrukowuje się obraz 3D, który sprawia **wrażenie głębi**. Najczęściej stosuje się zdjęcia wody, kosmosu lub nieba. Jest to bardzo efektowne rozwiązanie, które pasuje do nowoczesnych wystrojów.
 
+{% fig %}
 ![Sufit 3D](/uploads/sufit-3D.jpg "Sufit 3D")
+{% endfig %}
 
 * **Sufit lustrzany** - powierzchnia materiału odbija światło jak lustro. Taki sufit napinany można wykonać w dowolnym kolorze. Najlepiej sprawdza się w **wystrojach luksusowych**, wzorowanych na styl pałacowy.
 * **Sufit matowy** - wykonany z materiału, który nie odbija światła. Dostępne są w różnych kolorach, jednak najczęściej wybierana jest biel, która pasuje do większości wystrojów.
@@ -27,16 +29,18 @@ Sufity napinane z czasem stały się rzadkością, by powrócić dopiero w XX wi
 
 Sufit napinany to dobre rozwiązanie wszędzie tam, gdzie strop wymaga **maskowania**. Nieestetyczne wykończenie i zewnętrzne rury mogą z powodzeniem zostać przykryte tkaniną.
 
-{:.warning}
+{:.distinction.distinction-warning}
 Takie rozwiązanie znacznie **obniża strop**, dlatego nie nadaje się do niskich pomieszczeń. Znajdzie natomiast zastosowanie w kamienicach oraz wszystkich pomieszczeniach o wysokich ścianach.
 
+{% fig %}
 ![Kiedy warto wybrać sufit napinany?](/uploads/kiedy-warto-wybrac-sufit-napinany.jpg "Kiedy warto wybrać sufit napinany?")
+{% endfig %}
 
 ### Sufit napinany - zalety
 
 Do głównych zalet tego rodzaju **wykończenia sufitu** zalicza się przede wszystkim szybkość montażu. Pozostałe korzyści z takiego rozwiązania to:
 
-{:.list-yes}
+{:.list.list-positive}
 
 * **Trwałość** - sufity napinane charakteryzują się sporą odpornością mechaniczną. Dzięki temu jest to jedno z najbardziej wytrzymałych sposobów wykończenia sufitu. Trwałość takich sufitów to zazwyczaj kilkadziesiąt lat - producenci dają gwarancję na dziesięć.
 * **Idealny wygląd** - sufit napinany pozwala na uzyskanie idealnie gładkiej powierzchni. Nie jest to możliwe w przypadku tradycyjnych wykończeń. Producenci oferują szeroki wybór wzorów z opcją **personalizacji**. Można uzyskać zarówno jednolite powierzchnie, jak i nadruki 3D w wybranym wzorze. Ponadto sufity napinane można również uformować w dowolny kształt, jeżeli równa płaszczyzna nie jest pożądana.
@@ -44,13 +48,15 @@ Do głównych zalet tego rodzaju **wykończenia sufitu** zalicza się przede wsz
 * **Izolacja akustyczna** - sufit napinany wykonany z folii perforowanej jest w stanie bardzo dobrze wyciszyć pomieszczenie. Jest to przydatne zarówno w dużych salach wykładowych, jak i w prywatnych mieszkaniach, szczególnie w sypialniach.
 * **Łatwość utrzymania czystości** - zazwyczaj sufity napinane nie wymagają szczególnej uwagi. Można je odkurzać, a konstrukcja pozwala na jej zdjęcie , przykładowo w celu konserwacji rur znajdujących się nad sufitem.
 
+{% fig %}
 ![Sufit napinany - zalety](/uploads/sufit-napinany-zalety.jpg "Sufit napinany - zalety")
+{% endfig %}
 
 ### Sufit napinany - wady
 
 Oprócz wymienionych zalet, sufity napinane mają też pewne wady. Konieczne jest ich rozważenie, aby mieć świadomość ograniczeń związanych z tą metodą.
 
-{:.list-no}
+{:.list.list-negative}
 
 * **Problem z wymiarami** - pomimo faktu, że sufity napinane są wszechstronne, nie można ich zamontować w każdym rodzaju pomieszczeń. Jeżeli pokój ma niestandardowe wymiary, dużo wnęk i uskoków, równe rozciągnięcie tkaniny może być trudne. Mimo że można **dopasować listwy** do takich warunków, koszty wykonania mogą w tym przypadku znacznie wzrosnąć. Dodatkowo maksymalny rozmiar tkaniny to 5 metrów. W przypadku większych powierzchni trzeba zastosować dwie płachty, co sprawi, że powierzchnia nie będzie odpowiednio równa.
 * **Opcje oświetlenia** - sufit napinany wymaga oświetlenia o mocy nieprzekraczającej 40 W. Dodatkowo elementy lamp muszą być zabezpieczone przed nagrzewaniem. Mogłoby to odbarwiać materiał.
@@ -64,7 +70,9 @@ Sufity napinane nie wymagają przygotowania sufitu właściwego. Ważne jedynie,
 
 Przed zawieszeniem materiał zostaje przymocowany do narożników za pomocą specjalnych klamer. Sufit z PCV jest następnie w dalszym ciągu nagrzewany i przypinany do listew zamontowanych na ścianach. Pod wpływem ciepła zmniejsza objętość i **napina się**, tworząc równą, płaską powierzchnię. Po zakończonym montażu należy zamaskować szczeliny między listwami a ścianami. Służą do tego specjalne maskownice.
 
+{% fig %}
 ![Sufit napinany - jak wygląda montaż?](/uploads/sufit-napinany-jak-wyglada-montaz-1.jpg "Sufit napinany - jak wygląda montaż?")
+{% endfig %}
 
 ## Ile kosztuje sufit napinany?
 
@@ -72,7 +80,7 @@ Cena tego typu wykończenia zależy od wielu czynników. Najważniejszym z nich 
 
 Wszystkie wspomniane aspekty sprawiają, że cena wykonania takiego projektu jest kwestią indywidualną. Stawki podawane za metr to średnio **100-200 złotych**, jednak należy wliczyć w to pozostałe czynniki, które na pewno podniosą cenę.
 
-{:.tip}
+{:.distinction.distinction-information}
 **Sufit napinany** jest o wiele droższy niż sufity podwieszane z płyt regipsowych. Mimo to warto rozważyć takie rozwiązanie, choćby ze względu na jego wyjątkową trwałość.
 
 Tego typu rozwiązanie znacznie różni się od tradycyjnych metod wykończenia sufitów. Taki strop jest przede wszystkim bardzo dekoracyjny. Szeroki wybór wzorów pozwoli na uzyskanie efektu, który na każdym zrobi spore wrażenie. Biorąc pod uwagę ilość zalet takiego rozwiązania, sufity napinane mogą być warte swojej ceny.

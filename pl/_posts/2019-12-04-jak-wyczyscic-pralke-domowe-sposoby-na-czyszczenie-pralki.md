@@ -14,7 +14,7 @@ image: "/uploads/Jak wyczyścić pralkę - Domowe sposoby na czyszczenie pral
 
 Elementy pralki stale ulegają **zabrudzeniom**. Mają one kontakt nie tylko z brudem pochodzącym z pranych ubrań, ale narażone są na c**iągły kontakt z wodą**. To może powodować powstawanie kamienia na grzałce, bębnie i filtrze. Wówczas pralka będzie dłużej nagrzewała wodę, a światło w przewodach zmniejszy się - co obniży ciśnienie wody.
 
-{:.tip}
+{:.distinction.distinction-information}
 
 Jeżeli **osad z kamienia** nie będzie regularnie usuwany, wspomniane części zostaną uszkodzone. Wygeneruje to dodatkowe koszty związane z naprawą urządzenia. Może okazać się nawet, że pralkę będzie trzeba wymienić na nową, ponieważ reperowanie popsutych elementów stanie się nieopłacalne. Można więc przyjąć, że **czyszczenie pralki chroni sprzęt** przed jego poważnymi uszkodzeniami.
 
@@ -22,7 +22,7 @@ Stale obecna wilgoć, ciepło oraz słaby obieg powietrza w pralce sprzyja takż
 
 Mają one wpływ na:
 
-{:.list-no}
+{:.list.list-negative}
 
 * drogi oddechowe,
 * układ nerwowy,
@@ -37,7 +37,7 @@ Mają one wpływ na:
 
 Na rynku istnieje spory wybór gotowych chemicznych **środków przeznaczonych do czyszczenia pralek**. Jednak mogą one być nie tylko drogie, ale również szkodliwe dla zdrowia człowieka.
 
-{:.warning}
+{:.distinction.distinction-warning}
 
 Syntetycznie wytworzone substancje mogą powodować podrażnienia skóry oraz nasilać alergie u osób wrażliwych. Dlatego zastanawiając się, **czym wyczyścić pralkę**, warto zdecydować się na naturalne środki.
 
@@ -45,13 +45,15 @@ Można je znaleźć w każdej kuchni, dlatego ich stosowanie nie wiąże się z 
 
 ### Czyszczenie pralki sodą
 
+{% fig %}
 ![Czyszczenie pralki sodą](/uploads/Czyszczenie pralki sodą.jpg "Czyszczenie pralki sodą")
+{% endfig %}
 
 **Wodorowęglan sodu**, czyli soda oczyszczona, to substancja o wielu zastosowaniach. Stosowana jest przede wszystkim w kuchni do przygotowywania wypieków. Wiele osób używa jej również do celów kosmetycznych, takich maseczki na twarz.
 
 **Soda oczyszczona** to również idealny **środek czyszczący**. Czyszczenie pralki sodą umożliwia pozbycie się:
 
-{:.list-yes}
+{:.list.list-positive}
 
 * wszelkich zabrudzeń,
 * kamienia,
@@ -65,7 +67,7 @@ Alternatywnym **sposobem na czyszczenie pralki jest zastosowanie octu**. Jest to
 
 Podobnie jak soda, **ocet ma zdolność pochłaniania zapachów**. Aby wyczyścić pralkę, do pojemnika na proszek należy wlać od jednego do dwóch litrów octu i nastawić pranie w wysokiej temperaturze. W ten sposób z pralki usunięty zostanie kamień, pleśnie oraz bakterie.
 
-{:.warning}
+{:.distinction.distinction-warning}
 
 Jedynym mankamentem przy zastosowaniu tej metody jest **ostry zapach octu**, który może rozejść się po całym domu. Jednak po odpowiednim wywietrzeniu pomieszczeń zapach szybko zniknie.
 
@@ -79,7 +81,7 @@ Jak **wyczyścić pralkę z użyciem kwasku cytrynowego**? Do pojemnika na prosz
 
 ### Czyszczenie pralki octem i sodą
 
-Jeżeli **pralka jest mocno zabrudzona** i powyższe sposoby na czyszczenie pralki nie sprawdzą się, wymienione substancje warto połączyć. Przykładowo z octu i sody oczyszczonej można sporządzić pastę. 
+Jeżeli **pralka jest mocno zabrudzona** i powyższe sposoby na czyszczenie pralki nie sprawdzą się, wymienione substancje warto połączyć. Przykładowo z octu i sody oczyszczonej można sporządzić pastę.
 
 Aby ją wykonać, do 10 łyżek octu należy dodać tyle sody, aby powstała masa. Taką papkę trzeba nałożyć na wszystkie mocno zabrudzone miejsca. Po kilku godzinach wystarczy **zmyć ją za pomocą wilgotnej gąbki lub szmatki** i osuszyć. Działanie octu można także wzmocnić, dosypując do niego kwasku cytrynowego. Na jeden litr octu należy dosypać jedno opakowanie kwasku.
 
@@ -91,7 +93,9 @@ Samo **przepłukanie pralki środkiem odkamieniającym** może nie wystarczyć. 
 * **Pojemniki na proszek i płyn do płukania** - to tam najczęściej tworzy się pleśń. Jeżeli czyszczenie pralki przeprowadzane było dawno, to szufladkę należy wyjąć i **dokładnie umyć za pomocą gąbki i wybranego środka** (mleczka lub sody). Warto zwrócić także uwagę na ścianki, które otaczają pojemnik.
 * **Uszczelki oraz elementy gumowe** - są one bardziej narażone na działanie kamienia. Najwięcej brudu zbiera się pod kołnierzem znajdującym się przy drzwiczkach pralki. Powinien on być **regularnie oczyszczany**. Warto nałożyć w tym miejscu wyżej wspomnianą pastę z octu i sody. Dzięki niej usunięcie zanieczyszczeń nie sprawi żadnych problemów.
 
-![](/uploads/Czyszczenie pralki - najważniejsze kwestie.jpg)
+{% fig %}
+![Czyszczenie pralki - najważniejsze kwestie](/uploads/Czyszczenie pralki - najważniejsze kwestie.jpg "Czyszczenie pralki - najważniejsze kwestie")
+{% endfig %}
 
 Wymienione wyżej miejsca są najbardziej wystawione na brud, kamień oraz powstawanie pleśni. Dlatego należy zwrócić na nie szczególną uwagę. **Systematyczne czyszczenie pralki** ze szczególnym ich uwzględnieniem pozwoli uniknąć problemów w przyszłości.
 
@@ -99,11 +103,11 @@ Wymienione wyżej miejsca są najbardziej wystawione na brud, kamień oraz powst
 
 Do zwykłego przecierania zazwyczaj wystarczą miękkie szmatki. Można również użyć gąbki, a **trudne zabrudzenia** szorować jej ostrą stroną.
 
-{:.tip}
+{:.distinction.distinction-information}
 
 Do czyszczenia pralki dobrze nadają się szczotki z plastikowym włosiem. Należy jednak ostrożnie się z nimi obchodzić przy szorowaniu delikatnych elementów, takich jak gumowe uszczelki. Trudno dostępne zakamarki, na przykład zagłębienia w szufladce na proszek, można wyczyścić za pomocą starej szczoteczki do zębów.
 
-**Regularne czyszczenie pralki** to czynność niezwykle ważna. Przede wszystkim pozwala ona na wydłużenie żywotności sprzętu, a także sprawia, że ubrania są dokładnie wyprane i pachną świeżością. 
+**Regularne czyszczenie pralki** to czynność niezwykle ważna. Przede wszystkim pozwala ona na wydłużenie żywotności sprzętu, a także sprawia, że ubrania są dokładnie wyprane i pachną świeżością.
 
 Wybierając odpowiedni **środek do czyszczenia pralki**, warto wziąć pod uwagę domowe sposoby. Ich zaletą jest wysoka skuteczność przy jednoczesnym zachowaniu niskich kosztów. Środki takie, jak soda, ocet, czy kwasek cytrynowy powinny znaleźć się w każdym gospodarstwie domowym. Dlatego warto poświęcić chwilę, aby w ten łatwy sposób zadbać o pralkę. Zapewni to jej niezawodne działanie przez długi czas.
 

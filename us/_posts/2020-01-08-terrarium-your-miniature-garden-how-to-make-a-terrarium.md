@@ -15,7 +15,7 @@ Terrarium is an increasingly popular home decoration. Such project is very easy 
 
 Plants should be present in every household. Living in a city means a very limited contact with nature. For this reason, plants for many are absolutely necessary elements of interior decoration. They have soothing effect on human body. **Terraria** are perfect for this purpose - such a **miniature garden** is a closed ecosystem which looks like a piece of a real forest. Observing what is happening inside of the glass is a very relaxing activity.
 
-{:.tip}
+{:.distinction.distinction-information}
 **Plant terrarium** was first invented in the Victorian era by an English doctor Nathaniel Bagshaw Ward. His glass container had a rectangular shape and was known as **Wardian case**. It was designed to carry plants during long trips overseas.
 
 Regardless of the shape of the container, all terraria work the same. **A microclimate develops inside of the sealed vessel**. That keeps the organisms inside alive. Because the whole construction is airtight, the weather outside does not affect them.
@@ -24,15 +24,17 @@ Regardless of the shape of the container, all terraria work the same. **A microc
 
 Making your own **terrarium** does not require any special skills. All you need is your own creativity. It is worth to learn some tips that will help you make a perfect, long lasting terrarium. One of the most important issues while preparing a **bottle garden** is the choice of the right plants. Keep in mind that not all of the species will live together in harmony.
 
-{:.tip}
+{:.distinction.distinction-information}
 Preparing a **terrarium**, you have two options. You can make a closed terrarium and seal the container so the plants thrive in their own climate. You can also make an open decoration that needs to be watered from time to time. The type of plants that you will choose depends on this decision.
 
+{% fig %}
 ![How to pick the right terrarium plants?](/uploads/how-to-pick-the-right-terrarium-plants.jpg "How to pick the right terrarium plants?")
+{% endfig %}
 
 Closed vessels may contain **tropical plants** and the ones that like humidity. Slow growing plants will be the best choice - they won’t change their appearance very much for a long time.
 
 Compositions inside of sealed terraria may use **species** such as:
-{:.list-yes}
+{:.list.list-positive}
 
 * fern,
 * moss,
@@ -42,7 +44,7 @@ Compositions inside of sealed terraria may use **species** such as:
 * pilea,
 * glechoma (ground-ivy).
 
-{:.warning}
+{:.distinction.distinction-warning}
 Keep in mind that **in some states it is illegal to collect moss** from a forest. If you are not sure if you can gather moss in your country, it might be a better idea to buy it at a florist’s. You might also collect it in your own yard, if you own it.
 
 Apart from the plants, you should also collect some **decoration elements** for your terrarium. For a closed terrarium it is best to use:
@@ -52,7 +54,9 @@ Apart from the plants, you should also collect some **decoration elements** for 
 * cones,
 * small branches.
 
+{% fig %}
 ![Decoration elements](/uploads/Dodatki dekoracyjne-1.jpg "Decoration elements")
+{% endfig %}
 
 If your composition will be placed in an open container, you should choose plants such as **cacti and succulents**. You have free choice in this matter. For a good visual effect it is good to match plants with interesting forms and shapes. For instance you could choose **echeverias that look like roses and living stones** (lithops). The only restriction for your terrarium is to not to match plants living in different environments, for instance ferns with succulents.
 
@@ -62,13 +66,17 @@ If your composition will be placed in an open container, you should choose plant
 
 * **A glass container** - the vessel might be of any shape. If the plants you gathered like humidity, the container needs a tight lid. The size of the vessel should match the scale of the plants. It is worth to choose a bigger jar for your **terrarium**, so that the plants will have some space to grow. You can choose any container that is made of glass - a big mason jar, wide neck bottles, or even old incandescent light bulbs (remember to remove the filament from the inside).
 
+{% fig %}
 ![Glass container](/uploads/Szklane naczynie.jpg "Glass container")
+{% endfig %}
 
 * **Soil** - you can use all-purpose potting soil, however every other type will suffice. Make sure that it is **free from diseases and fungi**. If your terrarium is going to contain **succulents**, you should probably use soil specifically made for them.
 * **Activated charcoal** - you can purchase it at the pharmacy or in a pet shop. **Charcoal is going to regulate the level of humidity in a closed container**. It will also prevent the plants from rotting. You can skip this part in case of an open container.
 * **Gravel or sand** - terrarium needs a drainage layer. material such as sand or gravel gather the excess of water and **protect the roots from drenching**. You can also use keramsite for this purpose.
 
+{% fig %}
 ![Gravel or sand](/uploads/gravel-or-sand.jpg "Gravel or sand")
+{% endfig %}
 
 ### Making a terrarium
 
@@ -82,18 +90,20 @@ If you prepared all the needed elements, you can start making your **DIY terrari
 6. Place the **decorations** - cones, pebbles, tree bark and moss. **Do not place heavy stones on the moss**, as it could make it rot.
 7. The last stage is watering your **terrarium**. It is best to use a pipette and pour around 10-15 millilitres of water. Then **tightly close** the container (if it’s closed terrarium).
 
+{% fig %}
 ![Making a terrarium](/uploads/making-a-terrarium.jpg "Making a terrarium")
+{% endfig %}
 
 ## How to plant a terrarium?
 
 **Terrarium** should be placed in a bright, but not sunny spot. After a few days you should notice water on the walls of your closed terrarium. If the evaporation process is too intense, you can open the container for a few hours and then close it again. On the other hand, if you won’t notice any water on the walls within 2 weeks, pour about 2 mililitres of water into the soil. You can repeat this until water starts evaporating noticeably.
 
-{:.tip}
+{:.distinction.distinction-information}
 If you made everything correctly, the microclimate should work properly and your **terrarium** does not need any special attention. Only open compositions should be watered regularly. If you notice that in your closed terrarium the level of humidity dropped significantly, just pour 2-5 ml of water. It should suffice at least for a year. The first signs that it’s **too dry** in the container are **yellow leaves** of the plants.
 
 Your terrarium plants might also be **attacked by pests**. They are often carried in with soil or moss.
 
-{:.warning}
+{:.distinction.distinction-warning}
 If you noticed any insects, use the appropriate **insecticide**. The problem should be resolved after several days of treatment.
 
 Terrarium is a beautiful decoration. It doesn’t require much effort to take care of - it’s self-sufficient. A big advantage is the fact that it’s very easy to make. If you don’t have any time or motivation to prepare it, you can buy it in a flower shop. Such an attractive and unusual composition is definitely worth having.

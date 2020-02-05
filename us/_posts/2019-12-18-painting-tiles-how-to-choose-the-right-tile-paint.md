@@ -20,7 +20,9 @@ Having that in mind, tile paint might be a good idea for a quick and **easy make
 
 An additional advantage of such **renovation** is the fact that it doesn’t generate any noise. Therefore you don’t have to worry about the peace of your neighbours. Tile paint won’t fill your interior with dust and dirt, as it is with tile replacement. The whole procedure is relatively easy and fast to do. It can be done over the course of just one day, and **maximum time is three days**. The time depends on the type of tile paint and the number of layers.
 
+{% fig %}
 ![Painting tile - a quick makeover](/uploads/Malowanie plytek - sposob na szybki remont.jpg "Painting tile - a quick makeover")
+{% endfig %}
 
 ## Choosing the right tile paint
 
@@ -34,13 +36,15 @@ Manufacturers offer quite limited choice of products suitable for **painting til
 
 Paint that is typically used for walls is not suitable for **painting tiles in the kitchen or bathroom**. Such paint would not stick to the smooth tile surface and it would just flow down. However, if you use a good primer before painting tiles, you can cover them with latex or oil paint. Make sure that the product you choose is **washable**, because tiles are usually placed in rooms of high humidity.
 
-{:.warning}
+{:.distinction.distinction-warning}
 
 Such a solution might be beneficial if you demand a broad range of colours. Unfortunately, the choice of colours of tile paint is quite narrow.
 
 Keep in mind that paint that you use for wall tiles cannot necessarily be used for floor tiles. Floor tile paint should be highly resistant to abrasion. Wall tiles, particularly those in the shower, should be covered with a waterproof surface, immune to detergents. Deciding, which tile paint is the best for your needs, think of the finish you wish for. **Satin and matt surfaces are very elegant**, whereas shiny tiles will make the room look bigger.
 
+{% fig %}
 ![Choosing the right tile paint](/uploads/Wybor farby do plytek.jpg "Choosing the right tile paint")
+{% endfig %}
 
 ## Tile paint - how to paint ceramic tile?
 

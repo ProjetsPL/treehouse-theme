@@ -16,7 +16,7 @@ Remont kuchni może okazać się bardzo kosztowny. Takie przedsięwzięcie poch�
 
 Często zdarza się, że **szafki kuchenne** wciąż są w bardzo dobrym stanie, jednak ich kolor stracił dawny blask. Nie jest modny lub po prostu się znudził. Wymiana takich mebli może być bezsensowna, ponieważ poza wyglądem w zasadzie niczego im nie brakuje. Dobrym pomysłem w tym przypadku jest zastosowanie **farby do mebli kuchennych**. Odpowiednio dobrana, całkowicie odmieni charakter pomieszczenia, co stanowi główny cel remontu.
 
-{:.tip}
+{:.distinction.distinction-information}
 
 **Renowacja mebli** jest możliwa nawet wówczas, gdy posiadają one drobne uszkodzenia i zarysowania. **Zastosowanie farby do mebli** świetnie zamaskuje takie mankamenty.
 
@@ -24,14 +24,16 @@ Często zdarza się, że **szafki kuchenne** wciąż są w bardzo dobrym stanie,
 
 Na rynku pojawia się coraz więcej produktów, których przeznaczeniem jest **malowanie mebli kuchennych**. Dobra farba do mebli kuchennych równomiernie pokryje całą powierzchnię oraz zakryje drobne usterki. Najczęściej wybierane **farby do mebli** to:
 
-{:.list-yes}
+{:.list.list-positive}
 
 * **Farby akrylowe** - są to farby najbardziej uniwersalne z dostępnych na rynku. Charakteryzuje je wysoka odporność na ścieranie oraz działanie promieniowania UV, dzięki czemu nie żółkną po pewnym czasie. Tego rodzaju powłoki schną bardzo szybko, a przy malowaniu nie czuć ostrego zapachu.
 * **Farby renowacyjne** - takie farby nadają się do powierzchni drewnianych, jak i do ceramiki. Jest to zarówno **farba do mebli kuchennych, jak i kafelków.** Zaletą tego typu farb jest ich wysoka odporność na uszkodzenia mechaniczne, temperaturę oraz zabrudzenia.
 * **Farby kredow**e - są to jedne z najbardziej ekologicznych produktów na rynku farb. Oferują szeroką gamę kolorów w pastelowych odcieniach. W zależności od konkretnego typu dają matowe lub półmatowe wykończenie. Pozwalają na uzyskanie efektu cieniowania. Farby kredowe doskonale nadają się jako f**arby do mebli kuchennych**, wymagają jednak zabezpieczającej warstwy lakieru.
 * **Farby alkidowe (ftalowe)** - podobnie, jak farby akrylowe, farby ftalowe **są odporne na uszkodzenia mechaniczne**. Jest to najtańsza z dostępnych opcji. Ich największą wadą jest nieprzyjemny zapach.
 
+{% fig %}
 ![Wybór farby do mebli kuchennych](/uploads/Wybor farby do mebli kuchennych.jpg "Wybór farby do mebli kuchennych")
+{% endfig %}
 
 ## Renowacja mebli kuchennych - krok po kroku
 
@@ -41,11 +43,13 @@ Na rynku pojawia się coraz więcej produktów, których przeznaczeniem jest **m
 
 Przed rozpoczęciem jakichkolwiek prac należy **dokładnie obejrzeć każdą szafkę**.
 
-{:.warning}
+{:.distinction.distinction-warning}
 
 Każdą głębszą rysę warto zaszpachlować klejem lub masą do drewna. Płytsze zarysowania można spróbować wyrównać papierem ściernym. Ścieranie zawsze wykonuje się wzdłuż włókien, aby ich nie uszkodzić. Jeżeli **meble są pokryte folią lub okleiną**, która się odkleja lub jest zniszczona, należy ją zerwać.
 
+{% fig %}
 ![Przygotowanie do malowania](/uploads/Przygotowanie do malowania.jpg "Przygotowanie do malowania")
+{% endfig %}
 
 Aby **malowanie mebli kuchennych** było wygodniejsze, należy zdemontować fronty i wyjąć wszystkie szuflady. Szafki należy dokładnie umyć wodą z dodatkiem detergentu. Ważne jest również **odtłuszczenie powierzchni**. Warto ją przetrzeć acetonem lub benzyną. Wszystkie klamki i uchwyty powinny zostać zdjęte do malowania.
 
@@ -57,11 +61,14 @@ Przed rozpoczęciem czynności, jaką jest **malowanie szafek kuchennych**, nale
 
 **Płaski lub okrągły pędzel** sprawdzi się jedynie w przypadku farb kredowych. Przy pozostałych rodzajach **farby do mebli kuchennych** pędzle mogą pozostawić nieestetyczne smugi. Dlatego do malowania dużych powierzchni, takich jak fronty szafek, najlepiej używać szerokich wałków. Najlepiej sprawdzą się wałki piankowe, dobre będą również wałki flokowe.
 
-{:.warning}
+{:.distinction.distinction-warning}
 
 Nie należy używać wałka z runem, ponieważ gubi on włosie i pozostawia strukturę baranka. Najbardziej gładką powierzchnię można uzyskać za pomocą pistoletu natryskowego.
 
+{% fig %}
 ![Renowacja mebli kuchennych - dobór narzędzi](/uploads/Farby do mebli kuchennych.jpg "Renowacja mebli kuchennych - dobór narzędzi")
+{% endfig %}
+
 
 ### Malowanie szafek kuchennych
 
@@ -69,7 +76,7 @@ Po odpowiednim przygotowaniu można rozpocząć **malowanie mebli kuchennyc**h. 
 
 Po wyschnięciu podkładu można nałożyć farbę. Do malowania najwygodniej użyć wspomnianego wcześniej **szerokiego wałka**. Drobne elementy i zakamarki łatwiej pokryć za pomocą niewielkiego pędzelka. Po wyschnięciu pierwszej powłoki należy nałożyć drugą. Czas schnięcia i ilość warstw zależy od producenta.
 
-{:.tip}
+{:.distinction.distinction-information}
 
 Standardowo powinno się nakładać **przynajmniej dwie warstwy farby**. Najlepiej nakładać je metodą krzyżową: pierwszą z góry na dół, a drugą od lewej do prawej. Jeżeli dwie powłoki to za mało, należy nakładać kolejne, aż farba dokładnie pokryje meble.
 

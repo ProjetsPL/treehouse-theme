@@ -26,21 +26,23 @@ There are many types of **hanging chairs**. Designers constantly create new form
 
 The main difference between furniture of this type is in appearance and construction. Not every hanging chair is suitable for every room. When choosing the right object, consider your own needs and the purpose of the chair. Most furniture shops offer products such as:
 
-{:.list-yes}
+{:.list.list-positive}
 * **Ceiling hanging chair** - it is the most appealing type. The seat hangs on a rope attached to a hook fixed to a ceiling. This type allows full range of movement for a user. There are wider and narrower models, you can choose the one that fits your particular needs.
 * **Hanging chair with stand** - this type is more mobile. The seat hangs from a stand placed on the floor. It is much smaller than the version attached to a ceiling. It is a big advantage in places of limited space. A hanging chair of this type offers a smaller range of movement. The mobility allows to put it on a balcony or in summer - on a patio.
 * **Brazilian hammock chair** - it’s a type of hammock. Its advantage is the fact that it perfectly fits any body shape. It is also much cheaper than the previous models. The hanging chair of this type might be removed if needed. It can be easily stored in a wardrobe, not taking too much space.
 
-{:.tip}
+{:.distinction.distinction-information}
 If you decided to buy a hanging chair, pay attention to its shape. There are many designs available. Some are completely round, similar to the Bubble Chair. The most commonly chosen type is hanging egg chair with elongated back rest. There are also two-person versions, with wide seats. Make sure consider the amount of space you can dedicate for this piece of furniture.
 
+{% fig %}
 ![Choosing a hanging chair - types](/uploads/fotel-wiszacy-do-pokoju.jpg "Choosing a hanging chair - types")
+{% endfig %}
 
 ### Hanging chair materials
 
 The shape is not the only criterion that you should pay attention to. A **hanging chair** might be made of various materials. The original Bubble Chair is made of acrylic, stainless steel frame and leather cushion. The most commonly used materials are:
 
-{:.list-yes}
+{:.list.list-positive}
 * **Rattan** - rattan constructions are very decorative. It’s a **durable and eco-friendly** material, although it is not resistant to water. For this reason weaved furniture should not be placed outside. You can coat the pieces with varnish.
 * **Technorattan** - a technorattan hanging chair is as decorative as natural rattan furniture. Its main advantage is **durability and resistance** to weather conditions.
 * **Wood** - material of this type is heavier than the others. It is perfect for those who value natural materials.
@@ -56,23 +58,25 @@ If you decided to purchase a hanging chair, make sure that you have enough space
 
 A hanging chair with stand takes significantly less space. Because of its construction the movements are limited, therefore there is no risk of damaging the furniture. You can place it **closer to the walls** and furniture. A big advantage is the fact that it can be moved at any time.
 
-{:.warning}
+{:.distinction.distinction-warning}
 If you are planning to place a hanging chair in a children's room, pay special attention to safety. The best location for an object of this type is the middle of the room. Place the seat relatively low over the floor.
 
+{% fig %}
 ![Where to place a hanging chair?](/uploads/gdzie-umiescic-fotel-wiszacy.jpg "Where to place a hanging chair?")
+{% endfig %}
 
 ## How to attach a hanging chair?
 
 A hanging chair with stand does not to be installed in any special way - just put it wherever you want. If it’s a ceiling hanging chair, make sure to install it properly. It needs to be done carefully, otherwise the construction might collapse.
 
-{:.warning}
+{:.distinction.distinction-warning}
 Be careful if your ceiling is very old or in poor condition. Before buying a hanging chair, **check the ceiling** to make sure that it can hold such weight. It is a good idea to ask a specialist to assess the situation. In some cases it might be safer to choose a hanging chair with stand.
 
 To attach the chair to the ceiling, you need to prepare a few accessories. Make sure you have chemical anchor, an eye screw or a wall plug and a snap ring. You will also need a drill, a hammer, an adjustable spanner and a screwdriver.
 
 After figuring out where you want the chair to be placed, use a pencil to mark the spot for drilling. The hole should be drilled **at an angle of 30 degrees**. If you hit a reinforcing bar, move the spot by a couple of centimetres. Widen the drilled hole using a larger bit and vacuum it. Squeeze the chemical anchor into it and insert the eye screw or wall plug into it. Screw it tightly. The next step is hanging snap rings and chain.
 
-{:.tip}
+{:.distinction.distinction-information}
 **You must test the durability of the construction.** To do it, take the chain in both of your hands and hang on it for a while, ideally with another person. The structure should hold weight of two people. After the test, tighten the plug. If everything is fine, you can install the seat.
 
 A hanging chair is a great addition to any house. It’s a modern interior design element which will impress your guests. There are many colours and designs to choose from. Such a piece of furniture placed in a bedroom or living room is a great way to relax. A hanging chair will surely fit any interior.

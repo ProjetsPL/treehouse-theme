@@ -16,7 +16,7 @@ Wiele osób przekonanych jest o tym, że podkład pod panele nie jest potrzebny 
 
 **Podkład pod panele podłogowe** spełnia kilka istotnych funkcji. Dzięki nim podłoga jest trwała. Wśród największych zalet wymieniana jest:
 
-{:.list-yes}
+{:.list.list-positive}
 
 * **Amortyzacja** - miękka, elastyczna warstwa pod panelami sprawia, że **deski nie uginają się pod ciężarem**. Podkład pod panele pochłania także częściowo energię obciążeń i uderzeń, chroniąc podłogę przed uszkodzenie.
 * **Izolacja cieplna** - podkład pod panele stanowi warstwę oddzielającą, która nie przepuszcza zimna płynącego z posadzki. Taka izolacja zmniejsza utratę ciepła, co jest oszczędnością w kwestii ogrzewania.
@@ -29,7 +29,9 @@ Należy zwrócić uwagę, że większość producentów paneli wymaga zastosowan
 
 Na rynku istnieje spory wybór podkładów. Różnią się one między sobą **ceną, trwałością, materiałem wykonania oraz przeznaczeniem**. Zazwyczaj rodzaj paneli nie wpływa na wybór podkładu. Warto jednak zastanowić się, który podkład będzie spełniał określone oczekiwania.
 
+{% fig %}
 ![Podkład pod panele podłogowe - rodzaje](/uploads/podklad-pod-panele-podlogowe-rodzaje.jpg "Podkład pod panele podłogowe - rodzaje")
+{% endfig %}
 
 ### Naturalne podkłady pod panele
 
@@ -39,7 +41,9 @@ Naturalne podkłady pod panele są zazwyczaj wykonane z drewna i materiałów po
 * **Eko-płyta** - materiał ten dobrze chroni przed dźwiękami i utratą ciepła, choć nie tak dobrze, jak korek. Jest on grubszy - sprzedawany w arkuszach 4-7 mm, dlatego nadaje się do mniej równych powierzchni. Jest to tańsza alternatywa dla korka - cena za metr to zwykle 4-8 złotych. Ponieważ taki podkład pod panele łatwo **pochłania wodę**, należy zastosować przy nim warstwę folii paroizolacyjnej.
 * **Tektura karbowana i papier falisty** - to jedne z **najtańszych** podkładów dostępnych na rynku. Można je dostać w cenie nawet 1 zł za metr kwadratowy. Dobrze przewodzą ciepło, ale nie nadają się do izolacji akustycznej. Wymagają także równego podłoża.
 
+{% fig %}
 ![Tektura karbowana i papier falisty](/uploads/tektura-karbowana-i-papier-falisty.jpg "Tektura karbowana i papier falisty")
+{% endfig %}
 
 ### Sztuczne podkłady pod panele
 
@@ -47,7 +51,7 @@ Wśród zalet podkładów naturalnych należy wymienić fakt, że nie wchłaniaj
 
 * **Podkład piankowy** - jest to często wybierany materiał ze względu na swoją niską cenę - można go kupić już od 2 zł za metr kwadratowy. Pianka pod panele jest odporna na wilgoć, charakteryzuje się jednak słabą izolacją akustyczną.
 
-{:.warning}
+{:.distinction.distinction-warning}
 
 Szybko się odkształca i nie nadaje się pod panele drewniane.
 
@@ -62,19 +66,21 @@ Tak naprawdę nie istnieje jeden najlepszy, **uniwersalny podkład pod panele**.
 
 Jeżeli panele będą leżały **na podłodze z ogrzewaniem podłogowym**, zastosowany podkład nie powinien mieć właściwości izolujących. Źle dobrany mógłby zatrzymywać ciepło, w wyniku czego pomieszczenie nie byłoby odpowiednio ogrzewane. Dlatego podkład pod panele na ogrzewanie podłogowe powinien posiadać jak najmniejszy **opór cieplny**.
 
-{:.tip}
+{:.distinction.distinction-information}
 
 **Podkład pod panele z tektury karbowanej** i tektury falistej są najczęściej stosowanymi do ogrzewania podłogowego.
 
 Papierowe podkłady dobrze przewodzą ciepło, jednak nie zapewniają izolacji akustycznej. Jeżeli ta jest priorytetem, warto zdecydować się na podkład pod panele wykonany z XPS. Nie przewodzi on ciepła, ale posiada **specjalne otwory**, które oddają ciepło w sposób kontrolowany.
 
+{% fig %}
 ![Podkład pod panele z tektury karbowanej](/uploads/podklad-pod-panele-z-tektury-karbowanej.jpg "Podkład pod panele z tektury karbowanej")
+{% endfig %}
 
 ### Podkład pod panele izolujący podłoże
 
 Podłoga, na której będą układane panele, może znajdować się nad nieogrzewanym pomieszczeniem lub na bezpośrednio na gruncie. Wówczas zastosowany podkład pod panele powinien mieć dobrą **izolację cieplną**. Oznacza to, że materiał nie powinien przewodzić temperatury. Najlepiej w takiej sytuacji sprawdzą się podkłady pod panele polietylenowe i polistyrenowe.
 
-{:.tip}
+{:.distinction.distinction-information}
 
 Jeżeli priorytetem jest izolacja akustyczna, dobrym rozwiązaniem jest podkład z korka, który pochłania nawet do **25% dźwięków odbitych** - w zależności od grubości. Można wybrać również podkład polistyrenowy (XPS), który redukuje dźwięki od 19 dB.
 
@@ -86,7 +92,7 @@ Nie każdy podkład pod panele nadaje się do intensywnej eksploatacji podłogi.
 
 Jeżeli w pomieszczeniu będzie przebywać **osoba z alergią**, należy zwrócić szczególną uwagę na stosowany materiał.
 
-{:.warning}
+{:.distinction.distinction-warning}
 
 Podkład pod panele podłogowe dla alergika nie może pylić - dlatego **podkład z eko-płyty** nie jest w tym przypadku polecany. Materiał ten osypuje się, co może być w tym przypadku uciążliwe, a wręcz niebezpieczne.
 

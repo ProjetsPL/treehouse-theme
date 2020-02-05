@@ -18,21 +18,23 @@ Kitchen furniture, after all, is the most prone to damage in the whole household
 
 Replacing such furniture with a new set might be pointless, as apart from the looks it is still functional. Having that in mind, **painting furniture** might be the best solution. A well chosen product will alter the appearance of the whole room, which usually is the main reason of a renovation.
 
-{:.tip}
+{:.distinction.distinction-information}
 Painting furniture is possible even when the surfaces are scratched and slightly damaged. The paint is able to hide most imperfections.
 
 ## Choosing the right paint for kitchen furniture
 
 Manufacturers provide a great variety of products that can be used to paint kitchen furniture. A good paint can cover the whole surface and hide small flaws. The most **popular paints** that can be used for kitchen furniture include:
 
-{:.list-yes}
+{:.list.list-positive}
 
 * **Acrylic paint** - this type is the most universal of all. They are highly resistant to scratching and UV lighting - therefore they won’t turn yellow after some time. Paint of this type dries very fast and is odourless.
 * **Renovation paint** - it can be used both for wooden and ceramic surfaces. Such type of product is used for **kitchen furniture as well as for ceramic tiles**. The product is resistant to mechanical damage, high temperature and dirt.
 * **Chalk paint** - it is one of the most eco-friendly type of paint. Such products typically have a wide variety of pastel colours. Depending on the type, chalk paints can give matte or satin finish. They are perfect for creating an ombre effect. They are good for painting kitchen furniture, however they require adding a protective layer of varnish or wax. Without it they are prone to damage.
 * **Alkyd paints** - similar to acrylic, alkyd paints are resistant to mechanical damage. It is the cheapest alternative. The biggest disadvantage of this type of product is its unpleasant smell.
 
+{% fig %}
 ![Choosing the right paint for kitchen furniture](/uploads/Wybor farby do mebli kuchennych.jpg "Choosing the right paint for kitchen furniture")
+{% endfig %}
 
 ## Refurbishing kitchen furniture - step by step
 
@@ -42,10 +44,12 @@ Manufacturers provide a great variety of products that can be used to paint kitc
 
 Examine carefully each piece before even planning to **paint the kitchen furniture**.
 
-{:.warning}
+{:.distinction.distinction-warning}
 Fill the holes and deep dents with a wood adhesive. Small scratches can be smoothed with sanding paper. Make sure that you sand the surface along the wood grain, otherwise they could be damaged. If the kitchen furniture is **covered with foil or veneer** that is damaged, remove it.
 
+{% fig %}
 ![Preparation for painting](/uploads/Przygotowanie do malowania.jpg "Preparation for painting")
+{% endfig %}
 
 To make **painting kitchen furniture** more convenient, remove the front elements and take out all drawers. Wash the furniture with water and a detergent. Make sure to **degrease all surfaces**, wiping them with acetone or gasoline. Every handle and knob should be removed for painting.
 
@@ -53,15 +57,17 @@ Sanding the kitchen furniture is an important step before starting to paint it. 
 
 ### Tools for restoring kitchen furniture
 
-{:.tip}
+{:.distinction.distinction-information}
 **Painting kitchen furniture** requires using the right tools. They are a guarantee of a smooth and even surface.
 
 **Round or flat bristle paint brush** is suitable only for chalk paint. Using a brush for other types of paint might result in unaesthetic trails on the surface. It is therefore advised to use a wide paint roller to paint large surfaces such as fronts and sides. Foam and flock rollers are the best tools for **painting furniture**.
 
-{:.warning}
+{:.distinction.distinction-warning}
 Do not use sheepskin roller, as it leaves fibres and creates a rough texture on the painted surface. For the most even surface use a spray gun.
 
+{% fig %}
 ![Tools for restoring kitchen furniture](/uploads/Farby do mebli kuchennych.jpg "Tools for restoring kitchen furniture")
+{% endfig %}
 
 ### Painting kitchen furniture
 
@@ -69,7 +75,7 @@ After proper preparation of your **kitchen furniture**, you can start painting i
 
 After the primer dries, you can paint the furniture. Using previously mentioned **wide roller** is the most convenient. For small elements and hard to reach spaces use a small brush. Cover the surface with at least two layers. The time of drying and the number of layers depend mainly on the paint and its brand.
 
-{:.tip}
+{:.distinction.distinction-information}
 A standard number is **two layers** of paint. It is best to apply the paint with a criss-cross method: paint the first layer horizontally, and the second - diagonally. If you see that two layers are not enough, apply more layers, until the paint covers the furniture completely.
 
 Make sure that the layers are **as thin as possible**. This will result in an even and smooth surface. Remember that paint needs up to 20 days to fully cure. Before it happens, be careful not to damage the delicate surface. If you need to clean it, use a **soft cloth or a sponge**.

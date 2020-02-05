@@ -22,10 +22,12 @@ Wooden furniture or decorations made of twine or stone are quite common for this
 
 **White and shades of grey are dominating colours in modern scandinavian design**. Designers often decide to expose one vivid colour, such as yellow or blue. Decorating a modern living room in scandinavian style it is good to choose one strong colour. It will highlight the interior without overwhelming it. The colour should be represented by accessories and decorations. Shades of one intense colour look very elegant against neutral backgrounds.
 
-{:.tip}
+{:.distinction.distinction-information}
 Scandinavian style can implement antiques, especially old wooden furniture. Having that in mind, **modern living room** does not necessarily mean buying new furniture. You might as well use the elements you already own, and only repaint them - for instance in white.
 
+{% fig %}
 ![Living room ideas - modern scandinavian style](/uploads/nowoczesny-salon-w-stylu-skandynawskim.jpg "Living room ideas - modern scandinavian style")
+{% endfig %}
 
 ### Modern living room - minimalist design
 
@@ -33,7 +35,7 @@ Scandinavian style can implement antiques, especially old wooden furniture. Havi
 
 Minimalist interior design uses as little objects as possible. Aiming for simplicity, it rejects any unnecessary decorations. The most common forms in this style are simple geometrical shapes, such as rectangles and circles. Similar to **scandinavian style**, minimalism frees as much space as possible. You can safely get rid of drapes and curtains to let the light inside.
 
-{:.warning}
+{:.distinction.distinction-warning}
 Designing a **modern living room** of this style, you should give up most of the ornaments and trinkets. It is best if most of the surfaces are left empty. You can leave a few decorations, however they should have as simple forms as possible.
 
 ### Retro style for a living room - modern inspiration
@@ -42,10 +44,12 @@ A modern living room does not necessarily mean a rejection of **classic decorati
 
 **A modern retro living room** should employ decorations and accessories in strong and vivid colours. It is common for this style to combine contrasting shades, such as white and black or red and mint green. For balance, the background should be neutral. White or light brown walls will be perfect for this purpose.
 
-{:.tip}
+{:.distinction.distinction-information}
 **Retro style** combines different textures, such as wood, chrome metal, plastic and bricks. For decorations for such design, you can choose elements that you already own. Ornaments from the previous era are perfect additions for a retro modern living room.
 
+{% fig %}
 ![Retro style for a living room - modern inspiration](/uploads/salon-nowoczesny-postaw-na-retro-1.jpg "Retro style for a living room - modern inspiration")
+{% endfig %}
 
 ## How to furnish a modern living room?
 
@@ -53,7 +57,7 @@ As a matter of fact, a particular style is not the most important part of a mode
 
 All **modern interiors** have certain common features. They should be kept in mind when planning each room of your house. A contemporary modern living room should have:
 
-{:.list-yes}
+{:.list.list-positive}
 * **Good lighting** - every modern living room needs bright spaces. Let as much natural lighting into the room as possible. If the room is small, you can r**emove curtains and drapes**. Choose lamps that illuminate the whole interior - consider installing several types of lighting (for instance a ceiling lamp and wall lights).
 * **Open space** - do not overwhelm your room with too many objects. If the space is limited, consider choosing furniture with legs, which looks more lightweight. The **furnishing** should be simple, you can choose, however, one or two objects with an unusual form.
 * **Good additions** - all decorations should fit each other. Use ornaments with **moderation** - too many would create a sense of disarray, which is just the opposite of a modern design.
@@ -65,7 +69,9 @@ Every modern living room should be **comfortable and trendy**. You can achieve t
 
 Contemporary trends are good for a limited space interiors. The mentioned before white colours fit any style and make interiors look bigger. The brighter a room is, the bigger it seems. It is a popular choice to combine functions of two rooms into one. This way one can **transform a modern living room** into a kitchen, dining room and bedroom. Removing division walls saves a lot of space as well, along with the right furniture.
 
+{% fig %}
 ![Modern living room ideas for a limited space interior](/uploads/pomysl-na-nowoczesny-salon-o-niewielkiej-powierzchni.jpg "Modern living room ideas for a limited space interior")
+{% endfig %}
 
 The mentioned before **multifunctional furniture** can increase the comfort of a room. If you choose a sofa bed, you can combine a living room and a bedroom. A table that can be transformed into a desk is a good idea if you want a living room that is also a dining room and an office. Choosing the furniture it is good to pick glossy-surface materials that reflect light. Similar to mirrors, they make rooms look bigger.
 

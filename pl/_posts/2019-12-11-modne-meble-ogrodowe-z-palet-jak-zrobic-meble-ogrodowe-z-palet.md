@@ -14,13 +14,15 @@ image: "/uploads/Modne meble ogrodowe z palet. Jak zrobic meble ogrodowe z palet
 
 Zgodnie z obowiązującymi trendami, **meble DIY** to bardzo modny element wystroju współczesnych wnętrz. Dla wielu osób recykling staje się coraz ważniejszym aspektem stylu życia. **Meble ogrodowe z palet** odpowiadają obu wymienionym nurtom. Zalet ich wykonania jest wiele. Przede wszystkim jest to rozwiązanie bardzo tanie.
 
-{:.tip}
+{:.distinction.distinction-information}
 
 Jeżeli w domu pozostały **palety po materiałach do remontu**, koszty będą wiązały się tylko z kilkoma materiałami. Palety można również kupić w hurtowniach - ich koszt to zazwyczaj 20-50 zł.
 
 Mimo, że palety nie są zazwyczaj wykonane z wysokiej jakości drewna, to są one niezwykle wytrzymałe, a elementy wykonane z palet posłużą przez długie lata. Materiał ten jest ponadto **lekki i ekologiczny**. Odpowiednio zaprojektowane meble ogrodowe z palet są bardzo estetyczne i stylowe. **Stolik lub kanapa z palet** to idealne uzupełnienie modnego stylu skandynawskiego lub minimalistycznego.
 
+{% fig %}
 ![Meble ogrodowe z palet - jak zrobić je samodzielnie?](/uploads/Meble ogrodowe z palet - jak zrobic je samodzielnie.jpg "Meble ogrodowe z palet - jak zrobić je samodzielnie?")
+{% endfig %}
 
 ## Meble ogrodowe z palet - jakie palety wybrać?
 
@@ -32,11 +34,13 @@ Zastanawiając się, **jak zrobić meble ogrodowe z palet**, warto wziąć pod u
 * **Paleta ISO** - jest to jednowarstwowa paleta znana także pod nazwą **“angielka”**. Jej wymiary to 120x100x14,4 cm.
 * **Paleta ½** - jej wymiary to 800×600×144 mm. Dobrze nadaje się do wykonywania mniejszych mebli.
 
+{% fig %}
 ![Meble ogrodowe z palet - jakie palety wybrać?](/uploads/Meble ogrodowe z palet - jakie palety wybrac.jpg "Meble ogrodowe z palet - jakie palety wybrać?")
+{% endfig %}
 
 Ze względu na swoje uniwersalne wymiary oraz wytrzymałość, europalety są najczęściej wybierane jako element, z którego można stworzyć nowe produkty. Drewno, z którego są wykonywane, jest impregnowane i poddane obróbce termicznej. **Meble ogrodowe z palet** można jednak wykonać również z pozostałych typów.
 
-{:.tip}
+{:.distinction.distinction-information}
 
 Należy wybierać **nieuszkodzone palety** oraz odpowiednio je przygotować. Jeżeli są one zdobywane są z różnych miejsc, należy pamiętać, aby wybierać elementy tego samego typu.
 
@@ -44,7 +48,7 @@ Należy wybierać **nieuszkodzone palety** oraz odpowiednio je przygotować. Je�
 
 Zanim będzie można wykonać **meble ogrodowe z palet**, należy zaopatrzyć się w odpowiednie narzędzia i produkty. Oprócz samych palet, potrzebne będą również:
 
-{:.list-yes}
+{:.list.list-positive}
 
 * szlifierka z papierem ściernym 80-100 - do pierwszego szlifowania oraz 200 - do wygładzenia powierzchni,
 * wkrętarka oraz śruby,
@@ -58,19 +62,21 @@ Zanim będzie można wykonać **meble ogrodowe z palet**, należy zaopatrzyć si
 
 Przed rozpoczęciem jakichkolwiek prac, **meble ogrodowe z palet** należy dokładnie zaprojektować. Trzeba zmierzyć miejsce, w którym mają stać. Rozmiar projektu powinien zostać dobrany do wymiarów palety, tak, aby uniknąć niepotrzebnego przycinania.
 
-{:.warning}
+{:.distinction.distinction-warning}
 
 Najlepiej, aby długość mebla była wielokrotnością długości palety. Wówczas, aby ją zwiększyć, wystarczy dołożyć kolejny element z jednej strony. **Standardowa wysokość mebli** to zazwyczaj dwie palety. Wyższe można uzyskać poprzez dodanie jeszcze jednej warstwy.
 
 Po wykonaniu **dokładnego projektu**, uwzględniającego ilość stosowanych palet, drewniane elementy należy odpowiednio przygotować:
 
-{:.list-yes}
+{:.list.list-positive}
 
 * Wszelkie uszkodzenia powinny zostać naprawione. **Pęknięcia i ubytki** należy wypełnić za pomocą szpachli, a zgniłe elementy usunąć.
 * **Drzazgi i nierówności** trzeba wygładzić za pomocą szlifierki. Szlifowanie powinno być gruntowne, aby nie pozostały żadne nierówności. Wgłębienia można wypełnić wspomnianą masą do drewna. Wystające gwoździe trzeba wbić lub je usunąć.
 * Oczyszczone z pyłu palety należy **zabezpieczyć impregnatem do drewna**. Po wyschnięciu można pokryć je bezbarwnym lakierem do drewna lub emalią w wybranym kolorze.
 
+{% fig %}
 ![Meble ogrodowe z palet - krok po kroku](/uploads/Meble ogrodowe z palet - krok po kroku.jpg "Meble ogrodowe z palet - krok po kroku")
+{% endfig %}
 
 Jeśli pomalowane elementy dokładnie wyschły, można zacząć łączyć je w **meble ogrodowe z palet**. Do łączenia należy wykorzystać śruby, kątowniki lub płaskowniki. Mocowania najlepiej wykonać w miejscach, które będą najmniej widoczne, czyli spody i boki palet. Do stolików warto dodać kółeczka, aby łatwiej było je przesuwać. Po połączeniu wszystkich elementów w całość wystarczy uzupełnić je dodatkami. **Siedziska** można zaopatrzyć w wygodne materace lub dekoracyjne poduszki.
 
@@ -83,9 +89,11 @@ Istnieje wiele pomysłów na to, jakie **meble ogrodowe z palet** można wykona�
 * **Huśtawka** - taki mebel można wykonać, budując siedzisko z palet. Następnie należy je przymocować do odpowiedniej konstrukcji, przykładowo pomiędzy drzewami.
 * **Kwietnik** - może to być zarówno stojak na **doniczki**, jak i **ogród wertykalny**. Aby wykonać ten drugi, należy zakryć niewidoczny bok palety oraz jej dół folią. Do środka trzeba nasypać ziemi i posadzić rośliny. Kiedy te się ukorzenią, paletę można postawić pionowo.
 
+{% fig %}
 ![Przykładowe meble z europalet](/uploads/Przykladowe meble z europalet.jpg "Przykładowe meble z europalet")
+{% endfig %}
 
-{:.tip}
+{:.distinction.distinction-information}
 
 Oprócz wymienionych przykładów, jest wiele innych **pomysłów na meble**. W sieci znajdziesz pomysły wraz z instrukcją, jak zrobić **meble ogrodowe z palet - krok po kroku**.
 
@@ -93,7 +101,9 @@ Oprócz wymienionych przykładów, jest wiele innych **pomysłów na meble**. W 
 
 Prosta **kanapa z palet** jest bardzo szybka w wykonaniu. Wystarczą do tego zaledwie trzy palety. Ich wymiary są dowolne - należy je dostosować do własnych preferencji. Jedną z nich należy przeciąć wzdłuż desek na większą i mniejszą część. Jeden z elementów będzie oparciem sofy, deski z drugiego posłużą do jego przymocowania.
 
+{% fig %}
 ![Kanapa z palet - DIY](/uploads/Kanapa z palet - DIY.jpg "Kanapa z palet - DIY")
+{% endfig %}
 
 Po zeszlifowaniu i zaimpregnowaniu, dwie palety należy połączyć ze sobą jedna na drugiej. Do części, która będzie oparciem, trzeba przymocować trzy listwy. Deski powinny zostać równo przycięte na odpowiednią długość. Tak przygotowane oparcie wystarczy przymocować do siedziska. Gotowa **kanapa z palet** będzie bardziej wygodna, jeżeli doda się do niej odpowiedniej długości materac.
 

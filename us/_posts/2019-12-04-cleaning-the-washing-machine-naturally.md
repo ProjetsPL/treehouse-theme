@@ -16,7 +16,7 @@ Most of the components of a washing machine are in constant contact with dirt co
 
 Continuous contact with water, warm environment and poor ventilation inside the machine create perfect conditions for organisms such as yeast and fungi.
 
-{:.warning}
+{:.distinction.distinction-warning}
 
 **Mould is very dangerous for human health**, as it releases toxic substances into the air. It can affect respiratory and nervous systems, as well as skin. Mould in the home may be the cause of various types of allergies. It can also cause tiredness and cold-like symptoms. Fungi in contact with skin is very likely to cause an itchy rash.
 
@@ -28,13 +28,15 @@ There is a wide range of ready-made products for cleaning a washing machine. How
 
 ### Cleaning washing machine with baking soda
 
+{% fig %}
 ![Cleaning washing machine with baking soda](/uploads/Cleaning washing machine with baking soda.jpg "Cleaning washing machine with baking soda")
+{% endfig %}
 
 **Bicarbonate**, in other words - **baking soda** is quite a versatile substance. It is used mainly in the kitchen for baking purposes. It is also an ingredient of many home-made cosmetics, such as face masks and scrubs.
 
 **Baking soda** is also a perfect cleaner. It removes all types of dirt, limescale and stains from the cleaned surfaces. It is a brilliant odour remover. **Cleaning the washing machine with baking soda** helps to protect its parts from scale and therefore prolongs their lifetime. The powder removes all kinds of unpleasant odours, which could affect the laundry.
 
-{:.tip}
+{:.distinction.distinction-information}
 
 **Cleaning your washing machine with baking soda** is not a difficult activity. All that is needed is half a glass of baking soda, which should be put into the detergent drawer (the powder compartment). To wash the machine, run an empty wash cycle using the highest possible temperature (usually 90 degrees). The spin speed in this case is not important - it can be set to the lowest. If needed, you can load the machine with some towels or kitchen cloths.
 
@@ -44,7 +46,7 @@ Another solution for **cleaning the washing machine is vinegar**. It is a good b
 
 Similar to baking soda, vinegar is able to remove scent. To **clean the washing machine**, pour 1-2 litres of vinegar into the detergent compartment and set a high temperature washing cycle. **Vinegar will remove limescale**, mould and bacteria.
 
-{:.warning}
+{:.distinction.distinction-warning}
 
 The only issue with this method is the strong, sour smell that might spread across the entire household. **Ventilating the rooms**, however, should quickly get rid of the scent. It might also be helpful to set another washing cycle with a little bit of washing powder or liquid. Its smell will kill the vinegar odour.
 
@@ -52,7 +54,7 @@ The only issue with this method is the strong, sour smell that might spread acro
 
 Apart from vinegar and baking soda, there is also a third product that can be used to **clean the washing machine - citric acid**. It can be used to descale various appliances, not only washing machine. Citric acid is commonly used to remove limescale from devices such as kettles and coffeemakers.
 
-{:.tip}
+{:.distinction.distinction-information}
 
 **How to clean the washing machine with citric acid?** Simply put 120 g of the product in the powder compartment. Similar to the previous methods - set a high temperature washing cycle.
 
@@ -64,15 +66,17 @@ If the washing machine is very filthy and the previously mentioned methods do no
 
 Just rinsing the **washing machine with a cleaning solution** might be not enough. One must pay attention to each and every part of the appliance. The most important components are:
 
-{:.list-yes}
+{:.list.list-positive}
 
 * **Filters** - usually they are located in the front of the machine. You should check it for small objects that often get caught in there. Small parts of garment, such as socks also often get in the filters. After cleaning it carefully, rinse it with clean water and put it back in its place.
 * **Detergent drawer** - in this place mould is very likely to grow. If the washing machine was not cleaned for a very long time, the drawer should be removed from its socket and thoroughly scrubbed. It is best to use a sponge and an appropriate cleaning product, or soda. Apart from the drawer, the socket itself should be cleaned as well.
 * **Seal and other rubber parts** - those components are the most susceptible for damage from water. In front load types the most filth residues can be found under the door seal, therefore it should be cleaned regularly. The aforementioned paste made of vinegar and baking soda will be perfect for this purpose. Using it makes cleaning easy and quick.
 
+{% fig %}
 ![Cleaning the washing machine - essential issues](/uploads/Cleaning the washing machine - essential issues.jpg "Cleaning the washing machine - essential issues")
+{% endfig %}
 
-{:.warning}
+{:.distinction.distinction-warning}
 
 The above parts are most prone to filth, scale and mould growth, therefore they need careful attention. **Routinely cleaning the washing machine** and its components will prevent major issues with the device in the future.
 
