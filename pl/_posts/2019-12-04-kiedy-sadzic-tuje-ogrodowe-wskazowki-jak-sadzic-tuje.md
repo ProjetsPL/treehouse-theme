@@ -6,10 +6,15 @@ title: Kiedy sadzić tuje ogrodowe? Wskazówki, jak sadzić tuje
 description: Wiele osób zakładających własny ogródek decyduje się na tuje ogrodowe.
   Ich uprawa nie jest trudna. Sprawdź, kiedy sadzić tuje oraz jak je pielęgnować.
 image: "/uploads/Kiedy sadzić tuje ogrodowe. Wskazówki, jak sadzić tuje.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: Tuje ogrodowe to jeden z najpopularniejszych rodzajów iglaków obecnych w polskich
+  ogrodach. Wykorzystuje się je jako osłony przeciwwiatrowe, żywopłoty oraz gęste
+  szpalery. Są zimozielone, wytrzymałe i szybko rosną. Osoby zakładające własny ogród
+  mogą zastanawiać się nad wieloma kwestiami, przykładowo - kiedy sadzić tuje. Warto
+  poznać sposoby pielęgnacji tych roślin, aby długo były zdrowe i piękne.
 
 ---
-Tuje ogrodowe to jeden z najpopularniejszych rodzajów iglaków obecnych w polskich ogrodach. Wykorzystuje się je jako osłony przeciwwiatrowe, żywopłoty oraz gęste szpalery. Są zimozielone, wytrzymałe i szybko rosną. Osoby zakładające własny ogród mogą zastanawiać się nad wieloma kwestiami, przykładowo - kiedy sadzić tuje. Warto poznać sposoby pielęgnacji tych roślin, aby długo były zdrowe i piękne.
-
 ## Tuje ogrodowe - rośliny uniwersalne
 
 **Tuje, czyli żywotniki**, to rośliny, które przybyły do **Europy z Ameryki Północnej oraz Azji**. Są one niezwykle uniwersalne. Można je sadzić zarówno w grupach, do ochrony przed wiatrem, jak i pojedynczo, jako **rośliny soliterowe**. Szeroki wybór odmian, wielkości oraz zastosowań to powody, dla których drzewa te cieszą się ogromną popularnością wśród ogrodników.
