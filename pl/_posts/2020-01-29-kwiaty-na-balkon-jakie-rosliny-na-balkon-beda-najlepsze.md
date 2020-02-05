@@ -6,10 +6,15 @@ title: Kwiaty na balkon. Jakie rośliny na balkon będą najlepsze?
 description: Jakie kwiaty na balkon południowy będą najlepsze? Wybór właściwych roślin
   na balkon może być niełatwy. Dowiedz się, jakie wybrać kwiaty i rośliny na balkon.
 image: "/uploads/kwiaty-na-balkon.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: Piękne kwiaty na balkonie to marzenie wielu osób. Taka dekoracja nie tylko
+  cieszy wzrok, ale również pomaga się lepiej zrelaksować. Aby tak było, należy dobrze
+  przemyśleć, jakie kwiaty na balkon wybrać. Nie wszystkie rośliny nadają się w każde
+  miejsce. Jeśli zostaną nieodpowiednio dobrane, może się okazać, że nie wytrzymają
+  warunków i zmarnieją. Jakie kwiaty na balkon wybrać?
 
 ---
-Piękne kwiaty na balkonie to marzenie wielu osób. Taka dekoracja nie tylko cieszy wzrok, ale również pomaga się lepiej zrelaksować. Aby tak było, należy dobrze przemyśleć, jakie kwiaty na balkon wybrać. Nie wszystkie rośliny nadają się w każde miejsce. Jeśli zostaną nieodpowiednio dobrane, może się okazać, że nie wytrzymają warunków i zmarnieją. Jakie kwiaty na balkon wybrać?
-
 ## Kwiaty na balkon - na co zwrócić uwagę?
 
 Kwiaty to jedna z najchętniej wybieranych ozdób balkonowych. Zazwyczaj nie są one bardzo wymagające. Wiele osób ma jednak dylemat i nie wie, jakie **kwiaty na balkon** wybrać. Przed zakupem roślin należy się zastanowić i uwzględnić kilka ważnych czynników.
@@ -38,6 +43,7 @@ Nasłoneczniony balkon to przede wszystkim taki, znajdujący się od strony zach
 Z tego powodu rośliny takie, jak **begonia czy fuksja** nie poradzą sobie na takim nasłonecznionym stanowisku. Kwiaty na balkon, który jest mocno nasłoneczniony, muszą być **odporne na wysoką temperaturę**. Najlepsze gatunki, które można posadzić w takim miejscu to:
 
 {:.list.list-positive}
+
 * **Pelargonie** - są to najczęściej wybierane kwiaty na balkon, uwielbiają one pełne słońce. Należy je obficie podlewać, nawet 2 razy dziennie.
 * **Petunie** - rośliny te kwitną bardzo gęsto. Istnieje wiele gatunków w różnych kolorach. Takie kwiaty na balkon są dosyć wymagające, jednak warto poświęcić im trochę czasu ze względu na wyjątkowy wygląd.
 * **Surfinie** - to bardzo efektowne rośliny na balkon, które tworzą piękne kaskady. Dostępne są w wielu kolorach, najlepiej kwitną w pełnym słońcu.
@@ -56,6 +62,7 @@ Najmniej słońca dociera do tarasów i balkonów znajdujących się **od strony
 Choć wybór jest mniejszy, niż w przypadku roślin lubiących słońce, kwiatów cieniolubnych i tak jest sporo. Najczęściej polecane rośliny na balkon z małą ilością światła to:
 
 {:.list.list-positive}
+
 * **Begonia** - to bardzo ozdobna roślina o kwiatach w różnych kolorach. Istnieją także odmiany o dekoracyjnych liściach. Jest bardzo łatwa w uprawie i pielęgnacji.
 * **Niecierpek** - jest to roślina jednoroczna. Odznacza się dużą ilością kwiatów. Niecierpki lubią stale wilgotne podłoże, dlatego należy je sporo podlewać.
 * **Fuksja** - jej kwiaty są fioletowo czerwone. Pędy można prowadzić w górę lub pozwolić im swobodnie zwisać. Jest to roślina jednoroczna, jednak można ją przezimować w mieszkaniu.
