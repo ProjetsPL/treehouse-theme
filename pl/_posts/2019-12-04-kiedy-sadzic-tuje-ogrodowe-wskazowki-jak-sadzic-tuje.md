@@ -29,12 +29,16 @@ Sama ich uprawa nie należy do skomplikowanych. Warto jednak na sam początek zd
 
 Istnieje kilka gatunków żywotnika, a każdy z nich różni się między sobą wymaganiami. Przy wyborze należy zastanowić się, który najbardziej odpowiada twoim potrzebom. **Najczęściej wybierane gatunki żywotników** to:
 
+{:.list}
+
 * **Zachodni** - roślina ta preferuje przepuszczalne, lekko kwaśne oraz żyzne gleby. Większość odmian jest odpornych na mrozy i zanieczyszczenia, jednak **należy je osłaniać przed mroźnym wiatrem i suszą**. Najlepiej rośnie w słonecznych stanowiskach, chociaż niektóre odmiany wolą bardziej zacienione miejsca. W momencie zakupu należy dokładnie sprawdzić wymagania krzewu np. to kiedy sadzić tuje tego rodzaju.
 * **Olbrzymi** - iglak ten posiada ciemnozielone igły. Krzew dorasta do wysokich rozmiarów, jednak istnieją również mniejsze, karłowate odmiany. Młode sadzonki nie **są odporne na mróz**, dlatego należy je sadzić w ciepłych i słonecznych stanowiskach. Tuje olbrzymie lepiej znoszą suszę niż tuja zachodnia.
 
 {% fig %}
 ![Tuje ogrodowe - jaki rodzaj wybrać?](/uploads/Tuje ogrodowe - jaki rodzaj wybrać.jpg "Tuje ogrodowe - jaki rodzaj wybrać?")
 {% endfig %}
+
+{:.list}
 
 * **Wschodni** - ze względu na wysoką wrażliwość na chłody, gatunek ten należy do najrzadziej wybieranych. Nadaje się w cieplejsze regiony kraju, jednak **wymaga dobrze nasłonecznionych miejsc**. Żywotnik wschodni jest bardzo odporny na suszę i toleruje gleby o różnej kwasowości.
 

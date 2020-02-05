@@ -70,16 +70,22 @@ The biggest disadvantage of granite paving stones is their uneven surface, which
 
 A decision to **pave the paths yourself** is a great way to significantly reduce the costs. It is not as difficult as it seems. All you need is good preparation.
 
+{:.list}
+
 1. If you decided to lay paving stones on your own, you might wonder what kind of material you should choose. While the price is important, it should not be the decisive factor. **Thickness of the paving stone** should be suited to the intended use of the pavement. You should also predict resistance of the material to mechanical damage. For instance, 4 centimetres thick paving stones are good for garden paths, whereas for a patio you should use material that is twice as thick.
 
 {:.distinction.distinction-information}
 The paving slabs should also visually harmonise with the building.
+
+{:.list}
 
 1. Before you start laying the paving stones, dig a depth across the area in which you are planning to lay the stones. The depth depends on the **intended use of the pavement**. For garden paths it is usually 15-20 cm. For a heavier use, the depth should be at least half a metre. Shape the bottom so that water can be carried away.
 2. Before laying the paving stones, you should **start from the edges**. For small paths you may use pavement kerbs or palisade. In spots at which vehicles are going to move, you should use large road kerbs. Place the elements on a layer of concrete. After it dries up, fill any spaces with sand.
 
 {:.distinction.distinction-information}
 Make sure to **be very precise**, so that the kerbs are nice and even.
+
+{:.list}
 
 1. Lay and compact aggregate, and then create a base using concrete and sand. Then you can start **laying the paving stones**. You can lay them alternately or in patterns. Make sure not to step on the base, you can, however, step on the laid slabs. Lay the stones as tight as possible and make sure to mix the elements, choosing them from different pallets. The paved stones need to be pressed. You can use a surface vibrator for this purpose.
 

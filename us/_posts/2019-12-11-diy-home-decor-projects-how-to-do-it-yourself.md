@@ -36,6 +36,8 @@ A great many of DIY projects can be made of **plain paper.** This cheap material
 
 Some home decor ideas involving paper:
 
+{:.list}
+
 * **Lamp shades - they can be prepared with the use of origami techniques - there are many step-by-step instructions in the web. You can also cut some shapes out of paper and combine them into a ball using glue. Poking a pattern of holes in a solid paper lamp shade will result in a very interesting lighting in a room.**
 * **Decorative garlands** - paper chains are decorations suitable not only for Christmas and parties, as many might think. They can be utilized throughout the entire year. Just cut some interesting shapes out of coloured **construction paper**, attach them to a string and hang them anyplace you want. You can also use crêpe paper, which creates very aesthetic forms, for instance **flowers, pom poms and fringe.**
 * **3D paper sculpture - a very impressive and quite easy to make DIY project. To make it, you need some paper, scissors and glue. The paper needs to be folded in such a way so that a solid figure is made. Every such element is glued onto a wall, side by side. This way one can build fascinating structures, which will delight anyone.**
@@ -44,6 +46,8 @@ Some home decor ideas involving paper:
 ## DIY - atmospheric lighting in your house
 
 Apart from the paper lampshades, there are many more DIY projects involving **atmospheric** **lighting in the room.** You can use anything - for instance old Christmas lights, which can be used as a year-long decoration. Some DIY ideas for Christmas lights are:
+
+{:.list}
 
 * **Mason jar lantern - the lights put inside an old mason jar will result in a gorgeous lighting in the whole room at night. The more interesting shape of the jar, the more appealing the decoration will be. Instead of a jar you can also use a glass bottle.**
 * **DIY light up letters - all you need for such a decoration is a cardboard. Cut a shape of a letter out of it and pierce little holes along the edges (to do it, you can use a pen or a hole punch). Insert the lights in the holes. You can set up a whole phrase on the wall - for instance to light up your bedroom.**
@@ -55,6 +59,8 @@ Apart from the paper lampshades, there are many more DIY projects involving **at
 
 Mason jars are perfect for making lanterns and lamps. They can be used to prepare, for instance:
 
+{:.list}
+
 * **Patio floor lights - simply put a LED candle in an empty jar. Additionally, you can stick a colourful decorative paper napkin or colourful tissue to the walls of the jar. The light will illuminate the pattern and will cast a colourful glow onto the floor. You can put the lanterns on your balcony and patio, as well as along the path in your garden.**
 * **Lanterns** - another interesting idea is **“water lantern**”. Just pour some water into a jar and place a tealight onto the surface.
 
@@ -65,6 +71,8 @@ Mason jars are perfect for making lanterns and lamps. They can be used to prepar
 String can be used as a decoration of many objects. Wrapping bottles, jars and **boxes in some twine** will completely change their appearance. You have completely free hand in DIY project of this type - you can combine twine with some other decorative items, such as dried flowers.
 
 **Macrame** is yet another DIY technique that creatively uses strings. This type of art uses special knots to produce decorative fabrics. Objects that can be made with this method:
+
+{:.list}
 
 * tapestries (wall hangings, decorative fabrics that can be hung on a wall or on a piece of furniture),
 * drink coasters,
@@ -100,6 +108,8 @@ Many claim that plants are absolutely necessary in any interior. To make the mos
 {% endfig %}
 
 There are a lot of **DIY projects** that you can use for decorating your plants. Take a look at the inspirations below:
+
+{:.list}
 
 * **Tin cans - just paint the containers a suitable colour.**
 * **Unused cups and mugs - old dishes make great pots for succulents. Those types of plants will feel and look great in such a container.**

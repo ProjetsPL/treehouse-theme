@@ -38,6 +38,8 @@ Looking for pallet ideas and **DIY furniture projects**, consider the size of th
 
 The most common types are:
 
+{:.list}
+
 * **EUR-pallet** - the most popular type. Their dimensions are 1200x800x144 mm. A single Euro-pallet weighs 25 kilograms.
 * **ISO pallet** - it’s a single-layer pallet. Its dimensions are 120x100x14,4 cm.
 * **½ pallet** - its dimensions are 800×600×144 mm. It is good for building small furniture pieces.
@@ -89,6 +91,8 @@ If the elements have dried, you can start linking them into one piece. To do thi
 ## Pallet furniture ideas
 
 There are many **DIY pallet projects** that you can use for furnishing your garden. The most commonly made objects are pallet tables. They are very easy to make - all you need is placing one pallet on another and joining them with several screws. A good idea is adding a glass table top. Find other pallet furniture ideas below:
+
+{:.list}
 
 * **Lounge chair** - such project usually requires 2 pallets. You can customise the length of the seat and the angle of the back.
 * **Armchair** - 3 pallets will suffice in most cases. For this type of pallet wood projects it is a good idea to use smaller size pallets.

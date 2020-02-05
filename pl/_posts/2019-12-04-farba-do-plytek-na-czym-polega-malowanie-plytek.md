@@ -37,6 +37,7 @@ Asortyment farb przeznaczonych do czynności, jaką jest **malowanie płytek**, 
 
 **Farba do płytek** przeznaczona jest także do malowania metalu, szkła, betonu, tworzyw sztucznych oraz kamienia. Stosuje się następujące produkty:
 
+{:.list}
 * **Farby epoksydowe** - preparaty tego rodzaju są odporne na ścieranie oraz na działanie detergentów. Rozcieńcza się je wodą. Ogromną zaletą jest fakt, że **nie generują nieprzyjemnego zapachu**.
 * **Farby alkidowo-uretanowe** - zwykle maluje się nimi metal, ale nadają się również do odświeżania kafli. Ich zaletą jest wysoka odporność na ścieranie, dlatego warto je wybrać do malowania płytek podłogowych.
 * **Farby akrylowe do płytek** - są one przeznaczone typowo do kafelków. W przeciwieństwie do zwykłych farb akrylowych są one odporne na działanie wilgoci. Można nimi malować również **szkło oraz metal**.

@@ -40,6 +40,7 @@ Preparing a **terrarium**, you have two options. You can make a closed terrarium
 Closed vessels may contain **tropical plants** and the ones that like humidity. Slow growing plants will be the best choice - they won’t change their appearance very much for a long time.
 
 Compositions inside of sealed terraria may use **species** such as:
+
 {:.list.list-positive}
 
 * fern,
@@ -54,6 +55,8 @@ Compositions inside of sealed terraria may use **species** such as:
 Keep in mind that **in some states it is illegal to collect moss** from a forest. If you are not sure if you can gather moss in your country, it might be a better idea to buy it at a florist’s. You might also collect it in your own yard, if you own it.
 
 Apart from the plants, you should also collect some **decoration elements** for your terrarium. For a closed terrarium it is best to use:
+
+{:.list}
 
 * rocks and pebbles,
 * tree bark,
@@ -70,11 +73,15 @@ If your composition will be placed in an open container, you should choose plant
 
 **Before starting setting up the composition** in your terrarium, you should gather all the relevant equipment. Apart from the **right plants** you will also need:
 
+{:.list}
+
 * **A glass container** - the vessel might be of any shape. If the plants you gathered like humidity, the container needs a tight lid. The size of the vessel should match the scale of the plants. It is worth to choose a bigger jar for your **terrarium**, so that the plants will have some space to grow. You can choose any container that is made of glass - a big mason jar, wide neck bottles, or even old incandescent light bulbs (remember to remove the filament from the inside).
 
 {% fig %}
 ![Glass container](/uploads/Szklane naczynie.jpg "Glass container")
 {% endfig %}
+
+{:.list}
 
 * **Soil** - you can use all-purpose potting soil, however every other type will suffice. Make sure that it is **free from diseases and fungi**. If your terrarium is going to contain **succulents**, you should probably use soil specifically made for them.
 * **Activated charcoal** - you can purchase it at the pharmacy or in a pet shop. **Charcoal is going to regulate the level of humidity in a closed container**. It will also prevent the plants from rotting. You can skip this part in case of an open container.
@@ -87,6 +94,8 @@ If your composition will be placed in an open container, you should choose plant
 ### Making a terrarium
 
 If you prepared all the needed elements, you can start making your **DIY terrarium** project. It is good to protect your working space with old newspapers. This will **minimise the cleaning after your work is done**.
+
+{:.list}
 
 1. Wash the containers and sterilize them with hot water. The glass should be perfectly dry. If you are not sure whether the **drainage material** and the soil is clean, you can parch it in an oven. It will kill any fungi and bacteria.
 2. Place the first layer - the drainage - at the bottom of the container. **The layer of gravel or sand should be a few centimeters thick** - 2 to 5 cm.

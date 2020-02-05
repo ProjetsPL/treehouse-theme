@@ -25,11 +25,15 @@ A perfectly even surface was achieved by hanging a wet cloth, which reduced its 
 
 In time, stretch ceiling became a scarcity, to come back in the 20th century. Nowadays this type of dropped ceiling is made of PVC fabric. It is installed on special boards attached to the walls. There are many patterns which can be suited for a particular interior design. The most popular dropped ceilings of this type are:
 
+{:.list}
+
 * **3D stretch ceiling** - a 3D picture is printed onto the canvas, which creates an **illusion of depth**. The most common designs are pictures of water, space or the sky. Such solution is very impressive and it fits modern interior design.
 
 {% fig %}
 ![What is a stretch ceiling?](/uploads/sufit-3D.jpg "What is a stretch ceiling?")
 {% endfig %}
+
+{:.list}
 
 * **Mirror stretch ceiling** - glossy surface of the material reflects the light like a mirror. Such dropped ceilings might have any colour. It is most commonly used in **luxurious, royal interior designs**.
 * **Matt stretch ceiling** - made of a fabric that does not reflect light. Although there are many available colours, white is the most popular, as it fits most of interior designs.

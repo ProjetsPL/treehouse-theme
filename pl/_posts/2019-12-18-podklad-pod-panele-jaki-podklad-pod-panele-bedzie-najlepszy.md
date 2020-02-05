@@ -42,6 +42,8 @@ Na rynku istnieje spory wybór podkładów. Różnią się one między sobą **c
 
 Naturalne podkłady pod panele są zazwyczaj wykonane z drewna i materiałów pochodnych. Są one dobrymi izolatorami akustycznymi. Najczęściej stosowane materiały naturalne to:
 
+{:.list}
+
 * **Podkład korkowy** - jest to dobry **izolator cieplny** i akustyczny. Sprzedawany jest zazwyczaj w arkuszach o grubości 2 mm, kosztuje około 8-9 złotych za metr kwadratowy. Korek jest dosyć kruchy i ze względu na niską trwałość nie poleca się go do stosowania na intensywnie eksploatowanych powierzchniach. Posadzka, na której kładzie się korek, powinna być idealnie równa.
 * **Eko-płyta** - materiał ten dobrze chroni przed dźwiękami i utratą ciepła, choć nie tak dobrze, jak korek. Jest on grubszy - sprzedawany w arkuszach 4-7 mm, dlatego nadaje się do mniej równych powierzchni. Jest to tańsza alternatywa dla korka - cena za metr to zwykle 4-8 złotych. Ponieważ taki podkład pod panele łatwo **pochłania wodę**, należy zastosować przy nim warstwę folii paroizolacyjnej.
 * **Tektura karbowana i papier falisty** - to jedne z **najtańszych** podkładów dostępnych na rynku. Można je dostać w cenie nawet 1 zł za metr kwadratowy. Dobrze przewodzą ciepło, ale nie nadają się do izolacji akustycznej. Wymagają także równego podłoża.
@@ -54,11 +56,15 @@ Naturalne podkłady pod panele są zazwyczaj wykonane z drewna i materiałów po
 
 Wśród zalet podkładów naturalnych należy wymienić fakt, że nie wchłaniają one wody. Świetnie nadają się do wyrównywania drobnych mankamentów powierzchni. Popularne materiały w tym przypadku to:
 
+{:.list}
+
 * **Podkład piankowy** - jest to często wybierany materiał ze względu na swoją niską cenę - można go kupić już od 2 zł za metr kwadratowy. Pianka pod panele jest odporna na wilgoć, charakteryzuje się jednak słabą izolacją akustyczną.
 
 {:.distinction.distinction-warning}
 
 Szybko się odkształca i nie nadaje się pod panele drewniane.
+
+{:.list}
 
 * **Polietylen (PE)** - taki podkład pod panele odznacza się zdolnością do niwelowania sporych nierówności w podłodze - nawet 4 mm wgłębienia. Jest dobrym izolatorem akustycznym i cieplnym. Cena za metr kwadratowy zazwyczaj waha się od 5 do 9 złotych.
 * **Polistyren (XPS)** - ten rodzaj podkładu dobrze tłumi odgłosy, jest odporny na wilgoć, a przede wszystkim bardzo trwały. Nie przewodzi ciepła, dlatego nadaje się do podłóg nad nieogrzewanymi pomieszczeniami. Jego cena to 6-9 zł za metr kwadratowy.

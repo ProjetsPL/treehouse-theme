@@ -35,6 +35,7 @@ Zatem czym czyścić piekarnik? Na szczęście istnieje wiele domowych sposobów
 
 Jeżeli we wnętrzu urządzenia nie ma wielu zabrudzeń, ich usunięcie nie powinno sprawić większych kłopotów. Sposoby na to, **jak wyczyścić piekarnik**, które nie wymagają wysiłku ani szorowania to:
 
+{:.list}
 * **Czyszczenie piekarnika parą** - zastosowanie takiej metody jest możliwe w piekarnikach, które mają funkcję termoobiegu. Jak **wyczyścić piekarnik parą**? Wystarczy naczynie żaroodporne i cytryna. Do naczynia należy wlać wodę i dodać sok z połowy cytryny, a piekarnik nastawić na termoobieg w temperaturze 170°C. Dzięki termoobiegowi para dotrze we wszystkie zakamarki. Po wyłączeniu i ostygnięciu, wnętrze trzeba **przetrzeć czystą ściereczką nasączoną wodą i płynem do naczyń**. Następnie należy usunąć pozostałości płynu i pozostawić powierzchnię do całkowitego wyschnięcia.
 * **Woda z octem** - lekkie zabrudzenia można skutecznie usunąć, przecierając piekarnik mieszaniną wody z octem. Można do tego użyć miękkiej szmatki lub w przypadku przypalonych resztek jedzenia - ostrej gąbki. Umyte części wystarczy wypłukać czystą wodą i osuszyć, przykładowo za pomocą ręcznika papierowego.
 
@@ -52,6 +53,7 @@ Najczęściej wybierany naturalny środek to soda oczyszczona. Czyszczenie za je
 
 Najpopularniejsze sposoby wykorzystują substancje takie jak:
 
+{:.list}
 * **Soda, woda oraz płyn do naczyń** - aby przyrządzić taką papkę, należy zmieszać pół szklanki wody, ¼ szklanki sody oczyszczonej oraz 1-2 łyżeczki płynu do naczyń. Powstałą substancję trzeba rozprowadzić na wszystkich zabrudzonych miejscach i pozostawić na kilkanaście minut. Gdy **pasta rozpuści zalegający brud**, piekarnik należy wyczyścić za pomocą wilgotnej gąbki, wypłukać i osuszyć.
 * **Soda, płyn do naczyń i ocet** - podane substancje trzeba zmieszać w proporcji: pół szklanki płynu, pół szklanki octu i jedno opakowanie sody. Jak wyczyścić piekarnik dzięki tej metodzie? Urządzenie należy rozgrzać do temperatury 50°C i wyłączyć. Pasta powinna zostać rozprowadzona na całej powierzchni piekarnika i pozostawiona na całą noc. Na drugi dzień piecyk trzeba umyć ciepłą wodą i wysuszyć.
 * **Soda, sól i gorąca woda** - sodę i wodę należy wymieszać w proporcji 1:1, a do powstałej pasty dodać dwie łyżeczki soli kuchennej. Substancję trzeba nałożyć na zaplamione miejsca i pozostawić od 5 min do 12 godzin, w zależności od stopnia zabrudzenia. Następnie **piekarnik należy dokładnie wyczyścić za pomocą gąbki** lub szczotki, wypłukać oraz osuszyć.

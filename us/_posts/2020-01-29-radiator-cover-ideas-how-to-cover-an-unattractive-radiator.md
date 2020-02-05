@@ -62,6 +62,7 @@ A similar situation might occur if your heater has a thermostat. The temperature
 ## What radiator cover is the best?
 
 Manufacturers offer a lot of various solutions. You can fit them to you own needs and to the design of your room. There are many types of covers - the most common materials are:
+
 {:.list.list-positive}
 
 * **Wood** - it is one of the most aesthetically pleasing materials. Covers in form of a seat or a bench are typically made of wood. Wooden radiator covers **might be much more expensive than other materials**.

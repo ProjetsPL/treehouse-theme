@@ -22,11 +22,15 @@ Sufit napinany nie jest wcale nowością. Metoda ta określana jest zaliczana do
 
 Sufity napinane z czasem stały się rzadkością, by powrócić dopiero w XX wieku. Współcześnie do tego typu wykończeń najczęściej stosowane są płachty **wykonane z PCV**. Montuje się je na specjalnych listwach przymocowanych do ściany. Istnieje wiele wzorów, które można dopasować do stylu pomieszczenia. Najczęściej wybierane sufity napinane to:
 
+{:.list}
+
 * **Sufit 3D** - na tkaninie nadrukowuje się obraz 3D, który sprawia **wrażenie głębi**. Najczęściej stosuje się zdjęcia wody, kosmosu lub nieba. Jest to bardzo efektowne rozwiązanie, które pasuje do nowoczesnych wystrojów.
 
 {% fig %}
 ![Sufit 3D](/uploads/sufit-3D.jpg "Sufit 3D")
 {% endfig %}
+
+{:.list}
 
 * **Sufit lustrzany** - powierzchnia materiału odbija światło jak lustro. Taki sufit napinany można wykonać w dowolnym kolorze. Najlepiej sprawdza się w **wystrojach luksusowych**, wzorowanych na styl pałacowy.
 * **Sufit matowy** - wykonany z materiału, który nie odbija światła. Dostępne są w różnych kolorach, jednak najczęściej wybierana jest biel, która pasuje do większości wystrojów.

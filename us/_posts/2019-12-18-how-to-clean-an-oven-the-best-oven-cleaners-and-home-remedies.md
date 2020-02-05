@@ -34,6 +34,8 @@ So how to clean the oven? Fortunately there are plenty of natural oven cleaners 
 
 If the oven is not very dirty, it should be quite easy to clean. The best **oven cleaners** that do not require any effort or scrubbing are:
 
+{:.list}
+
 * **Steam for oven cleaning** - this method is possible only in convection ovens. How to clean the oven with steam? All you need is an ovenproof dish and half a lemon. Just pour some water into the dish and squeeze the lemon juice into it. Set the temperature to 170°C. The fan will spread the steam everywhere in the oven. Turn the oven off after a while and wait until it cools down. Then just wipe the interior with a clean **cloth soaked with water and dish soap**. Rinse the soap residues with water and leave the oven open until it dries completely.
 * **Water mixed with vinegar** - light stains can be cleaned with the use of water mixed with some vinegar. Just wipe the oven with a cloth soaked with the mixture, or in case of heavier stains - use a sponge scrubber. After the cleaning rinse the oven with clear water and wipe it dry, using paper towel or a dry piece of cloth.
 
@@ -50,6 +52,8 @@ If the oven is not very dirty, it should be quite easy to clean. The best **oven
 The most commonly used oven cleaner is baking soda. This substance is a highly effective - along with the dirt, it also **removes the unpleasant smell** of burnt food. You can use baking soda in combination with other products.
 
 The most popular methods use mixtures of substances such as:
+
+{:.list}
 
 * **Baking soda, dish detergent and water** - to prepare such a mixture, take half a glass of water, ¼ glass of baking soda and 1-2 teaspoons of dish soap. Mix it and place the substance onto every dirty spot in your oven. Leave if for a couple of minutes - the paste will **dissolve the dirt**. Next, clean the oven with a damp sponge, rinse it and leave until it dries completely.
 * **Baking soda, dish soap and vinegar** - mix those substances as follows: half a glass of soap, half a glass of vinegar and 5-10 tablespoons of baking soda. How to clean the oven with this method? Set the temperature to 50°C and turn the oven off once it warms up. Spread the paste in the oven and leave it overnight. Next day just clean it with warm water and leave it to dry.

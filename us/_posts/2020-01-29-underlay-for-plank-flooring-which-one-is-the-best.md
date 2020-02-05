@@ -45,6 +45,8 @@ There are various types of underlay available. They differ from each other by **
 
 Natural underlayment is usually made of wood and similar materials. Such product are usually good acoustic insulators. The most common natural underlays are:
 
+{:.list}
+
 * **Cork underlay** - it is a good thermal and **acoustic insulator**. Usually they are sold in large sheets, 2 mm thick. Cork is quite a fragile material and therefore it shouldn’t be used under floors that are intensely used. The underfloor on which a cork underlay might be placed, should be perfectly even.
 * **Plywood** - this material protects from noise and thermal loss, although not as well as cork. It’s thicker, sold in 4-7 mm thick sheets. Because this type of undelay **absorbs water** easily, you should put an additional layer of vapour membrane over it.
 * **Corrugated fiberboard** - it is **one of the cheapest underlays**. It conducts warmth well, however does not isolate sounds. This type requires a perfectly even underfloor.
@@ -57,10 +59,14 @@ Natural underlayment is usually made of wood and similar materials. Such product
 
 **Synthetic underlay** has many advantages. One of its best features is the fact that it basically does not absorb water. It also corrects minor surface imperfections. Popular synthetic floor underlays are made of:
 
+{:.list}
+
 * **Foam** - it is the most commonly chosen underlay - mainly for its cheap price. It is waterproof, however it does not isolate from sounds.
 
 {:.distinction.distinction-warning}
 It loses its shape relatively quickly and it cannot be used under wooden boards.
+
+{:.list}
 
 * **Polyethylene (PE)** - it can be used if the underfloor is uneven, as it can fix small imperfections, up to 4 milimetres. It is a good thermal and acoustic insulator.
 * **Polystyrene (XPS)** - such underlay muffles noises well. It is waterproof and very durable. It does not conduct heat, therefore it can be used on floors that are located over unheated rooms.

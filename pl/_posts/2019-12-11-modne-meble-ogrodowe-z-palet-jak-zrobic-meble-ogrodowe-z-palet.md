@@ -35,6 +35,8 @@ Mimo, że palety nie są zazwyczaj wykonane z wysokiej jakości drewna, to są o
 
 Zastanawiając się, **jak zrobić meble ogrodowe z palet**, warto wziąć pod uwagę rozmiar tych elementów. Palety transportowe różnią się rodzajem i wielkością. Najczęściej spotykane typy to:
 
+{:.list}
+
 * **Europaleta** - jest to najpopularniejszy typ. Rozmiar to 1200×800×144 mm, a waga - około 25 kg.
 * **Paleta ISO** - jest to jednowarstwowa paleta znana także pod nazwą **“angielka”**. Jej wymiary to 120x100x14,4 cm.
 * **Paleta ½** - jej wymiary to 800×600×144 mm. Dobrze nadaje się do wykonywania mniejszych mebli.
@@ -88,6 +90,8 @@ Jeśli pomalowane elementy dokładnie wyschły, można zacząć łączyć je w *
 ## Przykładowe meble z europalet
 
 Istnieje wiele pomysłów na to, jakie **meble ogrodowe z palet** można wykonać. Najczęściej są to jednak stoliki. Są one niezwykle łatwe w wykonaniu - wystarczy połączyć dwie palety jedna na drugiej. Za blat takiego mebla z powodzeniem posłuży **szyba z hartowanego szkła**. Inne przykładowe meble ogrodowe z palet to:
+
+{:.list}
 
 * **Leżak** - projekty na leżak z palet zazwyczaj uwzględniają 2 palety. Można dostosować do własnych potrzeb długość siedziska i kąt oparcia.
 * **Fotel** - zazwyczaj wystarczą tu trzy palety. Do takiego projektu warto zastosować elementy o mniejszych wymiarach.

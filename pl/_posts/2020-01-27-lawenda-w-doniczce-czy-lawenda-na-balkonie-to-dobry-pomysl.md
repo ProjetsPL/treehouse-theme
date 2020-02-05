@@ -84,6 +84,7 @@ Lawenda może być sadzona pojedynczo, jak i w grupach - należy w tym celu dobr
 Lawenda w doniczce świetnie będzie rosła z gatunkami takimi jak:
 
 {:.list.list-positive}
+
 * szałwia,
 * nagietki,
 * nachyłki,
@@ -102,6 +103,7 @@ W aranżacji wnętrz roślina ta najlepiej sprawdza się w stylu rustykalnym. Wa
 Jak już wspomniano, lawenda ma wiele właściwości. Hodując tę roślinę w domu, warto z nich skorzystać. Poniżej znajduje się kilka przykładowych pomysłów na wykorzystanie rośliny:
 
 {:.list.list-positive}
+
 * **Środek przeciw owadom** - owady nie znoszą intensywnego zapachy lawendy. Ususzone kwiaty można umieścić w bawełnianych lub lnianych woreczkach i zawiesić w wybranych miejscach, np. **w sypialni**. Jest to także sprawdzony sposób na mole - woreczek wystarczy umieścić w szafie.
 
 {% fig %}
@@ -109,6 +111,7 @@ Jak już wspomniano, lawenda ma wiele właściwości. Hodując tę roślinę w d
 {% endfig %}
 
 {:.list.list-positive}
+
 * **Sposób na ból głowy** - ten zapach działa **kojąco i rozluźniająco**. Kilka kwiatów można umieścić w wazonie w sypialni. Woreczek z suszonymi roślinami można umieścić pod poduszką - pomoże to w zaśnięciu.
 * **Przyprawa** - lawenda to składnik popularnej mieszanki ziół prowansalskich. Roślinę można z powodzeniem stosować w wielu daniach, szczególnie drobiowych. Należy jednak robić to ostrożnie, ponieważ ma wyjątkowo silny aromat. W nadmiarze może zabić smak potrawy. Kwiaty można dodawać także do wypieków i lodów.
 * **Cukier aromatyzowany** - taki dodatek jest bardzo łatwy w przygotowaniu. Wystarczy zasypać suszone lub świeże, posiekane kwiaty cukrem i zamknąć szczelnie na kilka tygodni. Po tym czasie cukier należy przesiać, oddzielając rośliny. Jest on **idealny do kawy, herbaty, ciast oraz ciasteczek**.

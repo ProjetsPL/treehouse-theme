@@ -48,6 +48,7 @@ Należy pamiętać, że **łóżko powinno być szersze od materaca**. To zapewn
 Liczba palet to kwestia indywidualna. W zależności od konkretnego projektu podstawowy jednoosobowy model można wykonać już z trzech elementów. **Łóżko z palet dwuosobowe** wymaga około sześciu elementów na jedną warstwę. Należy dokładnie zaprojektować ilość warstw - wówczas automatycznie będzie wiadomo ile potrzeba palet. Jeżeli do łóżka planowane jest dodanie zagłówka, liczba elementów oczywiście się zwiększy.
 
 Oprócz palet, **do wykonania łóżka potrzebne będą narzędzia**:
+
 {:.list.list-positive}
 
 * szlifierka,
@@ -83,6 +84,7 @@ Jeżeli łóżko na paletach jest przeznaczone do pokoju gościnnego, warto wybr
 Łóżko z palet to oczywiście niejedyny element, jaki można wykonać z tego materiału. Istnieje wiele pomysłów, które warto wykorzystać ze względu na ich prostotę i łatwość w wykonaniu.
 
 Przykładowe zastosowanie palet to:
+
 {:.list.list-positive}
 
 * huśtawka ogrodowa z palet,

@@ -46,6 +46,8 @@ Apart from the appearance, outside floor tiling material should contain several 
 
 There are plenty of materials that can be used for tiling stairs. Particular products differ from each other by appearance, features and price. Before choosing the right tiles, one should take every aspect into consideration.
 
+{:.list}
+
 * **Ceramic tiles** - one of the most commonly chosen material. Ceramic tiles are quite durable. They are highly resistant to abrasion and water absorption, and they can endure very low temperatures as well as extreme weather conditions. Unglazed ceramic tiles are good to use in places that are not very exposed, such as basement stairs. For tile flooring before the building it is better to choose better looking glazed or porcelain tiles.
 * **Clinker** - such tiles are made of clay and sand. **Clinker tiles** are very attractive, as they resemble bricks. They are very good for rustic or industrial style. The method of their production is firing them in high temperature, which makes them very durable. Clinker is **resistant to frost and mechanical damage** and tiles made of this material are non-slippery. They can be used for outdoor tile flooring, as well as for facades.
 
@@ -55,6 +57,8 @@ A big disadvantage of this material is its low resistance to dirt. For this reas
 {% fig %}
 ![What outdoor stairs tile flooring is the best?](/uploads/jakie-plytki-na-schody-zewnetrzne-wybrac.jpg "What outdoor stairs tile flooring is the best?")
 {% endfig %}
+
+{:.list}
 
 * **Granite** - one of the most durable materials for tile flooring. It is resistant to abrasion, moisture, dirt and low and high temperatures. Granite has many colours and is very elegant. It has many textures, therefore you can choose the right type for your purpose. Granite floor tiling is long lasting and very aesthetic.
 * **Sandstone** - tiles made of this material are far less resistant than granite. Pay attention to the hardness when choosing such product, as there are various types of sandstone. Some types easily absorb water and break quickly. Sandstone tile flooring for stairs are non-slippery.

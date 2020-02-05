@@ -94,6 +94,8 @@ Aby ją wykonać, do 10 łyżek octu należy dodać tyle sody, aby powstała mas
 
 Samo **przepłukanie pralki środkiem odkamieniającym** może nie wystarczyć. Wszystkie elementy urządzenia wymagają dokładnego wyczyszczenia. Uwagi wymagają w szczególności:
 
+{:.list}
+
 * **Filtry** - zwykle część ta znajduje się z przodu pralki. Należy ją od czasu do czasu oczyścić z drobnych przedmiotów. Często dostają się tam niewielkie ubrania, takie jak skarpetki, a także ściereczki zapobiegające farbowaniu. **Oczyszczony filtr** trzeba przepłukać pod bieżącą wodą i włożyć z powrotem na miejsce.
 * **Pojemniki na proszek i płyn do płukania** - to tam najczęściej tworzy się pleśń. Jeżeli czyszczenie pralki przeprowadzane było dawno, to szufladkę należy wyjąć i **dokładnie umyć za pomocą gąbki i wybranego środka** (mleczka lub sody). Warto zwrócić także uwagę na ścianki, które otaczają pojemnik.
 * **Uszczelki oraz elementy gumowe** - są one bardziej narażone na działanie kamienia. Najwięcej brudu zbiera się pod kołnierzem znajdującym się przy drzwiczkach pralki. Powinien on być **regularnie oczyszczany**. Warto nałożyć w tym miejscu wyżej wspomnianą pastę z octu i sody. Dzięki niej usunięcie zanieczyszczeń nie sprawi żadnych problemów.

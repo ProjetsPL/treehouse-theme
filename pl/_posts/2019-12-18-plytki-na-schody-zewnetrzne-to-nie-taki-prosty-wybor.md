@@ -47,6 +47,8 @@ Oprócz wyglądu, materiał na płytki na schody zewnętrzne powinien posiadać 
 
 Istnieje wiele materiałów, które można zastosować do wykończenia schodów. Różnią się one wyglądem, właściwościami, jak i ceną. Przed wyborem odpowiednich płytek, warto wziąć pod uwagę każdy aspekt.
 
+{:.list}
+
 * **Gres** - jeden z najczęściej wybieranych materiałów do wykończeń zewnętrznych. Płytki gresowe są bardzo wytrzymałe. Mają wysoką klasę ścieralności, nie wchłaniają wody, są odporne na mróz i działanie czynników zewnętrznych. **Gres nieszkliwiony** sprawdzi się w mało widocznych miejscach, takich jak schody prowadzące do piwnicy. Na schody przed domem można wybrać bardziej estetyczny gres porcelanowy, szkliwiony.
 * **Klinkier** - materiał ten to mieszanina gliny i piasku. **Płytki klinkierowe** odznaczają się estetycznym wyglądem, który przypomina cegłę. Świetnie sprawdzają się w stylu rustykalnym lub mieszczańskim. Ponieważ są one wykonywane poprzez wypalanie w wysokich temperaturach, charakteryzują się dobrą trwałością. Klinkier jest **odporny na mróz i uszkodzenia mechaniczne**, a jego powierzchnia jest antypoślizgowa. Można go użyć nie tylko jako płytki na schody zewnętrzne, ale też do wykończenia elewacji i tarasów.
 
@@ -55,6 +57,8 @@ Wadą tego materiału jest niska odporność na zabrudzenia. Dlatego powierzchni
 {% fig %}
 ![Jakie płytki na schody zewnętrzne wybrać](/uploads/jakie-plytki-na-schody-zewnetrzne-wybrac.jpg "Jakie płytki na schody zewnętrzne wybrać")
 {% endfig %}
+
+{:.list}
 
 * **Granit** - jest to bardzo trwały materiał. Charakteryzuje go duża odporność na ścieranie, wilgoć, zabrudzenia oraz wysokie i niskie temperatury. Granit występuje w wielu kolorach, a jego zaletą jest **elegancja wykończenia**. Dostępne są różne faktury tego kamienia, które można dopasować pod względem przeznaczenia. Granitowe płytki na schody zewnętrzne są estetyczne i wytrzymałe.
 * **Piaskowiec** - jest to kamień mniej trwały od granitu. Przy wyborze należy zwrócić uwagę na twardość materiału, ponieważ istnieją różne rodzaje piaskowca. Niektóre z nich mogą łatwo nasiąkać i szybko ulegać zniszczeniu. Produkty wykonane z tego materiału to przede wszystkim płytki na schody zewnętrzne antypoślizgowe.

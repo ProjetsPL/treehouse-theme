@@ -60,7 +60,7 @@ module Jekyll
           end
 
           def date_modified
-            @page['date']
+            @page['update_date']
           end
 
           def comment_count

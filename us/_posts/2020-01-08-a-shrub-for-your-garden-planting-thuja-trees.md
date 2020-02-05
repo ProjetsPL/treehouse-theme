@@ -30,12 +30,16 @@ Thuja trees are not very complicated to take care of. One should, however, learn
 
 There are a few types of arborvitaes and each of them differs by their specific requirements. Before choosing a particular one, one should consider which of them will suit their needs the best. The most common types of thujas are:
 
+{:.list}
+
 * **Eastern arborvitae** - also known as _thuja occidentalis_. This type of plants prefers alkaline, high Ph soils. Most of the varieties are frost resistant and immune to pollution, however **they should be shielded from cold wind and droughts**. This type of thuja grows well in sunny spots, however some varieties prefer shade. When purchasing such a shrub it is good to learn about its individual needs, for instance when is best to plant the thuja.
 * **Giant arborvitae** - the most popular variety of this type is thuja green giant. Its needles have dark green colour. The tree can grow very high, however there are also smaller, shrub varieties. Young seedlings are **vulnerable to cold temperatures**, therefore they need to be planted in warm and sunny spots. Giant thuja is more resistant to droughts than the eastern type.
 
 {% fig %}
 ![Giant arborvitae](/uploads/which-type-of-thuja-should-I-choose.jpg "Giant arborvitae")
 {% endfig %}
+
+{:.list}
 
 * **Chinese thuja** - also called oriental arborvitae. This type is native to Asia. Because it is very vulnerable to cold temperatures, it is rarely chosen for colder regions. This kind of shrub grows quite well in warm zones. it requires warm and sunny spots. Its advantages are high resistance to droughts and good tolerance of different types of soil.
 

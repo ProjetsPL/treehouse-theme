@@ -36,6 +36,8 @@ Manufacturers offer quite limited choice of products suitable for **painting til
 
 **Tile paint** can be also used for painting materials such as metal, glass, concrete, plastic and stone. The products available on the market are:
 
+{:.list}
+
 * **Epoxy paint** - this type of tile paint is highly resistant to abrasion and the use of detergents. They are thinned with water. Using epoxy paint for tile is enjoyable, as it **does not produce any strong smell**.
 * **Alkyd urethane paint** - it is usually used for metal, but it might serve as tile paint as well. It produces a strong, resistant layer, therefore it is perfect for painting tiles on the floor.
 * **Acrylic tile paint** - such products are manufactured specifically for the use on tiles. Contrary to ordinary products of this type, acrylic tile paint is water resistant. It can be used to cover **glass and metal**.
@@ -55,6 +57,8 @@ Keep in mind that paint that you use for wall tiles cannot necessarily be used f
 ## Tile paint - how to paint ceramic tile?
 
 **Interior transformation with the use of tile paint is not a difficult task.** For satisfactory results, before painting one should prepare accordingly:
+
+{:.list}
 
 1. Search for any holes and cracks in your tiles. Fill them with silicone sealant or a special type of glue. The surface should be as smooth as possible.
 2. Thoroughly **wash and degrease** each tile, using a special degreasing agent. Make sure the surface is completely dry.

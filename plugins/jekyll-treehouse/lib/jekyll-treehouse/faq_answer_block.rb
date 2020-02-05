@@ -6,7 +6,7 @@ module Jekyll
 
       def render(context)
         text = super
-        "<p>#{text}</p>"
+        "<p class='faq-answer'>#{text}</p>"
       end
 
     end

@@ -22,6 +22,8 @@ Przed rozpoczęciem prac przy alejkach i podjazdach, należy wybrać odpowiedni 
 
 ### Jaka jest cena kostki brukowej? To zależy od jej rodzaju!
 
+{:.list}
+
 * **Kamienna (granitowa) kostka brukowa** - cena za metr kwadratowy tego materiału zaczyna się od 60 zł. Koszt ułożenia kostki brukowej wraz z robocizną waha się w granicach **80 - 100 złotych za metr**.
 * **Przemysłowa (betonowa) kostka brukowa** - cena za metr takiej kostki to od 30 złotych w górę. Za materiał plus robociznę można zapłacić od **40 do 80 złotych za metr**.
 
@@ -77,6 +79,8 @@ Do wad rozwiązania, jakim jest układanie kostki brukowej z granitu, zalicza si
 ## Samodzielne układanie kostki brukowej - krok po kroku
 
 Koszt ułożenia kostki brukowej można zdecydowanie zmniejszyć, decydując się na **zrobienie tego samemu**. Wykonanie tego zadania nie jest wcale trudne, wystarczy odpowiednio się do tego przygotować.
+
+{:.list}
 
 1. Odpowiedni materiał to podstawowy problem każdej osoby, która decyduje się na układanie kostki brukowej. Cena jest ważna, ale to nie jedyny czynnik, na który należy zwrócić uwagę. **Grubość kostki** powinna być dopasowana do planowanej intensywności eksploatowania powierzchni. Pod tym względem powinno się przewidzieć także wytrzymałość materiału na uszkodzenia mechaniczne. Przykładowo kostką o grubości 4 centymetrów można wyłożyć ścieżki ogrodowe, jednak do podjazdów posłuży produkt dwukrotnie grubszy. Bruk powinien także wizualnie harmonizować z budynkiem.
 2. Zanim rozpocznie się układanie kostki brukowej, w miejscach, gdzie będzie przebiegać ścieżka lub podjazd, należy wykonać wgłębienie. Jego wielkość powinna zostać dopasowana do **natężenia ruchu** na planowanej powierzchni. W przypadku ścieżek ogrodowych 15-20 cm będzie wystarczające. Jeżeli obciążenia będą duże, wykop powinien mieć co najmniej pół metra. Dno wykopu powinno zostać odpowiednio wyprofilowane tak, aby możliwe było odprowadzanie wody.
