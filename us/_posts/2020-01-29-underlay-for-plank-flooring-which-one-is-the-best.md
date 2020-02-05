@@ -7,10 +7,15 @@ description: Underlay for plank flooring - which one is the best? Flooring under
   is very important. If you wonder what is the best laminate underlay, you should
   consider several issues to help you make the best decision.
 image: "/uploads/podklad-pod-panele-jaki-podklad-pod-panele-bedzie-najlepszy.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: If you have already decided on a vinyl plank flooring, you should probably
+  choose a good quality underlay. It is a crucial element that determines the durability
+  of your floor. The right underlay can minimize certain floor and room imperfections.
+  It is, therefore, good to spend some time to choose the correct floor underlayment.
+  It ensures lasting floor for years.
 
 ---
-If you have already decided on a vinyl plank flooring, you should probably choose a good quality underlay. It is a crucial element that determines the durability of your floor. The right underlay can minimize certain floor and room imperfections. It is, therefore, good to spend some time to choose the correct floor underlayment. It ensures lasting floor for years.
-
 ## Is underlayment needed for vinyl flooring?
 
 Some people believe that underlay is not necessary and that vinyl planks can be placed directly on the floor. Even though it is possible in some cases, **it is not advised to lay vinyl flooring without underlay**. What is underlayment? Without this element laminate flooring would be quickly destroyed, as the planks could get broken.
