@@ -6,10 +6,16 @@ title: Malowanie mebli kuchennych - jak odnowić meble kuchenne?
 description: Malowanie mebli kuchennych to świetny sposób na tanią metamorfozę. Niemodnych
   szafek nie trzeba wcale wyrzucać. Wystarczy odpowiednia farba do mebli kuchennych.
 image: "/uploads/Malowanie mebli kuchennych - jak odnowic meble kuchenne.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: Remont kuchni może okazać się bardzo kosztowny. Takie przedsięwzięcie pochłania
+  także spore ilości czasu. W duchu modnego obecnie DIY wiele osób decyduje się na
+  malowanie mebli kuchennych. Tego typu rozwiązanie jest zdecydowanie tańsze od zakupu
+  zupełnie nowych elementów wyposażenia. Nie oznacza to jednak, że efekt będzie gorszy
+  - wręcz przeciwnie. Malowanie szafek kuchennych to świetny sposób na całkowitą metamorfozę
+  kuchni.
 
 ---
-Remont kuchni może okazać się bardzo kosztowny. Takie przedsięwzięcie pochłania także spore ilości czasu. W duchu modnego obecnie DIY wiele osób decyduje się na malowanie mebli kuchennych. Tego typu rozwiązanie jest zdecydowanie tańsze od zakupu zupełnie nowych elementów wyposażenia. Nie oznacza to jednak, że efekt będzie gorszy - wręcz przeciwnie. Malowanie szafek kuchennych to świetny sposób na całkowitą metamorfozę kuchni.
-
 ## Renowacja mebli kuchennych - od czego zacząć?
 
 **Malowanie mebli kuchennych** swoją popularność zawdzięcza niskim kosztom oraz zachwycającym efektom, jakie można uzyskać. Nikogo już nie dziwi odmalowanie starego krzesła, stolika, czy komody. Jednak **renowacja mebli kuchennych** może wydawać się bardziej problematyczna niż w przypadku innych mebli. Elementy w pomieszczeniu, jakim jest kuchnia, są jednym z najbardziej narażonych na zniszczenia. Dlatego można zastanawiać się, **jak odnowić meble kuchenne** i czy się to w ogóle opłaca.
@@ -68,7 +74,6 @@ Nie należy używać wałka z runem, ponieważ gubi on włosie i pozostawia stru
 {% fig %}
 ![Renowacja mebli kuchennych - dobór narzędzi](/uploads/Farby do mebli kuchennych.jpg "Renowacja mebli kuchennych - dobór narzędzi")
 {% endfig %}
-
 
 ### Malowanie szafek kuchennych
 
