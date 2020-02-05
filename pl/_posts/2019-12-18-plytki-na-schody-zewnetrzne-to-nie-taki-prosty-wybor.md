@@ -6,10 +6,16 @@ title: Płytki na schody zewnętrzne - to nie taki prosty wybór
 description: Wiele osób zastanawia się, jakie wybrać płytki na schody zewnętrzne.
   Przy wyborze warto zwrócić uwagę na kilka aspektów, które pomogą w podjęciu decyzji.
 image: "/uploads/plytki-na-schody-zewnetrzne-to-nie-taki-prosty-wybor-min.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: Schody zewnętrzne to istotny element wykończenia domu. Najczęściej wybieranym
+  materiałem do ich wyłożenia są kafelki. Głównym aspektem, który biorą pod uwagę
+  osoby wybierające płytki na schody zewnętrzne, jest wygląd. Jednak przy takim zakupie
+  należy zwrócić uwagę na szereg innych, równie istotnych kwestii. Żeby wykończenie
+  schodów było trwałe przez długie lata, powinno ono łączyć w sobie zarówno estetykę,
+  jak i najlepsze właściwości wytrzymałościowe.
 
 ---
-Schody zewnętrzne to istotny element wykończenia domu. Najczęściej wybieranym materiałem do ich wyłożenia są kafelki. Głównym aspektem, który biorą pod uwagę osoby wybierające płytki na schody zewnętrzne, jest wygląd. Jednak przy takim zakupie należy zwrócić uwagę na szereg innych, równie istotnych kwestii. Żeby wykończenie schodów było trwałe przez długie lata, powinno ono łączyć w sobie zarówno estetykę, jak i najlepsze właściwości wytrzymałościowe.
-
 ## Płytki na schody zewnętrzne - na co zwrócić uwagę przy ich wyborze?
 
 Wykończenie schodów zewnętrznych to ważny etap w trakcie budowy domu. Nie jest ważne, czy wykańczane są schody tarasowe, czy stopnie przy wejściu do budynku. Każdy rodzaj schodów zewnętrznych jest elementem reprezentacyjnym budynku. Dlatego powinny one zarówno odznaczać się **pięknym wyglądem, jak i odpowiednią funkcjonalnością**.
@@ -26,6 +32,7 @@ Płytki gresowe lub z piaskowca dobrze sprawdzają się w przypadku stylów trad
 Oprócz wyglądu, materiał na płytki na schody zewnętrzne powinien posiadać szereg właściwości, dzięki którym będą one trwałe. Najważniejsze aspekty, na które należy zwrócić uwagę to:
 
 {:.list.list-positive}
+
 * **Nasiąkliwość** - zwarta struktura materiału to pewność, że płytka nie ulegnie uszkodzeniu. Jeżeli kafle będą łatwo wchłaniały wilgoć, szybko zaczną się kruszyć i pękać. Dlatego należy wybierać materiały, których maksymalny stopień nasiąkliwości to 3%.
 * **Antypoślizgowość** - ten parametr jest oznaczany literą R. Posadzki antypoślizgowe to zakres R9 do R13. Materiały poniżej R9 są śliskie i nie nadają się do wykończeń na zewnątrz. Najlepiej, aby płytki na schody zewnętrzne miały klasę R11-R13. Można również wybrać stopnice z ryflowaną powierzchnią, której żłobienia są dodatkowym zabezpieczeniem przed poślizgiem.
 * **Mrozoodporność** - zapewnia ochronę przed niskimi temperaturami. Tę właściwość producenci oznaczają za pomocą symbolu płatka śniegu.
@@ -61,6 +68,7 @@ Oprócz płytek, warto rozważyć zastosowanie alternatywnych materiałów do wy
 Samodzielne wyłożenie schodów za pomocą płytek nie jest trudne. Ważny jest wybór płytek o **odpowiednich parametrach**. Prawidłowo zamontowane, będą służyły przez długie lata, nie ulegając zniszczeniu. Przy wykańczaniu schodów należy trzymać się pewnych wskazówek:
 
 {:.list.list-positive}
+
 * Przy zakupie warto wybrać **zestaw płytek przeznaczonych typowo do schodów.** Dzięki zawartym w takim zestawie elementom montaż będzie znacznie łatwiejszy, a schody będą wyglądały bardziej estetycznie.
 * Jeżeli płytki na schody zewnętrzne będą przycinane, warto umieścić skrócone elementy na brzegach. Takie rozmieszczenie pozwoli na zachowanie **symetrycznego wyglądu** schodów, a przycięcia nie będą tak bardzo widoczne. W ten sposób schody zyskają na estetyce.
 * Przed rozpoczęciem układania kafli należy upewnić się, że stopnie posiadają odpowiednie nachylenie. Jest to konieczne, aby woda mogła swobodnie spływać i nie zalegała na powierzchni schodów. Jeżeli po przyłożeniu poziomicy okaże się, że nie ma spadku, należy to poprawić, nakładając masę szpachlową. **Prawidłowe nachylenie schodów wynosi 1-2%**.
