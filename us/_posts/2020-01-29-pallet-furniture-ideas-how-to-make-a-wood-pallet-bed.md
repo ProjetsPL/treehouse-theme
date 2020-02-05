@@ -6,10 +6,15 @@ title: Pallet furniture ideas. How to make a wood pallet bed?
 description: DIY pallet furniture is a popular trend. It is not only eco-friendly,
   but also cheap furniture idea. Quite an interesting solution is a wood pallet bed.
 image: "/uploads/nowoczesne-lozko-z-palet.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: Pallet furniture is a popular trend in home decoration. It is an interesting,
+  inexpensive solution. A big advantage of pallet furniture is the option to adjust
+  the size and shape to one’s own needs. Pallet elements fit most styles. Quite an
+  easy DIY project involving pallets is a pallet bed. When done right, it might be
+  very stylish and impressive.
 
 ---
-Pallet furniture is a popular trend in home decoration. It is an interesting, inexpensive solution. A big advantage of pallet furniture is the option to adjust the size and shape to one’s own needs. Pallet elements fit most styles. Quite an easy DIY project involving pallets is a pallet bed. When done right, it might be very stylish and impressive.
-
 ## Pallet - an idea for cheap furniture
 
 Up until recently pallets were only used for product transportation. Nowadays pallets are commonly used for building various **home decoration** objects or even whole furniture sets. This solution fits trends of upcycling and zero-waste, which only contributes to its popularity.
@@ -44,6 +49,7 @@ The number of pallets depends on your individual project. For a basic, one-perso
 Except from the pallets, you will also need:
 
 {:.list.list-positive}
+
 * a grinder tool,
 * metal flat bars and long screws,
 * wood protection - wood stain or a primer,
@@ -80,6 +86,7 @@ Wood pallet bed is only one of many ideas for pallet furniture. There are many i
 Objects that you might make are for instance:
 
 {:.list.list-positive}
+
 * pallet swing for your garden.
 * flower bed.
 * coffee table.
