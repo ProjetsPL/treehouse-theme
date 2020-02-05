@@ -7,10 +7,17 @@ description: You do not have to throw away your old wood paneling. Painted panel
   looks better than new. How to paint wood paneling? All you need is good paint and
   tools.
 image: "/uploads/Malowanie boazerii. Jak pomalowac boazerie, aby dobrze wygladala.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: Wood paneling was a very popular interior design element of 1970s and 1980s.
+  It was cheap and relatively quick to instal. Such decoration still remains in many
+  apartments. Many homeowners decide to get rid of this element completely. There
+  is, however, another solution, not only quicker, but more importantly - less expensive.
+  Instead of removing the boards, you can simply change their colour. Painted paneling
+  looks quite impressive. It is a good way for a quick metamorphosis - all you need
+  is a good paint.
 
 ---
-Wood paneling was a very popular interior design element of 1970s and 1980s. It was cheap and relatively quick to instal. Such decoration still remains in many apartments. Many homeowners decide to get rid of this element completely. There is, however, another solution, not only quicker, but more importantly - less expensive. Instead of removing the boards, you can simply change their colour. Painted paneling looks quite impressive. It is a good way for a quick metamorphosis - all you need is a good paint.
-
 ## Why painting a wood paneling?
 
 Wood paneling was one of the **biggest trends of interior design** during the last century. Natural wood boards were installed on walls in halls, kitchens and living rooms. Nowadays, however, wood paneling is considered old-fashioned.
