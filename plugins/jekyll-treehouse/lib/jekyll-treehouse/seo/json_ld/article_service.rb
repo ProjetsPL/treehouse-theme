@@ -56,11 +56,15 @@ module Jekyll
           end
 
           def date_published
-            @page['date']
+            Time.parse([@page['date'].to_s.split(' ')[0], "12:00:00", "+0100T"].join(' '))
           end
 
           def date_modified
-            @page['update_date']
+            update_date = @page['update_date']
+
+            return date_published if update_date.nil?
+
+            Time.parse([update_date.to_s, "12:00:00", "+0100T"].join(' '))
           end
 
           def comment_count

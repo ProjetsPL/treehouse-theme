@@ -48,13 +48,14 @@ seo:
     same_as:
     logo:
       url: 'https://treehouse.co/assets/img/logo.png'
-      width: 106
-      height: 100
+      width: 512
+      height: 512
   website:
     name: Treehouse.co
   person:
     name: Treehouse
     id: 'author/treehouse'
+
 defaults:
   #languages
   -
@@ -91,6 +92,10 @@ i18n:
     select_country: "Wybierz kraj"
     home_page: "Strona główna"
     blog_page: "Artykuły"
+    autor_label: "Autor"
+    contact_label: "Kontakt"
+    author_description: "Dorota jest z wykształcenia ekonomistką, ale jej największym hobby jest fotografia i aranżacja wnętrz. Z Treehouse współpracuje od początku 2019 roku."
+
   us:
     read_more: "Read more"
     published: "Published"
@@ -103,6 +108,9 @@ i18n:
     select_country: "Select country"
     home_page: "Home page"
     blog_page: "Articles"
+    autor_label: "Author"
+    contact_label: "Contact"
+    author_description: "Dorota is an economist by profession, but her biggest hobby is photography and interior design. In Treehouse since the beginning of 2019."
 
   en:
     read_more: "Read more"
@@ -116,3 +124,6 @@ i18n:
     select_country: "Select country"
     home_page: "Home page"
     blog_page: "Articles"
+    autor_label: "Author"
+    contact_label: "Contact"
+    author_description: "Dorota is an economist by profession, but her biggest hobby is photography and interior design. In Treehouse since the beginning of 2019."

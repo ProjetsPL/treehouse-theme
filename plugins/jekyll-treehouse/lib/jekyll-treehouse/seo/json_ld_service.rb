@@ -23,9 +23,9 @@ module Jekyll
           graph << JsonLd::OrganizationService.call(context: context).result
           graph << JsonLd::WebsiteService.call(context: context).result
 
-          if context['page']['layout'] == 'default'
+          if context['page']['layout'] == 'blog'
             graph << JsonLd::CollectionService.call(context: context).result
-          else
+          elsif context['page']['layout'] == 'post'
             graph << JsonLd::ImageService.call(context: context).result
             graph << JsonLd::WebpageService.call(context: context).result
             # graph << JsonLd::BreadcrumbService.call(context: context).result
