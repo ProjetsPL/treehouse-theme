@@ -6,10 +6,16 @@ title: DIY furniture made of pallets. How to make pallet furniture?
 description: Pallets are popular material for DIY furniture. If you are looking for
   a cheap and eco-friendly garden furniture, you should consider using wood pallets.
 image: "/uploads/Modne meble ogrodowe z palet. Jak zrobic meble ogrodowe z palet.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: Comfortable and functional furniture is an essential element if you want to
+  spend a pleasant time in your garden or on your patio. A new, good quality garden
+  furniture set might be quite costly. There are, however, much cheaper, original
+  solutions. An interesting and increasingly popular material used for furnishing
+  gardens are pallets. Pallet furniture is inexpensive, quite sturdy and extremely
+  easy to make.
 
 ---
-Comfortable and functional furniture is an essential element if you want to spend a pleasant time in your garden or on your patio. A new, good quality garden furniture set might be quite costly. There are, however, much cheaper, original solutions. An interesting and increasingly popular material used for furnishing gardens are pallets. Pallet furniture is inexpensive, quite sturdy and extremely easy to make.
-
 ## DIY pallet furniture - how to make it?
 
 According to the latest trends, **DIY furniture** is a stylish element of interior decoration. Recycling and upcycling is an important part of life for an increasing number of people. Pallet furniture is a realisation of both trendy interior design and ecological lifestyle. There are many advantages of creating objects made of pallets. Most importantly they are extremely cheap.
@@ -50,6 +56,7 @@ Make sure that **pallets** you choose are not damaged and prepare the correctly.
 Before starting your pallet wood project you should equip yourself with **right tools** and products. Apart from the pallets, you will also need:
 
 {:.list.list-positive}
+
 * grinder tool with 80-100 grit sanding paper for the first sanding and grit 200 for smoothing the surface,
 * screw gun with screws,
 * wood adhesive for filling the holes in wood,
@@ -68,6 +75,7 @@ It is good if the size of the final piece is a multiple of a pallet’s length. 
 Having prepared a detailed project which includes the number of pallets you are going to need, you need to prepare the pallets:
 
 {:.list.list-positive}
+
 * Any damage should be repaired. **Remove rotten elements** and fill holes and dents with a wood adhesive.
 * Use the grinder tool to smoothen rough surface and **remove any splinters**. Grind the pallet thoroughly so that there are no sharp or rough elements. Fill any gaps with the mentioned adhesive. Remove or hammer any nails sticking out of the wood.
 * **Clean the pallets** from dust and apply the wood preserver to the surface. After it dries, you can cover the pallets with a varnish or paint.
