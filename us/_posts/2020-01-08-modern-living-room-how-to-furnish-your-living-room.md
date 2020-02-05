@@ -6,7 +6,7 @@ title: Modern living room - how to furnish your living room?
 description: A modern living room is a dream of many homeowners. If you wonder how
   to furnish your living room, you might inspire yourself with contemporary styles.
 image: "/uploads/nowoczesny-salon-w-odpowiednim-stylu.jpg"
-promoted: false
+promoted: true
 update_date: 2020-02-05
 intro: Living room is one of the most important rooms in every house. It is the area
   where most social gatherings take place. Living room is usually also the room of
