@@ -6,10 +6,15 @@ title: Fotel wiszący. Czy fotel podwieszany to dobry pomysł?
 description: Fotel wiszący zyskuje na popularności. Sprawdza się on niemal w każdym
   pomieszczeniu. Fotel wiszący to element wyposażenia lubiany przez dzieci i dorosłych.
 image: "/uploads/fotel-wiszacy.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: Fotel wiszący to wygodny mebel, który coraz częściej pojawia się w mieszkaniach.
+  Kojarzy się z pokojem młodzieżowym czy dziecięcym, jednak takie siedzisko jest cenione
+  również przez dorosłych. Nic dziwnego - delikatne kołysanie to idealny sposób na
+  szybkie odprężenie całego ciała. Fotel wiszący jest także niezwykle estetycznym
+  elementem wystroju. Czy jednak nadaje się on do każdego rodzaju pomieszczenia?
 
 ---
-Fotel wiszący to wygodny mebel, który coraz częściej pojawia się w mieszkaniach. Kojarzy się z pokojem młodzieżowym czy dziecięcym, jednak takie siedzisko jest cenione również przez dorosłych. Nic dziwnego - delikatne kołysanie to idealny sposób na szybkie odprężenie całego ciała. Fotel wiszący jest także niezwykle estetycznym elementem wystroju. Czy jednak nadaje się on do każdego rodzaju pomieszczenia?
-
 ## Fotel wiszący, czyli sposób na relaks
 
 Pierwsze fotele podwieszane pojawiły się w latach 60. ubiegłego wieku. Najpopularniejszy fotel wiszący tego okresu to słynny **Bubble Chair** zaprojektowany przez fińskiego projektanta w 1968 roku. Siedzisko jest idealnie okrągłe i wykonane z transparentnego materiału. Fotel jest podwieszany pod sufitem za pomocą metalowego łańcucha, tak, aby przypominał unoszącą się w powietrzu bańkę mydlaną.
@@ -27,6 +32,7 @@ Na rynku dostępnych jest wiele rodzajów **foteli podwieszanych**. Projektanci 
 Meble tego typu różnią się nie tylko wyglądem, ale i konstrukcją. Nie każdy fotel wiszący nadaje się do każdego pomieszczenia. Przy wyborze należy zastanowić się nad własnymi oczekiwaniami i przeznaczeniem mebla. W sklepach można się spotkać z następującymi rozwiązaniami:
 
 {:.list.list-positive}
+
 * **Fotel podwieszany na suficie** - jest to najbardziej atrakcyjny model. Mebel jest podwieszany bezpośrednio na haku przytwierdzonym do sufitu, na którym wisi lina lub łańcuch z fotelem. Ten typ zapewnia największą swobodę ruchów dla użytkownika. Dostępne są szersze i węższe modele, które można dobrać w zależności od ilości przestrzeni dostępnej w mieszkaniu.
 * **Fotel wiszący na stelażu** - jest to bardziej mobilna wersja siedziska. Tego typu mebel można ustawić na podłodze, jest on także mniejszy niż wersja sufitowa. To duża zaleta w przypadku, gdy w pomieszczeniu brakuje miejsca. Taki fotel podwieszany odznacza się mniejszym zakresem ruchu. Mebel w lecie można przestawić na taras lub balkon.
 * **Krzesło brazylijskie** - ten fotel wiszący jest wersją hamaka. Jego zaletą jest fakt, że idealnie dopasowuje się on do kształtu ciała. Tego typu mebel jest także o wiele tańszy niż modele wykonane z innych materiałów. Wiszący fotel można łatwo zdjąć i zwinąć w razie potrzeby - nie zajmie on wiele miejsca w szafie.
@@ -43,6 +49,7 @@ Decydując się na konkretny fotel wiszący, na pewno należy zwrócić uwagę n
 Kształt to nie jedyne kryterium, jakim można się kierować. **Fotel wiszący** może być zrobiony z różnych materiałów. Oryginalny Bubble Chair składa się ze szkła akrylowego, metalowej ramy ze stali nierdzewnej i skórzanej poduszki. Najczęściej wykorzystywane materiały to:
 
 {:.list.list-positive}
+
 * **Rattan** - konstrukcje rattanowe mają ozdobne, koronkowe formy. Jest to **wytrzymały i ekologiczny** materiał. Nie jest jednak odporny na długotrwałe działanie wody, dlatego plecione meble nie powinny stać na zewnątrz. Można je dodatkowo zabezpieczyć lakierem.
 * **Technorattan** - fotel wiszący wykonany z technorattanu jest równie ozdobny, jak mebel z naturalnego rattanu. Jego zaletą jest większa **trwałość i odporność** na czynniki atmosferyczne.
 * **Drewno** - tego typu materiał jest cięższy od pozostałych. Idealnie sprawdzi się dla osób ceniących naturalne materiały.
