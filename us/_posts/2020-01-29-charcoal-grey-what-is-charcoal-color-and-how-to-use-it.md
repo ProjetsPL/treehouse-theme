@@ -6,10 +6,15 @@ title: Charcoal grey. What is charcoal color and how to use it?
 description: Charcoal is a colour that is becoming increasingly popular. Being a pretty
   strong shade, charcoal elements can be a good way to accentuate interior design.
 image: "/uploads/moda-na-antracyt.png"
+promoted: false
+update_date: 2020-02-05
+intro: 'Charcoal is a color that is becoming very popular recently. It can be used
+  as a neutral background color, as well as a strong accent. You can use it to paint
+  walls or choose charcoal grey elements: furniture, accessories and flooring. Charcoal
+  is very universal, therefore you should consider using it as an element of home
+  decor.'
 
 ---
-Charcoal is a color that is becoming very popular recently. It can be used as a neutral background color, as well as a strong accent. You can use it to paint walls or choose charcoal grey elements: furniture, accessories and flooring. Charcoal is very universal, therefore you should consider using it as an element of home decor.
-
 ## Charcoal - what color is it?
 
 Charcoal colour is a **very dark shade of grey**. It is very close to black, however it is noticeably brighter. The name of the color comes from coal made of wood, which is burned slowly in an oven with little access to air. Charcoal as color is one of the darkest tone of gray.
