@@ -6,10 +6,15 @@ title: Potted lavender. How to take care of a lavender plant?
 description: Lavender is quite popular among gardeners. You do not have to own a garden
   to enjoy this little plant. Potted lavender is a great idea for a home decoration.
 image: "/uploads/lawenda-w-doniczce.jpg"
+promoted: false
+update_date: 2020-02-05
+intro: Lavender - a unique plant with many useful traits. It resides in many gardens.
+  Lavender is valued for its beautiful colours and characteristic fragrance. It’s
+  also not very complicated to grow. You don't even have to be a garden owner. If
+  your space is limited, potted lavender is a perfect solution for you. Learn how
+  to properly take care of it.
 
 ---
-Lavender - a unique plant with many useful traits. It resides in many gardens. Lavender is valued for its beautiful colours and characteristic fragrance. It’s also not very complicated to grow. You don't even have to be a garden owner. If your space is limited, potted lavender is a perfect solution for you. Learn how to properly take care of it.
-
 ## Lavender - characteristics
 
 Lavender is a shrub belonging to lamiaceae, mint family. It is both decorative and cultivated plant. Lavender typically reaches half a metre, however there are also higher species. Its characteristic feature is **purple, sometimes blue flowers**, growing vertically. They release a slightly camphoric scent. Lavender is valued for its health benefits, but that’s not the only reason. The plant is used in perfume industry and for culinary purposes. The used parts are flowers, fresh or dried. They are also used to produce essential oil which has antiseptic purposes.
