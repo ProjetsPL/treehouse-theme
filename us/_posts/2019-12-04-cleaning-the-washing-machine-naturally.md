@@ -1,15 +1,20 @@
 ---
 layout: post
-date: 2019-12-03 23:00:00 +0000
+date: 2019-12-03T23:00:00.000+00:00
 toc: true
 title: Cleaning the washing machine naturally
 description: How to clean the washing machine naturally? Check out the best and the
   most effective methods of cleaning the washing machine. It’s easier than you think.
 image: "/uploads/Cleaning the washing machine naturally.jpg"
+update_date: 2020-02-05
+intro: Cleaning the washing machine is a commonly neglected activity. Meanwhile, it
+  is an important part of its maintenance. Ignoring the necessity to clean your washing
+  machine may lead to some serious consequences. As a result, using such a device
+  might not only be unpleasant, but also highly inefficient. For this reason one must
+  remember about regular cleaning of the laundry machine.
+promoted: false
 
 ---
-Cleaning the washing machine is a commonly neglected activity. Meanwhile, it is an important part of its maintenance. Ignoring the necessity to clean your washing machine may lead to some serious consequences. As a result, using such a device might not only be unpleasant, but also highly inefficient. For this reason one must remember about regular cleaning of the laundry machine.
-
 ## Why cleaning the washing machine is important?
 
 Most of the components of a washing machine are in constant contact with dirt coming off the clothes. They are also exposed to water, which leads to forming of scale on the heating element, drum and filters. If left to such state, the machine might start to malfunction. The heater will take more time to warm up the water. Pressure in the tubes will weaken because of the scale accumulating inside. **If it is not removed regularly, the parts will eventually get broken.** Repairing the device would generate additional costs. It is often the case that fixing the broken elements is simply too expensive. It might be more economic to replace the whole device. Having that in mind, one can assume that **cleaning the washing machine saves it from a serious breakdown**.
