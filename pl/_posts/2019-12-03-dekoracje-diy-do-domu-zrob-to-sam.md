@@ -19,7 +19,7 @@ intro: Dekorowanie to ostatni etap urządzania domu lub mieszkania. Stylowo ozdo
 ---
 ## Zrób to sam! Dekoracje do każdego domu
 
-Nie trzeba posiadać specjalnych umiejętności, aby stworzyć **estetyczne** i przyciągające uwagę **ozdoby**. Takie rozwiązania zazwyczaj nie wiążą się z wielkimi nakładami finansowymi. Zwykle potrzebne materiały znajdują się w zasięgu ręki, a dokupić wystarczy jedynie kilka niedrogich przyborów. Oczywiście koszt różni się w zależności od każdego projektu. Istnieje **wiele pomysłów DIY**, które nie wymagają dodatkowych wydatków, ponieważ wszystko, co potrzebne można znaleźć we własnym domu.
+Nie trzeba posiadać specjalnych umiejętności, aby stworzyć **estetyczne** i przyciągające uwagę **ozdoby**. Takie rozwiązania zazwyczaj nie wiążą się z wielkimi nakładami finansowymi. Zwykle potrzebne materiały znajdują się w zasięgu ręki, a dokupić wystarczy jedynie kilka niedrogich przyborów. Oczywiście koszt różni się w zależności od każdego projektu. Istnieje **wiele pomysłów DIY**, które nie wymagają dodatkowych wydatków, ponieważ wszystko, co potrzebne można znaleźć we własnym domu. 
 
 {:.distinction.distinction-information}
 
@@ -36,6 +36,7 @@ Bardzo wszechstronnym materiałem do wykonywania ozdób DIY jest **zwykły papie
 Przykładowymi ozdobami z papieru mogą być:
 
 {:.list}
+
 * **Klosze na lampy** - można je wykonać techniką składania papieru origami - wzory krok po kroku znajdują się w sieci. Papier można także pociąć w dowolne wzory i połączyć w kształt kuli za pomocą kleju. Wycięcie **ażurowych wzorów** pozwoli uzyskać ciekawy efekt ze światła i cienia na ścianach. Nada to wnętrzu nastrojowej atmosfery.
 * **Ozdobne girlandy** - papierowe łańcuchy to ozdoby, które nadają się nie tylko na okres Bożego Narodzenia, jak uważa wiele osób. Sprawdzą się w ciągu całego roku. Wystarczy wyciąć kilka kształtów z **kolorowego papieru**, przymocować je do sznurka i powiesić w wybranym miejscu. Do wykorzystania świetnie nadaje się także bibuła, z której można uzyskać wiele interesujących form - **kwiaty, kule, frędzle** i wiele innych.
 * **Trójwymiarowe rzeźby** - to bardzo efektowna i prosta w przygotowaniu dekoracja DIY. Do jej zrobienia wystarczy kolorowy **papier, nożyczki i klej**. Karton należy złożyć tak, aby powstały bryły, które następnie przykleja się obok siebie do ściany. Z takich modułów można uzyskać imponujące struktury, które zachwycą każdego gościa.
@@ -67,6 +68,7 @@ Cytat: Niezwykle uniwersalnym materiałem, który nadaje się do dekoracji wielu
 Techniką, która w oryginalny sposób wykorzystuje ten materiał, jest **makrama**. Polega ona na wiązaniu sznurka za pomocą specjalnych supłów. Metodą tą można wykonać przedmioty takie jak:
 
 {:.list}
+
 * makatki (czyli tkaniny dekoracyjne, które służą do wieszania na ścianach lub na meblach),
 * podkładki pod kubek,
 * wiszące kwietniki,
@@ -84,6 +86,7 @@ Jeżeli masz w domu **dużo kolorowych guzików**, możesz je nawlec na drucik l
 **Twórcy ozdób DIY** często zachęcają do upcyklingu, czyli ponownego wykorzystania odpadów. Jest to rozwiązanie nie tylko niezwykle oszczędne, ale też ekologiczne. Warto podarować drugie życie przedmiotom przeznaczonym wyrzucenia.
 
 {:.list.list-positive}
+
 * Zamiast oddawać przeczytane **gazety** na makulaturę, możesz zrobić z nich papierową wiklinę. W ten sposób można stworzyć efektowne rzeźby, **pudełka**, wazony oraz wiele innych obiektów.
 * Stare puszki po żywności można pomalować farbami lub ozdobić za pomocą **techniki decoupage**. Będą one ładnie wyglądały jako pojemniki na drobne przedmioty.
 * Nie musisz kupować plastikowych pojemników do przechowywania - wykorzystaj do tego pudełka po butach. Ścianki można **obkleić ozdobnym papierem** lub pomalować.
@@ -100,6 +103,7 @@ Rośliny dla wielu są niezbędnym elementem wystroju wnętrza. Aby pięknie si�
 Poniżej przedstawiono kilka inspiracji.
 
 {:.list}
+
 * **Metalowe puszki** - takie pojemniki wystarczy pomalować, dopasowując ich kolorystykę do wnętrza.
 * **Nieużywane kubki lub filiżanki** - sukulenty będą bardzo dobrze się czuły oraz wyglądały w takiej doniczce.
 * **Szklane słoiki** - te naczynia dobrze sprawdzą się w kuchni, do posadzenia ziół. Nie trzeba ich malować, przezroczyste będą przyciągały wzrok swoją oryginalnością.
