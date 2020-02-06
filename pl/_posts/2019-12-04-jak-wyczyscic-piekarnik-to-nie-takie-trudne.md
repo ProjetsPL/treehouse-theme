@@ -15,6 +15,14 @@ intro: Czyszczenie piekarnika nie należy do najprzyjemniejszych czynności. Z t
   istnieje wiele sposobów, dzięki którym przestaniesz się zastanawiać, jak wyczyścić
   piekarnik. Podane poniżej metody nie powinny sprawić ci większych trudności w przywróceniu
   sprzętowi dawnego blasku.
+main_keywords:
+- jak wyczyścić piekarnik
+- czym wyczyścić piekarnik
+- jak umyć piekarnik
+- 'jak czyścić piekarnik '
+- 'czym czyścić piekarnik '
+- jak wyczyścić piekarnik z termoobiegiem
+- jak wyczyścić przypalony piekarnik
 
 ---
 ## Czym wyczyścić piekarnik?
