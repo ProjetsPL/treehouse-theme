@@ -14,6 +14,11 @@ intro: Living room is one of the most important rooms in every house. It is the 
   be characterised by a certain level of coziness. Should it, however, impress your
   guests, it also has to comply with the latest trends. A modern living room is a
   combination of an aesthetically pleasing design and functionality.
+main_keywords:
+- modern living room
+- modern living room ideas
+- living room modern
+- modern living room design
 
 ---
 ## Modern living room ideas
