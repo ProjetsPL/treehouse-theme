@@ -16,6 +16,16 @@ intro: Decorating is the last stage of home renovation. Stylish decorations migh
   touch. Crafting such decorations is a great opportunity to release your creative
   skills and imagination. So do it yourself, pretend you are an artist and decorate
   your place with your own pieces of art.
+main_keywords:
+- diy
+- diy projects
+- do it yourself
+- home decor ideas
+- decorating ideas
+- diy home decor
+- home decorating ideas
+- diy ideas
+- diy decor
 
 ---
 ## Do it yourself! Home decor ideas for everyone
