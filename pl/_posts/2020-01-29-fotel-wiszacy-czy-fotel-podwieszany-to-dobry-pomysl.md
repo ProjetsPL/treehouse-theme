@@ -13,6 +13,11 @@ intro: Fotel wiszący to wygodny mebel, który coraz częściej pojawia się w m
   również przez dorosłych. Nic dziwnego - delikatne kołysanie to idealny sposób na
   szybkie odprężenie całego ciała. Fotel wiszący jest także niezwykle estetycznym
   elementem wystroju. Czy jednak nadaje się on do każdego rodzaju pomieszczenia?
+main_keywords:
+- fotel wiszący
+- wiszący fotel
+- fotel podwieszany
+- fotel wiszący do pokoju
 
 ---
 ## Fotel wiszący, czyli sposób na relaks
