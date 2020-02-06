@@ -95,6 +95,10 @@ i18n:
     autor_label: "Autor"
     contact_label: "Kontakt"
     author_description: "Dorota jest z wykształcenia ekonomistką, ale jej największym hobby jest fotografia i aranżacja wnętrz. Z Treehouse współpracuje od początku 2019 roku."
+    promoted_articles: "Promowane artykuły"
+    next_article: "Następny artykuł"
+    previous_article: "Poprzedni artykuł"
+    maybe_interesting: "Może zainteresuje Cię"
 
   us:
     read_more: "Read more"
@@ -111,7 +115,10 @@ i18n:
     autor_label: "Author"
     contact_label: "Contact"
     author_description: "Dorota is an economist by profession, but her biggest hobby is photography and interior design. In Treehouse since the beginning of 2019."
-
+    promoted_articles: "Featured articles"
+    next_article: "Next article"
+    previous_article: "Previous article"
+    maybe_interesting: "Maybe you're interested"
   en:
     read_more: "Read more"
     published: "Published"
@@ -127,3 +134,6 @@ i18n:
     autor_label: "Author"
     contact_label: "Contact"
     author_description: "Dorota is an economist by profession, but her biggest hobby is photography and interior design. In Treehouse since the beginning of 2019."
+    promoted_articles: "Featured articles"
+    next_article: "Next article"
+    previous_article: "Maybe you're interested"

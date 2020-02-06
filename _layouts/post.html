@@ -51,7 +51,7 @@
           <footer class="article-footer">
             <section class="article-author">
               <div class="profile-photo">
-                <img class="img" src="/assets/img/authors/dorota_czerwinska.png" alt="">
+                <img class="img" src="/assets/img/authors/dorota_czerwinska.png" alt="Dorota Czerwińska - Treehouse">
               </div>
               <div class="profile-details">
                 <span class="name">Dorota Czerwinska</span>
@@ -89,7 +89,7 @@
             <div class="other-articles">
               {% if prev_article.url and prev_article.lang == page.lang %}
                 <a href="{{ prev_article.url | prepend: site.baseurl }}" class="previous">
-                  <span class="label">Poprzedni artykuł:</span>
+                  <span class="label">{{site.i18n[page.lang].previous_article}}:</span>
                   <span class="title">{{prev_article.title}}</span>
                   <img class="arrow" src="/assets/img/more-arrow-md.svg" alt="Przeczytaj więcej">
                 </a>
@@ -97,7 +97,7 @@
 
               {% if next_article.url and next_article.lang == page.lang %}
                 <a href="{{ next_article.url | prepend: site.baseurl }}" class="next">
-                  <span class="label">Następny artykuł:</span>
+                  <span class="label">{{site.i18n[page.lang].next_article}}:</span>
                   <span class="title">{{next_article.title}}</span>
                   <img class="arrow" src="/assets/img/more-arrow-md.svg" alt="Przeczytaj więcej">
                 </a>
@@ -114,6 +114,38 @@
           </nav>
         </div>
       </article>
+
+      <section class="beam  b-size-4 featured-articles">
+        <div class="beam-item b-size-4">
+            <h2 class="h-section">{{site.i18n[page.lang].promoted_articles}}</h2>
+        </div>
+
+        {% assign promoted_articles = site.posts | where:"lang", page.lang | where:"promoted", true %}
+
+        {% for article in promoted_articles limit: 4 %}
+          <div class="beam-item b-size-1">
+            {% include parts/article-box-sm.html article=article %}
+          </div>
+        {% endfor %}
+      </section>
+
+      <section class="beam b-size-4 featured-articles">
+        <div class="beam-item b-size-4">
+          <h2 class="h-section">{{site.i18n[page.lang].maybe_interesting}}</h2>
+        </div>
+
+        <!-- <div class="beam-item b-size-4"> -->
+          {% assign random_articles = site.posts | where:"lang", page.lang | sample: 12 %}
+
+          {% for article in random_articles %}
+            {% assign main_keywords = article.main_keywords | sample: 1 %}
+
+            {% if main_keywords %}
+              <a href="{{ article.url | prepend: site.baseurl }}" class="btn btn-sm btn-link">{{ main_keywords }}</a>
+            {% endif %}
+          {% endfor %}
+        <!-- </div> -->
+      </section>
     </div>
   </main>
 
