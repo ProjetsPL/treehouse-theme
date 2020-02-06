@@ -13,6 +13,12 @@ intro: Salon jest jednym z najważniejszych pomieszczeń w każdym domu. Właśn
   również do wypoczynku. Dlatego jego urządzenie może stanowić spore wyzwanie. Wystrój
   takiego wnętrza powinien być nie tylko przytulny, ale również zgodny z obowiązującymi
   trendami. Nowoczesny salon to połączenie estetyki i funkcjonalności.
+main_keywords:
+- nowoczesny salon
+- salon nowoczesny
+- jak urządzić salon
+- jak pomalować salon
+- jak urządzić salon w bloku
 
 ---
 ## Nowoczesny salon w odpowiednim stylu
