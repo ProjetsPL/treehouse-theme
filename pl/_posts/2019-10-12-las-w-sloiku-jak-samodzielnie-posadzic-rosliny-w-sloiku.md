@@ -13,6 +13,12 @@ intro: Las w słoiku jest coraz popularniejszym elementem wystroju wnętrz. Taka
   w słoiku wyglądają bardzo efektownie w domowej przestrzeni, wzbudzając zachwyt gości.
   Są one idealne dla osób zabieganych - ich pielęgnacja wiąże się z zaledwie minimalnym
   wysiłkiem.
+main_keywords:
+- las w słoiku
+- las w szkle
+- las w słoiku jak zrobić
+- jak zrobić las w słoiku
+- rośliny w słoiku
 
 ---
 ## Miniaturowy las w słoiku
