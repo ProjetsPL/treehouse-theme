@@ -13,6 +13,12 @@ intro: Po rozstrzygnięciu bardzo ważnej kwestii na temat tego, jakie panele po
   to istotny element, od którego zależy między innymi trwałość podłogi. Za pomocą
   odpowiedniego materiału można również zniwelować pewne mankamenty podłogi lub pomieszczenia.
   Dlatego warto poświęcić odrobinę czasu, aby wybrać odpowiedni podkład pod panele.
+main_keywords:
+- podkład pod panele
+- jaki podkład pod panele
+- pianka pod panele
+- co pod panele
+- podkłady pod panele
 
 ---
 ## Czy podkład pod panele podłogowe jest konieczny?
