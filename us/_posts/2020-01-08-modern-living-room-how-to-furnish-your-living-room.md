@@ -19,6 +19,7 @@ main_keywords:
 - modern living room ideas
 - living room modern
 - modern living room design
+- living room ideas modern
 
 ---
 ## Modern living room ideas
