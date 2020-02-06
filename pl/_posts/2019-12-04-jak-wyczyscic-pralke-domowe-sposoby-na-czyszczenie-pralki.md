@@ -13,6 +13,15 @@ intro: Czynnością, którą często zaniedbuje się w gospodarstwach domowych, 
   może wiązać się z poważnymi konsekwencjami, w wyniku czego jego użytkowanie będzie
   nieprzyjemne oraz mało wydajne. Właśnie z tego względu sprzęt ten, jak każdy inny,
   należy czyścić regularnie.
+main_keywords:
+- czyszczenie pralki
+- jak wyczyścić pralkę
+- czyszczenie pralki sodą
+- czyszczenie pralki octem
+- czym wyczyścić pralkę
+- jak wyczyścić pralkę octem
+- jak wyczyścić pralkę sodą
+- czyszczenie pralki octem i sodą
 
 ---
 ## Dlaczego czyszczenie pralki jest ważne?
