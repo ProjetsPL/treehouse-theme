@@ -13,6 +13,15 @@ intro: If you are planning to make pathways or a patio around your house, you mi
   main goal for paving is to enhance the looks of the area surrounding your house.
   Many homeowners decide to lay paving stones. Paved pathways are quite durable and
   cheap.
+main_keywords:
+- pavement
+- paving stones
+- paving
+- stone pavers
+- paving stone
+- paving slabs
+- how to lay paving stones
+- how to clean paving stones
 
 ---
 ## Paving stones - choosing the right material
