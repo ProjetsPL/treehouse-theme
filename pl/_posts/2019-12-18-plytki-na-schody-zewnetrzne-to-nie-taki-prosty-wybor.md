@@ -14,6 +14,10 @@ intro: Schody zewnętrzne to istotny element wykończenia domu. Najczęściej wy
   należy zwrócić uwagę na szereg innych, równie istotnych kwestii. Żeby wykończenie
   schodów było trwałe przez długie lata, powinno ono łączyć w sobie zarówno estetykę,
   jak i najlepsze właściwości wytrzymałościowe.
+main_keywords:
+- płytki na schody zewnętrzne
+- płytki schodowe zewnętrzne
+- schody zewnętrzne płytki
 
 ---
 ## Płytki na schody zewnętrzne - na co zwrócić uwagę przy ich wyborze?
