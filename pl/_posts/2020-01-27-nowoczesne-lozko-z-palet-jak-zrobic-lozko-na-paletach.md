@@ -14,6 +14,11 @@ intro: Meble z palet to ostatnimi czasy popularny sposób na urządzenie wnętrz
   ich rozmiaru i kształtu do własnych potrzeb. Jednym z najchętniej wykorzystywanych
   mebli jest łóżko z palet. Nie jest to trudny projekt, dlatego łóżko można wykonać
   samodzielnie. Odpowiednio przygotowane prezentuje się natomiast niezwykle efektownie.
+main_keywords:
+- łóżko z palet
+- łóżka z palet
+- łóżko na paletach
+- jak zrobić łóżko z palet
 
 ---
 ## Łóżko z palet - sposób na tanie meble
