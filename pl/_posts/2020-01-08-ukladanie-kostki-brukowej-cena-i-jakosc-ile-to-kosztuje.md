@@ -19,7 +19,9 @@ main_keywords:
 - " układanie kostki brukowej cena"
 - " kostka brukowa cena za metr"
 - " układanie kostki cena za metr "
-- koszt ułożenia kostki brukowe
+- Ile kosztuje kostka brukowa?
+- " koszt ułożenia kostki brukowej"
+- Ile waży kostka brukowa?
 
 ---
 ## Układanie kostki brukowej - cena za metr kwadratowy
