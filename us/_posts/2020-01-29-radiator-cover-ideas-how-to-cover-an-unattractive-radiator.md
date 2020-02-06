@@ -13,6 +13,13 @@ intro: An unaesthetic radiator is a problem of many, otherwise good looking, apa
   are not particularly beautiful objects. If it is also your problem, a radiator cover
   might be a good idea. It hides the ugly device, keeping its functionality. What
   type of radiator cover is the best?
+main_keywords:
+- radiator cover
+- radiator heat cover
+- radiator cover ideas
+- heat radiator cover
+- how to build a radiator cover
+- how to make a radiator cover
 
 ---
 ## What is a radiator cover?
