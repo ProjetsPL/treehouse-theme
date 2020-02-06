@@ -13,6 +13,13 @@ intro: Tuje ogrodowe to jeden z najpopularniejszych rodzajów iglaków obecnych 
   szpalery. Są zimozielone, wytrzymałe i szybko rosną. Osoby zakładające własny ogród
   mogą zastanawiać się nad wieloma kwestiami, przykładowo - kiedy sadzić tuje. Warto
   poznać sposoby pielęgnacji tych roślin, aby długo były zdrowe i piękne.
+main_keywords:
+- tuje
+- kiedy sadzić tuje
+- jak sadzić tuje
+- tuje ogrodowe
+- co ile sadzić tuje
+- kiedy przesadzać tuje
 
 ---
 ## Tuje ogrodowe - rośliny uniwersalne
