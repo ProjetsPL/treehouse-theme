@@ -14,6 +14,13 @@ intro: Remont kuchni może okazać się bardzo kosztowny. Takie przedsięwzięci
   zupełnie nowych elementów wyposażenia. Nie oznacza to jednak, że efekt będzie gorszy
   - wręcz przeciwnie. Malowanie szafek kuchennych to świetny sposób na całkowitą metamorfozę
   kuchni.
+main_keywords:
+- malowanie mebli kuchennych
+- farba do mebli kuchennych
+- farby do mebli kuchennych
+- malowanie szafek kuchennych
+- jak pomalować meble
+- renowacja mebli kuchennych
 
 ---
 ## Renowacja mebli kuchennych - od czego zacząć?
