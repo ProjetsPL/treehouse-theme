@@ -15,6 +15,16 @@ intro: Thuja trees are quite popular plants growing in many gardens. They can be
   your own garden, you should consider choosing such a plant, for instance thuja green
   giant. It is worth to learn how to take care of a thuja, so that it is always beautiful
   and healthy.
+main_keywords:
+- shrub
+- thuja green giant
+- thuja
+- thuja tree
+- thuja trees
+- thuja gardens
+- how to plant shrub
+- planting thuja green giant
+- where to buy thuja
 
 ---
 ## What is thuja tree?
