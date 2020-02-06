@@ -15,6 +15,15 @@ intro: Terrarium is an increasingly popular home decoration. Such project is ver
   they are perfect plants for busy people who don’t have time to remember to water
   them. You won’t spend much time on taking care of terraria, as they are practically
   self-supporting.
+main_keywords:
+- terrarium
+- terrarium plants
+- diy terrarium
+- making a terrarium
+- how to make a terrarium
+- what is a terrarium
+- how to plant a terrarium
+- how to make terrarium plants
 
 ---
 ## What is a terrarium? Tiny forest in a glass
