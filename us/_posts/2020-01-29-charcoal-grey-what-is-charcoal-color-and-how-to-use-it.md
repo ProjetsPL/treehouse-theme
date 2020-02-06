@@ -13,6 +13,13 @@ intro: 'Charcoal is a color that is becoming very popular recently. It can be us
   walls or choose charcoal grey elements: furniture, accessories and flooring. Charcoal
   is very universal, therefore you should consider using it as an element of home
   decor.'
+main_keywords:
+- charcoal
+- charcoal color
+- charcoal grey
+- charcoal gray
+- what color is charcoal
+- what color goes with charcoal gray
 
 ---
 ## Charcoal - what color is it?
