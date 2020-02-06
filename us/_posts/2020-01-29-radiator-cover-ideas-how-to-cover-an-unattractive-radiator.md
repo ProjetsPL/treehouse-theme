@@ -20,6 +20,7 @@ main_keywords:
 - heat radiator cover
 - how to build a radiator cover
 - how to make a radiator cover
+- how to cover a radiator
 
 ---
 ## What is a radiator cover?
