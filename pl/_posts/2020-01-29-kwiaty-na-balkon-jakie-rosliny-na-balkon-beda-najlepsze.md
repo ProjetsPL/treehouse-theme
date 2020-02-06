@@ -20,6 +20,7 @@ main_keywords:
 - kwiaty na taras
 - kwiaty na balkonie
 - 'kwiaty na balkon południowy '
+- kiedy kwiaty na balkon
 
 ---
 ## Kwiaty na balkon - na co zwrócić uwagę?
