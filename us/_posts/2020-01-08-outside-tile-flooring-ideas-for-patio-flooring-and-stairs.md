@@ -13,6 +13,15 @@ intro: Tile flooring is one of the most popular patio floor ideas. Appearance of
   so it can last for a long time.
 update_date: 2020-02-05
 promoted: false
+main_keywords:
+- tile flooring
+- outdoor tile
+- outdoor flooring
+- patio tiles
+- patio flooring
+- outdoor tiles
+- how to install tile flooring
+- how to remove tile flooring
 
 ---
 ## Outside steps tile flooring - which outdoor tiles are the best
