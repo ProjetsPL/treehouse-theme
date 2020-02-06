@@ -14,6 +14,17 @@ intro: Cleaning an oven is not quite the most pleasurable activity. For this rea
   and more frustrated. Fortunately there are many quick and easy methods to help you.
   Thanks to the oven cleaners shown below you will finally stop wondering how to clean
   your oven.
+main_keywords:
+- oven
+- oven cleaner
+- how to clean oven
+- self cleaning oven
+- natural oven cleaner
+- clean oven
+- how to clean oven racks
+- how to clean a gas oven
+- how to clean inside of oven
+- how to clean oven window
 
 ---
 ## How to clean oven? Oven cleaners and cleaning hacks
