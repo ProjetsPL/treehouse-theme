@@ -14,6 +14,12 @@ intro: Kitchen renovation might be a costly project. Such a task is also very ti
   completely new kitchen and dining furniture sets. It does not mean that the furniture
   will look worse than the new one - on the contrary. If you are looking for kitchen
   furniture ideas, painting it is a great idea for a quick and satisfying metamorphosis.
+main_keywords:
+- kitchen furniture
+- painting furniture
+- chalk painting furniture
+- painting laminate furniture
+- kitchen furniture ideas
 
 ---
 ## How to restore old furniture in the kitchen?
