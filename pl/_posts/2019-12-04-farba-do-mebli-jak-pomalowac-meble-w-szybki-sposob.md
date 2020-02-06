@@ -13,6 +13,15 @@ intro: Mebli, które się znudziły lub wyszły z mody, wcale nie trzeba wymieni
   pomalowanie elementów wyposażenia na nowy kolor. Farba do mebli może wydobyć drzemiący
   w nich potencjał i całkowicie odmienić charakter pomieszczenia. Jednak, aby efekt
   takiej metamorfozy nie okazał się rozczarowaniem, ważny jest dobór właściwego produktu.
+main_keywords:
+- farba do mebli
+- farby do mebli
+- farba do malowania mebli
+- jak pomalować meble
+- czym pomalować meble
+- biała farba do mebli
+- 'jaka farba do mebli '
+- farby do mebli drewnianych
 
 ---
 ## Farby do mebli - rodzaje
