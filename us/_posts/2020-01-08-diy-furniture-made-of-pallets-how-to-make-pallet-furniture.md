@@ -14,6 +14,19 @@ intro: Comfortable and functional furniture is an essential element if you want 
   solutions. An interesting and increasingly popular material used for furnishing
   gardens are pallets. Pallet furniture is inexpensive, quite sturdy and extremely
   easy to make.
+main_keywords:
+- pallets
+- pallet furniture
+- pallet ideas
+- wood pallet
+- pallet wood projects
+- diy furniture
+- pallet wood
+- pallet table
+- pallet bench
+- 'diy pallet projects '
+- where to get pallets
+- pallet furniture ideas
 
 ---
 ## DIY pallet furniture - how to make it?
