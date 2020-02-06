@@ -14,6 +14,10 @@ intro: Często zdarza się, że naprawa zniszczonego stropu jest zbyt pracochło
   Zamiast stosowania regipsów, nieestetyczną powierzchnię zakrywa się płachtą wykonaną
   z tworzywa lub tkaniny. Jeżeli w pomieszczeniu znajduje się mało atrakcyjny strop,
   warto rozważyć taką metodę.
+main_keywords:
+- sufit napinany
+- sufity napinane
+- sufit napinany cena
 
 ---
 ## Czym jest sufit napinany?
