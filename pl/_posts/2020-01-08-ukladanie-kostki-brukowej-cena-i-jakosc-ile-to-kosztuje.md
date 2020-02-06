@@ -14,6 +14,12 @@ intro: Zastanawiając się, z czego wykonać ścieżki i podjazdy wokół domu, 
   osób decyduje się na układanie kostki brukowej. Cena tego materiału jest zdecydowanie
   zaletą takiego rozwiązania. Istnieje wiele rodzajów kostki, a każdy różni się ceną,
   jak i właściwościami.
+main_keywords:
+- układanie kostki brukowej
+- " układanie kostki brukowej cena"
+- " kostka brukowa cena za metr"
+- " układanie kostki cena za metr "
+- koszt ułożenia kostki brukowe
 
 ---
 ## Układanie kostki brukowej - cena za metr kwadratowy
