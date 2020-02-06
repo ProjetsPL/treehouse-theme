@@ -15,6 +15,14 @@ intro: Często zdarza się, że w nowo urządzonym mieszkaniu wszystko do siebie
   wyglądem. W takiej sytuacji dobrym pomysłem może być osłona na kaloryfer. Pomoże
   ona ukryć wszelkie mankamenty, przy jednoczesnym zachowaniu funkcjonalności urządzenia.
   Jaka zabudowa grzejnika będzie najlepsza?
+main_keywords:
+- osłona na kaloryfer
+- zabudowa grzejnika
+- zabudowa kaloryfera
+- maskownica grzejnika
+- obudowa grzejnika
+- osłona na grzejnik
+- maskownica na kaloryfer
 
 ---
 ## Czym jest osłona na kaloryfer?
