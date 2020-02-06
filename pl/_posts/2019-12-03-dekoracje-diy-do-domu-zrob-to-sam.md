@@ -15,6 +15,14 @@ intro: Dekorowanie to ostatni etap urządzania domu lub mieszkania. Stylowo ozdo
   charakteru. Ich przygotowywanie to świetna okazja na wykorzystanie swojej kreatywności.
   Warto zatem pobawić się w artystę i udekorować wnętrze dziełami sztuki własnego
   autorstwa.
+main_keywords:
+- diy
+- " zrób to sam"
+- " diy zrób to sam"
+- zrób to sama
+- zrób to sam dekoracje
+- DIY - co to
+- co znaczy DIY
 
 ---
 ## Zrób to sam! Dekoracje do każdego domu
