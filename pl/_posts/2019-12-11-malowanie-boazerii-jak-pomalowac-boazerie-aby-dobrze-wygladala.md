@@ -14,6 +14,13 @@ intro: Boazeria to element wystroju wnętrz, który był szczególnie popularny 
   pozbyciem się desek ze ścian. Istnieje jednak mniej pracochłonne, a zarazem bardzo
   efektowne rozwiązanie, czyli malowanie boazerii na inny kolor. Wystarczy odpowiednia
   farba do boazerii, aby całkowicie odmienić wnętrze.
+main_keywords:
+- malowanie boazerii
+- farba do boazerii
+- malowanie boazerii bez matowienia
+- czym pomalować boazerię
+- jak pomalować boazerię
+- malowanie boazerii na biało
 
 ---
 ## Malowanie boazerii - na czym polega?
