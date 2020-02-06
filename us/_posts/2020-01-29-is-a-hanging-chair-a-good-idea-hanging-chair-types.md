@@ -13,6 +13,15 @@ intro: Hanging chair is a comfortable piece of furniture that can be found in ma
   it is also appreciated among adults. It’s not surprising - rocking movement can
   quickly relax the whole body. Hanging chair is also a highly aesthetic element.
   Is it suitable for every type of interior design?
+main_keywords:
+- hanging chair
+- 'hanging egg chair '
+- hanging hammock chair
+- hanging chair with stand
+- outdoor hanging chair
+- how to make a hanging chair
+- how to hang a hanging chair
+- how to install a hanging chair
 
 ---
 ## Hanging chair - comfort in your home
