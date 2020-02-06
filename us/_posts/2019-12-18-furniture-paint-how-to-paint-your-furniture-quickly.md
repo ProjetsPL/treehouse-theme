@@ -15,6 +15,16 @@ intro: You don’t have to throw away your old furniture if its only flaw is bei
   paint might unearth the hidden potential of your old furniture. However one must
   be careful to choose the right product. In this way you can be sure that the makeover
   will be successful.
+main_keywords:
+- furniture paint
+- chalk furniture paint
+- best furniture paint
+- how paint furniture
+- furniture paint sprayer
+- furniture paint spray
+- furniture painting ideas
+- how to paint wood furniture
+- how to paint laminate furniture
 
 ---
 ## Types of furniture paint
