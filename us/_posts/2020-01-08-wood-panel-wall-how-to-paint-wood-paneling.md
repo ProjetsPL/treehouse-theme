@@ -16,6 +16,15 @@ intro: Wood paneling was a very popular interior design element of 1970s and 198
   Instead of removing the boards, you can simply change their colour. Painted paneling
   looks quite impressive. It is a good way for a quick metamorphosis - all you need
   is a good paint.
+main_keywords:
+- wood paneling
+- wood panel
+- wood wall paneling
+- 'wood panel wall '
+- painting paneling
+- painted paneling
+- painted wood paneling
+- how to paint wood paneling
 
 ---
 ## Why painting a wood paneling?
