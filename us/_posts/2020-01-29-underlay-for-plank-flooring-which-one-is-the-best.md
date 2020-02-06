@@ -14,6 +14,12 @@ intro: If you have already decided on a vinyl plank flooring, you should probabl
   of your floor. The right underlay can minimize certain floor and room imperfections.
   It is, therefore, good to spend some time to choose the correct floor underlayment.
   It ensures lasting floor for years.
+main_keywords:
+- wood underlayment
+- best laminate underlay
+- acoustical underlay
+- how to install underlay
+- how to lay underlay
 
 ---
 ## Is underlayment needed for vinyl flooring?
