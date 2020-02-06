@@ -14,6 +14,13 @@ intro: Repairing an old, damaged ceiling might cost too much money and effort. I
   increasingly popular solution of this type is stretch ceiling. It is much more lightweight
   than plasterboard. It also allows for a quicker installation. Fabric ceiling is
   an alternative that is worth considering.
+main_keywords:
+- ceiling
+- dropped ceiling
+- stretch ceiling
+- fabric ceiling
+- PVC ceiling
+- how to drape a ceiling with fabric
 
 ---
 ## What is a stretch ceiling?
