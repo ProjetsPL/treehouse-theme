@@ -13,6 +13,9 @@ intro: Cleaning the washing machine is a commonly neglected activity. Meanwhile,
   might not only be unpleasant, but also highly inefficient. For this reason one must
   remember about regular cleaning of the laundry machine.
 promoted: true
+main_keywords:
+- cleaning the washing machine
+- cleaning washing machine with vinegar
 
 ---
 ## Why cleaning the washing machine is important?
