@@ -14,6 +14,15 @@ intro: Your bathroom floor tiles that looked amazing several years ago, now are 
   You can avoid all the trouble if you decide to use tile paint. Painting tile is
   much quicker than replacing them. Combined with some other minor changes, you can
   completely transform your room over the course of one weekend.
+main_keywords:
+- tile paint
+- bathroom floor tiles
+- painting tile
+- painting ceramic tile
+- paint tile floor
+- 'how to paint tile '
+- how to paint ceramic tile
+- how to paint bathroom tile
 
 ---
 ## Painting tile - a quick makeover
