@@ -13,6 +13,13 @@ intro: Piękne kwiaty na balkonie to marzenie wielu osób. Taka dekoracja nie ty
   przemyśleć, jakie kwiaty na balkon wybrać. Nie wszystkie rośliny nadają się w każde
   miejsce. Jeśli zostaną nieodpowiednio dobrane, może się okazać, że nie wytrzymają
   warunków i zmarnieją. Jakie kwiaty na balkon wybrać?
+main_keywords:
+- kwiaty na balkon
+- rośliny na balkon
+- jakie kwiaty na balkon
+- kwiaty na taras
+- kwiaty na balkonie
+- 'kwiaty na balkon południowy '
 
 ---
 ## Kwiaty na balkon - na co zwrócić uwagę?
