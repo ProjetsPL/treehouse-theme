@@ -14,6 +14,12 @@ intro: Odcieniem, który ostatnio bardzo zyskuje na popularności, jest antracyt
   we wnętrzu. Nadaje się do ścian, mebli, dodatków, jak również podłóg. Warto rozważyć
   zastosowanie takiego koloru głównie ze względu na jego wyjątkową uniwersalność.
   Jak można wykorzystywać odcień antracytowy, żeby całość dobrze się komponowała?
+main_keywords:
+- antracyt
+- antracyt kolor
+- kolor antracyt
+- antracytowy
+- kolor antracytowy
 
 ---
 ## Antracyt - co to za kolor?
