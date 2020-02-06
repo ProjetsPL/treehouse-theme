@@ -54,6 +54,11 @@ fields:
 - type: file
   name: image
   label: Główne zdjęcie
+- name: main_keywords
+  type: tag_list
+  default: []
+  label: Główne keywordy
+  description: Główne keywordy grupy
 - type: boolean
   name: toc
   label: Spis treści
