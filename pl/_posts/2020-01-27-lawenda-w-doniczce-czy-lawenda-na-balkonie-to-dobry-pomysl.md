@@ -13,6 +13,16 @@ intro: Lawenda to wyjątkowa roślina o wielu właściwościach, która gości w
   przestrzeń jest ograniczona. Jak ją pielęgnować?
 update_date: 2020-02-01
 promoted: true
+main_keywords:
+- lawenda
+- lawenda w doniczce
+- lawenda wąskolistna
+- lawenda uprawa
+- lawenda na balkonie
+- uprawa lawendy
+- lawenda w domu
+- kiedy kwitnie lawenda
+- jak pielęgnować lawendę
 
 ---
 ## Jakie właściwości ma lawenda?
