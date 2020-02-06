@@ -13,6 +13,13 @@ intro: Żeby czas spędzony na odpoczynku w ogrodzie lub na tarasie był przyjem
   sporo. Tymczasem istnieje rozwiązanie, które jest nie tylko tanie, ale i oryginalne.
   Ciekawym i coraz bardziej popularnym rozwiązaniem są meble ogrodowe z palet. Ich
   wykonanie nie jest trudne i co najważniejsze nie wiąże się z dużymi wydatkami.
+main_keywords:
+- meble ogrodowe z palet
+- meble z palet jak zrobić
+- jak zrobić meble z palet
+- meble ogrodowe z palet krok po kroku
+- kanapa z palet
+- meble z europalet
 
 ---
 ## Meble ogrodowe z palet - jak zrobić je samodzielnie?
