@@ -13,6 +13,14 @@ intro: Kafelki, które wyglądały świetnie kilka lat temu, dzisiaj mogą okaza
   kosztami i generalnym remontem kuchni lub łazienki. Można tego uniknąć, decydując
   się na ich przemalowanie. Odpowiednia farba do płytek w połączeniu z wybranymi dodatkami
   pozwoli przeprowadzić metamorfozę pomieszczenia nawet w ciągu jednego weekendu.
+main_keywords:
+- farba do płytek
+- malowanie płytek
+- malowanie kafelek
+- farba do kafelek
+- farby do płytek
+- farba do płytek ceramicznych
+- malowanie płytek łazienkowych
 
 ---
 ## Malowanie płytek - sposób na szybki remont
