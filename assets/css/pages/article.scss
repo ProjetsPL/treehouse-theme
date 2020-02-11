@@ -9,6 +9,7 @@
 
      // TRIK do poprawnie scrollującego się anchor linka w spisie treści.
     h2 {
+      z-index: -1;
       padding-top: 120px; // 30 + 90 = 120
       margin-top: -90px;
 

@@ -135,7 +135,7 @@
         </div>
 
         <!-- <div class="beam-item b-size-4"> -->
-          {% assign random_articles = site.posts | where:"lang", page.lang | sample: 12 %}
+          {% assign random_articles = site.posts | where:"lang", page.lang | sample: 8 %}
 
           {% for article in random_articles %}
             {% assign main_keywords = article.main_keywords | sample: 1 %}
