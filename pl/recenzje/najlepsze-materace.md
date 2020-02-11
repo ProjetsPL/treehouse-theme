@@ -1,11 +1,11 @@
 ---
 layout: ranking
-title: Najlepsze materace - Ranking TOP 5 materacy [Luty 2020]
-description: 'Zobacz najlepsze materace ✅ piankowe, sprężynowe. Znane marki: Jysk,
+title: Najlepsze Materace - Ranking TOP 5 Materacy [Luty 2020]
+description: 'Zobacz Najlepsze Materace ✅ piankowe, sprężynowe. Znane marki: Jysk,
   Ikea i wiele innych, ceny już ✅ od X złotych. Opinie klientów. Sprawdź ranking luty
   2020.'
-date: 2020-02-09
-update_date: 2020-02-11
+date: '2020-02-09'
+update_date: '2020-02-11'
 intro: asdasdasdasd
 
 ---
