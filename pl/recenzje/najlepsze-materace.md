@@ -12,15 +12,14 @@ intro: |-
   Najlepsze materace to takie, które zapewniają odpowiednie podparcie i komfort przez całą noc. Muszą one być wykonane z odpowiedniego materiału. Wyposażenie tego typu powinno być dobierane indywidualnie - każda osoba ma inne potrzeby.
 
 ---
-
 {:.list.list-positive}
 
-* [Najlepsze Materace Piankowe](/pl/recenzje/najlepsze-materace/piankowe.html "Najlepsze Materace Piankowe")
-* [Najlepsze Materace Sprężynowe](/pl/recenzje/najlepsze-materace/sprezynowe.html)
-* [Najlepsze Materace Nawierzchniowe](/pl/recenzje/najlepsze-materace/nawierzchniowe.html)
-* [Najlepsze Materace 90x200](/pl/recenzje/najlepsze-materace/90x200.html)
-* [Najlepsze Materace 140x200](/pl/recenzje/najlepsze-materace/140x200.html)
-* [Najlepsze Materace 160x200](/pl/recenzje/najlepsze-materace/160x200.html)
+* [Najlepsze Materace **Piankowe**](/pl/recenzje/najlepsze-materace/piankowe.html "Najlepsze Materace Piankowe")
+* [Najlepsze Materace **Sprężynowe**](/pl/recenzje/najlepsze-materace/sprezynowe.html)
+* [Najlepsze Materace **Nawierzchniowe**](/pl/recenzje/najlepsze-materace/nawierzchniowe.html)
+* [Najlepsze Materace **90x200**](/pl/recenzje/najlepsze-materace/90x200.html)
+* [Najlepsze Materace **140x200**](/pl/recenzje/najlepsze-materace/140x200.html)
+* [Najlepsze Materace **160x200**](/pl/recenzje/najlepsze-materace/160x200.html)
 
 ## Jak wybrać najlepszy materac?
 
