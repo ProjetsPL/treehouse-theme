@@ -6,10 +6,12 @@ description: 'Zobacz Najlepsze Materace ✅ piankowe, sprężynowe. Znane marki:
   2020.'
 date: 2020-02-11
 update_date: 2020-02-11
-intro: |-
-  Wybór właściwego materaca jest kwestią kluczową. Czas spędzony w łóżku to według statystyk jedna trzecia życia. Dlatego warto poświęcić szczególną uwagę na to, aby wybrać jak najlepszy materac - wygodny i dopasowany.
-
-  Najlepsze materace to takie, które zapewniają odpowiednie podparcie i komfort przez całą noc. Muszą one być wykonane z odpowiedniego materiału. Wyposażenie tego typu powinno być dobierane indywidualnie - każda osoba ma inne potrzeby.
+intro: Wybór właściwego materaca jest kwestią kluczową. Czas spędzony w łóżku to według
+  statystyk jedna trzecia życia. Dlatego warto poświęcić szczególną uwagę na to, aby
+  wybrać jak najlepszy materac - wygodny i dopasowany. Najlepsze materace to takie,
+  które zapewniają odpowiednie podparcie i komfort przez całą noc. Muszą one być wykonane
+  z odpowiedniego materiału. Wyposażenie tego typu powinno być dobierane indywidualnie
+  - każda osoba ma inne potrzeby.
 
 ---
 {:.list.list-positive}
