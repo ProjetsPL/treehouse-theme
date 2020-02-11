@@ -24,14 +24,13 @@ sections:
   match: "**/*"
   new_doc_ext: md
   templates:
-  - blog-post
   - ranking
 - type: directory
   path: collections/_posts/pl
   label: Posty
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - blog-post
 - type: heading
@@ -43,14 +42,13 @@ sections:
   match: "**/*"
   new_doc_ext: md
   templates:
-  - blog-post
   - ranking
 - type: directory
   path: collections/_posts/us
   label: Posty
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - blog-post
 upload_dir: uploads
