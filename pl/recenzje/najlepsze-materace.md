@@ -11,10 +11,18 @@ intro: Wybór właściwego materaca jest kwestią kluczową. Czas spędzony w ł
   wybrać jak najlepszy materac - wygodny i dopasowany.
 
 ---
+**Najlepsze materace według rodzaju:**
+
 {:.list.list-positive}
+
 * [Najlepsze Materace **Piankowe**](/pl/recenzje/najlepsze-materace/piankowe.html "Najlepsze Materace Piankowe")
 * [Najlepsze Materace **Sprężynowe**](/pl/recenzje/najlepsze-materace/sprezynowe.html)
 * [Najlepsze Materace **Nawierzchniowe**](/pl/recenzje/najlepsze-materace/nawierzchniowe.html)
+
+**Najlepsze materace według rozmiaru:**
+
+{:.list.list-positive}
+
 * [Najlepsze Materace **90x200**](/pl/recenzje/najlepsze-materace/90x200.html)
 * [Najlepsze Materace **140x200**](/pl/recenzje/najlepsze-materace/140x200.html)
 * [Najlepsze Materace **160x200**](/pl/recenzje/najlepsze-materace/160x200.html)
