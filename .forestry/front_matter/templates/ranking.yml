@@ -20,16 +20,6 @@ fields:
   config:
     required: true
   default: ''
-- name: intro
-  type: textarea
-  default: ''
-  config:
-    required: true
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: Intro
-  description: Wstęp do artykułu
 - type: datetime
   name: date
   label: Data publikacji
@@ -43,11 +33,21 @@ fields:
   description: ''
   config:
     required: true
-    date_format:
-    time_format:
+    date_format: 
+    time_format: 
     display_utc: false
     export_format: YYYY-MM-DD
   default: ''
+- name: intro
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Intro
+  description: Wstęp do artykułu
 - name: main_keywords
   type: tag_list
   default: []
