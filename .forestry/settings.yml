@@ -5,6 +5,13 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: us/recenzje
+  label: Rankingi
+  create: all
+  match: "**/*"
+  templates:
+  - ranking
+- type: directory
   path: _data
   label: _Data
   create: all
@@ -23,8 +30,6 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: md
-  templates:
-  - ranking
 - type: directory
   path: collections/_posts/pl
   label: Posty
@@ -33,6 +38,14 @@ sections:
   new_doc_ext: md
   templates:
   - blog-post
+- type: directory
+  path: pl/recenzje
+  label: Rankingi
+  create: all
+  match: "**/*"
+  new_doc_ext: ''
+  templates:
+  - ranking
 - type: heading
   label: US
 - type: directory
@@ -41,8 +54,6 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: md
-  templates:
-  - ranking
 - type: directory
   path: collections/_posts/us
   label: Posty
