@@ -22,7 +22,7 @@ sections:
   label: Strony
   create: all
   match: "**/*"
-  exclude: recenzje
+  exclude: "/recenzje/*"
   new_doc_ext: md
   templates:
   - blog-post
