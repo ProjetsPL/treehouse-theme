@@ -22,11 +22,18 @@ sections:
   label: Strony
   create: all
   match: "**/*"
-  exclude: "/recenzje/*"
   new_doc_ext: md
   templates:
   - blog-post
   - ranking
+- type: directory
+  path: collections/_posts/pl
+  label: Posty
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+  templates:
+  - blog-post
 - type: heading
   label: US
 - type: directory
@@ -38,6 +45,14 @@ sections:
   templates:
   - blog-post
   - ranking
+- type: directory
+  path: collections/_posts/us
+  label: Posty
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+  templates:
+  - blog-post
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
