@@ -13,7 +13,6 @@ intro: |-
 
 ---
 {:.list.list-positive}
-
 * [Najlepsze Materace **Piankowe**](/pl/recenzje/najlepsze-materace/piankowe.html "Najlepsze Materace Piankowe")
 * [Najlepsze Materace **Sprężynowe**](/pl/recenzje/najlepsze-materace/sprezynowe.html)
 * [Najlepsze Materace **Nawierzchniowe**](/pl/recenzje/najlepsze-materace/nawierzchniowe.html)
