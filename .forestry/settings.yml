@@ -19,12 +19,13 @@ sections:
   label: PL
 - type: directory
   path: pl
-  label: PL
-  create: documents
+  label: Strony
+  create: all
   match: "**/*"
   new_doc_ext: md
   templates:
   - blog-post
+  - ranking
 - type: directory
   path: us
   label: US
