@@ -8,10 +8,7 @@ date: 2020-02-11
 update_date: 2020-02-11
 intro: Wybór właściwego materaca jest kwestią kluczową. Czas spędzony w łóżku to według
   statystyk jedna trzecia życia. Dlatego warto poświęcić szczególną uwagę na to, aby
-  wybrać jak najlepszy materac - wygodny i dopasowany. Najlepsze materace to takie,
-  które zapewniają odpowiednie podparcie i komfort przez całą noc. Muszą one być wykonane
-  z odpowiedniego materiału. Wyposażenie tego typu powinno być dobierane indywidualnie
-  - każda osoba ma inne potrzeby.
+  wybrać jak najlepszy materac - wygodny i dopasowany.
 
 ---
 {:.list.list-positive}
@@ -21,6 +18,8 @@ intro: Wybór właściwego materaca jest kwestią kluczową. Czas spędzony w ł
 * [Najlepsze Materace **90x200**](/pl/recenzje/najlepsze-materace/90x200.html)
 * [Najlepsze Materace **140x200**](/pl/recenzje/najlepsze-materace/140x200.html)
 * [Najlepsze Materace **160x200**](/pl/recenzje/najlepsze-materace/160x200.html)
+
+Najlepsze materace to takie, które zapewniają odpowiednie podparcie i komfort przez całą noc. Muszą one być wykonane z odpowiedniego materiału. Wyposażenie tego typu powinno być dobierane indywidualnie - każda osoba ma inne potrzeby.
 
 ## Jak wybrać najlepszy materac?
 
