@@ -26,11 +26,17 @@ sections:
   templates:
   - blog-post
   - ranking
+- type: heading
+  label: US
 - type: directory
   path: us
-  label: US
+  label: Strony
   create: all
   match: "**/*"
+  new_doc_ext: ".md"
+  templates:
+  - blog-post
+  - ranking
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
