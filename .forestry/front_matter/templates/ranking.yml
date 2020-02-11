@@ -11,3 +11,8 @@ fields:
 - type: textarea
   name: description
   label: description
+- name: toc
+  type: boolean
+  label: toc
+  hidden: true
+  default: true
