@@ -11,10 +11,48 @@ fields:
     required: true
 - type: text
   name: title
-  label: title
+  label: Meta title
+  config:
+    required: true
 - type: textarea
   name: description
-  label: description
+  label: Meta description
+  config:
+    required: true
+  default: ''
+- name: intro
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Intro
+  description: Wstęp do artykułu
+- type: datetime
+  name: date
+  label: Data publikacji
+  default: now
+  config:
+    required: true
+    export_format: YYYY-MM-DD
+- name: update_date
+  type: datetime
+  label: Data aktualizacji
+  description: ''
+  config:
+    required: true
+    date_format:
+    time_format:
+    display_utc: false
+    export_format: YYYY-MM-DD
+  default: ''
+- name: main_keywords
+  type: tag_list
+  default: []
+  label: Główne keywordy
+  description: Główne keywordy grupy
 - name: toc
   type: boolean
   label: toc
