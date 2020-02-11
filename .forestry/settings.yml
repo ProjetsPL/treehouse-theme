@@ -4,8 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: heading
-  label: PL
 - type: directory
   path: _data
   label: _Data
@@ -17,6 +15,8 @@ sections:
   label: _International
   create: all
   match: "*"
+- type: heading
+  label: PL
 - type: directory
   path: pl
   label: PL
