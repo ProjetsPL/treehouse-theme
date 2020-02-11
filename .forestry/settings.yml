@@ -22,6 +22,7 @@ sections:
   label: Strony
   create: all
   match: "**/*"
+  exclude: recenzje
   new_doc_ext: md
   templates:
   - blog-post
@@ -33,7 +34,7 @@ sections:
   label: Strony
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - blog-post
   - ranking
