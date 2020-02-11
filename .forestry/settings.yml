@@ -28,7 +28,7 @@ sections:
   label: Posty
   create: all
   match: "**/*"
-  new_doc_ext: md
+  new_doc_ext: ".md"
   templates:
   - blog-post
 - type: directory
@@ -36,7 +36,7 @@ sections:
   label: Rankingi
   create: all
   match: "**/*"
-  new_doc_ext: '20200205002617'
+  new_doc_ext: md
   templates:
   - ranking
 - type: heading
@@ -60,6 +60,7 @@ sections:
   label: Rankingi
   create: all
   match: "**/*"
+  new_doc_ext: ".md"
   templates:
   - ranking
 upload_dir: uploads
