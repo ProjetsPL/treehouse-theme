@@ -11,6 +11,11 @@ intro: Nie istnieją idealne materace dopasowane do potrzeb wszystkich użytkown
 image: "/uploads/rev-najlepsze-materace.jpeg"
 toc: true
 content_hub: true
+main_keywords:
+- najlepsze materace
+- " najlepszy materac"
+- " najlepsze materace do spania"
+- " jaki materac najlepszy"
 
 ---
 Oto ranking przedstawiający najlepsze materace na luty 2020 r - pogrupowane według kategorii.
