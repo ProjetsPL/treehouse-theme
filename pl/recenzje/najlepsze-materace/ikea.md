@@ -1,11 +1,14 @@
 ---
 layout: ranking
 date: 2020-02-14
-main_keywords: []
+main_keywords:
+- najlepsze materace ikea
+- najlepszy materac ikea
+- materace ikea
+- materac ikea
 title: Najlepsze Materace IKEA - Ranking TOP 5 [Luty 2020]
 description: Zobacz najlepsze Materace IKEA ✅ w rozmiarach 90x200, 140x200, 160x200
-  w atrakcyjnych cenach. ✅ Opinie klientów. Sprawdź ranking luty
-  2020.
+  w atrakcyjnych cenach. ✅ Opinie klientów. Sprawdź ranking luty 2020.
 update_date: 2020-02-14
 intro: Ikea to znana na całym świecie marka, która proponuje produkty związane z aranżacją
   i wyposażeniem wnętrz. Jest ona ceniona za praktyczne rozwiązania, które są dostępne
@@ -15,6 +18,8 @@ intro: Ikea to znana na całym świecie marka, która proponuje produkty związa
   oferowane przez Ikea materace.
 image: "/uploads/rev-najlepsze-materace-ikea.jpeg"
 toc: true
+content_hub: false
+
 ---
 🛏️ [Zobacz również najlepsze materace w innych kategoriach!](/pl/recenzje/najlepsze-materace.html)
 
