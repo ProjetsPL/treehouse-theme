@@ -9,6 +9,7 @@ update_date: 2020-02-11
 intro: Wybór właściwego materaca jest kwestią kluczową. Czas spędzony w łóżku to według
   statystyk jedna trzecia życia. Dlatego warto poświęcić szczególną uwagę na to, aby
   wybrać jak najlepszy materac - wygodny i dopasowany.
+image: "/uploads/najlepsze-materace.jpeg"
 
 ---
 **Najlepsze materace według rodzaju:**
