@@ -13,6 +13,12 @@ intro: Materace piankowe to jedne z najpopularniejszych produktów w swojej kate
   będzie najlepszy?
 image: "/uploads/rev-najlepsze-materace-piankowe.jpeg"
 toc: true
+main_keywords:
+- najlepsze materace piankowe
+- najlepszy materac piankowy
+- materace piankowe
+- materac piankowy
+
 ---
 🛏️ [Zobacz również najlepsze materace w innych kategoriach!](/pl/recenzje/najlepsze-materace.html)
 
