@@ -48,6 +48,11 @@ fields:
       format: markdown
   label: Intro
   description: Wstęp do artykułu
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Główne zdjęcie
 - name: main_keywords
   type: tag_list
   default: []
