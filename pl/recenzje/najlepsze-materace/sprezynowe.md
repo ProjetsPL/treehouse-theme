@@ -13,6 +13,12 @@ intro: Materace piankowe to jedne z najpopularniejszych produktów w swojej kate
   będzie najlepszy?
 image: "/uploads/rev-najlepsze-materace-sprezynowe.jpeg"
 toc: true
+main_keywords:
+- najlepsze materace sprężynowe
+- najlepszy materac sprężynowy
+- materace sprężynowe
+- materac sprężynowy
+
 ---
 🛏️ [Zobacz również najlepsze materace w innych kategoriach!](/pl/recenzje/najlepsze-materace.html)
 
