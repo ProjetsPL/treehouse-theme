@@ -19,16 +19,24 @@ Oto ranking przedstawiający najlepsze materace na luty 2020 r - pogrupowane wed
 {:.list.list-positive}
 
 * [Najlepsze Materace **Piankowe**](/pl/recenzje/najlepsze-materace/piankowe.html "Najlepsze Materace Piankowe")
-* [Najlepsze Materace **Sprężynowe**](/pl/recenzje/najlepsze-materace/sprezynowe.html)
-* [Najlepsze Materace **Nawierzchniowe**](/pl/recenzje/najlepsze-materace/nawierzchniowe.html)
+* [Najlepsze Materace **Sprężynowe**](/pl/recenzje/najlepsze-materace/sprezynowe.html "Najlepsze Materace Sprężynowe")
+* [Najlepsze Materace **Nawierzchniowe**](/pl/recenzje/najlepsze-materace/nawierzchniowe.html "Najlepsze Materace Nawierzchniowe")
 
 **Najlepsze materace według rozmiaru:**
 
 {:.list.list-positive}
 
-* [Najlepsze Materace **90x200**](/pl/recenzje/najlepsze-materace/90x200.html)
-* [Najlepsze Materace **140x200**](/pl/recenzje/najlepsze-materace/140x200.html)
-* [Najlepsze Materace **160x200**](/pl/recenzje/najlepsze-materace/160x200.html)
+* [Najlepsze Materace **90x200**](/pl/recenzje/najlepsze-materace/90x200.html "Najlepsze Materace 90x200")
+* [Najlepsze Materace **140x200**](/pl/recenzje/najlepsze-materace/140x200.html "Najlepsze Materace 140x200")
+* [Najlepsze Materace **160x200**](/pl/recenzje/najlepsze-materace/160x200.html "Najlepsze Materace 160x200")
+
+**Najlepsze materace według producenta:**
+
+{:.list.list-positive}
+
+* [Najlepsze Materace **IKEA**](/pl/recenzje/najlepsze-materace/ikea.html)
+* [Najlepsze Materace **JYSK**](/pl/recenzje/najlepsze-materace/jysk.html)
+* [Najlepsze Materace **KOŁO**](/pl/recenzje/najlepsze-materace/kolo.html)
 
 Wybór właściwego materaca jest kwestią kluczową. Czas spędzony w łóżku to według statystyk jedna trzecia życia. Dlatego warto poświęcić szczególną uwagę na to, aby wybrać jak najlepszy materac - wygodny i dopasowany.
 
