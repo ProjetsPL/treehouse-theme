@@ -58,6 +58,10 @@ fields:
   default: []
   label: Główne keywordy
   description: Główne keywordy grupy
+- name: content_hub
+  type: boolean
+  label: Główny ranking?
+  description: Czy jest to główny ranking? (content hub)
 - name: toc
   type: boolean
   label: toc
