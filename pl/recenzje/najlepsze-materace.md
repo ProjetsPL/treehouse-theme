@@ -8,7 +8,7 @@ update_date: 2020-02-14
 intro: Nie istnieją idealne materace dopasowane do potrzeb wszystkich użytkowników
   - wynika to z prostego faktu, że każdy człowiek jest inny. Dzięki kilku wskazówkom
   można jednak wybrać materac najbardziej odpowiadający indywidualnym wymaganiom.
-image: "/uploads/najlepsze-materace.jpeg"
+image: "/uploads/rev-najlepsze-materace.jpeg"
 toc: true
 content_hub: true
 

@@ -12,7 +12,7 @@ intro: Firma M&K Foam Koło to polski producent materacy, działający na rynku 
   Oferta obejmuje nie tylko materace, ale także różnego rodzaju akcesoria do nich.
   Materace Koło słyną z innowacyjnych rozwiązań i bardzo szerokiej oferty ukierunkowanej
   na indywidualne oczekiwania klientów. Czy warto wybrać tego producenta?
-image: "/uploads/najlepsze-materace-kolo.jpeg"
+image: "/uploads/rev-najlepsze-materace-kolo.jpeg"
 toc: true
 ---
 🛏️ [Zobacz również najlepsze materace w innych kategoriach!](/pl/recenzje/najlepsze-materace.html)

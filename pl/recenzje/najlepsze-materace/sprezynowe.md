@@ -11,7 +11,7 @@ intro: Materace piankowe to jedne z najpopularniejszych produktów w swojej kate
   wykonane z różnego rodzaju tworzyw. Charakteryzują je zróżnicowane właściwości i
   wiele zalet, dla których warto wybrać właśnie ten typ produktu. Jaki materac piankowy
   będzie najlepszy?
-image: "/uploads/najlepsze-materace-sprezynowe.jpeg"
+image: "/uploads/rev-najlepsze-materace-sprezynowe.jpeg"
 toc: true
 ---
 🛏️ [Zobacz również najlepsze materace w innych kategoriach!](/pl/recenzje/najlepsze-materace.html)

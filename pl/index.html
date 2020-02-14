@@ -29,7 +29,7 @@ description: TreeHouse to miejsce, w którym znajdziesz wskazówki dotyczące do
                     {% assign i = 0 %}
 
                     {% for article in articles limit: 7 %}
-                      {% if i == 0 or i == 9 %}
+                      {% if i == 2 or i == 9 %}
                         <div class="beam-item b-size-2">
                           {% include parts/article-box-lg.html article=article %}
                         </div>
@@ -53,17 +53,17 @@ description: TreeHouse to miejsce, w którym znajdziesz wskazówki dotyczące do
                         <h2 class="h-section">Najnowsze Recenzje</h2>
                     </div>
 
-                    {% assign articles = site.pages | where:"lang", "pl" | where:"layout","ranking" | sort: 'content_hub' | reverse %}
+                    {% assign rankings = site.pages | where:"lang", "pl" | where:"layout","ranking" | sort: 'content_hub' | reverse %}
                     {% assign i = 0 %}
 
-                    {% for article in articles limit:7%}
+                    {% for ranking in rankings limit:7%}
                       {% if i == 0 or i == 9 %}
                         <div class="beam-item b-size-2">
-                          {% include parts/article-box-lg.html article=article %}
+                          {% include parts/ranking-box-lg.html ranking=ranking %}
                         </div>
                       {% else %}
                       <div class="beam-item b-size-1">
-                        {% include parts/article-box-sm.html article=article %}
+                        {% include parts/ranking-box-sm.html ranking=ranking %}
                       </div>
                       {% endif %}
 

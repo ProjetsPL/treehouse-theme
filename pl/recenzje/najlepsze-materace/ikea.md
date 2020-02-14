@@ -13,7 +13,7 @@ intro: Ikea to znana na całym świecie marka, która proponuje produkty związa
   prostotą swoich produktów. Poszukując odpowiedniego materaca, warto rozważyć właśnie
   tę markę. Jakie modele oferuje producent? Podpowiadamy, czym się kierować, wybierając
   oferowane przez Ikea materace.
-image: "/uploads/najlepsze-materace-ikea.jpeg"
+image: "/uploads/rev-najlepsze-materace-ikea.jpeg"
 toc: true
 ---
 🛏️ [Zobacz również najlepsze materace w innych kategoriach!](/pl/recenzje/najlepsze-materace.html)

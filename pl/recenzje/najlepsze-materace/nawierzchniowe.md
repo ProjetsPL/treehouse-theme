@@ -11,7 +11,7 @@ intro: Materace nawierzchniowe bardzo często określane także jako toppery to 
   oraz sprawi, że będzie bardziej miękka lub przeciwnie - utwardzi ją - w zależności
   od oczekiwań użytkownika. Dobrze dobrany materac nawierzchniowy to namiastka prawdziwego,
   wysokiej klasy materaca.
-image: "/uploads/najlepsze-materace-nawierzchniowe.jpeg"
+image: "/uploads/rev-najlepsze-materace-nawierzchniowe.jpeg"
 toc: true
 
 ---

@@ -12,7 +12,7 @@ intro: Sieć sklepów Jysk to jedna z najpopularniejszych marek zajmujących si�
   Ten skandynawski producent posiada w swojej ofercie szeroki wybór materacy. Czym
   charakteryzują się materace Jysk? Który z nich jest najlepszy i jaki wybrać, aby
   zapewnić sobie komfortowy, zdrowy sen?
-image: "/uploads/najlepsze-materace-jysk.jpeg"
+image: "/uploads/rev-najlepsze-materace-jysk.jpeg"
 toc: true
 ---
 🛏️ [Zobacz również najlepsze materace w innych kategoriach!](/pl/recenzje/najlepsze-materace.html)
