@@ -2,8 +2,7 @@
 layout: ranking
 title: Najlepsze Materace Piankowe - Ranking TOP 5 [Luty 2020]
 description: Zobacz najlepsze Materace Piankowe ✅ marek Jysk, Ikea w atrakcyjnych
-  cenach ✅ już od X złotych. Opinie klientów. Sprawdź ranking luty 2020.
-toc: true
+  cenach. ✅ Opinie klientów. Sprawdź ranking luty 2020.
 date: 2020-02-11
 update_date: 2020-02-11
 intro: Materace piankowe to jedne z najpopularniejszych produktów w swojej kategorii.
@@ -13,7 +12,7 @@ intro: Materace piankowe to jedne z najpopularniejszych produktów w swojej kate
   wiele zalet, dla których warto wybrać właśnie ten typ produktu. Jaki materac piankowy
   będzie najlepszy?
 image: "/uploads/najlepsze-materace-piankowe.jpeg"
-
+toc: true
 ---
 🛏️ [Zobacz również najlepsze materace w innych kategoriach!](/pl/recenzje/najlepsze-materace.html)
 

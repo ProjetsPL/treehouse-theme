@@ -33,11 +33,11 @@
           <header class="article-header">
             <div class="detail-box">
               <span>{{ site.i18n[page.lang].updated }}: <time datetime="{{ page.update_date | date_to_xmlschema }}">{{page.update_date | date: '%d-%m-%Y'}}</time></span>
-              <span class="article-label article-label-garden">{{ site.i18n[page.lang].home_and_garden }}</span>
+              <span class="article-label article-label-garden">{{ site.i18n[page.lang].ranking }}</span>
             </div>
             <h1>{{ page.title }}</h1>
 
-            {{ page.intro }}
+            {{ page.intro | markdownify }}
 
             <figure>
               {% if page.image %}

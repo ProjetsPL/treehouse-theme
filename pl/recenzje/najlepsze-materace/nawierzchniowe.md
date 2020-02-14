@@ -1,9 +1,8 @@
 ---
-toc: true
 layout: ranking
 title: Najlepsze Materace Nawierzchniowe - Ranking TOP 5 [Luty 2020]
 description: Zobacz najlepsze Materace Nawierzchniowe ✅ marek Jysk, Ikea w atrakcyjnych
-  cenach ✅ już od X złotych. Opinie klientów. Sprawdź ranking luty 2020.
+  cenach. ✅ Opinie klientów. Sprawdź ranking luty 2020.
 date: 2020-02-11
 update_date: 2020-02-11
 intro: Materace nawierzchniowe bardzo często określane także jako toppery to świetny
@@ -13,6 +12,7 @@ intro: Materace nawierzchniowe bardzo często określane także jako toppery to 
   od oczekiwań użytkownika. Dobrze dobrany materac nawierzchniowy to namiastka prawdziwego,
   wysokiej klasy materaca.
 image: "/uploads/najlepsze-materace-nawierzchniowe.jpeg"
+toc: true
 
 ---
 🛏️ [Zobacz również najlepsze materace w innych kategoriach!](/pl/recenzje/najlepsze-materace.html)

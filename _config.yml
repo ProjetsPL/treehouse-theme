@@ -129,6 +129,7 @@ i18n:
     next_article: "Następny artykuł"
     previous_article: "Poprzedni artykuł"
     maybe_interesting: "Może zainteresuje Cię"
+    ranking: "Ranking"
 
   us:
     read_more: "Read more"
@@ -149,6 +150,8 @@ i18n:
     next_article: "Next article"
     previous_article: "Previous article"
     maybe_interesting: "Maybe you're interested"
+    ranking: "Ranking"
+
   en:
     read_more: "Read more"
     published: "Published"
