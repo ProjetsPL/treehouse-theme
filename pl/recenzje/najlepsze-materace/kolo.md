@@ -1,11 +1,14 @@
 ---
 layout: ranking
 date: 2020-02-14
-main_keywords: []
+main_keywords:
+- najlepsze materace koło
+- najlepszy materac koło
+- materace koło
+- materac koło
 title: Najlepsze Materace KOŁO - Ranking TOP 5 [Luty 2020]
 description: Zobacz najlepsze Materace KOŁO ✅ w rozmiarach 90x200, 140x200, 160x200
-  w atrakcyjnych cenach. ✅ Opinie klientów. Sprawdź ranking luty
-  2020.
+  w atrakcyjnych cenach. ✅ Opinie klientów. Sprawdź ranking luty 2020.
 update_date: 2020-02-14
 intro: Firma M&K Foam Koło to polski producent materacy, działający na rynku od 1992
   roku. Przedsiębiorstwo produkuje materace zarówno na rynek polski, jak i europejski.
@@ -14,6 +17,8 @@ intro: Firma M&K Foam Koło to polski producent materacy, działający na rynku 
   na indywidualne oczekiwania klientów. Czy warto wybrać tego producenta?
 image: "/uploads/rev-najlepsze-materace-kolo.jpeg"
 toc: true
+content_hub: false
+
 ---
 🛏️ [Zobacz również najlepsze materace w innych kategoriach!](/pl/recenzje/najlepsze-materace.html)
 
