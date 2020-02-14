@@ -13,6 +13,11 @@ intro: Materace nawierzchniowe bardzo często określane także jako toppery to 
   wysokiej klasy materaca.
 image: "/uploads/rev-najlepsze-materace-nawierzchniowe.jpeg"
 toc: true
+main_keywords:
+- najlepsze materace nawierzchniowe
+- najlepszy materac nawierzchniowy
+- materace nawierzchniowe
+- materac nawierzchniowy
 
 ---
 🛏️ [Zobacz również najlepsze materace w innych kategoriach!](/pl/recenzje/najlepsze-materace.html)
