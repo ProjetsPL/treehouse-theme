@@ -130,6 +130,8 @@ i18n:
     previous_article: "Poprzedni artykuł"
     maybe_interesting: "Może zainteresuje Cię"
     ranking: "Ranking"
+    ranking_page_slug: "recenzje"
+    ranking_page: "Recenzje"
 
   us:
     read_more: "Read more"
@@ -151,6 +153,8 @@ i18n:
     previous_article: "Previous article"
     maybe_interesting: "Maybe you're interested"
     ranking: "Ranking"
+    ranking_page_slug: "reviews"
+    ranking_page: "Reviews"
 
   en:
     read_more: "Read more"

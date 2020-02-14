@@ -16,7 +16,7 @@ description: TreeHouse to miejsce, w którym znajdziesz wskazówki dotyczące do
                 </svg>
                 <ul>
                     <li><a href="/pl/">Strona główna</a></li>
-                    <li><a href="/pl/blog.html">Artykuły</a></li>
+                    <li><a href="/pl/recenzje.html">Recenzje</a></li>
                 </ul>
             </div>
         </div>
@@ -26,37 +26,27 @@ description: TreeHouse to miejsce, w którym znajdziesz wskazówki dotyczące do
             <div class="beam-item b-size-3 articles-list-articles">
                  <section class="beam b-size-6">
                     <div class="beam-item b-size-6">
-                        <h1 class="h-section">Blog</h1>
-                        <p>Postaw na oryginalne aranżacje w swoim domu lub mieszkaniu. Zainspiruj się naszymi pomysłami dotyczącymi wnętrz domowych oraz ich dekoracji. W propozycjach Treehouse znajdziesz projekty, które charakteryzuje nowoczesny design. Wolisz klasykę? Przygotowaliśmy także nowe wydania tradycyjnego wystroju.</p>
+                        <h1 class="h-section">Recenzje</h1>
                     </div>
 
-                    {% assign articles = site.posts | where:"lang", "pl" %}
+
+                    {% assign rankings = site.pages | where: 'lang', 'pl' | where: 'layout', 'ranking'  %}
                     {% assign i = 0 %}
 
-                    {% for article in articles %}
+                    {% for ranking in rankings %}
                       {% if i == 0 or i == 1 %}
                         <div class="beam-item b-size-3">
-                          {% include parts/article-box-md.html article=article %}
+                          {% include parts/ranking-box-md.html ranking=ranking %}
                         </div>
                       {% else %}
                       <div class="beam-item b-size-2">
-                        {% include parts/article-box-sm.html article=article %}
+                        {% include parts/ranking-box-sm.html ranking=ranking %}
                       </div>
                       {% endif %}
 
                       {% assign i = i | plus: 1 %}
                     {% endfor %}
 
-                    <!-- <div class="beam-item beam-pagination">
-                        <ul>
-                            <li class="previous"><a href=""><img src="/assets/img/more-arrow.svg"  alt="Poprzednia strona"></a></a></li>
-                            <li><a href="">1</a></li>
-                            <li class="active"><a href="">3</a></li>
-                            <li><a href="">4</a></li>
-                            <li><a href="">...</a></li>
-                            <li class="next"><a href=""><img src="/assets/img/more-arrow.svg"  alt="Następna strona"></a></li>
-                        </ul>
-                    </div> -->
                 </section>
             </div>
             <div class="beam-item b-size-1 articles-list-sidebar">
