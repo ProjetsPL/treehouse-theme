@@ -53,11 +53,11 @@ description: TreeHouse to miejsce, w którym znajdziesz wskazówki dotyczące do
                         <h2 class="h-section">Najnowsze Recenzje</h2>
                     </div>
 
-                    {% assign articles = site.pages | where:"lang", "pl" | where:"layout","ranking" %}
+                    {% assign articles = site.pages | where:"lang", "pl" | where:"layout","ranking" | sort: 'content_hub' | reverse %}
                     {% assign i = 0 %}
 
-                    {% for article in articles limit: 7 %}
-                      {% if i == 2 or i == 9 %}
+                    {% for article in articles limit:7%}
+                      {% if i == 0 or i == 9 %}
                         <div class="beam-item b-size-2">
                           {% include parts/article-box-lg.html article=article %}
                         </div>

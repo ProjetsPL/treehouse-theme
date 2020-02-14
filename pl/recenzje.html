@@ -29,8 +29,7 @@ description: TreeHouse to miejsce, w którym znajdziesz wskazówki dotyczące do
                         <h1 class="h-section">Recenzje</h1>
                     </div>
 
-
-                    {% assign rankings = site.pages | where: 'lang', 'pl' | where: 'layout', 'ranking'  %}
+                    {% assign rankings = site.pages | where: 'lang', 'pl' | where: 'layout', 'ranking' | sort: 'content_hub' | reverse  %}
                     {% assign i = 0 %}
 
                     {% for ranking in rankings %}

@@ -62,13 +62,14 @@ description: TreeHouse to miejsce, w którym znajdziesz wskazówki dotyczące do
             <div class="beam-item b-size-1 articles-list-sidebar">
                  <section class="beam recommended-articles">
                     <div class="beam-item">
-                        <h2 class="h-section">Polecane artykuły</h2>
+                        <h2 class="h-section">Polecane recenzje</h2>
                     </div>
-                    {% assign promoted_articles = site.posts | where:"lang", "pl" | where:"promoted", true %}
 
-                    {% for article in promoted_articles limit: 10 %}
+                    {% assign rankings = site.pages | where: 'lang', 'pl' | where: 'layout', 'ranking' | sort: 'content_hub' | reverse  %}
+
+                    {% for ranking in rankings limit: 5 %}
                       <div class="beam-item">
-                        {% include parts/article-list-sm.html article=article %}
+                        {% include parts/ranking-list-sm.html ranking=ranking %}
                       </div>
                     {% endfor %}
                 </section>
