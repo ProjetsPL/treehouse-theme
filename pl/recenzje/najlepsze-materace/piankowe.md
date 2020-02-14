@@ -12,6 +12,7 @@ intro: "Materace piankowe to jedne z najpopularniejszych produktów w swojej kat
   wykonane z różnego rodzaju tworzyw. Charakteryzują je zróżnicowane właściwości i
   wiele zalet, dla których warto wybrać właśnie ten typ produktu. Jaki materac piankowy
   będzie najlepszy?\n\n\U0001F6CF️ [Zobacz również najlepsze materace w innych kategoriach!](/pl/recenzje/najlepsze-materace.html)"
+image: "/uploads/najlepsze-materace-piankowe.jpeg"
 
 ---
 ## Czym wyróżniają się materace piankowe?
