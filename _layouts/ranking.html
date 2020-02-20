@@ -135,13 +135,13 @@
         </div>
 
         <!-- <div class="beam-item b-size-4"> -->
-          {% assign random_articles = site.posts | where:"lang", page.lang | sample: 8 %}
+          {% assign random_rankings = site.pages | where: 'lang', 'pl' | where: 'layout', 'ranking' | sample: 6 %}
 
-          {% for article in random_articles %}
-            {% assign main_keywords = article.main_keywords | sample: 1 %}
+          {% for ranking in random_rankings %}
+            {% assign main_keywords = ranking.main_keywords | sample: 1 %}
 
             {% if main_keywords %}
-              <a href="{{ article.url | prepend: site.baseurl }}" class="btn btn-sm btn-link">{{ main_keywords }}</a>
+              <a href="{{ ranking.url | prepend: site.baseurl }}" class="btn btn-sm btn-link">{{ main_keywords }}</a>
             {% endif %}
           {% endfor %}
         <!-- </div> -->
