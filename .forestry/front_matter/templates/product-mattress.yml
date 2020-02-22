@@ -56,3 +56,5 @@ fields:
     label: Uchwyty
   label: Właściwości
   description: Właściwości produktu
+pages:
+- collections/_products/pl/mattresses/janpol-wenus-sprezynowy-180x200.md
