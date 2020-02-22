@@ -33,4 +33,12 @@ fields:
     type: tag_list
     default: []
     label: Wady
+  - name: reviews
+    type: blocks
+    template_types:
+    - review
+    config:
+      min: 
+      max: 
+    label: Recenzje
   label: Opinia
