@@ -61,5 +61,10 @@ opinion:
     content: To mój kolejny materac Kronos.Polecam. Materac wygodny, nie zapadający
       się, dobrze zdobiony.
     rating: '5'
+links:
+- template: link
+  provider: Ceneo
+  url: https://www.ceneo.pl/17039491#crid=319276&pid=21269
+  anchor: Kup na Ceneo od 948,60zł
 
 ---
