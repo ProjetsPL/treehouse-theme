@@ -44,7 +44,11 @@ description: |-
 
   Bez względu na ostateczny wybór pokrowca, każdy z modeli gwarantuje użytkownikom materaca zdrowy i bezpieczny sen. Zarówno pokrowiec Velvet, jak i Tencel można prać w temperaturze 60°C.
 photo: "/uploads/hilding-rock-roll-piankowy-160x200.jpg"
-links: []
+links:
+- template: link
+  provider: Ceneo
+  url: https://www.ceneo.pl/43972536#crid=319289&pid=21269
+  anchor: Kup na Ceneo od 1359,00zł
 properties:
   type: piankowy
   size: 160x200
