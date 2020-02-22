@@ -1,17 +1,25 @@
 ---
-label: Blog Post
+label: Ranking
 hide_body: false
+display_field: title
 fields:
 - type: text
   name: layout
-  label: Layout
+  label: layout
+  default: ranking
   config:
     required: true
-  default: post
-- name: promoted
-  type: boolean
-  label: Promowane
-  description: Czy wpis ma być promowany?
+- type: text
+  name: title
+  label: Meta title
+  config:
+    required: true
+- type: textarea
+  name: description
+  label: Meta description
+  config:
+    required: true
+  default: ''
 - type: datetime
   name: date
   label: Data publikacji
@@ -30,17 +38,6 @@ fields:
     display_utc: false
     export_format: YYYY-MM-DD
   default: ''
-- type: text
-  name: title
-  label: Meta title
-  config:
-    required: false
-- type: textarea
-  name: description
-  label: Meta description
-  config:
-    required: true
-  default: ''
 - name: intro
   type: textarea
   default: ''
@@ -51,16 +48,29 @@ fields:
       format: markdown
   label: Intro
   description: Wstęp do artykułu
-- type: file
-  name: image
+- name: image
+  type: file
+  config:
+    maxSize: 250
   label: Główne zdjęcie
 - name: main_keywords
   type: tag_list
   default: []
   label: Główne keywordy
   description: Główne keywordy grupy
-- type: boolean
-  name: toc
-  label: Spis treści
-  default: true
+- name: content_hub
+  type: boolean
+  label: Główny ranking?
+  description: Czy jest to główny ranking? (content hub)
+- name: toc
+  type: boolean
+  label: toc
   hidden: true
+  default: true
+pages:
+- pl/recenzje/najlepsze-materace/140x200.md
+- pl/recenzje/najlepsze-materace/160x200.md
+- pl/recenzje/najlepsze-materace/90x200.md
+- pl/recenzje/najlepsze-materace/ikea.md
+- pl/recenzje/najlepsze-materace/jysk.md
+- pl/recenzje/najlepsze-materace/kolo.md

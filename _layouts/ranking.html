@@ -6,6 +6,7 @@
 <link href="{{ site.baseurl }}/assets/css/pages/article.css?v=2" rel="stylesheet">
 
 <body>
+
   {% include header.html %}
 
   <main class="page page-article">
@@ -20,7 +21,7 @@
           </svg>
           <ul>
             <li><a href="/{{page.lang}}/">{{site.i18n[page.lang].home_page}}</a></li>
-            <li><a href="/{{page.lang}}/blog.html">{{site.i18n[page.lang].blog_page}}</a></li>
+            <li><a href="/pl/{{site.i18n[page.lang].ranking_page_slug}}.html">{{site.i18n[page.lang].ranking_page}}</a></li>
             <li><a href="">{{ page.title }}</a></li>
           </ul>
         </div>
@@ -32,11 +33,11 @@
           <header class="article-header">
             <div class="detail-box">
               <span>{{ site.i18n[page.lang].updated }}: <time datetime="{{ page.update_date | date_to_xmlschema }}">{{page.update_date | date: '%d-%m-%Y'}}</time></span>
-              <span class="article-label article-label-garden">{{ site.i18n[page.lang].home_and_garden }}</span>
+              <span class="article-label article-label-garden">{{ site.i18n[page.lang].ranking }}</span>
             </div>
             <h1>{{ page.title }}</h1>
 
-            {{ page.intro }}
+            {{ page.intro | markdownify }}
 
             <figure>
               {% if page.image %}
@@ -134,13 +135,13 @@
         </div>
 
         <!-- <div class="beam-item b-size-4"> -->
-          {% assign random_articles = site.posts | where:"lang", page.lang | sample: 8 %}
+          {% assign random_rankings = site.pages | where: 'lang', 'pl' | where: 'layout', 'ranking' | sample: 6 %}
 
-          {% for article in random_articles %}
-            {% assign main_keywords = article.main_keywords | sample: 1 %}
+          {% for ranking in random_rankings %}
+            {% assign main_keywords = ranking.main_keywords | sample: 1 %}
 
             {% if main_keywords %}
-              <a href="{{ article.url | prepend: site.baseurl }}" class="btn btn-sm btn-link">{{ main_keywords }}</a>
+              <a href="{{ ranking.url | prepend: site.baseurl }}" class="btn btn-sm btn-link">{{ main_keywords }}</a>
             {% endif %}
           {% endfor %}
         <!-- </div> -->

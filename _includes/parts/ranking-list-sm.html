@@ -1,0 +1,11 @@
+<article class="articles-listing-listitem-sm">
+    <a href="{{ include.ranking.url | prepend: site.baseurl }}">
+      <div class="title-box">
+        <div class="img-box">
+          <span class="article-rank-label "><img src="/assets/img/rank-star.svg" alt="Rank"></span>
+          <img class="img" src="{{site.baseurl}}{{include.ranking.image}}" alt="{{ include.ranking.title }}">
+         </div>
+        <h3 class="">{{ include.ranking.title }}</h3>
+      </div>
+    </a>
+</article>

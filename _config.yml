@@ -5,6 +5,12 @@ logo: '/assets/img/logo.png'
 logo_svg: '/assets/img/logo.svg'
 icon: '/assets/img/01.png'
 
+exclude:
+  - config
+  - plugins
+  - Capfile
+  - README.md
+
 # Build settings
 markdown: kramdown
 permalink: /:categories/blog/:title:output_ext
@@ -18,11 +24,12 @@ toc:
   min_level: 2
   max_level: 2
 
-exclude:
-  - config
-  - plugins
-  - Capfile
-  - README.md
+collections_dir: collections
+collections:
+  posts:
+    output: false
+  products_mattresses:
+    output: false
 
 # Author Settings
 author:
@@ -64,6 +71,7 @@ defaults:
     values:
       lang: "en"
       full-lang: "en"
+  # US
   -
     scope:
       path: "us"
@@ -72,7 +80,29 @@ defaults:
       full-lang: 'en-US'
   -
     scope:
+      path: "_posts/us"
+    values:
+      lang: "us"
+      full-lang: 'en-US'
+      categories: "us"
+
+  # PL
+  -
+    scope:
       path: "pl"
+    values:
+      lang: "pl"
+      full-lang: "pl"
+  -
+    scope:
+      path: "_posts/pl"
+    values:
+      lang: "pl"
+      full-lang: "pl"
+      categories: "pl"
+  -
+    scope:
+      path: "_products_mattresses/pl"
     values:
       lang: "pl"
       full-lang: "pl"
@@ -99,6 +129,9 @@ i18n:
     next_article: "Następny artykuł"
     previous_article: "Poprzedni artykuł"
     maybe_interesting: "Może zainteresuje Cię"
+    ranking: "Ranking"
+    ranking_page_slug: "recenzje"
+    ranking_page: "Recenzje"
 
   us:
     read_more: "Read more"
@@ -119,6 +152,10 @@ i18n:
     next_article: "Next article"
     previous_article: "Previous article"
     maybe_interesting: "Maybe you're interested"
+    ranking: "Ranking"
+    ranking_page_slug: "reviews"
+    ranking_page: "Reviews"
+
   en:
     read_more: "Read more"
     published: "Published"

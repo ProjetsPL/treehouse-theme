@@ -15,19 +15,54 @@ sections:
   label: _International
   create: all
   match: "*"
+- type: heading
+  label: PL
 - type: directory
   path: pl
-  label: PL
-  create: documents
+  label: Strony
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+- type: directory
+  path: collections/_posts/pl
+  label: Posty
+  create: all
   match: "**/*"
   new_doc_ext: md
   templates:
   - blog-post
 - type: directory
-  path: us
-  label: US
+  path: pl/recenzje
+  label: Rankingi
   create: all
   match: "**/*"
+  new_doc_ext: md
+  templates:
+  - ranking
+- type: heading
+  label: US
+- type: directory
+  path: us
+  label: Strony
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+- type: directory
+  path: collections/_posts/us
+  label: Posty
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - blog-post
+- type: directory
+  path: us/recenzje
+  label: Rankingi
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - ranking
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
