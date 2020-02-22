@@ -1,5 +1,5 @@
 ---
-label: Product
+label: Product [Base]
 hide_body: true
 fields:
 - name: name
@@ -16,39 +16,3 @@ fields:
     schema:
       format: markdown
   label: Opis
-- name: type
-  type: text
-  config:
-    required: false
-  label: Typ
-- name: rozmiar
-  type: text
-  config:
-    required: false
-  label: Size
-- name: properties
-  type: blocks
-  label: Właściwości
-  template_types:
-  - blog-post
-  - ranking
-  config:
-    min: 
-    max: 
-- name: testujee
-  type: field_group
-  config: {}
-  fields:
-  - name: testujeeeee
-    type: field_group_list
-    config:
-      min: 
-      max: 
-      labelField: 
-    label: Testujeeeee
-  label: Testujee
-- name: to_tez_testuje
-  type: include
-  config: {}
-  template: blog-post
-  label: to tez testuje
