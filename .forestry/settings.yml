@@ -44,7 +44,7 @@ sections:
   label: Produkty
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: heading
   label: US
 - type: directory
@@ -74,7 +74,7 @@ sections:
   label: Produkty
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
