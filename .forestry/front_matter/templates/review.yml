@@ -1,0 +1,38 @@
+---
+label: Review
+hide_body: true
+fields:
+- name: author
+  type: text
+  config:
+    required: false
+  label: Autor
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Treść
+- name: rating
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+    - '5'
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Ocena
+- name: confirmed_purchase
+  type: boolean
+  label: Potwierdzony zakup
