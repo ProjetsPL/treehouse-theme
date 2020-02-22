@@ -16,3 +16,21 @@ fields:
     schema:
       format: markdown
   label: Opis
+- name: photo
+  type: file
+  config:
+    maxSize: 250
+  label: Zdjęcie
+- name: opinion
+  type: field_group
+  config: {}
+  fields:
+  - name: advantages
+    type: tag_list
+    default: []
+    label: Zalety
+  - name: disadvantages
+    type: tag_list
+    default: []
+    label: Wady
+  label: Opinia
