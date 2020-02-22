@@ -1,4 +1,37 @@
 ---
 label: Product
 hide_body: true
-fields: []
+fields:
+- name: name
+  type: text
+  config:
+    required: true
+  label: Nazwa
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Opis
+- name: type
+  type: text
+  config:
+    required: false
+  label: Typ
+- name: rozmiar
+  type: text
+  config:
+    required: false
+  label: Size
+- name: properties
+  type: blocks
+  label: Właściwości
+  template_types:
+  - blog-post
+  - ranking
+  config:
+    min: 
+    max: 
