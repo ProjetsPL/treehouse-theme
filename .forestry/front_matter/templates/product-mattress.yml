@@ -57,4 +57,5 @@ fields:
   label: Właściwości
   description: Właściwości produktu
 pages:
+- collections/_products/pl/mattresses/hilding-salsa-piankowy-160x200.md
 - collections/_products/pl/mattresses/janpol-wenus-sprezynowy-180x200.md
