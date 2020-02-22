@@ -36,3 +36,4 @@ fields:
 - name: confirmed_purchase
   type: boolean
   label: Potwierdzony zakup
+  default: true
