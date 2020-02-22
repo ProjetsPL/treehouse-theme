@@ -52,7 +52,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/50747156#crid=319307&pid=21269
-  anchor: Hilding Cha cha sprężynowy 160x200
+  anchor: Kup na Ceneo od 1167,00zł
 properties:
   type: sprężynowy
   size: 160x200
