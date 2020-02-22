@@ -35,5 +35,25 @@ opinion:
       Kupiłem ten sam model po 14 latach użytkowania poprzedniego.
       Jeśli ktoś lubi zapadać się w materacu - Kronosa odradzam, jeśli zaś preferuje twarde spanie - Kronos będzie idealny. Ściągany pokrowiec nadający się do prania to duża zaleta. Polecam, zwłaszcza za tę cenę.
     rating: '5'
+  - template: review
+    confirmed_purchase: true
+    author: Ania
+    content: Materac jest rewelacyjny. To juz drugi taki sam, który zamówiliśmy. Gorąco
+      polecam. Odkąd na nim śpimy + poduszka ortopedyczna = skończyły się moje problemy
+      z kręgosłupem. Bardzo wygodny.
+    rating: '5'
+  - template: review
+    confirmed_purchase: true
+    author: Edyta
+    content: Polecam materac Kronos z Firmy Janpol chodziło mi o materac twardy ponieważ
+      mam problemy z kręgosłupem i śpi się rewelacyjnie. Korzystnie jest kupić je
+      za pośrednictwem interJoker ponieważ nie płacimy kosztów wysyłki. Polecam i
+      pozdrawiam.
+    rating: '5'
+  - template: review
+    confirmed_purchase: true
+    author: Robert
+    content: Sprawdzony produkt w dobrej cenie. Polecam
+    rating: '5'
 
 ---
