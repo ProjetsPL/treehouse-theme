@@ -42,3 +42,11 @@ fields:
       max: 
     label: Recenzje
   label: Opinia
+- name: links
+  type: blocks
+  label: Linki
+  template_types:
+  - link
+  config:
+    min: 
+    max: 
