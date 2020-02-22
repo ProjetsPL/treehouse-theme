@@ -57,6 +57,7 @@ fields:
   label: Właściwości
   description: Właściwości produktu
 pages:
+- collections/_products/pl/mattresses/demeter-janpol-lateksowy-90x200.md
 - collections/_products/pl/mattresses/hilding-flamenco-sprezynowy-160x200.md
 - collections/_products/pl/mattresses/hilding-rock-roll-piankowy-160x200.md
 - collections/_products/pl/mattresses/hilding-salsa-piankowy-160x200.md
