@@ -16,5 +16,24 @@ description: |-
   Maty materaca wykonane z włókien kokosowych stanowią doskonałe podparcie dla sylwetki podczas snu, zapewniając zdrowy wypoczynek. Odpowiadają także za prawidłowy obieg powietrza wewnątrz materaca. Ta właściwość sprawia, że osoba korzystająca z materaca nie poci się podczas snu. Dodatkowo włókna orzechów kokosowych to materiał w stu procentach naturalny, niewydzielający toksyn. Stanowi więc idealne podłoże do snu dla alergików i osób o większej wrażliwości. Producent jednostronnie zastosował również w materacu końskie włosie. Jego zadaniem jest dodatkowe usztywnianie konstrukcji oraz wydłużenie żywotności materaca.
 
   Pokrowiec modelu Kronos został wykonany z mocnej, odpornej na uszkodzenia tkaniny żakardowej, która nie podrażnia skóry. Jest dwustronny, a każda ze stron została wykonana z innego rodzaju materiału. Strona pikowana to warstwa bawełniana, która stanowi wzmocnienie wentylacji wkładu materaca, podczas gdy strona wełniana zatrzymuje ciepło i sprawdza się świetnie w mroźne, zimowe noce. Pokrowiec żakardowy należy czyścić ręcznie i miejscowo. Nie powinien być prany w pralce - może ulec zniszczeniu.
+photo: "/uploads/janpol-kronos-sprezynowy-160x200.png"
+opinion:
+  advantages:
+  - funkcjonalność
+  - trwały
+  - wygląd
+  - wygodny
+  - wytrzymałość
+  - twardy tak jak piszą
+  disadvantages:
+  - praktyczny
+  reviews:
+  - template: review
+    confirmed_purchase: true
+    author: Sebastian
+    content: |-
+      Kupiłem ten sam model po 14 latach użytkowania poprzedniego.
+      Jeśli ktoś lubi zapadać się w materacu - Kronosa odradzam, jeśli zaś preferuje twarde spanie - Kronos będzie idealny. Ściągany pokrowiec nadający się do prania to duża zaleta. Polecam, zwłaszcza za tę cenę.
+    rating: '5'
 
 ---
