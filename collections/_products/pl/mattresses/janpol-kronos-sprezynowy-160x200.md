@@ -55,5 +55,11 @@ opinion:
     author: Robert
     content: Sprawdzony produkt w dobrej cenie. Polecam
     rating: '5'
+  - template: review
+    confirmed_purchase: true
+    author: Dorota
+    content: To mój kolejny materac Kronos.Polecam. Materac wygodny, nie zapadający
+      się, dobrze zdobiony.
+    rating: '5'
 
 ---
