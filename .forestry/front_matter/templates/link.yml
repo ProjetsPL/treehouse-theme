@@ -1,4 +1,27 @@
 ---
 label: Link
 hide_body: true
-fields: []
+fields:
+- name: provider
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Ceneo
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Dostawca
+- name: url
+  type: text
+  config:
+    required: true
+  label: URL
+- name: anchor
+  type: text
+  config:
+    required: true
+  label: Tekst
