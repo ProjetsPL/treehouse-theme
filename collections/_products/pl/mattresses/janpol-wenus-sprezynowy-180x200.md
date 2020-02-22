@@ -48,7 +48,11 @@ description: |-
 
   Aby pokrowce zachowały swoją pierwotną formę, jak najdłużej, wymagają odpowiedniej pielęgnacji. Z tego względu model Silver Protect należy prać w temperaturze maksymalnie 40 stopni, natomiast pokrowiec typu Smart w temperaturze nie większej niż 60°C.
 photo: "/uploads/janpol-wenus.png"
-links: []
+links:
+- template: link
+  provider: Ceneo
+  url: https://www.ceneo.pl/24673165#crid=319286&pid=21269
+  anchor: Kup na Ceneo od 1049,00zł
 properties:
   type: Sprężynowy
   size: 180x200
