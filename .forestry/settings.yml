@@ -46,7 +46,7 @@ sections:
   match: "**/*"
   new_doc_ext: md
   templates:
-  - product
+  - product-mattress
 - type: heading
   label: US
 - type: directory
