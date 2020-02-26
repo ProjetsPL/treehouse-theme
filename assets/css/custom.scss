@@ -34,3 +34,11 @@
         }
     }
 }
+
+.product-listing-boxitem-md {
+  &.arrow-left {
+    .cloud-arrow {
+        transform: translateX(-94%) translateY(-50%) !important;
+    }
+  }
+}

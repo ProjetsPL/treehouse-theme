@@ -1,4 +1,17 @@
-<section class="product-listing-boxitem-md {{decoration}} label-{{label-type}} label-{{label-color}} arrow-{{arrow-position}}">
+{% if include.product.distinction == 'our_choice'%}
+  <section class="product-listing-boxitem-md label label-strong label-danger {% if include.arrow == 'left' %}arrow-left{% endif %}">
+{% elsif include.product.distinction == 'budget'%}
+  <section class="product-listing-boxitem-md label label-strong label-success {% if include.arrow == 'left' %}arrow-left{% endif %}">
+{% elsif include.product.distinction == 'hot'%}
+  <section class="product-listing-boxitem-md label label-main label-danger {% if include.arrow == 'left' %}arrow-left{% endif %}">
+{% elsif include.product.distinction == 'premium'%}
+  <section class="product-listing-boxitem-md label label-main label-warning {% if include.arrow == 'left' %}arrow-left{% endif %}">
+{% else %}
+  <section class="product-listing-boxitem-md ">
+{% endif %}
+
+
+
   <div class="img-section">
     <img  class="img" src="{{include.product.photo}}" alt="Test">
   </div>
@@ -27,7 +40,17 @@
       </footer>
     {% endif %}
   </div>
-  <div class="label-section">Label</div>
+
+  {% if include.product.distinction == 'our_choice'%}
+    <div class="label-section">Nasz wybór</div>
+  {% elsif include.product.distinction == 'budget'%}
+    <div class="label-section">Budżet</div>
+  {% elsif include.product.distinction == 'hot'%}
+    <div class="label-section">🔥 hot</div>
+  {% elsif include.product.distinction == 'premium'%}
+    <div class="label-section">Premium</div>
+  {% endif %}
+
   <svg class="cloud-arrow"xmlns="http://www.w3.org/2000/svg" width="21.586" height="41.396" viewBox="0 0 21.586 41.396">
     <rect width="2" height="37.625" transform="translate(19.396 1.818)" fill="#fff"/>
     <path d="M-283.24-5027.121l-19.474,20,19.474,20" transform="translate(304.11 5027.818)" fill="#fff" stroke="#e7e9e9" stroke-width="2"/>

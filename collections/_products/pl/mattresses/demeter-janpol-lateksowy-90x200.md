@@ -1,6 +1,4 @@
 ---
-promoted: true
-category: mattress
 opinion:
   advantages:
   - elastyczny

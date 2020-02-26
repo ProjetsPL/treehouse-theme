@@ -94,7 +94,7 @@ guide: |-
   Tak naprawdę trudno określić, jakie są najlepsze materace do spania. Istnieje wiele kryteriów, na podstawie których można dokonać wyboru. Jedno jest pewne - należy zwrócić uwagę na właściwości materaca i dopasować je do indywidualnych oczekiwań, bo każdy użytkownik jest inny.
 ---
 
-{% assign products = site.products | where: "promoted", true %}
+{% assign products = site.products %}
 {% assign main_product = products[0] %}
 {% assign second_product = products[-1] %}
 
