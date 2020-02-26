@@ -63,6 +63,6 @@ properties:
     Tencel i Spa&Thermo'
   bilateral: true
   handles: true
-distinction: our_choice
+distinction: 'premium'
 
 ---

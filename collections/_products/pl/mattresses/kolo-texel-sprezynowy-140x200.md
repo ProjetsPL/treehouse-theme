@@ -17,7 +17,7 @@ opinion:
     author: Krystian
     content: Wygodny i solidny materac.
     rating: '5'
-distinction: ''
+distinction: 'budget'
 name: Koło Texel
 description: |-
   Materac Texel firmy Koło jest produktem, który będzie idealnym wyborem dla osób lubiących spać na średnio twardych powierzchniach. Producent oferuje wykonanie modelu o jednej strefie twardości. Można również wybrać wersję z siedmioma strefami twardości, które dopasowują się do sylwetki użytkownika.

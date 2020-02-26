@@ -37,7 +37,7 @@ opinion:
       pomogą , na pierwsze mieszkanko kupiliśmy ten materac - póki co sprawdza się
       :)
     rating: '4'
-distinction: ''
+distinction: 'budget'
 name: Jysk Basik F10
 description: |-
   Model oferowany przez markę Jysk - Basic F10 jest podstawowym, typem materaca piankowego. Został on wykonany z pianki poliuretanowej, dzięki czemu odznacza się średnią twardością. To sprawia, że dostosowuje się do potrzeb większości użytkowników. Ten rodzaj wypełnienia układa się idealnie do kształtu ciała, dzięki czemu zapewnia odpowiednie podparcie dla kręgosłupa.

@@ -33,7 +33,7 @@ opinion:
       sprężynowe do 400 zł nie spełniały oczekiwań. Ten piankowy "daje radę". Jest
       nawet lepiej niż się spodziewałem ;)
     rating: '5'
-distinction: ''
+distinction: 'budget'
 name: Jysk Plus F30
 description: |-
   Materac Jysk Plus F30 z serii Dreamzone posiada wkład z pianki poliuretanowej. Jest to solidny produkt o dość twardej powierzchni. Zapewnia ona dobre podparcie, jednocześnie dopasowując się kształtem do ciała. Wierzchnia warstwa została specjalnie wyprofilowana, tak, aby zapewnić odpowiednią wentylację ciała podczas snu. Jest to dobre rozwiązanie dla użytkowników, które lubią spać na chłodnych powierzchniach.

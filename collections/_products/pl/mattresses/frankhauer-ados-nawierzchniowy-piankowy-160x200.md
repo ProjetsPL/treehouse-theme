@@ -32,7 +32,7 @@ opinion:
     author: Urszula
     content: Super!!!
     rating: '5'
-distinction: ''
+distinction: 'budget'
 name: Frankhauer Ados
 description: |-
   Frankhauer Ados to materac nawierzchniowy stworzony w celu poprawy komfortu użytkowania materaca podstawowego lub wysłania wersalki. Jest materacem średnio twardym. Produkt ten nie zastępuje jednak materaca podstawowego - może stanowić wyłącznie jego dopełnienie - np. w okresie przejściowym, kiedy w planach jest wymiana głównego materaca na nowy.

@@ -26,7 +26,7 @@ description: |-
   Sporą zaletą modelu Ambra firmy FDM jest możliwość dopasowania pokrowca według własnych potrzeb. Podstawowy wzór jest wykonany z poliestru, jednak można dobrać także inne pokrycie - aloesowe lub z nitkami srebra. Wybór konkretnego rodzaju pokrowca wpływa na cenę materaca - im lepsza jakość, tym również wyższa cena. Z uwagi na własne zdrowie warto jednak wybierać te pokrowce, które charakteryzują się lepszymi właściwościami.
 
   Materac oceniany jest jako twardy - H4 w skali twardości. Z tego względu produkt sprawdzi się najlepiej dla użytkowników o cięższej wadze. Lżejsze osoby mogą odbierać go jako zbyt twardy. Te odczucia są jednak indywidualną kwestią uzależnioną od własnych preferencji.
-photo: "/uploads/fdm-ambra-sprezynowy-90x200 .jpg"
+photo: "/uploads/fdm-ambra-sprezynowy-90x200.jpg"
 links:
 - template: link
   provider: Ceneo
@@ -42,5 +42,6 @@ properties:
   case: do wyboru
   bilateral: false
   handles: false
+distinction: 'premium'
 
 ---

@@ -63,4 +63,5 @@ properties:
   case: Antyalergiczny, Velvet
   bilateral: true
   handles: true
+distinction: 'our_choice'
 ---

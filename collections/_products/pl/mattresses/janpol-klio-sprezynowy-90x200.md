@@ -56,6 +56,6 @@ properties:
   case: Gray i Gandalf - pokrowiec zamienny
   bilateral: true
   handles: false
-distinction: hot
+distinction: 'budget'
 
 ---

@@ -34,7 +34,7 @@ opinion:
     content: Materac spelnil swoja role, mialem za twardy materac, teraz jest jak
       trzeba,
     rating: '5'
-distinction: ''
+distinction: 'premium'
 name: Hilding Select Top
 description: |-
   Materac Select Top marki Hilding to wysokiej jakości nakładka na materac główny lub na wersalkę. Produkt wykonano z dwóch rodzajów materiału - pianki wysokoelastycznej oraz termoelastycznej. Takie połączenie zapewnia wygodę użytkowania oraz wyjątkową trwałość materaca. Dzięki piance elastycznej jest on odpowiednio sprężysty, natomiast pianka pamięci idealnie dopasowuje się do kształtu ciała. To sprawia, że sylwetka jest odpowiednio ułożona, niezależnie od pozycji podczas snu.

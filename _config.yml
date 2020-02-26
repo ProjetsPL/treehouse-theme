@@ -102,10 +102,15 @@ defaults:
       categories: "pl"
   -
     scope:
-      path: "_products_mattresses/pl"
+      path: "_products/pl"
     values:
       lang: "pl"
       full-lang: "pl"
+  -
+    scope:
+      path: "pl/recenzje"
+    values:
+      type: "ranking"
 
 disqus-identifier: treehouse-co
 

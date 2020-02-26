@@ -27,7 +27,7 @@ description: |-
   Podstawowy pokrowiec to mieszanka polipropylenu i poliestru w systemie lato-zima. Poszycie jest pikowane z jednej strony wełną, a z drugiej bawełną. Dzięki temu w zimie można wybrać cieplejszą stronę materaca, a w lecie - chłodniejszą. Dostępne są również inne pokrycia do wyboru, w tym te wykonane z materiałów naturalnych, takich jak bambus. Materac jest wyjątkowo cichy, co przyczynia się do komfortu użytkowania.
 
   Producent oferuje standardową gwarancję na dwa lata. Materac Palmea przypadnie do gustu przede wszystkim osobom, które lubią spać na twardej powierzchni. Jest to dobry wybór, jeżeli poszukiwany jest materac do 1000 złotych.
-photo: "/uploads/kolo-palmea-sprężynowy-140x200.jpg"
+photo: "/uploads/kolo-palmea-sprezynowy-140x200.jpg"
 links:
 - template: link
   provider: Ceneo

@@ -40,7 +40,7 @@ opinion:
     author: Małgorzata
     content: Polecam, towar zgodny z opisem
     rating: '5'
-distinction: ''
+distinction: 'our_choice'
 name: Sleep o’clock Slim
 description: |-
   Model Slim marki Sleep o’clock to średnio twardy, lateksowy materac nawierzchniowy. Do jego produkcji wykorzystana została mata kokosowa, którą pokryto warstwą pianki lateksowej. Producent sugeruje podczas użytkowania materaca Slim, aby mata kokosowa znajdowała się na jego spodzie. Jednak można z powodzeniem użytkować go dwustronnie.

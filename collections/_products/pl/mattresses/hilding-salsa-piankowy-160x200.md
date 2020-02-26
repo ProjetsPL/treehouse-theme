@@ -60,7 +60,7 @@ links:
   anchor: Kup od 1519,00zł
   provider: Ceneo
 properties:
-  type: Piankowy
+  type: piankowy
   size: 160x200
   brand: Hilding
   hardness: Średni
@@ -69,6 +69,6 @@ properties:
   case: Antyalergiczny Tencel lub Velvet
   bilateral: true
   handles: true
-distinction: budget
+distinction: 'our_choice'
 
 ---

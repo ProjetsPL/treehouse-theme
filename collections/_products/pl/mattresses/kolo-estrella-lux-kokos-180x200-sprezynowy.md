@@ -60,6 +60,6 @@ properties:
   case: Aloe Vera
   bilateral: false
   handles: false
-distinction: premium
+distinction: 'our_choice'
 
 ---
