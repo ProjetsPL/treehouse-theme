@@ -33,7 +33,7 @@ opinion:
     author: Paweł
     content: Bardzo wygodny jeżeli lubi się twarde podłoże. Polecam rozsądna cena!
     rating: '5'
-name: Ikea Morgedal piankowy 160x200
+name: Ikea Morgedal
 description: |-
   Materac Morgedal został wyprodukowany z pianki o wysokiej sprężystości, dzięki czemu doskonale dopasowuje się do ciała podczas jego użytkowania. W materacu zaprojektowano również strefy komfortu znajdujące się w okolicy ramion i bioder. Ich zadaniem jest odciążenie mięśni, co czyni wypoczynek bardziej komfortowym - nawet po bardzo wyczerpującym dniu.
 

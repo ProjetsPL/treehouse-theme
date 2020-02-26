@@ -37,7 +37,7 @@ opinion:
     content: Z materaca jestem bardzo zadowolony po kilku dniach użytkowania tym bardziej,
       że skorzystaliśmy z dużej promocji.
     rating: '5'
-name: Jysk Gold F95 Dreamzone piankowy 80x200
+name: Jysk Gold F95 Dreamzone
 description: |-
   Materac Gold F95 Dreamzone to model wyprodukowany z dwóch rodzajów pianek. Pianka poliuretanowa o wysokości 16 cm stanowi rdzeń materaca, zapewniając jego odpowiednią elastyczność, a co za tym idzie wysoki komfort użytkowania. Cieńsza warstwa pianki termoelastycznej znajduje się natomiast od strony zewnętrznej materaca. Jej zadaniem jest regularne redukowanie napięcia. Ponadto dzięki połączeniu obydwu pianek w jedną spójną konstrukcję, materac idealnie dopasowuje się do kształtu sylwetki osoby wypoczywającej.
 

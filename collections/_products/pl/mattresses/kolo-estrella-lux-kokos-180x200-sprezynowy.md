@@ -34,7 +34,7 @@ opinion:
     author: dominikbatko
     content: Rewelacja! to odpowiednie słowo. W końcu wiem co to dobry sen.
     rating: '5'
-name: Koło Estrella lux Kokos 180x200 sprężynowy
+name: Koło Estrella lux Kokos
 description: |-
   Koło Estrella Lux Kokos to model należący do grupy materacy sprężynowych. Do jego produkcji wykorzystano woreczkowe, jednopolowe sprężyny kieszeniowe wykonane z solidnego, dobrego gatunkowo drutu. Na jeden metr kwadratowy materaca przypada aż 270 niezależnie działających sprężyn. Dzięki temu produkt niemal idealnie dostosowuje się do kształtu sylwetki, rozkładając równomiernie nacisk ciała, a przede wszystkim zachowując naturalne ułożenie kręgosłupa.
 
@@ -48,7 +48,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/16909408#crid=319310&pid=21269
-  anchor: Kup na Ceneo od 1988,00zł
+  anchor: Kup od 1988,00zł
 properties:
   type: sprężynowy
   size: 180x200

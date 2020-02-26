@@ -3,151 +3,160 @@
 
 {% include head.html %}
 
-<link href="{{ site.baseurl }}/assets/css/pages/article.css?v=2" rel="stylesheet">
+<link href="{{ site.baseurl }}/assets/css/pages/review.css?v=2" rel="stylesheet">
 
 <body>
 
   {% include header.html %}
 
-  <main class="page page-article">
-    <div class="beams-wrapper global-beam-wrapper breadcrumbs">
-      <div class="beam b-size-4">
-        <div class="beam-item b-size-4 breadcrumbs-content">
-          <svg id="Signature_-_gray" data-name="Signature - gray" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
-            <g id="Group_42" data-name="Group 42" transform="translate(-172.5 -172.5)" opacity="0.19">
-              <path id="Path_129" data-name="Path 129" d="M214.082,188.5v8.909a1.018,1.018,0,0,1-1.018,1.018H209.5v-8.176Z" transform="translate(-27.582 -11.927)" fill="#233030"/>
-              <path id="Path_130" data-name="Path 130" d="M177.845,178.1v1.782l2.291-.876V186.5h-6.618a1.018,1.018,0,0,1-1.018-1.018V173.518a1.018,1.018,0,0,1,1.018-1.018h11.964a1.018,1.018,0,0,1,1.018,1.018v1.273Z" fill="#233030"/>
-            </g>
-          </svg>
-          <ul>
-            <li><a href="/{{page.lang}}/">{{site.i18n[page.lang].home_page}}</a></li>
-            <li><a href="/pl/{{site.i18n[page.lang].ranking_page_slug}}.html">{{site.i18n[page.lang].ranking_page}}</a></li>
-            <li><a href="">{{ page.title }}</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <div class="beams-wrapper  global-beam-wrapper article-content">
-      <article class="beam b-size-5">
-        <div class="beam-item b-size-3 article-text">
-          <header class="article-header">
-            <div class="detail-box">
-              <span>{{ site.i18n[page.lang].updated }}: <time datetime="{{ page.update_date | date_to_xmlschema }}">{{page.update_date | date: '%d-%m-%Y'}}</time></span>
-              <span class="article-label article-label-garden">{{ site.i18n[page.lang].ranking }}</span>
-            </div>
-            <h1>{{ page.title }}</h1>
-
-            {{ page.intro | markdownify }}
-
-            <figure>
-              {% if page.image %}
-              <img src='{{site.baseurl}}{{page.image}}' alt='{{ page.title | escape }}'></img>
-              {% endif %}
-            </figure>
-          </header>
-
-          {{ content | inject_anchors }}
-
-          <footer class="article-footer">
-            <section class="article-author">
-              <div class="profile-photo">
-                <img class="img" src="/assets/img/authors/dorota_czerwinska.png" alt="Dorota Czerwińska - Treehouse">
+  <main class=" page page-review">
+      <div class="beams-wrapper global-beam-wrapper breadcrumbs">
+          <div class="beam b-size-4">
+              <div class="beam-item b-size-4 breadcrumbs-content">
+                  <svg id="Signature_-_gray" data-name="Signature - gray" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+                      <g id="Group_42" data-name="Group 42" transform="translate(-172.5 -172.5)" opacity="0.19">
+                          <path id="Path_129" data-name="Path 129" d="M214.082,188.5v8.909a1.018,1.018,0,0,1-1.018,1.018H209.5v-8.176Z" transform="translate(-27.582 -11.927)" fill="#233030"/>
+                          <path id="Path_130" data-name="Path 130" d="M177.845,178.1v1.782l2.291-.876V186.5h-6.618a1.018,1.018,0,0,1-1.018-1.018V173.518a1.018,1.018,0,0,1,1.018-1.018h11.964a1.018,1.018,0,0,1,1.018,1.018v1.273Z" fill="#233030"/>
+                      </g>
+                  </svg>
+                  <ul>
+                      <li><a href="">Strona główna</a></li>
+                      <li><a href="">Artykuły</a></li>
+                      <li><a href="">Układanie kostki brukowej - cena i jakość. Ile to kosztuje?</a></li>
+                  </ul>
               </div>
-              <div class="profile-details">
-                <span class="name">Dorota Czerwinska</span>
-                <span class="position">{{site.i18n[page.lang].autor_label}}</span>
-                <p>{{site.i18n[page.lang].author_description}}</p>
-                <a href="mailto:dorota@treehouse.co" class="more">{{site.i18n[page.lang].contact_label}}: dorota@treehouse.co</a>
-              </div>
-            </section>
-
-
-            {% assign articles = site.posts | where: "lang", page.lang %}
-
-            {% for i in (0..articles.size) %}
-              {% if articles[i] != page %}
-               {% continue %}
-              {% endif %}
-
-              {% assign prev_index = i | minus: 1 %}
-              {% assign prev_article = articles[prev_index] %}
-
-              {% assign last_index = articles.size | minus: 1 %}
-
-              {% if i == last_index %}
-                {% assign next_index = 0 %}
-              {% else %}
-                {% assign next_index = i | plus: 1 %}
-              {% endif %}
-
-              {% assign next_article = articles[next_index] %}
-
-              {% break %}
-            {% endfor %}
-
-
-            <div class="other-articles">
-              {% if prev_article.url and prev_article.lang == page.lang %}
-                <a href="{{ prev_article.url | prepend: site.baseurl }}" class="previous">
-                  <span class="label">{{site.i18n[page.lang].previous_article}}:</span>
-                  <span class="title">{{prev_article.title}}</span>
-                  <img class="arrow" src="/assets/img/more-arrow-md.svg" alt="Przeczytaj więcej">
-                </a>
-              {% endif %}
-
-              {% if next_article.url and next_article.lang == page.lang %}
-                <a href="{{ next_article.url | prepend: site.baseurl }}" class="next">
-                  <span class="label">{{site.i18n[page.lang].next_article}}:</span>
-                  <span class="title">{{next_article.title}}</span>
-                  <img class="arrow" src="/assets/img/more-arrow-md.svg" alt="Przeczytaj więcej">
-                </a>
-              {% endif %}
-            </div>
-          </footer>
-        </div>
-
-        <div class="beam-item b-size-2 article-sidebar" id="some-stickybit-parent">
-          <nav class="table-of-content sticky-element" id="some-stickybit-nav">
-            <span class="title">{{ site.i18n[page.lang].toc }}</span>
-            {{ content | toc_only }}
-
-          </nav>
-        </div>
-      </article>
-
-      <section class="beam  b-size-4 featured-articles">
-        <div class="beam-item b-size-4">
-            <h2 class="h-section">{{site.i18n[page.lang].promoted_articles}}</h2>
-        </div>
-
-        {% assign promoted_articles = site.posts | where:"lang", page.lang | where:"promoted", true %}
-
-        {% for article in promoted_articles limit: 4 %}
-          <div class="beam-item b-size-1">
-            {% include parts/article-box-sm.html article=article %}
           </div>
-        {% endfor %}
-      </section>
+      </div>
+      <div class="beams-wrapper  global-beam-wrapper review-content">
+          <article class="beam b-size-5">
+              <header class="beam-item b-size-5 review-header">
+                  <div class="header-box">
+                      <div class="article-rank-label-lg">
+                          <img src="/assets/img/rank-star.svg" alt="Rank">
+                          <span>Ranking</span>
+                      </div>
+                      <div class="title-box">
+                          <div class="detail-box">
+                              <span>Data aktualizacji: <time datetime="2008-02-14 20:00">2008-02-14 20:00</time></span>
+                              <span class="article-label article-label-garden">Ogród</span>
+                          </div>
+                          <h1 class="title">{{ page.h1 }}</h1>
+                      </div>
+                  </div>
+                  <!-- <p>{{ page.intro }}</p> -->
+              </header>
 
-      <section class="beam b-size-4 featured-articles">
-        <div class="beam-item b-size-4">
-          <h2 class="h-section">{{site.i18n[page.lang].maybe_interesting}}</h2>
-        </div>
+              {% assign products = site.products | where:"properties.type", "piankowy" %}
+              {% assign main_product = products[0] %}
 
-        <!-- <div class="beam-item b-size-4"> -->
-          {% assign random_rankings = site.pages | where: 'lang', 'pl' | where: 'layout', 'ranking' | sample: 6 %}
+              <div class="beam b-size-5  review-section">
+                  <div class="beam-item b-size-3 review-text">
+                      <figure>
+                          <img src="{{ page.image }}" alt="Test">
+                          <figcaption>{{ page.h1 }}</figcaption>
+                      </figure>
+                      {{ page.intro | markdownify }}
+                  </div>
+                  <div class="beam-item b-size-2 beam-rail  review-sidebar">
+                      <div class="beam-rail-item r-height-100">
+                          <div class="sticky-element">
+                            {% include parts/product-listing-boxitem-md.html product=main_product %}
+                          </div>
+                      </div>
+                  </div>
+              </div>
 
-          {% for ranking in random_rankings %}
-            {% assign main_keywords = ranking.main_keywords | sample: 1 %}
 
-            {% if main_keywords %}
-              <a href="{{ ranking.url | prepend: site.baseurl }}" class="btn btn-sm btn-link">{{ main_keywords }}</a>
-            {% endif %}
-          {% endfor %}
-        <!-- </div> -->
-      </section>
-    </div>
+              <div class="beam b-size-5  review-section">
+                  <div class="beam-item b-size-5  review-text">
+                      <h2>Wszystkie materace które polecamy</h2>
+                      <div class="flex-wrapper  nowrap">
+                          <div class="flex-container">
+                            {% for product in products %}
+                              <div class="flex-item" >
+                                {% include parts/product-listing-boxitem-md.html product=product %}
+                              </div>
+                            {% endfor %}
+                          </div>
+                      </div>
+                  </div>
+              </div>
+
+              {% for product in products %}
+                {% include parts/product-section.html product=product %}
+              {% endfor %}
+
+
+              <div class="beam b-size-5  review-section">
+                <div class="beam-item b-size-3 review-text">
+                  <h2>Poradnik</h2>
+                  <nav class="table-of-content">
+                      <span class="title">Spis treść</span>
+                      {{ content | toc_only }}
+                  </nav>
+
+                  {{ content | inject_anchors }}
+                </div>
+
+
+                <div class="beam-item b-size-2 beam-rail  review-sidebar">
+                    <div class="beam-rail-item r-height-100">
+                        <div class="sticky-element">
+                            {% include parts/product-listing-boxitem-md.html product=main_product%}
+                        </div>
+                    </div>
+                </div>
+              </div>
+              <div class="beam">
+                  <div class="beam-item">
+                      <footer class="review-footer">
+                          <section class="publication-author">
+                              <div class="profile-photo">
+                                  <img class="img" src="/assets/img/profil.png" alt="">
+                              </div>
+                              <div class="profile-details">
+                                  <span class="name">Bartłomiej Matlęga</span>
+                                  <span class="position">Specjalista ds. składania mebli</span>
+                                  <p>Bartłomiej  posiada 8-letnie doświadczenie w branży meblarskiej, a obecnie pracuje jako Główny Strateg do spraw kompletacji mebli w obszarze PALETA.</p>
+                                  <a href="" class="more">Przeczytaj więcej <img src="/assets/img/more-arrow.svg"  alt="Przeczytaj więcej"></a>
+                              </div>
+                          </section>
+                          <div class="other-publications">
+                              <a href="" class="previous">
+                                  <span class="label">Poprzedni ranking:</span>
+                                  <span class="title">Sufit napinany - czym dokładnie wyróżniają się sufity napinane?</span>
+                                  <img class="arrow" src="/assets/img/more-arrow-md.svg"  alt="Przeczytaj więcej">
+                              </a>
+                              <a href="" class="next">
+                                  <span class="label">Następny ranking:</span>
+                                  <span class="title">Podkład pod panele - jaki podkład pod panele będzie najlepszy?</span>
+                                  <img class="arrow" src="/assets/img/more-arrow-md.svg"  alt="Przeczytaj więcej">
+                              </a>
+                          </div>
+                      </footer>
+                  </div>
+              </div>
+          </article>
+          <section class="beam  b-size-4 featured-reviews">
+              <div class="beam-item b-size-4">
+                  <h2 class="h-section">Polecane recenzje</h2>
+              </div>
+              <div class="beam-item b-size-1">
+                  {% include parts/reviews-listing-boxitem-sm.html articleTitle="Układanie kostki brukowej - cena i jakość. Ile to kosztuje? " articleImg="articles-listing-item-1.png" labelGroup="garden" labelName="Ogród" %}
+              </div>
+              <div class="beam-item b-size-1">
+                  {% include parts/reviews-listing-boxitem-sm.html articleTitle="Sufit napinany - czym dokładnie wyróżniają się sufity napinane?" articleImg="articles-listing-item-2.png" labelGroup="interior" labelName="Wnętrze" %}
+              </div>
+              <div class="beam-item b-size-1">
+                  {% include parts/reviews-listing-boxitem-sm.html articleTitle="Podkład pod panele - jaki podkład pod panele będzie najlepszy?" articleImg="articles-listing-item-3.png" labelGroup="garden" labelName="Ogród" %}
+              </div>
+              <div class="beam-item b-size-1">
+                  {% include parts/reviews-listing-boxitem-sm.html articleTitle="Płytki na schody zewnętrzne - to nie taki prosty wybór" articleImg="articles-listing-item-4.png" labelGroup="construction" labelName="Budowa" %}
+              </div>
+          </section>
+      </div>
   </main>
+
 
   {% include footer.html %}
 

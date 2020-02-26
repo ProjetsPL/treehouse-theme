@@ -3,7 +3,7 @@ opinion:
   advantages: []
   disadvantages: []
   reviews: []
-name: Koło Ameland piankowy 180x200
+name: Koło Ameland
 description: |-
   Materac firmy Koło - Ameland został wyprodukowany dzięki zestawieniu dwóch rodzajów pianek. Jego główną część stanowi wysokoelastyczna, pięciopolowa pianka Kaltschaum. Na powierzchni pianki znajdują się symetryczne wcięcia, które zapewniają prawidłową wentylację wewnątrz materaca. Zewnętrzna warstwa to pianka termoelastyczna. Jest to rodzaj tworzywa, które pod wpływem temperatury zmienia poziom swojej twardości. Takie właściwości gwarantują użytkownikowi komfortowy wypoczynek przez całą noc bez obawy o zmęczenie.
 
@@ -17,7 +17,7 @@ links:
 - template: link
   url: https://www.ceneo.pl/56220814#crid=319302&pid=21269
   provider: Ceneo
-  anchor: Kup na Ceneo od 2511,00zł
+  anchor: Kup od 2511,00zł
 properties:
   type: piankowy
   size: 180x200

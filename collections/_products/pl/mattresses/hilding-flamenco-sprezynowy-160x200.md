@@ -46,7 +46,7 @@ opinion:
       tego nie czuje. To pewnie przez te sprężyny kieszeniowe ale nam bardzo pomogło.
       Polecam
     rating: '4'
-name: Hilding Flamenco sprężynowy 160x200
+name: Hilding Flamenco
 description: |-
   Hilding Flamenco to model materaca sprężynowego, którego konstrukcja została oparta na innowacyjnych sprężynach multipocket. Charakteryzują się one znacznie mniejszą średnicą w odróżnieniu od sprężyn kieszeniowych. Dzięki temu możliwe jest umieszczenie większej ilości sprężyn na tej samej powierzchni materaca. Sprężyny wykonują pracę indywidualną, dzięki czemu zapewniają odpowiednie podparcie sylwetki przez całą noc. Zróżnicowana twardość tych elementów pozwala na utworzenie siedmiu stref podparcia ciała, zapewniając komfortowy wypoczynek.
 
@@ -59,7 +59,7 @@ photo: "/uploads/hilding-flamenco-sprezynowy-160x200.jpg"
 links:
 - template: link
   url: https://www.ceneo.pl/43986785#crid=319291&pid=21269
-  anchor: Kup na Ceneo od 1607,20zł
+  anchor: Kup od 1607,20zł
   provider: Ceneo
 properties:
   type: sprężynowy

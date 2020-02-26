@@ -3,7 +3,7 @@ layout: index
 title:  Zainspiruj się i stwórz z nami swój wymarzony dom! - Treehouse
 description: TreeHouse to miejsce, w którym znajdziesz wskazówki dotyczące domu i ogrodu. Zainspiruj się się pomysłami i znajdź produkty odpowiadające Twoim oczekiwaniom.
 ---
-<main class=" page page-index">
+<main class="page page-index">
     <div class="beams-wrapper global-beam-wrapper index-title">
         <div class="beam b-size-4">
             <div class="beam-item b-size-4 index-title-content">
@@ -31,11 +31,11 @@ description: TreeHouse to miejsce, w którym znajdziesz wskazówki dotyczące do
                     {% for article in articles limit: 7 %}
                       {% if i == 2 or i == 9 %}
                         <div class="beam-item b-size-2">
-                          {% include parts/article-box-lg.html article=article %}
+                          {% include parts/articles-listing-boxitem-lg.html article=article %}
                         </div>
                       {% else %}
                       <div class="beam-item b-size-1">
-                        {% include parts/article-box-sm.html article=article %}
+                        {% include parts/articles-listing-boxitem-sm.html article=article %}
                       </div>
                       {% endif %}
 
@@ -59,11 +59,11 @@ description: TreeHouse to miejsce, w którym znajdziesz wskazówki dotyczące do
                     {% for ranking in rankings limit:7%}
                       {% if i == 0 or i == 9 %}
                         <div class="beam-item b-size-2">
-                          {% include parts/ranking-box-lg.html ranking=ranking %}
+                          {% include parts/reviews-listing-boxitem-lg.html ranking=ranking %}
                         </div>
                       {% else %}
                       <div class="beam-item b-size-1">
-                        {% include parts/ranking-box-sm.html ranking=ranking %}
+                        {% include parts/reviews-listing-boxitem-sm.html ranking=ranking %}
                       </div>
                       {% endif %}
 

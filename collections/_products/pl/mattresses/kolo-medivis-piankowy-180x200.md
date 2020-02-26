@@ -26,7 +26,7 @@ opinion:
     content: Bardzo komfortowy materac, zawsze wybierałam twardsze wersje, teraz kupiłam
       H2 i jestem bardzo zadowolona, pokrowiec silver active. Polecam
     rating: '5'
-name: Koło Medivis piankowy 180x200
+name: Koło Medivis
 description: "Materac piankowy Medivis posiada wypełnienie z dwóch rodzajów pianek.
   Jest to: pianka elastyczna oraz pianka termoelastyczna, która reaguje na temperaturę,
   dzięki czemu świetnie dopasowuje się do kształtu ciała. Dzięki elastycznej i twardej
@@ -51,7 +51,7 @@ links:
 - template: link
   url: https://www.ceneo.pl/14398582#crid=319305&pid=21269
   provider: Ceneo
-  anchor: Koło Medivis piankowy 180x200
+  anchor: Kup od 3644,00zł
 properties:
   type: piankowy
   size: 180x200

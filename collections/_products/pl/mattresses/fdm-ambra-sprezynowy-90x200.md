@@ -15,7 +15,7 @@ opinion:
     author: maja_90
     content: Super materace od supersprzedawcy, wysyłka ekspresowa :)
     rating: '5'
-name: FDM Ambra sprężynowy 90x200
+name: FDM Ambra
 description: |-
   Materac Ambra firmy FDM jest modelem sprężynowym. Ze względu na swoją niewielką szerokość jest on produktem przeznaczonym dla jednej osoby. Producent zastosował wiele materiałów w celu zapewnienia wyjątkowego komfortu użytkowania. Innowacją są w tym przypadku sprężyny określane jako micropocket - mają tylko nieco ponad 2 cm szerokości. Dzięki temu wewnątrz materaca znajduje się ponad 1000 punktów podparcia, co zdarza się bardzo rzadko.
 
@@ -31,7 +31,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/87302004#crid=319308&pid=21269
-  anchor: Kup na Ceneo od 2499,00zł
+  anchor: Kup od 2499,00zł
 properties:
   type: sprężynowy
   size: 90x200

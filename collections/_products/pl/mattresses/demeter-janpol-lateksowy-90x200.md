@@ -1,4 +1,6 @@
 ---
+promoted: true
+category: mattress
 opinion:
   advantages:
   - elastyczny
@@ -30,7 +32,7 @@ opinion:
       A co więcej można powiedzieć po tygodniu użytkowania?
       Na razie jest ok. Zobaczymy jak sprawdzi się na dłuższą metę.
     rating: '4'
-name: Demeter Janpol lateksowy 90x200
+name: Demeter Janpol
 description: |-
   Model Demeter firmy Janpol to materac lateksowy, średnio twardy. Do jego wyprodukowania wykorzystano piankę lateksową o wysokiej gęstości, która wpływa na wyjątkową elastyczność. Właściwość ta sprawia, że produkt potrafi doskonale dopasować się do ciała wypoczywającego. Ponadto każda strona materaca posiada 7 zróżnicowanych stref twardości, stanowiących podparcie dla zmęczonych, czy obolałych mięśni.
 
@@ -44,7 +46,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/22385202#crid=319297&pid=21269
-  anchor: Kup na Ceneo od 1329,00zł
+  anchor: Kup od 1329,00zł
 properties:
   type: lateksowy
   size: 90x200

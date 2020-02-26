@@ -28,7 +28,7 @@ collections_dir: collections
 collections:
   posts:
     output: false
-  products_mattresses:
+  products:
     output: false
 
 # Author Settings
@@ -132,6 +132,19 @@ i18n:
     ranking: "Ranking"
     ranking_page_slug: "recenzje"
     ranking_page: "Recenzje"
+    boolean:
+      true: Tak
+      false: Nie
+    properties:
+      type: Rodzaj
+      size: Rozmiar
+      brand: Marka
+      hardness: Twardość
+      height: Wysokośćć
+      inset: Wkład
+      case: Pokrowiec
+      bilateral: Dwustronny
+      handles: Uchwyty do podnoszenia
 
   us:
     read_more: "Read more"

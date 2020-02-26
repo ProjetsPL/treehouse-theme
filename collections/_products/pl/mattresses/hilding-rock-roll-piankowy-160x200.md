@@ -48,7 +48,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/43972536#crid=319289&pid=21269
-  anchor: Kup na Ceneo od 1359,00zł
+  anchor: Kup od 1359,00zł
 properties:
   type: piankowy
   size: 160x200

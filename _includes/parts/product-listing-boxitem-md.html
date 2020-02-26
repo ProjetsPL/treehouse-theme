@@ -1,0 +1,35 @@
+<section class="product-listing-boxitem-md {{decoration}} label-{{label-type}} label-{{label-color}} arrow-{{arrow-position}}">
+  <div class="img-section">
+    <img  class="img" src="{{include.product.photo}}" alt="Test">
+  </div>
+  <div class="desc-section">
+    <header class="header">
+      <a href="{{ include.product.links[0]['url'] }}" class="title cta">{{include.product.name}}</a>
+      <p class="subtitle">{{include.product.properties.type}} {{include.product.properties.size}}</p>
+    </header>
+    <div class="content">
+      <p>{{ include.product.description | truncate: 120 }}</p>
+    </div>
+    {% if include.product.links.size > 0 %}
+      <footer class="footer">
+        <span class="title">Opcje zakupu:</span>
+        <div class="buttons">
+
+          {% for link in include.product.links %}
+          <div class="btn-group">
+            <a href="{{ link['url'] }}" class="btn btn-sm btn-cta">{{ link['anchor'] }}</a>
+            <!-- <span class="info info-success">Oszczędzasz 15%</span> -->
+          </div>
+          {% endfor %}
+          <!-- <a class="btn btn-sm  btn-cta">od 799zł na Amazon</a>
+          <a href="" class="cta">od 699 zł na Allegro</a> -->
+        </div>
+      </footer>
+    {% endif %}
+  </div>
+  <div class="label-section">Label</div>
+  <svg class="cloud-arrow"xmlns="http://www.w3.org/2000/svg" width="21.586" height="41.396" viewBox="0 0 21.586 41.396">
+    <rect width="2" height="37.625" transform="translate(19.396 1.818)" fill="#fff"/>
+    <path d="M-283.24-5027.121l-19.474,20,19.474,20" transform="translate(304.11 5027.818)" fill="#fff" stroke="#e7e9e9" stroke-width="2"/>
+  </svg>
+</section>

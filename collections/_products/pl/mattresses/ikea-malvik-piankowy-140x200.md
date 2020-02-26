@@ -33,7 +33,7 @@ opinion:
     content: według moich kryteriów to materac średni, a nie twardy. ale jest bardzo
       wygodny!
     rating: '5'
-name: Ikea Malvik piankowy 140x200
+name: Ikea Malvik
 description: "Materac Malvik został zaprojektowany z pianki o wysokiej elastyczności,
   dzięki temu reaguje na ruchy ciała, dostosowując się do aktualnego położenia użytkownika.
   Kilkunastocentymetrowa warstwa pianki jest wystarczająca, aby zapewnić komfort i

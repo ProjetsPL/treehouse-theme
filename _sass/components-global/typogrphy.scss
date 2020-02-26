@@ -3,6 +3,12 @@ a {
     &:hover {
         color: lighten( $main, 5%);
     }
+    &.cta {
+        color: $danger;
+        &:hover {
+            color: lighten( $danger, 5%);
+        }
+    }
 }
 
 h1,
@@ -103,7 +109,7 @@ p {
     font-size: 15px;
     font-weight: 400;
     line-height: 26px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     margin-top: 20px;
 }
 

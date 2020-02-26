@@ -38,7 +38,7 @@ opinion:
     author: Emilia
     content: Produkt godny polecenia
     rating: '5'
-name: Hilding Cha cha sprężynowy 160x200
+name: Hilding Cha Cha
 description: |-
   Do produkcji materaca Cha Cha Hilding zostały wykorzystane sprężyny kieszeniowe. Zastosowanie tego typu rozwiązania zapewnia wysoką elastyczność materaca w każdym jego punkcie. Jest to spowodowane indywidualną reakcją sprężyn na ciężar ciała. Dzięki temu model Cha Cha jest idealnym materacem nie tylko dla indywidualnego użytkownika, ale również dla par. Można na nim wypoczywać bez obaw o brak wygody, któregokolwiek z partnerów.
 
@@ -52,7 +52,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/50747156#crid=319307&pid=21269
-  anchor: Kup na Ceneo od 1167,00zł
+  anchor: Kup od 1167,00zł
 properties:
   type: sprężynowy
   size: 160x200
@@ -63,5 +63,4 @@ properties:
   case: Antyalergiczny, Velvet
   bilateral: true
   handles: true
-
 ---

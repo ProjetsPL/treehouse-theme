@@ -4,7 +4,7 @@ title: Blog Treehouse - Stwórz z nami swój wymarzony dom!
 description: TreeHouse to miejsce, w którym znajdziesz wskazówki dotyczące domu i ogrodu. Zainspiruj się się pomysłami i znajdź produkty odpowiadające Twoim oczekiwaniom.
 ---
 
-<main class=" page page-articles-list">
+<main class="page page-articles-list">
     <div class="beams-wrapper global-beam-wrapper breadcrumbs">
         <div class="beam b-size-4">
             <div class="beam-item b-size-4 breadcrumbs-content">
@@ -36,11 +36,11 @@ description: TreeHouse to miejsce, w którym znajdziesz wskazówki dotyczące do
                     {% for article in articles %}
                       {% if i == 0 or i == 1 %}
                         <div class="beam-item b-size-3">
-                          {% include parts/article-box-md.html article=article %}
+                          {% include parts/articles-listing-boxitem-md.html article=article %}
                         </div>
                       {% else %}
                       <div class="beam-item b-size-2">
-                        {% include parts/article-box-sm.html article=article %}
+                        {% include parts/articles-listing-boxitem-sm.html article=article %}
                       </div>
                       {% endif %}
 
@@ -60,7 +60,7 @@ description: TreeHouse to miejsce, w którym znajdziesz wskazówki dotyczące do
                 </section>
             </div>
             <div class="beam-item b-size-1 articles-list-sidebar">
-                 <section class="beam recommended-articles">
+                 <section class="beam recommended-reviews">
                     <div class="beam-item">
                         <h2 class="h-section">Polecane recenzje</h2>
                     </div>
@@ -69,7 +69,7 @@ description: TreeHouse to miejsce, w którym znajdziesz wskazówki dotyczące do
 
                     {% for ranking in rankings limit: 5 %}
                       <div class="beam-item">
-                        {% include parts/ranking-list-sm.html ranking=ranking %}
+                        {% include parts/reviews-listing-listitem-sm.html ranking=ranking %}
                       </div>
                     {% endfor %}
                 </section>

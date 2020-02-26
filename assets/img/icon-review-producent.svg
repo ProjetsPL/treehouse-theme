@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41.207" height="41.207" viewBox="0 0 41.207 41.207">
+  <g id="Component_58_2" data-name="Component 58 – 2" transform="translate(0.707 0.5)">
+    <path id="Path_226" data-name="Path 226" d="M155,474H140l-20,20,20,20,20-20V479A5,5,0,0,0,155,474Z" transform="translate(-120 -474)" fill="#fff" stroke="#cbcece" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="2.5" cy="2.5" r="2.5" transform="translate(30 5)" fill="#fff" stroke="#cbcece" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_120" data-name="Line 120" y1="10" x2="10" transform="translate(12 12)" fill="#fff" stroke="#cbcece" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_121" data-name="Line 121" y1="12" x2="12" transform="translate(18 16)" fill="none" stroke="#cbcece" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="4 2"/>
+    <line id="Line_122" data-name="Line 122" y1="8" x2="8" transform="translate(15 17)" fill="#fff" stroke="#cbcece" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>

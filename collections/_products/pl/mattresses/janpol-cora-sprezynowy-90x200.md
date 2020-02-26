@@ -46,7 +46,7 @@ opinion:
 
 '
     rating: '5'
-name: Janpol Cora sprężynowy 90x200
+name: Janpol Cora
 description: |-
   Do produkcji materaca Cora Janpol producent wykorzystał sprężyny kieszeniowe oraz mieszankę dwóch pianek - poliuretanowej i filcowej. Takie rozwiązanie zapewnia nie tylko odpowiednią sprężystość materaca, ale również jego miękkość i elastyczność. Zestawienie tych surowców z wytrzymałym, lateksem jest gwarancją komfortowego wypoczynku przez cały okres użytkowania materaca.
 
@@ -59,7 +59,7 @@ photo: "/uploads/janpol-cora-sprezynowy-90x200.png"
 links:
 - template: link
   url: https://www.ceneo.pl/82244300#crid=319294&pid=21269
-  anchor: Kup na Ceneo od 1029,00zł
+  anchor: Kup od 1029,00zł
   provider: Ceneo
 properties:
   type: sprężynowy

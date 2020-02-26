@@ -2,7 +2,6 @@
 ---
 // two lines are required to parse scss
 
-
 @import "variables.scss";
 
 .articles-list-sidebar {
@@ -37,7 +36,7 @@
                     flex-basis: 100%;
                 }
             }
-            .recommended-articles {
+            .recommended-reviews {
                 >.beam-item {
                     flex-basis: 50%;
                 }
@@ -103,5 +102,5 @@
 
 @import "components/articles-listing-boxitem-sm.scss";
 @import "components/articles-listing-boxitem-md.scss";
-@import "components/articles-listing-listitem-sm.scss";
 @import "components/events-listing-listitem-sm.scss";
+@import "components/reviews-listing-listitem-sm.scss";

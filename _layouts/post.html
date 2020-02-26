@@ -48,12 +48,12 @@
           {{ content | inject_anchors }}
 
           <footer class="article-footer">
-            <section class="article-author">
+            <section class="publication-author">
               <div class="profile-photo">
                 <img class="img" src="/assets/img/authors/dorota_czerwinska.png" alt="Dorota Czerwińska - Treehouse">
               </div>
               <div class="profile-details">
-                <span class="name">Dorota Czerwinska</span>
+                <span class="name">Dorota Czerwińska</span>
                 <span class="position">{{site.i18n[page.lang].autor_label}}</span>
                 <p>{{site.i18n[page.lang].author_description}}</p>
                 <a href="mailto:dorota@treehouse.co" class="more">{{site.i18n[page.lang].contact_label}}: dorota@treehouse.co</a>
@@ -85,7 +85,7 @@
             {% endfor %}
 
 
-            <div class="other-articles">
+            <div class="other-publications">
               {% if prev_article.url and prev_article.lang == page.lang %}
                 <a href="{{ prev_article.url | prepend: site.baseurl }}" class="previous">
                   <span class="label">{{site.i18n[page.lang].previous_article}}:</span>
@@ -123,7 +123,7 @@
 
         {% for article in promoted_articles limit: 4 %}
           <div class="beam-item b-size-1">
-            {% include parts/article-box-sm.html article=article %}
+            {% include parts/articles-listing-boxitem-sm.html article=article %}
           </div>
         {% endfor %}
       </section>
@@ -149,11 +149,11 @@
   </main>
 
   {% include footer.html %}
-
+<!--
   <script type="text/javascript" src="/assets/js/stickybits.js"></script>
   <script type="text/javascript">
       stickybits('.sticky-element', { stickyBitStickyOffset: 110 });
-  </script>
+  </script> -->
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137223789-2"></script>

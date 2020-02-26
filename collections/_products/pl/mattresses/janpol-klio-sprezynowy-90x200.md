@@ -29,7 +29,7 @@ opinion:
     author: Mikołaj
     content: Dobrej jakości produkt przy atrakcyjnej cenie.
     rating: '4'
-name: Janpol Klio sprężynowy 90x200
+name: Janpol Klio
 description: |-
   Do produkcji materaca Klio marki Janpol zostały wykorzystane sprężyny kieszeniowe typu pocket. Oznacza to, że na metrze kwadratowym materaca znajduje się 260 sprężyn. Każda z nich została schowana w materiałowej kieszeni i pracuje indywidualnie. Dzięki temu materac jest elastyczny punktowo i dopasowuje się do poszczególnych partii ciała. Takie rozwiązanie zapewnia użytkownikom materaca prawidłowe podparcie sylwetki. Nadaje także produktowi właściwości rehabilitacyjne.
 
@@ -45,7 +45,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/17039667#crid=319301&pid=21269
-  anchor: Kup na Ceneo od 509,00zł
+  anchor: Kup od 509,00zł
 properties:
   type: sprężynowy
   size: 90x200
