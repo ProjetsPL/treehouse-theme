@@ -9,6 +9,11 @@ fields:
   default: ranking
   config:
     required: true
+- name: h1
+  type: text
+  config:
+    required: true
+  label: H1
 - type: text
   name: title
   label: Meta title
@@ -48,6 +53,15 @@ fields:
       format: markdown
   label: Intro
   description: Wstęp do artykułu
+- name: guide
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Poradnik
 - name: image
   type: file
   config:
