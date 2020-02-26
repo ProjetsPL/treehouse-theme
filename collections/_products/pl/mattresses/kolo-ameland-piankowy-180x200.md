@@ -28,5 +28,6 @@ properties:
   case: Tencel
   bilateral: true
   handles: true
+distinction: hot
 
 ---
