@@ -76,6 +76,11 @@ fields:
   type: boolean
   label: Czy to ranking główny?
   description: Czy jest to główny ranking?
+- name: hub_name
+  type: text
+  config:
+    required: true
+  label: Nazwa rankingu głównego
 - name: toc
   type: boolean
   label: toc
