@@ -50,3 +50,19 @@ fields:
   config:
     min: 
     max: 
+- name: distinction
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - our_choice
+    - budget
+    - premium
+    - hot
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Wyróżnienie
