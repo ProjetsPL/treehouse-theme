@@ -9,7 +9,7 @@
           {% for option in include.product.properties %}
             {% assign key = option[0] %}
             <tr>
-                <th>{{ site.i18n[page.lang]['properties'][key] }}</th>
+                <th>{{ site.i18n[page.lang]['properties'][key] }}:</th>
                 <td>{{ option[1] }}</td>
             </tr>
           {% endfor %}

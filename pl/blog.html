@@ -65,7 +65,7 @@ description: TreeHouse to miejsce, w którym znajdziesz wskazówki dotyczące do
                         <h2 class="h-section">Polecane recenzje</h2>
                     </div>
 
-                    {% assign rankings = site.pages | where: 'lang', 'pl' | where: 'layout', 'ranking' | sort: 'content_hub' | reverse  %}
+                    {% assign rankings = site.pages | where: 'lang', 'pl' | where: 'layout', 'ranking' | sort: 'is_hub' | reverse  %}
 
                     {% for ranking in rankings limit: 5 %}
                       <div class="beam-item">

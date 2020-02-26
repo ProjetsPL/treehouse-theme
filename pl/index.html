@@ -53,7 +53,7 @@ description: TreeHouse to miejsce, w którym znajdziesz wskazówki dotyczące do
                         <h2 class="h-section">Najnowsze Recenzje</h2>
                     </div>
 
-                    {% assign rankings = site.pages | where:"lang", "pl" | where:"layout","ranking" | sort: 'content_hub' | reverse %}
+                    {% assign rankings = site.pages | where:"lang", "pl" | where:"layout","ranking" | sort: 'is_hub' | reverse %}
                     {% assign i = 0 %}
 
                     {% for ranking in rankings limit:7%}

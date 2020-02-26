@@ -20,7 +20,7 @@ intro: "Sieć sklepów Jysk to jedna z najpopularniejszych marek zajmujących si
   materace w innych kategoriach!](/pl/recenzje/najlepsze-materace.html)"
 image: "/uploads/rev-najlepsze-materace-jysk.jpg"
 toc: true
-content_hub: false
+is_hub: false
 guide: |-
   ## Czym wyróżniają się oferowane przez Jysk materace?
 
@@ -104,12 +104,6 @@ hub_name: najlepsze-materace
 
 <div class="beam b-size-5  review-section">
   <div class="beam-item b-size-3 review-text">
-    <h2>Poradnik</h2>
-    <nav class="table-of-content">
-        <span class="title">Spis treść</span>
-        {{ page.guide | markdownify | toc_only }}
-    </nav>
-
     {{ page.guide | markdownify | inject_anchors }}
   </div>
 
@@ -117,7 +111,10 @@ hub_name: najlepsze-materace
   <div class="beam-item b-size-2 beam-rail  review-sidebar">
       <div class="beam-rail-item r-height-100">
           <div class="sticky-element">
-              {% include parts/product-listing-boxitem-md.html product=main_product%}
+            <nav class="table-of-content">
+                <span class="title">Spis treść</span>
+                {{ page.guide | markdownify | toc_only }}
+            </nav>
           </div>
       </div>
   </div>

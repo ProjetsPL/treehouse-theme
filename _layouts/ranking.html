@@ -1,3 +1,6 @@
+{% assign ranking_hub_helper = site.pages | where: 'is_hub', true | where: 'hub_name', page.hub_name %}
+{% assign ranking_hub = ranking_hub_helper[0] %}
+
 <!DOCTYPE html>
 <html lang="{{ page.full-lang | default: site.lang | default: 'en' }}">
 
@@ -9,7 +12,7 @@
 
   {% include header.html %}
 
-  <main class=" page page-review">
+  <main class="page page-review">
       <div class="beams-wrapper global-beam-wrapper breadcrumbs">
           <div class="beam b-size-4">
               <div class="beam-item b-size-4 breadcrumbs-content">
@@ -21,8 +24,9 @@
                   </svg>
                   <ul>
                       <li><a href="">Strona główna</a></li>
-                      <li><a href="">Artykuły</a></li>
-                      <li><a href="">Układanie kostki brukowej - cena i jakość. Ile to kosztuje?</a></li>
+                      <li><a href="/pl/{{site.i18n[page.lang].ranking_page_slug}}.html">{{site.i18n[page.lang].ranking_page}}</a></li>
+                      <li><a href="{{ ranking_hub.url | prepend: site.baseurl }}">{{ ranking_hub.h1 }}</a></li>
+                      <li><a href="">{{ page.h1 }}</a></li>
                   </ul>
               </div>
           </div>
@@ -61,38 +65,32 @@
                                   <a href="mailto:dorota@treehouse.co" class="more">{{site.i18n[page.lang].contact_label}}: dorota@treehouse.co</a>
                               </div>
                           </section>
-                          <div class="other-publications">
-                              <a href="" class="previous">
-                                  <span class="label">Poprzedni ranking:</span>
-                                  <span class="title">Sufit napinany - czym dokładnie wyróżniają się sufity napinane?</span>
-                                  <img class="arrow" src="/assets/img/more-arrow-md.svg"  alt="Przeczytaj więcej">
-                              </a>
-                              <a href="" class="next">
-                                  <span class="label">Następny ranking:</span>
-                                  <span class="title">Podkład pod panele - jaki podkład pod panele będzie najlepszy?</span>
-                                  <img class="arrow" src="/assets/img/more-arrow-md.svg"  alt="Przeczytaj więcej">
-                              </a>
-                          </div>
                       </footer>
                   </div>
               </div>
           </article>
           <section class="beam  b-size-4 featured-reviews">
               <div class="beam-item b-size-4">
-                  <h2 class="h-section">Polecane recenzje</h2>
+                  <h2 class="h-section">Recenzje z innych kategorii</h2>
               </div>
-              <div class="beam-item b-size-1">
-                  {% include parts/reviews-listing-boxitem-sm.html articleTitle="Układanie kostki brukowej - cena i jakość. Ile to kosztuje? " articleImg="articles-listing-item-1.png" labelGroup="garden" labelName="Ogród" %}
-              </div>
-              <div class="beam-item b-size-1">
-                  {% include parts/reviews-listing-boxitem-sm.html articleTitle="Sufit napinany - czym dokładnie wyróżniają się sufity napinane?" articleImg="articles-listing-item-2.png" labelGroup="interior" labelName="Wnętrze" %}
-              </div>
-              <div class="beam-item b-size-1">
-                  {% include parts/reviews-listing-boxitem-sm.html articleTitle="Podkład pod panele - jaki podkład pod panele będzie najlepszy?" articleImg="articles-listing-item-3.png" labelGroup="garden" labelName="Ogród" %}
-              </div>
-              <div class="beam-item b-size-1">
-                  {% include parts/reviews-listing-boxitem-sm.html articleTitle="Płytki na schody zewnętrzne - to nie taki prosty wybór" articleImg="articles-listing-item-4.png" labelGroup="construction" labelName="Budowa" %}
-              </div>
+              {% assign i = 0 %}
+              {% assign related_rankings = site.pages | where: 'is_hub', false | where: 'hub_name', page.hub_name %}
+
+              {% for related_ranking in related_rankings limit: 5 %}
+                {% if i == 4 %}
+                  {% break %}
+                {% endif %}
+
+                {% if related_ranking.path == page.path %}
+                  {% continue %}
+                {% endif %}
+
+                <div class="beam-item b-size-1">
+                    {% include parts/reviews-listing-boxitem-sm.html ranking=related_ranking %}
+                </div>
+
+                {% assign i = i | plus: 1 %}
+              {% endfor %}
           </section>
       </div>
   </main>

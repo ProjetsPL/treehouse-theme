@@ -8,35 +8,10 @@ description: "\U0001F6CF️ Szukasz najlepszego materaca? \U0001F947 Sprawdź Ra
 date: 2020-02-14
 update_date: 2020-02-26
 intro: |-
-  Nie istnieją idealne materace dopasowane do potrzeb wszystkich użytkowników - wynika to z prostego faktu, że każdy człowiek jest inny. Dzięki kilku wskazówkom można jednak wybrać materac najbardziej odpowiadający indywidualnym wymaganiom.
-  Oto ranking przedstawiający najlepsze materace na luty 2020 r - pogrupowane według kategorii.
 
-  **Najlepsze materace według rodzaju:**
-
-  {:.list.list-positive}
-
-  * [Najlepsze Materace **Piankowe**](/pl/recenzje/najlepsze-materace/piankowe.html "Najlepsze Materace Piankowe")
-  * [Najlepsze Materace **Sprężynowe**](/pl/recenzje/najlepsze-materace/sprezynowe.html "Najlepsze Materace Sprężynowe")
-  * [Najlepsze Materace **Nawierzchniowe**](/pl/recenzje/najlepsze-materace/nawierzchniowe.html "Najlepsze Materace Nawierzchniowe")
-
-  **Najlepsze materace według rozmiaru:**
-
-  {:.list.list-positive}
-
-  * [Najlepsze Materace **90x200**](/pl/recenzje/najlepsze-materace/90x200.html "Najlepsze Materace 90x200")
-  * [Najlepsze Materace **140x200**](/pl/recenzje/najlepsze-materace/140x200.html "Najlepsze Materace 140x200")
-  * [Najlepsze Materace **160x200**](/pl/recenzje/najlepsze-materace/160x200.html "Najlepsze Materace 160x200")
-
-  **Najlepsze materace według producenta:**
-
-  {:.list.list-positive}
-
-  * [Najlepsze Materace **IKEA**](/pl/recenzje/najlepsze-materace/ikea.html)
-  * [Najlepsze Materace **JYSK**](/pl/recenzje/najlepsze-materace/jysk.html)
-  * [Najlepsze Materace **KOŁO**](/pl/recenzje/najlepsze-materace/kolo.html)
 image: "/uploads/rev-najlepsze-materace.jpg"
 toc: true
-content_hub: true
+is_hub: true
 main_keywords:
 - najlepsze materace
 - " najlepszy materac"
@@ -98,9 +73,50 @@ is_hub: true
 hub_name: najlepsze-materace
 
 ---
-{% assign products = site.products %}
+{% assign products = site.products | where: 'distinction', 'our_choice' %}
+
 {% assign main_product = products[0] %}
 {% assign second_product = products[-1] %}
+
+<div class="beam b-size-5  review-section">
+    <div class="beam-item b-size-5 review-text">
+      <p>
+      Nie istnieją idealne materace dopasowane do potrzeb wszystkich użytkowników - wynika to z prostego faktu, że każdy człowiek jest inny. Dzięki kilku wskazówkom można jednak wybrać materac najbardziej odpowiadający indywidualnym wymaganiom.
+      </p>
+
+      <p>
+      Oto ranking przedstawiający najlepsze materace na luty 2020 r - pogrupowane według kategorii:
+      </p>
+  </div>
+</div>
+<nav class="beam-item b-size-5 reviews-nav">
+    <ul class="beam b-size-3 reviews-nav-lvl-1">
+        <li class="beam-item b-size-1">
+           <span class="title type-reviews">Najlepsze Materace <b>wg rodzaju:</b></span>
+            <ul class="reviews-nav-lvl-2 ">
+              <li><a href="/pl/recenzje/najlepsze-materace/piankowe.html" title="Najlepsze Materace Piankowe">Najlepsze Materace <strong>Piankowe</strong></a></li>
+              <li><a href="/pl/recenzje/najlepsze-materace/sprezynowe.html" title="Najlepsze Materace Sprężynowe">Najlepsze Materace <strong>Sprężynowe</strong></a></li>
+              <li><a href="/pl/recenzje/najlepsze-materace/nawierzchniowe.html" title="Najlepsze Materace Nawierzchniowe">Najlepsze Materace <strong>Nawierzchniowe</strong></a></li>
+            </ul>
+        </li>
+        <li  class="beam-item b-size-1">
+            <span class="title  size-reviews">Najlepsze Materace <b>wg rozmiaru</b></span>
+             <ul class="reviews-nav-lvl-2">
+               <li><a href="/pl/recenzje/najlepsze-materace/90x200.html" title="Najlepsze Materace 90x200">Najlepsze Materace <strong>90x200</strong></a></li>
+               <li><a href="/pl/recenzje/najlepsze-materace/140x200.html" title="Najlepsze Materace 140x200">Najlepsze Materace <strong>140x200</strong></a></li>
+               <li><a href="/pl/recenzje/najlepsze-materace/160x200.html" title="Najlepsze Materace 160x200">Najlepsze Materace <strong>160x200</strong></a></li>
+            </ul>
+        </li>
+        <li class="beam-item b-size-1">
+            <span class="title producent-reviews">Najlepsze Materace <b>wg producenta</b></span>
+            <ul class="reviews-nav-lvl-2">
+              <li><a href="/pl/recenzje/najlepsze-materace/ikea.html" title="Najlepsze Materace Ikea">Najlepsze Materace <strong>IKEA</strong></a></li>
+              <li><a href="/pl/recenzje/najlepsze-materace/jysk.html" title="Najlepsze Materace Jysk">Najlepsze Materace <strong>JYSK</strong></a></li>
+              <li><a href="/pl/recenzje/najlepsze-materace/kolo.html" title="Najlepsze Materace Koło">Najlepsze Materace <strong>KOŁO</strong></a></li>
+            </ul>
+        </li>
+    </ul>
+</nav>
 
 <div class="beam b-size-5  review-section">
     <div class="beam-item b-size-3 review-text">
@@ -137,12 +153,6 @@ hub_name: najlepsze-materace
 
 <div class="beam b-size-5  review-section">
   <div class="beam-item b-size-3 review-text">
-    <h2>Poradnik</h2>
-    <nav class="table-of-content">
-        <span class="title">Spis treść</span>
-        {{ page.guide | markdownify | toc_only }}
-    </nav>
-
     {{ page.guide | markdownify | inject_anchors }}
   </div>
 
@@ -150,7 +160,10 @@ hub_name: najlepsze-materace
   <div class="beam-item b-size-2 beam-rail  review-sidebar">
       <div class="beam-rail-item r-height-100">
           <div class="sticky-element">
-              {% include parts/product-listing-boxitem-md.html product=second_product%}
+            <nav class="table-of-content">
+                <span class="title">Spis treść</span>
+                {{ page.guide | markdownify | toc_only }}
+            </nav>
           </div>
       </div>
   </div>

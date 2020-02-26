@@ -23,9 +23,7 @@ opinion:
     author: Weronika G
     content: 'zamek to super rzecz, wydaje mi sie ze gdyby nie zamek przy pokrowcu
       to to pranie i sciaganie szloby 5 razy wolniej dlatego fajnie ze producent o
-      tym pomyslal
-
-'
+      tym pomyslal'
     rating: '5'
   - template: review
     confirmed_purchase: true
@@ -33,11 +31,6 @@ opinion:
     content: Łatwy w utrzymaniu, jak to mówią jeść nie woła to może być haha ale przy
       okazji łatwo go wyczyścić więc nie mam z tym problemu żadnego.
     rating: '5'
-  - template: review
-    rating: []
-    confirmed_purchase: true
-    author: ''
-    content: ''
   - template: review
     confirmed_purchase: true
     author: Natalia P
