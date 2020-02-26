@@ -69,5 +69,6 @@ properties:
   case: Antyalergiczny Tencel lub Velvet
   bilateral: true
   handles: true
+distinction: budget
 
 ---
