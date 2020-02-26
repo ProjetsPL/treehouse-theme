@@ -63,5 +63,6 @@ properties:
   case: " Antyalergiczny, Smart lub Silver Protect"
   bilateral: true
   handles: true
+distinction: budget
 
 ---
