@@ -72,5 +72,6 @@ properties:
   case: Tencel lub Velvet
   bilateral: true
   handles: true
+distinction: our_choice
 
 ---
