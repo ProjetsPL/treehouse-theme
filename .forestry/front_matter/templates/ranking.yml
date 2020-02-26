@@ -72,19 +72,12 @@ fields:
   default: []
   label: Główne keywordy
   description: Główne keywordy grupy
-- name: content_hub
+- name: is_hub
   type: boolean
-  label: Główny ranking?
-  description: Czy jest to główny ranking? (content hub)
+  label: Czy to ranking główny?
+  description: Czy jest to główny ranking?
 - name: toc
   type: boolean
   label: toc
   hidden: true
   default: true
-pages:
-- pl/recenzje/najlepsze-materace/140x200.md
-- pl/recenzje/najlepsze-materace/160x200.md
-- pl/recenzje/najlepsze-materace/90x200.md
-- pl/recenzje/najlepsze-materace/ikea.md
-- pl/recenzje/najlepsze-materace/jysk.md
-- pl/recenzje/najlepsze-materace/kolo.md
