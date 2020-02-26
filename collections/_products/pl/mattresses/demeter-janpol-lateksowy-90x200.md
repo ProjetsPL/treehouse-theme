@@ -57,5 +57,6 @@ properties:
   case: Antyalergiczny Tencel lub Silver Protect
   bilateral: true
   handles: true
+distinction: our_choice
 
 ---
