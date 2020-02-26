@@ -6,7 +6,7 @@ description: "\U0001F6CF️ Chcesz kupić najlepszy Materac Nawierzchniowy? \U00
   Sprawdź Ranking TOP 5 na Luty 2020 - najlepsze marki i atrakcyjne ceny już od XXX
   złotych - kup online!"
 date: 2020-02-14
-update_date: 2020-02-14
+update_date: 2020-02-26
 intro: "Materace nawierzchniowe bardzo często określane także jako toppery to świetny
   sposób na poprawę komfortu podczas snu. Można je nakładać na niewygodny model materaca
   głównego, kanapę, czy wersalkę. Produkt tego typu wyrówna powierzchnię posłania
@@ -14,7 +14,7 @@ intro: "Materace nawierzchniowe bardzo często określane także jako toppery to
   od oczekiwań użytkownika. Dobrze dobrany materac nawierzchniowy to namiastka prawdziwego,
   wysokiej klasy materaca.\n\n\U0001F6CF️ [Zobacz również najlepsze materace w innych
   kategoriach!](/pl/recenzje/najlepsze-materace.html)"
-image: "/uploads/rev-najlepsze-materace-nawierzchniowe.jpeg"
+image: "/uploads/rev-najlepsze-materace-nawierzchniowe.jpg"
 toc: true
 main_keywords:
 - najlepsze materace nawierzchniowe
@@ -51,3 +51,65 @@ guide: |-
   Materac nawierzchniowy określany często również jako topmaterac to idealne rozwiązanie dla wszystkich osób, które nie są zadowolone ze swojego obecnego posłania. Produkty tego typu można zastosować na sofach, wersalkach i odkształconych materacach. Jest to tak naprawdę propozycja dla każdego, jednak niektóre modele sprawdzą się szczególnie u osób z bólami stawów i mięśni. Dobra wentylacja, jaką zapewniają materace nawierzchniowe oraz antybakteryjne właściwości niektórych materiałów pozwolą także złagodzić alergie.
 
 ---
+{% assign products = site.products | where: "properties.type", "nawierzchniowy" %}
+
+{% assign main_product = products[0] %}
+
+<div class="beam b-size-5  review-section">
+    <div class="beam-item b-size-3 review-text">
+        <figure>
+            <img src="{{ page.image }}" alt="Test">
+            <figcaption>{{ page.h1 }}</figcaption>
+        </figure>
+        {{ page.intro | markdownify }}
+    </div>
+    <div class="beam-item b-size-2 beam-rail  review-sidebar">
+        <div class="beam-rail-item r-height-100">
+            <div class="sticky-element">
+              {% include parts/product-listing-boxitem-md.html product=main_product %}
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="beam b-size-5  review-section">
+    <div class="beam-item b-size-5  review-text">
+        <h2>Wszystkie polecane materace nawierzchniowe</h2>
+        <div class="flex-wrapper  nowrap">
+            <div class="flex-container">
+              {% for product in products %}
+                <div class="flex-item" >
+                  {% include parts/product-listing-boxitem-md.html product=product %}
+                </div>
+              {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+
+{% for product in products %}
+  {% include parts/product-section.html product=product%}
+{% endfor %}
+
+
+<div class="beam b-size-5  review-section">
+  <div class="beam-item b-size-3 review-text">
+    <h2>Poradnik</h2>
+    <nav class="table-of-content">
+        <span class="title">Spis treść</span>
+        {{ page.guide | markdownify | toc_only }}
+    </nav>
+
+    {{ page.guide | markdownify | inject_anchors }}
+  </div>
+
+
+  <div class="beam-item b-size-2 beam-rail  review-sidebar">
+      <div class="beam-rail-item r-height-100">
+          <div class="sticky-element">
+              {% include parts/product-listing-boxitem-md.html product=main_product%}
+          </div>
+      </div>
+  </div>
+</div>

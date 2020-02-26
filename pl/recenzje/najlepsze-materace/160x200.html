@@ -6,7 +6,7 @@ description: "\U0001F6CF️ Chcesz kupić najlepszy Mwaterac 160x200? \U0001F947
   Ranking TOP 5 na Luty 2020 - najlepsze marki i atrakcyjne ceny już od XXX złotych
   - kup online!"
 date: 2020-02-14
-update_date: 2020-02-14
+update_date: 2020-02-26
 intro: "Materace 160x200 to zdecydowanie najbardziej popularne modele dwuosobowe.
   Zapewniają one odpowiednią przestrzeń do spania dla dwóch osób, jednocześnie nie
   zajmując dużej ilości miejsca w pomieszczeniu. Takie rozwiązanie jest nie tylko
@@ -18,7 +18,7 @@ main_keywords:
 - najlepszy materac 160x200
 - materace 160x200
 - materac 160x200
-image: "/uploads/rev-najlepsze-materace-160x200.jpeg"
+image: "/uploads/rev-najlepsze-materace-160x200.jpg"
 toc: true
 content_hub: false
 guide: |-
@@ -51,3 +51,66 @@ guide: |-
   Zagłębiając się w temat materacy, można odkryć ogromną ilość ich rodzajów. Producenci oferują wiele rozwiązań dostosowanych do różnych potrzeb użytkowników. Materace 160x200 są dostępne w wielu różnych wariantach. Modele piankowe należą do grupy najbardziej popularnych produktów. Są one cenione ze względu na swoją lekkość i wygodę użytkowania - doskonale sprawdzają się więc w przypadku starszych klientów. Materace polecane dla par to modele sprężynowe, a konkretnie - kieszeniowe. Zapewniają one równomierne rozmieszczenie nacisku i dobre dopasowanie do ciała. Sprężyny w takim materacu pracują niezależnie od siebie, dlatego zmiana ułożenia ciała nie ma wpływu na partnera.
 
 ---
+
+{% assign products = site.products | where: "properties.size", "160x200" %}
+
+{% assign main_product = products[0] %}
+
+<div class="beam b-size-5  review-section">
+    <div class="beam-item b-size-3 review-text">
+        <figure>
+            <img src="{{ page.image }}" alt="Test">
+            <figcaption>{{ page.h1 }}</figcaption>
+        </figure>
+        {{ page.intro | markdownify }}
+    </div>
+    <div class="beam-item b-size-2 beam-rail  review-sidebar">
+        <div class="beam-rail-item r-height-100">
+            <div class="sticky-element">
+              {% include parts/product-listing-boxitem-md.html product=main_product %}
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="beam b-size-5  review-section">
+    <div class="beam-item b-size-5  review-text">
+        <h2>Wszystkie polecane materace 160x200 cm</h2>
+        <div class="flex-wrapper  nowrap">
+            <div class="flex-container">
+              {% for product in products %}
+                <div class="flex-item" >
+                  {% include parts/product-listing-boxitem-md.html product=product %}
+                </div>
+              {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+
+{% for product in products %}
+  {% include parts/product-section.html product=product%}
+{% endfor %}
+
+
+<div class="beam b-size-5  review-section">
+  <div class="beam-item b-size-3 review-text">
+    <h2>Poradnik</h2>
+    <nav class="table-of-content">
+        <span class="title">Spis treść</span>
+        {{ page.guide | markdownify | toc_only }}
+    </nav>
+
+    {{ page.guide | markdownify | inject_anchors }}
+  </div>
+
+
+  <div class="beam-item b-size-2 beam-rail  review-sidebar">
+      <div class="beam-rail-item r-height-100">
+          <div class="sticky-element">
+              {% include parts/product-listing-boxitem-md.html product=main_product%}
+          </div>
+      </div>
+  </div>
+</div>

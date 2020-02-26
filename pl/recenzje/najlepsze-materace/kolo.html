@@ -11,14 +11,14 @@ title: 5 Najlepszych Materacy KOŁO na Luty 2020 | Kup Online
 description: "\U0001F6CF️ Chcesz kupić najlepszy Materac KOŁO? \U0001F947 Sprawdź
   Ranking TOP 5 na Luty 2020 - najlepsze marki i atrakcyjne ceny już od XXX złotych
   - kup online!"
-update_date: 2020-02-14
+update_date: 2020-02-26
 intro: "Firma M&K Foam Koło to polski producent materacy, działający na rynku od 1992
   roku. Przedsiębiorstwo produkuje materace zarówno na rynek polski, jak i europejski.
   Oferta obejmuje nie tylko materace, ale także różnego rodzaju akcesoria do nich.
   Materace Koło słyną z innowacyjnych rozwiązań i bardzo szerokiej oferty ukierunkowanej
   na indywidualne oczekiwania klientów. Czy warto wybrać tego producenta?\n\n\U0001F6CF️
   [Zobacz również najlepsze materace w innych kategoriach!](/pl/recenzje/najlepsze-materace.html)"
-image: "/uploads/rev-najlepsze-materace-kolo.jpeg"
+image: "/uploads/rev-najlepsze-materace-kolo.jpg"
 toc: true
 content_hub: false
 guide: |-
@@ -61,3 +61,66 @@ guide: |-
   Jak wspomniano, producent oferuje możliwość doboru pokrowca. Z tego powodu materac Koło sprawdzi się u osób, które mają specjalne potrzeby zdrowotne. Można wybrać przykładowo delikatny pokrowiec z aloesem dla osób o wrażliwej skórze, antybakteryjny dla alergików lub miękką powłokę dla osób zestresowanych.
 
 ---
+
+{% assign products = site.products | where: "properties.brand", "Koło" %}
+
+{% assign main_product = products[0] %}
+
+<div class="beam b-size-5  review-section">
+    <div class="beam-item b-size-3 review-text">
+        <figure>
+            <img src="{{ page.image }}" alt="Test">
+            <figcaption>{{ page.h1 }}</figcaption>
+        </figure>
+        {{ page.intro | markdownify }}
+    </div>
+    <div class="beam-item b-size-2 beam-rail  review-sidebar">
+        <div class="beam-rail-item r-height-100">
+            <div class="sticky-element">
+              {% include parts/product-listing-boxitem-md.html product=main_product %}
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="beam b-size-5  review-section">
+    <div class="beam-item b-size-5  review-text">
+        <h2>Wszystkie polecane materace Koło</h2>
+        <div class="flex-wrapper  nowrap">
+            <div class="flex-container">
+              {% for product in products %}
+                <div class="flex-item" >
+                  {% include parts/product-listing-boxitem-md.html product=product %}
+                </div>
+              {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+
+{% for product in products %}
+  {% include parts/product-section.html product=product%}
+{% endfor %}
+
+
+<div class="beam b-size-5  review-section">
+  <div class="beam-item b-size-3 review-text">
+    <h2>Poradnik</h2>
+    <nav class="table-of-content">
+        <span class="title">Spis treść</span>
+        {{ page.guide | markdownify | toc_only }}
+    </nav>
+
+    {{ page.guide | markdownify | inject_anchors }}
+  </div>
+
+
+  <div class="beam-item b-size-2 beam-rail  review-sidebar">
+      <div class="beam-rail-item r-height-100">
+          <div class="sticky-element">
+              {% include parts/product-listing-boxitem-md.html product=main_product%}
+          </div>
+      </div>
+  </div>
+</div>
