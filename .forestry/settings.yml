@@ -46,6 +46,7 @@ sections:
   match: "**/*"
   new_doc_ext: md
   templates:
+  - product-lamp
   - product-mattress
 - type: heading
   label: US
