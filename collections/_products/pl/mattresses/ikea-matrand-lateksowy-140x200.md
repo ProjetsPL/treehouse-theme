@@ -1,4 +1,5 @@
 ---
+category: mattress
 opinion:
   advantages:
   - dobre dopasowanie do sylwetki

@@ -1,4 +1,5 @@
 ---
+category: mattress
 opinion:
   advantages:
   - dobry na problemy z kręgosłupem

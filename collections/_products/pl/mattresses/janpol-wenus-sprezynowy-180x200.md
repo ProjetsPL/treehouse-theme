@@ -1,4 +1,5 @@
 ---
+category: mattress
 opinion:
   advantages:
   - funkcjonalność
@@ -63,6 +64,6 @@ properties:
   case: " Antyalergiczny, Smart lub Silver Protect"
   bilateral: true
   handles: true
-distinction: 
+distinction:
 
 ---

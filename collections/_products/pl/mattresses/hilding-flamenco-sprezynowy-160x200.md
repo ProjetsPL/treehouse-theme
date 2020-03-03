@@ -1,4 +1,5 @@
 ---
+category: mattress
 opinion:
   advantages:
   - łatwy w utrzymaniu
@@ -72,6 +73,6 @@ properties:
   case: Tencel lub Velvet
   bilateral: true
   handles: true
-distinction: 
+distinction:
 
 ---

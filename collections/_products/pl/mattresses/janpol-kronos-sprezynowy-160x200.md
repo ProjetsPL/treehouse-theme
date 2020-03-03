@@ -1,4 +1,5 @@
 ---
+category: mattress
 name: Janpol Kronos
 properties:
   type: sprężynowy
@@ -66,6 +67,6 @@ links:
   provider: Ceneo
   url: https://www.ceneo.pl/17039491#crid=319276&pid=21269
   anchor: Kup od 948,60zł
-distinction: 
+distinction:
 
 ---
