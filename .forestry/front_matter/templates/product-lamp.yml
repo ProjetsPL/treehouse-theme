@@ -18,6 +18,11 @@ fields:
   type: field_group
   config: {}
   fields:
+  - name: type
+    type: text
+    config:
+      required: false
+    label: Typ
   - name: color
     type: text
     config:
