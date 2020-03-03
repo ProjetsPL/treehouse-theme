@@ -24,3 +24,5 @@ fields:
       required: false
     label: Kolor
   label: Właściwości
+pages:
+- collections/_products/pl/lamps/antracytowy-kinkiet-zewnetrzny-henry-ip44.md
