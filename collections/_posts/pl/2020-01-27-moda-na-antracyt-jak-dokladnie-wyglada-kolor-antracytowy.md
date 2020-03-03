@@ -20,6 +20,11 @@ main_keywords:
 - kolor antracyt
 - antracytowy
 - kolor antracytowy
+related_products:
+- collections/_products/pl/lamps/antracytowy-kinkiet-zewnetrzny-henry-ip44.md
+- collections/_products/pl/lamps/kinkiet-zewnetrzny-led-cube.md
+- collections/_products/pl/lamps/lampka-biurkowa-led-karina.md
+- collections/_products/pl/lamps/lampa-sufitowa-led-sputnik-zewnetrzna-ø-9-cm.md
 
 ---
 ## Antracyt - co to za kolor?
