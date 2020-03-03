@@ -35,7 +35,7 @@ opinion:
     content: Bardzo wygodny materac. Twardość H2 jest idealna dla szczupłej, lekkiej
       osoby. Materac kupiłam szczupłej nastolatce i jest bardzo zadowolona.
     rating: '5'
-distinction: ''
+distinction: 'our_choice'
 name: Janpol Wenus
 description: |-
   Nowoczesna konstrukcja materaca sprawia, że jest to produkt idealny dla osób wymagających. W centralnej części wkładu znajdują się sprężyny kieszeniowe. Na powierzchni jednego metra kwadratowego znajduje się aż 260 niezależnych od siebie sprężyn. Dzięki temu materac niemal idealnie przystosowuje się do ciężaru i sposobu ułożenia ciała, umożliwiając jego użytkownikowi komfortowy i głęboki sen. Wierzchnie warstwy materaca zostały wykonane z równie wygodnej - wysokoelastycznej pianki poliuretanowej.

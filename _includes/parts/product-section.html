@@ -1,6 +1,8 @@
 <div class="beam b-size-5  review-section">
     <div class="beam-item b-size-3 review-text">
-        <h2>{{ include.product.name }} {{include.product.properties.type}} {{include.product.properties.size}}</h2>
+        {% assign context_name = include.product.name | append: " " | append: include.context %}
+        <h3 class='h2'>{{ context_name }}</h3>
+
         {% assign description = include.product.description | newline_to_br | split: "<br />" %}
 
         {{ description[0] | markdownify }}
@@ -49,7 +51,7 @@
           {{ pharagraph | markdownify }}
         {% endfor %}
 
-        <h3>Opinie o materacu {{ include.product.name }}</h3>
+        <h4>Opinie</h4>
         {% for review in include.product.opinion.reviews %}
           {% include parts/product-review.html review=review %}
         {% endfor %}
@@ -59,7 +61,7 @@
     <div class="beam-item b-size-2 beam-rail  review-sidebar">
         <div class="beam-rail-item r-height-100">
             <div class="sticky-element" >
-                   {% include parts/product-listing-boxitem-md.html product=product arrow="left" %}
+                {% include parts/product-listing-boxitem-md.html product=product arrow="left" %}
             </div>
         </div>
     </div>

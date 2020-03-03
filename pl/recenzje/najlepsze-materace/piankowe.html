@@ -2,11 +2,11 @@
 layout: ranking
 h1: 9 Najlepszych Materacy Piankowych na Luty 2020
 title: 9 Najlepszych Materacy Piankowych na Luty 2020 | Kup Online
-description: "\U0001F6CF️ Chcesz kupić najlepszy Materac Piankowy? \U0001F947 Sprawdź
-  Ranking TOP 9 na Luty 2020 - najlepsze marki i atrakcyjne ceny już od 200 złotych
+description: "Chcesz kupić najlepszy Materac Piankowy? 🛏️ Sprawdź
+  Ranking TOP 9 na Luty 2020 🥇 najlepsze marki i atrakcyjne ceny już od 200 złotych
   - kup online!"
 date: 2020-02-14
-update_date: 2020-02-26
+update_date: 2020-02-27
 intro: "Materace piankowe to jedne z najpopularniejszych produktów w swojej kategorii.\nSą
   one chętnie wybierane ze względu na szereg właściwości oraz sporą dostępność.\nRozwój
   w dziedzinie chemii sprawił, że obecnie na rynku można dostać materace piankowe\nwykonane
@@ -78,7 +78,7 @@ hub_name: najlepsze-materace
 <div class="beam b-size-5  review-section">
     <div class="beam-item b-size-3 review-text">
         <figure>
-            <img src="{{ page.image }}" alt="Test">
+            <img src="{{ page.image }}" alt="{{ page.h1 }}">
             <figcaption>{{ page.h1 }}</figcaption>
         </figure>
         {{ page.intro | markdownify }}
@@ -95,7 +95,7 @@ hub_name: najlepsze-materace
 
 <div class="beam b-size-5  review-section">
     <div class="beam-item b-size-5  review-text">
-        <h2>Wszystkie polecane materace piankowe</h2>
+        <h2>Najlepsze Materace Piankowe</h2>
         <div class="flex-wrapper  nowrap">
             <div class="flex-container">
               {% for product in products %}
@@ -109,7 +109,7 @@ hub_name: najlepsze-materace
 </div>
 
 {% for product in products %}
-  {% include parts/product-section.html product=product%}
+  {% include parts/product-section.html product=product context="Materac Piankowy" %}
 {% endfor %}
 
 

@@ -2,11 +2,11 @@
 layout: ranking
 h1: 5 Najlepszych Materacy Nawierzchniowych na Luty 2020
 title: 5 Najlepszych Materacy Nawierzchniowych na Luty 2020 | Kup Online
-description: "\U0001F6CF️ Chcesz kupić najlepszy Materac Nawierzchniowy? \U0001F947
-  Sprawdź Ranking TOP 5 na Luty 2020 - najlepsze marki i atrakcyjne ceny już od 359
+description: "Chcesz kupić najlepszy Materac Nawierzchniowy? 🛏️
+  Sprawdź Ranking TOP 5 na Luty 2020 🥇 najlepsze marki i atrakcyjne ceny już od 359
   złotych - kup online!"
 date: 2020-02-14
-update_date: 2020-02-26
+update_date: 2020-02-27
 intro: "Materace nawierzchniowe bardzo często określane także jako toppery to świetny
   sposób na poprawę komfortu podczas snu. Można je nakładać na niewygodny model materaca
   głównego, kanapę, czy wersalkę. Produkt tego typu wyrówna powierzchnię posłania
@@ -60,7 +60,7 @@ hub_name: najlepsze-materace
 <div class="beam b-size-5  review-section">
     <div class="beam-item b-size-3 review-text">
         <figure>
-            <img src="{{ page.image }}" alt="Test">
+            <img src="{{ page.image }}" alt="{{ page.h1 }}">
             <figcaption>{{ page.h1 }}</figcaption>
         </figure>
         {{ page.intro | markdownify }}
@@ -77,7 +77,7 @@ hub_name: najlepsze-materace
 
 <div class="beam b-size-5  review-section">
     <div class="beam-item b-size-5  review-text">
-        <h2>Wszystkie polecane materace nawierzchniowe</h2>
+        <h2>Najlepsze Materace Nawierzchniowe</h2>
         <div class="flex-wrapper  nowrap">
             <div class="flex-container">
               {% for product in products %}
@@ -91,7 +91,7 @@ hub_name: najlepsze-materace
 </div>
 
 {% for product in products %}
-  {% include parts/product-section.html product=product%}
+  {% include parts/product-section.html product=product context="Materac Nawierzchniowy" %}
 {% endfor %}
 
 

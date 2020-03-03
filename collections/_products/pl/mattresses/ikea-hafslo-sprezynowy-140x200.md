@@ -34,7 +34,7 @@ opinion:
     content: Określenie tego materaca jako twardy jest błędne, jak dla mnie jest miękki.
     rating: '3'
 distinction: ''
-name: Ikea Hafslo sprężynowy 140x200
+name: Ikea Hafslo
 description: |-
   Ikea Hafslo to produkt z grupy materacy sprężynowych, do którego produkcji wykorzystano sprężyny typu bonell. Zostały one rozłożone na całej długości materaca - w związku z tym zapewniają jego użytkownikom wsparcie podczas wypoczynku oraz stabilny i spokojny sen. Pozostałe wypełnienie materaca stanowi połączenie pianki poliuretanowej z watoliną poliestrową. Surowce te odpowiadają za nadanie materacowi elastyczności, dzięki czemu idealnie dopasowuje się on do sylwetki wypoczywającego. W przypadku tego modelu nie ma większego znaczenia waga użytkownika - jest to rozwiązanie uniwersalne. Osoby cięższe mogą jednak mieć odczucia, że jest on bardziej miękki, niż jest to określone w specyfikacji producenta.
 

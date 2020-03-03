@@ -1,3 +1,5 @@
+{% assign context_name = include.product.name | append: " " | append: include.context %}
+
 {% if include.product.distinction == 'our_choice'%}
   <section class="product-listing-boxitem-md label label-strong label-danger {% if include.arrow == 'left' %}arrow-left{% endif %}">
 {% elsif include.product.distinction == 'budget'%}
@@ -11,14 +13,14 @@
 {% endif %}
 
 
-
   <div class="img-section">
-    <img  class="img" src="{{include.product.photo}}" alt="Test">
+    <img class="img" src="{{include.product.photo}}" alt="{{ context_name }}">
   </div>
   <div class="desc-section">
     <header class="header">
-      <a href="{{ include.product.links[0]['url'] }}" class="title cta">{{include.product.name}}</a>
+      <a href="{{ include.product.links[0]['url'] }}" class="title cta">{{ context_name }}</a>
       <p class="subtitle">{{include.product.properties.type}} {{include.product.properties.size}}</p>
+
     </header>
     <div class="content">
       <p>{{ include.product.description | truncate: 120 }}</p>
@@ -30,7 +32,7 @@
 
           {% for link in include.product.links %}
           <div class="btn-group">
-            <a href="{{ link['url'] }}" class="btn btn-sm btn-cta">{{ link['anchor'] }}</a>
+            <a href="{{ link['url'] }}" class="btn btn-sm btn-cta" rel="nofollow noopener" target="_blank">{{ link['anchor'] }}</a>
             <!-- <span class="info info-success">Oszczędzasz 15%</span> -->
           </div>
           {% endfor %}

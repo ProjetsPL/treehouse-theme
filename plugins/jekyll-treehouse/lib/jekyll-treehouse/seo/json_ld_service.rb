@@ -25,7 +25,7 @@ module Jekyll
 
           if context['page']['layout'] == 'blog'
             graph << JsonLd::CollectionService.call(context: context).result
-          elsif ['post', 'ranking'].include? context['page']['layout']
+          elsif ['post', 'ranking', 'ranking-hub'].include? context['page']['layout']
             graph << JsonLd::ImageService.call(context: context).result
             graph << JsonLd::WebpageService.call(context: context).result
             # graph << JsonLd::BreadcrumbService.call(context: context).result
