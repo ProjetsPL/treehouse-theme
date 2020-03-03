@@ -2,6 +2,13 @@
 label: Product [Mattress]
 hide_body: true
 fields:
+- name: category
+  type: text
+  config:
+    required: false
+  label: Category
+  default: mattress
+  hidden: true
 - name: basics
   type: include
   config: {}
@@ -56,12 +63,6 @@ fields:
     label: Uchwyty
   label: Właściwości
   description: Właściwości produktu
-- name: category
-  type: text
-  config:
-    required: false
-  label: Category
-  default: mattress
 pages:
 - collections/_products/pl/mattresses/demeter-janpol-lateksowy-90x200.md
 - collections/_products/pl/mattresses/fdm-ambra-sprezynowy-90x200-1.md
