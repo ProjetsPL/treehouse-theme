@@ -1,4 +1,26 @@
 ---
 label: Product [Lamp]
 hide_body: true
-fields: []
+fields:
+- name: category
+  type: text
+  config:
+    required: false
+  label: Category
+  hidden: true
+  default: lamp
+- name: basics
+  type: include
+  config: {}
+  template: product
+  label: Basics
+- name: properties
+  type: field_group
+  config: {}
+  fields:
+  - name: color
+    type: text
+    config:
+      required: false
+    label: Kolor
+  label: Właściwości
