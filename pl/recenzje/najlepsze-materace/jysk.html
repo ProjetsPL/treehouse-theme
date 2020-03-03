@@ -61,7 +61,7 @@ guide: |-
 hub_name: najlepsze-materace
 
 ---
-{% assign products = site.products | where: "properties.brand", "Jysk" %}
+{% assign products = site.products | where: "category", "mattress" | where: "properties.brand", "Jysk" %}
 
 {% assign main_product = products[0] %}
 

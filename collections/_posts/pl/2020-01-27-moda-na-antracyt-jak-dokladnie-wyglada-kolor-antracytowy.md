@@ -21,11 +21,11 @@ main_keywords:
 - antracytowy
 - kolor antracytowy
 related_products:
-- collections/_products/pl/lamps/antracytowy-kinkiet-zewnetrzny-henry-ip44.md
-- collections/_products/pl/lamps/kinkiet-zewnetrzny-led-cube.md
-- collections/_products/pl/lamps/lampka-biurkowa-led-karina.md
-- collections/_products/pl/lamps/lampa-sufitowa-led-sputnik-zewnetrzna-ø-9-cm.md
-
+- _products/pl/lamps/antracytowy-kinkiet-zewnetrzny-henry-ip44.md
+- _products/pl/lamps/kinkiet-zewnetrzny-led-cube.md
+- _products/pl/lamps/lampka-biurkowa-led-karina.md
+- _products/pl/lamps/lampa-sufitowa-led-sputnik-zewnetrzna-ø-9-cm.md
+product_category: lamp
 ---
 ## Antracyt - co to za kolor?
 

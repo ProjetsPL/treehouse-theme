@@ -55,7 +55,7 @@ guide: |-
 hub_name: najlepsze-materace
 
 ---
-{% assign products = site.products | where: "properties.size", "90x200" %}
+{% assign products = site.products | where: "category", "mattress" | where: "properties.size", "90x200" %}
 
 {% assign main_product = products[0] %}
 

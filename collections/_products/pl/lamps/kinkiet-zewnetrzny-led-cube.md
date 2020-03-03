@@ -4,7 +4,7 @@ opinion:
   advantages: []
   disadvantages: []
   reviews: []
-distinction: ''
+distinction: 'our_choice'
 name: Kinkiet zewnętrzny LED Cube
 description: 'Lampa zewnętrzna ścienna LED Cube w kształcie kostki, z możliwością
   ustawienia snopu światła Ta lampa zewnętrzna ścienna LED Cube zapewnia możliwość

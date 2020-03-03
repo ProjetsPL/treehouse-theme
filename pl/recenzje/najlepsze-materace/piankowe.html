@@ -71,7 +71,7 @@ is_hub: false
 hub_name: najlepsze-materace
 
 ---
-{% assign products = site.products | where: "properties.type", "piankowy" %}
+{% assign products = site.products | where: "category", "mattress" | where: "properties.type", "piankowy" %}
 
 {% assign main_product = products[0] %}
 

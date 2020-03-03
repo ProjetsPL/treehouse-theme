@@ -1,3 +1,4 @@
+{% assign related_products = site.products | where: "category", page.product_category %}
 <!DOCTYPE html>
 <html lang="{{ page.full-lang | default: site.lang | default: 'en' }}">
 
@@ -45,6 +46,16 @@
               {% endif %}
             </figure>
           </header>
+
+          <div class="flex-wrapper  nowrap">
+              <div class="flex-container">
+                {% for product in related_products %}
+                  <div class="flex-item" >
+                    {% include parts/product-listing-boxitem-md.html product=product %}
+                  </div>
+                {% endfor %}
+              </div>
+          </div>
 
           {{ content | inject_anchors }}
 
@@ -107,7 +118,7 @@
         </div>
 
         <div class="beam-item b-size-2 beam-rail  review-sidebar">
-            <div class="beam-rail-item r-height-10">
+            <div class="beam-rail-item">
                 <div class="sticky-element">
                   <nav class="table-of-content sticky-element" id="some-stickybit-nav">
                     <span class="title">{{ site.i18n[page.lang].toc }}</span>
@@ -116,7 +127,7 @@
                 </div>
             </div>
 
-            {% for product in site.products limit: 4 %}
+            {% for product in related_products %}
               <div class="beam-rail-item r-height-20">
                 <div class="sticky-element">
                   {% include parts/product-listing-boxitem-md.html product=product %}

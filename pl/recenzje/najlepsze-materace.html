@@ -78,7 +78,7 @@ guide: |-
 hub_name: najlepsze-materace
 
 ---
-{% assign products = site.products | where: 'distinction', 'our_choice' %}
+{% assign products = site.products | where: "category", "mattress" | where: 'distinction', 'our_choice' %}
 
 {% assign main_product = products[0] %}
 {% assign second_product = products[-1] %}

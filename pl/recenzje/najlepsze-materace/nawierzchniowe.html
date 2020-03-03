@@ -53,7 +53,7 @@ guide: |-
 hub_name: najlepsze-materace
 
 ---
-{% assign products = site.products | where: "properties.type", "nawierzchniowy" %}
+{% assign products = site.products | where: "category", "mattress" | where: "properties.type", "nawierzchniowy" %}
 
 {% assign main_product = products[0] %}
 
