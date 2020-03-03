@@ -22,5 +22,6 @@ links:
   anchor: Kup od 209.90 zł
 properties:
   color: Antracyt
+  type: Lampa zewnętrzna
 
 ---
