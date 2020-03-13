@@ -8,7 +8,7 @@ description: "Szukasz koloru, który będzie idealnie pasował do każdego wnęt
   się sam."
 image: "/uploads/moda-na-antracyt.png"
 promoted: true
-update_date: 2020-03-03
+update_date: 2020-03-13
 intro: Odcieniem, który ostatnio bardzo zyskuje na popularności, jest antracyt. Ta
   intrygująco brzmiąca barwa może być stosowana jako tło, ale także jako mocny akcent
   we wnętrzu. Nadaje się do ścian, mebli, dodatków, jak również podłóg. Antracyt do
