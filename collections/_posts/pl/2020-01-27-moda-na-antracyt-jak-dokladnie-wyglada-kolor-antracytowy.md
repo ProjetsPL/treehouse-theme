@@ -3,8 +3,8 @@ layout: post
 date: 2020-01-27
 toc: true
 title: Moda na Antracyt - Sprawdź Najpopularniejszy Kolor 2020
-description: "Szukasz koloru, który będzie idealnie pasował do każdego wnętrza? \U0001F50D
-  Postaw na antracyt! Kolor antracyt to prawdziwy hit 2020 roku.\U0001F449 Przekonaj
+description: "\U0001F4A1 Szukasz koloru, który będzie idealnie pasował do każdego
+  wnętrza? Postaw na antracyt! Kolor antracyt to prawdziwy hit 2020 roku. Przekonaj
   się sam."
 image: "/uploads/moda-na-antracyt.png"
 promoted: true
