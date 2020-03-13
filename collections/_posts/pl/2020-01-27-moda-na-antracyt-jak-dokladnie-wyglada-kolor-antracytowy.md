@@ -4,11 +4,10 @@ date: 2020-01-27
 toc: true
 title: Moda na antracyt. Jak dokładnie wygląda kolor antracytowy?
 description: |-
-  Moda na antracyt. Jak dokładnie wygląda kolor antracytowy?
   Antracyt to kolor, który ostatnio znacznie zyskuje na popularności. Jest on mocny, ale warto go zastosować w wystroju wnętrz do podkreślenia ich charakteru.
 image: "/uploads/moda-na-antracyt.png"
 promoted: true
-update_date: 2020-02-05
+update_date: 2020-03-03
 intro: Odcieniem, który ostatnio bardzo zyskuje na popularności, jest antracyt. Ta
   intrygująco brzmiąca barwa może być stosowana jako tło, ale także jako mocny akcent
   we wnętrzu. Nadaje się do ścian, mebli, dodatków, jak również podłóg. Warto rozważyć
