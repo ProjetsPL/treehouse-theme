@@ -2,17 +2,18 @@
 layout: post
 date: 2020-01-27
 toc: true
-title: Moda na antracyt. Jak dokładnie wygląda kolor antracytowy?
-description: |-
-  Antracyt to kolor, który ostatnio znacznie zyskuje na popularności. Jest on mocny, ale warto go zastosować w wystroju wnętrz do podkreślenia ich charakteru.
+title: Moda na Antracyt - Sprawdź Najpopularniejszy Kolor 2020
+description: "Szukasz koloru, który będzie idealnie pasował do każdego wnętrza? \U0001F50D
+  Postaw na antracyt! Kolor antracyt to prawdziwy hit 2020 roku.\U0001F449 Przekonaj
+  się sam."
 image: "/uploads/moda-na-antracyt.png"
 promoted: true
 update_date: 2020-03-03
 intro: Odcieniem, który ostatnio bardzo zyskuje na popularności, jest antracyt. Ta
   intrygująco brzmiąca barwa może być stosowana jako tło, ale także jako mocny akcent
-  we wnętrzu. Nadaje się do ścian, mebli, dodatków, jak również podłóg. Warto rozważyć
-  zastosowanie takiego koloru głównie ze względu na jego wyjątkową uniwersalność.
-  Jak można wykorzystywać odcień antracytowy, żeby całość dobrze się komponowała?
+  we wnętrzu. Nadaje się do ścian, mebli, dodatków, jak również podłóg. Antracyt do
+  kolor, którego użycie warto rozważyć głównie ze względu na jego wyjątkową uniwersalność.
+  Jak można wykorzystywać kolor antracytowy, żeby całość dobrze się komponowała?
 main_keywords:
 - antracyt
 - antracyt kolor
@@ -25,12 +26,15 @@ related_products:
 - _products/pl/lamps/lampka-biurkowa-led-karina.md
 - _products/pl/lamps/lampa-sufitowa-led-sputnik-zewnetrzna-ø-9-cm.md
 product_category: lamp
+
 ---
 ## Antracyt - co to za kolor?
 
 Intrygujący kolor - antracyt jest bardzo **ciemnym odcieniem szarości**. Jest on zbliżony do czerni, jednak ma wyraźnie jaśniejszą barwę. Swoją nazwę antracyt zawdzięcza rodzajowi węgla kamiennego a dokładniej jego najbardziej przeobrażonej formie. Jako kolor antracyt jest jednym z najciemniejszych odcieni szarości.
 
 Ten rodzaj szarego znacznie zyskał na popularności w ostatnich latach. Jest to jednak kolor dosyć trudny w zastosowaniu. **Antracyt w aranżacji wnętrz** należy wkomponować w sposób ostrożny i umiejętny. Łatwo przytłoczyć pokój zbyt dużą ilością tej ciemnej barwy. Najlepiej stosować go w przestronnych wnętrzach. Nie oznacza to jednak, że w przypadku mniejszych pomieszczeń trzeba z niego całkowicie rezygnować. Warto natomiast w takim przypadku postawić na dodatki.
+
+Jeżeli wnętrza Twojego domu są przestronne, ale Ty sam nie masz pojęcia, jak właściwie wykorzystać antracyt - kolor pomoże "okiełznać" Ci specjalista do spraw aranżacji wnętrz. Skontaktuj się z kompetentną osobą, przedstaw jej swoje oczekiwania i **czekaj na gotowy projekt**. To rozwiązanie, które wybiera coraz większa grupa osób, które chcą wprowadzić do swoich wnętrz antracyt.
 
 {% fig %}
 ![Antracyt - co to za kolor?](/uploads/antracyt-co-to-za-kolor.jpg "Antracyt - co to za kolor?")
@@ -66,6 +70,10 @@ Dobrym pomysłem zamiast zwykłej farby jest zastosowanie farby tablicowej w odc
 ## Meble w kolorze antracytu
 
 Jeżeli kolor, którym jest antracyt jako pokrycie ścian to zbyt dużo, można zdecydować się na zakup mebli w tym odcieniu. Będą one stanowić doskonałe podkreślenie charakteru wnętrza. Ponieważ **antracyt jest mocną barwą**, takie meble powinny odznaczać się dosyć prostą formą. Najlepsze będą w tym przypadku formy geometryczne. Meble antracytowe najlepiej wyglądają na tle jasnych, neutralnych ścian. Mają wtedy szansę wyróżnić się mocnym odcieniem, który sam w sobie stanowi dekorację.
+
+### Antracyt - kolor idealny do salonu
+
+Chociaż często powtarza się, że antracyt jest kolorem uniwersalnym, to jednak jego wykorzystanie generuje konieczność stosowania się do pewnych zasad. Dotyczą one między innymi tego, jak powinno wyglądać wyposażenie.
 
 {% fig %}
 ![Meble w kolorze antracytu](/uploads/meble-w-kolorze-antracytu.jpg "Meble w kolorze antracytu")
@@ -106,6 +114,10 @@ Kolor antracytowy idealnie sprawdzi się w aranżacji nowoczesnej łazienki. Ist
 {% endfig %}
 
 Kontrastowym rozwiązaniem jest zastosowanie elementów ceramiki w kolorze, jakim jest antracyt i wyłożenie ścian jasnymi kafelkami. Oba ze wspomnianych rozwiązań pozwolą na uzyskanie nowoczesnego wystroju łazienki o oryginalnym charakterze.
+
+## Antracyt - kolor, którego nie stosuj do pokoju dziecięcego
+
+Zastanawiasz się nad aranżacją pokoju swojego dziecka? Chociaż kolor antracytowy jest bardzo uniwersalny, to jednak zdecydowanie nie pasuje do wnętrz przeznaczonych dla malucha. Jest on zbyt ciemny. W tego typu wnętrzach, zamiast wybierać antracyt - postaw na pastele i jasne odcienie, które będą zdecydowanie delikatniejsze.
 
 **Antracyt to modny kolor, który nie bez powodu zyskuje na popularności. Warto rozważyć jego zastosowanie w wystroju wnętrz. Zniechęcający może być fakt, że antracyt w pewnych zestawieniach jest ciemną i przytłaczającą barwą. Jednak jego umiejętne połączenie z pozostałymi elementami wystroju pozwoli na uzyskanie pomieszczenia o nowoczesnym i stylowym wyglądzie.**
 
