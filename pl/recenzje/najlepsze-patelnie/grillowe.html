@@ -60,7 +60,7 @@ is_hub: false
 hub_name: najlepsze-patelnie
 
 ---
-<img src="/uploads/najlepsze-patelnie-grillowe-2.jpg">{% assign products = site.products | where: "category", "pans" | where: "properties.type", "Gillowe" %}
+{% assign products = site.products | where: "category", "pans" | where: "properties.type", "Gillowe" %}
 
 {% assign main_product = products[0] %}
 
