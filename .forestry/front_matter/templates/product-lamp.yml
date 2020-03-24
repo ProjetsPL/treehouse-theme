@@ -1,0 +1,36 @@
+---
+label: Product [Lamp]
+hide_body: true
+fields:
+- name: category
+  type: text
+  config:
+    required: false
+  label: Category
+  hidden: true
+  default: lamp
+- name: basics
+  type: include
+  config: {}
+  template: product
+  label: Basics
+- name: properties
+  type: field_group
+  config: {}
+  fields:
+  - name: type
+    type: text
+    config:
+      required: false
+    label: Typ
+  - name: color
+    type: text
+    config:
+      required: false
+    label: Kolor
+  label: Właściwości
+pages:
+- collections/_products/pl/lamps/antracytowy-kinkiet-zewnetrzny-henry-ip44.md
+- collections/_products/pl/lamps/kinkiet-zewnetrzny-led-cube.md
+- collections/_products/pl/lamps/lampa-sufitowa-led-sputnik-zewnetrzna-ø-9-cm.md
+- collections/_products/pl/lamps/lampka-biurkowa-led-karina.md

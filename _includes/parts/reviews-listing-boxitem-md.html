@@ -1,0 +1,9 @@
+<article class="reviews-listing-boxitem-md">
+  <a href="{{ include.ranking.url | prepend: site.baseurl }}">
+    <div class="img-box img-ratio-16-9">
+      <img class="img" src="{{site.baseurl}}{{include.ranking.image}}" alt="{{include.ranking.title}}">
+    </div>
+    <h3 class="h-reviews-listing-boxitem-sm">{{include.ranking.h1}}</h3>
+    <span class="article-rank-label "><img src="/assets/img/rank-star.svg" alt="Rank"></span>
+  </a>
+</article>

@@ -35,11 +35,11 @@ description: TreeHouse is a platform where you can find many brilliant ideas for
                     {% for article in articles %}
                       {% if i == 0 or i == 1 %}
                         <div class="beam-item b-size-3">
-                          {% include parts/article-box-md.html article=article %}
+                          {% include parts/articles-listing-boxitem-md.html article=article %}
                         </div>
                       {% else %}
                       <div class="beam-item b-size-2">
-                        {% include parts/article-box-sm.html article=article %}
+                        {% include parts/articles-listing-boxitem-sm.html article=article %}
                       </div>
                       {% endif %}
 
@@ -67,7 +67,7 @@ description: TreeHouse is a platform where you can find many brilliant ideas for
 
                     {% for article in promoted_articles limit: 10 %}
                       <div class="beam-item">
-                        {% include parts/article-list-sm.html article=article %}
+                        {% include parts/articles-listing-listitem-sm.html article=article %}
                       </div>
                     {% endfor %}
                 </section>

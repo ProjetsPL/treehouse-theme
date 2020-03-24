@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: rankings
 title: Recenzje Treehouse - Stwórz z nami swój wymarzony dom!
 description: TreeHouse to miejsce, w którym znajdziesz wskazówki dotyczące domu i ogrodu. Zainspiruj się się pomysłami i znajdź produkty odpowiadające Twoim oczekiwaniom.
 ---
@@ -29,17 +29,17 @@ description: TreeHouse to miejsce, w którym znajdziesz wskazówki dotyczące do
                         <h1 class="h-section">Recenzje</h1>
                     </div>
 
-                    {% assign rankings = site.pages | where: 'lang', 'pl' | where: 'layout', 'ranking' | sort: 'content_hub' | reverse  %}
+                    {% assign rankings = site.pages | where: 'type', 'ranking' | sort: 'is_hub' | reverse  %}
                     {% assign i = 0 %}
 
                     {% for ranking in rankings %}
                       {% if i == 0 or i == 1 %}
                         <div class="beam-item b-size-3">
-                          {% include parts/ranking-box-md.html ranking=ranking %}
+                          {% include parts/reviews-listing-boxitem-md.html ranking=ranking %}
                         </div>
                       {% else %}
                       <div class="beam-item b-size-2">
-                        {% include parts/ranking-box-sm.html ranking=ranking %}
+                        {% include parts/reviews-listing-boxitem-sm.html ranking=ranking %}
                       </div>
                       {% endif %}
 
@@ -57,7 +57,7 @@ description: TreeHouse to miejsce, w którym znajdziesz wskazówki dotyczące do
 
                     {% for article in promoted_articles limit: 10 %}
                       <div class="beam-item">
-                        {% include parts/article-list-sm.html article=article %}
+                        {% include parts/articles-listing-listitem-sm.html article=article %}
                       </div>
                     {% endfor %}
                 </section>

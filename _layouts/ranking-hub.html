@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="{{ page.full-lang | default: site.lang | default: 'en' }}">
+
+{% include head.html %}
+
+<link href="{{ site.baseurl }}/assets/css/pages/review.css?v=3" rel="stylesheet">
+
+<body>
+  {% include header.html %}
+
+  <main class="page page-review">
+      <div class="beams-wrapper global-beam-wrapper breadcrumbs">
+          <div class="beam b-size-4">
+              <div class="beam-item b-size-4 breadcrumbs-content">
+                  <svg id="Signature_-_gray" data-name="Signature - gray" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+                      <g id="Group_42" data-name="Group 42" transform="translate(-172.5 -172.5)" opacity="0.19">
+                          <path id="Path_129" data-name="Path 129" d="M214.082,188.5v8.909a1.018,1.018,0,0,1-1.018,1.018H209.5v-8.176Z" transform="translate(-27.582 -11.927)" fill="#233030"/>
+                          <path id="Path_130" data-name="Path 130" d="M177.845,178.1v1.782l2.291-.876V186.5h-6.618a1.018,1.018,0,0,1-1.018-1.018V173.518a1.018,1.018,0,0,1,1.018-1.018h11.964a1.018,1.018,0,0,1,1.018,1.018v1.273Z" fill="#233030"/>
+                      </g>
+                  </svg>
+                  <ul>
+                      <li><a href="/{{page.lang}}/">{{site.i18n[page.lang].home_page}}</a></li>
+                      <li><a href="/pl/{{site.i18n[page.lang].ranking_page_slug}}.html">{{site.i18n[page.lang].ranking_page}}</a></li>
+                      <li><a href="">{{ page.h1 }}</a></li>
+                  </ul>
+              </div>
+          </div>
+      </div>
+      <div class="beams-wrapper  global-beam-wrapper review-content">
+          <article class="beam b-size-5">
+            <header class="beam-item b-size-5 review-header">
+                <div class="header-box">
+                    <div class="article-rank-label-lg">
+                        <img src="/assets/img/rank-star.svg" alt="Rank">
+                        <span>Ranking</span>
+                    </div>
+                    <div class="title-box">
+                        <div class="detail-box">
+                            <span>{{ site.i18n[page.lang].updated }}: <time datetime="{{ page.update_date | date_to_xmlschema }}">{{page.update_date | date: '%d-%m-%Y'}}</time></span>
+                            <span class="article-label article-label-garden">Dom</span>
+                        </div>
+                        <h1 class="title">{{ page.h1 }}</h1>
+                    </div>
+                </div>
+            </header>
+
+            {{ content }}
+
+            <div class="beam">
+                <div class="beam-item">
+                    <footer class="review-footer">
+                        <section class="publication-author">
+                            <div class="profile-photo">
+                                <img class="img" src="/assets/img/authors/dorota_czerwinska.png" alt="">
+                            </div>
+                            <div class="profile-details">
+                                <span class="name">Dorota Czerwińska</span>
+                                <span class="position">{{site.i18n[page.lang].autor_label}}</span>
+                                <p>{{site.i18n[page.lang].author_description}}</p>
+                                <a href="mailto:dorota@treehouse.co" class="more">{{site.i18n[page.lang].contact_label}}: dorota@treehouse.co</a>
+                            </div>
+                        </section>
+                    </footer>
+                </div>
+            </div>
+          </article>
+          <section class="beam  b-size-4 featured-reviews">
+              <div class="beam-item b-size-4">
+                  <h2 class="h-section">Polecane rankingi</h2>
+              </div>
+              {% assign related_rankings = site.pages | where: 'is_hub', false | where: 'hub_name', page.hub_name %}
+
+              {% for related_ranking in related_rankings limit: 4 %}
+                <div class="beam-item b-size-1">
+                    {% include parts/reviews-listing-boxitem-sm.html ranking=related_ranking %}
+                </div>
+              {% endfor %}
+          </section>
+      </div>
+  </main>
+
+
+  {% include footer.html %}
+
+  <script type="text/javascript" src="/assets/js/stickybits.js"></script>
+  <script type="text/javascript">
+      stickybits('.sticky-element', { stickyBitStickyOffset: 110 });
+  </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137223789-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-137223789-2');
+  </script>
+</body>
+</html>

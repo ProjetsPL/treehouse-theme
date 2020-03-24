@@ -42,6 +42,10 @@ body {
 }
 
 @media (max-width: 620px) {
+    body{
+      padding-top: 50px;
+    }
+
     .page {
         margin-top: 0px;
     }
@@ -142,7 +146,7 @@ body {
     &.img-ratio-16-9 {
         position: relative;
         width: 100%;
-        padding-top: 56.25%;
+        padding-top: 62.25%;
     }
     &.img-ratio-16-6 {
         position: relative;
@@ -255,6 +259,42 @@ body {
         padding-left: $beam-gutter-size/2;
         padding-right: $beam-gutter-size/2;
         width: 100%;
+        &.beam-rail {
+            display: flex;
+            flex-direction: column;
+            .beam-rail-item  {
+                &.r-height-10 {
+                    flex-basis: 10%;
+                }
+                &.r-height-20 {
+                    flex-basis: 20%;
+                }
+                &.r-height-30 {
+                    flex-basis: 30%;
+                }
+                &.r-height-40 {
+                    flex-basis: 40%;
+                }
+                &.r-height-50 {
+                    flex-basis: 50%;
+                }
+                &.r-height-60 {
+                    flex-basis: 60%;
+                }
+                &.r-height-70 {
+                    flex-basis: 70%;
+                }
+                &.r-height-80 {
+                    flex-basis: 80%;
+                }
+                &.r-height-90 {
+                    flex-basis: 90%;
+                }
+                &.r-height-100 {
+                    flex-basis: 100%;
+                }
+            }
+        }
         &.beam-more {
             padding-top: 10px;
             display: flex;
@@ -303,6 +343,43 @@ body {
                         }
                     }
                 }
+            }
+        }
+    }
+}
+
+.flex-wrapper {
+    width: 100%;
+    margin-bottom: 0px;
+    &.nowrap {
+        overflow: hidden;
+        overflow-x: auto;
+        margin-bottom: 20px;
+        .flex-container {
+            flex-wrap: nowrap;
+            margin-left: 0;
+            margin-right: 0;
+            .flex-item {
+                margin: 0 $beam-gutter-size/4;
+                &:first-child {
+                    margin-left: 0;
+                }
+                &:last-child{
+                    margin-right: 0;
+                }
+            }
+        }
+    }
+    .flex-container {
+        display:flex;
+        flex-flow: row wrap;
+        margin-left: -$beam-gutter-size/4;
+        margin-right: -$beam-gutter-size/4;
+        .flex-item {
+            flex: 1 0 230px;
+            margin: 0 $beam-gutter-size/4 $beam-gutter-size/2;
+            &:last-child {
+                margin-bottom: 0;
             }
         }
     }

@@ -1,0 +1,35 @@
+<q class="opinion">
+    <div class="content-box">
+        <div class="rating">
+          <svg class="rating-stars stars-{{ include.review.rating | times: 10 }}" xmlns="http://www.w3.org/2000/svg" width="120" height="19" viewBox="0 0 120 19">
+              <g class="star-item-1">
+                  <path class="all" d="M10,0l3.2,6.1L20,7.257l-4.822,4.926,1,6.817L10,15.941,3.82,19l1-6.817L0,7.257,6.8,6.1Z" fill="#ffdc00"/>
+                  <path class="half" d="M10,0V15.941L3.82,19l1-6.817L0,7.257,6.8,6.1Z" fill="#ffdc00"/>
+              </g>
+              <g class="star-item-2" data-name="star-item" transform="translate(25)">
+                  <path class="all" data-name="all" d="M10,0l3.2,6.1L20,7.257l-4.822,4.926,1,6.817L10,15.941,3.82,19l1-6.817L0,7.257,6.8,6.1Z" fill="#ffdc00"/>
+                  <path class="half" data-name="half" d="M10,0V15.941L3.82,19l1-6.817L0,7.257,6.8,6.1Z" fill="#ffdc00"/>
+              </g>
+              <g class="star-item-3" data-name="star-item" transform="translate(50)">
+                  <path class="all" data-name="all" d="M10,0l3.2,6.1L20,7.257l-4.822,4.926,1,6.817L10,15.941,3.82,19l1-6.817L0,7.257,6.8,6.1Z" fill="#ffdc00"/>
+                  <path class="half" data-name="half" d="M10,0V15.941L3.82,19l1-6.817L0,7.257,6.8,6.1Z" fill="#ffdc00"/>
+              </g>
+              <g class="star-item-4" data-name="star-item" transform="translate(75)">
+                  <path class="all" data-name="all" d="M10,0l3.2,6.1L20,7.257l-4.822,4.926,1,6.817L10,15.941,3.82,19l1-6.817L0,7.257,6.8,6.1Z" fill="#ffdc00"/>
+                  <path class="half" data-name="half" d="M10,0V15.941L3.82,19l1-6.817L0,7.257,6.8,6.1Z" fill="#ffdc00"/>
+              </g>
+              <g class="star-item-5" data-name="star-item" transform="translate(100)">
+                  <path class="all" data-name="all" d="M10,0l3.2,6.1L20,7.257l-4.822,4.926,1,6.817L10,15.941,3.82,19l1-6.817L0,7.257,6.8,6.1Z" fill="#e7e9e9"/>
+                  <path class="half" data-name="half" d="M10,0V15.941L3.82,19l1-6.817L0,7.257,6.8,6.1Z" fill="#ffdc00"/>
+              </g>
+          </svg>
+            <span class="rating-note">{{ include.review.rating }}/5</span>
+        </div>
+        <div class="content">{{ include.review.content }}</div>
+    </div>
+    <footer class="author-box">
+        <span class="name">{{ include.review.author }}</span>
+        <span class="label">Opinia z</span>
+        <img class="img"src="/assets/img/logo-ceneo.svg" alt="Opinia z Ceneo">
+    </footer>
+</q>

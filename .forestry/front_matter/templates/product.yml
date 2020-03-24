@@ -1,0 +1,68 @@
+---
+label: Product [Base]
+hide_body: true
+fields:
+- name: name
+  type: text
+  config:
+    required: true
+  label: Nazwa
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Opis
+- name: photo
+  type: file
+  config:
+    maxSize: 250
+  label: Zdjęcie
+- name: opinion
+  type: field_group
+  config: {}
+  fields:
+  - name: advantages
+    type: tag_list
+    default: []
+    label: Zalety
+  - name: disadvantages
+    type: tag_list
+    default: []
+    label: Wady
+  - name: reviews
+    type: blocks
+    template_types:
+    - review
+    config:
+      min: 
+      max: 
+    label: Recenzje
+  label: Opinia
+- name: links
+  type: blocks
+  label: Linki
+  template_types:
+  - link
+  config:
+    min: 
+    max: 
+- name: distinction
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - our_choice
+    - budget
+    - premium
+    - hot
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Wyróżnienie

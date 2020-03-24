@@ -1,0 +1,60 @@
+{% assign context_name = include.product.name | append: " " | append: include.context %}
+
+{% if include.product.distinction == 'our_choice'%}
+  <section class="product-listing-boxitem-md label label-strong label-danger {% if include.arrow == 'left' %}arrow-left{% endif %}">
+{% elsif include.product.distinction == 'budget'%}
+  <section class="product-listing-boxitem-md label label-strong label-success {% if include.arrow == 'left' %}arrow-left{% endif %}">
+{% elsif include.product.distinction == 'hot'%}
+  <section class="product-listing-boxitem-md label label-main label-danger">
+{% elsif include.product.distinction == 'premium'%}
+  <section class="product-listing-boxitem-md label label-main label-warning">
+{% else %}
+  <section class="product-listing-boxitem-md ">
+{% endif %}
+
+
+  <div class="img-section">
+    <img class="img" src="{{include.product.photo}}" alt="{{ context_name }}">
+  </div>
+  <div class="desc-section">
+    <header class="header">
+      <a href="{{ include.product.links[0]['url'] }}" class="title cta">{{ context_name }}</a>
+      <p class="subtitle">{{include.product.properties.type}} {{include.product.properties.size}}</p>
+
+    </header>
+    <div class="content">
+      <p>{{ include.product.description | truncate: 120 }}</p>
+    </div>
+    {% if include.product.links.size > 0 %}
+      <footer class="footer">
+        <span class="title">Opcje zakupu:</span>
+        <div class="buttons">
+
+          {% for link in include.product.links %}
+          <div class="btn-group">
+            <a href="{{ link['url'] }}" class="btn btn-sm btn-cta" rel="nofollow noopener" target="_blank">{{ link['anchor'] }}</a>
+            <!-- <span class="info info-success">Oszczędzasz 15%</span> -->
+          </div>
+          {% endfor %}
+          <!-- <a class="btn btn-sm  btn-cta">od 799zł na Amazon</a>
+          <a href="" class="cta">od 699 zł na Allegro</a> -->
+        </div>
+      </footer>
+    {% endif %}
+  </div>
+
+  {% if include.product.distinction == 'our_choice'%}
+    <div class="label-section">Nasz wybór</div>
+  {% elsif include.product.distinction == 'budget'%}
+    <div class="label-section">Budżet</div>
+  {% elsif include.product.distinction == 'hot'%}
+    <div class="label-section">🔥 hot</div>
+  {% elsif include.product.distinction == 'premium'%}
+    <div class="label-section">Premium</div>
+  {% endif %}
+
+  <svg class="cloud-arrow"xmlns="http://www.w3.org/2000/svg" width="21.586" height="41.396" viewBox="0 0 21.586 41.396">
+    <rect width="2" height="37.625" transform="translate(19.396 1.818)" fill="#fff"/>
+    <path d="M-283.24-5027.121l-19.474,20,19.474,20" transform="translate(304.11 5027.818)" fill="#fff" stroke="#e7e9e9" stroke-width="2"/>
+  </svg>
+</section>

@@ -39,6 +39,15 @@ sections:
   new_doc_ext: md
   templates:
   - ranking
+- type: directory
+  path: collections/_products/pl
+  label: Produkty
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - product-lamp
+  - product-mattress
 - type: heading
   label: US
 - type: directory
@@ -63,6 +72,12 @@ sections:
   new_doc_ext: md
   templates:
   - ranking
+- type: directory
+  path: collections/_products/us
+  label: Produkty
+  create: all
+  match: "**/*"
+  new_doc_ext: md
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''

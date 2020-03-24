@@ -1,0 +1,68 @@
+<div class="beam b-size-5  review-section">
+    <div class="beam-item b-size-3 review-text">
+        {% assign context_name = include.product.name | append: " " | append: include.context %}
+        <h3 class='h2'>{{ context_name }}</h3>
+
+        {% assign description = include.product.description | newline_to_br | split: "<br />" %}
+
+        {{ description[0] | markdownify }}
+
+        <table class="table">
+          {% for option in include.product.properties %}
+            {% assign key = option[0] %}
+            <tr>
+                <th>{{ site.i18n[page.lang]['properties'][key] }}:</th>
+                <td>{{ option[1] }}</td>
+            </tr>
+          {% endfor %}
+        </table>
+
+        {{ description[2] | markdownify }}
+
+        <div class="lists-cols">
+            {% if include.product.opinion.advantages.size > 0 %}
+              <section class="col">
+                  <h4>Zalety</h4>
+                  <ul class="list list-advantages">
+                    {% for advantage in include.product.opinion.advantages %}
+                      <li>
+                        {{ advantage }}
+                      </li>
+                    {% endfor %}
+                  </ul>
+              </section>
+            {% endif %}
+
+            {% if include.product.opinion.disadvantages.size > 0 %}
+              <section class="col">
+                  <h4>Wady</h4>
+                  <ul class=" list list-disadvantages">
+                      {% for disadvantage in include.product.opinion.disadvantages %}
+                        <li>
+                          {{ disadvantage }}
+                        </li>
+                      {% endfor %}
+                  </ul>
+              </section>
+            {% endif %}
+        </div>
+
+        {% for pharagraph in description offset:3 %}
+          {{ pharagraph | markdownify }}
+        {% endfor %}
+
+        <h4>Opinie</h4>
+        {% for review in include.product.opinion.reviews %}
+          {% include parts/product-review.html review=review %}
+        {% endfor %}
+
+
+    </div>
+    <div class="beam-item b-size-2 beam-rail  review-sidebar">
+        <div class="beam-rail-item r-height-100">
+            <div class="sticky-element" >
+                {% include parts/product-listing-boxitem-md.html product=product arrow="left" %}
+            </div>
+        </div>
+    </div>
+</div>

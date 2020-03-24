@@ -1,153 +1,100 @@
+{% assign ranking_hub_helper = site.pages | where: 'is_hub', true | where: 'hub_name', page.hub_name %}
+{% assign ranking_hub = ranking_hub_helper[0] %}
+
 <!DOCTYPE html>
 <html lang="{{ page.full-lang | default: site.lang | default: 'en' }}">
 
 {% include head.html %}
 
-<link href="{{ site.baseurl }}/assets/css/pages/article.css?v=2" rel="stylesheet">
+<link href="{{ site.baseurl }}/assets/css/pages/review.css?v=3" rel="stylesheet">
 
 <body>
 
   {% include header.html %}
 
-  <main class="page page-article">
-    <div class="beams-wrapper global-beam-wrapper breadcrumbs">
-      <div class="beam b-size-4">
-        <div class="beam-item b-size-4 breadcrumbs-content">
-          <svg id="Signature_-_gray" data-name="Signature - gray" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
-            <g id="Group_42" data-name="Group 42" transform="translate(-172.5 -172.5)" opacity="0.19">
-              <path id="Path_129" data-name="Path 129" d="M214.082,188.5v8.909a1.018,1.018,0,0,1-1.018,1.018H209.5v-8.176Z" transform="translate(-27.582 -11.927)" fill="#233030"/>
-              <path id="Path_130" data-name="Path 130" d="M177.845,178.1v1.782l2.291-.876V186.5h-6.618a1.018,1.018,0,0,1-1.018-1.018V173.518a1.018,1.018,0,0,1,1.018-1.018h11.964a1.018,1.018,0,0,1,1.018,1.018v1.273Z" fill="#233030"/>
-            </g>
-          </svg>
-          <ul>
-            <li><a href="/{{page.lang}}/">{{site.i18n[page.lang].home_page}}</a></li>
-            <li><a href="/pl/{{site.i18n[page.lang].ranking_page_slug}}.html">{{site.i18n[page.lang].ranking_page}}</a></li>
-            <li><a href="">{{ page.title }}</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <div class="beams-wrapper  global-beam-wrapper article-content">
-      <article class="beam b-size-5">
-        <div class="beam-item b-size-3 article-text">
-          <header class="article-header">
-            <div class="detail-box">
-              <span>{{ site.i18n[page.lang].updated }}: <time datetime="{{ page.update_date | date_to_xmlschema }}">{{page.update_date | date: '%d-%m-%Y'}}</time></span>
-              <span class="article-label article-label-garden">{{ site.i18n[page.lang].ranking }}</span>
-            </div>
-            <h1>{{ page.title }}</h1>
-
-            {{ page.intro | markdownify }}
-
-            <figure>
-              {% if page.image %}
-              <img src='{{site.baseurl}}{{page.image}}' alt='{{ page.title | escape }}'></img>
-              {% endif %}
-            </figure>
-          </header>
-
-          {{ content | inject_anchors }}
-
-          <footer class="article-footer">
-            <section class="article-author">
-              <div class="profile-photo">
-                <img class="img" src="/assets/img/authors/dorota_czerwinska.png" alt="Dorota Czerwińska - Treehouse">
+  <main class="page page-review">
+      <div class="beams-wrapper global-beam-wrapper breadcrumbs">
+          <div class="beam b-size-4">
+              <div class="beam-item b-size-4 breadcrumbs-content">
+                  <svg id="Signature_-_gray" data-name="Signature - gray" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+                      <g id="Group_42" data-name="Group 42" transform="translate(-172.5 -172.5)" opacity="0.19">
+                          <path id="Path_129" data-name="Path 129" d="M214.082,188.5v8.909a1.018,1.018,0,0,1-1.018,1.018H209.5v-8.176Z" transform="translate(-27.582 -11.927)" fill="#233030"/>
+                          <path id="Path_130" data-name="Path 130" d="M177.845,178.1v1.782l2.291-.876V186.5h-6.618a1.018,1.018,0,0,1-1.018-1.018V173.518a1.018,1.018,0,0,1,1.018-1.018h11.964a1.018,1.018,0,0,1,1.018,1.018v1.273Z" fill="#233030"/>
+                      </g>
+                  </svg>
+                  <ul>
+                      <li><a href="">Strona główna</a></li>
+                      <li><a href="/pl/{{site.i18n[page.lang].ranking_page_slug}}.html">{{site.i18n[page.lang].ranking_page}}</a></li>
+                      <li><a href="{{ ranking_hub.url | prepend: site.baseurl }}">{{ ranking_hub.h1 }}</a></li>
+                      <li><a href="">{{ page.h1 }}</a></li>
+                  </ul>
               </div>
-              <div class="profile-details">
-                <span class="name">Dorota Czerwinska</span>
-                <span class="position">{{site.i18n[page.lang].autor_label}}</span>
-                <p>{{site.i18n[page.lang].author_description}}</p>
-                <a href="mailto:dorota@treehouse.co" class="more">{{site.i18n[page.lang].contact_label}}: dorota@treehouse.co</a>
-              </div>
-            </section>
-
-
-            {% assign articles = site.posts | where: "lang", page.lang %}
-
-            {% for i in (0..articles.size) %}
-              {% if articles[i] != page %}
-               {% continue %}
-              {% endif %}
-
-              {% assign prev_index = i | minus: 1 %}
-              {% assign prev_article = articles[prev_index] %}
-
-              {% assign last_index = articles.size | minus: 1 %}
-
-              {% if i == last_index %}
-                {% assign next_index = 0 %}
-              {% else %}
-                {% assign next_index = i | plus: 1 %}
-              {% endif %}
-
-              {% assign next_article = articles[next_index] %}
-
-              {% break %}
-            {% endfor %}
-
-
-            <div class="other-articles">
-              {% if prev_article.url and prev_article.lang == page.lang %}
-                <a href="{{ prev_article.url | prepend: site.baseurl }}" class="previous">
-                  <span class="label">{{site.i18n[page.lang].previous_article}}:</span>
-                  <span class="title">{{prev_article.title}}</span>
-                  <img class="arrow" src="/assets/img/more-arrow-md.svg" alt="Przeczytaj więcej">
-                </a>
-              {% endif %}
-
-              {% if next_article.url and next_article.lang == page.lang %}
-                <a href="{{ next_article.url | prepend: site.baseurl }}" class="next">
-                  <span class="label">{{site.i18n[page.lang].next_article}}:</span>
-                  <span class="title">{{next_article.title}}</span>
-                  <img class="arrow" src="/assets/img/more-arrow-md.svg" alt="Przeczytaj więcej">
-                </a>
-              {% endif %}
-            </div>
-          </footer>
-        </div>
-
-        <div class="beam-item b-size-2 article-sidebar" id="some-stickybit-parent">
-          <nav class="table-of-content sticky-element" id="some-stickybit-nav">
-            <span class="title">{{ site.i18n[page.lang].toc }}</span>
-            {{ content | toc_only }}
-
-          </nav>
-        </div>
-      </article>
-
-      <section class="beam  b-size-4 featured-articles">
-        <div class="beam-item b-size-4">
-            <h2 class="h-section">{{site.i18n[page.lang].promoted_articles}}</h2>
-        </div>
-
-        {% assign promoted_articles = site.posts | where:"lang", page.lang | where:"promoted", true %}
-
-        {% for article in promoted_articles limit: 4 %}
-          <div class="beam-item b-size-1">
-            {% include parts/article-box-sm.html article=article %}
           </div>
-        {% endfor %}
-      </section>
+      </div>
+      <div class="beams-wrapper  global-beam-wrapper review-content">
+          <article class="beam b-size-5">
+              <header class="beam-item b-size-5 review-header">
+                  <div class="header-box">
+                      <div class="article-rank-label-lg">
+                          <img src="/assets/img/rank-star.svg" alt="Rank">
+                          <span>Ranking</span>
+                      </div>
+                      <div class="title-box">
+                          <div class="detail-box">
+                              <span>{{ site.i18n[page.lang].updated }}: <time datetime="{{ page.update_date | date_to_xmlschema }}">{{page.update_date | date: '%d-%m-%Y'}}</time></span>
+                              <span class="article-label article-label-garden">Dom</span>
+                          </div>
+                          <h1 class="title">{{ page.h1 }}</h1>
+                      </div>
+                  </div>
+              </header>
 
-      <section class="beam b-size-4 featured-articles">
-        <div class="beam-item b-size-4">
-          <h2 class="h-section">{{site.i18n[page.lang].maybe_interesting}}</h2>
-        </div>
+              {{ content }}
 
-        <!-- <div class="beam-item b-size-4"> -->
-          {% assign random_rankings = site.pages | where: 'lang', 'pl' | where: 'layout', 'ranking' | sample: 6 %}
+              <div class="beam">
+                  <div class="beam-item">
+                      <footer class="review-footer">
+                          <section class="publication-author">
+                              <div class="profile-photo">
+                                <img class="img" src="/assets/img/authors/dorota_czerwinska.png" alt="">
+                              </div>
+                              <div class="profile-details">
+                                  <span class="name">Dorota Czerwińska</span>
+                                  <span class="position">{{site.i18n[page.lang].autor_label}}</span>
+                                  <p>{{site.i18n[page.lang].author_description}}</p>
+                                  <a href="mailto:dorota@treehouse.co" class="more">{{site.i18n[page.lang].contact_label}}: dorota@treehouse.co</a>
+                              </div>
+                          </section>
+                      </footer>
+                  </div>
+              </div>
+          </article>
+          <section class="beam  b-size-4 featured-reviews">
+              <div class="beam-item b-size-4">
+                  <h2 class="h-section">Recenzje z innych kategorii</h2>
+              </div>
+              {% assign i = 0 %}
+              {% assign related_rankings = site.pages | where: 'is_hub', false | where: 'hub_name', page.hub_name %}
 
-          {% for ranking in random_rankings %}
-            {% assign main_keywords = ranking.main_keywords | sample: 1 %}
+              {% for related_ranking in related_rankings limit: 5 %}
+                {% if i == 4 %}
+                  {% break %}
+                {% endif %}
 
-            {% if main_keywords %}
-              <a href="{{ ranking.url | prepend: site.baseurl }}" class="btn btn-sm btn-link">{{ main_keywords }}</a>
-            {% endif %}
-          {% endfor %}
-        <!-- </div> -->
-      </section>
-    </div>
+                {% if related_ranking.path == page.path %}
+                  {% continue %}
+                {% endif %}
+
+                <div class="beam-item b-size-1">
+                    {% include parts/reviews-listing-boxitem-sm.html ranking=related_ranking %}
+                </div>
+
+                {% assign i = i | plus: 1 %}
+              {% endfor %}
+          </section>
+      </div>
   </main>
+
 
   {% include footer.html %}
 

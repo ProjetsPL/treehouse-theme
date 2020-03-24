@@ -1,0 +1,139 @@
+---
+---
+// two lines are required to parse scss
+
+
+// .article-content {
+//
+//   // TRIK do poprawnie scrollującego się anchor linka w spisie treści.
+//   h2 {
+//     z-index: -1;
+//     padding-top: 120px; // 30 + 90 = 120
+//     margin-top: -90px;
+//
+//     &::before {
+//       top: 114.5px; // 5.5 - 120 = 114.5
+//     }
+//   }
+//   // END TRIK
+// }
+
+
+.table-of-content {
+    ul {
+        list-style: none;
+        padding-left: 20px;
+        margin-top: 20px;
+        li {
+            margin-top: 10px;
+            a {
+                display: inline-block;
+                text-decoration: none;
+                line-height: 26px;
+            }
+        }
+    }
+}
+
+.product-listing-boxitem-md {
+  &.arrow-left {
+    .cloud-arrow {
+        transform: translateX(-94%) translateY(-50%) !important;
+    }
+  }
+}
+
+.h1,
+.h2,
+.h3 {
+    position: relative;
+    &:before {
+        background-image: url('/assets/img/h-image.svg');
+        background-size: cover;
+        content: "";
+        display: block;
+        height: 17px;
+        left: -16px;
+        position: absolute;
+        top: -8px;
+        width: 33px;
+    }
+}
+
+.h2 {
+    &::before {
+        width: 25px;
+        height: 13px;
+        left: -12.5px;
+        top: -6.3px;
+    }
+}
+
+.h3 {
+    &::before {
+        width: 19px;
+        height: 10px;
+        left: -9.5px;
+        top: -5px;
+    }
+}
+
+.h1 {
+    font-size: 31px;
+    font-weight: 600;
+    line-height: 44px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.h2 {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 34px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.h3 {
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 28px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.h4 {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 26px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+
+@media (max-width: 550px) {
+    .h1 {
+        font-size: 26px;
+        line-height: 34px;
+        &::before {
+            width: 28px;
+            height: 14px;
+            left: -14px;
+            top: -7px;
+        }
+    }
+    .h2 {
+        font-size: 21px;
+        line-height: 29px;
+        &::before {
+            width: 21px;
+            height: 11px;
+            left: -10.5px;
+            top: -5.5px;
+        }
+    }
+    .h3 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+}
