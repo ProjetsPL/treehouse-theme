@@ -86,13 +86,3 @@ fields:
   label: toc
   hidden: true
   default: true
-pages:
-- pl/recenzje/najlepsze-patelnie.md
-- pl/recenzje/najlepsze-patelnie/ambition.md
-- pl/recenzje/najlepsze-patelnie/ceramiczne.md
-- pl/recenzje/najlepsze-patelnie/do-nalesnikow.md
-- pl/recenzje/najlepsze-patelnie/gerlach.md
-- pl/recenzje/najlepsze-patelnie/grillowe.md
-- pl/recenzje/najlepsze-patelnie/tefal.md
-- pl/recenzje/najlepsze-patelnie/zeliwne.md
-- pl/recenzje/najlepsze-patelnie/zwieger.md
