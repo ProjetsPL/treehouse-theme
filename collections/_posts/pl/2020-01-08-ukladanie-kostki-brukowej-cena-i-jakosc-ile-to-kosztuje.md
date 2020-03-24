@@ -22,6 +22,7 @@ main_keywords:
 - Ile kosztuje kostka brukowa?
 - " koszt ułożenia kostki brukowej"
 - Ile waży kostka brukowa?
+published: false
 
 ---
 ## Układanie kostki brukowej - cena za metr kwadratowy
