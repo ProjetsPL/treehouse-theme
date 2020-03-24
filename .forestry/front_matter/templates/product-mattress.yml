@@ -65,7 +65,6 @@ fields:
   description: Właściwości produktu
 pages:
 - collections/_products/pl/mattresses/demeter-janpol-lateksowy-90x200.md
-- collections/_products/pl/mattresses/fdm-ambra-sprezynowy-90x200-1.md
 - collections/_products/pl/mattresses/fdm-ambra-sprezynowy-90x200.md
 - collections/_products/pl/mattresses/frankhauer-ate-nawierzchniowy-lateksowy-160x200.md
 - collections/_products/pl/mattresses/hilding-cha-cha-sprezynowy-160x200.md
