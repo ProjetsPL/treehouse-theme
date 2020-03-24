@@ -17,7 +17,12 @@ description: "Szukasz patelni do naleśników? \U0001F50D Sprawdź Ranking Patel
   5 \U0001F3C6 na Marzec 2020 - najwyżej oceniane marki i produkty. Ceny od XXX złotych
   - kup online!"
 update_date: 2020-03-24
-intro: ''
+intro: Patelnia do naleśników to obowiązkowe wyposażenie kuchni tych osób, które przepadają
+  za tą potrawą. Tego typu sprzęt znacznie ułatwia przygotowywanie tych cienkich placków,
+  dzięki czemu można częściej cieszyć się ich smakiem - nie poświęcając przy ich przygotowaniu
+  zbyt dużo swojego czasu, a przede wszystkim nerwów. Producenci oferują wiele rodzajów
+  płaskich patelni o różnych powłokach i właściwościach. Czym charakteryzuje się taki
+  sprzęt? Czy patelnia do naleśników jest warta zakupu?
 guide: |-
   ## Czym wyróżnia się patelnia do naleśników?
 
