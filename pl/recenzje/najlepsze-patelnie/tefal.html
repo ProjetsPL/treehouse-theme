@@ -56,7 +56,7 @@ is_hub: false
 hub_name: najlepsze-patelnie
 
 ---
-<img src="/uploads/najlepsze-patelnie-tefal.html.jpg">{% assign products = site.products | where: "category", "pans" | where: "properties.brand", "Tefal" %}
+{% assign products = site.products | where: "category", "pans" | where: "properties.brand", "Tefal" %}
 
 {% assign main_product = products[0] %}
 
