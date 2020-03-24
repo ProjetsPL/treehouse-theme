@@ -62,7 +62,7 @@ is_hub: false
 hub_name: najlepsze-patelnie
 
 ---
-<img src="/uploads/najlepsze-patelnie-zeliwne.html.jpg">{% assign products = site.products | where: "category", "pans" | where: "properties.type", "Żeliwne" %}
+{% assign products = site.products | where: "category", "pans" | where: "properties.type", "Żeliwne" %}
 
 {% assign main_product = products[0] %}
 
