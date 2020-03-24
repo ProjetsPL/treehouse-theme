@@ -75,7 +75,6 @@ guide: |-
 image: ''
 is_hub: true
 hub_name: najlepsze-patelnie
-published: false
 
 ---
 {% assign products = site.products | where: "category", "pans" | where: 'distinction', 'our_choice' %}
