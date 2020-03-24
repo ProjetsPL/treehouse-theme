@@ -11,8 +11,7 @@ toc: true
 h1: 5 TOP Patelni Gerlach na Marzec 2020
 title: 5 TOP Patelni Gerlach na Marzec 2020 | Sprawdź Ranking i Ceny
 description: "Szukasz najlepszej patelni Gerlach? \U0001F50D Sprawdź Ranking Patelni
-  Gerlach TOP 5 \U0001F3C6 na Marzec 2020 - najwyżej oceniane produkty. Ceny od XXX
-  złotych - kup online!"
+  Gerlach TOP 5 \U0001F3C6 na Marzec 2020 - najwyżej oceniane produkty."
 update_date: 2020-03-24
 intro: Gerlach jest znaną polską marką o wieloletniej tradycji. Firma działa na rynku
   od ponad 250 lat i jest ceniona za wyjątkową trwałość w połączeniu z przystępnymi
@@ -24,7 +23,7 @@ guide: |-
 
   Naczynia, w tym patelnie Gerlach to produkty od lat cenione za wysoką jakość wykonania i niezwykłą trwałość. W ofercie marki można znaleźć produkty różnego rodzaju. Prawie każda patelnia Gerlach wyposażona jest w specjalną powłokę nieprzywierającą wysokiej jakości. Dostępne są również modele bez takiej powierzchni, wykonane ze stali nierdzewnej.
 
-  Patelnie Gerlach charakteryzują się ujednoliconym wzornictwem. Wszystkie sprzęty wyglądają niezwykle stylowo i elegancko, co sprawia, że przez wiele osób są uznawane za **najlepsze patelnie** na rynku.. Producent oferuje kilka kształtów i rozmiarów do wyboru. Poszczególne modele różnią się także od siebie rodzajem powłoki. Patelnie Gerlach to produkty bezpieczne, których można używać zarówno w profesjonalnych, jak i domowych warunkach.
+  Patelnie Gerlach charakteryzują się ujednoliconym wzornictwem. Wszystkie sprzęty wyglądają niezwykle stylowo i elegancko, co sprawia, że przez wiele osób są uznawane za [**najlepsze patelnie**](/pl/recenzje/najlepsze-patelnie.html "Najlepsze Patelnie") na rynku.. Producent oferuje kilka kształtów i rozmiarów do wyboru. Poszczególne modele różnią się także od siebie rodzajem powłoki. Patelnie Gerlach to produkty bezpieczne, których można używać zarówno w profesjonalnych, jak i domowych warunkach.
 
   ## Jakie patelnie Gerlach są dostępne na rynku?
 
@@ -32,7 +31,7 @@ guide: |-
 
   Patelnie Gerlach są produkowane z różnym przeznaczeniem. Do wyboru są patelnie do naleśników, patelnie grillowe oraz patelnie uniwersalne. Na potrzeby większych ilości przygotowywanego pożywienia producent wypuścił na rynek głębokie patelnie Gerlach oraz woki z przykrywką.
 
-  Ciekawą opcją są patelnie z rączkami wykonanymi z drewna. Producent oferuje możliwość wygrawerowania grafiki i napisu na rączkach. W ten sposób patelnię można spersonalizować - to **najlepsze patelnie** na wyjątkowy prezent.
+  Ciekawą opcją są patelnie z rączkami wykonanymi z drewna. Producent oferuje możliwość wygrawerowania grafiki i napisu na rączkach. W ten sposób patelnię można spersonalizować - to [**najlepsze patelnie**](/pl/recenzje/najlepsze-patelnie.html "Najlepsze Patelnie") na wyjątkowy prezent.
 
   ## Jakie zalety ma patelnia Gerlach?
 
@@ -55,12 +54,12 @@ guide: |-
   ## Dla kogo polecana jest patelnia Gerlach?
 
   Z uwagi na zróżnicowaną ofertę firmy patelnie Gerlach dedykowane są szerokiemu gronu konsumenckiemu. Naczynia używane zgodnie ze swoim przeznaczeniem sprawdzą się zarówno dla amatorów i hobbystów gotowania, jak i prawdziwych kulinarnych wirtuozów. Patelnie Gerlach to doskonały wybór dla każdego, kto ceni sobie jakość wykonania produktów. Jednolite wzornictwo dopasuje się do każdej nowoczesnej kuchni i będzie stanowić jej dodatkową ozdobę. Bogata oferta producenta sprawia, że każdy może znaleźć odpowiedni dla siebie. Patelnia Gerlach może zagościć w kuchni dużej rodziny, jak i singla.
-image: ''
+image: "/uploads/najlepsze-patelnie-gerlach.jpg"
 is_hub: false
 hub_name: najlepsze-patelnie
 
 ---
-{% assign products = site.products | where: "category", "pans" | where: "properties.type", "Gerlach" %}
+<img src="/uploads/najlepsze-patelnie-gerlach.jpg">{% assign products = site.products | where: "category", "pans" | where: "properties.type", "Gerlach" %}
 
 {% assign main_product = products[0] %}
 
@@ -73,11 +72,13 @@ hub_name: najlepsze-patelnie
         {{ page.intro | markdownify }}
     </div>
     <div class="beam-item b-size-2 beam-rail  review-sidebar">
+      	<!--
         <div class="beam-rail-item r-height-100">
             <div class="sticky-element">
               {% include parts/product-listing-boxitem-md.html product=main_product %}
             </div>
         </div>
+		-->
     </div>
 </div>
 
@@ -85,6 +86,7 @@ hub_name: najlepsze-patelnie
 <div class="beam b-size-5  review-section">
     <div class="beam-item b-size-5  review-text">
         <h2>Najlepsze Patelnie Gerlach</h2>
+      	<!--
         <div class="flex-wrapper  nowrap">
             <div class="flex-container">
               {% for product in products %}
@@ -94,13 +96,15 @@ hub_name: najlepsze-patelnie
               {% endfor %}
             </div>
         </div>
+		-->
     </div>
 </div>
 
+<!--
 {% for product in products %}
   {% include parts/product-section.html product=product context="Patelnia Gerlach" %}
 {% endfor %}
-
+-->
 
 <div class="beam b-size-5  review-section">
   <div class="beam-item b-size-3 review-text">
