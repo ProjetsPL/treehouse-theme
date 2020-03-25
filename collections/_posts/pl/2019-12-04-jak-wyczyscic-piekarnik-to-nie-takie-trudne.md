@@ -6,7 +6,7 @@ title: Jak wyczyścić piekarnik? To nie takie trudne!
 description: Czyszczenie piekarnika może być uciążliwą czynnością. Wcale nie musi
   tak być! Dzięki tym prostym sposobom przestaniesz się zastanawiać, jak wyczyścić
   piekarnik.
-image: "/uploads/Jak wyczyścić piekarnik - To nie takie trudne.jpg"
+image: "/uploads/jak-wyczyscic-piekarnik-to-nie-takie-trudne.jpg"
 promoted: false
 update_date: 2020-02-05
 intro: Czyszczenie piekarnika nie należy do najprzyjemniejszych czynności. Z tego
@@ -36,7 +36,7 @@ Na rynku istnieje wiele **środków specjalnie przeznaczonych do piekarników**.
 Zatem czym czyścić piekarnik? Na szczęście istnieje wiele domowych sposobów, które są **ekologiczne, bezpieczne i skuteczne**.
 
 {% fig %}
-![Czym wyczyścić piekarnik?](/uploads/Czym wyczyścić piekarnik.jpg "Czym wyczyścić piekarnik?")
+![Czym wyczyścić piekarnik?](/uploads/czym-wyczyscic-piekarnik.jpg "Czym wyczyścić piekarnik?")
 {% endfig %}
 
 ### Jak czyścić piekarnik z lekkich zabrudzeń
@@ -48,7 +48,7 @@ Jeżeli we wnętrzu urządzenia nie ma wielu zabrudzeń, ich usunięcie nie powi
 * **Woda z octem** - lekkie zabrudzenia można skutecznie usunąć, przecierając piekarnik mieszaniną wody z octem. Można do tego użyć miękkiej szmatki lub w przypadku przypalonych resztek jedzenia - ostrej gąbki. Umyte części wystarczy wypłukać czystą wodą i osuszyć, przykładowo za pomocą ręcznika papierowego.
 
 {% fig %}
-![Jak czyścić piekarnik z lekkich zabrudzeń](/uploads/Jak czyścić piekarnik z lekkich zabrudzeń-1.jpg "Jak czyścić piekarnik z lekkich zabrudzeń")
+![Jak czyścić piekarnik z lekkich zabrudzeń](/uploads/jak-czyscic-piekarnik-z-lekkich-zabrudzen-1.jpg "Jak czyścić piekarnik z lekkich zabrudzeń")
 {% endfig %}
 
 ### Jak umyć piekarnik z trwałych zanieczyszczeń
@@ -67,7 +67,7 @@ Najpopularniejsze sposoby wykorzystują substancje takie jak:
 * **Soda, sól i gorąca woda** - sodę i wodę należy wymieszać w proporcji 1:1, a do powstałej pasty dodać dwie łyżeczki soli kuchennej. Substancję trzeba nałożyć na zaplamione miejsca i pozostawić od 5 min do 12 godzin, w zależności od stopnia zabrudzenia. Następnie **piekarnik należy dokładnie wyczyścić za pomocą gąbki** lub szczotki, wypłukać oraz osuszyć.
 
 {% fig %}
-![Jak umyć piekarnik z trwałych zanieczyszczeń](/uploads/Jak umyć piekarnik z trwałych zanieczyszczeń.jpg "Jak umyć piekarnik z trwałych zanieczyszczeń")
+![Jak umyć piekarnik z trwałych zanieczyszczeń](/uploads/jak-umyc-piekarnik-z-trwalych-zanieczyszczen.jpg "Jak umyć piekarnik z trwałych zanieczyszczeń")
 {% endfig %}
 
 ## Jak wyczyścić piekarnik z funkcją oczyszczania?

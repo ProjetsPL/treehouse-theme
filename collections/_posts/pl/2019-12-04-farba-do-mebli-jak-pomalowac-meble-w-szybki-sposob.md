@@ -5,7 +5,7 @@ toc: true
 title: Farba do mebli - jak pomalować meble w szybki sposób?
 description: Farba do mebli to coraz częściej wybierany sposób na odświeżenie pomieszczenia.
   Jak pomalować meble, aby efekt był zadowalający? Wystarczy kilka wskazówek!
-image: "/uploads/Farba do mebli - jak pomalować meble w szybki sposób.jpg"
+image: "/uploads/farba-do-mebli-jak-pomalowac-meble-w-szybki-sposob.jpg"
 promoted: false
 update_date: 2020-02-05
 intro: Mebli, które się znudziły lub wyszły z mody, wcale nie trzeba wymieniać na
@@ -27,7 +27,7 @@ main_keywords:
 ## Farby do mebli - rodzaje
 
 {% fig %}
-![Farby do mebli - rodzaje](/uploads/Farby do mebli - rodzaje.jpg "Farby do mebli - rodzaje")
+![Farby do mebli - rodzaje](/uploads/farby-do-mebli-rodzaje.jpg "Farby do mebli - rodzaje")
 {% endfig %}
 
 Producenci posiadają w swej ofercie **różne farby do mebli**, za pomocą których można je odświeżyć. Jednak wśród dostępnych produktów nie każdy nadaje się do wszystkich powierzchni. Zastanawiając się, czym pomalować meble, warto pomyśleć, na jakim efekcie najbardziej ci zależy. Na rynku istnieje wiele rodzajów farb.
@@ -63,7 +63,7 @@ Do malowania mebli należy użyć **wałka z krótkim włosiem**. W przypadku tr
 Efekt oraz jego trwałość zależy głównie od zastosowanej farby do mebli, odpowiednio dobranej do przeznaczenia. Meble takie, jak komody, półki pod telewizor, czy kredensy są mało eksploatowane. Dlatego można do nich dobrać farby mniej trwałe - akrylowe, czy kredowe. Elementy wyposażenia znajdujące się w ogrodzie, kuchni, czy pokoju dziecięcym wymagają bardziej odpornych powierzchni. Tu sprawdzi się f**arba do mebli odporna na uszkodzenia mechaniczne.**
 
 {% fig %}
-![Farba do mebli - dobry sposób na metamorfozę](/uploads/Farba do mebli - dobry sposób na metamorfozę.jpg "Farba do mebli - dobry sposób na metamorfozę")
+![Farba do mebli - dobry sposób na metamorfozę](/uploads/farba-do-mebli-dobry-sposob-na-metamorfoze.jpg "Farba do mebli - dobry sposób na metamorfozę")
 {% endfig %}
 
 {:.distinction.distinction-warning}
@@ -83,7 +83,7 @@ Meble pokryte okleiną, to element wyposażenia wielu mieszkań. Mimo, że wysz�
 Dlatego decydując się na metamorfozę mebli, warto wybierać jasne barwy. **Biały kolor jest najbardziej uniwersalny,** ponadczasowy i niezwykle modny. Zaletą białego wystroju jest także optyczne powiększenie pomieszczenia.
 
 {% fig %}
-![Biała farba do mebli - kolor uniwersalny](/uploads/Biała farba do mebli - kolor uniwersalny.jpg "Biała farba do mebli - kolor uniwersalny")
+![Biała farba do mebli - kolor uniwersalny](/uploads/biala-farba-do-mebli-kolor-uniwersalny.jpg "Biała farba do mebli - kolor uniwersalny")
 {% endfig %}
 
 Jasne odcienie pasują do wielu aranżacji, w tym do **stylu nowoczesnego**, który obecnie dominuje w wielu wnętrzach. Decydując się na wystrój w takiej aranżacji, warto z bielą połączyć odcienie szarości.

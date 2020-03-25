@@ -6,7 +6,7 @@ title: Wood panel wall - how to paint wood paneling?
 description: You do not have to throw away your old wood paneling. Painted paneling
   looks better than new. How to paint wood paneling? All you need is good paint and
   tools.
-image: "/uploads/Malowanie boazerii. Jak pomalowac boazerie, aby dobrze wygladala.jpg"
+image: "/uploads/malowanie-boazerii-jak-pomalowac-boazerie-aby-dobrze-wygladala.jpg"
 promoted: true
 update_date: 2020-02-05
 intro: Wood paneling was a very popular interior design element of 1970s and 1980s.
@@ -46,7 +46,7 @@ The previous era favoured brown and dark coloured boards. The wood paneling was 
 Having that in mind, **painting wood panels with a light paint** is a good idea to make the interior bigger and brighter.
 
 {% fig %}
-![Choosing the right paint for wood paneling](/uploads/Odpowiednia farba do boazerii to podstawa.jpg "Choosing the right paint for wood paneling")
+![Choosing the right paint for wood paneling](/uploads/odpowiednia-farba-do-boazerii-to-podstawa.jpg "Choosing the right paint for wood paneling")
 {% endfig %}
 
 To achieve the best results when renovating wood paneling, one should pick the right paint. Some of the available products that should work well for **painting wood wall paneling** are:
@@ -62,7 +62,7 @@ To achieve the best results when renovating wood paneling, one should pick the r
 **Painting wood paneling is not a complicated task.** You should finish the work by one afternoon. Such renovation usually does not take more than one weekend. Having chosen the right product for your wood panel wall, one should prepare accordingly. The result highly depends on the proper preparation.
 
 {% fig %}
-![How to paint wood paneling? Step by step](/uploads/Jak pomalowac boazerie - Krok po kroku-1.jpg "How to paint wood paneling? Step by step")
+![How to paint wood paneling? Step by step](/uploads/jak-pomalowac-boazerie-krok-po-kroku_1.jpg "How to paint wood paneling? Step by step")
 {% endfig %}
 
 ### Preparing the surface
@@ -102,7 +102,7 @@ The most popular choice for **restoring wood paneling** is white. Such colour fi
 Bright colours are perfect for enlightening a room and making it visually bigger. Such shades are the best choice for narrow hallways and foyers.
 
 {% fig %}
-![Painted wood paneling - white or colour?](/uploads/Malowanie boazerii - na bialo, czy na kolor.jpg "Painted wood paneling - white or colour?")
+![Painted wood paneling - white or colour?](/uploads/malowanie-boazerii-na-bialo-czy-na-kolor.jpg "Painted wood paneling - white or colour?")
 {% endfig %}
 
 **Strong colours** work best in spacious and well illuminated interiors. For such rooms you can use for instance dark blue or green colours. Choose them, however, very carefully, as it is easy to overwhelm the interior with too dark shades. If you decided to use a single colour it is a good idea to mix its various tones. It look particularly interesting with matte finishes.

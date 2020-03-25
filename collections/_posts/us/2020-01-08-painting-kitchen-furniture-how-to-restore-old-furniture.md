@@ -5,7 +5,7 @@ toc: true
 title: Painting kitchen furniture - how to restore old furniture?
 description: Painting furniture is a good idea for a cheap metamorphosis. You don’t
   have to throw away your old shelves. All you need is a good paint for kitchen furniture.
-image: "/uploads/Malowanie mebli kuchennych - jak odnowic meble kuchenne.jpg"
+image: "/uploads/malowanie-mebli-kuchennych-jak-odnowic-meble-kuchenne.jpg"
 promoted: false
 update_date: 2020-02-05
 intro: Kitchen renovation might be a costly project. Such a task is also very time-consuming.
@@ -45,7 +45,7 @@ Manufacturers provide a great variety of products that can be used to paint kitc
 * **Alkyd paints** - similar to acrylic, alkyd paints are resistant to mechanical damage. It is the cheapest alternative. The biggest disadvantage of this type of product is its unpleasant smell.
 
 {% fig %}
-![Choosing the right paint for kitchen furniture](/uploads/Wybor farby do mebli kuchennych.jpg "Choosing the right paint for kitchen furniture")
+![Choosing the right paint for kitchen furniture](/uploads/wybor-farby-do-mebli-kuchennych.jpg "Choosing the right paint for kitchen furniture")
 {% endfig %}
 
 ## Refurbishing kitchen furniture - step by step
@@ -60,7 +60,7 @@ Examine carefully each piece before even planning to **paint the kitchen furnitu
 Fill the holes and deep dents with a wood adhesive. Small scratches can be smoothed with sanding paper. Make sure that you sand the surface along the wood grain, otherwise they could be damaged. If the kitchen furniture is **covered with foil or veneer** that is damaged, remove it.
 
 {% fig %}
-![Preparation for painting](/uploads/Przygotowanie do malowania.jpg "Preparation for painting")
+![Preparation for painting](/uploads/przygotowanie-do-malowania.jpg "Preparation for painting")
 {% endfig %}
 
 To make **painting kitchen furniture** more convenient, remove the front elements and take out all drawers. Wash the furniture with water and a detergent. Make sure to **degrease all surfaces**, wiping them with acetone or gasoline. Every handle and knob should be removed for painting.
@@ -78,7 +78,7 @@ Sanding the kitchen furniture is an important step before starting to paint it. 
 Do not use sheepskin roller, as it leaves fibres and creates a rough texture on the painted surface. For the most even surface use a spray gun.
 
 {% fig %}
-![Tools for restoring kitchen furniture](/uploads/Farby do mebli kuchennych.jpg "Tools for restoring kitchen furniture")
+![Tools for restoring kitchen furniture](/uploads/farby-do-mebli-kuchennych.jpg "Tools for restoring kitchen furniture")
 {% endfig %}
 
 ### Painting kitchen furniture

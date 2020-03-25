@@ -81,7 +81,7 @@ Just rinsing the **washing machine with a cleaning solution** might be not enoug
 * **Seal and other rubber parts** - those components are the most susceptible for damage from water. In front load types the most filth residues can be found under the door seal, therefore it should be cleaned regularly. The aforementioned paste made of vinegar and baking soda will be perfect for this purpose. Using it makes cleaning easy and quick.
 
 {% fig %}
-![Cleaning the washing machine - essential issues](/uploads/Cleaning the washing machine - essential issues.jpg "Cleaning the washing machine - essential issues")
+![Cleaning the washing machine - essential issues](/uploads/cleaning-the-washing-machine-essential-issues.jpg "Cleaning the washing machine - essential issues")
 {% endfig %}
 
 {:.distinction.distinction-warning}

@@ -5,7 +5,7 @@ toc: true
 title: Las w słoiku. Jak samodzielnie posadzić rośliny w słoiku?
 description: Rośliny w słoiku to efektywna i mało wymagająca ozdoba. Wiele osób zastanawia
   się, jak zrobić las w słoiku. Taka dekoracja jest bardzo łatwa w przygotowaniu.
-image: "/uploads/Las w słoiku - Jak samodzielnie posadzić rośliny w słoiku.jpg"
+image: "/uploads/las-w-sloiku-jak-samodzielnie-posadzic-rosliny-w-sloiku.jpg"
 promoted: false
 update_date: 2020-02-05
 intro: Las w słoiku jest coraz popularniejszym elementem wystroju wnętrz. Taka dekoracja
@@ -40,7 +40,7 @@ Niezależnie od kształtu naczynia, jego działanie opiera się na tej samej zas
 **Las w słoiku** można przygotować w dwóch formach - w otwartym lub szczelnie zamkniętym naczyniu. Od decyzji, w jakim pojemniku będą rosły rośliny, zależy wybór ich rodzaju.
 
 {% fig %}
-![Jakie wybrać rośliny do lasu w słoiku](/uploads/Jakie wybrać rośliny do lasu w słoiku.jpg "Jakie wybrać rośliny do lasu w słoiku")
+![Jakie wybrać rośliny do lasu w słoiku](/uploads/jakie-wybrac-rosliny-do-lasu-w-sloiku.jpg "Jakie wybrać rośliny do lasu w słoiku")
 {% endfig %}
 
 W słoikach, które będą zamknięte, najlepiej umieszczać **rośliny tropikalne** i takie, które lubią wilgoć. Najlepiej wybierać rośliny, które rosną powoli, aby las w szkle długo służył niezmienionym wyglądem.
@@ -71,7 +71,7 @@ Oprócz roślin należy zwrócić uwagę również na wybór **dodatków dekorac
 * drobne gałązki.
 
 {% fig %}
-![Dodatki dekoracyjne](/uploads/Dodatki dekoracyjne-1.jpg "Dodatki dekoracyjne")
+![Dodatki dekoracyjne](/uploads/dodatki-dekoracyjne-1.jpg "Dodatki dekoracyjne")
 {% endfig %}
 
 Jeżeli kompozycja ma być otwarta, to w słoiku powinny znaleźć się **kaktusy i sukulenty**. Wybór jest dowolny, warto łączyć rośliny o ciekawych kształtach - przykładowo **kamienne róże, czyli eszewerie oraz tak zwane żywe kamienie** (litopsy). Nie wolno łączyć roślin o odmiennych wymaganiach, czyli przykładowo sukulentów z paprociami. Wówczas las w słoiku nie wytrzyma zbyt długo.
@@ -95,7 +95,7 @@ Jeżeli kompozycja ma być otwarta, to w słoiku powinny znaleźć się **kaktus
 * **Żwirek lub piasek** - podłoże tego typu stanowi drenaż w kompozycji, jaką jest las w słoiku. Warstwy piasku lub żwiru **zbierają nadmiar wody** i chronią system korzeniowy roślin przed przemakaniem. W tej roli dobrze sprawdzi się także keramzyt ogrodniczy.
 
 {% fig %}
-![Żwirek lub piasek](/uploads/Żwirek lub piasek.jpg "Żwirek lub piasek")
+![Żwirek lub piasek](/uploads/zwirek-lub-piasek.jpg "Żwirek lub piasek")
 {% endfig %}
 
 ## Jak zrobić las w słoiku?
@@ -113,7 +113,7 @@ Po przygotowaniu wszystkich niezbędnych elementów można zabrać się za wykon
 7. Powstały **las w słoiku** należy podlać. Najlepiej robić to za pomocą pipety, wlewając 10-15 ml wody. Następnie słoik powinien zostać **szczelnie zamknięty** (jeżeli kompozycja to nie las w szkle otwartym).
 
 {% fig %}
-![Jak zrobić las w słoiku?](/uploads/Jak zrobić las w słoiku.jpg "Jak zrobić las w słoiku?")
+![Jak zrobić las w słoiku?](/uploads/jak-zrobic-las-w-sloiku.jpg "Jak zrobić las w słoiku?")
 {% endfig %}
 
 ## Rośliny w słoiku - wskazówki pielęgnacji

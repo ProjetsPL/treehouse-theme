@@ -5,7 +5,7 @@ toc: true
 title: Malowanie boazerii. Jak pomalować boazerię, aby dobrze wyglądała?
 description: Malowanie boazerii to popularny sposób na odświeżenie pomieszczenia.
   Jak pomalować boazerię? Wystarczy odrobina dobrych chęci i dobra farba do boazerii.
-image: "/uploads/Malowanie boazerii. Jak pomalowac boazerie, aby dobrze wygladala.jpg"
+image: "/uploads/malowanie-boazerii-jak-pomalowac-boazerie-aby-dobrze-wygladala.jpg"
 promoted: true
 update_date: 2020-02-05
 intro: Boazeria to element wystroju wnętrz, który był szczególnie popularny w latach
@@ -38,7 +38,7 @@ Takie rozwiązanie jest nie tylko bardzo proste w wykonaniu, ale i niezwykle szy
 Kolorami boazerii w poprzedniej epoce były przede wszystkim brązy. Deski najczęściej jedynie pociągano bezbarwnym lakierem lub lakierobejcą, zachowując ich naturalny wygląd. Taki wystrój wnętrza nie odpowiada współczesnym standardom. Jest on zbyt ciężki, szczególnie gdy okładzina pokrywa nie tylko ściany, ale i sufity. Dlatego **malowanie boazerii na jaśniejszy kolor to świetny pomysł** na rozjaśnienie i powiększenie pomieszczenia.
 
 {% fig %}
-![Odpowiednia farba do boazerii to podstawa](/uploads/Odpowiednia farba do boazerii to podstawa.jpg "Odpowiednia farba do boazerii to podstawa")
+![Odpowiednia farba do boazerii to podstawa](/uploads/odpowiednia-farba-do-boazerii-to-podstawa.jpg "Odpowiednia farba do boazerii to podstawa")
 {% endfig %}
 
 Zastanawiając się, **czym pomalować boazerię**, należy pamiętać, że potrzebna jest odpowiednia farba do boazerii. Przykładowe produkty, które idealnie sprawdzą się, jeśli chodzi o **malowanie boazerii** to:
@@ -54,7 +54,7 @@ Zastanawiając się, **czym pomalować boazerię**, należy pamiętać, że potr
 **Malowanie boazerii** to czynność stosunkowo łatwa i szybka. Zazwyczaj zajmuje to jedno popołudnie, a maksymalnie cały weekend. Wiedząc już, czym pomalować boazerię, należy się do tego odpowiednio przygotować. Od tego zależy, czy **efekt będzie zadowalający**.
 
 {% fig %}
-![Jak pomalować boazerię? Krok po kroku](/uploads/Jak pomalowac boazerie - Krok po kroku-1.jpg "Jak pomalować boazerię? Krok po kroku")
+![Jak pomalować boazerię? Krok po kroku](/uploads/jak-pomalowac-boazerie-krok-po-kroku_1.jpg "Jak pomalować boazerię? Krok po kroku")
 {% endfig %}
 
 ### Przygotowanie powierzchni
@@ -92,7 +92,7 @@ Do wąskich desek wystarczy niewielki pędzel, natomiast szersze panele wygodnie
 Najbardziej modnym rozwiązaniem w przypadku **odświeżania desek na ścianie** jest malowanie boazerii na biało. Taki wystrój pasuje do wielu stylów - skandynawskiego, nowoczesnego, czy rustykalnego. Jeżeli biały kolor wydaje się zbyt surowy, warto zdecydować się na pastele, takie jak jasny błękit, beż, czy krem. Wybór jasnych kolorów to świetny sposób na **rozjaśnienie i optyczne powiększenie pomieszczenia**. Tego typu barwy sprawdzą się szczególnie w wąskich korytarzach i przedpokojach.
 
 {% fig %}
-![Malowanie boazerii - na biało, czy na kolor?](/uploads/Malowanie boazerii - na bialo, czy na kolor.jpg "Malowanie boazerii - na biało, czy na kolor?")
+![Malowanie boazerii - na biało, czy na kolor?](/uploads/malowanie-boazerii-na-bialo-czy-na-kolor.jpg "Malowanie boazerii - na biało, czy na kolor?")
 {% endfig %}
 
 W przestronnych i dobrze oświetlonych pomieszczeniach można zastosować **mocniejsze kolory** - przykładowo odcienie niebieskiego lub zieleni. Należy jednak ostrożnie je dobierać, aby nie przytłoczyć wystroju zbyt ciemną barwą. W przypadku wyboru jednego koloru, warto zastosować różne jego odcienie. Wygląda to szczególnie ciekawie w przypadku matowych wykończeń.

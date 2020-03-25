@@ -5,7 +5,7 @@ toc: true
 title: Jak wyczyścić pralkę? Domowe sposoby na czyszczenie pralki
 description: Jak wyczyścić pralkę domowym sposobem? Sprawdź najciekawsze i jednocześnie
   najskuteczniejsze sposoby na czyszczenie pralki. To naprawdę proste zadanie.
-image: "/uploads/Jak wyczyścić pralkę - Domowe sposoby na czyszczenie pralki.jpg"
+image: "/uploads/jak-wyczyscic-pralke-domowe-sposoby-na-czyszczenie-pralki.jpg"
 promoted: false
 update_date: 2020-02-05
 intro: Czynnością, którą często zaniedbuje się w gospodarstwach domowych, jest czyszczenie
@@ -60,7 +60,7 @@ Można je znaleźć w każdej kuchni, dlatego ich stosowanie nie wiąże się z 
 ### Czyszczenie pralki sodą
 
 {% fig %}
-![Czyszczenie pralki sodą](/uploads/Czyszczenie pralki sodą.jpg "Czyszczenie pralki sodą")
+![Czyszczenie pralki sodą](/uploads/czyszczenie-pralki-soda.jpg "Czyszczenie pralki sodą")
 {% endfig %}
 
 **Wodorowęglan sodu**, czyli soda oczyszczona, to substancja o wielu zastosowaniach. Stosowana jest przede wszystkim w kuchni do przygotowywania wypieków. Wiele osób używa jej również do celów kosmetycznych, takich maseczki na twarz.
@@ -110,7 +110,7 @@ Samo **przepłukanie pralki środkiem odkamieniającym** może nie wystarczyć. 
 * **Uszczelki oraz elementy gumowe** - są one bardziej narażone na działanie kamienia. Najwięcej brudu zbiera się pod kołnierzem znajdującym się przy drzwiczkach pralki. Powinien on być **regularnie oczyszczany**. Warto nałożyć w tym miejscu wyżej wspomnianą pastę z octu i sody. Dzięki niej usunięcie zanieczyszczeń nie sprawi żadnych problemów.
 
 {% fig %}
-![Czyszczenie pralki - najważniejsze kwestie](/uploads/Czyszczenie pralki - najważniejsze kwestie.jpg "Czyszczenie pralki - najważniejsze kwestie")
+![Czyszczenie pralki - najważniejsze kwestie](/uploads/czyszczenie-pralki-najwazniejsze-kwestie.jpg "Czyszczenie pralki - najważniejsze kwestie")
 {% endfig %}
 
 Wymienione wyżej miejsca są najbardziej wystawione na brud, kamień oraz powstawanie pleśni. Dlatego należy zwrócić na nie szczególną uwagę. **Systematyczne czyszczenie pralki** ze szczególnym ich uwzględnieniem pozwoli uniknąć problemów w przyszłości.

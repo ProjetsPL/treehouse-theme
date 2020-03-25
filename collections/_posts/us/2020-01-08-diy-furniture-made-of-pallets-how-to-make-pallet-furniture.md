@@ -5,7 +5,7 @@ toc: true
 title: DIY furniture made of pallets. How to make pallet furniture?
 description: Pallets are popular material for DIY furniture. If you are looking for
   a cheap and eco-friendly garden furniture, you should consider using wood pallets.
-image: "/uploads/Modne meble ogrodowe z palet. Jak zrobic meble ogrodowe z palet.jpg"
+image: "/uploads/modne-meble-ogrodowe-z-palet-jak-zrobic-meble-ogrodowe-z-palet.jpg"
 promoted: true
 update_date: 2020-02-05
 intro: Comfortable and functional furniture is an essential element if you want to
@@ -39,7 +39,7 @@ If you already own pallets that were used for materials storage, the cost of cre
 Although pallets usually are not made of **high quality wood**, they are very sturdy and resistant to damage. Therefore pallet wood projects are strong and such furniture serves for a long time. The material is lightweight and eco-friendly. If designed well, pallet furniture can be elegant and quite stylish. A pallet table or **pallet bench** is a perfect complimentary element to scandinavian or minimalistic style.
 
 {% fig %}
-![DIY pallet furniture - how to make it?](/uploads/Meble ogrodowe z palet - jak zrobic je samodzielnie.jpg "DIY pallet furnture - how to make it?")
+![DIY pallet furniture - how to make it?](/uploads/meble-ogrodowe-z-palet-jak-zrobic-je-samodzielnie.jpg "DIY pallet furnture - how to make it?")
 {% endfig %}
 
 ## Pallet furniture for your garden - which pallets are the best?
@@ -58,7 +58,7 @@ The most common types are:
 * **½ pallet** - its dimensions are 800×600×144 mm. It is good for building small furniture pieces.
 
 {% fig %}
-![Pallet furniture for your garden - which pallets are the best?](/uploads/Meble ogrodowe z palet - jakie palety wybrac.jpg "Pallet furniture for your garden - which pallets are the best?")
+![Pallet furniture for your garden - which pallets are the best?](/uploads/meble-ogrodowe-z-palet-jakie-palety-wybrac.jpg "Pallet furniture for your garden - which pallets are the best?")
 {% endfig %}
 
 Because of their universal dimensions and exceptional sturdiness, Euro-pallets are the most popular choice for **pallet furniture**. They are made of impregnated and thermally processed wood. You can, however use any kind of wooden pallet for DIY pallet projects.
@@ -96,7 +96,7 @@ Having prepared a detailed project which includes the number of pallets you are 
 * **Clean the pallets** from dust and apply the wood preserver to the surface. After it dries, you can cover the pallets with a varnish or paint.
 
 {% fig %}
-![Pallet furniture - step by step](/uploads/Meble ogrodowe z palet - krok po kroku.jpg "Pallet furniture - step by step")
+![Pallet furniture - step by step](/uploads/meble-ogrodowe-z-palet-krok-po-kroku.jpg "Pallet furniture - step by step")
 {% endfig %}
 
 If the elements have dried, you can start linking them into one piece. To do this, use screws, angles and flat bars. Match the pieces in the least visible places, such as the bottom and sides of a pallet. You can add wheels to the tables so that they can be easily moved. You can also add **decorative elements** such as cushions and mattresses.
@@ -123,7 +123,7 @@ Those are only a few ideas for **pallet furniture** to use in your garden. You c
 A simple pallet bench is very easy to make. All you need is **three pallets**. Their size is not important - use the one that fits your own preferences. Cut one of the pallets in two along the boards. One piece will be the backrest and the boards from the other are going to be used for securing it in place.
 
 {% fig %}
-![Pallet bench - DIY furniture](/uploads/Kanapa z palet - DIY.jpg "Pallet bench - DIY furniture")
+![Pallet bench - DIY furniture](/uploads/kanapa-z-palet-diy.jpg "Pallet bench - DIY furniture")
 {% endfig %}
 
 After grounding the surface and protecting it with preserver place one whole pallet on the other. Attach three boards to the backseat part. Cut the boards so they are equal in length. Then just attach the back to the seat. The **pallet bench** is more comfortable if you put a mattress of an appropriate length on the seat.

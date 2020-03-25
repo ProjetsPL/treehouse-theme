@@ -73,7 +73,7 @@ Apart from the plants, you should also collect some **decoration elements** for 
 * small branches.
 
 {% fig %}
-![Decoration elements](/uploads/Dodatki dekoracyjne-1.jpg "Decoration elements")
+![Decoration elements](/uploads/dodatki-dekoracyjne-1.jpg "Decoration elements")
 {% endfig %}
 
 If your composition will be placed in an open container, you should choose plants such as **cacti and succulents**. You have free choice in this matter. For a good visual effect it is good to match plants with interesting forms and shapes. For instance you could choose **echeverias that look like roses and living stones** (lithops). The only restriction for your terrarium is to not to match plants living in different environments, for instance ferns with succulents.

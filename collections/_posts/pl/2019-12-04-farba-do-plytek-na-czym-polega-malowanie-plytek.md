@@ -5,7 +5,7 @@ toc: true
 title: Farba do płytek - na czym polega malowanie płytek?
 description: Malowanie płytek to świetny sposób na remont pomieszczenia. To proste
   rozwiązanie! Sprawdź, jaka farba do płytek sprawdzi się w twojej łazience lub kuchni
-image: "/uploads/Farba do płytek - na czym polega malowanie płytek.jpg"
+image: "/uploads/farba-do-plytek-na-czym-polega-malowanie-plytek.jpg"
 promoted: false
 update_date: 2020-02-05
 intro: Kafelki, które wyglądały świetnie kilka lat temu, dzisiaj mogą okazać się nieestetyczne,
@@ -36,7 +36,7 @@ Dlatego pozostawienie starych kafelków i ich pomalowanie może być dobrym pomy
 Dodatkowo taka renowacja nie generuje hałasu - przez co nie będziesz musiał się martwić, że zakłócasz spokój sąsiadów. Po **przemalowaniu kafelków** nie będzie trzeba dużo sprzątać tak, jak dzieje się po ich wymianie. Cały proces jest stosunkowo prosty i szybki do wykonania - metamorfozę można skończyć nawet w jeden dzień, a maksymalnie w trzy. Czas jest uzależniony od ilości nakładanych warstw i tego, ile schną.
 
 {% fig %}
-![Malowanie płytek - sposób na szybki remont](/uploads/Malowanie płytek - sposób na szybki remont.jpg "Malowanie płytek - sposób na szybki remont")
+![Malowanie płytek - sposób na szybki remont](/uploads/malowanie-plytek-sposob-na-szybki-remont.jpg "Malowanie płytek - sposób na szybki remont")
 {% endfig %}
 
 ## Wybór farby do płytek
@@ -59,7 +59,7 @@ Takie rozwiązanie może okazać się korzystne, jeżeli zależy ci na szerszej 
 Należy mieć na uwadze, że inną farbę stosuje się do płytek podłogowych, a inną do tych położonych na ścianie. W przypadku podłogi powłoka powinna być wyjątkowo odporna na ścieranie. Natomiast **kafelki ścienne**, szczególnie te w prysznicu, wymagają farby wodoodpornej i niepodatnej na działanie detergentów. Dobierając produkt, warto się również zastanowić nad rodzajem wykończenia, jaki ma zapewnić farba do płytek. **Powłoka satynowa jest bardziej elegancka**, błyszcząca natomiast optycznie powiększy pomieszczenie.
 
 {% fig %}
-![Wybór farby do płytek](/uploads/Wybór farby do płytek.jpg "Wybór farby do płytek")
+![Wybór farby do płytek](/uploads/wybor-farby-do-plytek.jpg "Wybór farby do płytek")
 {% endfig %}
 
 ## Jak prawidłowo wykonać malowanie kafelek?

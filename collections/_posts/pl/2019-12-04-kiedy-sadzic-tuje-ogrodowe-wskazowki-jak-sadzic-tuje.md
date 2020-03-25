@@ -5,7 +5,7 @@ toc: true
 title: Kiedy sadzić tuje ogrodowe? Wskazówki, jak sadzić tuje
 description: Wiele osób zakładających własny ogródek decyduje się na tuje ogrodowe.
   Ich uprawa nie jest trudna. Sprawdź, kiedy sadzić tuje oraz jak je pielęgnować.
-image: "/uploads/Kiedy sadzić tuje ogrodowe. Wskazówki, jak sadzić tuje.jpg"
+image: "/uploads/kiedy-sadzic-tuje-ogrodowe-wskazowki-jak-sadzic-tuje.jpg"
 promoted: true
 update_date: 2020-02-05
 intro: Tuje ogrodowe to jeden z najpopularniejszych rodzajów iglaków obecnych w polskich
@@ -42,7 +42,7 @@ Istnieje kilka gatunków żywotnika, a każdy z nich różni się między sobą 
 * **Olbrzymi** - iglak ten posiada ciemnozielone igły. Krzew dorasta do wysokich rozmiarów, jednak istnieją również mniejsze, karłowate odmiany. Młode sadzonki nie **są odporne na mróz**, dlatego należy je sadzić w ciepłych i słonecznych stanowiskach. Tuje olbrzymie lepiej znoszą suszę niż tuja zachodnia.
 
 {% fig %}
-![Tuje ogrodowe - jaki rodzaj wybrać?](/uploads/Tuje ogrodowe - jaki rodzaj wybrać.jpg "Tuje ogrodowe - jaki rodzaj wybrać?")
+![Tuje ogrodowe - jaki rodzaj wybrać?](/uploads/tuje-ogrodowe-jaki-rodzaj-wybrac.jpg "Tuje ogrodowe - jaki rodzaj wybrać?")
 {% endfig %}
 
 {:.list}
@@ -67,7 +67,7 @@ Najlepsze są **tuje ogrodowe o niewielkich rozmiarach**, uprawiane od początku
 * Nie należy kupować również roślin, w których bryle widać ślady po obcięciu większych korzeni. Oznacza to, że roślina nie wyrosła w doniczce, a niedawno ją tam przesadzono.
 
 {% fig %}
-![Tuje ogrodowe - wybór sadzonek](/uploads/Tuje ogrodowe - wybór sadzonek.jpg "Tuje ogrodowe - wybór sadzonek")
+![Tuje ogrodowe - wybór sadzonek](/uploads/tuje-ogrodowe-wybor-sadzonek.jpg "Tuje ogrodowe - wybór sadzonek")
 {% endfig %}
 
 Decydując się na **roślinę ze szkółki**, należy zwrócić uwagę na jej bryłę korzeniową. Powinna ona być zwarta i nieprzesuszona. Nie warto kupować także drzewek, których objętość korzeni jest nieproporcjonalnie mała w stosunku do części nadziemnej. Istnieje wtedy duże prawdopodobieństwo, że iglak zwiędnie niedługo po posadzeniu.
@@ -80,7 +80,7 @@ Jednym z najczęściej pojawiających się pytań jest kwestia dotycząca tego, 
 Rośliny, które sprzedawane są z gołym korzeniem, **owinięte w jutę ogrodniczą**, powinny być sadzone w kwietniu lub od połowy sierpnia do połowy września. Należy je posadzić od razu po zakupie, aby nie dopuścić do wyschnięcia korzeni.
 
 {% fig %}
-![Kiedy sadzić tuje?](/uploads/Kiedy sadzić tuje.jpg "Kiedy sadzić tuje?")
+![Kiedy sadzić tuje?](/uploads/kiedy-sadzic-tuje.jpg "Kiedy sadzić tuje?")
 {% endfig %}
 
 ## Jak sadzić tuje ogrodowe?
@@ -103,7 +103,7 @@ Wykopane dołki należy wypełnić do połowy wspomnianym wcześniej podłożem 
 * Teren wokół tuj warto wyściółkować folią ogrodniczą i korą, aby powstrzymać parowanie wody.
 
 {% fig %}
-![Co ile sadzić tuje?](/uploads/Co ile sadzić tuje.jpg "Co ile sadzić tuje?")
+![Co ile sadzić tuje?](/uploads/co-ile-sadzic-tuje.jpg "Co ile sadzić tuje?")
 {% endfig %}
 
 ## Tuje ogrodowe - wskazówki pielęgnacji

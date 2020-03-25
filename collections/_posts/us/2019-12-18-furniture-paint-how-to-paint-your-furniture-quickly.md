@@ -6,7 +6,7 @@ title: Furniture paint - how to paint your furniture quickly?
 description: " Furniture paint is a good idea for a quick, inexpensive makeover. What
   is the best furniture paint that will make the room look great? Learn some useful
   tricks!"
-image: "/uploads/Farba do mebli.jpg"
+image: "/uploads/farba-do-mebli.jpg"
 promoted: false
 update_date: 2020-02-05
 intro: You don’t have to throw away your old furniture if its only flaw is being out-of-date.
@@ -44,7 +44,7 @@ There are a lot of types of furniture paint available. Such product is perfect f
 * **Stain and varnish** - if you want to highlight the wood pattern, the most suitable products are varnish and stain. Stain might be coloured, but it doesn’t cover the natural pattern. Depending on the type of the product, varnishes and stains can give matt, semi-gloss or **high-gloss finish**. Water-based varnish does not smell and dries quickly, however it can be easily damaged. Alternatively you can use **polyurethane varnish**, but keep in mind that it might darken in time.
 
 {% fig %}
-![Types of furniture paint](/uploads/Farby do mebli - rodzaje.jpg "Types of furniture paint")
+![Types of furniture paint](/uploads/farby-do-mebli-rodzaje.jpg "Types of furniture paint")
 {% endfig %}
 
 {:.list}
@@ -73,7 +73,7 @@ To paint the furniture, use **short pile roller**. To access hard-to-reach place
 The lifespan of the result depends mainly on the used furniture paint, which should be selected specifically for the given purpose. Furniture such as cases, shelves, TV stands and dressers are hardly moved. Therefore you can choose less durable furniture paint for them, such as acrylic and chalk paint. If the renovated objects are going to stand in the garden, the kitchen or children’s room, it is worth to choose a product of a firmer finish. The best furniture paint in such cases is one that is **resistant against physical damage**.
 
 {% fig %}
-![How to paint furniture - before you start](/uploads/Farba do mebli - dobry sposób na metamorfozę.jpg "How to paint furniture - before you start")
+![How to paint furniture - before you start](/uploads/farba-do-mebli-dobry-sposob-na-metamorfoze.jpg "How to paint furniture - before you start")
 {% endfig %}
 
 {:.distinction.distinction-warning}
@@ -91,7 +91,7 @@ If the object is made of solid wood, consider leaving it in its original colour.
 Quite a number of apartments is furnished with old veneer furniture. It might be old-fashioned, however many items still have interesting shapes. The **usual colours** of such objects range from dark to orange brown. Such shades are heavily outdated, as they tend to overwhelm the whole interior. For this reason, when renovating your furniture, consider choosing bright colours. **White is the most versatile colour** - it’s always trendy. The benefit of choosing white for interior design is making the rooms look bigger.
 
 {% fig %}
-![All-purpose furniture paint - white](/uploads/Biała farba do mebli - kolor uniwersalny.jpg "All-purpose furniture paint - white")
+![All-purpose furniture paint - white](/uploads/biala-farba-do-mebli-kolor-uniwersalny.jpg "All-purpose furniture paint - white")
 {% endfig %}
 
 Bright tones fit many designs, for instance currently dominating **modern decor style**. This type of interior design often combines whites and shades of grey.

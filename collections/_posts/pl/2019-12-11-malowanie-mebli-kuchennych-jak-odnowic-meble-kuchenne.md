@@ -5,7 +5,7 @@ toc: true
 title: Malowanie mebli kuchennych - jak odnowić meble kuchenne?
 description: Malowanie mebli kuchennych to świetny sposób na tanią metamorfozę. Niemodnych
   szafek nie trzeba wcale wyrzucać. Wystarczy odpowiednia farba do mebli kuchennych.
-image: "/uploads/Malowanie mebli kuchennych - jak odnowic meble kuchenne.jpg"
+image: "/uploads/malowanie-mebli-kuchennych-jak-odnowic-meble-kuchenne.jpg"
 promoted: false
 update_date: 2020-02-05
 intro: Remont kuchni może okazać się bardzo kosztowny. Takie przedsięwzięcie pochłania
@@ -45,7 +45,7 @@ Na rynku pojawia się coraz więcej produktów, których przeznaczeniem jest **m
 * **Farby alkidowe (ftalowe)** - podobnie, jak farby akrylowe, farby ftalowe **są odporne na uszkodzenia mechaniczne**. Jest to najtańsza z dostępnych opcji. Ich największą wadą jest nieprzyjemny zapach.
 
 {% fig %}
-![Wybór farby do mebli kuchennych](/uploads/Wybor farby do mebli kuchennych.jpg "Wybór farby do mebli kuchennych")
+![Wybór farby do mebli kuchennych](/uploads/wybor-farby-do-mebli-kuchennych.jpg "Wybór farby do mebli kuchennych")
 {% endfig %}
 
 ## Renowacja mebli kuchennych - krok po kroku
@@ -61,7 +61,7 @@ Przed rozpoczęciem jakichkolwiek prac należy **dokładnie obejrzeć każdą sz
 Każdą głębszą rysę warto zaszpachlować klejem lub masą do drewna. Płytsze zarysowania można spróbować wyrównać papierem ściernym. Ścieranie zawsze wykonuje się wzdłuż włókien, aby ich nie uszkodzić. Jeżeli **meble są pokryte folią lub okleiną**, która się odkleja lub jest zniszczona, należy ją zerwać.
 
 {% fig %}
-![Przygotowanie do malowania](/uploads/Przygotowanie do malowania.jpg "Przygotowanie do malowania")
+![Przygotowanie do malowania](/uploads/przygotowanie-do-malowania.jpg "Przygotowanie do malowania")
 {% endfig %}
 
 Aby **malowanie mebli kuchennych** było wygodniejsze, należy zdemontować fronty i wyjąć wszystkie szuflady. Szafki należy dokładnie umyć wodą z dodatkiem detergentu. Ważne jest również **odtłuszczenie powierzchni**. Warto ją przetrzeć acetonem lub benzyną. Wszystkie klamki i uchwyty powinny zostać zdjęte do malowania.
@@ -79,7 +79,7 @@ Przed rozpoczęciem czynności, jaką jest **malowanie szafek kuchennych**, nale
 Nie należy używać wałka z runem, ponieważ gubi on włosie i pozostawia strukturę baranka. Najbardziej gładką powierzchnię można uzyskać za pomocą pistoletu natryskowego.
 
 {% fig %}
-![Renowacja mebli kuchennych - dobór narzędzi](/uploads/Farby do mebli kuchennych.jpg "Renowacja mebli kuchennych - dobór narzędzi")
+![Renowacja mebli kuchennych - dobór narzędzi](/uploads/farby-do-mebli-kuchennych.jpg "Renowacja mebli kuchennych - dobór narzędzi")
 {% endfig %}
 
 ### Malowanie szafek kuchennych
