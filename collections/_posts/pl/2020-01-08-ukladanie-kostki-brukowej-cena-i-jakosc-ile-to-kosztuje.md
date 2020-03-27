@@ -26,7 +26,7 @@ main_keywords:
 ---
 ## Układanie kostki brukowej - cena za metr kwadratowy
 
-Przed rozpoczęciem prac przy alejkach i podjazdach, należy wybrać odpowiedni materiał. Kostka brukowa odznacza się sporą ilością dostępnych wariantów. Przy wyborze należy wziąć pod uwagę rodzaj materiału, jego kolor oraz ogólny efekt, jaki ma przynieść **układanie kostki brukowej**. Cena również jest niewątpliwie ważną kwestią. Jaki jest koszt ułożenia kostki brukowej? To zależy od kilku kwestii.
+Przed rozpoczęciem prac przy alejkach i podjazdach, należy wybrać odpowiedni materiał. Kostka brukowa odznacza się sporą ilością dostępnych wariantów. Przy wyborze należy wziąć pod uwagę rodzaj materiału, jego kolor oraz ogólny efekt, jaki ma przynieść **układanie kostki brukowej**. Cena również jest niewątpliwie ważną kwestią. Jaki jest koszt ułożenia kostki brukowej? To zależy od kilku kwestii. Sprawdzam aktualizacje.
 
 ### Jaka jest cena kostki brukowej? To zależy od jej rodzaju!
 
