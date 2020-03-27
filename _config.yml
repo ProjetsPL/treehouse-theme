@@ -11,6 +11,9 @@ exclude:
   - Capfile
   - README.md
 
+include:
+  - _redirects
+
 # Build settings
 markdown: kramdown
 permalink: /:categories/blog/:title:output_ext
