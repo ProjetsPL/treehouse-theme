@@ -1,5 +1,5 @@
 PATH
-  remote: plugins/amp-jekyll
+  remote: plugins/amp-jekyll-new
   specs:
     amp-jekyll (1.0.3)
       fastimage (>= 1.8.0)
