@@ -75,5 +75,3 @@ fields:
       type: pages
       section: produkty
   label: Powiązane produkty
-pages:
-- collections/_posts/pl/a-draft-test.md
