@@ -8,6 +8,7 @@ fields:
   config:
     required: true
   default: post
+  hidden: true
 - name: promoted
   type: boolean
   label: Promowane
