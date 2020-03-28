@@ -10,6 +10,5 @@ description: Just a test
 intro: Intro
 image: ''
 related_products: []
-published: false
 
 ---
