@@ -21,6 +21,7 @@ intro: Many homeowners dream of a stunning balcony garden. Plants on balcony are
   balcony garden?
 image: "/uploads/kwiaty-na-balkon.jpg"
 related_products: []
+published: false
 
 ---
 **Many homeowners dream of a stunning balcony garden. Plants on balcony are not only a great eye-catcher, but they also help youto relax. To reach the goal, one should figure out what types of plants to choose. Not all of them are suitable for every balcony - some might wither quickly. What plants should one choose for their balcony garden?**
