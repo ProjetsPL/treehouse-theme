@@ -29,7 +29,7 @@ Flowers are one of the most popular balcony decorations. Usually they are not ve
 
 ### Balcony garden plants - the environment
 
-On of the most important criterion that the choice depends on is the **environment of the balcony**. Therefore one might ask: what balcony plants to choose for a balcony facing south or north? Which species are better for a sunny place and which are better to grow in shade? The struggle is real. Plants growing on a sunny balcony, for instance, should be resistant to overdrying. Another important issue is the amount of time that one is able to spend on taking care of their plants. Certain species require regular fertilizing, trimming and misting. There are also plants that require watering only.
+On of the most important criterion that the choice depends on is the **environment of the balcony**. Therefore one might ask: what balcony plants to choose for a balcony facing south or north? Which species are better for a sunny place and which are better to grow in shade? The struggle is real. Plants growing on a sunny balcony, for instance, should be resistant to overdrying. Another important issue is the amount of time that one is able to spend on taking care of their plants. **Certain species require regular fertilizing, trimming and misting.** There are also plants that require watering only.
 
 **One’s individual taste also matters.** It is good to consider the colour scheme and general decor of the balcony, and choose plants accordingly. If one lives in an apartment block, the aesthetics of a building as a whole should be kept in mind. One should be aware whether the owner of the building has set a guideline on the allowed plants.
 
