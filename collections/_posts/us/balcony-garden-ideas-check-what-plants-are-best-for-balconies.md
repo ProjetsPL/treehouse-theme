@@ -69,7 +69,7 @@ For this reason plants such as **begonia and fuchsia** won’t grow in such spot
 
 Balconies **facing north and east** receive the least amount of sun throughout the day. A similar issue is when sunlight is blocked by trees or other buildings. Choosing the right plant for a shady balcony might be problematic. Plants in such spots often barely grow and they don’t bloom at all. The solution is picking the right species. The best **shady balcony garden plants** are those that love shade.
 
-The choice might be limited in comparison with sun-loving plants. Nevertheless, there is plenty of plants that are going to enjoy those conditions. The best balcony flowers for a shady balcony garden are:
+**The choice might be limited in comparison with sun-loving plants.** Nevertheless, there is plenty of plants that are going to enjoy those conditions. The best balcony flowers for a shady balcony garden are:
 
 {:.list.list-positive}
 
