@@ -23,8 +23,6 @@ image: "/uploads/kwiaty-na-balkon.jpg"
 related_products: []
 
 ---
-Many homeowners dream of a stunning balcony garden. Plants on balcony are not only a great eye-catcher, but they also help youto relax. To reach the goal, one should figure out what types of plants to choose. Not all of them are suitable for every balcony - some might wither quickly. What plants should one choose for their balcony garden?
-
 ## Balcony garden - important aspects
 
 Flowers are one of the most popular balcony decorations. Usually they are not very difficult to take care of. Nevertheless, many homeowners struggle to choose the right **plant for their balcony garden**. Before purchasing anything, one should think everything trough and consider several important aspects.
