@@ -112,7 +112,7 @@ Growing plants on your balcony is a great idea to decorate the place. Carefully 
 
 {% faqItem %}
 {% faqQuestion %}
-**Where to buy vegetable plants for garden?**
+Where to buy vegetable plants for garden?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
@@ -122,7 +122,7 @@ Vegetable plants can be bought in any garden centre. You might also search onlin
 
 {% faqItem %}
 {% faqQuestion %}
-**How to protect plants from frost in garden on a balcony**
+How to protect plants from frost in garden on a balcony
 {% endfaqQuestion %}
 
 {% faqAnswer %}
