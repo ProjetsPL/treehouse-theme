@@ -79,7 +79,7 @@ Jak wspomniano, prysznic bez brodzika najlepiej zaprojektować jeszcze na etapie
 
 ### Jakie płytki się sprawdzą pod prysznic bez brodzika?
 
-Prysznic bez brodzika powinien mieć starannie przygotowaną podłogę. Wybór kafelków jest tu niezwykle istotną kwestią. Najważniejsze, aby były to płytki antypoślizgowe. Tylko wtedy kabina bez brodzika będzie bezpieczna. Należy zatem wybierać płytki z oznaczeniem od R10 do R13.
+Prysznic bez brodzika powinien mieć starannie przygotowaną podłogę. Wybór kafelków jest tu niezwykle istotną kwestią. Najważniejsze, aby były to **płytki antypoślizgowe**. Tylko wtedy kabina bez brodzika będzie bezpieczna. Należy zatem wybierać płytki z oznaczeniem od R10 do R13.
 
 {:.distinction.distinction-information}
 
