@@ -8,10 +8,15 @@ description: "Szukasz koloru, który będzie idealnie pasował do każdego wnęt
 image: "/uploads/moda-na-antracyt.png"
 promoted: true
 update_date: 2020-04-02
-intro: |-
-  Antracyt to kolor uniwersalny, który można wykorzystać w wielu różnych odsłonach, a określany jest jako połączenie szarości - delikatnie wpadającej w czarny lub granatowy. Bardzo często jest on mylony z kolorem grafitowym, chociaż w rzeczywistości jest to zupełnie inna barwa.
-
-  Ta intrygująco brzmiąca barwa może być stosowana jako tło, ale także jako mocny akcent we wnętrzu. Nadaje się do ścian, mebli, dodatków, jak również podłóg. Antracyt do kolor, którego użycie warto rozważyć głównie ze względu na jego wyjątkowe dopasowanie do wielu przestrzeni. Jak można wykorzystywać kolor antracytowy, żeby całość dobrze się komponowała? Jakie dodatki w domu najlepiej prezentują się w tym odcieniu?
+intro: Antracyt to kolor uniwersalny, który można wykorzystać w wielu różnych odsłonach,
+  a określany jest jako połączenie szarości - delikatnie wpadającej w czarny lub granatowy.
+  Bardzo często jest on mylony z kolorem grafitowym, chociaż w rzeczywistości jest
+  to zupełnie inna barwa. Ta intrygująco brzmiąca barwa może być stosowana jako tło,
+  ale także jako mocny akcent we wnętrzu. Nadaje się do ścian, mebli, dodatków, jak
+  również podłóg. Antracyt do kolor, którego użycie warto rozważyć głównie ze względu
+  na jego wyjątkowe dopasowanie do wielu przestrzeni. Jak można wykorzystywać kolor
+  antracytowy, żeby całość dobrze się komponowała? Jakie dodatki w domu najlepiej
+  prezentują się w tym odcieniu?
 main_keywords:
 - antracyt
 - antracyt kolor
