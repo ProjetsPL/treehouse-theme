@@ -65,10 +65,9 @@ guide: |-
   * przydatne funkcje - najnowsze modele oferują wiele ciekawych rozwiązań.
 
   Decydując się na zakup nowej pralki automatycznej, należy przede wszystkim rozważyć indywidualne potrzeby i warunki zamieszkania. W ten sposób można dobrać odpowiedni rozmiar urządzenia o parametrach, które będą rzeczywiście przydatne.
-image: ''
+image: "/uploads/najlepsze-pralki-automatyczne.jpg"
 is_hub: false
 hub_name: najlepsze-pralki
-published: false
 
 ---
 {% assign products = site.products | where: "category", "washing-machines" | where: "properties.size", "90x200" %}
