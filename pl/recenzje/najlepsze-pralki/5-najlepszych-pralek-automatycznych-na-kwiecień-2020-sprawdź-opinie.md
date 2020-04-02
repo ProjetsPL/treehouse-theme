@@ -71,7 +71,7 @@ hub_name: najlepsze-pralki
 published: false
 
 ---
-{% assign products = site.products | where: "category", "mattress" | where: "properties.size", "90x200" %}
+{% assign products = site.products | where: "category", "washing-machines" | where: "properties.size", "90x200" %}
 
 {% assign main_product = products[0] %}
 
