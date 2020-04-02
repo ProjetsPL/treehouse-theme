@@ -30,7 +30,7 @@ Prysznic bez brodzika to nic innego jak dobrze znana konstrukcja łazienkowa, gd
 
 W łazience zostaje tylko **kabina prysznicowa** bez brodzika oraz sam prysznic. Takie rozwiązanie nadaje pomieszczeniu wrażenia niezwykłej lekkości. Brak wielkiej białej niecki sprawia, że jedyną barierą jest szyba, najczęściej zupełnie przejrzysta. Wszystkie elementy składające się na wystrój łazienki stają się bardziej wyróżnione.
 
-Oczywiście, aby móc wprowadzić u siebie taki koncept, potrzebne jest pewne przygotowanie. Należy dokładnie przemyśleć, jak zrobić prysznic bez brodzika we własnej łazience. O czym trzeba pamiętać?
+Oczywiście, aby móc wprowadzić u siebie taki koncept, potrzebne jest pewne przygotowanie. Należy dokładnie przemyśleć, **jak zrobić prysznic bez brodzika** we własnej łazience. O czym trzeba pamiętać?
 
 {:.list}
 
