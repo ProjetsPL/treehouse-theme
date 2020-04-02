@@ -13,10 +13,8 @@ intro: Antracyt to kolor uniwersalny, który można wykorzystać w wielu różny
   Bardzo często jest on mylony z kolorem grafitowym, chociaż w rzeczywistości jest
   to zupełnie inna barwa. Ta intrygująco brzmiąca barwa może być stosowana jako tło,
   ale także jako mocny akcent we wnętrzu. Nadaje się do ścian, mebli, dodatków, jak
-  również podłóg. Antracyt do kolor, którego użycie warto rozważyć głównie ze względu
-  na jego wyjątkowe dopasowanie do wielu przestrzeni. Jak można wykorzystywać kolor
-  antracytowy, żeby całość dobrze się komponowała? Jakie dodatki w domu najlepiej
-  prezentują się w tym odcieniu?
+  również podłóg. Jak można wykorzystywać kolor antracytowy, żeby całość dobrze się
+  komponowała? Jakie dodatki w domu najlepiej prezentują się w tym odcieniu?
 main_keywords:
 - antracyt
 - antracyt kolor
@@ -40,7 +38,7 @@ Ten rodzaj szarego znacznie zyskał na popularności w ostatnich latach. Jest to
 Jeżeli wnętrza Twojego domu są przestronne, ale Ty sam nie masz pojęcia, jak właściwie wykorzystać antracyt - kolor pomoże "okiełznać" Ci specjalista do spraw aranżacji wnętrz. Skontaktuj się z kompetentną osobą, przedstaw jej swoje oczekiwania i **czekaj na gotowy projekt**. To rozwiązanie, które wybiera coraz większa grupa osób, które chcą wprowadzić do swoich wnętrz antracyt.
 
 {% fig %}
-![](/uploads/antracyt-co-to-za-kolor.jpg)
+![Antracyt - jaki to dokładnie kolor?](/uploads/antracyt-co-to-za-kolor.jpg "Antracyt - jaki to dokładnie kolor?")
 {% endfig %}
 
 Antracyt jest kolorem uniwersalnym, co zostało już wcześniej zaznaczone - w związku z tym można go dostosować tak naprawdę do każdego stylu. Dobrze sprawdzi się w nowoczesnych aranżacjach wnętrz. Pasuje szczególnie do **stylu skandynawskiego, industrialnego, jak i minimalistycznego**. Umiejętnie dopasowany kolor antracytowy nada pomieszczeniu indywidualnego i wyjątkowego charakteru, ożywiając wnętrze i podkreślając elementy wystroju.
@@ -55,7 +53,7 @@ Kolor antracytowy w przeszłości pojawiał się na ścianach niezwykle rzadko. 
 Ten uniwersalny kolor znajdzie zastosowanie we wszystkich pomieszczeniach zaaranżowanych w nowoczesny sposób - kuchni, łazience, sypialni czy gabinecie.
 
 {% fig %}
-![](/uploads/antracyt-na-scianach-czy-to-dobry-pomysl.jpg)
+![Antracyt na ścianach - czy to dobry pomysł?](/uploads/antracyt-na-scianach-czy-to-dobry-pomysl.jpg "Antracyt na ścianach - czy to dobry pomysł?")
 {% endfig %}
 
 Pomieszczenia, w których kolor antracyt sprawdzi się na ścianach, powinny być nie tylko przestronne, ale także dobrze oświetlone. Barwa ta dobrze sprawdzi się w pokojach o dużym natężeniu naturalnego światła. Najlepiej ozdabiać nią pokoje znajdujące się od strony **wschodniej, południowo-wschodniej oraz zachodniej**. Nie powinno się natomiast malować ścian na ciemnoszary w pomieszczeniach od strony północnej - będą one wyglądać zbyt ponuro i chłodno. W takich przypadkach lepiej połączyć tę barwę z innymi, jaśniejszymi odcieniami.
@@ -68,7 +66,7 @@ Jeżeli pomieszczenie ma niewielkie rozmiary, nie powinno się malować ścian n
 Jeżeli chodzi o farby w takiej barwie - najlepiej, jeżeli postawić na produkty, które dają **satynowe wykończenie**. Obawiasz się efektu przytłoczenia? Zawsze możesz zdecydować się na pomalowanie tylko jednej, akcentowej ściany na ciemny kolor, a reszty - na jaśniejszy np. w odcieniach bieli.
 
 {% fig %}
-![](/uploads/kolor-antracytowy-jak-pokryc-sciany.jpg)
+![Kolor antracytowy - jak pokryć ściany, aby uniknąć nieoczekiwanych efektów?](/uploads/kolor-antracytowy-jak-pokryc-sciany.jpg "Kolor antracytowy - jak pokryć ściany, aby uniknąć nieoczekiwanych efektów?")
 {% endfig %}
 
 Mimo, że tapety dzisiaj wciąż kojarzą się z minioną epoką, warto rozważyć zastosowanie takiego pokrycia ścian. Tapety powoli wracają do łask, a na rynku można dostać produkty o ciekawych wzorach. Również w modnym kolorze, jakim jest antracyt. Odpowiednio dobrana tapeta o ciekawej teksturze będzie stanowić doskonałą ozdobę wnętrza.
@@ -102,7 +100,7 @@ Jeżeli kolor, którym jest antracyt jako pokrycie ścian to dla Ciebie zbyt du�
 Meble antracytowe najlepiej wyglądają na tle jasnych, neutralnych ścian. Mają wtedy szansę wyróżnić się mocnym odcieniem, który sam w sobie stanowi dekorację.
 
 {% fig %}
-![](/uploads/meble-w-kolorze-antracytu.jpg)
+![Meble w kolorze antracytu - modny trend 2020 roku](/uploads/meble-w-kolorze-antracytu.jpg "Meble w kolorze antracytu - modny trend 2020 roku")
 {% endfig %}
 
 ### Jakich zasad przestrzegać przy wyborze antracytowych mebli?
@@ -112,7 +110,7 @@ Chociaż często powtarza się, że antracyt jest kolorem uniwersalnym, to jedna
 We wspólnych częściach domu dobrze sprawdzi się w przypadku ciemnego koloru sofa w stylu lat 60. na wysokich nóżkach. Wybierając meble - szczególnie w kolorze, jakim jest antracyt, warto postawić na gładką i prostą fakturę. Można zestawiać wówczas elementy w różnych kolorach - przykładowo ciemnoszarą sofę oraz białe fotele. Antracyt jest również doskonałym wyborem do **nowoczesnej kuchni**. Meble mogą być w całości antracytowe lub połączone z jasnymi dodatkami. Modnym akcentem są również ciemnoszare blaty, kontrastujące z jasnym kolorem mebli.
 
 {% fig %}
-![](/uploads/antracyt-jakie-dodatki.jpg)
+![Jakich zasad przestrzegać przy wyborze antracytowych mebli?](/uploads/antracyt-jakie-dodatki.jpg "Jakich zasad przestrzegać przy wyborze antracytowych mebli?")
 {% endfig %}
 
 ## Salon w kolorze antracytu? Nie bój się odważnych rozwiązań!
@@ -126,7 +124,7 @@ Ten kolor w większych przestrzeniach sprawdza się naprawdę doskonale, a **mo�
 Centralnym punktem każdego salonu jest tak zwana **część wypoczynkowa**, gdzie znajduje się sofa lub fotele, a czasem połączenie tych elementów - które mogą być w kolorze antracytu.
 
 {% fig %}
-![](/uploads/sofa-i-fotele-antracyt-doskonale-podkresli-ich-urok.jpg)
+![Sofa i fotele - antracyt doskonale podkreśli ich urok](/uploads/sofa-i-fotele-antracyt-doskonale-podkresli-ich-urok.jpg "Sofa i fotele - antracyt doskonale podkreśli ich urok")
 {% endfig %}
 
 Wybór takiego koloru w tym przypadku ma dwie funkcje. Pierwsza z nich to zachowanie elegancji i estetyki wnętrza. Druga kwestia to natomiast utrzymanie wyposażenia salonu w czystości. Znacznie łatwiej zrobić to w momencie, kiedy kolor mebli to antracyt, a nie np. biel.
@@ -145,7 +143,7 @@ Oprócz klasycznych mebli, gdzie podstawą dla stolika są drewniane nogi w natu
 Wiele osób zastanawia się, czy sypialnia w kolorze antracytowym to dobry pomysł, a sam odcień nie będzie zbyt ciemny do wnętrza, w którym najważniejszy jest odpoczynek. Podobnie, jak w każdym innym przypadku - liczy się umiarkowanie oraz zastosowanie pewnych zasad. Nie musisz decydować się na całą sypialnię w jednym kolorze - postaw na poszczególne elementy wyposażenia.
 
 {% fig %}
-![](/uploads/przytulna-sypialnia-w-kolorze-antracytowym.jpg)
+![Przytulna sypialnia w kolorze antracytowym](/uploads/przytulna-sypialnia-w-kolorze-antracytowym.jpg "Przytulna sypialnia w kolorze antracytowym")
 {% endfig %}
 
 ### Antracyt doskonały przy tapicerowanym łóżku
@@ -159,7 +157,7 @@ Zależy Ci na eleganckiej i stylowej sypialni? Nic trudnego - wystarczy, że wyb
 Kolor antracytowy idealnie sprawdzi się w aranżacji nowoczesnej łazienki. Istnieje wiele możliwości na wkomponowanie tego koloru do wnętrz tego rodzaju. Remontując łazienkę, można wybrać **antracytowe kafelki**. W przypadku pomieszczeń o mniejszej powierzchni dobrym pomysłem może być złamanie ciemnego koloru za pomocą dodatkowych białych płytek. Jeżeli ściany są szare, to pozostałe elementy, czyli umywalka, wanna i toaleta powinna być w jasnym kolorze.
 
 {% fig %}
-![](/uploads/antracyt-czyli-pomysl-na-wystroj-lazienki.jpg)
+![Antracyt, czyli pomysł na wystrój łazienki](/uploads/antracyt-czyli-pomysl-na-wystroj-lazienki.jpg "Antracyt, czyli pomysł na wystrój łazienki")
 {% endfig %}
 
 {:.distinction.distinction-information}
@@ -170,7 +168,7 @@ Kontrastowym rozwiązaniem jest zastosowanie elementów ceramiki w kolorze, jaki
 Chociaż wiele osób obawia się, że antracytowa kuchnia nie jest najlepszym pomysłem - warto zdecydować się na takie rozwiązanie, szczególnie wtedy, kiedy dysponujesz dużą przestrzenią.
 
 {% fig %}
-![](/uploads/ciemna-kuchnia-w-kolorze-antracytowym-to-dobry-pomysl.jpg)
+![Ciemna kuchnia w kolorze antracytowym? To dobry pomysł!](/uploads/ciemna-kuchnia-w-kolorze-antracytowym-to-dobry-pomysl-1.jpg "Ciemna kuchnia w kolorze antracytowym? To dobry pomysł!")
 {% endfig %}
 
 **Co sprawdzi się w przypadku antracytowej kuchni?** Przede wszystkim meble. Niekoniecznie musisz stawiać na ciemną zabudowę. Doskonale sprawdzą się w tym przypadku np. krzesła albo lampy. W połączeniu np. z białą cegiełką na ścianie będą wyglądały bardzo stylowo, a jednocześnie nowocześnie.
