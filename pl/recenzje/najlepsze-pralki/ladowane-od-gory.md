@@ -59,10 +59,9 @@ guide: |-
   Pralki ładowane od góry to sprzęt polecany przede wszystkim dla osób, których przestrzeń w domu jest ograniczona. Ten typ jest często wybierany przez posiadaczy niewielkich kawalerek w blokach oraz osoby mieszkające samotnie.
 
   Pralka ładowana od góry może okazać się bardzo dobrym rozwiązaniem dla osób starszych i tych, które mają problemy z kręgosłupem. Wkładanie prania przez górną klapę wymaga znacznie mniej wysiłku i schylania, niż jest to w przypadku pralek automatycznych z drzwiczkami. Ze względu na mniejszą pojemność, pralki ładowane od góry mogą być wykorzystywane przez rodziny, które nie wymagają częstego prania lub piorą częściej, ale w mniejszej ilości załadunku.
-image: ''
+image: "/uploads/najlepsze-pralki-ladowane-od-gory.jpg"
 is_hub: false
 hub_name: najlepsze-pralki
-published: false
 
 ---
 {% assign products = site.products | where: "category", "washing-machines" | where: "properties.size", "90x200" %}
