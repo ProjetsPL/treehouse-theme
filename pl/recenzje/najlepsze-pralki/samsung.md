@@ -64,10 +64,9 @@ guide: |-
   ## Jaka jest najlepsza pralka Samsung?
 
   Trudno stwierdzić, która pralka Samsung jest najlepsza. Każdy model różni się od pozostałych funkcjami i dostępnymi programami. Odpowiedni typ pralki Samsung należy dobierać według własnych potrzeb. Warto wziąć pod uwagę, jak często wykonywane jest pranie w danym gospodarstwie domowym - od tego zależy, jaka pojemność jest potrzebna. Inną ważną kwestią jest rodzaj tkanin najczęściej wkładanych do pralki. Pod tym względem należy dobrać rodzaje używanych programów. Najlepsza pralka Samsung to taka, której funkcje i możliwości będą w pełni wykorzystywane.
-image: ''
+image: "/uploads/najlepsze-pralki-samsung.jpg"
 is_hub: false
 hub_name: najlepsze-pralki
-published: false
 
 ---
 {% assign products = site.products | where: "category", "washing-machines" | where: "properties.size", "90x200" %}
