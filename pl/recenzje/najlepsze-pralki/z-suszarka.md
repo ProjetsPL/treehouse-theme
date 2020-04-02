@@ -64,10 +64,9 @@ guide: |-
   Pralka z suszarką oprócz podstawowych programów dotyczących prania i suszenia może posiadać również wachlarz różnorodnych funkcji. Najpopularniejsze są opcje takie jak pomiar ilości prania i opóźnionego startu. Do wyboru są również modele z funkcją pary, szybkim suszeniem, czy automatycznym dozowaniem detergentu.
 
   Na rynku pojawiają się także pralko suszarki wykorzystujące technologię sztucznej inteligencji. Takie urządzenia potrafią rozpoznać głos, a nawet dopasować czas prania do pogody.
-image: ''
+image: "/uploads/najlepsze-pralki-z-suszarka.jpg"
 is_hub: false
 hub_name: najlepsze-pralki
-published: false
 
 ---
 {% assign products = site.products | where: "category", "washing-machines" | where: "properties.size", "90x200" %}
