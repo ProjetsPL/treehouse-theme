@@ -65,7 +65,7 @@ is_hub: false
 hub_name: najlepsze-pralki
 
 ---
-<img src="/uploads/najlepsze-pralki-electrolux.jpg">{% assign products = site.products | where: "category", "washing-machines" | where: "properties.size", "90x200" %}
+{% assign products = site.products | where: "category", "washing-machines" | where: "properties.size", "90x200" %}
 
 {% assign main_product = products[0] %}
 
