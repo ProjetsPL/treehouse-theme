@@ -7,10 +7,10 @@ main_keywords:
 - pralki electrolux
 - " najlepsze pralki electrolux"
 toc: true
-h1: 5 Najlepszych Pralek Electrolux na Luty 2020 | Sprawdź Ranking
-title: 5 Najlepszych Pralek Electrolux na Luty 2020 | Sprawdź Ranking
+h1: 5 Najlepszych Pralek Electrolux na Kwiecień 2020 | Sprawdź Ranking
+title: 5 Najlepszych Pralek Electrolux na Kwiecień 2020 | Sprawdź Ranking
 description: "Szukasz Najlepszej Pralki Electrolux? \U0001F50D Sprawdź Ranking TOP
-  5 \U0001F3C6 na Luty 2020 - wyjątkowe produkty, atrakcyjne ceny"
+  5 \U0001F3C6 na Kwiecień 2020 - wyjątkowe produkty, atrakcyjne ceny"
 update_date: 2020-04-02
 intro: Electrolux jest wiodącą marką na światowym rynku artykułów gospodarstwa domowego.
   Ta pochodząca ze Szwecji firma skupia się na połączeniu nowoczesnych rozwiązań z
@@ -64,7 +64,6 @@ guide: |-
 image: ''
 is_hub: false
 hub_name: najlepsze-pralki
-published: false
 
 ---
 {% assign products = site.products | where: "category", "washing-machines" | where: "properties.size", "90x200" %}
