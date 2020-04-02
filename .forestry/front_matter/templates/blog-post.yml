@@ -75,3 +75,5 @@ fields:
       type: pages
       section: produkty
   label: Powiązane produkty
+pages:
+- collections/_posts/us/balcony-garden-ideas-check-what-plants-are-best-for-balconies.md
