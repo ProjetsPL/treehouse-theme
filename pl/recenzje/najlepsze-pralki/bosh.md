@@ -62,10 +62,9 @@ guide: |-
   Pralki Bosch to urządzenia uniwersalne, które znajdą zastosowanie w każdym gospodarstwie domowym. Taki sprzęt spełni oczekiwania osób, którym zależy na nowoczesnych technologiach w połączeniu z jakością. Urządzenia Bosch dostępne są w różnych zakresach cenowych, dlatego budżet nie powinien być tu ograniczeniem.
 
   W razie obawy przed uszkodzeniem sprzętu warto wybierać modele oferowane z długoletnią gwarancją. Odpowiednio dobrany do swoich potrzeb sprzęt powinien zapewnić satysfakcję, łatwość użytkowania oraz trwałość na lata.
-image: ''
+image: "/uploads/najlepsze-pralki-bosh.jpg"
 is_hub: false
 hub_name: najlepsze-pralki
-published: false
 
 ---
 {% assign products = site.products | where: "category", "washing-machines" | where: "properties.size", "90x200" %}
