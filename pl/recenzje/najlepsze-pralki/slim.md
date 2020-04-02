@@ -58,10 +58,9 @@ guide: |-
   Pralka slim to idealne rozwiązanie dla osób, którym zależy na zaoszczędzeniu przestrzeni w mieszkaniu. Są one bardzo płytkie, dzięki czemu nie zajmują całej łazienki, jak to bywa w przypadku standardowych modeli.
 
   Ze względu na niewielkie rozmiary, urządzenia są odpowiednie dla singli, par oraz niewielkich rodzin. Pojemność oraz ilość programów pralki slim jest podobna, a często identyczna, jak w modelach pełnowymiarowych. Dzięki temu urządzenie tego typu sprawdzi się zarówno dla osób piorących codziennie, jak i dla użytkowników, którzy robią pranie raz w tygodniu lub rzadziej.
-image: ''
+image: "/uploads/najlepsze-pralki-slim.jpg"
 is_hub: false
 hub_name: najlepsze-pralki
-published: false
 
 ---
 {% assign products = site.products | where: "category", "washing-machines" | where: "properties.size", "90x200" %}
