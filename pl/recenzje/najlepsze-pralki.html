@@ -79,7 +79,7 @@ is_hub: true
 hub_name: najlepsze-pralki
 
 ---
-<img src="/uploads/najlepsze-pralki-1.jpg">{% assign products = site.products | where: "category", "pans" | where: 'distinction', 'our_choice' %}
+{% assign products = site.products | where: "category", "pans" | where: 'distinction', 'our_choice' %}
 
 {% assign main_product = products[0] %}
 {% assign second_product = products[-1] %}
