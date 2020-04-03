@@ -2,13 +2,13 @@
 layout: post
 date: 2020-01-17
 toc: true
-title: Osłona na kaloryfer. Czym jest maskownica grzejnika?
-description: |-
-  Czym jest osłona na kaloryfer? Zastosowanie maskownicy grzejnika.
-  Jeżeli grzejnik nie ma żadnych walorów estetycznych, dobrym rozwiązaniem jest osłona na kaloryfer. Jakie wady i zalety ma zabudowa osłona na kaloryfer?
+title: Osłona Na Kaloryfer. Czym Jest Maskownica Grzejnika?
+description: "Zależy Ci na estetycznym kaloryferze? Twoje wnętrze będzie wyglądać
+  lepiej, kiedy zastosujesz maskownicę. \U0001F3E0 Sprawdź, jakie zalety ma osłona
+  na kaloryfer."
 image: "/uploads/oslona-na-kaloryfer-main.jpg"
 promoted: false
-update_date: 2020-02-05
+update_date: 2020-04-03
 intro: Często zdarza się, że w nowo urządzonym mieszkaniu wszystko do siebie pasuje
   - poza jednym elementem. Jest nim nieestetyczny grzejnik. Mimo istnienia ozdobnych
   urządzeń tego typu, niestety większość rozwiązań grzewczych nie szczyci się pięknym
@@ -46,8 +46,7 @@ Większość instalatorów urządzeń grzewczych twierdzi, że osłona na grzejn
 
 Najważniejszą i podstawową korzyścią płynącą z zabudowania grzejnika, jest **podniesienie walorów estetycznych w pomieszczeniu**. Jest to główny powód, dla którego właściciele mieszkań decydują się na zastosowanie tego rozwiązania. Maskownica grzejnika to element dekoracyjny, który można odpowiednio dopasować do wystroju wnętrza.
 
-{:.distinction.distinction-information}
-Producenci oferują wiele rozwiązań, a w przypadku niestandardowych oczekiwań, element można dopasować na specjalne zamówienie.
+{:.distinction.distinction-information} Producenci oferują wiele rozwiązań, a w przypadku niestandardowych oczekiwań, element można dopasować na specjalne zamówienie. Wówczas możesz wybrać, z jakiego materiału ma zostać wykonana osłona na kaloryfer i dopasować jej wygląd do własnych preferencji.
 
 Koszty tego elementu można zmniejszyć, decydując się na jego samodzielne wykonanie. Wbrew pozorom nie jest to bardzo trudne zadanie, a własnoręcznie zaprojektowana ozdoba przyniesie wiele satysfakcji. Niezależnie od sposobu wykonania, **maskownica grzejnika** zazwyczaj jest bardzo łatwa w montażu.
 
@@ -64,8 +63,7 @@ Wykorzystanie elementu, jakim jest **osłona na kaloryfer**, jest o wiele prosts
 
 Największa wada, którą posiada zabudowa kaloryfera to **utrata wydajności grzewczej urządzenia**. Niezależnie od konstrukcji elementu dekoracyjnego, jego zastosowanie zawsze wiąże się ze zmniejszeniem mocy ogrzewania.
 
-{:.distinction.distinction-warning}
-Ponieważ obudowa grzejnika zasłania urządzenie, ciepło ma utrudnioną drogę, przez co istnieje ryzyko, że pomieszczenie nie zostanie odpowiednio dogrzane. Zazwyczaj wiąże się to z podkręceniem mocy grzejnika, co z kolei oznacza zwiększone koszty.
+{:.distinction.distinction-warning} Ponieważ obudowa grzejnika zasłania urządzenie, ciepło ma utrudnioną drogę, przez co istnieje ryzyko, że pomieszczenie nie zostanie odpowiednio dogrzane. Zazwyczaj wiąże się to z podkręceniem mocy grzejnika, co z kolei oznacza zwiększone koszty za ogrzewanie budynku, których każdy wolałby uniknąć.
 
 W przypadku głowic termostatycznych niewłaściwy projekt osłony może być przyczyną wychłodzenia pomieszczenia. Zdarza się, że zabudowa grzejnika prowadzi do sytuacji, w której, w jego otoczeniu temperatura jest większa niż w całym pokoju. Wtedy termostat automatycznie odetnie ciepłą wodę w urządzeniu. Dlatego projektując osłonę, należy pamiętać o **odpowiedniej wentylacji**. Niezależnie od wybranego modelu maskownica grzejnika nie może być całkowicie zabudowana.
 
