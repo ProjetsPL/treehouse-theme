@@ -23,7 +23,6 @@ intro: Zależy Ci na zmianie swojego otoczenia w domowej przestrzeni ale nie mas
   efekty. Sprawdź, jak odnowić stare meble i cieszyć się nimi przez kolejne lata.
 image: "/uploads/renowacja-mebli-6-sprytnych-wskazowek-jak-odnowic-meble.jpg"
 related_products: []
-published: false
 
 ---
 ## Czy renowacja mebli w domu jest możliwa?
@@ -179,3 +178,33 @@ Pamiętaj, aby przy docinaniu materiału zostawić kilka centymetrów zapasu. Mo
 Kolejną czynnością będzie przyszycie materiału do fotela lub sofy. Na łączeniach przypnij taśmę bawełnianą i gotowe. **Proste, prawda?**
 
 Renowacja mebli nie jest trudnym zadaniem! Wystarczy, że zastosujesz przedstawione przez nas wskazówki, a odmienisz swoje wnętrze - niewielkim kosztem.
+
+{% faqItem %}
+{% faqQuestion %}
+Jak pomalować stare meble?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Stare meble można pomalować lakierem lub farbą — w zależności od ich typu. W tym celu konieczne jest usunięcie wcześniejszej warstwy i zmatowienie mebla. Do malowania można wykorzystać tradycyjne pędzle lub wałki — w odpowiednich rozmiarach.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+Jak zmienić obicie fotela?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Zmiana obicia fotela jest bardzo prosta — wystarczy stosować się do wskazówek mówiących o kolejnych czynnościach — krok po kroku. Najpierw należy usunąć stare obicie fotela, a następnie przypiąć nową tkaninę i zabezpieczyć ją taśmą bawełnianą.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+Jak odnowić meble?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Meble można odnowić na kilka różnych sposobów — przez zastosowanie lakieru, farby, okleiny lub nowego materiału w przypadku elementów tapicerowanych. Najważniejsze jest odpowiednie przygotowanie do tej czynności, a następnie postępowanie zgodnie ze wskazówkami specjalistów.
+{% endfaqAnswer %}
+{% endfaqItem %}
