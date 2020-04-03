@@ -86,7 +86,7 @@ Do wąskich desek wystarczy niewielki pędzel, natomiast szersze panele wygodnie
 
 {:.distinction.distinction-information}
 
-**Kredowa farba do boazerii** sprawdza się również przy wykonywaniu modnych przetarć. Kiedy malowanie boazerii farbą kredową zostanie zakończone, należy pamiętać o jej odpowiednim zabezpieczeniu. Sprawdzą się przy tym woski oraz lakiery do drewna.
+**Kredowa farba do boazerii** sprawdza się również przy wykonywaniu modnych przetarć. Kiedy malowanie boazerii farbą kredową zostanie zakończone, należy pamiętać o jej odpowiednim zabezpieczeniu. Sprawdzą się przy tym woski oraz różne lakiery do drewna.
 
 ## Malowanie boazerii - na biało, czy na kolor?
 
