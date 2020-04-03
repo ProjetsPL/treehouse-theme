@@ -45,6 +45,10 @@ Aby wydłużyć żywotność żelazka należy:
 
 Istnieją różne powody powstawania zabrudzeń na urządzeniu. Jednym z nich jest kurz osadzający się na stopie żelazka. Narastająca **warstwa kurzu zlepia się ze sobą i przywiera do urządzenia**, tworząc brudny osad, który pod wpływem wysokiej temperatury przenosi się na prasowane tkaniny.
 
+{% fig %}
+![Dlaczego regularne czyszczenie żelazka jest ważne?](/uploads/dlaczego-regularne-czyszczenie-zelazka-jest-wazne.jpg "Dlaczego regularne czyszczenie żelazka jest ważne?")
+{% endfig %}
+
 Stosowanie zbyt wysokiej temperatury również nie wpływa korzystnie na stan urządzenia. W efekcie **przypalone żelazko** **pozostawia na ubraniach trudne do sprania, czarne, pociągłe ślady**. Zabrudzenia powstają także wewnątrz urządzenia. Twarda woda, wlewana do urządzenia podczas prasowania może powodować kamień. Z tego względu **czyszczenie żelazka** powinno odbywać się także od środka.
 
 {:.distinction.distinction-information}
@@ -65,7 +69,9 @@ Mimo wysokiej skuteczności pasta z octu i sody nie nadaje się do stosowania na
 
 Pasta do zębów to sposób stworzony z myślą o żelazkach stalowych i aluminiowych. Aby wyczyścić przypalone żelazko, nanieś na jego stopę miętową pastę do zębów, a następnie rozprowadź po brudnej powierzchni za pomocą miękkiej tkaniny lub szczotki do zębów. **Delikatnie przecieraj płytę żelazka** do momentu całkowitego pozbycia się przypaleń. Następnie oczyść dokładnie powierzchnię żelazka z pasty, zwracając szczególną uwagę na otwory w stopce urządzenia.
 
-![](/uploads/sprawdz-jak-dziala-pasta-do-zebow-na-przypalone-zelazko.jpg)
+{% fig %}
+![Sprawdź, jak pasta do zębów działa na przypalone żelazko](/uploads/sprawdz-jak-dziala-pasta-do-zebow-na-przypalone-zelazko.jpg "Sprawdź, jak pasta do zębów działa na przypalone żelazko")
+{% endfig %}
 
 ### Lek z paracetamolem - nieoczywisty i skuteczny sposób na czyszczenie żelazka
 
@@ -78,7 +84,9 @@ Po skończonej czynności odczekaj do ostygnięcia płytki i oczyść żelazko z
 
 Sok z cytryny doskonale rozpuszcza i odkleja nawet silne zabrudzenia od powierzchni urządzenia. To jeden z szybszych sposobów na **czyszczenie żelazka**, który można stosować na wszystkich powierzchniach, również **ceramicznych i teflonowych**. Nasącz sokiem z cytryny ściereczkę z miękkiego materiału. Następnie pocieraj nią przypalone żelazko, aż czarne ślady znikną. Ten sam efekt uzyskasz, prasując żelazkiem po ręczniku frotte nasączonym cytrynowym sokiem.
 
-![](/uploads/jak-wyczyscic-zelazko-sokiem-z-cytryny.jpg)
+{% fig %}
+![Jak wyczyścić żelazko sokiem z cytryny](/uploads/jak-wyczyscic-zelazko-sokiem-z-cytryny.jpg "Jak wyczyścić żelazko sokiem z cytryny")
+{% endfig %}
 
 ### Przypalone żelazko? Potraktuj zabrudzenia solą kuchenną
 
@@ -97,9 +105,9 @@ Uważaj, aby nie naciskać zbyt mocno podczas prasowania. W przeciwnym razie mo�
 
 Wysoką delikatnością charakteryzuje się również stopa teflonowa - podatna na zarysowania - dlatego ona także wymaga od użytkownika specjalnego traktowania.
 
-Zatem, c**zym wyczyścić żelazko,** aby proces był bezpieczny dla powłoki? Przypalenia możesz usunąć za pomocą delikatnej szmatki nasączonej octem. Z uwagi na wyjątkową delikatność teflonu, efektywne **czyszczenie żelazka** wymaga dużej cierpliwości.
+Zatem, **czym wyczyścić żelazko,** aby proces był bezpieczny dla powłoki? Przypalenia możesz usunąć za pomocą delikatnej szmatki nasączonej octem. Z uwagi na wyjątkową delikatność teflonu, efektywne **czyszczenie żelazka** wymaga dużej cierpliwości.
 
-Błędy, których należy unikać, czyszcząc **przypalone żelazko__ z delikatną powłoką**:**
+Błędy, których należy unikać, czyszcząc **przypalone żelazko z delikatną powłoką:**
 
 {:.list.list-positive}
 
@@ -114,7 +122,9 @@ Ogólne **czyszczenie żelazka** powinno przebiegać bardzo delikatnie, aby nie 
 
 Żelazko parowe różni się od innych tego typu urządzeń, ponieważ wykorzystuje do prasowania gorącą parę rozprowadzaną przez specjalnie zaprojektowane dysze. Tymczasem, w przypadku żelazek tradycyjnych, para wyłącznie wspomaga proces prasowania. Z uwagi na nietuzinkowy sposób działania, różniący się od pozostałych urządzeń, **czyszczenie żelazka** parowego również przebiega nieco inaczej. **Jak wyczyścić żelazko** parowe w sposób bezpieczny dla tego urządzenia?
 
-![](/uploads/sposob-na-bezpieczne-czyszczenie-zelazka-parowego.jpg)
+{% fig %}
+![Sposób na bezpieczne czyszczenie żelazka parowego](/uploads/sposob-na-bezpieczne-czyszczenie-zelazka-parowego.jpg "Sposób na bezpieczne czyszczenie żelazka parowego")
+{% endfig %}
 
 Jak każdy inny sprzęt tego typu, żelazko parowe należy przecierać przed każdym użyciem z osadzającego się kurzu. W przeciwnym razie płyta żelazka może się przypalić. Do regularnego czyszczenia warto użyć delikatnego mleczka, przeznaczonego specjalnie do żelazek parowych i rozprowadzić je po stopie żelazka miękką szmatką.
 
@@ -134,3 +144,33 @@ Innym, jeszcze tańszym, domowym sposobem na **czyszczenie żelazka** z kamienia
 Istnieje jeszcze jeden skuteczny i popularny sposób na to, **jak wyczyścić żelazko z kamienia.** Możesz do tego celu wykorzystać roztwór z kwasku cytrynowego. Aby go przygotować, należy zmieszać ze sobą szklankę wody z trzema łyżkami kwasku, a następnie prasować miękką ściereczkę do momentu przedostania się osadu na zewnątrz żelazka.
 
 Niektóre żelazka posiadają specjalną funkcję nazwaną _calc-clean_ lub _selfclean_. Opcja ta odpowiada za informowanie użytkownika obecności kamienia powstałego wewnątrz urządzenia. Gdy
+
+{% faqItem %}
+{% faqQuestion %}
+Jak usunąć przypalenie z żelazka?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Sposób na usunięcie przypalenia z żelazka należy dobrać do rodzaju stopy urządzenia. Jednym z najpopularniejszych rozwiązań, bezpiecznych dla każdego rodzaju żelazek jest prasowanie materiału nasączonego sokiem z cytryny. W ten sposób łatwo oczyścisz przypalone żelazko.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+Czym czyścić żelazko?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Żelazko należy każdorazowo przed użyciem przecierać mokrą szmatką aby pozbyć się osadzonego kurzu. Trudno dostępne otwory w urządzeniu można czyścić patyczkiem higienicznym. Czyszczenie żelazka tuż przed użyciem zwiększa żywotność urządzenia i zmniejsza ryzyko przypaleń.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+Jak wyczyścić żelazko teflonowe?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Najlepszą metodą na czyszczenie żelazka teflonowego jest przecieranie płyty szmatką nasączoną octem. Aby nie uszkodzić delikatnej powierzchni, unikaj zbyt mocnego tarcia. Czynność powtarzana częściej, wymaga mniejszej intensywności.
+{% endfaqAnswer %}
+{% endfaqItem %}
