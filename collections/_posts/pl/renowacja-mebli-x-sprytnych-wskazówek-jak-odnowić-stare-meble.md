@@ -26,3 +26,54 @@ related_products: []
 published: false
 
 ---
+## Czy renowacja mebli w domu jest możliwa?
+
+Renowacja mebli w domu jest możliwa praktycznie w każdym przypadku — niezależnie od tego, czy są to meble drewniane, czy modele tapicerowane — wystarczy odrobina kreatywności i kilka cennych wskazówek.
+
+**Zastanawiasz się jak odnowić stare meble?** Najważniejszy jest przede wszystkim efekt, jaki chcesz osiągnąć. Od tego będzie zależało przygotowanie mebli i zastosowanie konkretnej metody.
+
+Najłatwiejsza jest bez wątpienia renowacja mebli drewnianych. W tym przypadku zazwyczaj polega ona na pokryciu poszczególnych elementów lub całości mebli odpowiednim środkiem — lakierem lub farbą.
+
+{:.distinction.distinction-information}
+Odnawianie mebli tapicerowanych wymaga już odrobiny wprawy oraz zastosowania bardziej skomplikowanych rozwiązań.
+
+## Jak zacząć odnawianie mebli? Najważniejsze jest przygotowanie
+
+Rozpoczęcie procesu odnawiania mebli zawsze polega na odpowiednim przygotowaniu, które jest absolutną podstawą.
+
+{:.distinction.distinction-information}
+Zanim zdecydujesz się na odnawianie mebli w domowym zaciszu — zastanów się, co chcesz osiągnąć. Poszukaj pomysłów i określ, jaki efekt chcesz osiągnąć. To pozwoli Ci zaopatrzyć się wyłącznie w niezbędne wyposażenie — odpowiednią farbę, lakier lub innymi materiał, który będzie Ci potrzebny, aby odnawianie starych mebli przebiegło prawidłowo.
+
+Praktycznie w każdym przypadku będzie konieczne wykorzystanie folii zabezpieczającej podłoże. Możesz także zastąpić ją kartonami — jeżeli takie posiadasz. **W ten sposób zabezpieczysz powierzchnię przed ewentualnym zapryskaniem preparatem malującym**.
+
+Do malowania niezbędny będzie także odpowiedniej grubości pędzel lub wałek, taśma zabezpieczająca, papier ścierny i materiał do oczyszczenia powierzchni po ścieraniu, a przed malowaniem. **Nie zapominaj również o własnej ochronie.** Wykorzystaj w tym celu rękawiczki.
+
+## Renowacja mebli — najważniejsze etapy prac
+
+Renowacja mebli dzieli się na kilka etapów, dzięki którym możliwe jest uporządkowanie prac — przez co są one zdecydowanie łatwiejsze i przebiegają szybciej.
+
+**Ustalenie kolejności poszczególnych prac** daje gwarancję, że uzyskanie efekty będą zadowalające. Zastanawiasz się, od czego zacząć odnawianie mebli, które posiadasz? Przygotowaliśmy dla Ciebie kilka wskazówek, które z całą pewnością będą pomocne.
+
+### Usuwanie starej farby i przygotowanie powierzchni
+
+W przypadku mebli drewnianych przygotowanie powierzchni do renowacji polega przede wszystkim na usunięciu z niej starej farby.
+
+Powłoki, które znajdują się na meblach, mogą być **zniszczone upływem** **czasu** lub po prostu mają niemodny już kolor, który chcesz zmienić na taki będący aktualnie w trendach. W związku z tym powinieneś się ich pozbyć.
+
+Najprostszym sposobem **usunięcia starej farby** jest użycie papieru ściernego, który kupisz w każdym sklepie z narzędziami do domu. Może zdarzyć się także, że posiadasz w domu szlifierkę — wówczas warto z niej skorzystać. Dzięki temu urządzeniu usuwanie starej farby będzie zdecydowanie szybsze, a Ty w krótszym czasie będziesz mógł przystąpić do właściwej renowacji mebli.
+
+{:.distinction.distinction-information}
+Pamiętaj, aby po wykonaniu szlifowania usunąć wszelkie pyły. Możesz to zrobić za pomocą zmiotki lub szmatki. Dobrym sposobem jest także użycia odkurzacza, który pozbędzie się wszelkich pozostałości. Dzięki temu unikniesz grudek, które wpływałyby na estetykę mebli po ich wymalowaniu.
+
+### Odnawianie mebli to także poprawa ich stanu jakości  
+  
+Jeżeli na powierzchni Twoich drewnianych mebli pojawiły się niewielkie dziurki, to oznacza, że najprawdopodobniej masz do czynienia ze szkodnikami i renowacja mebli powinna uwzględnić tak zwaną poprawę ich stanu jakości, czyli usunięcie nieproszonych "gości".  
+  
+Zastanawiasz się, w jaki sposób możesz pozbyć się szkodników i czy jest to w ogóle możliwe? Oczywiście, że tak. Na rynku dostępnych jest wiele różnego rodzaju preparatów chemicznych, których działanie pomaga usunąć insekty. Zazwyczaj taki środek aplikowany jest na mebel i owijany folią na określony czas.
+
+### Uszkodzone elementy. Czy renowacja mebli z ubytkami jest możliwa?  
+  
+Renowacja mebli z ubytkami — zarówno tymi powstałymi wskutek uszkodzeń mechanicznych, jak i działania szkodników — jest możliwa, wystarczy tylko uzupełnienie powstałych uszkodzeń.  
+  
+Głębsze rysy, dziurki po szkodnikach, czy wgniecenia usuniesz dzięki wykorzystaniu masy szpachlowej. Producenci tego typu środków oferują wiele różnych kolorów, dzięki czemu masa będzie idealnie dopasowana do odcienia mebli. To sprawi, że nie będzie ona rzucała się w oczy.
+
