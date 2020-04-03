@@ -13,7 +13,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-04-03
-title: " Renowacja Mebli - X Sprytnych Wskazówek Jak Odnowić Stare Meble"
+title: " Renowacja Mebli - 6 Sprytnych Wskazówek Jak Odnowić Stare Meble"
 description: "Potrzebujesz zmian w domu? \U0001F3E0 Nie musisz inwestować w nowe wyposażenie!
   Sprawdź jak odnowić stare meble. \U0001F6CB️ Renowacja mebli może być prosta i przyjemna."
 intro: Zależy Ci na zmianie swojego otoczenia w domowej przestrzeni ale nie masz pomysłu
@@ -21,7 +21,7 @@ intro: Zależy Ci na zmianie swojego otoczenia w domowej przestrzeni ale nie mas
   na zero waste możesz nadać nowy blask meblom, które posiadasz. Renowacja mebli to
   proste zajęcia, które może dostarczyć Ci wiele satysfakcji i przynieść niesamowite
   efekty. Sprawdź, jak odnowić stare meble i cieszyć się nimi przez kolejne lata.
-image: ''
+image: "/uploads/renowacja-mebli-6-sprytnych-wskazowek-jak-odnowic-meble.jpg"
 related_products: []
 published: false
 
@@ -45,6 +45,10 @@ Rozpoczęcie procesu odnawiania mebli zawsze polega na odpowiednim przygotowaniu
 Zanim zdecydujesz się na odnawianie mebli w domowym zaciszu — zastanów się, co chcesz osiągnąć. Poszukaj pomysłów i określ, jaki efekt chcesz osiągnąć. To pozwoli Ci zaopatrzyć się wyłącznie w niezbędne wyposażenie — odpowiednią farbę, lakier lub innymi materiał, który będzie Ci potrzebny, aby odnawianie starych mebli przebiegło prawidłowo.
 
 Praktycznie w każdym przypadku będzie konieczne wykorzystanie folii zabezpieczającej podłoże. Możesz także zastąpić ją kartonami — jeżeli takie posiadasz. **W ten sposób zabezpieczysz powierzchnię przed ewentualnym zapryskaniem preparatem malującym**.
+
+{% fig %}
+![Jak zacząć odnawianie mebli? Najważniejsze jest przygotowanie](/uploads/jak-zaczac-odnawianie-mebli-najwazniejsze-jest-przygotowanie.jpg "Jak zacząć odnawianie mebli? Najważniejsze jest przygotowanie")
+{% endfig %}
 
 Do malowania niezbędny będzie także odpowiedniej grubości pędzel lub wałek, taśma zabezpieczająca, papier ścierny i materiał do oczyszczenia powierzchni po ścieraniu, a przed malowaniem. **Nie zapominaj również o własnej ochronie.** Wykorzystaj w tym celu rękawiczki.
 
@@ -91,6 +95,10 @@ Wśród najpopularniejszych rozwiązań na odnowienie mebli pojawia się między
 
 Woskowanie to jedna z najstarszych metod - szczególnie jeżeli chodzi o odnawianie mebli drewnianych. Ten sposób może być wykorzystywany szczególnie do materiału surowego. Można wykonać go w momencie, kiedy zostaje usunięcia farba z mebli.
 
+{% fig %}
+![Odnawianie mebli za pomocą woskowania](/uploads/odnawianie-mebli-za-pomoca-woskowania.jpg "Odnawianie mebli za pomocą woskowania")
+{% endfig %}
+
 {:.distinction.distinction-information}
 Przy użyciu nowoczesnych środków woskowanie można wykonywać także do mebli, które wcześniej zostały zakonserwowane za pomocą bejcy lub innych preparatów.
 
@@ -111,6 +119,10 @@ Renowacja mebli przy użyciu mebli jest równie popularna, jak sposób wykorzyst
 
 Na rynku dostępne są farby kredowe i akrylowe — dedykowane odnawianiu mebli. Wybór odpowiedniego preparatu zależy tak naprawdę od tego, jaki efekt chcesz uzyskać. Jeżeli zależy Ci na trwałości — wybierz na farbę akrylową. Z kolei, jeśli marzysz o wprowadzeniu do wnętrza **stylu Shabby Chic** - lepsza będzie farba kredowa. Czym tak naprawdę różnią się między sobą te dwa środki.
 
+{% fig %}
+![Odnawianie starych mebli farbą. Jaki rodzaj farby wybrać?](/uploads/odnawianie-starych-mebli-farba-jaki-rodzaj-farby-wybrac.jpg "Odnawianie starych mebli farbą. Jaki rodzaj farby wybrać?")
+{% endfig %}
+
 #### Farba akrylowa - czyli jak odnowić meble i nadać im nowe życie
 
 Farba akrylowa uznawana jest za jedną z najtrwalszych na rynku, dlatego idealnie sprawdzi się w przypadku tych mebli, w przypadku których zależy Ci na całkowitej metamorfozie.
@@ -121,7 +133,49 @@ Farba akrylowa uznawana jest za jedną z najtrwalszych na rynku, dlatego idealni
 
 Farba kredowa podczas odnawiania mebli pozwala na uzyskanie bardzo ciekawych efektów takich jak celowe postarzanie przedmiotów, które jest charakterystyczne dla stylu **Shabby Chic**.
 
+{% fig %}
+![Odnawianie starych mebli — dzięki farbie kredowej uzyskasz niesamowite efekty i wyjątkowy styl](/uploads/odnawianie-starych-mebli-dzieki-farbie-kredowej-uzyskasz-niesamowite-efekty-i-wyjatkowy-styl.jpg "Odnawianie starych mebli — dzięki farbie kredowej uzyskasz niesamowite efekty i wyjątkowy styl")
+{% endfig %}
+
 Przy użyciu tego rodzaju preparatów będziesz w stanie uzyskać różnego rodzaju przetarcia, pęknięcia, czy **zmatowienie części produktu**. Jeżeli lubisz przedmioty vintage — ten rodzaj farby będzie idealny.
 
 {:.distinction.distinction-warning}
 Niestety minusem farby kredowej jest fakt, że jest ona zdecydowanie mniej trwała niż preparaty akrylowe. Czasami koniecznie jest zastosowanie kilku warstw, które i tak po pewnym czasie mogą ulec delikatnemu starciu.
+
+### Nowoczesne odnawianie mebli — wykorzystaj okleinę!
+
+Zależy Ci na nowoczesnym stylu, a jednocześnie chcesz ukryć zniszczenie starych mebli drewnianych? Zdecyduj się na **odnawianie mebli za pomocą okleiny** — to proste.
+
+{:.distinction.distinction-information}
+Na rynku dostępnych jest wiele nowoczesnych oklein, dzięki czemu dopasujesz wzór, który będzie idealnie pasował do wnętrza Twojego domu.
+
+Jeżeli już wybrałeś interesujący Cię produkt czas przejść do działania. Mebel, który ma zostać poddany renowacji, musisz **dokładnie umyć wodą z uniwersalnym środkiem myjącym**. Jeżeli posiada wystające elementy np. gałki, czy uchwyty — powinieneś je wykręcić. Następnie konieczne jest dokładne docięcie okleiny. Kolejnym krokiem jest zdjęcie warstwy zabezpieczającej i nałożenie na mebel. Ewentualne pęcherzyki powietrza usuniesz za pomocą ściereczki. Delikatnie przesuwaj ją po powierzchni w kierunku bocznym. Na skraju przyklejenia okleiny powietrze wydostanie się na zewnątrz.
+
+### Czy renowacja mebli tapicerowanych w domu jest możliwa?
+
+Samodzielna renowacja mebli tapicerowanych w domu jest możliwa — chociaż jej wykonanie jest znacznie bardziej skomplikowane niż ma to miejsce w przypadku klasycznych mebli drewnianych.
+
+{% fig %}
+![Czy renowacja mebli tapicerowanych w domu jest możliwa?](/uploads/czy-renowacja-mebli-tapicerowanych-w-domu-jest-mozliwa.jpg "Czy renowacja mebli tapicerowanych w domu jest możliwa?")
+{% endfig %}
+
+Dzięki kilku wskazówkom będziesz w stanie **samodzielnie wymienić tapicerkę sofy**, czy ulubionego fotela. Pamiętaj jednak, że podstawą jest cierpliwość, która przyda Ci się w ogromnych ilościach. Oprócz tego będziesz potrzebować takich elementów jak:
+{:.list.list-positive}
+
+* nowa tkanina przeznaczona na obicie mebla,
+* specjalna taśma — najlepiej bawełniana w kolorze zbliżonym do nowego obicia,
+* nóż tapicerski — często występujący pod nazwą noża technicznego,
+* śrubokręt,
+* nożyczki,
+* kombinerki,
+* zszywacz ręczny lub automatyczny,
+* zszywki w odpowiedniej wielkości.
+
+Od czego powinna zacząć się w tym przypadku renowacja mebli? Przede wszystkim od usunięcia starej tapicerki. Następnie musisz przyciąć nową tkaninę.
+
+{:.distinction.distinction-warning}
+Pamiętaj, aby przy docinaniu materiału zostawić kilka centymetrów zapasu. Można usunąć go potem, natomiast jeżeli przytniesz zbyt mały fragment — materiał zmarnuje się i będzie do wyrzucenia.
+
+Kolejną czynnością będzie przyszycie materiału do fotela lub sofy. Na łączeniach przypnij taśmę bawełnianą i gotowe. **Proste, prawda?**
+
+Renowacja mebli nie jest trudnym zadaniem! Wystarczy, że zastosujesz przedstawione przez nas wskazówki, a odmienisz swoje wnętrze - niewielkim kosztem.
