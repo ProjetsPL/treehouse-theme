@@ -159,8 +159,8 @@ Samodzielna renowacja mebli tapicerowanych w domu jest możliwa — chociaż jej
 {% endfig %}
 
 Dzięki kilku wskazówkom będziesz w stanie **samodzielnie wymienić tapicerkę sofy**, czy ulubionego fotela. Pamiętaj jednak, że podstawą jest cierpliwość, która przyda Ci się w ogromnych ilościach. Oprócz tego będziesz potrzebować takich elementów jak:
-{:.list.list-positive}
 
+{:.list.list-positive}
 * nowa tkanina przeznaczona na obicie mebla,
 * specjalna taśma — najlepiej bawełniana w kolorze zbliżonym do nowego obicia,
 * nóż tapicerski — często występujący pod nazwą **noża technicznego**,
