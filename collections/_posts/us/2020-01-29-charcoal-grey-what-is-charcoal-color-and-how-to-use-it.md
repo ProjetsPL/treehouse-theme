@@ -2,17 +2,21 @@
 layout: post
 date: 2020-01-29
 toc: true
-title: Charcoal grey. What is charcoal color and how to use it?
-description: Charcoal is a colour that is becoming increasingly popular. Being a pretty
-  strong shade, charcoal elements can be a good way to accentuate interior design.
+title: Charcoal Grey - Check Out the Latest Trend in Home Decor 2020
+description: "Dreaming of a classy color to make your interior look stylish? \U0001F3D8️
+  Charcoal grey is the latest trend in interior design! \U0001F449 Learn the secret
+  to its popularity!"
 image: "/uploads/moda-na-antracyt.png"
 promoted: false
-update_date: 2020-02-05
-intro: 'Charcoal is a color that is becoming very popular recently. It can be used
-  as a neutral background color, as well as a strong accent. You can use it to paint
-  walls or choose charcoal grey elements: furniture, accessories and flooring. Charcoal
-  is very universal, therefore you should consider using it as an element of home
-  decor.'
+update_date: 2020-04-03
+intro: 'Charcoal is a versatile color that can be used for many purposes. It is usually
+  described as a mix of grey with a trace of black or navy blue. It is very often
+  mistaken for graphite, although in reality it is a completely different shade. Charcoal
+  can be used as a neutral background color, as well as a strong accent. You can use
+  it to paint walls or just pick individual charcoal grey items: furniture, accessories
+  or flooring. A significant advantage of charcoal is the fact that it blends well
+  with any interior, therefore you should consider using it for your interior design.
+  How to do that? What charcoal accessories it is best to choose?'
 main_keywords:
 - charcoal
 - charcoal color
@@ -22,84 +26,155 @@ main_keywords:
 - what color goes with charcoal gray
 
 ---
-## Charcoal - what color is it?
+## Charcoal - what color is it, exactly?
 
-Charcoal colour is a **very dark shade of grey**. It is very close to black, however it is noticeably brighter. The name of the color comes from coal made of wood, which is burned slowly in an oven with little access to air. Charcoal as color is one of the darkest tone of gray.
+Charcoal color is a **very dark shade of grey**. Why it’s so popular? It is very close to black, however it is noticeably brighter. The name of the color comes from coal made of wood, which is burned slowly in an oven with little access to air. Hence, charcoal, as a color, is one of the darkest tone of gray.
 
-Although this type of colour recently became very popular, it might be quite difficult to use in interior arrangement. Combining **charcoal with other home decor elements** should be done very carefully and skillfully. The reason for that is the fact that too dark color can easily overwhelm a room. Charcoal works best in spacious and well illuminated interiors. If the room is quite small, it does not mean that you should avoid the color. In this case instead of painting the walls it is better to use charcoal accessories.
+Although this type of color recently became very popular, it might be quite difficult to use in interior arrangement. Combining **charcoal with other home decor elements** should be done very carefully and skillfully. The reason for that is the fact that a color that is too dark can easily overwhelm a room. Charcoal works best in spacious and well illuminated interiors. If the room is quite small, it does not mean that you should avoid the color. In this case instead of painting the walls it is better to use charcoal accessories.
+
+If your home is spacious but you have no idea how to use charcoal - refer to the help of a specialist. Contact a competent person, explain them what exactly you expect and **wait for a project fitted for your needs.** This solution is becoming increasingly popular among those who want to use charcoal color in their homes.
 
 {% fig %}
-![Charcoal - what color is it?](/uploads/antracyt-co-to-za-kolor.jpg "Charcoal - what color is it?")
+![Charcoal - what color is it, exactly?](/uploads/antracyt-co-to-za-kolor.jpg "Charcoal - what color is it, exactly?")
 {% endfig %}
 
-Charcoal is quite a universal shade. For this reason it can be easily suited to any interior design. If fits modern styles, such as **scandinavian, industrial and minimalistic**. If well chosen, charcoal can make the room look special and unique, accentuating particular elements.
+As mentioned before, charcoal is quite a universal shade. For this reason it can be easily suited to basically any interior design. It fits modern styles, such as **scandinavian, industrial and minimalistic**. If combined well, charcoal can make a room look special and unique, accentuating particular elements.
 
-## Charcoal walls
+## Charcoal walls - a good idea?
 
-Charcoal was rarely used as a wall color in the past. The dark shade could seem not very interesting and too strong. If used well, however, charcoal can be perfect in many types of interior.
+Charcoal is a color that looks perfect on walls - both in a house and in a small apartment. The only thing is to use it carefully and tastefully.
+
+Charcoal was rarely used as a wall color in the past. The dark shade could have seemed not very interesting and too strong. If used well, however, charcoal can be perfect for any type of interior.
 
 {:.distinction.distinction-information}
-It’s very universal and can be used in any modern style rooms - in kitchens, bathrooms, bedrooms and offices.
+It’s a highly adaptable color, which can be used in any modern style rooms - in kitchens, bathrooms, bedrooms and offices.
 
-Charcoal works best as a wall colour in spacious and bright interiors. Such a room should be well illuminated with natural light. The best rooms in which you can use charcoal paint are located on **eastern, south-eastern and western side** of a building. You shouldn’t paint northern rooms with charcoal paint - they might look too dark and cold in such arrangement. In such cases it is better to combine the shade with brighter shades.
+{% fig %}
+![Charcoal walls - a good idea?](/uploads/antracyt-na-scianach-czy-to-dobry-pomysl.jpg "Charcoal walls - a good idea?")
+{% endfig %}
+
+Charcoal works best as a wall colour in spacious and bright interiors. Such a room should be well illuminated with lots of natural light. The best rooms in which you can use charcoal paint are located on **eastern, south-eastern and western side** of a building. You shouldn’t paint northern rooms with charcoal paint - they might look too dark and cold in such arrangements. In such cases it is better to combine the shade with brighter ones.
 
 {:.distinction.distinction-warning}
-If the room is very small, you shouldn’t paint the walls charcoal. Such a dark shade would overwhelm the already small space. A better idea is to paint the walls in different, brighter color that makes the room look bigger. You can use charcoal accessories - as accent elements.
+If the room is very small, you shouldn’t paint the walls charcoal. Such a dark shade would overwhelm the already small space. A better idea is to paint the walls in different, brighter color that makes the room look bigger. You can use charcoal accessories instead - as accent elements.
 
-### Charcoal walls - paint or something different?
+### Charcoal walls - how to cover them to avoid surprises?
 
-Thinking of charcoal color walls, you’re probably imagining a charcoal paint. If you decide to use such product, choose a **semi-gloss finish** for the best results. If you want to avoid overwhelming the room, you might decide to paint only one accent wall in the dark shade and the rest in a brighter color (e.g. white).
+Thinking of charcoal color walls, you’re probably imagining a charcoal paint. If you decide to use such a product, choose a **semi-gloss finish** for the best results. Feeling anxious that the color could overwhelm the room? You can always decide to paint only one accent wall in the dark shade and the rest in a brighter color (e.g. white).
 
 {% fig %}
-![Charcoal walls - paint or something different?](/uploads/kolor-antracytowy-jak-pokryc-sciany.jpg "Charcoal walls - paint or something different?")
+![Charcoal walls - how to cover them to avoid surprises?](/uploads/kolor-antracytowy-jak-pokryc-sciany.jpg "Charcoal walls - how to cover them to avoid surprises?")
 {% endfig %}
 
-Although wallpapers still seem out-fashioned, you should consider choosing this type of product to cover your walls. Wallpapers are becoming trendy again and manufacturers offer a lot of interesting designs, also charcoal. A good product with a nice texture might be a good decoration for your room.
+Although wallpapers still seem out-fashioned, you should consider choosing this type of product to cover your walls. Wallpapers are becoming trendy again and manufacturers offer a lot of interesting designs, also charcoal. A good product with a nice texture might be a nice decoration for your room.
 
 {:.distinction.distinction-information}
-Instead of using an ordinary paint, you could use a chalkboard paint in charcoal colour. With this solution you can write on walls with chalk, which might be useful in places such as kitchen, office and children’s room.
+Instead of using an ordinary paint, you could use a chalkboard paint in charcoal color. Thanks to this solution you can write on walls with chalk, which might be useful in places such as kitchen, office and children’s room.
 
-## Charcoal furniture
+### Accessories for dark walls
 
-If you think that covering your walls with charcoal paint is rather too much, you could decide to buy furniture in that color. They might be a great accent for an interior. Because **charcoal grey is a strong color**, you should choose furniture of simple, not very decorative design. Geometrical forms are the best in this case. Charcoal furniture looks best on light, neutral backgrounds. Such an arrangement highlights the strong color, which is already a decorative element.
+If the walls are painted charcoal, it is best to choose furniture and decorations in contrasting colors. The safest complimentary colors are white, beige, and also strong black. Charcoal also works well with light brown - therefore it is good to choose accessories in the color of natural wood. It is a particularly good solution for an interior in **scandinavian style**, which favours natural textures.
+
+{:.distinction.distinction-information}
+A highly intriguing idea for a living room with charcoal walls is a sofa in a strong color, for instance blue or yellow. It makes the room look more vivid, and **charcoal walls bring out the strong color of the sofa**.
+
+### Charcoal as an accent on a bright wall
+
+Charcoal is not always a suitable color for a wall. It does not mean that you have to abandon the idea of using it in your interior design. Luckily for you - charcoal is a perfect **accent color.**
+
+If the interior is bright, choose dark **charcoal gray accessories** - for instance curtains and cushions. For small furniture pieces - pick charcoal chairs, coffee tables and lamps.
+
+{:.distinction.distinction-information}
+Elements such as dark grey doors, radiators and windows are perfect for accentuating the room design. They make it look more vivid give it a unique character.
+
+## Charcoal furniture - home decor trend of 2020
+
+Charcoal furniture is one of the most popular interior design trends in 2020. If you are planning a renovation and looking for an inspiration - we might be able to help you.
+
+If you think that covering your walls with charcoal paint is rather too much, you could decide to buy furniture in that color. They might be a great accent for an interior. Because **charcoal grey is a strong color**, you should choose furniture of simple, not very decorative design. Geometrical forms are the best in this case.
+
+{:.distinction.distinction-information}
+Charcoal furniture looks best on light, neutral backgrounds. Such an arrangement highlights the strong color, which is already a decorative element.
 
 {% fig %}
 ![Charcoal furniture](/uploads/meble-w-kolorze-antracytu.jpg "Charcoal furniture")
 {% endfig %}
 
-For a living room, you could choose a mid-century modern charcoal sofa. Charcoal color furniture should have a smooth and simple structure. Consider matching furniture of contrasting colors, for instance charcoal sofa and white armchairs. Charcoal grey is also a **perfect color for a kitchen**. You can choose furniture that is whole dark grey or just the tabletops in that color (e.g in contrast with white shelves).
+### What are the rules when fitting charcoal furniture?
 
-## Charcoal - what accessories?
+Although, as it has been said, charcoal is a universal color, there are some rules that one should refer to.
 
-Charcoal is quite a strong color, and, as it was already mentioned, it can overwhelm the interior. Using this shade both for walls and furniture is a very bold move which works only in spacious and well illuminated interiors. Choosing only one charcoal element is much safer - make it be only walls or furniture. In both cases you should pay attention to **accessories**, which can accentuate the whole design.
+For the shared parts of a house you could choose a mid-century modern charcoal sofa. Choosing furniture, especially charcoal colored, pick smooth and simple textures. Consider matching contrasting colors, for instance a charcoal sofa and white armchairs. Charcoal grey is also a **perfect color for modern kitchens**. Dark grey cabinets matched with light accessories are always a good choice. You might also opt for dark tabletops contrasting with white cupboards.
 
 {% fig %}
 ![Charcoal - what accessories?](/uploads/antracyt-jakie-dodatki.jpg "Charcoal - what accessories?")
 {% endfig %}
 
-### Accessories for dark walls
+## Charcoal living room? Don’t shy away from bold solutions!
 
-If the walls are painted charcoal, it is best to choose furniture and decorations in contrasting colors. The safest complimentary colors are whites, beiges, and also strong blacks. Charcoal also works well with light browns - it is good to choose natural wood furniture. It is a very good solution for an interior in **scandinavian style**, which favours natural textures.
+A charcoal living room, according to many experts in interior design, is a fantastic solution for everyone who is not scared of bold decisions.
+
+A color like this works great in big spaces, and there are practically endless possibilities to use it. How to use charcoal in a living room? Find the most interesting solutions below!
+
+### Charcoal to accentuate sofa and armchairs
+
+A focal point of a typical living room is the part where sofa or armchairs stand - or, in many cases, both. Those elements look fantastic in charcoal.
+
+{% fig %}
+![Charcoal to accentuate sofa and armchairs](/uploads/sofa-i-fotele-antracyt-doskonale-podkresli-ich-urok.jpg "Charcoal to accentuate sofa and armchairs")
+{% endfig %}
+
+In this case choosing such a color may serve two purposes. First is introducing elegance and making the interior look more classy. The other function is simply keeping the furniture clean. It is much easier with a dark coloured sofa than with, for instance, a white one.
+
+### Charcoal grey coffee tables
+
+Coffee tables are making a big comeback in our homes. They are becoming increasingly popular - especially the charcoal ones.
+
+Not only classic, round coffee tables are getting attention. **Furniture of unusual shapes is trending in recent months.** A triangular table is one of the most interesting solutions - they look great in every living room, regardless of the style.
 
 {:.distinction.distinction-information}
-An interesting idea for a living room with charcoal walls is a sofa in a strong color, for instance blue or yellow. It makes the room look more vivid, and charcoal walls bring out the strong color of the sofa.
+Apart from classic tables with wooden legs in natural color, metal (golden or silver colored) bases are gaining popularity. Such an accessory looks much better in a modern than a classic interior - you should keep that in mind when furnishing your home.
 
-### Charcoal as an accent
+## A cozy charcoal bedroom
 
-Charcoal is not always suitable for a wall color. It does not mean that you have to give up this color in your design - it is perfect as **accent**.
+You might wonder whether a charcoal bedroom is a good idea. One might think that a dark color is too dark for a space which main purpose is rest and relaxation. Similar to every other case - moderation and applying some rules are the most important. You don’t have to design the whole room in one color. Pick only individual elements.
 
-If the interior is bright, choose dark **charcoal gray accessories** - for instance curtains and cushions. For small furniture pieces - pick charcoal chairs, coffee tables and lamps.
+{% fig %}
+![A cozy charcoal bedroom](/uploads/przytulna-sypialnia-w-kolorze-antracytowym.jpg "A cozy charcoal bedroom")
+{% endfig %}
+
+### Charcoal - perfect for an upholstered bed
+
+Dreaming of an elegant, stylish bedroom? No problem - just pick a charcoal colored bed.
+
+**Upholstered furniture, similar to many other trends in 2020 - are coming back.** Beds in this style can be found in almost every furniture shop. Furthermore, charcoal is the real top trend of the latest season, and probably will be for a few next ones. Do you want to accentuate the elegance of your bedroom even more? Try an upholstered headboard - your bedroom will look exceptionally classy.
+
+## Charcoal colored bathroom
+
+Charcoal grey is a perfect color for designing a modern bathroom. There are many uses for this shade - a good idea is to pick **charcoal tiles**. If your bathroom is small, you can add white tiles here and there to break the unified, dark color. Grey walls can be perfectly complemented with white elements, such as sink, toilet and bathtub.
+
+{% fig %}
+![Charcoal colored bathroom](/uploads/antracyt-czyli-pomysl-na-wystroj-lazienki.jpg "Charcoal colored bathroom")
+{% endfig %}
 
 {:.distinction.distinction-information}
-Elements such as dark grey doors, radiators and windows are perfect for accentuating the room design. They make it look more vivid and bring a character into it.
+Quite a contrary solution is choosing charcoal elements and white walls. Both of the mentioned solutions can be used to create a modern and elegant interior with a unique character.
 
-## Charcoal - a bathroom design idea
+## A dark charcoal kitchen? A great idea!
 
-Charcoal grey is a perfect color for designing a modern bathroom. There are many uses for this shade in a bathroom. A good idea is to pick **charcoal tiles**. If your bathroom is small, you can add white tiles here and there to break the unified, dark color. Grey walls can be perfectly complemented with white elements, such as sink, toilet and bathtub.
+Many homeowners might think that a charcoal kitchen is not a good idea. It is, however, a highly recommended solution, especially if you have a lot of free space.
 
-Quite a contrary solution is choosing charcoal elements and white walls. Both of the mentioned solutions can be used to create a modern and elegant interior.
+{% fig %}
+![A dark charcoal kitchen? A great idea!](/uploads/ciemna-kuchnia-w-kolorze-antracytowym-to-dobry-pomysl-1.jpg "A dark charcoal kitchen? A great idea!")
+{% endfig %}
 
-**Charcoal is an increasingly popular color - not without a reason. You should consider using it in your home interior design. The fact that it is so dark and overwhelming might be discouraging. Nevertheless, if used skillfully, charcoal grey can be combined with other home decor elements to create a modern, stylish and original appearance.**
+**What works best in a charcoal kitchen?** Most of all - furniture. You do not necessarily have to choose dark cabinets. Charcoal accessories, such as chairs or lamps will be enough. They look perfect with white tiled walls - a stylish and trendy solution.
+
+## Charcoal grey - do not use for a children’s room
+
+Are you looking for ideas to furnish your child’s room? Although charcoal is very versatile, it is definitely not suitable for a toddler’s room. **It is simply too dark.** In such a case it is better idea to pick bright pastel colors - they are more delicate.
+
+**Charcoal is an increasingly popular color - not without a reason**. You should consider using it in your home interior design. The fact that it is so dark and overwhelming might be discouraging. Nevertheless, if used skillfully, charcoal grey can be combined with other home decor elements to create a modern, stylish and original appearance.
 
 ## Charcoal grey - FAQ
 
@@ -120,5 +195,25 @@ What color goes with charcoal gray?
 
 {% faqAnswer %}
 Charcoal grey works best with contrasting colors, such as white and bright grey. It can also be a background for strong colors, such as blue, yellow or green.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+Charcoal grey - where to use it?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Charcoal is a color that works great in any home interior, and, in some cases, in an office. If you decide to use it in a small kitchen, bathroom or living room, remember about certain rules. This way you can make your room look more consistent.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+Charcoal grey - how to choose a charcoal paint?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Make sure to choose the right product designed for the surface you are going to paint. Water-based charcoal paint is recommended, as it gives a satin finish. Satin charcoal walls look “lighter” and very elegant.
 {% endfaqAnswer %}
 {% endfaqItem %}
