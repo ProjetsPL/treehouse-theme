@@ -22,7 +22,6 @@ intro: Zdarzyło Ci się kiedyś pobrudzić ubrania podczas prasowania? Byłaś 
   się brudnego osadu.
 image: "/uploads/jak-wyczyscic-zelazko-skuteczne -sposoby-na-czyszczenie-zelazka.jpg"
 related_products: []
-published: false
 
 ---
 ## Dlaczego regularne czyszczenie żelazka jest ważne?
