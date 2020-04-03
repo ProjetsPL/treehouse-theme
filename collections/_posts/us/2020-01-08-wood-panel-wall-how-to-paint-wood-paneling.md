@@ -2,9 +2,9 @@
 layout: post
 date: 2020-01-08
 toc: true
-title: Wood Panel Wall - Check Best Ideas How to Paint Wood Paneling
-description: "Want to refresh your home interior design? Minor changes are enough!
-  Learn how to paint a wood paneling easily \U0001F58C️ Find the best practical tips."
+title: Wood Panel Wall - Check Best Ideas on How to Paint Wood Paneling
+description: 'Want to refresh your home interior design? Even small changes can make
+  a difference! Learn how to easily paint wood paneling Find the best method! '
 image: "/uploads/malowanie-boazerii-jak-pomalowac-boazerie-aby-dobrze-wygladala.jpg"
 promoted: true
 update_date: 2020-04-02
