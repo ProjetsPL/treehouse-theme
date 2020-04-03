@@ -8,7 +8,7 @@ description: "Zależy Ci na estetycznym kaloryferze? Twoje wnętrze będzie wygl
   na kaloryfer."
 image: "/uploads/oslona-na-kaloryfer-main.jpg"
 promoted: false
-update_date: 2020-04-03
+update_date: 2020-04-02
 intro: Często zdarza się, że w nowo urządzonym mieszkaniu wszystko do siebie pasuje
   - poza jednym elementem. Jest nim nieestetyczny grzejnik. Mimo istnienia ozdobnych
   urządzeń tego typu, niestety większość rozwiązań grzewczych nie szczyci się pięknym
@@ -113,4 +113,4 @@ Dobrym pomysłem jest **zamówienie gotowej ażurowej płyty**, np. z PCV i przy
 {:.distinction.distinction-warning}
 W przypadku, kiedy nie jest się do końca pewnym swoich umiejętności, czasami nie warto zabierać się za własnoręczne wykonanie osłony. Nie przyniesie to większego efektu, a **nieumiejętnie wykonany projekt zaburzy pracę kaloryfera**. Mając w głowie konkretny projekt, można jednak zlecić komuś jego wykonanie.
 
-Osłona na kaloryfer to dobre rozwiązanie pozwalające na ukrycie szpecącego grzejnika. Taki element może zupełnie odmienić charakter wnętrza, zwiększając jego wartość estetyczną. Przed podjęciem decyzji o umieszczeniu takiej osłony na kaloryferze, warto rozważyć wszystkie wady i zalety. Ważny również jest dobry projekt, który zminimalizuje ryzyko utraty funkcjonalności urządzenia.
+Osłona na kaloryfer to dobre rozwiązanie pozwalające na ukrycie szpecącego grzejnika. Taki element może zupełnie odmienić charakter wnętrza, zwiększając jego wartość estetyczną. Przed podjęciem decyzji o umieszczeniu takiej osłony na kaloryferze, warto rozważyć jej wszystkie wady i zalety. Ważny również jest dobry projekt, który zminimalizuje ryzyko utraty funkcjonalności urządzenia.
