@@ -7,7 +7,7 @@ description: "An ugly radiator disrupts your home interior design? \U0001F3E0 Le
   how to solve this infuriating problem. Check why a cover radiator is the best solution."
 image: "/uploads/oslona-na-kaloryfer.jpg"
 promoted: false
-update_date: 2020-04-03
+update_date: 2020-04-02
 intro: An unaesthetic radiator is a problem of many, otherwise good looking, apartments.
   Despite the existence of decorative radiators, most of available heating devices
   are not particularly beautiful objects. If it is also your problem, a radiator cover
