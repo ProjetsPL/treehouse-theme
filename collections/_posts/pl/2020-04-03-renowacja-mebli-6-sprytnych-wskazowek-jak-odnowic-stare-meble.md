@@ -163,7 +163,7 @@ Dzięki kilku wskazówkom będziesz w stanie **samodzielnie wymienić tapicerkę
 
 * nowa tkanina przeznaczona na obicie mebla,
 * specjalna taśma — najlepiej bawełniana w kolorze zbliżonym do nowego obicia,
-* nóż tapicerski — często występujący pod nazwą noża technicznego,
+* nóż tapicerski — często występujący pod nazwą **noża technicznego**,
 * śrubokręt,
 * nożyczki,
 * kombinerki,
