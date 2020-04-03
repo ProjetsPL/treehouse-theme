@@ -47,7 +47,6 @@ Większość instalatorów urządzeń grzewczych twierdzi, że osłona na grzejn
 Najważniejszą i podstawową korzyścią płynącą z zabudowania grzejnika, jest **podniesienie walorów estetycznych w pomieszczeniu**. Jest to główny powód, dla którego właściciele mieszkań decydują się na zastosowanie tego rozwiązania. Maskownica grzejnika to element dekoracyjny, który można odpowiednio dopasować do wystroju wnętrza.
 
 {:.distinction.distinction-information} 
-
 Producenci oferują wiele rozwiązań, a w przypadku niestandardowych oczekiwań, element można dopasować na specjalne zamówienie. Wówczas możesz wybrać, z jakiego materiału ma zostać wykonana osłona na kaloryfer i dopasować jej wygląd do własnych preferencji.
 
 Koszty tego elementu można zmniejszyć, decydując się na jego samodzielne wykonanie. Wbrew pozorom nie jest to bardzo trudne zadanie, a własnoręcznie zaprojektowana ozdoba przyniesie wiele satysfakcji. Niezależnie od sposobu wykonania, **maskownica grzejnika** zazwyczaj jest bardzo łatwa w montażu.
