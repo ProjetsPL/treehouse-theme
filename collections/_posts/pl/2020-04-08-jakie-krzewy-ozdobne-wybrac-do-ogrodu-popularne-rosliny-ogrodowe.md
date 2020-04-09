@@ -19,7 +19,7 @@ intro: Planujesz posadzić nowe drzewa i krzewy do ogrodu? Ładny i zadbany ogr�
   móc zdrowo rosnąć. Jednak przy odpowiedniej pielęgnacji zarówno krzewy, jak i drzewka
   ozdobne do ogrodu mogą stanowić jego wyjątkową, naturalną dekorację. Zobacz, jakie
   rośliny ogrodowe warto mieć w swojej kolekcji.
-image: ''
+image: "/uploads/drzewa-do-ogrodu-2.jpg"
 related_products: []
 published: false
 
@@ -32,17 +32,18 @@ Większość gatunków drzew i krzewów wymaga dużego dostępu do światła. Ż
 
 Bardzo ważnym czynnikiem jest również gleba, w której sadzimy rośliny ogrodowe. Większość krzewów i drzew liściastych ma podobne wymagania względem podłoża. Mimo wszystko niektóre gatunki roślin wymagają specjalnego, specyficznego rodzaju gleby. Dlatego zanim wybierzemy konkretne rośliny ogrodowe, należy upewnić się, że nasza ziemia sprzyja kwitnieniu, jak i wzrostowi wybranych gatunków.
 
-Kiedy już uda nam się wybrać i zasadzić rośliny ogrodowe w najbardziej dogodnym dla nich miejscu, bardzo ważną rolę odgrywa ich dalsza pielęgnacja.Bez odpowiedniej troski o drzewa i krzewy do ogrodu, rośliny nie będą miały szansy na przetrwanie. 
-
+Kiedy już uda nam się wybrać i zasadzić rośliny ogrodowe w najbardziej dogodnym dla nich miejscu, bardzo ważną rolę odgrywa ich dalsza pielęgnacja.Bez odpowiedniej troski o drzewa i krzewy do ogrodu, rośliny nie będą miały szansy na przetrwanie.
 
 Podstawowe sposoby pielęgnacji roślin ogrodowych:
 {:.list.list-positive}
+
 * regularne nawadnianie/podlewanie
 * nawożenie
 * przycinanie drzew i krzewów
 * ochrona przed chorobą i szkodnikami
-* zabezpieczenie przed mrozem  
+* zabezpieczenie przed mrozem
 
+![](/uploads/drzewa-ogrodowe-jak-o-nie-dbac.jpg)
 
 ## Sezonowe rośliny ogrodowe
 
@@ -51,6 +52,8 @@ W przyrodzie istnieje wiele podziałów drzew i krzewów do ogrodu. Jednym z nic
 ### Krzewy do ogrodu wiosenno-letniego
 
 Najwięcej drzew i krzewów ozdobnych, a zasadniczo prawie wszystkie z nich kwitną wiosną i wczesnym latem. Z tego względu jest to również najlepszy czas na to, by sadzić nowe drzewa i krzewy do ogrodu. Wiosna to wyjątkowa dla ogrodu pora roku, w której rośliny budzą się do życia, przybierają przepiękne kolory i wypuszczają świeże kwiatowe pąki. Dlatego, bez względu na to, jakie rośliny ogrodowe wybierzemy, możemy być pewni, że wiosną nasz ogród będzie wyglądał pięknie.
+
+![](/uploads/drzewa-ogrodowe-3.jpg)
 
 Są także nieliczne drzewa i krzewy ogrodowe, które zakwitają w środku lata. Należą do nich między innymi hortensje, ketmia syryjska czy budleja Davida. Rośliny kwitnące latem to niezwykły skarb dla ogrodu, który wprowadza akcent świeżości, podczas gdy rośliny typowo wiosenne zaczynają przekwitać i nie wyglądają już tak efektownie. Jeśli zdecydujemy się na sezonowe rośliny ogrodowe, wówczas krzewy typowo wiosenne staną się wspaniałym tłem dla kwiatów kwitnących latem, a zwłaszcza roślin krótkotrwałych – jedno lub dwuletnich.
 
@@ -90,10 +93,22 @@ Inne popularne owocowe drzewka ozdobne do ogrodu to na przykład: trzmielina zwy
 {:.distinction.distinction-warning}  
 Zdecydowanie odradza się sadzenia drzew z owocami dekoracyjnymi we własnym ogrodzie, jeśli na co dzień poruszają się po nim dzieci lub zwierzęta domowe. Spożycie tych owoców jest bowiem niebezpieczne dla zdrowia i może doprowadzić do zatrucia.
 
+![](/uploads/drzewo-owocowe.jpg)
+
 ### Wieloletnie krzewy ozdobne - niskie
 
 Decydując się na krzewy ozdobne wieloletnie warto zwrócić uwagę również na ich wysokość. Krzewy i drzewa do ogrodu różnej wielkości będą stanowiły urozmaicenie i wprowadzą różnorodność zarówno do liściastych, jak i kwiatowych kompozycji.
 
-Jeśli interesują nas niskie wieloletnie rośliny ogrodowe, możemy zwrócić uwagę między innymi na łatwe w uprawie hortensje w odmianie ogrodowej lub drzewkowatej. Kwiaty te, regularnie przycinane potrafią wzrosnąć do około metra wysokości. Dzięki temu można z powodzeniem sadzić je przy niskich kompozycjach ogrodowych. Sprawdzą się również świetnie jako ozdoba zewnętrznych schodów czy tarasu. Ich kuliste, duże kwiaty wybarwiają się w zależności od zakwaszenia podłoża, zyskując kolor biały, różowy, fioletowy lub niebieski.  
-  
+Jeśli interesują nas niskie wieloletnie rośliny ogrodowe, możemy zwrócić uwagę między innymi na łatwe w uprawie hortensje w odmianie ogrodowej lub drzewkowatej. Kwiaty te, regularnie przycinane potrafią wzrosnąć do około metra wysokości. Dzięki temu można z powodzeniem sadzić je przy niskich kompozycjach ogrodowych. Sprawdzą się również świetnie jako ozdoba zewnętrznych schodów czy tarasu. Ich kuliste, duże kwiaty wybarwiają się w zależności od zakwaszenia podłoża, zyskując kolor biały, różowy, fioletowy lub niebieski.
+
 Inne ciekawe propozycje wieloletnich krzewów do ogrodu to na przykład żylistek wysmukły. Bujny i gęsty krzew, rosnący do wysokości pół metra lub metra. Posiada piękne, białe kwiaty, kwitnące na przełomie wiosny i lata. Równie ciekawie ze względu na nietuzinkowe zabarwienie wygląda pigwowiec japoński. Jego kwiaty zakwitają na kolor biały, czerwony lub różowoczerwony, a na jego gałęziach pojawiają się jadalne, żółte owoce o słodkim smaku. Inne niewielkie rośliny ozdobne, które warto rozważyć w swoim ogrodzie to między innymi irga pozioma oraz tawułą japońska.
+
+{% faqItem %}
+{% faqQuestion %}
+Jakie krzewy ozdobne do ogrodu?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Do wyboru jest wiele gatunków krzewów ozdobnych zarówno jednosezonowych, jak i wieloletnich. Ozdobne rośliny ogrodowe o pięknych kwiatach, które w ogrodach można spotkać najczęściej to róże czy forsycje. Natomiast najczęściej spotykane owocowe krzewy ozdobne do ogrodu to m. in.: ostrokrzew kolczasty, czeremcha czy czarny bez.
+{% endfaqAnswer %}
+{% endfaqItem %}
