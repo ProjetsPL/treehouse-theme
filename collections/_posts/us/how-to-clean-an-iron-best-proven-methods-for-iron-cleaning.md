@@ -45,17 +45,18 @@ Dirt might accumulate on the device for various reasons. One of them is dust set
 ![Why is it so important to clean an iron plate?](/uploads/dlaczego-regularne-czyszczenie-zelazka-jest-wazne.jpg "Why is it so important to clean an iron plate?")
 {% endfig %}
 
-Other factor that might have adverse impact is setting the temperature too high. As a result, the **burnt iron leaves black marks on clothes, that are difficult to wash off**. The dirt accumulates inside of the device as well. Hard water that is poured into the water container might cause lime scale buildup. For this reason anyone who wonders how to clean an iron whould remember to clean it inside as well.
+Other factor that might have an adverse impact is setting the temperature too high. As a result, the **burnt iron leaves black marks on clothes that are difficult to wash off**. The dirt accumulates inside of the device as well. Hard water that is poured into the water container might cause lime scale buildup. For this reason anyone who wonders how to clean an iron whould remember to clean it inside as well.
 
 {:.distinction.distinction-information}
 For ironing to be effective and unproblematic, just **cleaning iron plate** is not enough. The surface on which the clothes are ironed is equally important. The most convenient and also the safest solution is simply an ironing board. In case you do not own an object of this type (e.g. because of lack of space), you might use a towel placed onto a smooth and hard surface.
 
 ## How to clean an iron? 5 DIY tricks to clean a steam iron
 
-One of the most popular methods to **clean an iron** is using a mixture of vinegar and baking soda. Such cleaning solution in form of **paste is perfect for getting rid of difficult stains on an iron**. Prepare the mixture in proportion 2:1 - mix two partsof soda with one part vinegar. Be careful not to mix the solution too quickly. The ingredients react with each other and they might grow very rapidly, forming a lot of foam.
+One of the most popular methods to **clean an iron** is using a mixture of vinegar and baking soda. Such cleaning solution in form of **paste is perfect for getting rid of difficult stains on an iron**. Prepare the mixture in proportion 2:1 - mix two parts of soda with one part of vinegar. Be careful not to mix the solution too quickly. The ingredients react with each other and they might grow very rapidly, forming a lot of foam.
 
-{:.distinction.distinction-warning}
-ALthought this method is highly effective, if cannot be used with a teflon iron plate. Mixing the two ingredients makes the solution harmful for teflon surfaces.
+{:.distinction.distinction-warning} 
+
+Although this method is highly effective, it cannot be used with a teflon iron plate. The mixture of those two ingredients is harmful to teflon surfaces.
 
 ### Toothpaste to clean a burnt iron plate
 
@@ -82,7 +83,7 @@ Lemon juice is an effective agent that dissolves even the most stubborn dirts th
 
 ### A burnt iron plate? Just use cooking salt
 
-Salt is a good way to clean any type of iron. Place a piece of parchment paper or newpaper on an even, flat surface. Then pur some salt on it and press a hot iron to it. Rub it on the salted surface - the dirt is going to dissapear after a few minutes.
+Salt is a good way to clean any type of iron. Place a piece of parchment paper or newspaper on an even, flat surface. Then pour some salt on it and press a hot iron. Rub it against the salted surface - the dirt is going to dissapear after a few minutes.
 
 ## How to clean an iron with a ceramic plate?
 
@@ -90,14 +91,13 @@ A ceramic iron plate is very delicate, therefore it needs special treatment.
 
 Small stains can be removed with acidic solutions such as vinegar or lemon juice. If the iron is badly burnt, they might be ineffective. How to clean an iron in such case? Just use a raw wooden board. Heat up the device and rub the board against the surface, using appropriate force.
 
-{:.distinction.distinction-warning}
-Be careful not to press too strong during ironing. It might damage the fragile iron plate. You might try to use a special brush for ceramic surfaces. Keep in minf that it is a risky method and you should be careful.
+{:.distinction.distinction-warning} Be careful not to press too strong when ironing. It might damage the fragile iron plate. You might also try to use a special brush for ceramic surfaces. Keep in mind that it is a risky method and you should be careful.
 
 ## How to clean a iron with a teflon-coated plate?
 
-Another fragile type of irons are the ones with a teflon-coated plates. It is very prone to scratches, therefore one should use such a device carefully.
+Another fragile type of irons are the ones with a teflon-coated plates. They are very prone to scratches, therefore one should use such a device carefully.
 
-**How to clean an iron** so that the process is safe for the surface? If the plate is burnt, you might try rubbing it with a soft cloth dampened with vinegar. Because teflon is a very delicate surface, cleaning iron plate needs extra patience.
+**How to clean an iron** so that the process is safe for the surface? If the plate is burnt, you might try rubbing it with a soft cloth dampened with vinegar. Because teflon is a very delicate surface, cleaning iron plate requires extra patience.
 
 Mistakes that one should avoid when **cleaning iron plate with a fragile coating**:
 
@@ -106,7 +106,7 @@ Mistakes that one should avoid when **cleaning iron plate with a fragile coating
 * quick, rapid rubbing against the surface,
 * cleaning iron plate with a wire brush,
 * using baking soda or salt,
-* using chemicals meant for other tyoes of surfaces.
+* using chemicals meant for other types of surfaces.
 
 ## How to clean a steam iron safely
 
@@ -118,7 +118,7 @@ A steam iron is quite different than the rest of the appliances of this type. It
 ![](/uploads/sposob-na-bezpieczne-czyszczenie-zelazka-parowego.jpg)
 {% endfig %}
 
-Similar to every other iron, a steam iron needs to be wiped every time before using it. Otherwise dust might cause the iron plate to burn. For regular cleaning it is good to use a cream cleaner, specially designed for this type of devices. It should be spread onto the surface with a clean, soft cloth.
+Similar to every other iron, a steam iron needs to be wiped every time before using it. Otherwise dust might cause the iron plate to burn. For regular cleaning, it is good to use a cream cleaner, specifically designed for this type of devices. It should be spread onto the surface with a clean, soft cloth.
 
 If the device gets burnt, the best remedy in such case is vinegar. Soak a cloth with a hot solution made of half glass of vinegar and two tablspoons of baking soda. Rub it delicately until the marks are gone - it's a very quick method.
 
@@ -126,17 +126,17 @@ If the device gets burnt, the best remedy in such case is vinegar. Soak a cloth 
 
 Descaling an iron is a very important part of the device maintenace. It should be repeated regularly, at least once in two months. Cleaning iron this way can make it last much longer without any malfunction.
 
-If you're wondering how to clean an iron and get rid of limescale - there are several methods to choose from. The easiest way is to buy a descaler. Puring this strong chemical into the device gets rid of the scale in no time.
+If you're wondering how to clean an iron and get rid of limescale - there are several methods to choose from. The easiest way is to buy a descaler. Pouring this strong chemical into the device gets rid of the scale in no time.
 
 {:.distinction.distinction-information}
 Descaler is a very cheap product. It is completely safe for irons so there is no worry that it could damage your device.
 
-Another, even less costly method to clean an iron with a scale buildup is a solution of vinegar with water. Pour it into the water tank and star ironing a cloth unti the scale fall off onto it. When ironing you will smell a characteristic scent of vinegar.
+Another, even less costly method to clean an iron with a scale buildup is a solution of vinegar with water. Pour it into the water tank and start ironing a cloth until the scale falls off. When ironing, you will smell a characteristic scent of vinegar.
 
 One more, very popular and cheap way to clean an iron off scale is using a citric acid solution. To make it, mix a glass of water with three tablespoons of acid. Similar to the previous method, turn on the iron and start irining a cloth. The scale should fall out of the steam holes.
 
 {:.distinction.distinction-information}
-There are irons that have a special function called _calc-clean_ or _self-clean_. It informs the user when the device needs to be cleaned - usually by truning a special light on.
+There are irons that have a special function called _calc-clean_ or _self-clean_. It notifies the user when the device needs to be cleaned. It is typically signalled by a special light.
 
 {% faqItem %}
 {% faqQuestion %}
