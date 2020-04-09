@@ -14,12 +14,11 @@ update_date: 2020-04-07
 title: Jakie Krzewy Ozdobne Wybrać Do Ogrodu? Popularne Rośliny Ogrodowe
 description: Estetyczny i zadbany ogród wymaga wiele pracy. Planujesz posadzić nowe
   drzewa i krzewy do ogrodu? Zobacz, jakie rośliny ogrodowe warto mieć w swojej kolekcji.
-intro: "# Jakie krzewy ozdobne wybrać do ogrodu? Popularne rośliny ogrodowe\n\n  \nPlanujesz
-  posadzić nowe drzewa i krzewy do ogrodu? Ładny i zadbany ogród wymaga wiele pracy
-  i zaangażowania. Rośliny ogrodowe potrzebują odpowiednich warunków aby móc zdrowo
-  rosnąć. Jednak przy odpowiedniej pielęgnacji zarówno krzewy, jak i drzewka ozdobne
-  do ogrodu mogą stanowić jego wyjątkową, naturalną dekorację. Zobacz, jakie rośliny
-  ogrodowe warto mieć w swojej kolekcji."
+intro: Planujesz posadzić nowe drzewa i krzewy do ogrodu? Ładny i zadbany ogród wymaga
+  wiele pracy i zaangażowania. Rośliny ogrodowe potrzebują odpowiednich warunków aby
+  móc zdrowo rosnąć. Jednak przy odpowiedniej pielęgnacji zarówno krzewy, jak i drzewka
+  ozdobne do ogrodu mogą stanowić jego wyjątkową, naturalną dekorację. Zobacz, jakie
+  rośliny ogrodowe warto mieć w swojej kolekcji.
 image: ''
 related_products: []
 published: false
@@ -35,15 +34,15 @@ Bardzo ważnym czynnikiem jest również gleba, w której sadzimy rośliny ogrod
 
 Kiedy już uda nam się wybrać i zasadzić rośliny ogrodowe w najbardziej dogodnym dla nich miejscu, bardzo ważną rolę odgrywa ich dalsza pielęgnacja.Bez odpowiedniej troski o drzewa i krzewy do ogrodu, rośliny nie będą miały szansy na przetrwanie. 
 
-{:.list.list-positive}  
-Podstawowe sposoby pielęgnacji roślin ogrodowych:
 
+Podstawowe sposoby pielęgnacji roślin ogrodowych:
+{:.list.list-positive}
 * regularne nawadnianie/podlewanie
 * nawożenie
 * przycinanie drzew i krzewów
 * ochrona przed chorobą i szkodnikami
 * zabezpieczenie przed mrozem  
-  {:.list.list-positive}
+
 
 ## Sezonowe rośliny ogrodowe
 
@@ -62,8 +61,7 @@ Decydując się na konkretne drzewa i krzewy do ogrodu warto wybierać nie tylko
 Istnieje wiele różnych gatunków roślin, które zakwitają w porze jesieni. Wśród nich znajdziemy między innymi: azalię, klon, kalinę, brzozę czy miłorząb chiński. Te i pozostałe jesienne gatunki drzew mogą tworzyć unikatowe kompozycje roślinne w połączeniu z pięknymi jesiennymi kwiatami, jak na przykład: chryzantemy, astry, zimowity czy japońskie zawilce. Wśród sezonowych roślin ogrodowych znajdziemy również kilka gatunków krzewów, których owoce stają się kolorową ozdobą ogrodu, gdy już z drzew opadną wszystkie liście. Do takich krzewów zaliczamy: pigwowiec pośredni, rokitnik wąskolistny, trzmielin, berberys czy chociażby niektóre gatunki jabłoni.
 
 {:.distinction.distinction-information}  
-Wybierając drzewa i krzewy do ogrodu bardzo ważne jest to, aby zwrócić uwagę na ulistnienie i pokrój roślin. Zbyt duża ilość krzewów o kolorowych liściach - żółtych, pomarańczowych lub czerwonawych – może przytłoczyć ogród i wprowadzić do niego niepotrzebny chaos.  
-{:.distinction.distinction-information}
+Wybierając drzewa i krzewy do ogrodu bardzo ważne jest to, aby zwrócić uwagę na ulistnienie i pokrój roślin. Zbyt duża ilość krzewów o kolorowych liściach - żółtych, pomarańczowych lub czerwonawych – może przytłoczyć ogród i wprowadzić do niego niepotrzebny chaos.
 
 ### Ciekawe rośliny do ogrodu na zimę
 
@@ -90,8 +88,7 @@ Owocowe drzewka ozdobne stanowią dużą grupę ozdobnych roślin ogrodowych. Ga
 Inne popularne owocowe drzewka ozdobne do ogrodu to na przykład: trzmielina zwyczajna, ognik szkarłatny, cis pospolity czy ostrokrzew kolczasty. Wszystkie te drzewka wydają owoce, jednak stanowią one wyłącznie element dekoracyjny rośliny ogrodowej.
 
 {:.distinction.distinction-warning}  
-Zdecydowanie odradza się sadzenia drzew z owocami dekoracyjnymi we własnym ogrodzie, jeśli na co dzień poruszają się po nim dzieci lub zwierzęta domowe. Spożycie tych owoców jest bowiem niebezpieczne dla zdrowia i może doprowadzić do zatrucia.  
-{:.distinction.distinction-warning}
+Zdecydowanie odradza się sadzenia drzew z owocami dekoracyjnymi we własnym ogrodzie, jeśli na co dzień poruszają się po nim dzieci lub zwierzęta domowe. Spożycie tych owoców jest bowiem niebezpieczne dla zdrowia i może doprowadzić do zatrucia.
 
 ### Wieloletnie krzewy ozdobne - niskie
 
