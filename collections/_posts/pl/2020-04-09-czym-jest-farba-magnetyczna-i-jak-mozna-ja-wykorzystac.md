@@ -20,7 +20,6 @@ intro: Znudził Ci się klasyczny wygląd wnętrz w Twoim domu? Planujesz małe 
   nowego wyrazu. Wypróbuj farbę magnetyczną w swoim domu i ciesz się wspaniałymi efektami.
 image: "/uploads/farba-tablicowa.jpg"
 related_products: []
-published: false
 
 ---
 ## Jakie zastosowanie ma farba magnetyczna?
