@@ -26,11 +26,11 @@ related_products: []
 ---
 ## Drzewa i krzewy do ogrodu – jak je sadzić i pielęgnować?
 
-Żeby rośliny ogrodowe odpowiednio się rozwijały i rosły konieczne jest zapewnienie im właściwych warunków i **odpowiedniej pielęgnacji**. Poszczególne gatunki różnią się od siebie nie tylko wyglądem i sposobem kwitnienia. Każdy z nich wymaga **indywidualnego traktowania** odpowiadającego potrzebom konkretnego gatunku. Aby upewnić się, że odpowiednio dbasz o swoje krzewy i drzewa do ogrodu, przede wszystkim zapoznaj się z opisem wybranych gatunków na stronach leśnych szkółek. 
+Żeby rośliny ogrodowe odpowiednio się rozwijały i rosły konieczne jest zapewnienie im właściwych warunków i **odpowiedniej pielęgnacji**. Poszczególne gatunki różnią się od siebie nie tylko wyglądem i sposobem kwitnienia. Każdy z nich wymaga **indywidualnego traktowania** odpowiadającego potrzebom konkretnego gatunku. Aby upewnić się, że odpowiednio dbasz o swoje krzewy i drzewa do ogrodu, przede wszystkim zapoznaj się z opisem wybranych gatunków na stronach leśnych szkółek.
 
 **Czy istnieją uniwersalne wskazówki, co do uprawy krzewów i drzew ogrodowych? Jakie czynniki wpływają na ich odpowiedni wzrost?**
 
-Większość gatunków drzew i krzewów wymaga przede wszystkim dużego dostępu do światła. Żadne rośliny nie przetrwają bez odpowiedniej ilości promieni słonecznych. Dlatego **sadząc drzewa i krzewy do ogrodu** dobrze jest upewnić się, że wybrałeś dla nich odpowiednie miejsce z dostępem do takiej ilości światła, jakiej faktycznie potrzebują. 
+Większość gatunków drzew i krzewów wymaga przede wszystkim dużego dostępu do światła. Żadne rośliny nie przetrwają bez odpowiedniej ilości promieni słonecznych. Dlatego **sadząc drzewa i krzewy do ogrodu** dobrze jest upewnić się, że wybrałeś dla nich odpowiednie miejsce z dostępem do takiej ilości światła, jakiej faktycznie potrzebują.
 
 {:.distinction.distinction-warning}
 Nie należy przesadzać w żadną ze stron, ponieważ zbyt duże nasłonecznienie ma równie szkodliwy wpływ na rośliny ogrodowe, co jego brak.
@@ -46,6 +46,7 @@ Kiedy już uda Ci się wybrać i zasadzić rośliny ogrodowe w najbardziej dogod
 Podstawowe sposoby pielęgnacji roślin ogrodowych:
 
 {:.list.list-positive}
+
 * regularne nawadnianie/podlewanie,
 * nawożenie,
 * przycinanie drzew i krzewów,
@@ -53,7 +54,7 @@ Podstawowe sposoby pielęgnacji roślin ogrodowych:
 * zabezpieczenie przed mrozem.
 
 {% fig %}
-![](/uploads/drzewa-ogrodowe-jak-o-nie-dbac.jpg "Drzewa i krzewy do ogrodu – jak je sadzić i pielęgnować?")
+![Jak pielęgnować krzewy do ogrodu?](/uploads/drzewa-ogrodowe-jak-o-nie-dbac.jpg "Jak pielęgnować krzewy do ogrodu?")
 {% endfig %}
 
 ## Sezonowe rośliny ogrodowe
@@ -65,7 +66,7 @@ W przyrodzie istnieje wiele podziałów klasyfikujących drzewa i krzewy do ogro
 Najwięcej drzew i krzewów ozdobnych, a zasadniczo prawie wszystkie z nich kwitną wiosną i wczesnym latem. Z tego względu jest to również najlepszy czas na to, by sadzić nowe rośliny ogrodowe. **Wiosna to wyjątkowa dla ogrodu pora roku**, w której kwiaty i krzewy ozdobne budzą się do życia, przybierają przepiękne kolory i wypuszczają świeże pąki. Dlatego, bez względu na to, jakie rośliny ogrodowe wybierzesz, możesz być pewny, że wiosną Twój ogród będzie wyglądał pięknie.
 
 {% fig %}
-![](/uploads/drzewo-kwiatowe.jpg "Krzewy do ogrodu wiosenno-letniego")
+![Krzewy do ogrodu wiosenno-letniego](/uploads/drzewo-kwiatowe.jpg "Krzewy do ogrodu wiosenno-letniego")
 {% endfig %}
 
 **Są także nieliczne drzewa i krzewy ogrodowe, które zakwitają w środku lata.** Należą do nich między innymi hortensje, ketmia syryjska czy budleja Davida. Rośliny kwitnące latem to niezwykły skarb dla ogrodu, który wprowadza akcent świeżości, podczas gdy rośliny typowo wiosenne zaczynają przekwitać i nie wyglądają już tak efektownie. Jeśli zdecydujesz się na **sezonowe rośliny ogrodowe**, wówczas krzewy typowo wiosenne staną się wspaniałym tłem dla kwiatów kwitnących latem.
@@ -80,14 +81,14 @@ Istnieje wiele różnych gatunków roślin, które zakwitają w porze jesieni. W
 Wybierając drzewa i krzewy do ogrodu, bardzo ważne jest to, aby zwrócić uwagę na ulistnienie i pokrój roślin. Zbyt duża ilość krzewów o kolorowych liściach - żółtych, pomarańczowych lub czerwonawych – może przytłoczyć ogród i wprowadzić do niego niepotrzebny chaos.
 
 {% fig %}
-![](/uploads/barberry-2980763_1280.jpg "Rośliny ogrodowe na złotą jesień")
+![Rośliny ogrodowe na złotą jesień](/uploads/barberry-2980763_1280.jpg "Rośliny ogrodowe na złotą jesień")
 {% endfig %}
 
 ### Ciekawe rośliny do ogrodu na zimę
 
 Bardzo często pojawia się pytanie: **jak zapewnić sobie piękny i żywy ogród o porze roku, w której rośliny ogrodowe w większości uśpione są przez mróz?** Podczas zimy zdecydowanie trudniej o efektowny ogród. Nie jest to jednak rzecz niemożliwa. Barwne i bogate kompozycje kwiatowe mogą zastąpić krzewy do ogrodu o ciekawym kształcie i nietypowym pokroju.
 
-Jedną z takich roślin jest między innymi **leszczyna pospolita**, której pędy są poskręcane w charakterystyczny sposób. 
+Jedną z takich roślin jest między innymi **leszczyna pospolita**, której pędy są poskręcane w charakterystyczny sposób.
 
 {:.distinction.distinction-information}
 Inne ciekawe rośliny do ogrodu zimowego to na przykład: złotolin japoński, dereń biały, brzoza, ale także gerbery, eustomy czy hiacynty.
@@ -101,7 +102,7 @@ W sklepach ogrodniczych znajdziesz **ogromny wybór gatunków roślin wieloletni
 Najpopularniejsze drzewa i krzewy do ogrodu, które co roku zakwitają na nowo, ciesząc pięknymi kwiatami to między innymi: **róże, lilak pospolity – zwany popularnie bzem, a także forsycja**. Wybór tych gatunków gwarantuje piękny, pachnący i kolorowy ogród przez długie lata.
 
 {% fig %}
-![](/uploads/drzewa-ogrodowe-3.jpg "Kwitnące wieloletnie krzewy do ogrodu")
+![Kwitnące wieloletnie krzewy do ogrodu](/uploads/drzewa-ogrodowe-3.jpg "Kwitnące wieloletnie krzewy do ogrodu")
 {% endfig %}
 
 Coraz częściej można także spotkać nieco mniej popularne, ale równie piękne **wieloletnie krzewy do ogrodu o kolorowych kwiatach**. Jednym z nich jest sięgająca wysokością nawet do 3 metrów Budleja Dawida. Posiada niezwykle ciekawe kwiaty, które przybierają różne barwy, w zależności od zasadzonej odmiany. Wśród nich znajdziesz takie kolory kwiatów jak fioletowe, różowe, czerwonawe, białe lub niebieskie. Budleja Dawida charakteryzuje się także pięknym zapachem.
@@ -115,7 +116,7 @@ Wieloletnie krzewy do ogrodu, z uwagi na wysoką odporność na mróz, sprawdzą
 
 Decydując się na krzewy ozdobne wieloletnie, warto zwrócić uwagę na ich wysokość. **Krzewy i drzewa do ogrodu różnej wielkości** będą stanowiły urozmaicenie i wprowadzą różnorodność zarówno do liściastych, jak i kwiatowych kompozycji.
 
-Jeśli interesują Cię **niskie wieloletnie rośliny ogrodowe**, możesz zwrócić uwagę między innymi na łatwe w uprawie hortensje w odmianie ogrodowej lub drzewkowatej. Kwiaty te, regularnie przycinane potrafią wzrosnąć do około metra wysokości. Dzięki temu można z powodzeniem sadzić je przy niskich kompozycjach ogrodowych. Sprawdzą się również świetnie jako ozdoba zewnętrznych schodów, czy tarasu. 
+Jeśli interesują Cię **niskie wieloletnie rośliny ogrodowe**, możesz zwrócić uwagę między innymi na łatwe w uprawie hortensje w odmianie ogrodowej lub drzewkowatej. Kwiaty te, regularnie przycinane potrafią wzrosnąć do około metra wysokości. Dzięki temu można z powodzeniem sadzić je przy niskich kompozycjach ogrodowych. Sprawdzą się również świetnie jako ozdoba zewnętrznych schodów, czy tarasu.
 
 {:.distinction.distinction-information}
 Ich kuliste, duże kwiaty wybarwiają się w zależności od zakwaszenia podłoża, zyskując kolor biały, różowy, fioletowy lub niebieski.
@@ -127,7 +128,7 @@ Inne ciekawe propozycje wieloletnich krzewów do ogrodu to na przykład **żylis
 Owocowe drzewka ozdobne stanowią dużą grupę ozdobnych roślin ogrodowych. Gatunki, które są najczęściej spotykane w ogrodach to między innymi: **czarny bez** oraz **dzika róża**. Dużą popularnością wśród ozdobnych drzew cieszą się również czeremcha i dereń jadalny, czyli wysokie, ponad 5-metrowe drzewko o błyszczących liściach i małych żółtych kwiatuszkach. **Drzewko raz do roku wydaje czerwone owoce, zdatne do spożycia**.
 
 {% fig %}
-![](/uploads/drzewo-owocowe.jpg "Wieloletnie, owocowe drzewka ozdobne do ogrodu")
+![Wieloletnie, owocowe drzewka ozdobne do ogrodu](/uploads/drzewo-owocowe.jpg "Wieloletnie, owocowe drzewka ozdobne do ogrodu")
 {% endfig %}
 
 Inne popularne owocowe drzewka ozdobne do ogrodu to na przykład: trzmielina zwyczajna, ognik szkarłatny, cis pospolity czy ostrokrzew kolczasty. Wszystkie te drzewka wydają owoce, jednak stanowią one wyłącznie element dekoracyjny rośliny ogrodowej.
