@@ -31,7 +31,7 @@ product_category: lamp
 ---
 ## Antracyt - jaki to dokładnie kolor?
 
-Intrygujący kolor - antracyt jest bardzo **ciemnym odcieniem szarości**. Na czym jednak polega jego fenomen? Jest on zbliżony do czerni, jednak ma wyraźnie jaśniejszą barwę. Swoją nazwę antracyt zawdzięcza rodzajowi węgla kamiennego a dokładniej jego najbardziej przeobrażonej formie. Jako kolor - antracyt jest więc jednym z najciemniejszych odcieni szarości.
+**Kolor antracytowy** to odcień określany także jako grafit. Dla niektórych to barwa brunatna charakteryzująca np. **węgiel kopalny** czy inne **skały organogeniczne**. Antracyt w kodzie hex występuje jako #364135, w systemie RAL pod numerem 7016 szary antracytowy. Kolor antracyt to **unikalne połączenie** odcienia szarego i barwy czarnej.
 
 Ten rodzaj szarego znacznie zyskał na popularności w ostatnich latach. Jest to jednak kolor dosyć trudny w zastosowaniu. **Antracyt w aranżacji wnętrz** należy wkomponować w sposób ostrożny i umiejętny. Łatwo przytłoczyć pokój zbyt dużą ilością tej ciemnej barwy. Najlepiej stosować go w przestronnych wnętrzach. Nie oznacza to jednak, że w przypadku mniejszych pomieszczeń trzeba z niego całkowicie rezygnować. Warto natomiast w takim przypadku postawić na dodatki.
 
