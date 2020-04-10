@@ -8,8 +8,8 @@ main_keywords:
 - steam iron
 toc: true
 promoted: false
-update_date: 2020-04-09
-title: How To Clean an Iron? Best Proven Methods for Iron Cleaning
+update_date: 2020-04-10
+title: How To Clean an Iron? Check Best Proven Iron Cleaning Methods
 description: Dirty iron plate makes ironing difficult? Are you afraid that it might
   ruin your clothes? ➡️ Learn how to clean an iron - effectively and with no effort!
 intro: Have you ever discovered a stain on your clothes when ironing? Or perhaps you
@@ -19,7 +19,6 @@ intro: Have you ever discovered a stain on your clothes when ironing? Or perhaps
   how to clean an iron and get rid of the dirt on your appliance.
 image: "/uploads/jak-wyczyscic-zelazko-skuteczne -sposoby-na-czyszczenie-zelazka.jpg"
 related_products: []
-published: false
 
 ---
 ## Why is it so important to clean an iron plate?
@@ -29,7 +28,6 @@ Regular iron plate cleaning is a highly important matter, as it helps to keep th
 To make an iron work better, one should:
 
 {:.list.list-positive}
-
 * follow the manufacturer's instructions and recommendations,
 * wipe the iron plate right before using it,
 * iron delicate fabrics through a cotton cloth,
@@ -55,7 +53,6 @@ For ironing to be effective and unproblematic, just **cleaning iron plate** is n
 One of the most popular methods to **clean an iron** is using a mixture of vinegar and baking soda. Such cleaning solution in form of **paste is perfect for getting rid of difficult stains on an iron**. Prepare the mixture in proportion 2:1 - mix two parts of soda with one part of vinegar. Be careful not to mix the solution too quickly. The ingredients react with each other and they might grow very rapidly, forming a lot of foam.
 
 {:.distinction.distinction-warning} 
-
 Although this method is highly effective, it cannot be used with a teflon iron plate. The mixture of those two ingredients is harmful to teflon surfaces.
 
 ### Toothpaste to clean a burnt iron plate
@@ -91,7 +88,8 @@ A ceramic iron plate is very delicate, therefore it needs special treatment.
 
 Small stains can be removed with acidic solutions such as vinegar or lemon juice. If the iron is badly burnt, they might be ineffective. How to clean an iron in such case? Just use a raw wooden board. Heat up the device and rub the board against the surface, using appropriate force.
 
-{:.distinction.distinction-warning} Be careful not to press too strong when ironing. It might damage the fragile iron plate. You might also try to use a special brush for ceramic surfaces. Keep in mind that it is a risky method and you should be careful.
+{:.distinction.distinction-warning} 
+Be careful not to press too strong when ironing. It might damage the fragile iron plate. You might also try to use a special brush for ceramic surfaces. Keep in mind that it is a risky method and you should be careful.
 
 ## How to clean a iron with a teflon-coated plate?
 
@@ -102,7 +100,6 @@ Another fragile type of irons are the ones with a teflon-coated plates. They are
 Mistakes that one should avoid when **cleaning iron plate with a fragile coating**:
 
 {:.list.list-positive}
-
 * quick, rapid rubbing against the surface,
 * cleaning iron plate with a wire brush,
 * using baking soda or salt,
