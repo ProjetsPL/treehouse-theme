@@ -17,10 +17,10 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-04-09
-title: Curbless Shower - the Most Intriguing Bathroom Trend of 2020
-description: "A curbless shower? \U0001F6BF This unusual bathroom design is becoming
-  a new trend among many homeowners. ➡️ Find out whether a barrier free shower is
-  for you!"
+title: Curbless Shower - Check Popular Bathroom Trend of 2020
+description: "Thinking about a curbless shower? \U0001F6BF  This unusual bathroom
+  design is becoming a new trend in 2020. ➡️ Find out whether a barrier free shower
+  is for you!"
 intro: In times of minimalistic designs, everyone aims to spare as much space as possible.
   It might be quite a difficult task, especially if one has little space at their
   disposal. It is one of the most common problems with bathrooms. Fortunately, interior
@@ -30,7 +30,6 @@ intro: In times of minimalistic designs, everyone aims to spare as much space as
   a solution are beyond one’s imagination.
 image: "/uploads/sidekix-media-g51F6-zyu-unsplash.jpg"
 related_products: []
-published: false
 
 ---
 ## Curbless shower - how does it work?
@@ -48,7 +47,7 @@ Obviously, if one desires to implement such a concept at their place, certain pr
 * **Expenses** - a curbless shower requires the right structure of the whole room. The cost of adjusting it varies depending on individual factors.
 
 {% fig %}
-![](/uploads/prysznic-bez-brodzika-na czym-to-w-ogole-polega.jpg)
+![Curbless shower - how does it work?](/uploads/prysznic-bez-brodzika-na czym-to-w-ogole-polega.jpg "Curbless shower - how does it work?")
 {% endfig %}
 
 A curbless shower is without any doubt a very attractive solution. For this reason many homeowners opt for it. It is good to learn all the details of constructing such a unit in one’s bathroom.
@@ -61,7 +60,7 @@ A wet room design is the easiest to make if it’s planned beforehand - best dur
 
 {:.distinction.distinction-information}
 
-A curbless shower is a particularly attractive option for small bathrooms. Such interiors have so limited space that every centimeter counts. Glass, transparent walls “unblock” the whole room. 
+A curbless shower is a particularly attractive option for small bathrooms. Such interiors have so limited space that every centimeter counts. Glass, transparent walls “unblock” the whole room.
 
 One might achieve even better results using just one wall or a nook. There are many possibilities - it’s a great opportunity to **design a small bathroom** in an interesting way. What are the other advantages of a curbless shower?
 
@@ -73,15 +72,14 @@ One might achieve even better results using just one wall or a nook. There are m
 * **No threshold** - a curbless shower is a great solution for elderly, people using a wheelchair and children. There is no barrier between the base and the bathroom, therefore there is no risk of accidental tripping and losing balance. A wheelchair also can enter such a cabin without any difficulties. It is a huge improvement which makes one more independent.
 
 {% fig %}
-![](/uploads/prysznic-bez-brodzika-nie-dla-kazdego.jpg)
+![A curbless shower - modern minimalism](/uploads/prysznic-bez-brodzika-nie-dla-kazdego.jpg "A curbless shower - modern minimalism")
 {% endfig %}
 
 ## Curbless shower - not for everyone
 
-Although a wet room is a highly advantageous solution, unfortunately it also has some disadvantages. For this reason not everyone can use it. If a curbless shower is to be constructed in an **already finished bathroom**, it might be quite problematic. In this case it will not be a cheap solution. Designing such a shower means a complete makeover of a room. 
+Although a wet room is a highly advantageous solution, unfortunately it also has some disadvantages. For this reason not everyone can use it. If a curbless shower is to be constructed in an **already finished bathroom**, it might be quite problematic. In this case it will not be a cheap solution. Designing such a shower means a complete makeover of a room.
 
 {:.distinction.distinction-warning}
-
 A curbless shower requires an appropriate drain, hidden in the floor. The floor itself should slope so that the water does not flood the bathroom. This requires removing old tiles and creating the floor anew. It also might turn out that the ceiling is too thin - in which case a curbless shower is simply not possible to construct.
 
 ## How to make a curbless shower?
@@ -89,19 +87,17 @@ A curbless shower requires an appropriate drain, hidden in the floor. The floor 
 As already mentioned, a barrier free shower is easy to make if it is designed along with the plan of the whole house. It is best to plan carefully at which spot the shower is going to stand. If the bathroom is small, use any available **niches and corners**.
 
 {:.distinction.distinction-information}
-
 If the room is more spacious, consider choosing a bigger rectangular shower unit. Other elements that are very important are properly fitted tiles and drains.
 
 ### What tiles are best for a curbless shower?
 
-A barrier free shower requires a carefully designed floor. Choosing the right tiles is a highly important matter. They must be the **non-slip type**. Only then the shower cabin can be safe. Choose the one with R10-R13 rating. 
+A barrier free shower requires a carefully designed floor. Choosing the right tiles is a highly important matter. They must be the **non-slip type**. Only then the shower cabin can be safe. Choose the one with R10-R13 rating.
 
 {:.distinction.distinction-information}
-
 Because the floor must have a slope, the tiles should be able to conceal it. It is very likely that the tiles are going to be cut in order to fit them. For this reason make sure to carefully measure everything.
 
 {% fig %}
-![](/uploads/jakie-plytki-sie-sprawdza-pod-prysznic-bez-brodzika.jpg)
+![What tiles are best for a curbless shower?](/uploads/jakie-plytki-sie-sprawdza-pod-prysznic-bez-brodzika.jpg "What tiles are best for a curbless shower?")
 {% endfig %}
 
 Apart from the tiles, you also need to choose the right type of grout. It should be waterproof and easy to clean. This will make the curbless shower sturdy for years. The most recommended product is an **epoxy grout**. It is waterproof, flexible and doesn’t crumble after drying up.
@@ -109,7 +105,6 @@ Apart from the tiles, you also need to choose the right type of grout. It should
 Before laying the tiles, one needs to take care of floor **waterproofing**. This way the bathroom and the rooms below are secured from water. Traditional methods use waterproofing flashing mortar - they are the most popular.
 
 {:.distinction.distinction-information}
-
 You can also use a product called liquid foil, which contains synthetic resin. It is a substantially faster method. To apply the substance, one might simply use a brush or a pallet knife.
 
 ### Curbless shower - choosing the right drain
@@ -121,7 +116,7 @@ The most inconspicuous solution is a **wall drain**. Users of floor drains subco
 **Floor drains** are definitely more popular. Here, the choice is between a trench drain and a point drain. Regardless of which one is going to be installed, drain needs to be more efficient than shower head. This way one can be sure that water is going to be drained effectively. A linear drain for a curbless shower usually has a large surface, therefore water flows quickly and more evenly. The major downside is that this type of drain is more expensive than the others.
 
 {% fig %}
-![](/uploads/kabiny-prysznicowe-bez-brodzika-ktora-jest-najlepsza.jpg)
+![Curbless shower - choosing the right drain](/uploads/kabiny-prysznicowe-bez-brodzika-ktora-jest-najlepsza.jpg "Curbless shower - choosing the right drain")
 {% endfig %}
 
 ### A curbless shower - which one is the best?
