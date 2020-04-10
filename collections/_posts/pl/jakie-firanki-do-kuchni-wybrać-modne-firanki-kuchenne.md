@@ -39,9 +39,18 @@ jak uszyć firanki do kuchni (50)
 
 ## Firanka do kuchni szyta na miarę
 
-W
+W sklepach wnętrzarskich lub pasmanteriach znajdziemy wiele modeli firanek o zróżnicowanych krojach, kolorach, wzorach i wymiarach. Jest to więc bardzo wygodne rozwiązanie dla okien o standardowej wielkości. Tego typu aranżacja zajmuje bardzo niewiele czasu, dając przy tym schludny i estetyczny efekt.
 
-Na rynku dostępne są gotowe firanki do kuchni – wystarczy dobrać taką we właściwym rozmiarze, kolorystyce i stylu upięcia, a następnie po prostu ją zawiesić. Takie rozwiązanie świetnie sprawdza się przypadku okien o standardowej wielkości, a także gdy zachodzi potrzeba wykonania szybkiej aranżacji. Wśród gotowych upięć do kuchni są zarówno pojedyncze firanki, jak i komplety składające się z kilku elementów, np. firanki z zasłonką czy z lambrekinem. Nietuzinkową formę dekoracji kuchennego okna stanowią też firany sznurkowe (zwane spaghetti lub makaronami), składające się z szeregu sznurków, często dodatkowo zdobionych.
+Jednak niektóre okna, szczególnie te w domach jednorodzinnych, mogą mieć niestandardowe wymiary. W takim przypadku dobrze jest zdecydować się na firanki do kuchni szyte na miarę. Salony wnętrzarskie oferują bogaty asortyment zarówno różnorodnych tkanin, kupowanych na metry, jak i elementów dekoracyjnych, często wykorzystywanych jako wykończenie. Firanka kuchenna na zamówienie jest również ciekawą propozycją dla osób, które mają konkretną wizję projektu lub zależy im na oryginalnych dodatkach do wnętrz. W ten sposób możemy mieć pewność, że drugiego takiego samego egzemplarza po prostu nie ma.
+
+{:.distinction.distinction-information}
+Przygotowanie projektu firanki kuchennej możemy zlecić fachowcowi lub jeżeli dobrze czujemy się w urządzaniu wnętrz -zająć się tym samodzielnie.
+
+Przygotowanie projektu dekoracji okiennej można zlecić profesjonaliście od aranżacji wnętrz bądź przygotować ją samemu. Szycie firan na wymiar jest z reguły bardziej kosztowne niż kupienie gotowego zestawu, lecz z pewnością opłacalne.
+
+mają nietypowe wymiary lub w sklepach nie znaleźliśmy takiego modelu, który spełniłby nasze oczekiwania. 
+
+Na rynku dostępne są gotowe firanki do kuchni – wystarczy dobrać taką we właściwym rozmiarze, kolorystyce i stylu upięcia, a następnie po prostu ją zawiesić. Takie rozwiązanie świetnie sprawdza się przypadku okien o standardowej wielkości, a także gdy zachodzi potrzeba wykonania szybkiej aranżacji. Wśród gotowych upięć do kuchni są zarówno pojedyncze firanki, jak i komplety składające się z kilku elementów, np. firanki z zasłonką czy z lambrekinem. Nietuzinkową formę dekoracji kuchennego okna stanowią też firany sznurkowe (zwane spaghetti lub makaronami), składające się z szeregu sznurków, często dodatkowo zdobionyczh.
 
 Jeśli okna mają nietypową wielkość, a także gdy dekoracja ma być niepowtarzalna i zindywidualizowana, warto zdecydować się na uszycie firanek na miarę. Salony z firanami oferują bogaty asortyment zarówno [**tkanin na metry**](https://alena-firany.pl/firany-na-metry.html "Firany na metry"), jak i elementów dekoracyjnych, np. [**lamówek**](https://alena-firany.pl/lamowki.html "Lamówki"). Przygotowanie projektu dekoracji okiennej można zlecić profesjonaliście od aranżacji wnętrz bądź przygotować ją samemu. Szycie firan na wymiar jest z reguły bardziej kosztowne niż kupienie gotowego zestawu, lecz z pewnością opłacalne.
 
@@ -53,7 +62,7 @@ Coraz częściej spotyka się kuchenne aranżacje, które łączą różne rozwi
 
 Mimo, że na rynku dostępnych jest mnóstwo nowoczesnych modeli, Panie domu coraz rzadziej decydują się na firanki do kuchni. Zamiast tego zastępują je nowoczesnymi żaluzjami, które wyglądają stylowo i w przeciwieństwie do firanki kuchennej - nie wymagają prania.  To ciekawa alternatywa dla tradycyjnego rozwiązania, którą również warto przemyśleć.
 
-Obecnie w sklepach znajdziemy kilka rodzajów żaluzji. Najpopularniejsze z nich są żaluzje metalowe, które możemy zakupić w kilku kolorach, od klasycznego koloru metalu, poprzez czerń, biel lub mniej standardowe żaluzje kolorowe, na przykład: niebieskie, żółte lub różowe. 
+Obecnie w sklepach znajdziemy kilka rodzajów żaluzji. Najpopularniejsze z nich są żaluzje metalowe, które możemy zakupić w kilku kolorach, od klasycznego koloru metalu, poprzez czerń, biel lub mniej standardowe żaluzje kolorowe, na przykład: niebieskie, żółte lub różowe.
 
 Drugą popularną możliwością jest wybór żaluzji drewnianych. To ciekawa alternatywa dla nieco, mniej nowoczesnych a bardziej  przytulnych kuchni. W obu przypadkach, producenci żaluzji oferują kilka rodzajów grubości listew do wyboru.
 
