@@ -10,7 +10,7 @@ main_keywords:
 - ciekawe rośliny do ogrodu
 toc: true
 promoted: false
-update_date: 2020-04-07
+update_date: 2020-04-08
 title: Jakie Krzewy Ozdobne Wybrać Do Ogrodu? Popularne Rośliny Ogrodowe
 description: "Estetyczny i zadbany ogród wymaga wysiłku. \U0001F331 Planujesz posadzić
   nowe drzewa i krzewy? \U0001F333 Zobacz, jakie rośliny ogrodowe warto mieć w swojej
