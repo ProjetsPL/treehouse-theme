@@ -28,6 +28,7 @@ Regular iron plate cleaning is a highly important matter, as it helps to keep th
 To make an iron work better, one should:
 
 {:.list.list-positive}
+
 * follow the manufacturer's instructions and recommendations,
 * wipe the iron plate right before using it,
 * iron delicate fabrics through a cotton cloth,
@@ -52,7 +53,7 @@ For ironing to be effective and unproblematic, just **cleaning iron plate** is n
 
 One of the most popular methods to **clean an iron** is using a mixture of vinegar and baking soda. Such cleaning solution in form of **paste is perfect for getting rid of difficult stains on an iron**. Prepare the mixture in proportion 2:1 - mix two parts of soda with one part of vinegar. Be careful not to mix the solution too quickly. The ingredients react with each other and they might grow very rapidly, forming a lot of foam.
 
-{:.distinction.distinction-warning} 
+{:.distinction.distinction-warning}
 Although this method is highly effective, it cannot be used with a teflon iron plate. The mixture of those two ingredients is harmful to teflon surfaces.
 
 ### Toothpaste to clean a burnt iron plate
@@ -60,7 +61,7 @@ Although this method is highly effective, it cannot be used with a teflon iron p
 How to clean an iron plate made of aluminium? Toothpaste is a perfect remedy for it. Just use some mint toothpaste, spreading it all over the plate with a soft cloth or a toothbrush. **Rub the iron plate delicately** until the burn marks dissapear. Then clean the surface off the paste, paying attetion to the steam holes in the device.
 
 {% fig %}
-![](/uploads/sprawdz-jak-dziala-pasta-do-zebow-na-przypalone-zelazko.jpg)
+![Toothpaste to clean a burnt iron plate](/uploads/sprawdz-jak-dziala-pasta-do-zebow-na-przypalone-zelazko.jpg "Toothpaste to clean a burnt iron plate")
 {% endfig %}
 
 ### Paracetamol - not that obvious but highly effective method to clean an iron
@@ -75,7 +76,7 @@ Wait until the iron plate cools off and finish the cleaning using a wet cloth.
 Lemon juice is an effective agent that dissolves even the most stubborn dirts that sticks to the surface of the device. It is one of the fastest methods to **clean iron plate**. It might be used with any surface, also **ceramic and teflon**. Just soak a soft cloth with some lemon juice. Then rub the burnt surface until the black marks dissapear. You can get similar results when ironing a fluffy towel soaked with lemon juice.
 
 {% fig %}
-![](/uploads/jak-wyczyscic-zelazko-sokiem-z-cytryny.jpg)
+![How to clean an iron using lemon juice](/uploads/jak-wyczyscic-zelazko-sokiem-z-cytryny.jpg "How to clean an iron using lemon juice")
 {% endfig %}
 
 ### A burnt iron plate? Just use cooking salt
@@ -88,7 +89,7 @@ A ceramic iron plate is very delicate, therefore it needs special treatment.
 
 Small stains can be removed with acidic solutions such as vinegar or lemon juice. If the iron is badly burnt, they might be ineffective. How to clean an iron in such case? Just use a raw wooden board. Heat up the device and rub the board against the surface, using appropriate force.
 
-{:.distinction.distinction-warning} 
+{:.distinction.distinction-warning}
 Be careful not to press too strong when ironing. It might damage the fragile iron plate. You might also try to use a special brush for ceramic surfaces. Keep in mind that it is a risky method and you should be careful.
 
 ## How to clean a iron with a teflon-coated plate?
@@ -100,6 +101,7 @@ Another fragile type of irons are the ones with a teflon-coated plates. They are
 Mistakes that one should avoid when **cleaning iron plate with a fragile coating**:
 
 {:.list.list-positive}
+
 * quick, rapid rubbing against the surface,
 * cleaning iron plate with a wire brush,
 * using baking soda or salt,
@@ -112,7 +114,7 @@ Everyday cleaning of a steam iron should be performed very carefully so that the
 A steam iron is quite different than the rest of the appliances of this type. It uses hot steam that is distributed through specially designed steam holes. In traditional irons steam is used only as an addition. Because a steam iron works differently than other devices, it needs to be cleaned differently as well. How to clean an iron of this type so that it's safe?
 
 {% fig %}
-![](/uploads/sposob-na-bezpieczne-czyszczenie-zelazka-parowego.jpg)
+![How to clean a steam iron safely](/uploads/sposob-na-bezpieczne-czyszczenie-zelazka-parowego.jpg "How to clean a steam iron safely")
 {% endfig %}
 
 Similar to every other iron, a steam iron needs to be wiped every time before using it. Otherwise dust might cause the iron plate to burn. For regular cleaning, it is good to use a cream cleaner, specifically designed for this type of devices. It should be spread onto the surface with a clean, soft cloth.
