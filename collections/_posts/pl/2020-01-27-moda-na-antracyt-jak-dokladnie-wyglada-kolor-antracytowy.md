@@ -7,7 +7,7 @@ description: "Szukasz koloru, który będzie idealnie pasował do każdego wnęt
   Postaw na antracyt! Kolor antracyt to prawdziwy hit 2020 roku. Przekonaj się sam."
 image: "/uploads/moda-na-antracyt.png"
 promoted: true
-update_date: 2020-04-02
+update_date: 2020-04-09
 intro: Antracyt to kolor uniwersalny, który można wykorzystać w wielu różnych odsłonach,
   a określany jest jako połączenie szarości - delikatnie wpadającej w czarny lub granatowy.
   Bardzo często jest on mylony z kolorem grafitowym, chociaż w rzeczywistości jest
