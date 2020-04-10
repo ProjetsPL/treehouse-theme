@@ -18,7 +18,7 @@ intro: Znudził Ci się klasyczny wygląd wnętrz w Twoim domu? Planujesz małe 
   mieszkania? Farba magnetyczna to prawdziwy hit ostatnich lat. Z jej pomocą w prosty
   sposób możesz odmienić nudną kuchnię, salon czy pokój dziecięcy - nadając im zupełnie
   nowego wyrazu. Wypróbuj farbę magnetyczną w swoim domu i ciesz się wspaniałymi efektami.
-image: "/uploads/czym-jest-farba-magnetyczna-i-jak-mozna-ja-wykorzystac.jpeg"
+image: "/uploads/farba-tablicowa.jpg"
 related_products: []
 published: false
 
@@ -32,10 +32,6 @@ Dzięki opiłkom żelaza znajdującym się w składzie, po nałożeniu na ścian
 ## Farba magnetyczna - kolory do wyboru
 
 Farba magnetyczna występuje **w kilku wariantach kolorystycznych.** Są to przede wszystkim czerń, szarości i grafity o różnych odcieniach. Nie oznacza to jednak, że jesteś zmuszony do całkowitej zmiany kolorystyki swojego domu. Zazwyczaj farba magnetyczna wykorzystywana jest do pomalowania **jednej lub dwóch ścian** pomieszczenia, a nie całego wnętrza.
-
-{% fig %}
-![Farba magnetyczna - kolory do wyboru](/uploads/farba-tablicowa.jpg "Farba magnetyczna - kolory do wyboru")
-{% endfig %}
 
 Jakiś czas temu na półkach sklepowych pojawiła się między innymi farba magnetyczna jasnym kolorze szarym, zbliżonym do przełamanej bieli. Jeśli zależy Ci na **ścianie magnetycznej w jasnym kolorze** - może to być strzał w dziesiątkę.
 
