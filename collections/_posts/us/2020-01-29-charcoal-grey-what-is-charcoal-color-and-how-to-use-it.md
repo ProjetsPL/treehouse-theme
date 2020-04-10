@@ -8,7 +8,7 @@ description: "Dreaming of a classy color to make your interior look stylish? \U0
   to its popularity!"
 image: "/uploads/moda-na-antracyt.png"
 promoted: false
-update_date: 2020-04-03
+update_date: 2020-04-10
 intro: 'Charcoal is a versatile color that can be used for many purposes. It is usually
   described as a mix of grey with a trace of black or navy blue. It is very often
   mistaken for graphite, although in reality it is a completely different shade. Charcoal
@@ -16,7 +16,7 @@ intro: 'Charcoal is a versatile color that can be used for many purposes. It is 
   it to paint walls or just pick individual charcoal grey items: furniture, accessories
   or flooring. A significant advantage of charcoal is the fact that it blends well
   with any interior, therefore you should consider using it for your interior design.
-  How to do that? What charcoal accessories it is best to choose?'
+  How to do that? What charcoal accessories are the best?'
 main_keywords:
 - charcoal
 - charcoal color
@@ -28,7 +28,9 @@ main_keywords:
 ---
 ## Charcoal - what color is it, exactly?
 
-Charcoal color is a **very dark shade of grey**. Why it’s so popular? It is very close to black, however it is noticeably brighter. The name of the color comes from coal made of wood, which is burned slowly in an oven with little access to air. Hence, charcoal, as a color, is one of the darkest tone of gray.
+**Charcoal color** is sometimes called graphite or anthracite color. For some people it's a dusky shade associated with **coal made of wood** or hard, mined coal and other sedimentary rocks. In HEX color code charcoal is known as #364135, in RAL - 7016. Charcoal is a **unique mixture** of grey and black.
+
+Charcoal color is very intriguing. Why is it so popular? It is very close to black, however it is noticeably brighter. It's one of the darkest tones of gray - and this feature makes it special.
 
 Although this type of color recently became very popular, it might be quite difficult to use in interior arrangement. Combining **charcoal with other home decor elements** should be done very carefully and skillfully. The reason for that is the fact that a color that is too dark can easily overwhelm a room. Charcoal works best in spacious and well illuminated interiors. If the room is quite small, it does not mean that you should avoid the color. In this case instead of painting the walls it is better to use charcoal accessories.
 
@@ -184,7 +186,7 @@ What color is charcoal?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Charcoal grey is a very dark shade of grey - almost black but still lighter than it. The name of the color comes from charcoal - material made of wood burnt in a high temperature with low access to oxygen.
+Charcoal grey is a very dark shade of grey - almost black but still lighter. The name of the color comes from charcoal - material made of wood burnt in a high temperature with low access to oxygen.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
@@ -203,8 +205,7 @@ Charcoal grey works best with contrasting colors, such as white and bright grey.
 Charcoal grey - where to use it?
 {% endfaqQuestion %}
 
-{% faqAnswer %}
-Charcoal is a color that works great in any home interior, and, in some cases, in an office. If you decide to use it in a small kitchen, bathroom or living room, remember about certain rules. This way you can make your room look more consistent.
+{% faqAnswer %} Charcoal is a color that works great in any home interior, and, in some cases, in an office. If you decide to use it in a small kitchen, bathroom or living room, remember about certain rules which will make your room look more consistent.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
@@ -213,7 +214,6 @@ Charcoal is a color that works great in any home interior, and, in some cases, i
 Charcoal grey - how to choose a charcoal paint?
 {% endfaqQuestion %}
 
-{% faqAnswer %}
-Make sure to choose the right product designed for the surface you are going to paint. Water-based charcoal paint is recommended, as it gives a satin finish. Satin charcoal walls look “lighter” and very elegant.
+{% faqAnswer %} Make sure to choose the right product designed for the surface you are going to paint. Water-based charcoal paint is recommended, for its satin finish. Satin charcoal walls look “lighter” and very elegant.
 {% endfaqAnswer %}
 {% endfaqItem %}
