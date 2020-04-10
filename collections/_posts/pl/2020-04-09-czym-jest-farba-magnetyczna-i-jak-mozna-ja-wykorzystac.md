@@ -33,6 +33,10 @@ Dzięki opiłkom żelaza znajdującym się w składzie, po nałożeniu na ścian
 
 Farba magnetyczna występuje **w kilku wariantach kolorystycznych.** Są to przede wszystkim czerń, szarości i grafity o różnych odcieniach. Nie oznacza to jednak, że jesteś zmuszony do całkowitej zmiany kolorystyki swojego domu. Zazwyczaj farba magnetyczna wykorzystywana jest do pomalowania **jednej lub dwóch ścian** pomieszczenia, a nie całego wnętrza.
 
+{% fig %}
+![Farba magnetyczna - kolory do wyboru](/uploads/czym-jest-farba-magnetyczna-i-jak-mozna-ja-wykorzystac.jpeg "Farba magnetyczna - kolory do wyboru")
+{% endfig %}
+
 Jakiś czas temu na półkach sklepowych pojawiła się między innymi farba magnetyczna jasnym kolorze szarym, zbliżonym do przełamanej bieli. Jeśli zależy Ci na **ścianie magnetycznej w jasnym kolorze** - może to być strzał w dziesiątkę.
 
 ## Jak poprawnie malować farbą magnetyczną?
@@ -42,15 +46,15 @@ Malowanie farbą magnetyczną nieco różni się od malowania za pomocą zwykły
 Przed nałożeniem farby należy odpowiednio przygotować i oczyścić  malowane podłoże tak, aby było suche i gładkie. Jeśli chcesz użyć farby magnetycznej na powierzchnię śliską lub z połyskiem, podłoże należy wcześniej **odpowiednio zmatowić.** Powierzchnie drewniane wymagają natomiast nałożenia dodatkowego podkładu przed malowaniem.
 
 {:.distinction.distinction-information}
-Aby osiągnąć skuteczny i estetyczny efekt, malowanie rozpocznij od dokładnego wymieszania farby magnetycznej za pomocą patyczka. Dzięki temu będziemy mieć pewność, że opiłki żelaza, osiadające na dnie puszki, zostaną przeniesione na ścianę za pomocą pędzla.   
-   
+Aby osiągnąć skuteczny i estetyczny efekt, malowanie rozpocznij od dokładnego wymieszania farby magnetycznej za pomocą patyczka. Dzięki temu będziemy mieć pewność, że opiłki żelaza, osiadające na dnie puszki, zostaną przeniesione na ścianę za pomocą pędzla.
+
 Następnie należy bardzo **dokładnie pokryć powierzchnię warstwą farby**. Dla uzyskania lepszych właściwości magnetycznych zaleca się nakładanie 3 warstw farby w równych odstępach czasowych.
 
 {% fig %}
 ![Jak poprawnie malować farbą magnetyczną?](/uploads/jak-poprawnie-malowac-farba-magnetyczna.jpg "Jak poprawnie malować farbą magnetyczną?")
 {% endfig %}
 
-Jeżeli chodzi o sam styl malowania, jest on zupełnie dowolny. Własnoręcznie namalowane tablice magnetyczne (bez względu na wybraną powierzchnię) **mogą przyjąć każdy kształt**, w zależności od preferencji malującego. W ten sposób za pomocą jednego rodzaju farby możemy uzyskać zarówno tradycyjną prostokątną tablicę magnetyczną, jak i inne fantazyjne kształty, np.: domek, miś albo zamek księżniczki, które świetnie sprawdzą się w pokoju dziecięcym. 
+Jeżeli chodzi o sam styl malowania, jest on zupełnie dowolny. Własnoręcznie namalowane tablice magnetyczne (bez względu na wybraną powierzchnię) **mogą przyjąć każdy kształt**, w zależności od preferencji malującego. W ten sposób za pomocą jednego rodzaju farby możemy uzyskać zarówno tradycyjną prostokątną tablicę magnetyczną, jak i inne fantazyjne kształty, np.: domek, miś albo zamek księżniczki, które świetnie sprawdzą się w pokoju dziecięcym.
 
 {:.distinction.distinction-information}
 Jeśli zależy Ci na uzyskaniu konkretnego, bardziej skomplikowanego kształtu, warto zaopatrzyć się w szablon ze wzorem. Takie rozwiązanie nie tylko znacznie ułatwia malowanie, ale również chroni przed przypadkowym zabrudzeniem ściany.
@@ -76,9 +80,9 @@ Farba tablicowa magnetyczna najczęściej wykorzystywana jest w **pokoju dzieci�
 
 Ilość zastosowań farby tablicowej magnetycznej jest niemal nieograniczona. Z uwagi na fakt, że **farbą tablicową można pokryć dowolną powierzchnię wewnątrz budynku**, umożliwia to wykorzystanie farby dosłownie w każdym pomieszczeniu i w każdym celu.
 
-Bardzo popularnym zastosowaniem dla farby tablicowej magnetycznej jest **wykorzystanie jej w kuchni**. Pokrycie kawałka (lub całej) ściany kuchennej farbą tablicową może posłużyć jako miejsce do zapisywania listy zakupów, czy najczęściej wykorzystywanych przepisów na ulubione dania. 
+Bardzo popularnym zastosowaniem dla farby tablicowej magnetycznej jest **wykorzystanie jej w kuchni**. Pokrycie kawałka (lub całej) ściany kuchennej farbą tablicową może posłużyć jako miejsce do zapisywania listy zakupów, czy najczęściej wykorzystywanych przepisów na ulubione dania.
 
-Farba tablicowa magnetyczna zastosowanie znajdzie również w **salonie czy przedpokoju,** gdzie na jednej ze ścian można zbierać podpisy od odwiedzających gości lub stworzyć listę rzeczy do zrobienia na dany dzień. 
+Farba tablicowa magnetyczna zastosowanie znajdzie również w **salonie czy przedpokoju,** gdzie na jednej ze ścian można zbierać podpisy od odwiedzających gości lub stworzyć listę rzeczy do zrobienia na dany dzień.
 
 W **sypialni** lub **gabinecie** można natomiast wykorzystać ścianę pokrytą farbą tablicową do prywatnych zapisków i notatek.
 
@@ -86,7 +90,7 @@ Ponadto, farbą tablicową można pokrywać nie tylko ściany, ale również prz
 
 ### Farba magnetyczna tablicowa - kolory
 
-Farba tablicowa magnetyczna przeznaczona jest nie tylko do przypinania na niej notatek czy rysunków, ale również do zapisywania i rysowania. Z tego względu na rynku można znaleźć ją dostępną w dwóch wariantach kolorystycznych - c**zarnym lub szarym**. 
+Farba tablicowa magnetyczna przeznaczona jest nie tylko do przypinania na niej notatek czy rysunków, ale również do zapisywania i rysowania. Z tego względu na rynku można znaleźć ją dostępną w dwóch wariantach kolorystycznych - c**zarnym lub szarym**.
 
 {:.distinction.distinction-information}
 Początkowo jedynym dostępnym wariantem była czarna farba tablicowa magnetyczna, jednak z czasem wprowadzono do sklepów również farbę w kolorze szarym.
