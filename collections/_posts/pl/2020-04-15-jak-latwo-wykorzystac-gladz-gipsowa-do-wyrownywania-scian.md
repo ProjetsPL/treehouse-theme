@@ -1,13 +1,25 @@
 ---
 layout: post
 date: 2020-04-15
-main_keywords: []
+main_keywords:
+- gładź gipsowa
+- " gładź"
+- " szpachlowanie ścian"
+- " gipsowanie ścian"
+- " kładzenie gładzi"
+- kładzenie gładzi
+- " gładź na mokro"
 toc: true
 promoted: false
 update_date: 2020-04-15
 title: Jak łatwo wykorzystać gładź gipsową do wyrównywania ścian?
-description: Jak łatwo wykorzystać gładź gipsową do wyrównywania ścian?
-intro: Jak łatwo wykorzystać gładź gipsową do wyrównywania ścian?
+description: Szukasz sposobu na wykończenie ścian? Wypróbuj gładź gipsową! Ta niepozornie
+  wyglądająca masa zapewni idealną gładkość i trwałość powierzchni Twojego pokoju.
+intro: Gładź gipsowa to popularny sposób na wykończenie ścian podczas remontu. Użycie
+  gładzi zapewnia idealną gładkość i trwałość powierzchni, dzięki czemu zyskujesz
+  niemal nieograniczone możliwości w kwestii aranżacji wnętrz. Zobacz, jak wykorzystać
+  gładź i w jaki sposób nałożyć ją na ścianę, aby zagwarantować efektowny wygląd każdego
+  pomieszczenia.
 image: "/uploads/gladz-glowne.jpg"
 related_products: []
 published: false
