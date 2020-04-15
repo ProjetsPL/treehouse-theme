@@ -15,9 +15,14 @@ published: false
 ---
 ## Co to jest gładź gipsowa i gdzie można ją wykorzystać?
 
-Gładź gipsowa, jak sama nazwa wskazuje służy do wygładzenia i wyrównania powierzchni ściany. Szpachlowanie ścian to proces, który pozwala odpowiednio przygotować powierzchnię pod późniejsze malowanie. 
+Gładź gipsowa, jak sama nazwa wskazuje służy do wygładzenia i wyrównania wierzchniej warstwy ściany. Jest przeznaczona do użytku na powierzchniach zagipsowanych i otynkowanych tynkiem cementowym lub cementowo-wapiennym.  To w pełni ekologiczna substancja o odczynie obojętnym. Dzięki tej właściwości, gładź zapobiega rozwojowi grzybów i pleśni. Szpachlowanie ścian to proces, który pozwala odpowiednio przygotować powierzchnię pod późniejsze malowanie. 
 
- przeważnie nanosi się na mury u stropy pokryte tynkiem cementowym, cementowo-wapiennym lub gipsowym. Gładź można także wykorzystać na okładzinie z płyt gipsowo-kartonowych, gipsowo - włóknowych lub cementowo- włóknowych. Nie powinno się jej natomiast używać do wykańczania surowych murów. Jest materiałem ekologicznym oraz ma odczyn obojętny, więc na jej powierzchni nie rozwijąją się pleśnie.
+Gładź można stosować również na powierzchniach:
+
+* gipsowo-kartonowych
+* 
+
+przeważnie nanosi się na mury u stropy pokryte tynkiem cementowym, cementowo-wapiennym lub gipsowym. Gładź można także wykorzystać na okładzinie z płyt gipsowo-kartonowych, gipsowo - włóknowych lub cementowo- włóknowych. Nie powinno się jej natomiast używać do wykańczania surowych murów. Jest materiałem ekologicznym oraz ma odczyn obojętny, więc na jej powierzchni nie rozwijąją się pleśnie.
 
 Przed nałożeniem gładzi gipsowej należy pamiętać, żeby nie układać jej w pomieszczeniach o podwyższonej wilgotności czyli łazienkach, pralniach i suszarniach. Skutkiem takiego wykończenia ściany w tych pomieszczeniach mogą być pęknięcia i odspajanie się od podłoża.
 
