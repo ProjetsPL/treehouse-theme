@@ -19,6 +19,7 @@ Gładź gipsowa, jak sama nazwa wskazuje służy do wygładzenia i wyrównania w
 
 Gładź można stosować również na powierzchniach:
 
+{:.list.list-positive}
 * gipsowo-kartonowych,
 * gipsowo-włóknowych,
 * cementowo-włóknowych.
