@@ -34,11 +34,13 @@ Kładzenie gładzi to czynność, która wymaga bycia bardzo dokładnym. Ciągł
 {:.distinction.distinction-warning}
 Pamiętaj, że podczas kładzenia gładzi nie należy przesadzić z jej grubością. Zbyt grube warstwy mogą sprawić, że masa po zastygnięciu zacznie pękać i odspajać się od podłoża.
 
-### Przed rozpoczęciem prac 
+\[ZDJĘCIE\]
+
+### Przed rozpoczęciem prac
 
 Na samym początku należy odpowiednio przygotować pomieszczenie. Gładź gipsowa może w łatwy sposób pobrudzić i zniszczyć meble, dlatego dobrze jest wynieść je z tynkowanego pokoju lub dokładnie je zakryć, na przykład folią malarską. Ważne, by nie zapomnieć również o zabezpieczeniu drzwi i okien.
 
-Surowy tynk zawiera grudy, które można usunąć za pomocą specjalnej szpachli. Następnie ściany, na które zostanie nałożona gładź gipsowa należy odpowiednio zagruntować. Jeśli podłoże ma niską chłonność, dobrze jest zrobić to za pomocą środka zwiększającego przyczepność. Jeśli chłonność jest zbyt zastosować środek zmniejszający wchłanianie. 
+Surowy tynk zawiera grudy, które można usunąć za pomocą specjalnej szpachli. Następnie ściany, na które zostanie nałożona gładź gipsowa należy odpowiednio zagruntować. Jeśli podłoże ma niską chłonność, dobrze jest zrobić to za pomocą środka zwiększającego przyczepność. Jeśli chłonność jest zbyt zastosować środek zmniejszający wchłanianie.
 
 Aby rozrobić gładź należy do wiadra z wodą wsypać taką ilość gipsu, aby masa wystarczyła na około 30-45 minut pracy. To bardzo ważne, ponieważ wraz z upływem czasu gładź straci swoje elastyczne właściwości. Po odczekaniu kilku minut, zaprawę wystarczy dokładnie zamieszać wiertarką.
 
@@ -46,9 +48,43 @@ Aby rozrobić gładź należy do wiadra z wodą wsypać taką ilość gipsu, aby
 
 Nakładanie gładzi gipsowej najlepiej rozpocząć od wewnętrznych narożników. Masę najłatwiej nanieść za pomocą pacy, a następnie rozprowadzić ją po powierzchni przy użyciu kielni. Następnie należy nałożyć gładź gipsową na całą ścianę, a jeśli chcemy wygładzić całe pomieszczenie - również na sufit.
 
-{:.distinction.distinction-information}
-Fachowcy doradzają kładzenie gładzi jedną warstwą. Jeśli zachodzi taka konieczność, można użyć dwóch lub trzech cieńszych warstw, nakładając je na siebie należy zachować odstęp około 20 minut.
+\[ZDJĘCIE\]
+
+{:.distinction.distinction-information}   
+Fachowcy doradzają kładzenie gładzi jedną warstwą. Jeśli zachodzi taka konieczność, można użyć dwóch lub trzech cieńszych warstw, nakładając je na siebie należy zachować odstęp około 20 minut. Każda kolejna warstwa powinna być nakładana prostopadle do poprzedniej.
+
+Jako, że gładź cechuje się niską odpornością na ewentualne uderzenia, konieczne jest wzmocnienie zewnętrznych narożników ścian za pomocą kątowników, na przykład aluminiowych. Aby to zrobić należy wtopić je w masę tynkową i odpowiednio zaszpachlować.
+
+Po zakończeniu pracy z masą należy odczekać do jej całkowitego wyschnięcia. Jeżeli gładź gipsowa jest równa i wygląda estetycznie, dobrze jest użyć papieru ściernego na szpachlowanej wcześniej powierzchni, aby dodatkowo ją wygładzić. Przed rozpoczęciem malowania ścian wystarczy już tylko zagruntować otynkowaną powierzchnię.
+
+{:.distinction.distinction-information}   
+Dla zachowania jak najtrwalszego efektu, dobrze jest rozpocząć malowanie ścian nie wcześniej niż na 24 godziny od wyschnięcia gładzi.
 
 ### Jak położyć gładź na mokro?
 
+Kładzenie gładzi na mokro oznacza nałożenie jej drugiej warstwy jeszcze przed całkowitym wyschnięciem pierwszej. Zastosowanie tej metody wymaga szczególnej ostrożności, ale może także przyspieszyć prace remontowe.
+
+Po wyschnięciu obydwu warstw zamiast używać tradycyjnego papieru ściernego, istnieje również możliwość wygładzenia ściany na mokro. Aby to zrobić należy delikatnie zwilżyć powierzchnię za pomocą czystej wody, a następnie wygładzić ją przy użyciu stalowej pacy. Gładzenie końcowe można rozpocząć najwcześniej po godzinie od wyschnięcia drugiej warstwy masy.
+
 ## Preparaty i narzędzia potrzebne do szpachlowania ścian
+
+Szpachlowanie ścian wymaga odpowiednich narzędzi i preparatów. Bez profesjonalnego akcesorium, szpachlowanie nie będzie ani skuteczne, ani efektowne.
+
+Narzędzia niezbędne podczas szpachlowania ścian:
+
+* szpachla,
+* paca,
+* pędzel do gruntowania,
+* wiadro,
+* wiertarka z nakładką do mieszania cementu,
+* papier ścierny,
+* aluminiowe narożniki
+* poziomica
+
+\[ZDJĘCIE\]
+
+Prawdziwą podstawą wśród preparatów jest odpowiednia gładź. Najczęściej wybierana jest zdecydowanie gładź gipsowa, jednak rodzaj gładzi należy dobrać w zależności od podłoża, które będzie tynkowane.
+
+Praktyczną pomocą w przypadku drobnych rys i nierówności jest masa do szpachlowania ścian. Natomiast jeśli ściany posiadają duże ubytki, najlepiej będzie wykorzystać do ich wyrównania po prostu gips szpachlowy.
+
+Każde szpachlowane podłoże wymaga odpowiedniego ugruntowania.  W tym celu należy użyć środka gruntującego. Ważne aby był to preparat dedykowany dla konkretnego rodzaju podłoża. W przeciwnym razie środek nie będzie skuteczny.
