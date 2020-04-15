@@ -31,20 +31,22 @@ Wybór odpowiedniej firanki do kuchni dla wielu osób może stanowić wyzwanie. 
 Wybierając firanki do kuchni warto wziąć pod uwagę kilka bardzo ważnych kwestii. Są to:
 
 {:.list.list-positive}  
-\- **krój i fason firanki:__ krótka lub długa, pojedyncza lub podwójna,**  
-**- funkcja, jaką ma pełnić firanka:** dekoracja lub forma odgrodzenia, ochrony prywatności,  
-\**- **kolor firanki:** klasyczna biała lub firanka w formie kolorowego akcentu.
+\- **krój i fason firanki: krótka lub długa, pojedyncza lub podwójna,**  
+\- **kolor firanki:** klasyczna biała lub firanka w formie kolorowego akcentu.  
+\- **funkcja, jaką ma pełnić firanka:** dekoracja lub forma odgrodzenia, ochrony prywatności,
 
-\[ZDJĘCIE\]
+{% fig %}
+![](/uploads/jakie-firanki-wybrac.jpg)
+{% endfig %}
 
 ### Jakie firanki do kuchni są dostępne w sklepach?
 
 Na rynku znajdziemy mnóstwo gotowych upięć dedykowanych do powieszenia w oknach kuchennych. Są to zarówno pojedyncze firanki, jak i całe kilkuelementowe komplety, np.: firana + zasłona. Do najpopularniejszych fasonów firanek kuchennych należą: woal oraz lambrekin. Tkaniny wyglądem są podobne do siebie wzajemnie ze względu na jednakowy sposób ich upięcia. Każda z nich składa się z dwóch firan spiętych po obydwu stronach tak, by odsłaniać znaczą część okna.
 
-Innym rozwiązaniem są klasyczne zadrostki, które swego czasu były własnoręcznie haftowane przez gospodynie. To bardzo krótkie tkaniny, sięgające do połowy okna, które kiedyś można było spotkać w niemal każdym oknie. Dziś w sklepach znajdziemy mnóstwo tego typu firanek w nieco dłuższych, bardziej innowacyjnych i zwiewnych odsłonach, które sprawdzą się rewelacyjnie w kuchni o małych oknach.
+Innym rozwiązaniem są klasyczne zazdrostki, które swego czasu były własnoręcznie haftowane przez gospodynie. To bardzo krótkie tkaniny, sięgające do połowy okna, które kiedyś można było spotkać w niemal każdym oknie. Dziś w sklepach znajdziemy mnóstwo tego typu firanek w nieco dłuższych, bardziej innowacyjnych i zwiewnych odsłonach, które sprawdzą się rewelacyjnie w kuchni o małych oknach.
 
 {:.distinction.distinction-information}  
-Ciekawą formą dekoracji są także firanki sznurkowe - tzw. spaghetti. Składają się z szeregu cienkich zwisających sznurków. o jednym lub wielu kolorach.
+Ciekawą formą dekoracji są także firanki sznurkowe, tzw. spaghetti. Składają się z szeregu cienkich zwisających sznurków. o jednym lub wielu kolorach.
 
 Jeśli natomiast nie przekonują nas tradycyjne zasłony i firanki do kuchni, zawsze możemy zdecydować się na klasyczne, proste i jednolite firanki, puszczone luźno ku dołowi. W sklepach znajdziemy mnóstwo propozycji firan bez fikuśnych upięć czy wzorów.
 
@@ -84,7 +86,9 @@ Najbezpieczniejszym sposobem na pranie tego typu tkanin w pralce będzie złoże
 {:.distinction.distinction-warning}  
 Decydując się na wrzucenie firanki kuchennej do pralki, pamiętaj aby wybrać odpowiedni program prania. Jeśli firanka jest bardzo delikatna, najlepiej będzie możliwie maksymalnie zmniejszyć lub całkowicie zrezygnować z wirowania, aby materiał nie potargał się podczas prania.
 
-\[ZDJĘCIE pralki\]
+{% fig %}
+![](/uploads/pranie firan.jpg)
+{% endfig %}
 
 ### Firanki kuchenne prane ręcznie
 
