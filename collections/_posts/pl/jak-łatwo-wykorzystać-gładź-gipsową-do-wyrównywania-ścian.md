@@ -17,7 +17,9 @@ published: false
 
 Gładź gipsowa, jak sama nazwa wskazuje służy do wygładzenia i wyrównania wierzchniej warstwy ściany. Jest przeznaczona do użytku na powierzchniach zagipsowanych i otynkowanych tynkiem cementowym lub cementowo-wapiennym.  To w pełni ekologiczna substancja o odczynie obojętnym. Dzięki tej właściwości, gładź zapobiega rozwojowi grzybów i pleśni. Szpachlowanie ścian to proces, który pozwala odpowiednio przygotować powierzchnię pod późniejsze malowanie.
 
+{% fig %}
 ![](/uploads/1-gladz.jpg)
+{% endfig %}
 
 Gładź można stosować również na powierzchniach:
 
@@ -40,7 +42,9 @@ Pamiętaj, że podczas kładzenia gładzi nie należy przesadzić z jej grubośc
 
 Na samym początku należy odpowiednio przygotować pomieszczenie. Gładź gipsowa może w łatwy sposób pobrudzić i zniszczyć meble, dlatego dobrze jest wynieść je z tynkowanego pokoju lub dokładnie je zakryć, na przykład folią malarską. Ważne, by nie zapomnieć również o zabezpieczeniu drzwi i okien.
 
+{% fig %}
 ![](/uploads/folia-gladz.jpg)
+{% endfig %}
 
 Surowy tynk zawiera grudy, które można usunąć za pomocą specjalnej szpachli. Następnie ściany, na które zostanie nałożona gładź gipsowa należy odpowiednio zagruntować. Jeśli podłoże ma niską chłonność, dobrze jest zrobić to za pomocą środka zwiększającego przyczepność. Jeśli chłonność jest zbyt zastosować środek zmniejszający wchłanianie.
 
@@ -55,7 +59,9 @@ Fachowcy doradzają kładzenie gładzi jedną warstwą. Jeśli zachodzi taka kon
 
 Jako, że gładź cechuje się niską odpornością na ewentualne uderzenia, konieczne jest wzmocnienie zewnętrznych narożników ścian za pomocą kątowników, na przykład aluminiowych. Aby to zrobić należy wtopić je w masę tynkową i odpowiednio zaszpachlować.
 
+{% fig %}
 ![](/uploads/szpachl-gladz.jpg)
+{% endfig %}
 
 Po zakończeniu pracy z masą należy odczekać do jej całkowitego wyschnięcia. Jeżeli gładź gipsowa jest równa i wygląda estetycznie, dobrze jest użyć papieru ściernego na szpachlowanej wcześniej powierzchni, aby dodatkowo ją wygładzić. Przed rozpoczęciem malowania ścian wystarczy już tylko zagruntować otynkowaną powierzchnię.
 
@@ -85,8 +91,10 @@ Narzędzia niezbędne podczas szpachlowania ścian:
 * aluminiowe narożniki
 * poziomica
 
+{% fig %}
 ![](/uploads/narzedzia-gladz.jpg)
+{% endfig %}
 
 Prawdziwą podstawą wśród preparatów jest odpowiednia gładź. Najczęściej wybierana jest zdecydowanie gładź gipsowa, jednak rodzaj gładzi należy dobrać w zależności od podłoża, które będzie tynkowane. Praktyczną pomocą w przypadku drobnych rys i nierówności jest masa do szpachlowania ścian. Natomiast jeśli ściany posiadają duże ubytki, najlepiej będzie wykorzystać do ich wyrównania po prostu gips szpachlowy.
 
-Każde szpachlowane podłoże wymaga odpowiedniego ugruntowania.  W tym celu należy użyć środka gruntującego. Ważne aby był to preparat dedykowany dla konkretnego rodzaju podłoża. W przeciwnym razie środek nie będzie skuteczny.
+Każde szpachlowane podłoże wymaga odpowiedniego ugruntowania. W tym celu należy użyć środka gruntującego. Ważne aby był to preparat dedykowany dla konkretnego rodzaju podłoża. W przeciwnym razie środek nie będzie skuteczny.
