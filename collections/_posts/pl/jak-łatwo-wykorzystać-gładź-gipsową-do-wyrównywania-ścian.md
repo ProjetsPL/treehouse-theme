@@ -8,7 +8,7 @@ update_date: 2020-04-15
 title: Jak łatwo wykorzystać gładź gipsową do wyrównywania ścian?
 description: Jak łatwo wykorzystać gładź gipsową do wyrównywania ścian?
 intro: Jak łatwo wykorzystać gładź gipsową do wyrównywania ścian?
-image: ''
+image: "/uploads/gladz-glowne.jpg"
 related_products: []
 published: false
 
@@ -34,11 +34,11 @@ Kładzenie gładzi to czynność, która wymaga bycia bardzo dokładnym. Ciągł
 {:.distinction.distinction-warning}
 Pamiętaj, że podczas kładzenia gładzi nie należy przesadzić z jej grubością. Zbyt grube warstwy mogą sprawić, że masa po zastygnięciu zacznie pękać i odspajać się od podłoża.
 
-\[ZDJĘCIE\]
-
 ### Przed rozpoczęciem prac
 
 Na samym początku należy odpowiednio przygotować pomieszczenie. Gładź gipsowa może w łatwy sposób pobrudzić i zniszczyć meble, dlatego dobrze jest wynieść je z tynkowanego pokoju lub dokładnie je zakryć, na przykład folią malarską. Ważne, by nie zapomnieć również o zabezpieczeniu drzwi i okien.
+
+![](/uploads/folia-gladz.jpg)
 
 Surowy tynk zawiera grudy, które można usunąć za pomocą specjalnej szpachli. Następnie ściany, na które zostanie nałożona gładź gipsowa należy odpowiednio zagruntować. Jeśli podłoże ma niską chłonność, dobrze jest zrobić to za pomocą środka zwiększającego przyczepność. Jeśli chłonność jest zbyt zastosować środek zmniejszający wchłanianie.
 
@@ -48,12 +48,12 @@ Aby rozrobić gładź należy do wiadra z wodą wsypać taką ilość gipsu, aby
 
 Nakładanie gładzi gipsowej najlepiej rozpocząć od wewnętrznych narożników. Masę najłatwiej nanieść za pomocą pacy, a następnie rozprowadzić ją po powierzchni przy użyciu kielni. Następnie należy nałożyć gładź gipsową na całą ścianę, a jeśli chcemy wygładzić całe pomieszczenie - również na sufit.
 
-\[ZDJĘCIE\]
-
 {:.distinction.distinction-information}   
 Fachowcy doradzają kładzenie gładzi jedną warstwą. Jeśli zachodzi taka konieczność, można użyć dwóch lub trzech cieńszych warstw, nakładając je na siebie należy zachować odstęp około 20 minut. Każda kolejna warstwa powinna być nakładana prostopadle do poprzedniej.
 
 Jako, że gładź cechuje się niską odpornością na ewentualne uderzenia, konieczne jest wzmocnienie zewnętrznych narożników ścian za pomocą kątowników, na przykład aluminiowych. Aby to zrobić należy wtopić je w masę tynkową i odpowiednio zaszpachlować.
+
+![](/uploads/szpachl-gladz.jpg)
 
 Po zakończeniu pracy z masą należy odczekać do jej całkowitego wyschnięcia. Jeżeli gładź gipsowa jest równa i wygląda estetycznie, dobrze jest użyć papieru ściernego na szpachlowanej wcześniej powierzchni, aby dodatkowo ją wygładzić. Przed rozpoczęciem malowania ścian wystarczy już tylko zagruntować otynkowaną powierzchnię.
 
@@ -72,6 +72,8 @@ Szpachlowanie ścian wymaga odpowiednich narzędzi i preparatów. Bez profesjona
 
 Narzędzia niezbędne podczas szpachlowania ścian:
 
+{:.list}
+
 * szpachla,
 * paca,
 * pędzel do gruntowania,
@@ -81,7 +83,7 @@ Narzędzia niezbędne podczas szpachlowania ścian:
 * aluminiowe narożniki
 * poziomica
 
-\[ZDJĘCIE\]
+![](/uploads/narzedzia-gladz.jpg)
 
 Prawdziwą podstawą wśród preparatów jest odpowiednia gładź. Najczęściej wybierana jest zdecydowanie gładź gipsowa, jednak rodzaj gładzi należy dobrać w zależności od podłoża, które będzie tynkowane.
 
