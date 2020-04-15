@@ -98,3 +98,10 @@ Narzędzia niezbędne podczas szpachlowania ścian:
 Prawdziwą podstawą wśród preparatów jest odpowiednia gładź. Najczęściej wybierana jest zdecydowanie gładź gipsowa, jednak rodzaj gładzi należy dobrać w zależności od podłoża, które będzie tynkowane. Praktyczną pomocą w przypadku drobnych rys i nierówności jest masa do szpachlowania ścian. Natomiast jeśli ściany posiadają duże ubytki, najlepiej będzie wykorzystać do ich wyrównania po prostu gips szpachlowy.
 
 Każde szpachlowane podłoże wymaga odpowiedniego ugruntowania. W tym celu należy użyć środka gruntującego. Ważne aby był to preparat dedykowany dla konkretnego rodzaju podłoża. W przeciwnym razie środek nie będzie skuteczny.
+
+{% faqItem %}
+{% faqQuestion %}
+Gładź gipsowa jak kłaść?
+{% endfaqQuestion %}
+
+{% faqAnswer %} Aby gładź gipsowa była trwała należy nakładać ją warstwami na odpowiednio oczyszczoną i ugruntowaną powierzchnię. Pomiędzy warstwami należy odczekać około 20 minut do wyschnięcia. Taki sposób nakładania gładzi zapewni ścianom estetyczny wygląd. {% endfaqAnswer %} {% endfaqItem %}
