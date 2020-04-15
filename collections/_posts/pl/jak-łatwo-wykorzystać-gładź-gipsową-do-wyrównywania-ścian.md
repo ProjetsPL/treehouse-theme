@@ -29,12 +29,25 @@ Powinno się natomiast unikać kładzenia gładzi na powierzchni surowej, poniew
 
 ## Kładzenie gładzi krok po kroku
 
-TKładzenie gładzi to czynność, która wymaga od nas bycia bardzo dokładnym. Ciągłe wyrównywanie tego wymagającego w pracy materiału może na samym początku być żmudne i męczące, jednak kiedy nabierzemy wprawy ta czynność nie powinna stanowić już większego problemu.
+Kładzenie gładzi to czynność, która wymaga bycia bardzo dokładnym. Ciągłe wyrównywanie tego wymagającego w pracy materiału może na samym początku być żmudne i męczące, jednak kiedy nabierzemy wprawy ta czynność nie powinna stanowić już większego problemu.
 
 {:.distinction.distinction-warning}
 Pamiętaj, że podczas kładzenia gładzi nie należy przesadzić z jej grubością. Zbyt grube warstwy mogą sprawić, że masa po zastygnięciu zacznie pękać i odspajać się od podłoża.
 
-wymagająca dokładności i wprawy, stąd też niezbędne jest doświadczenie. Wyrównywanie masy to praca bardzo żmudna i męcząca ponieważ gładź często odmawia posłuszeństwa. Przy nakładaniu gładzi gipsowej nie wolno przesadzić z jej grubością. Zbyt gruba może popękać lub się odspajać.
+### Przed rozpoczęciem prac 
+
+Na samym początku należy odpowiednio przygotować pomieszczenie. Gładź gipsowa może w łatwy sposób pobrudzić i zniszczyć meble, dlatego dobrze jest wynieść je z tynkowanego pokoju lub dokładnie je zakryć, na przykład folią malarską. Ważne, by nie zapomnieć również o zabezpieczeniu drzwi i okien.
+
+Surowy tynk zawiera grudy, które można usunąć za pomocą specjalnej szpachli. Następnie ściany, na które zostanie nałożona gładź gipsowa należy odpowiednio zagruntować. Jeśli podłoże ma niską chłonność, dobrze jest zrobić to za pomocą środka zwiększającego przyczepność. Jeśli chłonność jest zbyt zastosować środek zmniejszający wchłanianie. 
+
+Aby rozrobić gładź należy do wiadra z wodą wsypać taką ilość gipsu, aby masa wystarczyła na około 30-45 minut pracy. To bardzo ważne, ponieważ wraz z upływem czasu gładź straci swoje elastyczne właściwości. Po odczekaniu kilku minut, zaprawę wystarczy dokładnie zamieszać wiertarką.
+
+### Szpachlowanie ścian w praktyce
+
+Nakładanie gładzi gipsowej najlepiej rozpocząć od wewnętrznych narożników. Masę najłatwiej nanieść za pomocą pacy, a następnie rozprowadzić ją po powierzchni przy użyciu kielni. Następnie należy nałożyć gładź gipsową na całą ścianę, a jeśli chcemy wygładzić całe pomieszczenie - również na sufit.
+
+{:.distinction.distinction-information}
+Fachowcy doradzają kładzenie gładzi jedną warstwą. Jeśli zachodzi taka konieczność, można użyć dwóch lub trzech cieńszych warstw, nakładając je na siebie należy zachować odstęp około 20 minut.
 
 ### Jak położyć gładź na mokro?
 
