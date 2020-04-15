@@ -19,17 +19,16 @@ Gładź gipsowa, jak sama nazwa wskazuje służy do wygładzenia i wyrównania w
 
 Gładź można stosować również na powierzchniach:
 
-* gipsowo-kartonowych
-* 
+* gipsowo-kartonowych,
+* gipsowo-włóknowych,
+* cementowo-włóknowych.
 
-przeważnie nanosi się na mury u stropy pokryte tynkiem cementowym, cementowo-wapiennym lub gipsowym. Gładź można także wykorzystać na okładzinie z płyt gipsowo-kartonowych, gipsowo - włóknowych lub cementowo- włóknowych. Nie powinno się jej natomiast używać do wykańczania surowych murów. Jest materiałem ekologicznym oraz ma odczyn obojętny, więc na jej powierzchni nie rozwijąją się pleśnie.
+Powinno się natomiast unikać kładzenia gładzi na powierzchni surowej, ponieważ tego typu mury nie są przystosowane do takiego rodzaju materiału. Dobrze jest również unikać powierzchni wilgotnych, takich jak na przykład łazienki. Nadmierna wilgoć może powodować pęknięcia i odchodzenie gładzi od podłoża.
 
-Przed nałożeniem gładzi gipsowej należy pamiętać, żeby nie układać jej w pomieszczeniach o podwyższonej wilgotności czyli łazienkach, pralniach i suszarniach. Skutkiem takiego wykończenia ściany w tych pomieszczeniach mogą być pęknięcia i odspajanie się od podłoża.
-
-### Gładź gipsowa - rodzaje
+Istnieją dwa rodzaje gładzi szpachlowej do wyboru. Są to gładź z gipsu syntetycznego oraz ze zmielonego gipsu naturalnego. Gładź syntetyczna cechuje się większą wytrzymałością, w porównaniu do gładzi naturalnej.
 
 ## Kładzenie gładzi krok po kroku
 
-### Kładzenie gładzi na mokro
+### Jak położyć gładź na mokro?
 
 ## Preparaty i narzędzia potrzebne do szpachlowania ścian
