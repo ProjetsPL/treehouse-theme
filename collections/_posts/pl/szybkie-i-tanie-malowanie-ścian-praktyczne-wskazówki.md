@@ -42,7 +42,8 @@ Malowanie najlepiej zacząć od części tuż obok okna, prowadząc wałek w kie
 
 Najczęściej wybieranym kolorem do malowania sufitu w pokoju jest  biel w różnych odcieniach i temperaturach. To tradycyjne rozwiązanie sprawia, że pokój staje się jasny, a przebywanie w nim nie jest męczące. Czasem jednak w pomieszczeniach, takich jak na przykład sypialnia, sufit jest malowany na taki sam kolor, jak ściany.  Dzięki temu pomieszczenie jest przyciemnione, co może wpływać na lepszy wypoczynek podczas snu.
 
-Aby optycznie powiększyć pomieszczenie, możesz lekko przeciągnąć kolor znajdujący się na suficie, na ściany boczne pokoju. 
+{:.distinction.distinction-information}
+Aby optycznie powiększyć pomieszczenie, możesz lekko przeciągnąć kolor znajdujący się na suficie, na ściany boczne pokoju. Niewielki biały pasek, który powstanie na samej górze ściany wywoła złudzenie optyczne, dzięki któremu pokój będzie wyglądał na większy.
 
 ## Malowanie ścian - cena
 
