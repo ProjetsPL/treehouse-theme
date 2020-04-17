@@ -20,7 +20,7 @@ description: "Looking for an easy idea to make your interior more interesting? \
 intro: Bored with the old, classic look of your interior? Planning to refresh you
   home decor? Magnetic paint is a trending solution in the recent years. Using it
   you can transform a dull kitchen, living room or children's room and give it a completely
-  new look. Try a Try chalkboard paint and enjoy magnifient results!
+  new look. Try chalkboard paint and enjoy magnificent results!
 image: "/uploads/farba-tablicowa.jpg"
 related_products: []
 published: false
