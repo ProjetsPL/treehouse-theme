@@ -40,6 +40,7 @@ Jeśli w Twoim domu mieszkają małe dzieci, warto zdecydować się na mycie śc
 Mycie ścian przed malowaniem skutecznie zapobiega odspajaniu farby. Proces ten należy również wykonać, jeśli na powierzchni ścian znajdują się:
 
 {:.list.list-negative}
+
 * grzyby i pleśni,
 * zażółcenia i ślady dymu papierosowego,
 * plamy od różnego rodzaju preparatów w płynie, np.: środków do dezynsekcji, odświeżaczy powietrza czy perfum.
@@ -47,11 +48,11 @@ Mycie ścian przed malowaniem skutecznie zapobiega odspajaniu farby. Proces ten 
 
 ### Czym wykonać mycie ścian przed malowaniem?
 
-Środki do mycia ścian należy dobierać w zależności od stopnia i rodzaju zabrudzenia. Jeśli są one niewielkie, zazwyczaj w takiej sytuacji skuteczne jest szorowanie ścian roztworem z ciepłej wody i detergentu typu płyn do naczyń. 
+Środki do mycia ścian należy dobierać w zależności od stopnia i rodzaju zabrudzenia. Jeśli są one niewielkie, zazwyczaj w takiej sytuacji skuteczne jest szorowanie ścian roztworem z ciepłej wody i detergentu typu płyn do naczyń.
 
 Tego rodzaju mieszanka może jednak nie sprawdzić się w przypadku dużych i bardzo tłustych zabrudzeń oraz śladów pleśni i grzybów. Wówczas najskuteczniejszą metodą jest mycie ścian przed malowaniem za pomocą mydła malarskiego. Aby to wykonać, należy rozpuścić odpowiednią ilość mydła, podaną w instrukcji,  w wodzie, a następnie umyć ściany za pomocą gąbki. Na koniec procesu dobrze jest  raz lub dwa razy spłukać ściany czystą wodą, aby uniknąć pozostawienia osadu z mydła na powierzchni.
 
-## Jak malować ściany? 6 pomocnych wskazówek
+## Jak malować ściany? 5 pomocnych wskazówek
 
 1. **Od czego zacząć malowanie ścian?**
 
@@ -59,22 +60,36 @@ Malowanie ścian należy rozpocząć od dokładnego zamieszania farby. Następni
 
 Ważne aby malowanie ścian przebiegało w konkretnym kierunku. Farbę najlepiej jest nanosić z dołu do góry, a następnie wracając pędzlem po śladzie - z góry na dół. Ważne, aby nałożyć kilka warstw farby i zrobić to równomiernie. W ten sposób powierzchnia ściany pozostanie jednolita po wyschnięciu.
 
-2. **Jak uniknąć smug? Malowanie ścian metodą "mokro na mokro"**
+2. **Wałek czy pędzel - czym malować ściany?**
+
+Uniwersalnym i najwygodniejszym rozwiązaniem do malowania dużych powierzchni jest tradycyjny wałek. To narzędzie, dzięki któremu farba rozprowadzona jest równomiernie. i z taką samą intensywnością. Istnieją trzy rodzaje wałków do malowania, które różnią się między sobą długością włosia. Są to:
+
+* wałek krótki - od 6 do 10 mm długości,
+* wałek średni - od 13 do 15 mm długości,
+* wałek długi - od 19 do 30 mm długości.
+
+Pierwszy z nich przystosowany jest do malowania powierzchni gładkich, średni do ścian otapetowanych i tynku, natomiast największy wałek jest dedykowany powierzchniom chropowatym.
+
+Oprócz długości ważna jest również jakość wałka oraz rodzaj runa, z jakiego został wykonany. Warto upewnić się przed użyciem, że z wałka nie odpada włosie, ponieważ będzie ono przyklejać się do ścian podczas malowania.
+
+Pędzel jest natomiast doskonałym narzędziem do malowania ścian w wąskich, trudno dostępnych miejscach. Należy jednak szczególnie uważać na ociekającą farbę, którą lepiej dobierać częściej, ale w mniejszych ilościach.
+
+3. **Jak uniknąć smug? Malowanie ścian metodą "mokro na mokro"**
 
 Aby ujednolicić powierzchnię i uniknąć powstawania smug, malując kolejne fragmenty powierzchni należy połączyć je ze sobą, używając techniki "mokro na mokro". Jak pomalować ściany tą metodą?
 
 Zasada ta jest bardzo prosta i zalecana przez profesjonalistów. Polega na nakładaniu farby nachodzącymi na siebie ruchami. Najprościej jest osiągnąć ten efekt wykonując malowanie ścian ruchami w kształcie litery V. Aby to zrobić należy najpierw nakreślić ukośne ramiona litery, a następnie wypełnić farbą pustą powierzchnię pomiędzy nimi. Taki sposób malowania gwarantuje równomierne rozprowadzenie produktu na ścianie.
 
-Malowanie ścian w minimum dwie osoby pomoże zminimalizować ryzyko powstawania zacieków. Aby jeszcze bardziej ujednolicić powierzchnię, należy zrezygnować z używania pędzla na rzecz wałka, który jest znacznie bezpieczniejszy w obsłudze. 
+Malowanie ścian w minimum dwie osoby pomoże zminimalizować ryzyko powstawania zacieków. Aby jeszcze bardziej ujednolicić powierzchnię, należy zrezygnować z używania pędzla na rzecz wałka, który jest znacznie bezpieczniejszy w obsłudze.
 
-3. **Malowanie ścian a wilgoć w pomieszczeniu** 
+4. **Malowanie ścian a wilgoć w pomieszczeniu**
 
-Optymalna temperatura do malowania wnętrz to od 5 do 25 stopni Celsjusza. Natomiast wilgotność sprzyjająca malowaniu wynosi mniej niż 80%. Zbyt wysoka temperatura i suchość mogą być problematyczne, zwłaszcza jeśli malowanie ścian odbywa się przy użyciu farb wodorozcieńczalnych. Tego typu produkty schną znacznie szybciej niż farby tradycyjne. Jeśli więc nie zostanie zachowane odpowiednie tempo malowania, farby mogą pozostawić smugi na powierzchni ścian. 
+Optymalna temperatura do malowania wnętrz to od 5 do 25 stopni Celsjusza. Natomiast wilgotność sprzyjająca malowaniu wynosi mniej niż 80%. Zbyt wysoka temperatura i suchość mogą być problematyczne, zwłaszcza jeśli malowanie ścian odbywa się przy użyciu farb wodorozcieńczalnych. Tego typu produkty schną znacznie szybciej niż farby tradycyjne. Jeśli więc nie zostanie zachowane odpowiednie tempo malowania, farby mogą pozostawić smugi na powierzchni ścian.
 
 {:.distinction.distinction-information}
 Jeśli wilgoć w pomieszczeniu jest zbyt niska, lub temperatura zbyt wysoka, dopuszczalne jest rozcieńczenie farby. Dzięki temu łatwiej będzie zaaplikować pierwszą warstwę produktu. Należy jednak zrobić to zgodnie z zaleceniami znajdującymi się na opakowaniu.
 
-4. **Co zrobić ze sprzętem po skończonym malowaniu?**
+5. **Co zrobić ze sprzętem po skończonym malowaniu?**
 
 ## Malowanie ścian pistoletem - szybki sposób na malowanie pokoju
 
