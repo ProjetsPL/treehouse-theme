@@ -8,7 +8,7 @@ description: "Zależy Ci na estetycznym kaloryferze? Twoje wnętrze będzie wygl
   na kaloryfer."
 image: "/uploads/oslona-na-kaloryfer-main.jpg"
 promoted: false
-update_date: 2020-04-02
+update_date: 2020-04-17
 intro: Często zdarza się, że w nowo urządzonym mieszkaniu wszystko do siebie pasuje
   - poza jednym elementem. Jest nim nieestetyczny grzejnik. Mimo istnienia ozdobnych
   urządzeń tego typu, niestety większość rozwiązań grzewczych nie szczyci się pięknym
@@ -27,7 +27,7 @@ main_keywords:
 ---
 ## Czym jest osłona na kaloryfer?
 
-Zabudowa kaloryfera to rozwiązanie stosowane przede wszystkim w przypadku, gdy urządzenie grzewcze nie spełnia oczekiwanych wymogów estetycznych. **Grzejniki żeberkowe** starego typu rzadko kiedy pasują do nowoczesnych wnętrz. Również nowe, stalowe kaloryfery zazwyczaj nie są zbyt estetyczne.
+Osłona na kaloryfer to nasadka, która **zwiększa walory estetyczne wymiennika cieplnego**. Obudowa stosowana jest szczególnie w grzejnikach starszego typu - są to głównie stalowe kaloryfery żeberkowe. Zastosowanie osłony grzejnika nie wpływa negatywnie na centralne ogrzewanie. W wielu przypadkach **nasadka może być przedłużeniem parapetu**. Wtedy maskownica grzejnika zyskuje nową funkcjonalność.
 
 {:.distinction.distinction-information}
 Dlatego maskownica grzejnika jest coraz bardziej popularnym sposobem na dopasowanie tego urządzenia do stylu danego wnętrza. Nie trzeba przy tym wydawać pieniędzy na nowe, ozdobne kaloryfery.
@@ -46,7 +46,7 @@ Większość instalatorów urządzeń grzewczych twierdzi, że osłona na grzejn
 
 Najważniejszą i podstawową korzyścią płynącą z zabudowania grzejnika, jest **podniesienie walorów estetycznych w pomieszczeniu**. Jest to główny powód, dla którego właściciele mieszkań decydują się na zastosowanie tego rozwiązania. Maskownica grzejnika to element dekoracyjny, który można odpowiednio dopasować do wystroju wnętrza.
 
-{:.distinction.distinction-information} 
+{:.distinction.distinction-information}
 Producenci oferują wiele rozwiązań, a w przypadku niestandardowych oczekiwań, element można dopasować na specjalne zamówienie. Wówczas możesz wybrać, z jakiego materiału ma zostać wykonana osłona na kaloryfer i dopasować jej wygląd do własnych preferencji.
 
 Koszty tego elementu można zmniejszyć, decydując się na jego samodzielne wykonanie. Wbrew pozorom nie jest to bardzo trudne zadanie, a własnoręcznie zaprojektowana ozdoba przyniesie wiele satysfakcji. Niezależnie od sposobu wykonania, **maskownica grzejnika** zazwyczaj jest bardzo łatwa w montażu.
