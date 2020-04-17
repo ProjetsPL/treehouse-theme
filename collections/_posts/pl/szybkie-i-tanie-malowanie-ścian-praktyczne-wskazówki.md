@@ -64,6 +64,8 @@ Ważne aby malowanie ścian przebiegało w konkretnym kierunku. Farbę najlepiej
 
 Uniwersalnym i najwygodniejszym rozwiązaniem do malowania dużych powierzchni jest tradycyjny wałek. To narzędzie, dzięki któremu farba rozprowadzona jest równomiernie. i z taką samą intensywnością. Istnieją trzy rodzaje wałków do malowania, które różnią się między sobą długością włosia. Są to:
 
+{:.list}
+
 * wałek krótki - od 6 do 10 mm długości,
 * wałek średni - od 13 do 15 mm długości,
 * wałek długi - od 19 do 30 mm długości.
@@ -92,7 +94,17 @@ Jeśli wilgoć w pomieszczeniu jest zbyt niska, lub temperatura zbyt wysoka, dop
 
 5. **Co zrobić ze sprzętem po skończonym malowaniu?**
 
-## Malowanie ścian pistoletem - szybki sposób na malowanie pokoju
+Po skończeniu malowania należy odpowiednio zadbać o narzędzia i używane produkty. W przypadku, gdy malowanie zostało tylko przerwane i będzie kontynuowane następnego dnia, dobrze jest zamknąć brudne pędzle lub wałek w szczelnej plastikowej torebce.
+
+Natomiast jeśli malowanie ścian zostało ostatecznie zakończone, bardzo ważne jest aby pamiętać o umyciu wszystkich akcesoriów. Farby natomiast należy szczelnie zamknąć. W przeciwnym razie ulegną wyschnięciu i nie będzie można użyć ich podobnie.
+
+## Malowanie ścian pistoletem - ciekawy sposób na malowanie pokoju
+
+Malowanie ścian pistoletem odbywa się w sposób natryskowy przy użyciu specjalnego agregatu, który rozprowadza farbę po powierzchni pod wpływem wysokiego ciśnienia. Ten ciekawy i nietuzinkowy sposób na malowanie ścian, dla niektórych może okazać się problematyczny. 
+
+Przed użyciem należy przygotować agregat oraz wlać farbę do urządzenia. Dobrze jest zawsze przetestować urządzenie, zanim naniesie się farbę na ścianę. Bardzo ważne jest to, by agregat utrzymywał optymalny poziom ciśnienia (około 3 barów) przez cały czas trwania prac, a także był używany z bezpiecznej odległości (15-20 cm) W innym przypadku farba może nierównomiernie pokryć powierzchnie, co spowoduje zacieki, które w efekcie będą wyglądać bardzo niechlujnie. 
+
+Malowanie ścian pistoletem zwykle kończy się na jednej warstwie farby, gdyż przy wykorzystaniu tej metody jest ona zupełnie wystarczająca. Po skończeniu prac należy dokładnie oczyścić agregat za pomocą wody i rozpuszczalnika. 
 
 ## Jak malować sufit?
 
@@ -107,4 +119,6 @@ Aby optycznie powiększyć pomieszczenie, możesz lekko przeciągnąć kolor zna
 
 ## Malowanie ścian - cena
 
-Cena za malowanie jest zależna od wielu czynników.
+Cena za malowanie jest zależna od wielu czynników. Znaczący wpływ ma dobór farby oraz ilość zakupionych puszek. Na rynku znajduje się mnóstwo producentów farb naściennych, dzięki czemu można zdecydować, czy chce się korzystać z farb tańszych, przeciętnych, a może tych z wyższej półki. Ponadto, zwykle konieczny jest również zakup innych środków, takich jak na przykład preparat do gruntowania ścian.
+
+To ile kosztuje malowanie zależy również od wykorzystywanego akcesorium. Osoby, które wykonują malowanie pokoju po raz pierwszy muszą zaopatrzyć się w potrzebne narzędzia, które z pewnością zwiększają koszt remontu. Jednak przy odpowiedniej dbałości o pędzle i walki do malowania, narzędzia mogą z powodzeniem być wykorzystywane ponownie.
