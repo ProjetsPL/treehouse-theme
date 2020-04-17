@@ -15,9 +15,9 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-04-16
-title: How to Paint a Room? Top Trendy Colors and Painting Ideas 2020
+title: How to Paint a Room? Check Top Colors and Painting Ideas 2020
 description: "Planning a little makeover? \U0001F3A8 No idea how to paint the room?
-  \U0001F449 Check what colors are the best - give your interior a new look with those
+  \U0001F449 Check what colors are the best. Give your interior a new look with those
   painting techniques!"
 intro: Are you planning a small makeover but you have no idea how to paint walls so
   that the room looks stylish and trendy? Choosing the right color for a room is a
@@ -26,7 +26,6 @@ intro: Are you planning a small makeover but you have no idea how to paint walls
   latest trends and create an interior that matches the top home decor designs.
 image: "/uploads/jak-pomalowac-pokoj-najmodniejsze-kolory-do-pokoju-2020.jpg"
 related_products: []
-published: false
 
 ---
 ## Before you start changing colors of the room
@@ -36,7 +35,6 @@ Even the most beautiful and stunning colors cannot look good without a **thoroug
 **Wall painting is a specific type of activity that requres a lot of space.** In addition, paint dripping from a brush might damage your furniture or other objects that stand nearby. For this reason you should start wall painting from **removing everything from the room.** If you are not able to take everything out, take care of the remaining elements. Cover every surface, along with the floor, using plastic covers. This way the interior is protected against accidental paint splatters.
 
 {:.distinction.distinction-information}
-
 To make wall painting easier, you may stick the cover to the surface using masking tape. This secures the sheet from moving around when you paint. You might also use the covers to determine where the color ends or to hide wall fragments that you are not going to paint.
 
 ### Preparing the wall for painting
@@ -62,7 +60,6 @@ Another popular color that is trending on the interior design market is bottle g
 Other trendy colors of 2020:
 
 {:.list.list-positive}
-
 * Back to Nature (olive gren) - Behr Paint Company
 * Tranquil Dawn (mint grey) - Dulux
 * Lemonade (yellow-orange) Tikkurila Color Now 2020
@@ -77,7 +74,6 @@ Small interiors are usually charming and they can be very cozy. If you have a sm
 The most effective method to paint walls of a small living room is choosing a uniform, bright shade. The most popular colors are beige, delicate grey, pastel pink or sky blue.
 
 {:.distinction.distinction-warning}
-
 When choosing wall paint to your room, pay attention to the color temperature. It is particularly important in small interiors because warm shades bring the walls closer together, which makes the room look smaller.
 
 No wall paint color can compete with **brilliant clear white**, which is definitely the most popular color of interior design in general. Perfect for small rooms, it is often used for minimalist interiors. Althought there are many shades of white available, the classic snow white is the most widely used. The second place belongs to **off-white.**
@@ -125,7 +121,6 @@ Another perfect shade is grey, which **encourages human body to calm down and re
 **Blue is a perfect color for a bedroom.** Cold shades positively influence sleep and might help fight insomnia. Nevertheless, it's the most common color used in bathrooms, propably due to connoting this color with water.
 
 {:.distinction.distinction-warning}
-
 Although blue positively affects mood, be careful not to use it everywhere. Too much blue in a room might be depressing, which is rather not the desired effect.
 
 ### What wall paint colors should be avoided?
