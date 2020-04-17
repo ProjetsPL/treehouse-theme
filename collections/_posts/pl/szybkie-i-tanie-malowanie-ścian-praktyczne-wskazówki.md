@@ -28,12 +28,20 @@ published: false
 ---
 ## Mycie ścian przed malowaniem - dlaczego jest ważne?
 
-Zabrudzenia ścian mają negatywny wpływ na przyczepność farby, dlatego mycie ścian przed malowaniem to bardzo ważna kwestia i dobrze, by stała się ona rutyną podczas przygotowań do remontu. W niektórych sytuacjach mycie ścian przed malowaniem jest absolutnie konieczne, aby uzyskać długotrwały i naprawdę świeży efekt. 
+Zabrudzenia ścian mają negatywny wpływ na przyczepność farby, dlatego mycie ścian przed malowaniem to bardzo ważna kwestia i dobrze, by stała się ona rutyną podczas przygotowań do remontu. W niektórych sytuacjach mycie ścian przed malowaniem jest absolutnie konieczne, aby uzyskać długotrwały i naprawdę świeży efekt.
 
 Przede wszystkim jest ono wskazane, jeśli na powierzchni ściany znajdują się zabrudzenia z tłuszczu. Najczęściej ma to miejsce w kuchni, ponieważ olej używany podczas gotowania może w łatwy sposób osadzić się na ścianach. Warto również wykonać mycie ścian przed malowaniem w pokoju dziecięcym, jako że dzieci mają naturalną tendencję do dotykania ścian rączkami, które nie zawsze mogą być czyste.
 
 {:.distinction.distinction-warning}
 Jeśli w Twoim domu mieszkają małe dzieci, warto zdecydować się na mycie ścian w każdym z pomieszczeń. Dzieci lubią dotykać ścian rączkami, dlatego warto wyczyścić przed malowaniem, zwłaszcza te obszary, do których dziecko może swobodnie dosięgnąć.
+
+Czyszczenie ścian należy również wykonać, jeśli na ich powierzchni znajdują się:
+
+{:.list.list-negative}
+* grzyby i pleśni,
+* zażółcenia i ślady dymu papierosowego,
+* plamy od różnego rodzaju preparatów w płynie, np.: środków do dezynsekcji, odświeżaczy powietrza czy perfum.
+* inne widoczne zabrudzenia, np.: ślady od kredek czy błoto.
 
 ## Jak malować ściany?
 
