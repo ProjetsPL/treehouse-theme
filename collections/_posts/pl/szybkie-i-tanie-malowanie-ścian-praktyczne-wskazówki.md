@@ -70,7 +70,7 @@ Malowanie ścian należy rozpocząć od dokładnego zamieszania farby. Następni
 
 Ważne aby malowanie ścian przebiegało w konkretnym kierunku. Farbę najlepiej jest nanosić z dołu do góry, a następnie wracając pędzlem po śladzie - z góry na dół. Ważne, aby nałożyć kilka warstw farby i zrobić to równomiernie. W ten sposób powierzchnia ściany pozostanie jednolita po wyschnięciu.
 
-2. **Wałek czy pędzel - czym malować ściany?**
+1. **Wałek czy pędzel - czym malować ściany?**
 
 Uniwersalnym i najwygodniejszym rozwiązaniem do malowania dużych powierzchni jest tradycyjny wałek. To narzędzie, dzięki któremu farba rozprowadzona jest równomiernie. i z taką samą intensywnością. Istnieją trzy rodzaje wałków do malowania, które różnią się między sobą długością włosia. Są to:
 
@@ -91,14 +91,14 @@ Pędzel jest natomiast doskonałym narzędziem do malowania ścian w wąskich, t
 ![](/uploads/wskazowki-malowanie-glowne.jpg)
 {% endfig %}
 
-3. **Malowanie ścian a wilgoć w pomieszczeniu**
+1. **Malowanie ścian a wilgoć w pomieszczeniu**
 
 Optymalna temperatura do malowania wnętrz to od 5 do 25 stopni Celsjusza. Natomiast wilgotność sprzyjająca malowaniu wynosi mniej niż 80%. Zbyt wysoka temperatura i suchość mogą być problematyczne, zwłaszcza jeśli malowanie ścian odbywa się przy użyciu farb wodorozcieńczalnych. Tego typu produkty schną znacznie szybciej niż farby tradycyjne. Jeśli więc nie zostanie zachowane odpowiednie tempo malowania, farby mogą pozostawić smugi na powierzchni ścian.
 
 {:.distinction.distinction-information}
 Jeśli wilgoć w pomieszczeniu jest zbyt niska, lub temperatura zbyt wysoka, dopuszczalne jest rozcieńczenie farby. Dzięki temu łatwiej będzie zaaplikować pierwszą warstwę produktu. Należy jednak zrobić to zgodnie z zaleceniami znajdującymi się na opakowaniu.
 
-4. **Jak uniknąć smug? Malowanie ścian metodą "mokro na mokro"**
+1. **Jak uniknąć smug? Malowanie ścian metodą "mokro na mokro"**
 
 Aby ujednolicić powierzchnię i uniknąć powstawania smug, malując kolejne fragmenty powierzchni należy połączyć je ze sobą, używając techniki "mokro na mokro". Jak pomalować ściany tą metodą?
 
@@ -110,7 +110,7 @@ Malowanie ścian w minimum dwie osoby pomoże zminimalizować ryzyko powstawania
 ![](/uploads/walek-1.jpg)
 {% endfig %}
 
-5. **Co zrobić ze sprzętem po skończonym malowaniu?**
+1. **Co zrobić ze sprzętem po skończonym malowaniu?**
 
 Po skończeniu malowania należy odpowiednio zadbać o narzędzia i używane produkty. W przypadku, gdy malowanie zostało tylko przerwane i będzie kontynuowane następnego dnia, dobrze jest zamknąć brudne pędzle lub wałek w szczelnej plastikowej torebce.
 
@@ -148,3 +148,23 @@ Cena za malowanie jest zależna od wielu czynników. Znaczący wpływ ma dobór 
 {% endfig %}
 
 To ile kosztuje malowanie zależy również od wykorzystywanego akcesorium. Osoby, które wykonują malowanie pokoju po raz pierwszy muszą zaopatrzyć się w potrzebne narzędzia, które z pewnością zwiększają koszt remontu. Jednak przy odpowiedniej dbałości o pędzle i walki do malowania, narzędzia mogą z powodzeniem być wykorzystywane ponownie.
+
+{% faqItem %}
+{% faqQuestion %}
+Ile za metr malowania?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Obecnie metr kwadratowy malowania kosztuje około 12 zł + koszty materiałów. Jest to jednak cena za usługę wykonywaną przez fachowca. Decydując się na samodzielne malowanie ścian, można zatem sporo zaoszczędzić.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+Ile kosztuje malowanie pokoju 20m?
+{% endfaqQuestion %}
+
+{% faqAnswer %}   
+Cena za malowanie pokoju będzie różnić się w zależności od doboru produktów. Jest ona ściśle związana z kosztem farby i akcesoriów wykorzystywanych podczas malowania. Koszt zwiększa się również w przypadku powierzenia remontu profesjonalistom, ponieważ sama usługa staje się wtedy dodatkowo płatna.   
+{% endfaqAnswer %}   
+{% endfaqItem %}
