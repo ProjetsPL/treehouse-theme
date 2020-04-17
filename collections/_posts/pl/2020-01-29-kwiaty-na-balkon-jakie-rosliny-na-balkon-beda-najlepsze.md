@@ -3,11 +3,11 @@ layout: post
 date: 2020-01-29
 toc: true
 title: Kwiaty na balkon. Jakie rośliny na balkon będą najlepsze?
-description: Jakie kwiaty na balkon południowy będą najlepsze? Wybór właściwych roślin
-  na balkon może być niełatwy. Dowiedz się, jakie wybrać kwiaty i rośliny na balkon.
+description: "Idealne kwiaty na balkon? \U0001F33C Sprawdź, które kwiatostany będą
+  doskonale prezentować się na tarasie. ✔️ Wybieraj wyłącznie najpiękniejsze kwiaty."
 image: "/uploads/kwiaty-na-balkon.jpg"
 promoted: false
-update_date: 2020-02-05
+update_date: 2020-04-17
 intro: Piękne kwiaty na balkonie to marzenie wielu osób. Taka dekoracja nie tylko
   cieszy wzrok, ale również pomaga się lepiej zrelaksować. Aby tak było, należy dobrze
   przemyśleć, jakie kwiaty na balkon wybrać. Nie wszystkie rośliny nadają się w każde
@@ -23,7 +23,13 @@ main_keywords:
 - kiedy kwiaty na balkon
 
 ---
-## Kwiaty na balkon - na co zwrócić uwagę?
+## Jakie kwiaty na balkon są najlepsze?
+
+Kwiaty na balkon to głównie rośliny doniczkowe - np. róże miniaturowe. Ciekawie prezentują się kwiatostany roślin nasiennych jak **mini irysy** czy **konwalie**. Nasiona tych kwiatów na balkon są łatwo dostępne. Jakie pąki będą równie dobrze wyglądać? Piwonie, lilie lub dalie - szczególnie piękna **_Dahlia pinnata_**.
+
+Wybierając kwiaty na balkon, warto jednak uwzględnić indywidualne kwestie, które dla każdego tarasu mogą być inne. Podczas tego zadania można kierować się wskazówkami specjalistów, którzy najlepiej wiedzą, co lubią kwiaty balkonowe.
+
+## Kwiaty na balkon - na co dokładnie zwrócić uwagę przy ich wyborze?
 
 Kwiaty to jedna z najchętniej wybieranych ozdób balkonowych. Zazwyczaj nie są one bardzo wymagające. Wiele osób ma jednak dylemat i nie wie, jakie **kwiaty na balkon** wybrać. Przed zakupem roślin należy się zastanowić i uwzględnić kilka ważnych czynników.
 
