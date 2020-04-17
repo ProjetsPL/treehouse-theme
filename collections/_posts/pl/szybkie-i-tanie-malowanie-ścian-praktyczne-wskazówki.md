@@ -40,7 +40,6 @@ Jeśli w Twoim domu mieszkają małe dzieci, warto zdecydować się na mycie śc
 Mycie ścian przed malowaniem skutecznie zapobiega odspajaniu farby. Proces ten należy również wykonać, jeśli na powierzchni ścian znajdują się:
 
 {:.list.list-negative}
-
 * grzyby i pleśni,
 * zażółcenia i ślady dymu papierosowego,
 * plamy od różnego rodzaju preparatów w płynie, np.: środków do dezynsekcji, odświeżaczy powietrza czy perfum.
@@ -73,7 +72,6 @@ Malowanie ścian w minimum dwie osoby pomoże zminimalizować ryzyko powstawania
 Optymalna temperatura do malowania wnętrz to od 5 do 25 stopni Celsjusza. Natomiast wilgotność sprzyjająca malowaniu wynosi mniej niż 80%. Zbyt wysoka temperatura i suchość mogą być problematyczne, zwłaszcza jeśli malowanie ścian odbywa się przy użyciu farb wodorozcieńczalnych. Tego typu produkty schną znacznie szybciej niż farby tradycyjne. Jeśli więc nie zostanie zachowane odpowiednie tempo malowania, farby mogą pozostawić smugi na powierzchni ścian. 
 
 {:.distinction.distinction-information}
-
 Jeśli wilgoć w pomieszczeniu jest zbyt niska, lub temperatura zbyt wysoka, dopuszczalne jest rozcieńczenie farby. Dzięki temu łatwiej będzie zaaplikować pierwszą warstwę produktu. Należy jednak zrobić to zgodnie z zaleceniami znajdującymi się na opakowaniu.
 
 4. **Co zrobić ze sprzętem po skończonym malowaniu?**
