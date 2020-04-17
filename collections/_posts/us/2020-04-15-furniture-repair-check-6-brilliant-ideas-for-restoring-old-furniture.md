@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-04-10
+date: 2020-04-15
 main_keywords:
 - furniture repair
 - upcycled furniture
@@ -15,11 +15,11 @@ main_keywords:
 - how to restore furniture
 toc: true
 promoted: false
-update_date: 2020-04-11
-title: 'Furniture Repair - 6 Brilliant Ideas For Restoring Old Furniture '
+update_date: 2020-04-15
+title: 'Furniture Repair - Check 6 Brilliant Ideas Restoring Old Furniture '
 description: "Feeling the need for a change in your house? \U0001F3E0 Don’t spend
-  fortune on new equipment - upcycled furniture is as good as new! \U0001F6CB️ Furniture
-  repair is very easy!"
+  fortune, upcycled furniture is as good as new! \U0001F6CB️ Furniture repair is very
+  easy - check it out!"
 intro: Do you want to change something in your house but you don't have money nor
   concept to buy new equipment? Don't worry! Take a look at zero waste - the lastest
   trend that will help you to completely change the look of your old furniture. Furniture
