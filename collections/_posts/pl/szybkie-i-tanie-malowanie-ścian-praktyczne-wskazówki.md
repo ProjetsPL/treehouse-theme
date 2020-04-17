@@ -57,8 +57,8 @@ Mycie ścian przed malowaniem skutecznie zapobiega odspajaniu farby. Proces ten 
 Środki do mycia ścian należy dobierać w zależności od stopnia i rodzaju zabrudzenia. Jeśli są one niewielkie, zazwyczaj w takiej sytuacji skuteczne jest szorowanie ścian roztworem z ciepłej wody i detergentu typu płyn do naczyń.
 
 {% fig %}
-
 ![](/uploads/czyszczenie.jpg)
+{% endfig %}
 
 Tego rodzaju mieszanka może jednak nie sprawdzić się w przypadku dużych i bardzo tłustych zabrudzeń oraz śladów pleśni i grzybów. Wówczas najskuteczniejszą metodą jest mycie ścian przed malowaniem za pomocą mydła malarskiego. Aby to wykonać, należy rozpuścić odpowiednią ilość mydła, podaną w instrukcji,  w wodzie, a następnie umyć ściany za pomocą gąbki. Na koniec procesu dobrze jest  raz lub dwa razy spłukać ściany czystą wodą, aby uniknąć pozostawienia osadu z mydła na powierzchni.
 
@@ -88,8 +88,8 @@ Oprócz długości ważna jest również jakość wałka oraz rodzaj runa, z jak
 Pędzel jest natomiast doskonałym narzędziem do malowania ścian w wąskich, trudno dostępnych miejscach. Należy jednak szczególnie uważać na ociekającą farbę, którą lepiej dobierać częściej, ale w mniejszych ilościach.
 
 {% fig %}
-
 ![](/uploads/wskazowki-malowanie-glowne.jpg)
+{% endfig %}
 
 1. **Malowanie ścian a wilgoć w pomieszczeniu**
 
@@ -107,8 +107,8 @@ Zasada ta jest bardzo prosta i zalecana przez profesjonalistów. Polega na nakł
 Malowanie ścian w minimum dwie osoby pomoże zminimalizować ryzyko powstawania zacieków. Aby jeszcze bardziej ujednolicić powierzchnię, należy zrezygnować z używania pędzla na rzecz wałka, który jest znacznie bezpieczniejszy w obsłudze.
 
 {% fig %}
-
 ![](/uploads/walek-1.jpg)
+{% endfig %}
 
 1. **Co zrobić ze sprzętem po skończonym malowaniu?**
 
@@ -129,8 +129,8 @@ Malowanie ścian pistoletem zwykle kończy się na jednej warstwie farby, gdyż 
 W przypadku, gdy całe pomieszczenie ma zostać poddane renowacji,  najlepszym rozwiązaniem jest rozpoczęcie malowania od sufitu. W tym celu dobrze jest użyć wałka z długim uchwytem. Jest to zdecydowanie najwygodniejszy sposób na to, jak malować sufit.
 
 {% fig %}
-
 ![](/uploads/jak-malowac-sufit.jpg)
+{% endfig %}
 
 Malowanie najlepiej zacząć od części tuż obok okna, prowadząc wałek w kierunku środka sufitu. Dodatkowo, sufit przy oknie należy malować przeciągając farbę w tę samą stronę, w którą pada światło słoneczne. W ten sposób można łatwo uniknąć powstawania smug.
 
@@ -144,7 +144,7 @@ Aby optycznie powiększyć pomieszczenie, możesz lekko przeciągnąć kolor zna
 Cena za malowanie jest zależna od wielu czynników. Znaczący wpływ ma dobór farby oraz ilość zakupionych puszek. Na rynku znajduje się mnóstwo producentów farb naściennych, dzięki czemu można zdecydować, czy chce się korzystać z farb tańszych, przeciętnych, a może tych z wyższej półki. Ponadto, zwykle konieczny jest również zakup innych środków, takich jak na przykład preparat do gruntowania ścian.
 
 {% fig %}
-
 ![](/uploads/pedzel-1.jpg)
+{% endfig %}
 
 To ile kosztuje malowanie zależy również od wykorzystywanego akcesorium. Osoby, które wykonują malowanie pokoju po raz pierwszy muszą zaopatrzyć się w potrzebne narzędzia, które z pewnością zwiększają koszt remontu. Jednak przy odpowiedniej dbałości o pędzle i walki do malowania, narzędzia mogą z powodzeniem być wykorzystywane ponownie.
