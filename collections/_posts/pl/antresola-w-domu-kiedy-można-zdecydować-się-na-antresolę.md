@@ -19,11 +19,14 @@ Antresola to półpiętro, wydzielone w przestrzeni parteru, składające się z
 
 ### Antresola w domu - na co zwrócić szczególną uwagę?
 
-Antresola w domu może być bardzo praktycznym i funkcjonalnym rozwiązaniem. Jednak bez zachowania odpowiednich środków ostrożności może stać się również niebezpieczeństwem dla domowników. Wybierając antresolę należy zwrócić uwagę na wejście. Konieczna są schody - mogą być proste lub kręcone, najważniejsze aby miały zamocowaną poręcz, która jest gwarancją stabilności i chroni przed ześlizgnięciem się na dół. 
+Antresola w domu może być bardzo praktycznym i funkcjonalnym rozwiązaniem. Jednak bez zachowania odpowiednich środków ostrożności może stać się również niebezpieczeństwem dla domowników. Wybierając antresolę należy zwrócić uwagę na wejście. Konieczna są schody - mogą być proste lub kręcone, najważniejsze aby miały zamocowaną poręcz, która jest gwarancją stabilności i chroni przed ześlizgnięciem się na dół.
 
-  
 {:.distinction.distinction-information}
 Jeśli z antresoli nie będą korzystały dzieci, można zastąpić klasyczne schody nowoczesną drabinką. Wciąż jednak należy pamiętać o tym, aby była ona wystarczająco stabilna.
+
+Kolejnym ważnym aspektem jest właściwe ogrodzenie antresoli. Można to zrobić za pomocą barierek lub szklanych szyb. W ten sposób powstanie pomieszczenie na wzór balkonu. Innym nieco bardziej bezpiecznym rozwiązaniem (zwłaszcza dla najmłodszych) może być na przykład zabudowanie antresoli niższymi ścianami.
+
+Nie bez znaczenia jest również odpowiednie oświetlenie antresoli, ponieważ wymaga ona niezależnego źródła światła. Sam rodzaj oświetlenia nie ma jednak większego znaczenia. Zależy wyłącznie od preferencji domowników i przeznaczenia antresoli. A zatem może to być zarówno standardowe światło wiszące, kinkiety naścienne, jak i lampa stojąca.
 
 ### Jaką wysokość powinna mieć antresola w mieszkaniu?
 
