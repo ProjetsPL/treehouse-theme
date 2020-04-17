@@ -28,7 +28,6 @@ intro: Do you want to change something in your house but you don't have money no
   to come.
 image: "/uploads/renowacja-mebli-6-sprytnych-wskazowek-jak-odnowic-meble.jpg"
 related_products: []
-published: false
 
 ---
 ## Furniture repair at home – is it possible?
@@ -165,6 +164,8 @@ It is possible to reupholster your old furniture, although it is much more compl
 {% endfig %}
 
 There are some tips thank to which you might be able to **reupholster your sofa** or favourite armchair. Remember that patience is the key – you will need a lot of it. Apart from that you also need several tools:
+
+{:.list.list-positive}
 
 * new fabric to upholster the piece,
 * special tape – best if made of cotton, colored the same as the new fabric,
