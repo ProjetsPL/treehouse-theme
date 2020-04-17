@@ -22,7 +22,6 @@ Antresola to półpiętro, wydzielone w przestrzeni parteru, składające się z
 Antresola w mieszkaniu to świetny sposób na zaoszczędzenie miejsca, zwłaszcza jeśli mieszkanie nie należy do największych. Należy jednak pamiętać, że antresola jest praktyczna wyłącznie w naprawdę  wysokich budynkach. Z tego względu sprawdzi się więc świetnie w starym budownictwie, takim jak na przykład kamienice. Natomiast w przypadku niskich mieszkań, jak większość tych w blokach z dużej płyty, zamiast oszczędzić miejsce może przytłoczyć pomieszczenie, wywołując efekt zupełnie odwrotny do zamierzonego.
 
 {:.distinction.distinction-information}
-
 Aby osiągnąć komfort z użytkowania przestrzeni zarówno na, jak i pod antresolą, wysokość całkowita mieszkania powinna oscylować w okolicach 4,2 metra.
 
 Dobrą alternatywą dla nieco niższych mieszkań będzie antresola wybudowana w roli sypialni. Wówczas 
