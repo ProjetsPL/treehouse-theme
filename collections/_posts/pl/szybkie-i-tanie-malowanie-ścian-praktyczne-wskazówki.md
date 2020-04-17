@@ -33,7 +33,6 @@ Zabrudzenia ścian mają negatywny wpływ na przyczepność farby, dlatego mycie
 Przede wszystkim jest ono wskazane, jeśli na powierzchni ściany znajdują się zabrudzenia z tłuszczu. Najczęściej ma to miejsce w kuchni, ponieważ olej używany podczas gotowania może w łatwy sposób osadzić się na ścianach. Warto również wykonać mycie ścian przed malowaniem w pokoju dziecięcym, jako że dzieci mają naturalną tendencję do dotykania ścian rączkami, które nie zawsze mogą być czyste.
 
 {:.distinction.distinction-warning}
-
 Jeśli w Twoim domu mieszkają małe dzieci, warto zdecydować się na mycie ścian w każdym z pomieszczeń. Dzieci lubią dotykać ścian rączkami, dlatego warto wyczyścić przed malowaniem, zwłaszcza te obszary, do których dziecko może swobodnie dosięgnąć.
 
 ## Jak malować ściany?
