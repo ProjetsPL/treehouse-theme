@@ -23,7 +23,6 @@ Antresola w domu może być bardzo praktycznym i funkcjonalnym rozwiązaniem. Je
 
   
 {:.distinction.distinction-information}
-
 Jeśli z antresoli nie będą korzystały dzieci, można zastąpić klasyczne schody nowoczesną drabinką. Wciąż jednak należy pamiętać o tym, aby była ona wystarczająco stabilna.
 
 ### Jaką wysokość powinna mieć antresola w mieszkaniu?
