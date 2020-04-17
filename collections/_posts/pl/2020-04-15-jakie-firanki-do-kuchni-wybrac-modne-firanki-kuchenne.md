@@ -25,7 +25,7 @@ related_products: []
 ---
 ## Na co zwrócić uwagę przy wyborze firanki do kuchni?
 
-Wybór odpowiedniej firanki do kuchni dla wielu osób może stanowić wyzwanie. W sklepach wnętrzarskich lub pasmanteriach znajdziesz **różne modele firanek o zróżnicowanych krojach, kolorach, wzorach i wymiarach**. Często są one dopasowane do innych elementów wyposażenia kuchni - zasłon, obrusów lub serwetek. Wówczas aranżacja tworzy spójną całość.
+Wybór odpowiedniej firanki do kuchni dla wielu osób może stanowić wyzwanie. W sklepach wnętrzarskich lub pasmanteriach znajdziesz **różne modele firanek o zróżnicowanych krojach, kolorach, wzorach i wymiarach**. Często są one dopasowane do innych elementów wyposażenia kuchni - zasłon, obrusów lub serwetek. Wówczas **aranżacja tworzy spójną całość**.
 
 Wybierając firanki do kuchni, warto wziąć pod uwagę kilka bardzo ważnych kwestii. Są to:
 
