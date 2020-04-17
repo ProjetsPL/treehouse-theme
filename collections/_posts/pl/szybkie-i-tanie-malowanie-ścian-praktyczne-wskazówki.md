@@ -70,6 +70,7 @@ Uniwersalnym i najwygodniejszym rozwiązaniem do malowania dużych powierzchni j
 
 Pierwszy z nich przystosowany jest do malowania powierzchni gładkich, średni do ścian otapetowanych i tynku, natomiast największy wałek jest dedykowany powierzchniom chropowatym.
 
+{:.distinction.distinction-information}
 Oprócz długości ważna jest również jakość wałka oraz rodzaj runa, z jakiego został wykonany. Warto upewnić się przed użyciem, że z wałka nie odpada włosie, ponieważ będzie ono przyklejać się do ścian podczas malowania.
 
 Pędzel jest natomiast doskonałym narzędziem do malowania ścian w wąskich, trudno dostępnych miejscach. Należy jednak szczególnie uważać na ociekającą farbę, którą lepiej dobierać częściej, ale w mniejszych ilościach.
