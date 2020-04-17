@@ -40,7 +40,6 @@ Jeśli w Twoim domu mieszkają małe dzieci, warto zdecydować się na mycie śc
 Mycie ścian przed malowaniem skutecznie zapobiega odspajaniu farby. Proces ten należy również wykonać, jeśli na powierzchni ścian znajdują się:
 
 {:.list.list-negative}
-
 * grzyby i pleśni,
 * zażółcenia i ślady dymu papierosowego,
 * plamy od różnego rodzaju preparatów w płynie, np.: środków do dezynsekcji, odświeżaczy powietrza czy perfum.
@@ -65,7 +64,6 @@ Ważne aby malowanie ścian przebiegało w konkretnym kierunku. Farbę najlepiej
 Uniwersalnym i najwygodniejszym rozwiązaniem do malowania dużych powierzchni jest tradycyjny wałek. To narzędzie, dzięki któremu farba rozprowadzona jest równomiernie. i z taką samą intensywnością. Istnieją trzy rodzaje wałków do malowania, które różnią się między sobą długością włosia. Są to:
 
 {:.list}
-
 * wałek krótki - od 6 do 10 mm długości,
 * wałek średni - od 13 do 15 mm długości,
 * wałek długi - od 19 do 30 mm długości.
