@@ -7,14 +7,13 @@ description: "Szukasz koloru, który będzie idealnie pasował do każdego wnęt
   Postaw na antracyt! Kolor antracyt to prawdziwy hit 2020 roku. Przekonaj się sam."
 image: "/uploads/moda-na-antracyt.png"
 promoted: true
-update_date: 2020-04-09
-intro: Antracyt to kolor uniwersalny, który można wykorzystać w wielu różnych odsłonach,
-  a określany jest jako połączenie szarości - delikatnie wpadającej w czarny lub granatowy.
-  Bardzo często jest on mylony z kolorem grafitowym, chociaż w rzeczywistości jest
-  to zupełnie inna barwa. Ta intrygująco brzmiąca barwa może być stosowana jako tło,
-  ale także jako mocny akcent we wnętrzu. Nadaje się do ścian, mebli, dodatków, jak
-  również podłóg. Jak można wykorzystywać kolor antracytowy, żeby całość dobrze się
-  komponowała? Jakie dodatki w domu najlepiej prezentują się w tym odcieniu?
+update_date: 2020-04-19
+intro: Antracyt to kolor uniwersalny. Połączenie szarości z ciemniejszymi barwami
+  może być wykorzystane w wielu odsłonach. Antracyt bardzo często mylony się z kolorem
+  grafitowym lub barwą szarą - podczas, kiedy jest on odcieniem wyjątkowym. Kolor
+  antracyt może być tłem aranżacji lub mocnym akcentem we wnętrzu, pasuje do ścian,
+  mebli, dodatków i podłóg. Kolor antracytowy to także wyjątkowo popularna barwa w
+  2020 roku.
 main_keywords:
 - antracyt
 - antracyt kolor
