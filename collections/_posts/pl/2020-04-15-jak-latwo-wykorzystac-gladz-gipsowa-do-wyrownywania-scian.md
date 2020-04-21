@@ -21,7 +21,7 @@ intro: Gładź gipsowa to popularny sposób na wykończenie ścian podczas remon
   niemal nieograniczone możliwości w kwestii malowania ścian, czy aranżacji wnętrz.
   Zobacz, jak wykorzystać gładź i w jaki sposób nałożyć ją na ścianę, żeby uzyskać
   dobry wygląd każdego pomieszczenia.
-image: "/uploads/gladz-glowne.jpg"
+image: "/uploads/jak-latwo-wykorzystac-gladz-gipsowa-do-wyrownania-scian.jpg"
 related_products: []
 
 ---
