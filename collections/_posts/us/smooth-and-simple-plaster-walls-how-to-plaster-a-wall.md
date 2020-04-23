@@ -25,3 +25,24 @@ related_products: []
 published: false
 
 ---
+## What are plaster walls made of?
+
+**Plaster is a very popular construction material.** It can be used for coating walls and ceilings. It is one of the most popular types of materials used for **finishing** a room. It contains gypsum and chalk. Preparation often involves using special substance that delays its fixture. They are called plasticizers. They also determine how hard the plaster is. Using them results in **shorter time of drying**. Usually, one can start processing the surface approximately after 2 hours.
+
+## How to use finishing plaster?
+
+Gypsum plaster is primarily used for smoothening the external surface of a wall. It should be used on surfaces pargeted with cement or lime plaster. The substance is **100% ecological, giving a neutral reaction.** Those properties prevent mold and fungi growth on its surface. Walls plastering is a procees that prepares the surface for further actions, such as painting.
+
+{% fig %}
+
+![](/uploads/1-gladz.jpg)
+
+{% endfig %}
+
+Plaster can be used on surfaces made of:
+
+{:.list.list-positive}
+
+* gypsum boards,
+* fibre gypsum boards,
+* cement boards.
