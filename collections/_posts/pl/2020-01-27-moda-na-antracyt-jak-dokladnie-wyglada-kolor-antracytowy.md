@@ -203,7 +203,7 @@ Kolor antracytowy idealnie sprawdzi się w aranżacji nowoczesnej łazienki. Ist
 
 {% fig %}
 ![Antracyt, czyli pomysł na wystrój łazienki-1](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-1-4.jpg "Antracyt, czyli pomysł na wystrój łazienki-1")
-{% fig %}
+{% endfig %}
 
 {:.distinction.distinction-information}
 Kontrastowym rozwiązaniem jest zastosowanie elementów ceramiki w kolorze, jakim jest antracyt i wyłożenie ścian jasnymi kafelkami. Oba ze wspomnianych rozwiązań pozwolą na uzyskanie nowoczesnego wystroju **łazienki o oryginalnym charakterze.**
