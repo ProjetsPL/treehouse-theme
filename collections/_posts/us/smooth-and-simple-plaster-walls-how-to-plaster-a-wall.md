@@ -121,3 +121,17 @@ The tools you need to properly plaster wall:
 ![](/uploads/narzedzia-gladz.jpg)
 
 {% endfig %}
+
+The right type of plaster is the essential. The most popular type is gypsum plaster. The type of material you choose should be right for the surface you want to plaster. Pick the right material depending on its purpose. You might use plaster also to fill small scratches and lerger holes.
+
+**Regardless of the type of the surface, it always needs priming.** To do this, use a primer that is dedicated for the type of surface you own. Otherwise the product is not effective.
+
+{% faqItem %}
+{% faqQuestion %}
+How to plaster a wall?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+For the best durability, apply the plaster onto clean and primed surface. Wait around 20 minutes before applying the next layer. This way the walls will look smooth and aesthetic.
+{% endfaqAnswer %}
+{% endfaqItem %}
