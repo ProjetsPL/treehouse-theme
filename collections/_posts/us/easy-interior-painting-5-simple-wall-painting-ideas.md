@@ -28,3 +28,6 @@ related_products: []
 published: false
 
 ---
+## What should you know about wall painting?
+
+Painting walls means **covering a surface with a material** in a chosen color. Paint can be used to cover walls, but also **ceilings**. Wall painting is one of the most common activities performed during a room makeover - in addition to plastering and wallpapering. To paint a room, you might use common **acrylic paint** or choose **latex paint** that forms a special layer with "breathable" properties.
