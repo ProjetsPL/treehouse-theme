@@ -60,6 +60,14 @@ Charcoal works best as a wall colour in spacious and bright interiors. Such a ro
 {:.distinction.distinction-warning}
 If the room is very small, you shouldn’t paint the walls charcoal. Such a dark shade would overwhelm the already small space. A better idea is to paint the walls in different, brighter color that makes the room look bigger. You can use charcoal accessories instead - as accent elements.
 
+{% fig %}
+![Charcoal walls - a good idea? 1](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-1.jpg "Charcoal walls - a good idea? 1")
+{% endfig %}
+
+{% fig %}
+![Charcoal walls - a good idea? 2](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-2.jpg "Charcoal walls - a good idea? 2")
+{% endfig %}
+
 ### Charcoal walls - how to cover them to avoid surprises?
 
 Thinking of charcoal color walls, you’re probably imagining a charcoal paint. If you decide to use such a product, choose a **semi-gloss finish** for the best results. Feeling anxious that the color could overwhelm the room? You can always decide to paint only one accent wall in the dark shade and the rest in a brighter color (e.g. white).
@@ -80,6 +88,10 @@ If the walls are painted charcoal, it is best to choose furniture and decoration
 {:.distinction.distinction-information}
 A highly intriguing idea for a living room with charcoal walls is a sofa in a strong color, for instance blue or yellow. It makes the room look more vivid, and **charcoal walls bring out the strong color of the sofa**.
 
+{% fig %}
+![Accessories for dark walls](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-3.jpg "Accessories for dark walls")
+{% endfig %}
+
 ### Charcoal as an accent on a bright wall
 
 Charcoal is not always a suitable color for a wall. It does not mean that you have to abandon the idea of using it in your interior design. Luckily for you - charcoal is a perfect **accent color.**
@@ -88,6 +100,14 @@ If the interior is bright, choose dark **charcoal gray accessories** - for insta
 
 {:.distinction.distinction-information}
 Elements such as dark grey doors, radiators and windows are perfect for accentuating the room design. They make it look more vivid give it a unique character.
+
+{% fig %}
+![Charcoal as an accent on a bright wall](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-1-1.jpg "Charcoal as an accent on a bright wall")
+{% endfig %}
+
+{% fig %}
+![Charcoal as an accent on a bright wall 1](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-7-1.jpg "Charcoal as an accent on a bright wall 1")
+{% endfig %}
 
 ## Charcoal furniture - home decor trend of 2020
 
@@ -99,7 +119,15 @@ If you think that covering your walls with charcoal paint is rather too much, yo
 Charcoal furniture looks best on light, neutral backgrounds. Such an arrangement highlights the strong color, which is already a decorative element.
 
 {% fig %}
-![Charcoal furniture](/uploads/meble-w-kolorze-antracytu.jpg "Charcoal furniture")
+![Charcoal furniture - home decor trend of 2020](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-7.jpg "Charcoal furniture - home decor trend of 2020")
+{% endfig %}
+
+{% fig %}
+![Charcoal furniture - home decor trend of 2020 1](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-7-3.jpg "Charcoal furniture - home decor trend of 2020 1")
+{% endfig %}
+
+{% fig %}
+![Charcoal furniture - home decor trend of 2020 2](/uploads/meble-w-kolorze-antracytu.jpg "Charcoal furniture - home decor trend of 2020 2")
 {% endfig %}
 
 ### What are the rules when fitting charcoal furniture?
@@ -123,7 +151,11 @@ A color like this works great in big spaces, and there are practically endless p
 A focal point of a typical living room is the part where sofa or armchairs stand - or, in many cases, both. Those elements look fantastic in charcoal.
 
 {% fig %}
-![Charcoal to accentuate sofa and armchairs](/uploads/sofa-i-fotele-antracyt-doskonale-podkresli-ich-urok.jpg "Charcoal to accentuate sofa and armchairs")
+![Charcoal to accentuate sofa and armchairs](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-7-4.jpg "Charcoal to accentuate sofa and armchairs")
+{% endfig %}
+
+{% fig %}
+![Charcoal to accentuate sofa and armchairs 1](/uploads/sofa-i-fotele-antracyt-doskonale-podkresli-ich-urok.jpg "Charcoal to accentuate sofa and armchairs 1")
 {% endfig %}
 
 In this case choosing such a color may serve two purposes. First is introducing elegance and making the interior look more classy. The other function is simply keeping the furniture clean. It is much easier with a dark coloured sofa than with, for instance, a white one.
@@ -136,6 +168,10 @@ Not only classic, round coffee tables are getting attention. **Furniture of unus
 
 {:.distinction.distinction-information}
 Apart from classic tables with wooden legs in natural color, metal (golden or silver colored) bases are gaining popularity. Such an accessory looks much better in a modern than a classic interior - you should keep that in mind when furnishing your home.
+
+{% fig %}
+![Charcoal grey coffee tables](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-1-1-1.jpg "Charcoal grey coffee tables")
+{% endfig %}
 
 ## A cozy charcoal bedroom
 
@@ -151,12 +187,20 @@ Dreaming of an elegant, stylish bedroom? No problem - just pick a charcoal color
 
 **Upholstered furniture, similar to many other trends in 2020 - are coming back.** Beds in this style can be found in almost every furniture shop. Furthermore, charcoal is the real top trend of the latest season, and probably will be for a few next ones. Do you want to accentuate the elegance of your bedroom even more? Try an upholstered headboard - your bedroom will look exceptionally classy.
 
+{% fig %}
+![Charcoal - perfect for an upholstered bed](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-1-2.jpg "Charcoal - perfect for an upholstered bed")
+{% endfig %}
+
 ## Charcoal colored bathroom
 
 Charcoal grey is a perfect color for designing a modern bathroom. There are many uses for this shade - a good idea is to pick **charcoal tiles**. If your bathroom is small, you can add white tiles here and there to break the unified, dark color. Grey walls can be perfectly complemented with white elements, such as sink, toilet and bathtub.
 
 {% fig %}
 ![Charcoal colored bathroom](/uploads/antracyt-czyli-pomysl-na-wystroj-lazienki.jpg "Charcoal colored bathroom")
+{% endfig %}
+
+{% fig %}
+![Charcoal colored bathroom 1](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-1-4.jpg "Charcoal colored bathroom 1")
 {% endfig %}
 
 {:.distinction.distinction-information}
@@ -167,14 +211,34 @@ Quite a contrary solution is choosing charcoal elements and white walls. Both of
 Many homeowners might think that a charcoal kitchen is not a good idea. It is, however, a highly recommended solution, especially if you have a lot of free space.
 
 {% fig %}
-![A dark charcoal kitchen? A great idea!](/uploads/ciemna-kuchnia-w-kolorze-antracytowym-to-dobry-pomysl-1.jpg "A dark charcoal kitchen? A great idea!")
+![A dark charcoal kitchen? A great idea!](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-kuchnia.jpg "A dark charcoal kitchen? A great idea!")
+{% endfig %}
+
+{% fig %}
+![A dark charcoal kitchen? A great idea! 1](/uploads/ciemna-kuchnia-w-kolorze-antracytowym-to-dobry-pomysl-1.jpg "A dark charcoal kitchen? A great idea! 1")
 {% endfig %}
 
 **What works best in a charcoal kitchen?** Most of all - furniture. You do not necessarily have to choose dark cabinets. Charcoal accessories, such as chairs or lamps will be enough. They look perfect with white tiled walls - a stylish and trendy solution.
 
+{% fig %}
+![A dark charcoal kitchen? A great idea! 2](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-kuchnia 1.jpg "A dark charcoal kitchen? A great idea! 2")
+{% endfig %}
+
 ## Charcoal grey - do not use for a children’s room
 
 Are you looking for ideas to furnish your child’s room? Although charcoal is very versatile, it is definitely not suitable for a toddler’s room. **It is simply too dark.** In such a case it is better idea to pick bright pastel colors - they are more delicate.
+
+{% fig %}
+![Charcoal grey - do not use for a children’s room](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-pokoj-dziecka.jpg "Charcoal grey - do not use for a children’s room")
+{% endfig %}
+
+{% fig %}
+![Charcoal grey - do not use for a children’s room 1](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-pokoj-dziecka-2.jpg "Charcoal grey - do not use for a children’s room 1")
+{% endfig %}
+
+{% fig %}
+![Charcoal grey - do not use for a children’s room 2](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-pokoj-dziecka-1.jpg "Charcoal grey - do not use for a children’s room 2")
+{% endfig %}
 
 **Charcoal is an increasingly popular color - not without a reason**. You should consider using it in your home interior design. The fact that it is so dark and overwhelming might be discouraging. Nevertheless, if used skillfully, charcoal grey can be combined with other home decor elements to create a modern, stylish and original appearance.
 
