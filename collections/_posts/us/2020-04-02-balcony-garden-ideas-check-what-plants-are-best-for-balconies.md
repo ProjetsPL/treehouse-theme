@@ -9,7 +9,7 @@ main_keywords:
 - balcony flowers ideas
 toc: true
 promoted: false
-update_date: 2020-04-02
+update_date: 2020-04-24
 title: Balcony Garden Ideas - Check What Plants Are Best For Balconies
 description: "Which balcony garden plants to choose so that they grow beautifully?
   \U0001F33A This might be a tricky issue. Learn what balcony flowers are best for
