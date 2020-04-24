@@ -9,14 +9,12 @@ description: "Dreaming of a classy color to make your interior look stylish? \U0
 image: "/uploads/moda-na-antracyt.png"
 promoted: false
 update_date: 2020-04-24
-intro: 'Charcoal is a versatile color that can be used for many purposes. It is usually
+intro: Charcoal is a versatile color that can be used for many purposes. It is usually
   described as a mix of grey with a trace of black or navy blue. Very often mistaken
-  for graphite, in reality it is a completely different shade. Charcoal can be used
-  as a neutral background color, as well as a strong accent. You can use it to paint
-  walls or just pick individual charcoal grey items: furniture, accessories or flooring.
-  A significant advantage of charcoal is the fact that it blends well with any interior,
-  therefore you should consider using it for your interior design. How to do that?
-  What charcoal accessories are the best?'
+  for graphite, in reality it is a completely different, unique shade. Charcoal can
+  be used as a neutral background color, as well as a strong accent, it's perfect
+  for walls, furniture, accessories and flooring. Charcoal color is a very popular
+  color in 2020.
 main_keywords:
 - charcoal
 - charcoal color
