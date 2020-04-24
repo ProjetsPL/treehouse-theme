@@ -42,7 +42,7 @@ Jeżeli wnętrza Twojego domu są przestronne, ale Ty sam nie masz pojęcia, jak
 ![Antracyt - jaki to dokładnie kolor?](/uploads/antracyt-co-to-za-kolor.jpg "Antracyt - jaki to dokładnie kolor?")
 {% endfig %}
 
-Antracyt jest kolorem uniwersalnym, co zostało już wcześniej zaznaczone - w związku z tym można go dostosować tak naprawdę do każdego stylu. Dobrze sprawdzi się w nowoczesnych aranżacjach wnętrz. Pasuje szczególnie do **stylu skandynawskiego, industrialnego, jak i minimalistycznego**. Umiejętnie dopasowany kolor antracytowy nada pomieszczeniu indywidualnego i wyjątkowego charakteru, ożywiając wnętrze i podkreślając elementy wystroju.
+**Antracyt jest kolorem uniwersalnym**, co zostało już wcześniej zaznaczone - w związku z tym można go dostosować tak naprawdę do każdego stylu. Dobrze sprawdzi się w nowoczesnych aranżacjach wnętrz. Pasuje szczególnie do **stylu skandynawskiego, industrialnego, jak i minimalistycznego**. Umiejętnie dopasowany kolor antracytowy nada pomieszczeniu indywidualnego i wyjątkowego charakteru, ożywiając wnętrze i podkreślając elementy wystroju.
 
 ## Antracyt na ścianach - czy to dobry pomysł?
 
