@@ -23,18 +23,24 @@ image: "/uploads/kwiaty-na-balkon.jpg"
 related_products: []
 
 ---
+## What are the best balcony plants?
+
+Potted flowers such as miniature roses are perfect plants for balconies. **Miniature irises** or **convallarias** look particularly interesting on a balcony garden. You can buy the seeds in every garden shop. What other plants can grow on a balcony garden? Check peonies, lilies and dahlias - **_Dahlia pinnata_** is a remarkably beautiful flower.
+
+Choosing the right flowers for your balcony garden triggers several fundamental issues. Keep in mind that every balcony or patio has different factors. To make your task easier, you might refer to some guidelines from specialists. Use their knowledge to learn how to make your balcony garden splendid.
+
 ## Balcony garden - important aspects
 
-Flowers are one of the most popular balcony decorations. Usually they are not very difficult to take care of. Nevertheless, many homeowners struggle to choose the right **plant for their balcony garden**. Before purchasing anything, one should think everything trough and consider several important aspects.
+Flowers are one of the most popular balcony decorations. Usually, they are not very difficult to take care of. Nevertheless, many homeowners struggle to choose the right **plant for their balcony garden**. Before purchasing anything, you should think everything trough and consider several important aspects.
 
 ### Balcony garden plants - the environment
 
-On of the most important criterion that the choice depends on is the **environment of the balcony**. Therefore one might ask: what balcony plants to choose for a balcony facing south or north? Which species are better for a sunny place and which are better to grow in shade? The struggle is real. Plants growing on a sunny balcony, for instance, should be resistant to overdrying. Another important issue is the amount of time that one is able to spend on taking care of their plants. **Certain species require regular fertilizing, trimming and misting.** There are also plants that require watering only.
+On of the most important criterion that the choice depends on is the **environment of the balcony**. Therefore, one might ask: what balcony plants to choose for a balcony facing south or north? Which species are better for a sunny place, and which are better to grow in shade? The struggle is real. Plants growing on a sunny balcony, for instance, should be resistant to overdrying. Another important issue is the amount of time that one is able to spend on taking care of their plants. **Certain species require regular fertilizing, trimming and misting.** There are also plants that require only watering.
 
-**One’s individual taste also matters.** It is good to consider the colour scheme and general decor of the balcony, and choose plants accordingly. If one lives in an apartment block, the aesthetics of a building as a whole should be kept in mind. One should be aware whether the owner of the building has set a guideline on the allowed plants.
+**One’s individual taste also matters.** It is good to consider the colour scheme and general decor of the balcony and choose plants accordingly. If one lives in an apartment block, the aesthetics of a building as a whole should be kept in mind. One should be aware whether the owner of the building has set a guideline on the allowed plants.
 
 {:.distinction.distinction-warning}
-It is nice to remember about your neighbours. If you live upstairs, avoid trees and vines that shed leaves in autumn. They might litter the balcony of your neighbour. In some cases one should also decide against hanging planters outside the railing. They pose a threat of falling off and seriously hurting someone.
+It is nice to remember about your neighbours. If you live upstairs, avoid trees and vines that shed leaves in autumn. They might litter the balcony of your neighbour. In some cases one should also decide against hanging planters outside the railing. They might fall off and seriously hurting someone.
 
 {% fig %}
 ![](/uploads/kwiaty-na-balkonie-warunki-uprawy.jpg)
@@ -72,9 +78,9 @@ Balconies **facing north and east** receive the least amount of sun throughout t
 {:.list.list-positive}
 
 * **Begonia** - a very decorative plant with colourful flowers. There are also types with decorative leaves. It is very easy to take care of.
-* **Touch-Me-Not** - it is an annual plant. It’s characteristic feature is a lot of flowers. Touch-Me-Nots like wet soil, therefore they should be often watered.
-* **Fuchsia** - this plant for a balcony garden has a purple-red flowers. It can grow upwards with the help of sticks or it can dangle downwards. It’s an annual plant, however it can be taken inside for winter.
-* **Forget-Me-Not** - this gorgeous plant loves both shade and sun. Shady spots are better, making them bloom even two months longer. A forget-me-not has small blue flowers.
+* **Touch-me-not** - it is an annual plant. Its characteristic feature is a lot of flowers. Touch-me-nots like wet soil, therefore they should be often watered.
+* **Fuchsia** - this plant for a balcony garden has a purple-red flowers. It can grow upwards with the help of sticks, or it can dangle downwards. It’s an annual plant, however it can be taken inside for winter.
+* **Forget-me-not** - this gorgeous plant loves both shade and sun. Shady spots are better, making them bloom even two months longer. A forget-me-not has small blue flowers.
 * **Flossflower** - those plants are commonly placed in a balcony garden because they bloom for a long time. The flowers are bushy, purple or pink.
 * **Spiderwort** - they are not very demanding plants, which makes them perfect for a balcony garden. They have purple flowers and long green leaves that look like grass.
 
@@ -86,9 +92,9 @@ Because the air on a shady balcony garden is not dry or hot, the plants require 
 
 ## Balcony flowers - arrangement ideas
 
-Carefully selected balcony garden plants are not enough to make the place look good. One should think of a **proper arrangement** of the plants and match them, creating interesting forms. Which flowers can be used together depends on their individual needs, shapes and colours.
+Carefully selected balcony garden plants are not enough to make the place look good. One should think of a **proper arrangement** of the plants and match them, creating interesting forms. What flowers can be used together depends on their individual needs, shapes and colours.
 
-It is important that flowers planted in one pot have similar needs. Plants loving damp soil cannot share a box with the ones that need scarce watering. For this reason one cannot match a plant such as fern with lobelia which hates too much water. An example for a good flower arrangement is placing a **begonia and a plecanthrus** in one planter. Both of those species do not like excessive watering, therefore they should grow well in each other’s company. Plecanthrus is a versatile plant that can grow in a sunny balcony garden as well. One can match it with geranium, for instance. Even though geranium needs a lot of water, it evaporates quickly enough, not damaging the plecanthrus.
+It is important that flowers planted in one pot have similar needs. Plants loving damp soil cannot share a box with the ones that need scarce watering. For this reason one cannot match a plant such as fern with lobelia which hates too much water. An example for a good flower arrangement is placing a **begonia and a plecanthrus** in one planter. Both of those species do not like excessive watering, therefore they should grow well in each other’s company. Plecanthrus is a versatile plant that can grow in a sunny balcony garden as well. One can match it with a geranium, for instance. Even though geranium needs a lot of water, it evaporates quickly enough, not damaging the plecanthrus.
 
 The colours depend on one’s individual taste, but also on the decor of the balcony. It is a good idea to **match similar colours in various shades**, such as pink and purple. Pastel tones accompanied by white is another great idea, in case strong colours seem too loud. Apart from the colour of the flowers, one should also think of the shade of the boxes.
 
@@ -106,7 +112,7 @@ Grasses and sedges might be very decorative balcony garden plants. Available spe
 ![](/uploads/rosliny-na-balkon-trawy-i-bluszcze.jpg)
 {% endfig %}
 
-Yet another idea is planting **vines and ivies** in your balcony garden. They are not only very decorative, but they also provide shade for a sunny balcony. This way one can create a secluded, green corner, separating themselves from neighbours and street noise. The choice is wide - one can pick quickly growing annual vines such as sweet pea or moonflower. Perennial plants such as ivy or honeysuckle grow slower but they are more durable.
+Yet another idea is planting **vines and ivies** in your balcony garden. They are not only very decorative, but they also provide shade for a sunny balcony. This way one can create a secluded, green corner, separating themselves from neighbours and street noise. The choice is wide - one can pick quickly growing annual vines such as sweet pea or moonflower. Perennial plants such as ivy or honeysuckle grow slower, but they are more durable.
 
 Growing plants on your balcony is a great idea to decorate the place. Carefully selected balcony garden plants can help you create a pleasant spot for relaxation. Spending a summer afternoon on a balcony being surrounded by plants is a great way to unwind and just chill out.
 
