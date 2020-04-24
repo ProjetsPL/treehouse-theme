@@ -35,7 +35,7 @@ Gypsum plaster is primarily used for smoothening the external surface of a wall.
 
 {% fig %}
 
-![](/uploads/1-gladz.jpg)
+![How to use finishing plaster?](/uploads/1-gladz.jpg "How to use finishing plaster?")
 
 {% endfig %}
 
@@ -46,3 +46,78 @@ Plaster can be used on surfaces made of:
 * gypsum boards,
 * fibre gypsum boards,
 * cement boards.
+
+You should **avoid putting plaster onto a raw surface** because this type of walls are not suited for such material. Wet surfaces also should be avoided - for instance in bathrooms. Excessive humidity might cause cracks and the plaster might peel off the surface.
+
+## How to plaster a wall? Step by step guide
+
+Finishing a wall with plaster need **a lot of precision**. The process of smoothing and evening the same spot over and over might seem tiresome at the beginning. After you get the feel of it, it shouldn't be problematic.
+
+{:.distinction.distinction-warning}
+
+Remember that wall plaster layer cannot be too thick. Overly dense layers of plaster might crack and break after drying.
+
+### Preparing the surface
+
+At the very beginning you should prepare the room. Wall plaster might easily stain and damage furniture, therefore you should remove any objects from the room. If that's not possible, cover it with protective sheets. Don't forget to secure doors and windows.
+
+{% fig %}
+
+![Preparing the surface](/uploads/folia-gladz.jpg "Preparing the surface")
+
+{% endfig %}
+
+The next step is priming the wall that is going to be plastered. If the surface has low absorptiveness, use a product that increases adhesiveness. If the absorption is high, use something that reduces it.
+
+To mix the plaster up, take a bucket with water and pour substance in it - adjust the amount so that you can work approximately for 30-45 minutes. It is very highly important - **plaster loses its flexibility with time**. Wait for several minutes and mix the plaster thoroughly using a drill.
+
+### Wall plastering - how to plaster a wall?
+
+Start from putting the plaster onto the external corners. **Use a float for application** and a trowel for spreading on the surface. After finishing the corners, spread the plaster onto the whole wall. If you're planning to plaster the whole room, apply the material onto the ceiling as well.
+
+{:.distinction.distinction-information}
+
+Specialists suggest puting just one layer of plaster. If needed, you may apply two or three thin layers. Wait approximately 20 minutes between each application. Every new layer should be applied perpendicularly to the previous one.
+
+Because plaster has low resistance to hits, the corners of walls need to be strengthened with aluminium angles. It concerns the outer surface. To do it, sinkt the element in the parget and plaster it over.
+
+{% fig %}
+
+![](/uploads/szpachl-gladz.jpg)
+
+{% endfig %}
+
+After finishing, wait until the plaster wall dries completely. If the plaster is smooth and it looks aestheic, you might additionally sand the surface. All what's left before painting is priming the wall.
+
+{:.distinction.distinction-information}
+
+To achieve the best results, start painting no sonner than 24 hours after the plaster dries.
+
+### Wet plastering - how to do that?
+
+Wet plastering is a very popular method for a quick finish. It involves applying a layer of plaster onto the first layer that has not dried completely. This method requires **extra caution**, however it significantly speeds up the work.
+
+After the two layers dry, you can smoothen the surface with water instead of using sand paper. Just dampen the wall with clean water and then smoothen it using a steel float. Make sure the second layer is dry before starting with this method.
+
+## Everything you need to plaster walls
+
+The process of applying wall plaster requires using special **tools and materials.** Without a professional equipment plastering will not be effective.
+
+The tools you need to properly plaster wall:
+
+{:.list}
+
+* a trowel,
+* a float,
+* a brush for priming,
+* a bucket,
+* a drill with paddle mixer,
+* sanding paper,
+* aluminium angles,
+* a level.
+
+{% fig %}
+
+![](/uploads/narzedzia-gladz.jpg)
+
+{% endfig %}
