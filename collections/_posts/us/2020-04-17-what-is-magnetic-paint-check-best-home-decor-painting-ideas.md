@@ -13,7 +13,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-04-17
-title: What is Magnetic Paint? Best Home Decor Painting Ideas
+title: What is Magnetic Paint? Check Best Home Decor Painting Ideas
 description: "Looking for an easy idea to make your interior more interesting? \U0001F3A8
   Try magnetic paint and create a functional and stylish space. \U0001F449 Learn how
   it works!"
@@ -23,7 +23,6 @@ intro: Bored with the old, classic look of your interior? Planning to refresh yo
   new look. Try chalkboard paint and enjoy magnificent results!
 image: "/uploads/farba-tablicowa.jpg"
 related_products: []
-published: false
 
 ---
 ## How to use magnetic paint?
@@ -49,7 +48,6 @@ Painting with magnetic paint is quite different than using usual product. **Impr
 Before applying the paint you should prepare and clean the painted surface. It must be dry and smooth. If you want to apply magnetic paint to a surface that is slick or shiny, you should **sand it**. Wooden surfaces require using a primer before applying the paint.
 
 {:.distinction.distinction-information}
-
 To achieve successful and aesthetic results, start painting from mixing the paint, using a wooden stick. This way you can be sure that the iron filings will be applied to the surface with a brush and that they won't stay at the bottom of the can.
 
 Cover the wall thoroughly with a **layer of magnetic paint**. Adding more layers results in better magnetic properties - apply at least 3 of them. Remember to keep equal time gaps between adding each layer.
@@ -61,7 +59,6 @@ Cover the wall thoroughly with a **layer of magnetic paint**. Adding more layers
 You are free to choose any painting technique. DIY magnetic boards can take any shape, regardless of the surface. It all depends on your own preferences. By using just one type of magnetic paint, you might create a traditional, rectangular board or pick other shapes, for instance a house, a teddy bear or a princess castle - those forms are perfect for a children's room.
 
 {:.distinction.distinction-information}
-
 If you aim at a particular, more complicated shape, it is a good idea to use a stencil. This way painting is easier and the walls are protected against accidental splashing.
 
 If the wall is going to be touched frequently and the magnets are going to be often moved around, consider **coating it with a layer of varnish**. You might choose either shiny or matt coating. It is an effective way to protect the wall against scratches and dirt - perfect for **kitchen** or **children's room**.
@@ -73,15 +70,12 @@ Magnetic chalkboard paint is a product of a wider use. As the name indicates - *
 What is more, **magnetic chalkboard paint** allows you to write or draw with chalk, and wipe the surface afterwards. A wall covered with chalkboard paint may be wiped with a piece of cloth, dry or dampened with water.
 
 {:.distinction.distinction-warning}
-
 Careful! Do not use detergents to wipe surface covered with magnetic chalkboard paint. It might damage the paint and, in some cases, the wall.
 
 Magnetic chakboard paint is a popular solution for a **children's room**. It is not a secret that children love drawing on walls. Usually it ends up with walls renovation or redecoration. In this case it is not necessary! Magnetic chalkboard paint allows your **toddler to be creative in a specially designated place**. A wall painted with a chalkboard paint is a fantastic idea for a children's room. It can make studying much more pleasant. Small artist will appreciate the opportunity to express themselves anywhere, even on walls.
 
 {% fig %}
-
 ![Magnetic chalkboard paint - ideal for children's room](/uploads/idealna-do-pokoju dziecięcego-farba-tablicowa-magnetyczna.jpg "Magnetic chalkboard paint - ideal for children's room")
-
 {% endfig %}
 
 ### Where else can you use chalkboard paint?
@@ -101,7 +95,6 @@ Apart from walls, you might use chalkboard paint also to cover objects. You migh
 Magnetic chalkboard paint is used for attaching notes and drawings to it, as well as for writing and drawing on it. For this reason it is sold in two colors - black and grey.
 
 {:.distinction.distinction-information}
-
 Initially, the only option was black magnetic chalkboard paint. Grey chalkboard paint appeared later.
 
 An interesting fact is that magnetic chalkboard paint, covered with other type of paint keeps its magnetic properties. If you do it, it cannot be used for writing with chalk anymore. For this reason you shouldn't coat chalkboard paint with anything.
