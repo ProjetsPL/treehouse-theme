@@ -8,15 +8,15 @@ description: "Dreaming of a classy color to make your interior look stylish? \U0
   to its popularity!"
 image: "/uploads/moda-na-antracyt.png"
 promoted: false
-update_date: 2020-04-10
+update_date: 2020-04-24
 intro: 'Charcoal is a versatile color that can be used for many purposes. It is usually
-  described as a mix of grey with a trace of black or navy blue. It is very often
-  mistaken for graphite, although in reality it is a completely different shade. Charcoal
-  can be used as a neutral background color, as well as a strong accent. You can use
-  it to paint walls or just pick individual charcoal grey items: furniture, accessories
-  or flooring. A significant advantage of charcoal is the fact that it blends well
-  with any interior, therefore you should consider using it for your interior design.
-  How to do that? What charcoal accessories are the best?'
+  described as a mix of grey with a trace of black or navy blue. Very often mistaken
+  for graphite, in reality it is a completely different shade. Charcoal can be used
+  as a neutral background color, as well as a strong accent. You can use it to paint
+  walls or just pick individual charcoal grey items: furniture, accessories or flooring.
+  A significant advantage of charcoal is the fact that it blends well with any interior,
+  therefore you should consider using it for your interior design. How to do that?
+  What charcoal accessories are the best?'
 main_keywords:
 - charcoal
 - charcoal color
@@ -191,7 +191,7 @@ Dreaming of an elegant, stylish bedroom? No problem - just pick a charcoal color
 ![Charcoal - perfect for an upholstered bed](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-1-2.jpg "Charcoal - perfect for an upholstered bed")
 {% endfig %}
 
-## Charcoal colored bathroom
+## A charcoal colored bathroom
 
 Charcoal grey is a perfect color for designing a modern bathroom. There are many uses for this shade - a good idea is to pick **charcoal tiles**. If your bathroom is small, you can add white tiles here and there to break the unified, dark color. Grey walls can be perfectly complemented with white elements, such as sink, toilet and bathtub.
 
@@ -224,9 +224,9 @@ Many homeowners might think that a charcoal kitchen is not a good idea. It is, h
 ![A dark charcoal kitchen? A great idea! 2](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-kuchnia 1.jpg "A dark charcoal kitchen? A great idea! 2")
 {% endfig %}
 
-## Charcoal grey - do not use for a children’s room
+## Charcoal grey for a children's room? Only in a good combination!
 
-Are you looking for ideas to furnish your child’s room? Although charcoal is very versatile, it is definitely not suitable for a toddler’s room. **It is simply too dark.** In such a case it is better idea to pick bright pastel colors - they are more delicate.
+Are you looking for ideas to furnish your child’s room? Although charcoal is very versatile, it is definitely not suitable for a toddler’s room. **It is simply too dark and difficult to integrate into this type of interior.** If you are not afraid of risk, choose delicate pastels and bright colors, and match them with charcoal accesories. You can ask a specialist to make you a project based on your preferences.
 
 {% fig %}
 ![Charcoal grey - do not use for a children’s room](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-pokoj-dziecka.jpg "Charcoal grey - do not use for a children’s room")
