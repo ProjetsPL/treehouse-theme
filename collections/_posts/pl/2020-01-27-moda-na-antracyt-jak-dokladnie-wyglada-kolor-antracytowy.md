@@ -121,12 +121,12 @@ Jeżeli kolor, którym jest antracyt jako pokrycie ścian to dla Ciebie zbyt du�
 Meble antracytowe najlepiej wyglądają na tle jasnych, neutralnych ścian. Mają wtedy szansę wyróżnić się mocnym odcieniem, który sam w sobie stanowi dekorację.
 
 {% fig %}
-
 ![Meble w kolorze antracytu - modny trend 2020 roku-2](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-7.jpg "Meble w kolorze antracytu - modny trend 2020 roku-2")
-
 {% endfig %}
 
+{% fig %}
 ![Meble w kolorze antracytu - modny trend 2020 roku-1](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-7-3.jpg "Meble w kolorze antracytu - modny trend 2020 roku-1")
+{% endfig %}
 
 {% fig %}
 ![Meble w kolorze antracytu - modny trend 2020 roku](/uploads/meble-w-kolorze-antracytu.jpg "Meble w kolorze antracytu - modny trend 2020 roku")
@@ -152,7 +152,9 @@ Ten kolor w większych przestrzeniach sprawdza się naprawdę doskonale, a **mo�
 
 Centralnym punktem każdego salonu jest tak zwana **część wypoczynkowa**, gdzie znajduje się sofa lub fotele, a czasem połączenie tych elementów - które mogą być w kolorze antracytu.
 
+{% fig %}
 ![Sofa i fotele - antracyt doskonale podkreśli ich urok-1](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-7-4.jpg "Sofa i fotele - antracyt doskonale podkreśli ich urok-1")
+{% endfig %}
 
 {% fig %}
 ![Sofa i fotele - antracyt doskonale podkreśli ich urok](/uploads/sofa-i-fotele-antracyt-doskonale-podkresli-ich-urok.jpg "Sofa i fotele - antracyt doskonale podkreśli ich urok")
@@ -169,7 +171,9 @@ Stoliki kawowe powracają do łask i w ostatnim czasie cieszą się naprawdę og
 {:.distinction.distinction-information}
 Oprócz klasycznych mebli, gdzie podstawą dla stolika są drewniane nogi w naturalnym kolorze, stają się również metalowe podstawy - w srebrze i złocie. Taki dodatek prezentuje się jednak znacznie lepiej w nowoczesnych, niż klasycznych wnętrzach - co powinieneś wziąć pod uwagę przy urządzaniu wnętrza.
 
+{% fig %}
 ![Stylowe stoliki kawowe w kolorze antracytu](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-1-1-1.jpg "Stylowe stoliki kawowe w kolorze antracytu")
+{% endfig %}
 
 ## Przytulna sypialnia w kolorze antracytowym
 
@@ -185,7 +189,9 @@ Zależy Ci na eleganckiej i stylowej sypialni? Nic trudnego - wystarczy, że wyb
 
 **Tapicerowane meble w 2020 roku podobnie jak wiele innych trendów - powracają na salony.** Łóżka w tym stylu można znaleźć niemal w każdym sklepie z wyposażeniem do domu. Modele w kolorze antracytu to natomiast prawdziwy hit, który prawdopodobnie będzie rządził jeszcze przez kilka najbliższych sezonów. Chcesz jeszcze bardziej podkreślić elegancję wnętrza sypialni? Postaw na pikowany zagłówek w łóżku - sprawdź, jak stylowo może prezentować się Twoja sypialnia.
 
+{% fig %}
 ![Antracyt doskonały przy tapicerowanym łóżku](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-1-2.jpg "Antracyt doskonały przy tapicerowanym łóżku")
+{% endfig %}
 
 ## Antracyt, czyli pomysł na wystrój łazienki
 
@@ -195,7 +201,9 @@ Kolor antracytowy idealnie sprawdzi się w aranżacji nowoczesnej łazienki. Ist
 ![Antracyt, czyli pomysł na wystrój łazienki](/uploads/antracyt-czyli-pomysl-na-wystroj-lazienki.jpg "Antracyt, czyli pomysł na wystrój łazienki")
 {% endfig %}
 
+{% fig %}
 ![Antracyt, czyli pomysł na wystrój łazienki-1](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-1-4.jpg "Antracyt, czyli pomysł na wystrój łazienki-1")
+{% fig %}
 
 {:.distinction.distinction-information}
 Kontrastowym rozwiązaniem jest zastosowanie elementów ceramiki w kolorze, jakim jest antracyt i wyłożenie ścian jasnymi kafelkami. Oba ze wspomnianych rozwiązań pozwolą na uzyskanie nowoczesnego wystroju **łazienki o oryginalnym charakterze.**
@@ -204,7 +212,9 @@ Kontrastowym rozwiązaniem jest zastosowanie elementów ceramiki w kolorze, jaki
 
 Chociaż wiele osób obawia się, że antracytowa kuchnia nie jest najlepszym pomysłem - warto zdecydować się na takie rozwiązanie, szczególnie wtedy, kiedy dysponujesz dużą przestrzenią.
 
+{% fig %}
 ![Ciemna kuchnia w kolorze antracytowym? To dobry pomysł!-1](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-kuchnia.jpg "Ciemna kuchnia w kolorze antracytowym? To dobry pomysł!-1")
+{% endfig %}
 
 {% fig %}
 ![Ciemna kuchnia w kolorze antracytowym? To dobry pomysł!](/uploads/ciemna-kuchnia-w-kolorze-antracytowym-to-dobry-pomysl-1.jpg "Ciemna kuchnia w kolorze antracytowym? To dobry pomysł!")
@@ -212,17 +222,25 @@ Chociaż wiele osób obawia się, że antracytowa kuchnia nie jest najlepszym po
 
 **Co sprawdzi się w przypadku antracytowej kuchni?** Przede wszystkim meble. Niekoniecznie musisz stawiać na ciemną zabudowę. Doskonale sprawdzą się w tym przypadku np. krzesła albo lampy. W połączeniu np. z białą cegiełką na ścianie będą wyglądały bardzo stylowo, a jednocześnie nowocześnie.
 
+{% fig %}
 ![Ciemna kuchnia w kolorze antracytowym? To dobry pomysł!-2](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-kuchnia 1.jpg "Ciemna kuchnia w kolorze antracytowym? To dobry pomysł!-2")
+{% endfig %}
 
 ## Antracyt - kolor do pokoju dziecięcego? Tylko w dobrym zestawieniu
 
 Zastanawiasz się nad aranżacją pokoju swojego dziecka? Chociaż kolor antracytowy jest bardzo uniwersalny, to w większości przypadków nie pasuje do wnętrz przeznaczonych dla malucha. **Jest on zbyt ciemny i trudno wkomponować tę barwę w tego typu wnętrza.** Jeżeli jednak nie boisz się ryzykować - postaw na pastele i jasne odcienie, które będą zdecydowanie delikatniejsze i połącz je z ciemnym antracytem np. w dodatkach. Możesz też zlecić to zadanie projektantowi wnętrz, który na podstawie przedstawionych przez Ciebie aranżacji - dopasuje odcień do wnętrza i wykona projekt.
 
+{% fig %}
 ![Antracyt - kolor do pokoju dziecięcego? Tylko w dobrym zestawieniu](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-pokoj-dziecka.jpg "Antracyt - kolor do pokoju dziecięcego? Tylko w dobrym zestawieniu")
+{% endfig %}
 
+{% fig %}
 ![Antracyt - kolor do pokoju dziecięcego? Tylko w dobrym zestawieniu-1](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-pokoj-dziecka-2.jpg "Antracyt - kolor do pokoju dziecięcego? Tylko w dobrym zestawieniu-1")
+{% endfig %}
 
+{% fig %}
 ![Antracyt - kolor do pokoju dziecięcego? Tylko w dobrym zestawieniu-2](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-pokoj-dziecka-1.jpg "Antracyt - kolor do pokoju dziecięcego? Tylko w dobrym zestawieniu-2")
+{% endfig %}
 
 **Antracyt to modny kolor, który nie bez powodu zyskuje na popularności.** Warto rozważyć jego zastosowanie w wystroju wnętrz. Zniechęcający może być fakt, że antracyt w pewnych zestawieniach jest ciemną i przytłaczającą barwą. Jednak jego umiejętne połączenie z pozostałymi elementami wystroju pozwoli na uzyskanie pomieszczenia o nowoczesnym i stylowym wyglądzie.
 
