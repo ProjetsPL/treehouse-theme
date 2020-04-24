@@ -11,7 +11,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-04-23
-title: Smooth and Simple Plaster Walls. How to Plaster a Wall?
+title: Smooth and Simple Plaster Walls. Check How to Plaster a Wall
 description: "Want to learn a secret to perfectly smooth plaster walls? \U0001F481‍♂️
   It's easier than you think! \U0001F449 Check how to plaster a wall, even if you
   are not a professional!"
@@ -34,15 +34,12 @@ published: false
 Gypsum plaster is primarily used for smoothening the external surface of a wall. It should be used on surfaces pargeted with cement or lime plaster. This interesting substance is **100% ecological, giving a neutral reaction.** Those properties prevent mold and fungi growth on its surface. Wall plastering is a process that prepares the surface for further actions, such as painting.
 
 {% fig %}
-
 ![How to use finishing plaster?](/uploads/1-gladz.jpg "How to use finishing plaster?")
-
 {% endfig %}
 
 Plaster can be used on surfaces made of:
 
 {:.list.list-positive}
-
 * gypsum boards,
 * fibre gypsum boards,
 * cement boards.
@@ -54,7 +51,6 @@ Be careful - you should **avoid putting plaster onto a raw surface** because thi
 The process of smoothing and evening the same spot over and over initially might seem tiresome. Finishing plaster walls requires **a lot of precision**. Don't worry - after you get the feel of it, it shouldn't be too problematic.
 
 {:.distinction.distinction-warning}
-
 Remember that wall plaster layer cannot be too thick. Overly dense layers of plaster might crack and break after drying.
 
 ### Preparing the surface - like a professional
@@ -62,9 +58,7 @@ Remember that wall plaster layer cannot be too thick. Overly dense layers of pla
 At the very beginning you should prepare the room. Wall plaster might easily stain and damage furniture, therefore you should remove any objects from the room. If that's not possible, cover it with protective sheets. Don't forget to secure doors and windows.
 
 {% fig %}
-
 ![Preparing the surface](/uploads/folia-gladz.jpg "Preparing the surface")
-
 {% endfig %}
 
 The next step is priming the wall that is going to be plastered. If the surface has low absorptiveness, you should apply a product that increases adhesiveness. If the absorption is high, use the appropriate product to reduce it.
@@ -76,21 +70,17 @@ To mix the plaster up, take a bucket with water and pour the substance in it - a
 Start from putting the plaster onto the external corners. **Use a float for application** and a trowel for spreading. After finishing the corners, spread the plaster onto the whole wall. Planning to plaster the whole room? Apply the material onto the ceiling as well.
 
 {:.distinction.distinction-information}
-
 Specialists recommend putting only one layer of plaster. If needed, you may apply two or three thinner layers. Wait approximately 20 minutes between each application. Every new layer should be applied perpendicularly to the previous one.
 
 Because plaster has low resistance to hits, the wall corners need to be strengthened with aluminium angles. It concerns the outer surface. To do it, sink the element in the parget and plaster it over.
 
 {% fig %}
-
 ![Wall plastering - how to plaster a wall?](/uploads/szpachl-gladz.jpg "Wall plastering - how to plaster a wall?")
-
 {% endfig %}
 
 After finishing, simply wait until the plaster walls dry completely. Check if the plaster is smooth and aesthetic. If not, you might additionally sand the surface. Remember to prime the wall before painting.
 
 {:.distinction.distinction-information}
-
 To achieve the best results, start painting no sooner than 24 hours after the plaster dries.
 
 ### Wet plastering - what is it and how to do that?
@@ -106,7 +96,6 @@ The process of applying wall plaster requires using special **tools and material
 The tools you need to properly plaster walls:
 
 {:.list}
-
 * a trowel,
 * a float,
 * a brush for priming,
@@ -117,9 +106,7 @@ The tools you need to properly plaster walls:
 * a level.
 
 {% fig %}
-
 ![All you need to plaster walls](/uploads/narzedzia-gladz.jpg "All you need to plaster walls")
-
 {% endfig %}
 
 The most essential material is the right type of plaster. Gypsum plaster is the most common. The type of material you choose should be appropriate for the surface you want to plaster. Pick the right material depending on its purpose. You might use plaster also to fill small scratches and larger holes.
@@ -132,9 +119,6 @@ How to plaster a wall?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-
-For the best durability, apply the plaster onto a clean and primed surface. Wait around 20 minutes before applying the next layer. This way the walls will look smooth and aesthetic. 
-
+For the best durability, apply the plaster onto a clean and primed surface. Wait around 20 minutes before applying the next layer. This way the walls will look smooth and aesthetic.
 {% endfaqAnswer %}
-
 {% endfaqItem %}
