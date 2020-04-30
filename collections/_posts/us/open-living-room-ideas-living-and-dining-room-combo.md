@@ -85,4 +85,6 @@ A big living room and dining room combo might be arranged in one style, although
 
 {% endfig %}
 
-## 
+## Small interiors open living room ideas
+
+Apartments available on the market often have up to 40-60 square meters. Such a small space creates a necessity of creating a **living room and dining room combo**. Very often also a kitchen is added to this open floor plan. Such a space usually contains around 20 square meters, which need to be carefully designed so that the interior keeps its harmony, with each area functionally divided.
