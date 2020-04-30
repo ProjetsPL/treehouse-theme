@@ -40,11 +40,11 @@ You don't have to be a professional to paint your walls. All you need to do is u
 
 Start painting your walls from **mixing the paint thoroughly**. Then, using a roller or a brush, paint over the surface along boards and corners, covering all smaller spaces. The last step is painting all remaining large surfaces.
 
-It is important to **paint in the right direction**. Apply the paint from bottom to top, and then, along the same line from top to bottom. Remember to apply several layers of paint, distributing it evenly. This method ensures that the wall color looks solid.
+It is important to **paint in the right direction**. Apply the paint from bottom to top, and then, along the same line from top to bottom. Remember to apply several layers of paint, distributing it **evenly**. This method ensures that the wall color looks solid.
 
 ### **Brush or roller? Wall painting techniques**
 
-If you paint large surfaces, the most universal and **convenient tool** is a traditional roller. It allows for even paint distribution and with the same intensity at every spot. There are three types of paint rollers - they have various naps. They are:
+If you paint large surfaces, the most universal and **convenient tool** is a **traditional roller**. It allows for even paint distribution and with the same intensity at every spot. There are three types of paint rollers - they have various naps. They are:
 
 {:.list}
 
@@ -90,13 +90,13 @@ If there are at least two people painting walls, the risk of smudges is smaller.
 
 ### **What to do with the tools after you finish painting?**
 
-If you have finished paining walls, take care of the tools and other products you have been using. If you're just taking a break and plan to continue painting the next day, put the dirty brushes and the roller in an airtight plastic bag.
+If you have finished paining walls, **take care of the tools** and other products you have been using. If you're just taking a break and plan to continue painting the next day, put the dirty brushes and the roller in an airtight plastic bag.
 
-If all painting works are finished, remember to clean every tool thoroughly. Close the paint containers, otherwise they will dry and you will not be able to use them again.
+If all painting works are finished, remember to **clean every tool thoroughly**. Close the paint containers, otherwise they will dry and you will not be able to use them again.
 
 ## Painting walls with a paint sprayer - a curious and quick room painting idea
 
-Painting walls with a paint sprayer involves using a special unit that spreads the paint onto the surface using high pressure. It is a very interesting and unusual method for interior painting, although it might be problematic for some people.
+Painting walls with a paint sprayer involves using a special unit that **spreads the paint on the surface using high pressure**. It is a very interesting and unusual method for interior painting, although it might be problematic for some people.
 
 Before using the sprayer, you should prepare it - pour the paint into it. Make sure to test it before applying the paint on the wall. It's important to keep the right pressure level (around 3 bars) as you work, as well as maintain a proper distance (15-20 cm/6-7 inches). Otherwise, the paint might cover the walls unevenly,casing unaesthetic-looking smudges.
 
@@ -106,7 +106,7 @@ Painting walls with a sprayer typically requires only one layer of paint - with 
 
 ## How to paint a ceiling?
 
-If you're planning to paint the whole room, the best way is to start from the ceiling. To do this, use a roller with a long handle to apply the ceiling paint. It is definitely an easier method to cover the ceiling quickly.
+If you're planning to paint the whole room, the best way is to **start from the ceiling**. To do this, use a roller with a long handle to apply the ceiling paint. It is definitely an easier method to cover the ceiling quickly.
 
 {% fig %}
 
@@ -114,9 +114,9 @@ If you're planning to paint the whole room, the best way is to start from the ce
 
 {% endfig %}
 
-Start applying paint from the spot right by the window, leading the roller towards the middle of the ceiling. When painting the ceiling by the window, drag the paint in the same direction as the sunrays go. This way you can avoid smudges.
+Start applying paint from the spot right by the window, leading the roller towards the middle of the ceiling. When painting the ceiling by the window, **drag the paint in the same direction as the sunrays go**. This way you can avoid smudges.
 
-The most popular ceiling paint color is white in various shades and temperatures. It makes the room look bright and it's not tiring. In some interiors, such as bedrooms the ceiling paint color is the same as walls. This way the room looks darker, which improves the quality of sleep.
+The most popular ceiling paint color is **white in various shades and temperatures**. It makes the room look bright and it's not tiring. In some interiors, such as bedrooms the ceiling paint color is the same as walls. This way the room looks darker, which improves the quality of sleep.
 
 {:.distinction.distinction-information}
 
@@ -124,7 +124,7 @@ To make the room seem bigger, drag the color of the ceiling paint onto the side 
 
 ## Wall painting - price
 
-The price of painting a room by a specialist varies, depending on different factors. The major element influencing the expenses is the type of the wall paint. There are many various paints on the market, so it is easier to decide whether to choose cheap, medium or expensive products. What's more, you should also purchase other materials, such as primer.
+The price of painting a room by a specialist varies, **depending on different factors**. The major element influencing the expenses is the type of the wall paint. There are many various paints on the market, so it is easier to decide whether to choose cheap, medium or expensive products. What's more, you should also purchase other materials, such as primer.
 
 {% fig %}
 
@@ -136,11 +136,11 @@ The total cost of painting a room also depends on the tools you use. If you pain
 
 ## Washing walls before painting - why is it so important?
 
-Dirt on walls has a negative impact on the paint adhesiveness, therefore it is crucial to wash them before painting. It should become a routine when preparing before a room makeover. In some cases washing the walls is absolutely necessary if you want to achieve a long-lasting and really fresh results.
+**Dirt on walls has a negative impact on the paint adhesiveness**, therefore it is crucial to wash them before painting. It should become a routine when preparing before a room makeover. In some cases washing the walls is absolutely necessary if you want to achieve a long-lasting and really fresh results.
 
 ### When cleaning walls is necessary?
 
-It is advised especially, if there are greasy stains on the surface. It occurs most often in the kitchen, as the oil you use for cooking easily spreads onto the walls. Wall washing is also suggested before painting a children's room, as children like touching walls with their hands, which are not always clean.
+It is advised especially, if there are **greasy stains** on the surface. It occurs most often in the kitchen, as the oil you use for cooking easily **spreads onto the walls**. Wall washing is also suggested before painting a children's room, as children like touching walls with their hands, which are not always clean.
 
 **Washing walls before painting prevents the paint from peeling off.** It should also be done, if you noticed the following substances on the walls:
 
@@ -161,7 +161,7 @@ Choose **wall cleaning products** according to how heavily the wall is stained a
 
 {% endfig %}
 
-Such a solution might be not enough for large and very greasy stains or for mold and fungi. In this case washing walls with sugar soap. To do it, dilute the right amount of soap in water, as stated in the instruction. Then clean the walls using a sponge. After you're finished, rinse the surface with clean water to avoid a soapy residue.
+Such a solution might be not enough for large and very greasy stains or for mold and fungi. In this case **washing walls with sugar soap before wall painting** might be effective. To do it, dilute the right amount of soap in water, as stated in the instruction. Then clean the walls using a sponge. After you're finished, rinse the surface with clean water to avoid a soapy residue.
 
 {% faqItem %}
 {% faqQuestion %}
