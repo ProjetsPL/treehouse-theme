@@ -14,7 +14,7 @@ update_date: 2020-04-17
 title: Antresola w domu. Kiedy można zdecydować się na antresolę?
 description: Marzysz o stylowym i praktycznym wnętrzu? Antresola w domu pozwoli Ci
   zaoszczędzić mnóstwo miejsca. Stwórz dodatkową przestrzeń i ciesz się spektakularnym
-  efektem.
+  efektem!
 intro: Marzysz o stylowym i funkcjonalnym wnętrzu? Antresola w domu to świetny sposób,
   aby maksymalnie wykorzystać potencjał Twojego wnętrza. Budując antresolę zyskujesz
   na półpiętrze zupełnie nowe pomieszczenie, którego możesz użyć w dowolny, wybrany
