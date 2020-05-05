@@ -58,7 +58,10 @@ Na etapie projektowania warto również zatroszczyć się o instalację elektryc
 
 Kolejnym krokiem jest zamówienie wszystkich potrzebnych elementów. Antresolę najczęściej buduje się z drewna, dlatego w tym celu należy udać się na przykład do tartaku. Po pokazaniu projektu pracownicy będą wiedzieli, jaki finalnie ma być oczekiwany produkt.
 
-Zdecydowanie najważniejszym etapem budowy antresoli jest wywiercenie otworów i zamontowanie belek podtrzymujących całość konstrukcji. Tę czynność można wykonać samemu, bazując na instrukcjach budowlanych. Jednak, aby mieć stuprocentową pewność, że antresola jest w pełni bezpieczna i solidnie zbudowana, warto powierzyć to zadanie prawdziwym specjalistom. Fachowcy nie tylko przygotują, ale również przytwierdzą belki do ściany i zabezpieczą całość konstrukcji. Przymocowane belki trzeba odpowiednio wykończyć i otynkować. 
+Zdecydowanie najważniejszym etapem budowy antresoli jest wywiercenie otworów i zamontowanie belek podtrzymujących całość konstrukcji. Tę czynność można wykonać samemu, bazując na instrukcjach budowlanych. Jednak, aby mieć stuprocentową pewność, że antresola jest w pełni bezpieczna i solidnie zbudowana, warto powierzyć to zadanie prawdziwym specjalistom. Fachowcy nie tylko przygotują, ale również przytwierdzą belki do ściany i zabezpieczą całość konstrukcji. Przymocowane belki trzeba odpowiednio wykończyć i otynkować.
+
+{% fig %}
+
 
 Ostatnim krokiem wykonanie podłogi, którą przykręca się do zamocowanych wcześniej belek, a następnie dopasowanie schodów lub samodzielne wykonanie drabinki.
 
@@ -81,7 +84,7 @@ Jeśli natomiast garderoba nie brzmi zbyt przekonująco, antresola w sypialni mo
 
 ### Antresola w pokoju dziecięcym
 
-Z biegiem lat coraz popularniejsza staje się również antresola umieszczana w pokoju dziecięcym, która sprawdza się tam doskonale.  Rodzice decydują się na nią głównie dlatego, że pozwala ona zaoszczędzić znaczną ilość miejsca, co może być kluczowe w przypadku gdy jeden pokój dzieli kilkoro dzieci. 
+Z biegiem lat coraz popularniejsza staje się również antresola umieszczana w pokoju dziecięcym, która sprawdza się tam doskonale.  Rodzice decydują się na nią głównie dlatego, że pozwala ona zaoszczędzić znaczną ilość miejsca, co może być kluczowe w przypadku gdy jeden pokój dzieli kilkoro dzieci.
 
 Jednak antresola w pokoju dziecięcym posiada również wiele innych zastosowań. Traktując antresolę jako miejsce do spania, pozyskuje się dodatkowe miejsce, na przykład na biurko do odrabiania lekcji. Poza tym, antresola, niczym łóżko piętrowe, może być dla dziecka czymś naprawdę wyjątkowym. To doskonałe miejsce do zabawy, w którym mali odkrywcy mogą puścić wolno wodze fantazji.
 
