@@ -61,7 +61,8 @@ Kolejnym krokiem jest zamówienie wszystkich potrzebnych elementów. Antresolę 
 Zdecydowanie najważniejszym etapem budowy antresoli jest wywiercenie otworów i zamontowanie belek podtrzymujących całość konstrukcji. Tę czynność można wykonać samemu, bazując na instrukcjach budowlanych. Jednak, aby mieć stuprocentową pewność, że antresola jest w pełni bezpieczna i solidnie zbudowana, warto powierzyć to zadanie prawdziwym specjalistom. Fachowcy nie tylko przygotują, ale również przytwierdzą belki do ściany i zabezpieczą całość konstrukcji. Przymocowane belki trzeba odpowiednio wykończyć i otynkować.
 
 {% fig %}
-
+![](/uploads/drilling.jpg)
+{% endfig %}
 
 Ostatnim krokiem wykonanie podłogi, którą przykręca się do zamocowanych wcześniej belek, a następnie dopasowanie schodów lub samodzielne wykonanie drabinki.
 
