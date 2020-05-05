@@ -95,6 +95,10 @@ Chociaż antresola w domu wygląda bardzo efektownie, potrafi być również wym
 
 Jeden z największych problemów może stanowić ogrzewanie domu z antresolą. Ciepłe powietrze unosi się do góry, co wywołuje konieczność silniejszego ogrzewania pomieszczeń, aby zachować optymalną temperaturę na dole, gdzie mimo wszystko przebywa się znaczną większość czasu. Jednak w przypadku umieszczenia antresoli, całe ciepło będzie kumulować się nie na, lecz pod sufitem. W takiej sytuacji, korzystanie z antresoli zimą może być niekomfortowe, ze względu na zbyt wysoką temperaturę i zaduch spowodowany ogrzewaniem. Utrzymanie takiej samej temperatury zarówno pod jak i na antresoli staje się więc niemal niemożliwe, przez co któreś z pomieszczeń zawsze będzie niedogrzane lub wręcz przesadnie zagrzane.
 
+{% fig %}
+![](/uploads/czy-antresola-ma-jakies-wady.jpg)
+{% endfig %}
+
 Problemy może generować również specyficzna budowa antresoli. Jako, że antresola nie jest w pełni zabudowana, pozostaje przestrzenią otwartą przez co nie jest w stanie chociażby izolować dźwięków. Odgłosy puszczonej muzyki, telewizora czy rozmów rozchodzą się po całym domu, co może zakłócać nie tylko spokój, ale i poczucie prywatności mieszkańców.
 
 {% faqItem %}
