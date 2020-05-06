@@ -24,6 +24,10 @@ published: false
 
 Skrzydłokwiat to ozdobna roślina doniczkowa z rodziny roślin rdestowatych lub ciborowatych. W odróżnieniu od innych gatunków ozdobnych wyróżnia ją nie tylko ciekawy wygląd, ale również wyjątkowe właściwości zdrowotne. Największą popularnością wśród skrzydłokwiatów cieszy się odmiana Spathiphyllum floribundum, której charakterystyczne białe kwiatostany stanowią ozdobę niejednego salonu lub sypialni.
 
+{% fig %}
+![](/uploads/skrzydlokwiat-nie-kwitnie.jpg)
+{% endfig %}
+
 ### Dlaczego skrzydłokwiat może zastąpić oczyszczacz powietrza?
 
 Wyjątkowe właściwości skrzydłokwiatu zostały sprawdzone i potwierdzone przez NASA za pomocą szeregu szczegółowych badań, które wykazały zdolność skrzydłokwiatu do zwalczania aż 5 szkodliwych związków chemicznych, które mogą znajdować się w zamkniętych pomieszczeniach, takich jak:
@@ -85,9 +89,7 @@ Twój skrzydłokwiat nie kwitnie? Sprawdź, jak temu zaradzić. Czasami wystarcz
 
 Podlewanie skrzydłokwiatu ma bardzo duży wpływ na jego kwitnienie i odpowiedni wzrost. Podczas tego procesu ważne jest aby dostarczyć roślinie odpowiednią ilość wody z odpowiednią częstotliwością podlewania. Należy także zwrócić szczególną uwagę na jakość i temperaturę wody, gdyż podlewanie wodą zbyt twardą lub zimną źle wpływa na kwitnienie skrzydłokwiatu. Aby zapewnić mu prawidłowy wzrost i pielęgnację, najlepszym rozwiązaniem jest nawadnianie rośliny przestudzoną wodą przegotowaną lub wodą odstaną o temperaturze pokojowej.
 
-{% fig %}
-![](/uploads/skrzydlokwiat-nie-kwitnie.jpg)
-{% endfig %}
+
 
 ### Źle dobrany nawóz
 
