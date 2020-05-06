@@ -29,6 +29,7 @@ Skrzydłokwiat to ozdobna roślina doniczkowa z rodziny roślin rdestowatych lub
 Wyjątkowe właściwości skrzydłokwiatu zostały sprawdzone i potwierdzone przez NASA za pomocą szeregu szczegółowych badań, które wykazały zdolność skrzydłokwiatu do zwalczania aż 5 szkodliwych związków chemicznych, które mogą znajdować się w zamkniętych pomieszczeniach, takich jak:
 
 {:.list.list-negative}
+
 * ksylen - wykorzystywany w przemyśle lakierniczym,
 * benzen - używany do produkcji klejów, farb i tworzywa sztucznego,
 * formaldehyd - stosowany jako konserwant w środkach higieny, jak np.: mydła, szampony,
@@ -49,17 +50,26 @@ Mimo swoich wyjątkowych właściwości skrzydłokwiat może okazać się trują
 
 Mimo iż zdecydowanie najczęściej spotykaną odmianą skrzydłokwiatu jest Spathiphyllum floribundum, czyli skrzydłokwiat kwiecisty ta wyjątkowa roślina występuje jeszcze w 48 innych gatunkach. Jakie odmiany skrzydłokwiatu warto mieć w swoim domu?
 
-Zdecydowanie warty uwagi jest skrzydłokwiat Walissa, inaczej Spathiphyllum wallisii. To kwiat przeznaczony wyłącznie do uprawy hodowlanej - jest więc idealnym gatunkiem do zasadzenia w domu. Skrzydłokwiat Walissa występuje aż w pięciu różnych odmianach, różniących się od siebie objętością i wysokością. Są to: Yess, Clevelandi, Euro Giant, Sensacion oraz Mauna Loa.
+Zdecydowanie warty uwagi jest skrzydłokwiat Walissa, inaczej Spathiphyllum wallisii. Ten kwiat przeznaczony jest wyłącznie do uprawy hodowlanej, a zatem idealnie sprawdzi się do zasadzenia w domu. Skrzydłokwiat Walissa występuje aż w pięciu różnych odmianach, różniących się od siebie objętością i wysokością. Są to: Yess, Clevelandi, Euro Giant, Sensacion oraz Mauna Loa.
 
 {% fig %}  
 ![](/uploads/skrzydlokwiat-odmiany.jpg)
 {% endfig %}
 
-## Skrzydłokwiat - uprawa roślin obrazkowatych
+## Skrzydłokwiat pielęgnacja i uprawa - jak dbać o rośliny ozdobne?
 
-skrzydłokwiat podlewanie
+Uprawa hodowlanych roślin obrazkowatych nie jest skomplikowana, a  sam skrzydłokwiat wymaga od hodowcy niewiele uwagi. Najważniejszym elementem jest nie ilość a regularność w pielęgnacji rośliny, która zapewni jej długą żywotność i piękne kwitnienie.
 
-## Skrzydłokwiat pielęgnacja - jak dbać o rośliny ozdobne?
+Wybierając miejsce w którym stanie donica ze skrzydłokwiatem, warto zdecydować się na takie z niewielkim dostępem światła. Temperatura pomieszczenia również jest nie bez znaczenia, ponieważ skrzydłolisty najlepiej rozwijają się w temperaturze pomiędzy 18 a 22 stopnie Celsjusza. 
+
+Skrzydłolisty są przystosowane do kwitnienia w dużej wilgotoności, jako że same na co dzień pomagają utrzymać ją w pomieszczeniu. Z tego względu niezwykle istotnym elementem pielęgnacji jest odpowiednie nawadnianie rośliny. To nie tylko regularne podlewanie skrzydłokwiatu, ale również zraszanie powierzchni liści. 
+
+Prawidłowa uprawa roślin wiąże się również z regularnym nawożeniem podczas kwitnienia, które w przypadku skrzydłokwiatu odbywa się wyjątkowo długo, bo kilka miesięcy w ciągu jednego roku. Raz w roku, na wiosnę należy również przesadzić skrzydłolist do nowej ziemi. 
+
+{:.distinction.distinction-information}  
+Podczas nawożenia skrzydłokwiatów dobrze jest zwrócić uwagę na kolor ich liści. Jeśli jest on bardzo intensywnie zielony jest oznaką o  zbyt dużej ilości nawozu podanej dla jednego kwiatu.
+
+## Skrzydłokwiat pielęgnacja - uprawa roślin 
 
 ## Skrzydłokwiat - cena
 
