@@ -14,7 +14,12 @@ promoted: false
 update_date: 2020-05-05
 title: Czy skrzydłokwiat w domu może zastąpić oczyszczacz powietrza?
 description: Czy skrzydłokwiat w domu może zastąpić oczyszczacz powietrza?
-intro: Czy skrzydłokwiat w domu może zastąpić oczyszczacz powietrza?
+intro: 'Urządzenia służące do filtracji powietrza są ostatnimi czasy bardzo powszechne.
+  Jednak zakup takiego urządzenia wiąże się zwykle z niemałym wydatkiem. Tymczasem
+  skrzydłokwiat to roślina o wyjątkowych właściwościach, która nie tylko pięknie wygląda,
+  ale również posiada właściwości odpowiadające za oczyszczanie powietrza w pomieszczeniu.
+  To nie tylko tańszy, ale również bardziej naturalny i estetyczny sposób na czyste
+  i zdrowe powietrze. '
 image: "/uploads/skrzydlokwiat-glowne.jpg"
 related_products: []
 published: false
