@@ -51,6 +51,8 @@ Substancje te są bardzo niebezpieczne dla zdrowia, ponieważ posiadają właśc
 {:.distinction.distinction-information}  
 Skrzydłokwiat jest rośliną doskonałą nie tylko do salonu czy sypialni. Ze względu na swoje właściwości sprawdzi się również świetnie do biura i pomieszczeń z dużą ilością elektroniki.
 
+
+
 Kolejną istotną właściwością skrzydłolistu jest zdolność do lekkiego nawilżania powietrza. Z tego względu warto mieć go w swoim domu szczególnie w okresie zimowym, podczas gdy powietrze docierające z zewnątrz jest wyjątkowo suche. Ponadto skrzydłokwiat jest doskonałym pochłaniaczem drobnoustrojów i zarodników pleśni. Sprawdzi się więc doskonale u alergików, a także u osób miewających problemy z oddychaniem. Według badań wyjątkowo długi okres kwitnienia skrzydłolistu wpływa również pozytywnie na nastrój w pomieszczeniu oraz zwiększa poczucie zrelaksowania u przebywających w nim osób.
 
 {:.distinction.distinction-warning}  
@@ -91,6 +93,8 @@ Podczas nawożenia skrzydłokwiatów dobrze jest zwrócić uwagę na kolor ich l
 
 Cena skrzydłokwiatu jest bardzo przystępna i zwykle wynosi około 35 zł za sztukę. Koszt może różnić się w zależności od miejsca zakupu oraz poziomu wzrostu i kwitnienia kwiatów. Te sprzedawane w kwiaciarniach lub specjalistycznych sklepach ogrodniczych są zwykle nieco droższe, (ale również lepsze jakościowo) od tych, które można znaleźć na hali w supermarketach.
 
+![](/uploads/skrzydlokwiat-jako-oczyszczacz-powietrza.jpg)
+
 ## Skrzydłokwiat nie kwitnie? Poznaj 4 najczęstsze powody
 
 Twój skrzydłokwiat nie kwitnie? Sprawdź, jak temu zaradzić. Czasami wystarczy drobna zmiana, aby kwitnienie przebiegało prawidłowo. Oto cztery najczęstsze błędy popełniane w hodowli skrzydłokwiatu.
@@ -113,6 +117,8 @@ Niemałe znaczenie ma również sadzenie i przesadzanie skrzydłokwiatu. Błędn
 
 {:.distinction.distinction-information}  
 Zbyt częste przesadzanie skrzydłokwiatów również zaburza ich prawidłowe kwitnienie i rozwój. Dlatego tego typu rośliny należy przesadzać wyłącznie, gdy jest to konieczne - np. gdy donica jest już zbyt mała lub została uszkodzona.
+
+![](/uploads/skrzydlokwiat-uprawa.jpg)
 
 ### Skrzydłokwiat zbyt często podlewany
 
