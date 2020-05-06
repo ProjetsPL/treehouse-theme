@@ -50,7 +50,8 @@ Mimo iż zdecydowanie najczęściej spotykaną odmianą skrzydłokwiatu jest Spa
 
 Zdecydowanie warty uwagi jest skrzydłokwiat Walissa, inaczej Spathiphyllum wallisii. To kwiat przeznaczony wyłącznie do uprawy hodowlanej - jest więc idealnym gatunkiem do zasadzenia w domu. Skrzydłokwiat Walissa występuje aż w pięciu różnych odmianach, różniących się od siebie objętością i wysokością. Są to: Yess, Clevelandi, Euro Giant, Sensacion oraz Mauna Loa.
 
-{% fig %}
+{% fig %}  
+![](/uploads/skrzydlokwiat-odmiany.jpg)
 
 ## Skrzydłokwiat - uprawa roślin obrazkowatych
 
