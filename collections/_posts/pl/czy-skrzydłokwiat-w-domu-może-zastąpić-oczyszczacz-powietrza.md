@@ -26,7 +26,7 @@ related_products: []
 published: false
 
 ---
-## Skrzydłokwiat - roślina o wyjątkowych właściwościach
+## Czym jest skrzydłokwiat i co go wyróżnia?
 
 Skrzydłokwiat to ozdobna roślina doniczkowa z rodziny roślin rdestowatych lub ciborowatych. W odróżnieniu od innych gatunków ozdobnych wyróżnia ją nie tylko ciekawy wygląd, ale również wyjątkowe właściwości zdrowotne. Największą popularnością wśród skrzydłokwiatów cieszy się odmiana Spathiphyllum floribundum, której charakterystyczne białe kwiatostany stanowią ozdobę niejednego salonu lub sypialni.
 
@@ -64,6 +64,10 @@ Zdecydowanie warty uwagi jest skrzydłokwiat Walissa, inaczej Spathiphyllum wall
 
 {% fig %}  
 ![](/uploads/skrzydlokwiat-odmiany.jpg)
+{% endfig %}
+
+{% fig %}
+![](/uploads/skrzydlokwiat-odmiany2.jpg)
 {% endfig %}
 
 ## Skrzydłokwiat pielęgnacja i uprawa - jak dbać o rośliny ozdobne?
@@ -124,25 +128,25 @@ Zaburzenia kwitnienia skrzydłokwiatu mogą być zależne od wielu czynników. J
 {% endfaqAnswer %}
 {% endfaqItem %}
 
-{% faqItem %} {% faqQuestion %}   
+{% faqItem %} {% faqQuestion %}  
 Jak pielęgnować skrzydłokwiat?  
- {% endfaqQuestion %}
+{% endfaqQuestion %}
 
-{% faqAnswer %}   
+{% faqAnswer %}  
 Najważniejszym elementem pielęgnacji skrzydłokwiatu jest jego regularne nawadnianie. Powinno się to odbywać zarówno poprzez podlewanie, jak i zraszanie liści. Warto również zatroszczyć się o odpowiedni nawóz oraz zadbać o niewielki dostęp rośliny do światła dziennego.  
- {% endfaqAnswer %} {% endfaqItem %}
+{% endfaqAnswer %} {% endfaqItem %}
 
-{% faqItem %} {% faqQuestion %}   
+{% faqItem %} {% faqQuestion %}  
 Skrzydłokwiat jaka ziemia?  
- {% endfaqQuestion %}
+{% endfaqQuestion %}
 
-{% faqAnswer %}   
+{% faqAnswer %}  
 Skrzydłokwiaty powinny rosnąć w ziemi luźnej, próchniczej i żyznej o umiarkowanej wilgotności. Bardzo ważne jest coroczne przesadzanie skrzydłokwiatów. Każdej wiosny ziemię powinno wymieniać się na nową.  
 {% endfaqAnswer %} {% endfaqItem %}
 
-{% faqItem %} {% faqQuestion %}   
+{% faqItem %} {% faqQuestion %}  
 Jak uratować skrzydłokwiat?  
- {% endfaqQuestion %}
+{% endfaqQuestion %}
 
 {% faqAnswer %}
 Niestety uratowanie więdnącego kwiatu nie zawsze jest możliwe. Jednak przypadku przelania wystarczy zatroszczyć się o wymianę ziemi i odpowiednią warstwę drenażu, która zapobiega gniciu korzeni. Natomiast w przypadku suchych, żółknących liści dobrze jest zacząć od sprawdzenia używanego nawozu i ewentualnej jego zmiany.
