@@ -51,7 +51,7 @@ Substancje te są bardzo niebezpieczne dla zdrowia, ponieważ posiadają właśc
 {:.distinction.distinction-information}  
 Skrzydłokwiat jest rośliną doskonałą nie tylko do salonu czy sypialni. Ze względu na swoje właściwości sprawdzi się również świetnie do biura i pomieszczeń z dużą ilością elektroniki.
 
-
+![](/uploads/interior-2598110_1280.jpg)
 
 Kolejną istotną właściwością skrzydłolistu jest zdolność do lekkiego nawilżania powietrza. Z tego względu warto mieć go w swoim domu szczególnie w okresie zimowym, podczas gdy powietrze docierające z zewnątrz jest wyjątkowo suche. Ponadto skrzydłokwiat jest doskonałym pochłaniaczem drobnoustrojów i zarodników pleśni. Sprawdzi się więc doskonale u alergików, a także u osób miewających problemy z oddychaniem. Według badań wyjątkowo długi okres kwitnienia skrzydłolistu wpływa również pozytywnie na nastrój w pomieszczeniu oraz zwiększa poczucie zrelaksowania u przebywających w nim osób.
 
@@ -107,10 +107,6 @@ Chociaż w odróżnieniu od większości roślin doniczkowych, skrzydłokwiat je
 ![](/uploads/bledy-w-hodowli-skrzydlokwiatu.jpg)
 {% endfig %}
 
-### Źle dobrany nawóz
-
-Jedną z przyczyn w zaburzeniach kwitnienia może być również źle dobrany nawóz. Wybierając konkretny środek do nawożenia, należy zwrócić szczególną uwagę na jego konsystencję i stężenie. Nawóz powinien być płynny, podawany raz na dwa tygodnie podczas podlewania rośliny.
-
 ### Wielkość donicy nieproporcjonalna do sadzonych kwiatów
 
 Niemałe znaczenie ma również sadzenie i przesadzanie skrzydłokwiatu. Błędnym przekonaniem jest, że kwiat zasadzony w dużej doniczce lepiej się rozwija, ponieważ ma do tego więcej miejsca. Przesadzanie skrzydłokwiatu do zbyt dużych doniczek może spowodować problem z jego prawidłowym kwitnieniem. Z tego względu najlepiej dobrać donicę, która będzie wprost proporcjonalna do wybranej rośliny.
@@ -118,11 +114,22 @@ Niemałe znaczenie ma również sadzenie i przesadzanie skrzydłokwiatu. Błędn
 {:.distinction.distinction-information}  
 Zbyt częste przesadzanie skrzydłokwiatów również zaburza ich prawidłowe kwitnienie i rozwój. Dlatego tego typu rośliny należy przesadzać wyłącznie, gdy jest to konieczne - np. gdy donica jest już zbyt mała lub została uszkodzona.
 
+{% fig %}
 ![](/uploads/skrzydlokwiat-uprawa.jpg)
+
+### Źle dobrany nawóz
+
+Jedną z przyczyn w zaburzeniach kwitnienia może być również źle dobrany nawóz. Wybierając konkretny środek do nawożenia, należy zwrócić szczególną uwagę na jego konsystencję i stężenie. Nawóz powinien być płynny, podawany raz na dwa tygodnie podczas podlewania rośliny.
+
+{% fig %}
+![](/uploads/zle-dobrany-nawoz.jpg)
 
 ### Skrzydłokwiat zbyt często podlewany
 
 Podlewanie skrzydłokwiatu ma bardzo duży wpływ na jego kwitnienie i odpowiedni wzrost. Podczas tego procesu ważne jest aby dostarczyć roślinie odpowiednią ilość wody z odpowiednią częstotliwością podlewania. Należy także zwrócić szczególną uwagę na jakość i temperaturę wody, gdyż podlewanie wodą zbyt twardą lub zimną źle wpływa na kwitnienie skrzydłokwiatu. Aby zapewnić mu prawidłowy wzrost i pielęgnację, najlepszym rozwiązaniem jest nawadnianie rośliny przestudzoną wodą przegotowaną lub wodą odstaną o temperaturze pokojowej.
+
+{% fig %}
+![](/uploads/zbyt-czeste-podlewanie-skrzydlokwiatu.jpg)
 
 {% faqItem %}
 {% faqQuestion %}
