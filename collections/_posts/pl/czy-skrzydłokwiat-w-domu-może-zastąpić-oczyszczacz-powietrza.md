@@ -60,16 +60,18 @@ Zdecydowanie warty uwagi jest skrzydłokwiat Walissa, inaczej Spathiphyllum wall
 
 Uprawa hodowlanych roślin obrazkowatych nie jest skomplikowana, a  sam skrzydłokwiat wymaga od hodowcy niewiele uwagi. Najważniejszym elementem jest nie ilość a regularność w pielęgnacji rośliny, która zapewni jej długą żywotność i piękne kwitnienie.
 
-Wybierając miejsce w którym stanie donica ze skrzydłokwiatem, warto zdecydować się na takie z niewielkim dostępem światła. Temperatura pomieszczenia również jest nie bez znaczenia, ponieważ skrzydłolisty najlepiej rozwijają się w temperaturze pomiędzy 18 a 22 stopnie Celsjusza. 
-
 Skrzydłolisty są przystosowane do kwitnienia w dużej wilgotoności, jako że same na co dzień pomagają utrzymać ją w pomieszczeniu. Z tego względu niezwykle istotnym elementem pielęgnacji jest odpowiednie nawadnianie rośliny. To nie tylko regularne podlewanie skrzydłokwiatu, ale również zraszanie powierzchni liści. 
+
+Wybierając miejsce w którym stanie donica ze skrzydłokwiatem, warto zdecydować się na takie z niewielkim dostępem światła. Temperatura pomieszczenia również jest nie bez znaczenia, ponieważ skrzydłolisty najlepiej rozwijają się w temperaturze pomiędzy 18 a 22 stopnie Celsjusza. 
 
 Prawidłowa uprawa roślin wiąże się również z regularnym nawożeniem podczas kwitnienia, które w przypadku skrzydłokwiatu odbywa się wyjątkowo długo, bo kilka miesięcy w ciągu jednego roku. Raz w roku, na wiosnę należy również przesadzić skrzydłolist do nowej ziemi. 
 
 {:.distinction.distinction-information}  
 Podczas nawożenia skrzydłokwiatów dobrze jest zwrócić uwagę na kolor ich liści. Jeśli jest on bardzo intensywnie zielony jest oznaką o  zbyt dużej ilości nawozu podanej dla jednego kwiatu.
 
-## Skrzydłokwiat pielęgnacja - uprawa roślin 
+{% fig %}
+![](/uploads/skrzydlokwiat-pielegnacja.jpg)
+{% endfig %}
 
 ## Skrzydłokwiat - cena
 
