@@ -24,7 +24,7 @@ published: false
 
 Skrzydłokwiat to ozdobna roślina doniczkowa z rodziny roślin rdestowatych lub ciborowatych. W odróżnieniu od innych gatunków ozdobnych wyróżnia ją nie tylko ciekawy wygląd, ale również wyjątkowe właściwości zdrowotne. Największą popularnością wśród skrzydłokwiatów cieszy się odmiana Spathiphyllum floribundum, której charakterystyczne białe kwiatostany stanowią ozdobę niejednego salonu lub sypialni.
 
-### Dlaczego skrzydłokwiat może zastąpić oczyszczacz powietrza? 
+### Dlaczego skrzydłokwiat może zastąpić oczyszczacz powietrza?
 
 Wyjątkowe właściwości skrzydłokwiatu zostały sprawdzone i potwierdzone przez NASA za pomocą szeregu szczegółowych badań, które wykazały zdolność skrzydłokwiatu do zwalczania aż 5 szkodliwych związków chemicznych, które mogą znajdować się w zamkniętych pomieszczeniach, takich jak:
 
@@ -46,9 +46,11 @@ Mimo swoich wyjątkowych właściwości skrzydłokwiat może okazać się trują
 
 ### Odmiany skrzydłokwiatu najlepsze do zasadzenia w domu
 
-Mimo iż zdecydowanie najczęściej spotykaną odmianą skrzydłokwiatu jest Spathiphyllum floribundum, czyli skrzydłokwiat kwiecisty ta wyjątkowa roślina występuje jeszcze w 48 innych gatunkach. Jakie odmiany skrzydłokwiatu warto mieć w swoim domu? 
+Mimo iż zdecydowanie najczęściej spotykaną odmianą skrzydłokwiatu jest Spathiphyllum floribundum, czyli skrzydłokwiat kwiecisty ta wyjątkowa roślina występuje jeszcze w 48 innych gatunkach. Jakie odmiany skrzydłokwiatu warto mieć w swoim domu?
 
-Zdecydowanie warty uwagi jest skrzydłokwiat Walissa, inaczej Spathiphyllum wallisii, przeznaczony wyłącznie do uprawy hodowlanej
+Zdecydowanie warty uwagi jest skrzydłokwiat Walissa, inaczej Spathiphyllum wallisii. To kwiat przeznaczony wyłącznie do uprawy hodowlanej - jest więc idealnym gatunkiem do zasadzenia w domu. Skrzydłokwiat Walissa występuje aż w pięciu różnych odmianach, różniących się od siebie objętością i wysokością. Są to: Yess, Clevelandi, Euro Giant, Sensacion oraz Mauna Loa.
+
+{% fig %}
 
 ## Skrzydłokwiat - uprawa roślin obrazkowatych
 
@@ -66,7 +68,7 @@ Twój skrzydłokwiat nie kwitnie? Sprawdź, jak temu zaradzić. Czasami wystarcz
 
 ### Źle dobrany nawóz
 
-Jedną z pierwszych przyczyn w zaburzeniach kwitnienia może być źle dobrany nawóz. Wybierając konkretny środek do nawożenia, należy zwrócić szczególną uwagę na jego konsystencję i stężenie. Nawóz powinien być płynny, podawany raz na dwa tygodnie podczas podlewania rośliny. 
+Jedną z pierwszych przyczyn w zaburzeniach kwitnienia może być źle dobrany nawóz. Wybierając konkretny środek do nawożenia, należy zwrócić szczególną uwagę na jego konsystencję i stężenie. Nawóz powinien być płynny, podawany raz na dwa tygodnie podczas podlewania rośliny.
 
 ### Wielkość donicy nieproporcjonalna do sadzonych kwiatów
 
