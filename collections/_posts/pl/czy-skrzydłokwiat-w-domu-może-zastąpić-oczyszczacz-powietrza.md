@@ -85,11 +85,13 @@ Cena skrzydłokwiatu jest bardzo przystępna i zwykle wynosi około 35 zł za sz
 
 Twój skrzydłokwiat nie kwitnie? Sprawdź, jak temu zaradzić. Czasami wystarczy drobna zmiana, aby kwitnienie przebiegało prawidłowo. Oto cztery najczęstsze błędy popełniane w hodowli skrzydłokwiatu.
 
-### Skrzydłokwiat zbyt często podlewany
+### Roślina hodowana bez dostępu do światła dziennego
 
-Podlewanie skrzydłokwiatu ma bardzo duży wpływ na jego kwitnienie i odpowiedni wzrost. Podczas tego procesu ważne jest aby dostarczyć roślinie odpowiednią ilość wody z odpowiednią częstotliwością podlewania. Należy także zwrócić szczególną uwagę na jakość i temperaturę wody, gdyż podlewanie wodą zbyt twardą lub zimną źle wpływa na kwitnienie skrzydłokwiatu. Aby zapewnić mu prawidłowy wzrost i pielęgnację, najlepszym rozwiązaniem jest nawadnianie rośliny przestudzoną wodą przegotowaną lub wodą odstaną o temperaturze pokojowej.
+Chociaż w odróżnieniu od większości roślin doniczkowych, skrzydłokwiat jest rośliną, która lubi miejsca zacienione, całkowity brak dostępu do światła dziennego może również zaburzać jego kwitnienie. Najlepszym rozwiązaniem jest ustawienie skrzydłokwiatu w miejscu, do którego przez większość dnia dociera światło rozproszone, na przykład w sypialni za firanką.
 
-
+{% fig %}
+![](/uploads/bledy-w-hodowli-skrzydlokwiatu.jpg)
+{% endfig %}
 
 ### Źle dobrany nawóz
 
@@ -102,6 +104,6 @@ Niemałe znaczenie ma również sadzenie i przesadzanie skrzydłokwiatu. Błędn
 {:.distinction.distinction-information}  
 Zbyt częste przesadzanie skrzydłokwiatów również zaburza ich prawidłowe kwitnienie i rozwój. Dlatego tego typu rośliny należy przesadzać wyłącznie, gdy jest to konieczne - np. gdy donica jest już zbyt mała lub została uszkodzona.
 
-### Roślina hodowana bez dostępu do światła dziennego
+### Skrzydłokwiat zbyt często podlewany
 
-Chociaż w odróżnieniu od większości roślin doniczkowych, skrzydłokwiat jest rośliną, która lubi miejsca zacienione, całkowity brak dostępu do światła dziennego może również zaburzać jego kwitnienie. Najlepszym rozwiązaniem jest ustawienie skrzydłokwiatu w miejscu, do którego przez większość dnia dociera światło rozproszone, na przykład w sypialni za firanką.
+Podlewanie skrzydłokwiatu ma bardzo duży wpływ na jego kwitnienie i odpowiedni wzrost. Podczas tego procesu ważne jest aby dostarczyć roślinie odpowiednią ilość wody z odpowiednią częstotliwością podlewania. Należy także zwrócić szczególną uwagę na jakość i temperaturę wody, gdyż podlewanie wodą zbyt twardą lub zimną źle wpływa na kwitnienie skrzydłokwiatu. Aby zapewnić mu prawidłowy wzrost i pielęgnację, najlepszym rozwiązaniem jest nawadnianie rośliny przestudzoną wodą przegotowaną lub wodą odstaną o temperaturze pokojowej.
