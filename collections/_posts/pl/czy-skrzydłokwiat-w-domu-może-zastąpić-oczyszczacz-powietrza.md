@@ -39,7 +39,7 @@ Substancje te są bardzo niebezpieczne dla zdrowia, ponieważ posiadają właśc
 {:.distinction.distinction-information}  
 Skrzydłokwiat jest rośliną doskonałą nie tylko do salonu czy sypialni. Ze względu na swoje właściwości sprawdzi się również świetnie do biura i pomieszczeń z dużą ilością elektroniki.
 
-Kolejną istotną właściwością skrzydłolistu jest zdolność do lekkiego nawilżania powietrza. Z tego względu warto mieć go w swoim domu szczególnie w okresie zimowym, podczas gdy powietrze docierające z
+Kolejną istotną właściwością skrzydłolistu jest zdolność do lekkiego nawilżania powietrza. Z tego względu warto mieć go w swoim domu szczególnie w okresie zimowym, podczas gdy powietrze docierające z zewnątrz jest wyjątkowo suche. Ponadto skrzydłokwiat jest doskonałym pochłaniaczem drobnoustrojów i zarodników pleśni. Sprawdzi się więc doskonale u alergików, a także u osób miewających problemy z oddychaniem. 
 
 {:.distinction.distinction-warning}  
 Mimo swoich wyjątkowych właściwości skrzydłokwiat może okazać się trujący dla niektórych zwierząt domowych. Z tego względu decydując się na zakup tej rośliny do domu, w którym mieszka zwierzę, dobrze jest monitorować jego stan zdrowia w pierwszych kilku dniach, a w razie konieczności pozbyć się szkodliwego kwiatu.
