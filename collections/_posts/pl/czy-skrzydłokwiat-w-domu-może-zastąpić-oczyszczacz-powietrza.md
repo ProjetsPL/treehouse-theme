@@ -28,6 +28,7 @@ Skrzydłokwiat to ozdobna roślina doniczkowa z rodziny roślin rdestowatych lub
 
 Wyjątkowe właściwości skrzydłokwiatu zostały sprawdzone i potwierdzone przez NASA za pomocą szeregu szczegółowych badań, które wykazały zdolność skrzydłokwiatu do zwalczania aż 5 szkodliwych związków chemicznych, które mogą znajdować się w zamkniętych pomieszczeniach, takich jak:
 
+{:.list.list-negative}
 * ksylen - wykorzystywany w przemyśle lakierniczym,
 * benzen - używany do produkcji klejów, farb i tworzywa sztucznego,
 * formaldehyd - stosowany jako konserwant w środkach higieny, jak np.: mydła, szampony,
