@@ -22,7 +22,7 @@ published: false
 ---
 ## Skrzydłokwiat - roślina o wyjątkowych właściwościach
 
-Skrzydłokwiat to ozdobna roślina doniczkowa z rodziny roślin rdestowatych lub ciborowatych. W odróżnieniu od innych gatunków ozdobnych wyróżnia ją nie tylko ciekawy wygląd, ale również wyjątkowe właściwości zdrowotne. Największą popularnością wśród skrzydłokwiatów cieszy się odmiana Spathiphyllum lanceifolium, której charakterystyczne białe kwiatostany stanowią ozdobę niejednego salonu lub sypialni.
+Skrzydłokwiat to ozdobna roślina doniczkowa z rodziny roślin rdestowatych lub ciborowatych. W odróżnieniu od innych gatunków ozdobnych wyróżnia ją nie tylko ciekawy wygląd, ale również wyjątkowe właściwości zdrowotne. Największą popularnością wśród skrzydłokwiatów cieszy się odmiana Spathiphyllum floribundum, której charakterystyczne białe kwiatostany stanowią ozdobę niejednego salonu lub sypialni.
 
 ### Dlaczego skrzydłokwiat może zastąpić oczyszczacz powietrza? 
 
@@ -39,12 +39,16 @@ Substancje te są bardzo niebezpieczne dla zdrowia, ponieważ posiadają właśc
 {:.distinction.distinction-information}  
 Skrzydłokwiat jest rośliną doskonałą nie tylko do salonu czy sypialni. Ze względu na swoje właściwości sprawdzi się również świetnie do biura i pomieszczeń z dużą ilością elektroniki.
 
-Kolejną istotną właściwością skrzydłolistu jest zdolność do lekkiego nawilżania powietrza. Z tego względu warto mieć go w swoim domu szczególnie w okresie zimowym, podczas gdy powietrze docierające z zewnątrz jest wyjątkowo suche. Ponadto skrzydłokwiat jest doskonałym pochłaniaczem drobnoustrojów i zarodników pleśni. Sprawdzi się więc doskonale u alergików, a także u osób miewających problemy z oddychaniem. 
+Kolejną istotną właściwością skrzydłolistu jest zdolność do lekkiego nawilżania powietrza. Z tego względu warto mieć go w swoim domu szczególnie w okresie zimowym, podczas gdy powietrze docierające z zewnątrz jest wyjątkowo suche. Ponadto skrzydłokwiat jest doskonałym pochłaniaczem drobnoustrojów i zarodników pleśni. Sprawdzi się więc doskonale u alergików, a także u osób miewających problemy z oddychaniem. Według badań wyjątkowo długi okres kwitnienia skrzydłolistu wpływa również pozytywnie na nastrój w pomieszczeniu oraz zwiększa poczucie zrelaksowania u przebywających w nim osób.
 
 {:.distinction.distinction-warning}  
 Mimo swoich wyjątkowych właściwości skrzydłokwiat może okazać się trujący dla niektórych zwierząt domowych. Z tego względu decydując się na zakup tej rośliny do domu, w którym mieszka zwierzę, dobrze jest monitorować jego stan zdrowia w pierwszych kilku dniach, a w razie konieczności pozbyć się szkodliwego kwiatu.
 
 ### Odmiany skrzydłokwiatu najlepsze do zasadzenia w domu
+
+Mimo iż zdecydowanie najczęściej spotykaną odmianą skrzydłokwiatu jest Spathiphyllum floribundum, czyli skrzydłokwiat kwiecisty ta wyjątkowa roślina występuje jeszcze w 48 innych gatunkach. Jakie odmiany skrzydłokwiatu warto mieć w swoim domu? 
+
+Zdecydowanie warty uwagi jest skrzydłokwiat Walissa, inaczej Spathiphyllum wallisii, przeznaczony wyłącznie do uprawy hodowlanej
 
 ## Skrzydłokwiat - uprawa roślin obrazkowatych
 
