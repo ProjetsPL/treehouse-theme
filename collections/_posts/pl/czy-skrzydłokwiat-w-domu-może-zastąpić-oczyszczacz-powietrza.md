@@ -52,6 +52,7 @@ Zdecydowanie warty uwagi jest skrzydłokwiat Walissa, inaczej Spathiphyllum wall
 
 {% fig %}  
 ![](/uploads/skrzydlokwiat-odmiany.jpg)
+{% endfig %}
 
 ## Skrzydłokwiat - uprawa roślin obrazkowatych
 
