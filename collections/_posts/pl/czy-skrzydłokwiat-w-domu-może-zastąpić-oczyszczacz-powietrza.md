@@ -60,11 +60,11 @@ Zdecydowanie warty uwagi jest skrzydłokwiat Walissa, inaczej Spathiphyllum wall
 
 Uprawa hodowlanych roślin obrazkowatych nie jest skomplikowana, a  sam skrzydłokwiat wymaga od hodowcy niewiele uwagi. Najważniejszym elementem jest nie ilość a regularność w pielęgnacji rośliny, która zapewni jej długą żywotność i piękne kwitnienie.
 
-Skrzydłolisty są przystosowane do kwitnienia w dużej wilgotoności, jako że same na co dzień pomagają utrzymać ją w pomieszczeniu. Z tego względu niezwykle istotnym elementem pielęgnacji jest odpowiednie nawadnianie rośliny. To nie tylko regularne podlewanie skrzydłokwiatu, ale również zraszanie powierzchni liści. 
+Skrzydłolisty są przystosowane do kwitnienia w dużej wilgotoności, jako że same na co dzień pomagają utrzymać ją w pomieszczeniu. Z tego względu niezwykle istotnym elementem pielęgnacji jest odpowiednie nawadnianie rośliny. To nie tylko regularne podlewanie skrzydłokwiatu, ale również zraszanie powierzchni liści.
 
-Wybierając miejsce w którym stanie donica ze skrzydłokwiatem, warto zdecydować się na takie z niewielkim dostępem światła. Temperatura pomieszczenia również jest nie bez znaczenia, ponieważ skrzydłolisty najlepiej rozwijają się w temperaturze pomiędzy 18 a 22 stopnie Celsjusza. 
+Wybierając miejsce w którym stanie donica ze skrzydłokwiatem, warto zdecydować się na takie z niewielkim dostępem światła. Temperatura pomieszczenia również jest nie bez znaczenia, ponieważ skrzydłolisty najlepiej rozwijają się w temperaturze pomiędzy 18 a 22 stopnie Celsjusza.
 
-Prawidłowa uprawa roślin wiąże się również z regularnym nawożeniem podczas kwitnienia, które w przypadku skrzydłokwiatu odbywa się wyjątkowo długo, bo kilka miesięcy w ciągu jednego roku. Raz w roku, na wiosnę należy również przesadzić skrzydłolist do nowej ziemi. 
+Prawidłowa uprawa roślin wiąże się również z regularnym nawożeniem podczas kwitnienia, które w przypadku skrzydłokwiatu odbywa się wyjątkowo długo, bo kilka miesięcy w ciągu jednego roku. Raz w roku, na wiosnę należy również przesadzić skrzydłolist do nowej ziemi.
 
 {:.distinction.distinction-information}  
 Podczas nawożenia skrzydłokwiatów dobrze jest zwrócić uwagę na kolor ich liści. Jeśli jest on bardzo intensywnie zielony jest oznaką o  zbyt dużej ilości nawozu podanej dla jednego kwiatu.
@@ -81,9 +81,17 @@ Cena skrzydłokwiatu jest bardzo przystępna i zwykle wynosi około 35 zł za sz
 
 Twój skrzydłokwiat nie kwitnie? Sprawdź, jak temu zaradzić. Czasami wystarczy drobna zmiana, aby kwitnienie przebiegało prawidłowo. Oto cztery najczęstsze błędy popełniane w hodowli skrzydłokwiatu.
 
+### Skrzydłokwiat zbyt często podlewany
+
+Podlewanie skrzydłokwiatu ma bardzo duży wpływ na jego kwitnienie i odpowiedni wzrost. Podczas tego procesu ważne jest aby dostarczyć roślinie odpowiednią ilość wody z odpowiednią częstotliwością podlewania. Należy także zwrócić szczególną uwagę na jakość i temperaturę wody, gdyż podlewanie wodą zbyt twardą lub zimną źle wpływa na kwitnienie skrzydłokwiatu. Aby zapewnić mu prawidłowy wzrost i pielęgnację, najlepszym rozwiązaniem jest nawadnianie rośliny przestudzoną wodą przegotowaną lub wodą odstaną o temperaturze pokojowej.
+
+{% fig %}
+![](/uploads/skrzydlokwiat-nie-kwitnie.jpg)
+{% endfig %}
+
 ### Źle dobrany nawóz
 
-Jedną z pierwszych przyczyn w zaburzeniach kwitnienia może być źle dobrany nawóz. Wybierając konkretny środek do nawożenia, należy zwrócić szczególną uwagę na jego konsystencję i stężenie. Nawóz powinien być płynny, podawany raz na dwa tygodnie podczas podlewania rośliny.
+Jedną z przyczyn w zaburzeniach kwitnienia może być również źle dobrany nawóz. Wybierając konkretny środek do nawożenia, należy zwrócić szczególną uwagę na jego konsystencję i stężenie. Nawóz powinien być płynny, podawany raz na dwa tygodnie podczas podlewania rośliny.
 
 ### Wielkość donicy nieproporcjonalna do sadzonych kwiatów
 
@@ -91,10 +99,6 @@ Niemałe znaczenie ma również sadzenie i przesadzanie skrzydłokwiatu. Błędn
 
 {:.distinction.distinction-information}  
 Zbyt częste przesadzanie skrzydłokwiatów również zaburza ich prawidłowe kwitnienie i rozwój. Dlatego tego typu rośliny należy przesadzać wyłącznie, gdy jest to konieczne - np. gdy donica jest już zbyt mała lub została uszkodzona.
-
-### Skrzydłokwiat zbyt często podlewany
-
-Podlewanie skrzydłokwiatu ma bardzo duży wpływ na jego kwitnienie i odpowiedni wzrost. Podczas tego procesu ważne jest aby dostarczyć roślinie odpowiednią ilość wody z odpowiednią częstotliwością podlewania. Należy także zwrócić szczególną uwagę na jakość i temperaturę wody, gdyż podlewanie wodą zbyt twardą lub zimną źle wpływa na kwitnienie skrzydłokwiatu. Aby zapewnić mu prawidłowy wzrost i pielęgnację, najlepszym rozwiązaniem jest nawadnianie rośliny przestudzoną wodą przegotowaną lub wodą odstaną o temperaturze pokojowej.
 
 ### Roślina hodowana bez dostępu do światła dziennego
 
