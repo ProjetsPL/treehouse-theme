@@ -13,13 +13,14 @@ toc: true
 promoted: false
 update_date: 2020-05-05
 title: Czy skrzydłokwiat w domu może zastąpić oczyszczacz powietrza?
-description: Czy skrzydłokwiat w domu może zastąpić oczyszczacz powietrza?
-intro: 'Urządzenia służące do filtracji powietrza są ostatnimi czasy bardzo powszechne.
+description: Zależy Ci na jakości powietrza, którym oddychasz w swoim domu? Skrzydłokwiat
+  to naturalny oczyszczacz powietrza, który może zastąpić niejedno drogie urządzenie.
+intro: Urządzenia służące do filtracji powietrza są ostatnimi czasy bardzo powszechne.
   Jednak zakup takiego urządzenia wiąże się zwykle z niemałym wydatkiem. Tymczasem
   skrzydłokwiat to roślina o wyjątkowych właściwościach, która nie tylko pięknie wygląda,
   ale również posiada właściwości odpowiadające za oczyszczanie powietrza w pomieszczeniu.
-  To nie tylko tańszy, ale również bardziej naturalny i estetyczny sposób na czyste
-  i zdrowe powietrze. '
+  Przekonaj się że to nie tylko tańszy, ale również bardziej naturalny i estetyczny
+  sposób, który jest w stanie zapewnić domownikom czyste i zdrowe powietrze.
 image: "/uploads/skrzydlokwiat-glowne.jpg"
 related_products: []
 published: false
@@ -112,3 +113,38 @@ Zbyt częste przesadzanie skrzydłokwiatów również zaburza ich prawidłowe kw
 ### Skrzydłokwiat zbyt często podlewany
 
 Podlewanie skrzydłokwiatu ma bardzo duży wpływ na jego kwitnienie i odpowiedni wzrost. Podczas tego procesu ważne jest aby dostarczyć roślinie odpowiednią ilość wody z odpowiednią częstotliwością podlewania. Należy także zwrócić szczególną uwagę na jakość i temperaturę wody, gdyż podlewanie wodą zbyt twardą lub zimną źle wpływa na kwitnienie skrzydłokwiatu. Aby zapewnić mu prawidłowy wzrost i pielęgnację, najlepszym rozwiązaniem jest nawadnianie rośliny przestudzoną wodą przegotowaną lub wodą odstaną o temperaturze pokojowej.
+
+{% faqItem %}
+{% faqQuestion %}
+Dlaczego skrzydłokwiat nie kwitnie?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Zaburzenia kwitnienia skrzydłokwiatu mogą być zależne od wielu czynników. Jedną z najczęstszych przyczyn jest brak systematycznej pielęgnacji rośliny. Duży wpływ ma również jakość i temperaura wody wykorzystywanej do podlewania skrzydłokwiatu.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %} {% faqQuestion %}   
+Jak pielęgnować skrzydłokwiat?  
+ {% endfaqQuestion %}
+
+{% faqAnswer %}   
+Najważniejszym elementem pielęgnacji skrzydłokwiatu jest jego regularne nawadnianie. Powinno się to odbywać zarówno poprzez podlewanie, jak i zraszanie liści. Warto również zatroszczyć się o odpowiedni nawóz oraz zadbać o niewielki dostęp rośliny do światła dziennego.  
+ {% endfaqAnswer %} {% endfaqItem %}
+
+{% faqItem %} {% faqQuestion %}   
+Skrzydłokwiat jaka ziemia?  
+ {% endfaqQuestion %}
+
+{% faqAnswer %}   
+Skrzydłokwiaty powinny rosnąć w ziemi luźnej, próchniczej i żyznej o umiarkowanej wilgotności. Bardzo ważne jest coroczne przesadzanie skrzydłokwiatów. Każdej wiosny ziemię powinno wymieniać się na nową.  
+{% endfaqAnswer %} {% endfaqItem %}
+
+{% faqItem %} {% faqQuestion %}   
+Jak uratować skrzydłokwiat?  
+ {% endfaqQuestion %}
+
+{% faqAnswer %}
+Niestety uratowanie więdnącego kwiatu nie zawsze jest możliwe. Jednak przypadku przelania wystarczy zatroszczyć się o wymianę ziemi i odpowiednią warstwę drenażu, która zapobiega gniciu korzeni. Natomiast w przypadku suchych, żółknących liści dobrze jest zacząć od sprawdzenia używanego nawozu i ewentualnej jego zmiany.
+{% endfaqAnswer %}
+{% endfaqItem %}
