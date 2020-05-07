@@ -8,44 +8,20 @@ update_date: 2020-05-06
 title: Mała łazienka - inspiracje i pomysły. 10 najciekawszych aranżacji
 description: Mała łazienka - inspiracje i pomysły. 10 najciekawszych aranżacji
 intro: Mała łazienka - inspiracje i pomysły. 10 najciekawszych aranżacji
-image: ''
+image: "/uploads/mala-lazienka-glowne.jpg"
 related_products: []
 published: false
 
 ---
-mała łazienka (8,9)
-
-mała łazienka z prysznicem (4k)
-
-mała łazienka w bloku (3,7k)
-
-mała łazienka inspiracje (2,4k)
-
-mała łazienka z wanną (2,3k)
-
-aranżacja małej łazienki (2,2k)
-
-małe łazienki aranżacje (1,9k)
-
-pomysł na łazienkę (1,6k)
-
-projekty małych łazienek (1,4k)
-
-aranżacje małych łazienek (1,3k)
-
-mała łazienka aranżacje (1,1k)
-
-mała łazienka projekt (600)
-
 ## Mała łazienka w wielkim stylu - nowoczesna aranżacja małej łazienki
 
-### Wybór koloru do małej łazienki ma znaczenie
+### Dlaczego wybór koloru do małej łazienki jest ważny?
 
-Jednym z najważniejszych czynników, jakie wpływają na wystrój wnętrza jest jego kolor. Niemal nieograniczona ilość odcieni daje ogromne możliwości aranżacji od zupełnie podstawowych barw po najbardziej nieoczywiste połączenia kolorystyczne. Jednak wybierając kolor do małej łazienki, dobrze jest wybierać odcienie delikatne i jasne, aby uniknąć wprowadzenia niepotrzebnego chaosu do pomieszczenia. Dobrym rozwiązaniem będzie minimalistyczna łazienka utrzymana w bieli, beżu, delikatnych szarościach lub kolorach pastelowych.
+Jednym z najważniejszych czynników, jakie wpływają na wystrój wnętrza jest jego kolor, ponieważ to on jako pierwszy określa jego charakter. Niemal nieograniczona ilość odcieni daje ogromne możliwości aranżacji od zupełnie podstawowych barw po najbardziej nieoczywiste połączenia kolorystyczne. Jednak wybierając kolor do małej łazienki, dobrze jest wybierać odcienie delikatne i jasne, aby uniknąć wprowadzenia niepotrzebnego chaosu do pomieszczenia. Dobrym rozwiązaniem będzie minimalistyczna łazienka utrzymana w bieli, beżu, delikatnych szarościach lub kolorach pastelowych.
+
+![](/uploads/kolor-scian-lazienka.jpg)
 
 W przypadku małej łazienki duże znaczenie ma nie tylko kolor ścian, ale również wybór podłogi. Zaczynając od rodzaju podłogi - płytki, kamień, panele - a kończąc na jego konkretnym odcieniu. Do małej łazienki dobrze sprawdzi się zarówno jasna, jak i ciemna podłoga. Jeśli jednak wybór padnie na posadzkę ciemną powinna ona kontrastować z kolorem ścian.
-
-![](/uploads/podloga-do-lazienki.jpg)
 
 {:.distinction.distinction-warning}  
 Wybierając podłogę do małej łazienki wystrzegaj się podłogi w tym samym kolorze co ściany (poza odcieniami bieli). Tego typu rozwiązanie przytłoczy i zmniejszy łazienkę optycznie.
@@ -58,12 +34,14 @@ Jednym z największych trendów ostatnich lat jest łazienka utrzymana w ekologi
 
 ### Marmurowa aranżacja małej łazienki
 
-Łazienka z kamienną armaturą to propozycja doskonała dla osób lubiących stylowe i luksusowo wyglądające wnętrza. Wyjątkowa struktura kamienia (bądź jego wiernej imitacji) sprawi, że mała łazienka stanie się oryginalna i elegancka. 
+Łazienka z kamienną armaturą to propozycja doskonała dla osób lubiących stylowe i luksusowo wyglądające wnętrza. Wyjątkowa struktura kamienia (bądź jego wiernej imitacji) sprawi, że mała łazienka stanie się oryginalna i elegancka.
 
 Marmur doskonale sprawdza się także do aranżacji kobiecych wnętrz w stylu glamour, które mogą wyglądać bardzo szykownie. W przypadku małej łazienki należy jednak być bardzo ostrożnym, aby nie przesadzić z różnorodnością faktur i dodatków. Zbyt zdobna aranżacja zamiast zachwycać swoją elegancją może w efekcie wyglądać kiczowato i tanio.
 
 {:.distinction.distinction-information}  
-Jeśli marmurowa łazienka jest dla ciebie zbyt droga, możesz zdecydować się na tańszą opcje wybierając specjalne płytki imitujące kamień. Tego typu płytki są podobne do marmuru zarówno pod względem wzoru jak i faktury, a przy tym o wiele tańsze
+Jeśli marmurowa łazienka jest dla ciebie zbyt droga, możesz zdecydować się na tańszą opcje wybierając specjalne płytki imitujące kamień. Tego typu płytki są podobne do marmuru zarówno pod względem wzoru jak i faktury, a przy tym o wiele tańsze.
+
+![](/uploads/marmurowa-lazienka.jpg)
 
 ## Mała łazienka - jak optycznie ją powiększyć dzięki aranżacji?
 
@@ -112,7 +90,3 @@ Wanna zabiera zwykle bardzo dużo miejsca, dlatego w małej łazience nie jest n
 Wybierając wannę do małej łazienki należy zwrócić szczególną uwagę na jej model i kształt. Zdecydowanie odradza się wybór wanien wolno stojących, gdyż zajmują one zbyt dużo miejsca, a przy nieodpowiednim planowaniu potrafią przytłoczyć nawet dużą łazienkę. W zamian dobrze jest wybierać wanny stawiane przy ścianie - w zabudowie lub nieobudowane, a także modele nieco krótsze lub wanny o wymiarach niestandardowych. Takie rozwiązanie pozwoli zaoszczędzić maksymalną ilość miejsca oraz w pełni wykorzystać potencjał małej łazienki.
 
 ![](/uploads/czy-lazienka-z-wanna-to-dobry-pomysl.jpg)
-
-### Jaka umywalka do małej łazienki?
-
-## Mała łazienka inspiracje - przykładowe projekty i aranżacje małych łazienek
