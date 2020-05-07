@@ -41,6 +41,8 @@ mała łazienka projekt (600)
 
 ### Wybór koloru do małej łazienki ma znaczenie
 
+Jednym z najważniejszych czynników, jakie wpływają na wystrój wnętrza jest jego kolor. Łazienka jest Niemal nieograniczona ilość odcieni daje ogromne możliwości aranżacji od zupełnie podstawowych barw po najbardziej nieoczywiste połączenia kolorystyczne. Jednak wybierając kolor
+
 ### Pomysł na łazienkę w stylu eko
 
 ### Marmurowa aranżacja małej łazienki
@@ -57,8 +59,6 @@ Wybór oświetlenia to bardzo ważny element podczas aranżacji małej łazienki
 ![](/uploads/lazienka-oswietlenie.jpg)
 
 * Natężenie światła - w zależności od pożądanego efektu należy również pomyśleć o natężeniu światła. Zbyt ciemne światło w pomieszczeniu bez okien może być wyjątkowo problematyczne i uciążliwe przy dłuższym użytkowaniu, na przykład wykonując codzienną rutynę pielęgnacyjną lub robiąc pranie.
-
-
 
 Niemałe znaczenie ma również kont padania promieni świetlnych. Umieszczenie oświetlenia pod odpowiednim kontem optycznie powiększy małą łazienkę, dzięki czemu przestrzeń nie wyda się przytłoczona.
 
