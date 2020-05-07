@@ -19,7 +19,7 @@ published: false
 ---
 ## Mała łazienka w wielkim stylu - nowoczesna aranżacja małej łazienki
 
-Nowoczesna aranżacja małej łazienki może wydawać się skomplikowana. W rzeczywistości zachowanie kilku prostych zasad wystarczy aby stworzyć przestrzeń funkcjonalną, która będzie odpowiadać najmodniejszym trendom. 
+Nowoczesna aranżacja małej łazienki może wydawać się skomplikowana. W rzeczywistości zachowanie kilku prostych zasad wystarczy aby stworzyć przestrzeń funkcjonalną, która będzie odpowiadać najmodniejszym trendom.
 
 ### Dlaczego wybór koloru do małej łazienki jest ważny?
 
@@ -62,6 +62,7 @@ Jeśli marmurowa łazienka jest dla ciebie zbyt droga, możesz zdecydować się 
 Wybór oświetlenia to bardzo ważny element podczas aranżacji małej łazienki. Jest to istotne z tego względu, ze niewielka przestrzeń zwykle wiąże się również z ograniczonym dostępem do światła dziennego. Wybierając oświetlenie należy wziąć pod uwagę na kilka istotnych kwestii. Są to:
 
 {:.list}
+
 * Temperatura (światło ciepłe lub zimne) - wybór temperatury światła jest ważny, ponieważ temperatura wpływa na jego kolor. Decydując się na światło ciepłe otrzymamy żółty odcień, korzystny dla relaksu i odprężenia. Jednak przy lusrze warto zamontować zimne, białe światło, które imituje światło dzienne, ułatwiając wykonywanie podstawowych czynności, jak np.: makijaż lub golenie.
 * Rozmieszczenie źródeł światła - planując wstępny projekt łazienki dobrze jest rozmieścić je tak, aby oświetlały wszystkie najważniejsze elementy armatury. Kluczowym elementem jest umieszczenie źródła światła przy lustrze, aby można było się w nim swobodnie przeglądać.
 
@@ -70,6 +71,7 @@ Wybór oświetlenia to bardzo ważny element podczas aranżacji małej łazienki
 {% endfig %}
 
 {:.list}
+
 * Natężenie światła - w zależności od pożądanego efektu należy również pomyśleć o natężeniu światła. Zbyt ciemne światło w pomieszczeniu bez okien może być wyjątkowo problematyczne i uciążliwe przy dłuższym użytkowaniu, na przykład wykonując codzienną rutynę pielęgnacyjną lub robiąc pranie.
 
 Niemałe znaczenie ma również kont padania promieni świetlnych. Umieszczenie oświetlenia pod odpowiednim kontem optycznie powiększy małą łazienkę, dzięki czemu przestrzeń nie wyda się przytłoczona.
@@ -112,3 +114,19 @@ Wybierając wannę do małej łazienki należy zwrócić szczególną uwagę na 
 {% fig %}
 ![](/uploads/czy-lazienka-z-wanna-to-dobry-pomysl.jpg)
 {% endfig %}
+
+{% faqItem %} {% faqQuestion %}   
+Mała łazienka jak urządzić?  
+ {% endfaqQuestion %}
+
+{% faqAnswer %}   
+Planując aranżację małej łazienki należy pamiętać nie tylko o wyglądzie, ale również o funkcjonalności pomieszczenia. Warto wybierać rozwiązania, które będą jednocześnie praktyczne i estetyczne, jak np.: nowoczesna kabina prysznicowa z przesuwnymi drzwiami lub duże lustro, które optycznie powiększy łazienkę.  
+{% endfaqAnswer %} {% endfaqItem %}
+
+{% faqItem %} {% faqQuestion %}   
+Mała łazienka jakie płytki?   
+{% endfaqQuestion %}
+
+{% faqAnswer %}   
+Płytki do małej łazienki mogą być dowolnego koloru. Ważne jednak, aby pasowały do ścian pomieszczenia. Dobrze jest zestawiać ze sobą kolory za pomocą kontrastów (np. białe ściany i ciemna posadzka) lub zdecydować się na jasny, jednolity kolor.  
+{% endfaqAnswer %} {% endfaqItem %}
