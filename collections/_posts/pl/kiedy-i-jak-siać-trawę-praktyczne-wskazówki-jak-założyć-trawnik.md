@@ -41,9 +41,7 @@ Trawa do siania w ogrodzie występuje w kilku różnych rodzajach. Najbardziej o
 
 ### Trawa pospolita - klasyczny przykład trawy do ogrodu 
 
-Trawa pospolita to najczęściej wybierana trawa do siania w ogrodzie. Jej głównym atutem jest przede wszystkim estetyczny wygląd oraz piękne, zielone zabarwienie. Jako, że wyrasta na dość krótką i jest podatna na koszenie, stanowi idealne podłoże do stworzenia równego i zadbanego trawnika ogrodowego, którego pozazdrościłby niejeden sąsiad. 
-
-Wśród najpowszechniejszych pospolitych traw do siewu znajdują się:
+Trawa pospolita to najczęściej wybierana trawa do siania w ogrodzie. Jej głównym atutem jest przede wszystkim estetyczny wygląd oraz piękne, zielone zabarwienie. Jako, że wyrasta na dość krótką i jest podatna na koszenie, stanowi idealne podłoże do stworzenia równego i zadbanego trawnika ogrodowego, którego pozazdrościłby niejeden sąsiad. Wśród najpowszechniejszych pospolitych traw do siewu znajdują się:
 
 {:.list}
 * **Kostrzewa owcza** - gatunek wolno rosnący o wysokiej odporności na warunki atmosferyczne i klimatyczne oraz obficie rozbudowanych korzeniach. Tego typu trawę należy siać na glebie o odczynie kwaśnym, z dużym dostępem do światła słonecznego.
