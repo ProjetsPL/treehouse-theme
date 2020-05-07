@@ -45,17 +45,37 @@ Trawa pospolita to najczęściej wybierana trawa do siania w ogrodzie. Jej głó
 
 Wśród najpowszechniejszych pospolitych traw do siewu znajdują się:
 
+{:.list}
 * **Kostrzewa owcza** - gatunek wolno rosnący o wysokiej odporności na warunki atmosferyczne i klimatyczne oraz obficie rozbudowanych korzeniach. Tego typu trawę należy siać na glebie o odczynie kwaśnym, z dużym dostępem do światła słonecznego.
 * **Kostrzewa czerwona** - trawa o szybkim poroście, cechująca się dużą wytrzymałością zarówno na ewentualne uszkodzenia mechaniczne, jak i czynniki pogodowe. Ten popularny gatunek posiada cienkie źdźbła, ale rozrasta się kępami, dzięki czemu pozwala na szybkie wyhodowanie gęstego trawnika.
 * **Mietlica pospolita** - gatunek wyróżniający się przede wszystkim małymi wymaganiami uprawnymi i pielęgnacyjnymi. Posiada niskie, a zarazem wąskie liście i jest także wyjątkowo łatwa w koszeniu. 
 
-### Trawa łąkowa - 
+![](/uploads/trawa-pospolita.jpg)
 
-charakteryzująca się obfitym kwitnieniem, dzięki czemu jej źdźbła rosną wysokie, bujne i kwieciste. Z tego względu wymaga też szczególnej pielęgnacji, aby wyglądać dobrze przez cały rok. Tego typu trawa sprawdzi się świetnie do stworzenia ogrodu kwiatowego lub jako wypełnienie skalniaka.
+### Trawa łąkowa - sposób na oryginalny trawnik
 
-### Trawa ozdobna
+Trawa łąkowa to wyjątkowo oryginalny wybór, ponieważ charakteryzuje się przede wszsytkim obfitym kwitnieniem. Mimo to można z powodzeniem wykorzystywać ją jako siew do ogrodu. Źdźbła trawy łąkowej są wysokie i bardzo bujne, z dużą ilością kwiatów. Pozwala to na osiągnięcie artystycznego nieładu trawnika, dając przy tym bardzo naturalny efekt. Popularna łąkowa trawa do siania w ogrodzie to m.in:
 
- - to najwyższy rodzaj trawy wykorzystywany do siania w ogrodzie. Tym, co odróżnia ją od innych popularnych odmian jest jej wyjątkowe wielokolorowe zabarwienie. Niestandardowy jest również sam okres jej kwitnienia. Tego typu trawa będzie wyglądać doskonale na rabatach kwiatowych oraz zasadzona w donicach z innymi kwiatami.
+{:.list}
+* **Kostrzewa łąkowa** - popularny gatunek wysokiej trawy łąkowej, sięgający do ponad metra wysokości. Tego typu trawa sprawdzi się świetnie do stworzenia ogrodu kwiatowego lub jako wypełnienie skalniaka.
+* **Wiechlina łąkowa** - trawa o ciemnozielonych liściach, sięgająca nawet 70 cm wysokości. Okres jej kwitnienia rozpoczyna się w połowie wiosny i trwa aż do końca lata.
+* **Wełnianka wąskolistna** - to gatunek o umiarkowanej wysokości, rosnący do około 40 cm. Jego cechą szczególną są puszyste, kłosowate kwiaty w kolorze szarym o okrągłym kształcie.
+
+![](/uploads/trawa-lakowa.jpg)
+
+{:.distinction.distinction-warning}  
+Trawa łąkowa choć wygląda efektownie ma również swoje wady. Ze względu na dużą ilość kwiatostanów, wysiew trawy tego rodzaju może być niebezpieczny dla alergików - szczególnie osób uczulonych na pylenie.
+
+### Trawa ozdobna odmieni każdy skalniak
+
+ To najwyższy i jednocześnie najbardziej okazyjny rodzaj trawy wykorzystywany do siania w ogrodzie. Tym, co odróżnia ją od innych popularnych odmian jest jej wyjątkowe wielokolorowe zabarwienie. Niestandardowy jest również sam okres jej kwitnienia. Tego typu trawa będzie wyglądać doskonale na rabatach kwiatowych oraz zasadzona w donicach z innymi kwiatami.
+
+![](/uploads/trawy-ozdobne-2.jpg)
+
+{:.distinction.distinction-information}
+Jednym z najpopularniejszych gatunków trawy ozdobnej jest Trzcinnik Ostrokwiatowy, będący skrzyżowaniem dwóch pokrewnych gatunków  trzcinnika leśnego i piaskowego. Roślina ta sięga do 1,5 metra wysokości, a swoim wyglądem łudząco przypomina zboże.
+
+![](/uploads/trawy-ozdobne.jpg)
 
 ## Czym jest trawa samozagęszczająca i na czym polega jej fenomen?
 
