@@ -58,7 +58,12 @@ Jednym z największych trendów ostatnich lat jest łazienka utrzymana w ekologi
 
 ### Marmurowa aranżacja małej łazienki
 
-Łazienka z 
+Łazienka z kamienną armaturą to propozycja doskonała dla osób lubiących stylowe i luksusowo wyglądające wnętrza. Wyjątkowa struktura kamienia (bądź jego wiernej imitacji) sprawi, że mała łazienka stanie się oryginalna i elegancka. 
+
+Marmur doskonale sprawdza się także do aranżacji kobiecych wnętrz w stylu glamour, które mogą wyglądać bardzo szykownie. W przypadku małej łazienki należy jednak być bardzo ostrożnym, aby nie przesadzić z różnorodnością faktur i dodatków. Zbyt zdobna aranżacja zamiast zachwycać swoją elegancją może w efekcie wyglądać kiczowato i tanio.
+
+{:.distinction.distinction-information}  
+Jeśli marmurowa łazienka jest dla ciebie zbyt droga, możesz zdecydować się na tańszą opcje wybierając specjalne płytki imitujące kamień. Tego typu płytki są podobne do marmuru zarówno pod względem wzoru jak i faktury, a przy tym o wiele tańsze
 
 ## Mała łazienka - jak optycznie ją powiększyć dzięki aranżacji?
 
