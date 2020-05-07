@@ -41,9 +41,9 @@ mała łazienka projekt (600)
 
 ### Wybór koloru do małej łazienki ma znaczenie
 
-### Pomysł na łazienkę w stylu glamour
+### Pomysł na łazienkę w stylu eko
 
-### Eko aranżacja małej łazienki
+### Marmurowa aranżacja małej łazienki
 
 ## Mała łazienka - jak optycznie ją powiększyć dzięki aranżacji?
 
@@ -51,7 +51,9 @@ mała łazienka projekt (600)
 
 Wybór oświetlenia to bardzo ważny element podczas aranżacji małej łazienki. Jest to istotne z tego względu, ze niewielka przestrzeń zwykle wiąże się również z ograniczonym dostępem do światła dziennego. Wybierając oświetlenie
 
-### Lustra 
+### Czym większe lustro, tym lepiej
+
+Bardzo dobrym pomysłem na optyczne powiększenie małej łazienki jest zawieszenie na jednej ze ścian dużego lustra. Lustro i tak zazwyczaj jest stałum elementem wyposażenia łazienki, dlatego w tym przypadku szczególnie warto wykorzystać jego potencjał.  
 
 ## Mała łazienka w bloku - jaką armaturę wybrać?
 
@@ -65,9 +67,18 @@ Jednym z modeli pryszniców, który idealnie sprawdzi się zwłaszcza do małych
 
 Jeśli zarówno podłogę, jak i ściany łazienki pokrywają płytki, można również zdecydować się na montaż samych drzwi oraz odpływu. Aby zaoszczędzić jeszcze więcej miejsca, zamiast tradycyjnie otwieranych drzwi warto wybrać drzwi przesuwne, które nie potrzebują dodatkowej przestrzeni do ich otwierania.
 
-Jeśli obawiasz się, że Twoja łazienka jest zbyt mała, by zmieścić nawet niewielką kabinę, możesz zamówić kabinę prysznicową na wymiar. Takie rozwiązanie, choć jest nieco droższe, daje pewność, że 
+![](/uploads/mala-lazienka-z-prysznicem.jpg)
+
+{:.distinction.distinction-information}  
+Jeśli obawiasz się, że Twoja łazienka jest zbyt mała, by zmieścić nawet niewielką kabinę, możesz zamówić kabinę prysznicową na wymiar. Takie rozwiązanie, choć jest nieco droższe, pozwala na maksymalne wykorzystanie niewielkiej przestrzeni.
 
 ### Czy mała łazienka z wanną to dobry pomysł?
+
+Wanna zabiera zwykle bardzo dużo miejsca, dlatego w małej łazience nie jest najlepszym rozwiązaniem. Mimo to, w sytuacji gdy prysznic wydaje się być niesatysfakcjonujący, można zdecydować się na małą łazienkę z wanną. Jednak taka decyzja wymaga odwagi i rozsądnego rozplanowania przestrzeni. 
+
+Wybierając wannę do małej łazienki należy zwrócić szczególną uwagę na jej model i kształt. Zdecydowanie odradza się wybór wanien wolno stojących, gdyż zajmują one zbyt dużo miejsca, a przy nieodpowiednim planowaniu potrafią przytłoczyć nawet dużą łazienkę. W zamian dobrze jest wybierać wanny stawiane przy ścianie - w zabudowie lub nieobudowane, a także modele nieco krótsze lub wanny o wymiarach niestandardowych. Takie rozwiązanie pozwoli zaoszczędzić maksymalną ilość miejsca oraz w pełni wykorzystać potencjał małej łazienki.
+
+![](/uploads/czy-lazienka-z-wanna-to-dobry-pomysl.jpg)
 
 ### Jaka umywalka do małej łazienki?
 
