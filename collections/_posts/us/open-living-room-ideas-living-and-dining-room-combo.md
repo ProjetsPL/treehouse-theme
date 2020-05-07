@@ -87,7 +87,7 @@ A big living room and dining room combo might be arranged in one style, although
 
 ## Open living room ideas – small interiors
 
-Apartments available on the market often have up to 40-60 square meters. Such a small space creates a necessity of designing a **living room and dining room combo**. A kitchen is very often added to such open floor plan as well. Such a space usually contains around 20 square meters, which needs to be carefully designed so that the interior keeps its harmony, while each area is functionally divided.
+Apartments available on the market often have up to 40-60 square meters. Such a small space creates a necessity of designing a **living room and dining room combo**. A kitchen is very often added to an open floor plan as well. Such a space usually contains around 20 square meters, which needs to be carefully designed so that the interior keeps its harmony, while each area is functionally divided.
 
 {:.distinction.distinction-information}
 
@@ -196,7 +196,7 @@ A living room and dining room combo in this style is perfect for vast spaces, wh
 
 ## Dining room ideas – return of vintage and retro styles
 
-Vintage style is is making a comeback in the recent years. Retro interiors are always charming and also might be quite surprising. If you dream of an open living room in such style, think about **matching some contrasts**. Unusual living room ideas might make them very attractive and unique.
+Vintage style is making a comeback in the recent years. Retro interiors are always charming and also might be quite surprising. If you dream of an open living room in such style, think about **matching some contrasts**. Unusual living room ideas might make them very attractive and unique.
 
 **Retro style employs highly saturated colors** – so do not be afraid of them. Red, strong pink, dark blue and bottle green – pick a color that you like the most and create a unique living room with dining area.
 
@@ -212,7 +212,7 @@ Vintage style is is making a comeback in the recent years. Retro interiors are a
 
 {% endfig %}
 
-**A living room with dining area is a place in which one spends a lot of time** – in the morning before work drinking coffee or in the afternoom, getting relaxed after a long day. Regardless of the style you choose – **create an arrangement that will make you feel good.**
+**A living room with dining area is a place in which one spends a lot of time** – in the morning before work drinking coffee or in the afternoon, getting relaxed after a long day. Regardless of the style you choose – **create an arrangement that will make you feel good.**
 
 {% faqItem %}
 {% faqQuestion %}
@@ -229,10 +229,10 @@ There are many ways in which you might furnish a big living room. You can choose
 What are the best small open living room ideas?
 {% endfaqQuestion %}
 
-{% faqAnswer %} 
+{% faqAnswer %}
 
-Try combining the kitchen island with dining table. You might also choose a table fit to the wall by one side, which spares a lot of space so you can put a bigger sofa in the room.
+Try combining the kitchen island with a dining table. You might also choose a table fit to the wall by one side, which spares a lot of space so you can put a bigger sofa in the room.
 
-{% endfaqAnswer %} 
+{% endfaqAnswer %}
 
 {% endfaqItem %}
