@@ -49,11 +49,26 @@ mała łazienka projekt (600)
 
 ### Oświetlenie ma znaczenie
 
-Wybór oświetlenia to bardzo ważny element podczas aranżacji małej łazienki. Jest to istotne z tego względu, ze niewielka przestrzeń zwykle wiąże się również z ograniczonym dostępem do światła dziennego. Wybierając oświetlenie
+Wybór oświetlenia to bardzo ważny element podczas aranżacji małej łazienki. Jest to istotne z tego względu, ze niewielka przestrzeń zwykle wiąże się również z ograniczonym dostępem do światła dziennego. Wybierając oświetlenie należy wziąć pod uwagę na kilka istotnych kwestii. Są to:
+
+* Temperatura (światło ciepłe lub zimne) - wybór temperatury światła jest ważny, ponieważ temperatura wpływa na jego kolor. Decydując się na światło ciepłe otrzymamy żółty odcień, korzystny dla relaksu i odprężenia. Jednak przy lusrze warto zamontować zimne, białe światło, które imituje światło dzienne, ułatwiając wykonywanie podstawowych czynności, jak np.: makijaż lub golenie.
+* Rozmieszczenie źródeł światła - planując wstępny projekt łazienki dobrze jest rozmieścić je tak, aby oświetlały wszystkie najważniejsze elementy armatury. Kluczowym elementem jest umieszczenie źródła światła przy lustrze, aby można było się w nim swobodnie przeglądać.
+
+![](/uploads/lazienka-oswietlenie.jpg)
+
+* Natężenie światła - w zależności od pożądanego efektu należy również pomyśleć o natężeniu światła. Zbyt ciemne światło w pomieszczeniu bez okien może być wyjątkowo problematyczne i uciążliwe przy dłuższym użytkowaniu, na przykład wykonując codzienną rutynę pielęgnacyjną lub robiąc pranie.
+
+
+
+Niemałe znaczenie ma również kont padania promieni świetlnych. Umieszczenie oświetlenia pod odpowiednim kontem optycznie powiększy małą łazienkę, dzięki czemu przestrzeń nie wyda się przytłoczona.
 
 ### Czym większe lustro, tym lepiej
 
-Bardzo dobrym pomysłem na optyczne powiększenie małej łazienki jest zawieszenie na jednej ze ścian dużego lustra. Lustro i tak zazwyczaj jest stałum elementem wyposażenia łazienki, dlatego w tym przypadku szczególnie warto wykorzystać jego potencjał.  
+Bardzo dobrym pomysłem na optyczne powiększenie małej łazienki jest zawieszenie na jednej ze ścian dużego lustra. Lustro i tak stanowi zwykle stały element wyposażenia łazienki, dlatego w tym przypadku szczególnie warto wykorzystać jego potencjał.
+
+Aby optycznie zwiększyć przestrzeń małej łazienki, zamiast mniejszych luster, warto wybierać te obszerne, które zajmują większość ściany, a nawet całą jej powierzchnię. Dobrze jest także zrezygnować z luster w bogato zdobionych antyramach na rzecz minimalistycznych i cienkich ramek lub ich całkowitego braku. W ten sposób można stworzyć efekt głębi - czyli złudzenie optyczne, które sprawi, że mała łazienka w rzeczywistości będzie wydawała się na przynajmniej o połowę większą.
+
+![](/uploads/lusta-do-lazienki.jpg)
 
 ## Mała łazienka w bloku - jaką armaturę wybrać?
 
@@ -63,7 +78,7 @@ Mała łazienka w bloku powinna mieć niekoniecznie małą, ale przede wszystkim
 
 Znaczną oszczędnością miejsca jest zdecydowanie mała łazienka z prysznicem. To jedno z najczęściej wybieranych rozwiązań wśród osób mieszkających na małym metrażu. Jednak należy pamiętać o tym, że każda, nawet mała łazienka jest inna a modeli pryszniców mnóstwo. Przed podjęciem ostatecznej decyzji dobrze jest więc ocenić potencjał wnętrza, aby mieć pewność, że dokonaliśmy słusznego wyboru.
 
-Jednym z modeli pryszniców, który idealnie sprawdzi się zwłaszcza do małych łazienek są kabiny narożne oraz asymetryczne kabiny prysznicowe, które idealnie wpasują się w nieregularne wnęki pomieszczenia. Z kolei wnęki prostokątne stanowią doskonałą przestrzeń do montażu kabiny o takim samym kształcie. 
+Jednym z modeli pryszniców, który idealnie sprawdzi się zwłaszcza do małych łazienek są kabiny narożne oraz asymetryczne kabiny prysznicowe, które idealnie wpasują się w nieregularne wnęki pomieszczenia. Z kolei wnęki prostokątne stanowią doskonałą przestrzeń do montażu kabiny o takim samym kształcie.
 
 Jeśli zarówno podłogę, jak i ściany łazienki pokrywają płytki, można również zdecydować się na montaż samych drzwi oraz odpływu. Aby zaoszczędzić jeszcze więcej miejsca, zamiast tradycyjnie otwieranych drzwi warto wybrać drzwi przesuwne, które nie potrzebują dodatkowej przestrzeni do ich otwierania.
 
@@ -74,7 +89,7 @@ Jeśli obawiasz się, że Twoja łazienka jest zbyt mała, by zmieścić nawet n
 
 ### Czy mała łazienka z wanną to dobry pomysł?
 
-Wanna zabiera zwykle bardzo dużo miejsca, dlatego w małej łazience nie jest najlepszym rozwiązaniem. Mimo to, w sytuacji gdy prysznic wydaje się być niesatysfakcjonujący, można zdecydować się na małą łazienkę z wanną. Jednak taka decyzja wymaga odwagi i rozsądnego rozplanowania przestrzeni. 
+Wanna zabiera zwykle bardzo dużo miejsca, dlatego w małej łazience nie jest najlepszym rozwiązaniem. Mimo to, w sytuacji gdy prysznic wydaje się być niesatysfakcjonujący, można zdecydować się na małą łazienkę z wanną. Jednak taka decyzja wymaga odwagi i rozsądnego rozplanowania przestrzeni.
 
 Wybierając wannę do małej łazienki należy zwrócić szczególną uwagę na jej model i kształt. Zdecydowanie odradza się wybór wanien wolno stojących, gdyż zajmują one zbyt dużo miejsca, a przy nieodpowiednim planowaniu potrafią przytłoczyć nawet dużą łazienkę. W zamian dobrze jest wybierać wanny stawiane przy ścianie - w zabudowie lub nieobudowane, a także modele nieco krótsze lub wanny o wymiarach niestandardowych. Takie rozwiązanie pozwoli zaoszczędzić maksymalną ilość miejsca oraz w pełni wykorzystać potencjał małej łazienki.
 
