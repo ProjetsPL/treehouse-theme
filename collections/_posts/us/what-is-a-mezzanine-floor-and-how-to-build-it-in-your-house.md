@@ -98,7 +98,7 @@ There are several uses for a mezzanine floor in a children's room. If it's a pla
 
 Although a mezzanine level looks spectacular in a house, it is also quite a demanding solution. Many homeowners who decide to build an entresol, ignore important issues and possible problems that should be kept in mind.
 
-One of the biggest issues is heating of a house with mezzanine floor. Warm air flows upwards, which causes the neccesity to turn up the heating. Only this way the temperature on the lower level, where one spends significantly more time, will be optimal. Also, because the heat accumulates not on, but under the ceiling, using the mezzanine in winter might be problematic – the air up there might be simply too hot and dry. Keeping the same temperature in the room and in the mezzanine floor is practically impossible. For this reson one of the interiors will always be too cold or too hot.
+One of the biggest issues is heating of a house with a mezzanine floor. Warm air flows upwards, which causes the necessity to turn up the heating. Only this way the temperature on the lower level, where one spends significantly more time, will be optimal. Also, because the heat accumulates not on, but under the ceiling, using the mezzanine in winter might be problematic – the air up there might be simply too hot and dry. Keeping the same temperature in the room and in the mezzanine floor is practically impossible. For this reason one of the interiors will always be too cold or too hot.
 
 {% fig %}
 
