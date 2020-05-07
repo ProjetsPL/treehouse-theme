@@ -92,4 +92,38 @@ If a  walk-in closet is not so tempting solution, you might create a small study
 
 A mezzanine in a children's room is becoming an increasingly popular solution, which is perfect for a room of this type. Parents decide to build an antresole to spare a lot of space, which is important especially if the room is occupied by more than one child.
 
-There are several uses for a mezzanine floor in a children's room. If it's a place for sleeping, the room has more space for a study desk. 
+There are several uses for a mezzanine floor in a children's room. If it's a place for sleeping, the room has more space for a study desk. What's more, a mezzanine, similar to a bunk bed, is something truly special for a child. It's a perfect spot for playing, where small adventurers can allow their imagination run wild.
+
+## What are disadvantages of a mezzanine floor?
+
+Although a mezzanine level looks quite spectacular in a house, it is also a quite demanding solution. Most homeowners who decide to build an entresol, ignore important issues and possible problems that should be kept in mind.
+
+One of the biggest issues is heating of a house with mezzanine floor. Warm air flows upwards, which causes the neccesity to turn up the heating. Only this way the temperature on the lower level, where one spends more time, will be optimal. Also, because the heat accumulates not on, but under the ceiling, using the mezzanine in winter might be problematic – the air up there might be simply too hot and dry. Keeping the same temperature in the room and in the mezzanine floor is practically impossible. For this reson one of the interiors will always be too cold or too hot.
+
+{% fig %}
+
+![](/uploads/czy-antresola-ma-jakies-wady.jpg)
+
+{% endfig %}
+
+Another problem might be caused by the unusual construction of a mezzanine floor. Being an open space, it is not fully enclosed, therefore it does not isolate sounds. Music, TV sound or conversations can be heared around the house, which might disturb the peace and privacy.
+
+{% faqItem %}
+{% faqQuestion %}
+What is a mezzanine?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+A mezzanine, also known as entresol, is a special floor level built in a room. It might consist of one or several interiors. It's typically used in private houses and also in industrial halls and shopping centers.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+How to build a mezzanine floor?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Building a mezzanine level is time consuming, but quite simple process. You might build it yourself or ask a professional to do it for you. Remember that an antresole construction should follow the rules specified by building code to make sure that it is absolutely safe.
+{% endfaqAnswer %}
+{% endfaqItem %}
