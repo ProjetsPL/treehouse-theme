@@ -41,7 +41,13 @@ mała łazienka projekt (600)
 
 ### Wybór koloru do małej łazienki ma znaczenie
 
-Jednym z najważniejszych czynników, jakie wpływają na wystrój wnętrza jest jego kolor. Łazienka jest Niemal nieograniczona ilość odcieni daje ogromne możliwości aranżacji od zupełnie podstawowych barw po najbardziej nieoczywiste połączenia kolorystyczne. Jednak wybierając kolor
+Jednym z najważniejszych czynników, jakie wpływają na wystrój wnętrza jest jego kolor. Niemal nieograniczona ilość odcieni daje ogromne możliwości aranżacji od zupełnie podstawowych barw po najbardziej nieoczywiste połączenia kolorystyczne. Jednak wybierając kolor do małej łazienki, dobrze jest wybierać odcienie delikatne i jasne, aby uniknąć wprowadzenia niepotrzebnego chaosu do pomieszczenia. Dobrym rozwiązaniem będzie minimalistyczna łazienka utrzymana w bieli, beżu, delikatnych szarościach lub kolorach pastelowych.
+
+W przypadku małej łazienki duże znaczenie ma nie tylko kolor ścian, ale również wybór podłogi. Zaczynając od rodzaju podłogi - płytki, kamień, panele - a kończąc na jego konkretnym odcieniu. Do małej łazienki dobrze sprawdzi się zarówno jasna, jak i ciemna podłoga. Jeśli jednak wybór padnie na posadzkę ciemną powinna ona kontrastować z kolorem ścian.
+
+
+{:.distinction.distinction-warning}  
+Wybierając podłogę do małej łazienki wystrzegaj się podłogi w tym samym kolorze co ściany (poza odcieniami bieli). Tego typu rozwiązanie przytłoczy i zmniejszy łazienkę optycznie.
 
 ### Pomysł na łazienkę w stylu eko
 
