@@ -64,7 +64,7 @@ The most important part of building a mezzanine floor is drilling holes and inst
 
 {% fig %}
 
-![](/uploads/drilling.jpg)
+![How to build a mezzanine? A step by step guide](/uploads/drilling.jpg "How to build a mezzanine? A step by step guide")
 
 {% endfig %}
 
@@ -102,7 +102,7 @@ One of the biggest issues is heating of a house with a mezzanine floor. Warm air
 
 {% fig %}
 
-![](/uploads/czy-antresola-ma-jakies-wady.jpg)
+![Disadvantages of a mezzanine floor](/uploads/czy-antresola-ma-jakies-wady.jpg "Disadvantages of a mezzanine floor")
 
 {% endfig %}
 
