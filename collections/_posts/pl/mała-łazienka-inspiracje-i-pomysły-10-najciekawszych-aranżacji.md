@@ -45,13 +45,20 @@ Jednym z najważniejszych czynników, jakie wpływają na wystrój wnętrza jest
 
 W przypadku małej łazienki duże znaczenie ma nie tylko kolor ścian, ale również wybór podłogi. Zaczynając od rodzaju podłogi - płytki, kamień, panele - a kończąc na jego konkretnym odcieniu. Do małej łazienki dobrze sprawdzi się zarówno jasna, jak i ciemna podłoga. Jeśli jednak wybór padnie na posadzkę ciemną powinna ona kontrastować z kolorem ścian.
 
+![](/uploads/podloga-do-lazienki.jpg)
 
 {:.distinction.distinction-warning}  
 Wybierając podłogę do małej łazienki wystrzegaj się podłogi w tym samym kolorze co ściany (poza odcieniami bieli). Tego typu rozwiązanie przytłoczy i zmniejszy łazienkę optycznie.
 
 ### Pomysł na łazienkę w stylu eko
 
+Jednym z największych trendów ostatnich lat jest łazienka utrzymana w ekologicznym stylu. Eko trend charakteryzuje się połączeniem pięknego stylowego drewna z prawdziwą klasyką kolorów. Najczęściej spotykane zestawienia to jasne drewno (lub jego imitacja w formie płytek) zestawione z gładkimi, białymi ścianami. To bardzo ciekawy pomysł na łazienkę - stylową i zarazem minimalistyczną. Sprawdzi się więc idealnie również jako aranżacja małej łazienki nadając jej wyjątkowego charakteru.
+
+![](/uploads/eko-lazienka.jpg)
+
 ### Marmurowa aranżacja małej łazienki
+
+Łazienka z 
 
 ## Mała łazienka - jak optycznie ją powiększyć dzięki aranżacji?
 
