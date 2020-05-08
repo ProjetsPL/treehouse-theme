@@ -26,7 +26,7 @@ intro: Air purifiers are becoming increasingly popular. Such a machine is usuall
   also can purify the air in a room - peace lily. Learn more about this much cheaper,
   more natural and aesthetic way to improve the air quality so that it's clean and
   healthy.
-image: "/uploads/skrzydlokwiat-glowne.jpg"
+image: "/uploads/skrzydlokwiat-glowne-1.jpg"
 related_products: []
 published: false
 
