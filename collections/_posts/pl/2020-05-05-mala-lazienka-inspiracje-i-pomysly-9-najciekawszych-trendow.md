@@ -31,7 +31,7 @@ related_products: []
 ---
 ## Mała łazienka w wielkim stylu - nowoczesna aranżacja małej łazienki
 
-**Nowoczesna aranżacja małej łazienki** może wydawać się skomplikowana. W rzeczywistości już zachowanie kilku prostych zasad wystarczy, aby stworzyć przestrzeń funkcjonalną, która będzie odpowiadać **najgorętszym trendom**. Nie wiesz, jak zabrać się do tego zadania? Skorzystaj z naszych pomysłów i ciesz się pięknym oraz funkcjonalnym wnętrzem.
+**Nowoczesna aranżacja małej łazienki** może wydawać się skomplikowana. W rzeczywistości już zachowanie kilku prostych zasad wystarczy, aby stworzyć przestrzeń funkcjonalną, która będzie odpowiadać **najgorętszym trendom**. Nie wiesz, jak zabrać się do tego zadania? Skorzystaj z naszych pomysłów i ciesz się **pięknym oraz funkcjonalnym wnętrzem**.
 
 ### Kolorystyka małej łazienki - jasne barwy stale w modzie!
 
@@ -80,6 +80,7 @@ Trendy wnętrzarskie dotyczą nie tylko koloru ścian, czy materiałów wykorzys
 Wybór oświetlenia to bardzo ważny element podczas aranżacji małej łazienki. Jest to istotne z tego względu, ze niewielka przestrzeń zwykle wiąże się również z ograniczonym dostępem do światła dziennego. Wybierając oświetlenie, należy wziąć pod uwagę na kilka istotnych kwestii. Są to:
 
 {:.list}
+
 * **Temperatura (światło ciepłe lub zimne)** - wybór temperatury światła jest ważny, ponieważ temperatura wpływa na jego kolor. Decydując się na światło ciepłe, otrzymasz żółty odcień, korzystny dla relaksu i odprężenia. Jednak przy lustrze warto zamontować zimne, białe światło, które imituje światło dzienne, ułatwiając wykonywanie podstawowych czynności, jak np.: makijaż lub golenie.
 * **Rozmieszczenie źródeł światła** - planując wstępny projekt łazienki, dobrze jest rozmieścić je tak, aby oświetlały wszystkie najważniejsze elementy armatury. Kluczowym elementem jest umieszczenie źródła światła przy lustrze, aby można było się w nim swobodnie przeglądać.
 
@@ -88,6 +89,7 @@ Wybór oświetlenia to bardzo ważny element podczas aranżacji małej łazienki
 {% endfig %}
 
 {:.list}
+
 * **Natężenie światła** - w zależności od pożądanego efektu należy również pomyśleć o natężeniu światła. Zbyt ciemne światło w pomieszczeniu bez okien może być wyjątkowo problematyczne i uciążliwe przy dłuższym użytkowaniu, na przykład wykonując codzienną rutynę pielęgnacyjną lub robiąc pranie.
 
 **Niemałe znaczenie ma również kąt padania promieni świetlnych.** Umieszczenie oświetlenia pod odpowiednim kontem optycznie powiększy małą łazienkę, dzięki czemu przestrzeń nie wyda się przytłoczona.
