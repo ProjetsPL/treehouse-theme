@@ -95,7 +95,7 @@ If a walk-in closet is not so tempting solution, you might create a small study 
 
 {% fig %}
 ![Mezzanine in a children's room – a secret base for your youngster](/uploads/antresola-w-domu-kiedy-mozna-zdecydowac-sie-na-antresole-2.jpg "Mezzanine in a children's room – a secret base for your youngster")
-{% fig %}
+{% endfig %}
 
 **There are several uses for a mezzanine floor in a children's room**. If it's a place for sleeping, the room has more space for a study desk. What's more, a mezzanine, similar to a bunk bed, is something truly special for a child. It's a perfect spot for playing, where small adventurers can allow their imagination run wild.
 
