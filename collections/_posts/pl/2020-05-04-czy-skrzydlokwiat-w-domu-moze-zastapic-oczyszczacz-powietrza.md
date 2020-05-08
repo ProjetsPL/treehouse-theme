@@ -23,7 +23,6 @@ intro: Czyste powietrze w domu wpływa na samopoczucie człowieka. Z tego wzglę
   metody i zapewnij domownikom czyste i zdrowe powietrze.
 image: "/uploads/skrzydlokwiat-glowne.jpg"
 related_products: []
-published: false
 
 ---
 ## Czym jest skrzydłokwiat i co go wyróżnia?
