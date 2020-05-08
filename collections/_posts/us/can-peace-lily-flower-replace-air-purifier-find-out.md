@@ -44,7 +44,6 @@ A **peace lily** is a decorative plant from the family of **Araceae**. In contra
 Unusual **features of a lily flower** have been checked and confirmed by NASA who runs detailed tests. As they have shown, a peace lily plant **can neutralize up to five dangerous chemicals** that can be found in households, such as:
 
 {:.list.list-negative}
-
 * **xylene** – used in the varnish industry,
 * **benzene** – used for glue, paint and plastic production,
 * **formaldehyde** – used as a preservative in cleaning and washing products like soaps and shampoos,
