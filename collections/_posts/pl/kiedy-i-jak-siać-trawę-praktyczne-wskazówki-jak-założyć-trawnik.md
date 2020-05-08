@@ -83,10 +83,10 @@ Trawa samozagęszczająca to prawdziwy fenomen ogrodnictwa. Czynnikiem, który o
 
 Trawa samozageszczająca z jednego nasiona potrafi wypuścić po kilka źdźbeł, które następnie ulegają rozrostowi. Ten zaś odbywa się nie tylko pionowo, ale również poziomo, rozrastając się na gęste kępy trawy. W przypadku tradycyjnych traw kępki również mogą się rozrastać, natomiast sama ich liczba pozostaje bez zmian. Natomiast dzięki trawie samozagęszczającej ogrodowy trawnik stanie się gęsty i bujny w naprawdę krótkim czasie.
 
+![](/uploads/trawa-samozageszczajaca.jpg)
+
 Ponadto trawa samozagęszczająca stanowi podłoże odporne na intensywne użytkowanie, dzięki czemu doskonale sprawdzi się w ogrodzie, w którym znaczą ilość czasu spędzają na przykład dzieci. Jest również przystosowana do trudnych warunków atmosferycznych, co pozwala jej przetrwać okresy ulewne oraz przymrozki.
 
-
-![](/uploads/trawa-samozageszczajaca.jpg)
 
 ### Trawa samozagęśzczająca - cena
 
