@@ -27,7 +27,6 @@ intro: Aranżacja małej łazienki to spore wyzwanie. Jednak ograniczona ilość
   nie tylko funkcjonalną, ale również stylową łazienkę, o jakiej zawsze marzyłeś.
 image: "/uploads/mala-lazienka-glowne.jpg"
 related_products: []
-published: false
 
 ---
 ## Mała łazienka w wielkim stylu - nowoczesna aranżacja małej łazienki
