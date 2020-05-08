@@ -33,7 +33,7 @@ published: false
 ---
 ## What is a peace lily and what are its features?
 
-A peace lily is a decorative plant from the family of Araceae. In contrast with other decorative plants, peace lily not only looks unusual - it comes with health benefits. The most popular type of lily plant is Spathiphyllum floribundum with its white flowers. They are a decoration in many iving rooms.
+A peace lily is a decorative plant from the family of Araceae. In contrast with other decorative plants, peace lily not only looks unusual, but also it comes with health benefits. The most popular type of lily plant is Spathiphyllum floribundum with its white flowers. They are a decoration in many living rooms.
 
 {% fig %}
 
@@ -43,7 +43,7 @@ A peace lily is a decorative plant from the family of Araceae. In contrast with 
 
 ### Why can a peace lily replace an air purifier?
 
-Unusual features of a lily flower have been checked and confirmed by NASA who run detailed tests. As they have shown, a peace lily plant can neutralize up to 5 dangerous chemicals that can be found in households, such as:
+Unusual features of a lily flower have been checked and confirmed by NASA who runs detailed tests. As they have shown, a peace lily plant can neutralize up to five dangerous chemicals that can be found in households, such as:
 
 {:.list.list-negative}
 
@@ -53,7 +53,7 @@ Unusual features of a lily flower have been checked and confirmed by NASA who ru
 * carbon monoxide – a toxic, odorless gas that is lethal for your organism,
 * trichloroethane – present in various thinners.
 
-Those chemicals are very dangerous for health as they are cancerogenic, they influence respiratory and vuscular systems and internal organs.
+Those chemicals are very dangerous for health as they are cancerogenic, they influence respiratory and vascular systems and internal organs.
 
 {:.distinction.distinction-information}
 
@@ -65,7 +65,7 @@ A peace lily is a perfect plant for a living room and bedroom. Due to its qualit
 
 {% endfig %}
 
-Another important feature of a peace lily is its ability to humidify the room. For this reason it is a good idea to have it in your home, especially in winter, when the air is very dry. A lily plant is also a great microbes and fungal spores absorber. Therefore it is ideal for allergy sufferers and people who have trouble with breathing. According to the research, the long period of flowering positively influences the atmosphere of the room and affects the mood, helping to relax.
+Another important feature of a peace lily is its ability to humidify the room. For this reason it is a good idea to have it in your home, especially in winter, when the air is very dry. A lily plant is also a great microbes and fungal spores absorber. Therefore, it is ideal for allergy sufferers and people who have trouble with breathing. According to the research, the long period of flowering positively influences the atmosphere of the room and affects the mood, helping to relax.
 
 {:.distinction.distinction-warning}
 
@@ -111,7 +111,7 @@ When feeding your peace lily, pay attention to the color of its leaves. If it's 
 
 ## How much does a peace lily cost?
 
-Peace lily is not a very expensive plant and it's price usually isn't high. It mostly depends on where it's bought and how developed the plant is. The ones you can find in gardening and flower shops are typically more expensive than the one from a supermarket, however they have better quality.
+Peace lily is not a very expensive plant and its price usually isn't high. It mostly depends on where it's bought and how developed the plant is. The ones you can find in gardening and flower shops are typically more expensive than the one from a supermarket, however they have better quality.
 
 {% fig %}
 
@@ -125,7 +125,7 @@ Your peace lily never blooms? Find out how to resolve this problem. Sometimes yo
 
 ### Not enough sunlight
 
-Although peace lily, in contrast to most household plants, requires little sunlight, a complete lack of sun might disturb its blooming process. The best remedy is moving the plant to a spot where the light is dispersed most of the day, for instanse is a beddroom behind the curtain.
+Although peace lily, in contrast to most household plants, requires little sunlight, a complete lack of sun might disturb its blooming process. The best remedy is moving the plant to a spot where the light is dispersed most of the day, for instance is a bedroom behind the curtain.
 
 {% fig %}
 
@@ -135,11 +135,11 @@ Although peace lily, in contrast to most household plants, requires little sunli
 
 ### Size of the pot is not proportional to size of the plant
 
-Potting and repotting of peace lily is also very important. The belief that a plant potted in a larger box grows better is wrong. Putting lily plants in too large pots might cause a problem with their blooming. Therefore you should choose a box that is perfectly proportional to the plant you are going to transplant.
+Potting and repotting of peace lily is also very important. The belief that a plant potted in a larger box grows better is wrong. Putting lily plants in too large pots might cause a problem with their blooming. Therefore, you should choose a box that is perfectly proportional to the plant you are going to transplant.
 
 {:.distinction.distinction-information}
 
-You shouldn't transplant peace lilies too often, as it also dirturbs their blooming and growth. Having that in mind, repotting should be done only when it's absolutely necessary, e.g. when the pot is too small or it has been damaged.
+You shouldn't transplant peace lilies too often, as it also disturbs their blooming and growth. Having that in mind, repotting should be done only when it's absolutely necessary, e.g. when the pot is too small or it has been damaged.
 
 {% fig %}
 
@@ -149,7 +149,7 @@ You shouldn't transplant peace lilies too often, as it also dirturbs their bloom
 
 ### Wrong fertilizer
 
-One of the reasons for the lack of blooming might be wrong fertilizer. When choosing a particular organic, pay attention to its consistency and concentration. Good fertilizer for peace lily is liquid and it should be applied once per two weeks, along with watering.
+One of the reasons for the lack of blooming might be wrong fertilizer. When choosing a particular organic, pay attention to its consistency and concentration. A good fertilizer mixture for peace lily is liquid, and it should be applied once per two weeks, along with watering.
 
 {% fig %}
 
@@ -159,7 +159,7 @@ One of the reasons for the lack of blooming might be wrong fertilizer. When choo
 
 ### Too much water
 
-Peace lily watering plays a very important role for its blooming and growth. You should provide enough water, and keep doing it regularly. Pay special attention to the quality and temperature of the water – too hard or too cold water affects the peace lily's blooming. For the best growth, water your plant with cooled down boiled water or with tap water that has stood for more than an hour.
+Peace lily watering plays a very important role for its blooming and growth. You should provide enough water and keep doing it regularly. Pay special attention to the quality and temperature of the water – too hard or too cold water affects the peace lily's blooming. For the best growth, water your plant with cooled down boiled water or with tap water that has stood for more than an hour.
 
 {% fig %}
 
