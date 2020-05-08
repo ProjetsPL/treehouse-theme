@@ -72,7 +72,9 @@ Jeżeli pomieszczenie ma niewielkie rozmiary, nie powinno się malować ścian n
 
 ### Kolor antracytowy - jak pokryć ściany, aby uniknąć nieoczekiwanych efektów?
 
-Jeżeli chodzi o farby w takiej barwie - najlepiej, jeżeli postawić na produkty, które dają **satynowe wykończenie**. Obawiasz się efektu przytłoczenia? Zawsze możesz zdecydować się na pomalowanie tylko jednej, akcentowej ściany na ciemny kolor, a reszty - na jaśniejszy np. w odcieniach bieli.
+**Kolor antracytowy** jest idealnym wyborem, jeżeli chodzi o ściany. Jednak niespodziewanych efektów unikniesz wyłącznie pod warunkiem wyboru odpowiedniej farby. Emulsja w takiej barwie musi mieć określoną konsystencję, co sprawia, że daje **satynowe wykończenie**. 
+
+Obawiasz się efektu przytłoczenia ze względu na antracytowy kolor? Zawsze możesz zdecydować się na pomalowanie tylko jednej, akcentowej ściany na ciemny odcień, a reszty - na jaśniejszą barwę np. w odcieniach bieli.
 
 {% fig %}
 ![Kolor antracytowy - jak pokryć ściany, aby uniknąć nieoczekiwanych efektów?](/uploads/kolor-antracytowy-jak-pokryc-sciany.jpg "Kolor antracytowy - jak pokryć ściany, aby uniknąć nieoczekiwanych efektów?")
@@ -83,9 +85,11 @@ Mimo, że tapety dzisiaj wciąż kojarzą się z minioną epoką, warto rozważy
 {:.distinction.distinction-information}
 Dobrym pomysłem zamiast zwykłej farby jest zastosowanie farby tablicowej w odcieniu ciemnej szarości. Ściany zyskają wówczas funkcję pisania. Może się to okazać szczególnie przydatne w kuchni, gabinecie, czy pokoju dziecięcym.
 
-### Dodatki do ścian w ciemnym odcieniu
+### Dodatki do ścian w ciemnym, antracytowym odcieniu
 
 Jeżeli ściany w pomieszczeniu pomalowano na kolor antracytowy, najlepiej wybierać meble i dekoracje w odcieniach kontrastujących. Najbezpieczniejsze kolory uzupełniające to biele, beże, ale również mocna czerń. Kolor antracytowy dobrze współpracuje z jasnymi brązami - warto więc stawiać na dodatki w kolorze naturalnego drewna. Jest to szczególnie dobre rozwiązanie w **stylu skandynawskim**, który wykorzystuje przede wszystkim naturalne faktury.
+
+Jednak, jeżeli lubisz odważną kolorystykę - nie musisz z niej rezygnować. **Kolor antracytowy współpracuje tak naprawdę z niemal wszystkimi barwami dostępnymi w palecie.** Ważna jest natomiast umiejętność dopasowania odpowiednich odcieni.
 
 {:.distinction.distinction-information}
 Ciekawym rozwiązaniem do salonu, w którym kolor ścian to antracyt, jest wybór sofy w mocnym kolorze - przykładowo niebieskim lub żółtym. Taki zabieg idealnie ożywi wnętrze, a **antracyt podkreśli intensywny kolor mebla**.
@@ -96,12 +100,12 @@ Ciekawym rozwiązaniem do salonu, w którym kolor ścian to antracyt, jest wybó
 
 ### Antracyt jako akcent na jasnej ścianie
 
-Antracyt nie zawsze nadaje się jako główny kolor ścian. W takim przypadku nie trzeba wcale rezygnować z zastosowania tej barwy w pomieszczeniu - doskonale sprawdza się ona w roli **akcentu**.
+Antracyt nie do każdego wnętrza nadaje się jako główny kolor ścian. Czy to oznacza, że musisz rezygnować całkowicie z tej barwy? Absolutnie! W takim przypadku kolor antracytowy - doskonale sprawdza się ona w roli **akcentu**.
 
 Do jasnych przestrzeni warto dobierać **ciemnoszare elementy wyposażenia**, takie jak zasłony, czy ozdobne poduszki. Dobrym pomysłem jest także wybór drobnych sprzętów w kolorze, jakim jest antracyt - krzeseł, stolików i lamp.
 
-{:.distinction.distinction-information}
-Elementy takie, jak drzwi, kaloryfery i ramy okien w tego typu odcieniach również podkreślą jasne wnętrze. Takie elementy ożywiają jasne wnętrze, jednocześnie nadając mu charakteru.
+{:.distinction.distinction-information} 
+Elementy takie, jak drzwi, kaloryfery i ramy okien w w kolorze antracytowym również podkreślą jasne wnętrze. Takie wyposażenie wbrew pozorom ożywia jasne wnętrze, jednocześnie nadając mu charakteru. Antracyt w wielu przypadkach dodaje pomieszczeniu niezbędnej dynamiki i jest przełamaniem nudy.
 
 {% fig %}
 ![Antracyt jako akcent na jasnej ścianie](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-1-1.jpg "Antracyt jako akcent na jasnej ścianie")
