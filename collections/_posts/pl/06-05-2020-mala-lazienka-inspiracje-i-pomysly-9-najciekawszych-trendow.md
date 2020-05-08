@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-05-06
+date: 2020-05-05
 main_keywords:
 - mała łazienka
 - mała łazienka z prysznicem
@@ -27,6 +27,7 @@ intro: Aranżacja małej łazienki to spore wyzwanie. Jednak ograniczona ilość
   nie tylko funkcjonalną, ale również stylową łazienkę, o jakiej zawsze marzyłeś.
 image: "/uploads/mala-lazienka-glowne.jpg"
 related_products: []
+published: false
 
 ---
 ## Mała łazienka w wielkim stylu - nowoczesna aranżacja małej łazienki
