@@ -1,14 +1,25 @@
 ---
 layout: post
 date: 2020-05-07
-main_keywords: []
+main_keywords:
+- trawa samozagęszczająca
+- " sianie trawy "
+- kiedy siać trawę
+- trawa samozagęszczająca cena
+- jak siać trawę
+- " trawa do siania"
+- wysiew trawy
+- jak posiać trawę
+- siew trawy
+- wysiew trawy w marcu
+- do kiedy można siać trawę
 toc: true
 promoted: false
 update_date: 2020-05-07
 title: Kiedy i jak siać trawę? Praktyczne wskazówki jak założyć trawnik
 description: Kiedy i jak siać trawę? Praktyczne wskazówki jak założyć trawnik
 intro: Kiedy i jak siać trawę? Praktyczne wskazówki jak założyć trawnik
-image: ''
+image: "/uploads/jak-siac-trawe-glowne.jpg"
 related_products: []
 published: false
 
@@ -79,7 +90,7 @@ Jednym z najpopularniejszych gatunków trawy ozdobnej jest Trzcinnik Ostrokwiato
 
 ## Czym jest trawa samozagęszczająca i na czym polega jej fenomen?
 
-Trawa samozagęszczająca to prawdziwy fenomen ogrodnictwa. Czynnikiem, który odróżnia ją od wszystkich innych rodzajów trawy do siewu w ogrodzie jest oryginalny proces wzrostu i rozrostu. 
+Trawa samozagęszczająca to prawdziwy fenomen ogrodnictwa. Czynnikiem, który odróżnia ją od wszystkich innych rodzajów trawy do siewu w ogrodzie jest oryginalny proces wzrostu i rozrostu.
 
 Trawa samozageszczająca z jednego nasiona potrafi wypuścić po kilka źdźbeł, które następnie ulegają rozrostowi. Ten zaś odbywa się nie tylko pionowo, ale również poziomo, rozrastając się na gęste kępy trawy. W przypadku tradycyjnych traw kępki również mogą się rozrastać, natomiast sama ich liczba pozostaje bez zmian. Natomiast dzięki trawie samozagęszczającej ogrodowy trawnik stanie się gęsty i bujny w naprawdę krótkim czasie.
 
@@ -87,12 +98,11 @@ Trawa samozageszczająca z jednego nasiona potrafi wypuścić po kilka źdźbeł
 
 Ponadto trawa samozagęszczająca stanowi podłoże odporne na intensywne użytkowanie, dzięki czemu doskonale sprawdzi się w ogrodzie, w którym znaczą ilość czasu spędzają na przykład dzieci. Jest również przystosowana do trudnych warunków atmosferycznych, co pozwala jej przetrwać okresy ulewne oraz przymrozki.
 
-
 ### Trawa samozagęśzczająca - cena
 
-Cena trawy samozagęszczającej waha się od kilkudziesięciu nawet do ponad 200 zł. Jednak koszt ten jest zależny od kilku czynników. Jednym z najbardziej znaczących jest wybór producenta. Trawa samozagęszczająca naprawdę dobrej jakości może być nawet dwa razy droższa. Wybierając konkretną firmę należy więc zdecydować, czy większe znaczenie ma w tym przypadku jakość czy ilość produktu.  
+Cena trawy samozagęszczającej waha się od kilkudziesięciu nawet do ponad 200 zł. Jednak koszt ten jest zależny od kilku czynników. Jednym z najbardziej znaczących jest wybór producenta. Trawa samozagęszczająca naprawdę dobrej jakości może być nawet dwa razy droższa. Wybierając konkretną firmę należy więc zdecydować, czy większe znaczenie ma w tym przypadku jakość czy ilość produktu.
 
-Nie bez znaczenia jest także wielkość opakowania. Trawa samozagęszczająca o wadze 1 kg może być wystarczająca do małego ogródka, jednak zdecydowanie za mała do ogrodu pokaźnych rozmiarów. W takim przypadku również i cena produktu ulegnie zmianie -czym większa jest jego pojemność, tym większy koszt zakupu.
+Nie bez znaczenia jest także wielkość opakowania. Trawa samozagęszczająca o wadze 1 kg może być wystarczająca do małego ogródka, jednak zdecydowanie za mała do ogrodu pokaźnych rozmiarów. W takim przypadku również i cena produktu ulegnie zmianie - czym większa jest jego pojemność, tym większy koszt zakupu.
 
 ## Sianie trawy - kiedy i jak siać konkretne gatunki?
 
