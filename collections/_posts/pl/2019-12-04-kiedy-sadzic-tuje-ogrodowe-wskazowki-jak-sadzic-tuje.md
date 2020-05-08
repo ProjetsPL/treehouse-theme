@@ -7,7 +7,7 @@ description: Wiele osób zakładających własny ogródek decyduje się na tuje 
   Ich uprawa nie jest trudna. Sprawdź, kiedy sadzić tuje oraz jak je pielęgnować.
 image: "/uploads/kiedy-sadzic-tuje-ogrodowe-wskazowki-jak-sadzic-tuje.jpg"
 promoted: true
-update_date: 2020-02-05
+update_date: 2020-05-08
 intro: Tuje ogrodowe to jeden z najpopularniejszych rodzajów iglaków obecnych w polskich
   ogrodach. Wykorzystuje się je jako osłony przeciwwiatrowe, żywopłoty oraz gęste
   szpalery. Są zimozielone, wytrzymałe i szybko rosną. Osoby zakładające własny ogród
@@ -24,7 +24,7 @@ main_keywords:
 ---
 ## Tuje ogrodowe - rośliny uniwersalne
 
-**Tuje, czyli żywotniki**, to rośliny, które przybyły do **Europy z Ameryki Północnej oraz Azji**. Są one niezwykle uniwersalne. Można je sadzić zarówno w grupach, do ochrony przed wiatrem, jak i pojedynczo, jako **rośliny soliterowe**. Szeroki wybór odmian, wielkości oraz zastosowań to powody, dla których drzewa te cieszą się ogromną popularnością wśród ogrodników.
+**Tuje**, czyli żywotniki, to **rośliny z rodziny cyprysowatych**, które przybyły do Europy z Ameryki Północnej oraz Azji. Są niezwykle uniwersalne. Można je sadzić w grupach - do ochrony przed wiatrem, jak i pojedynczo, jako **rośliny soliterowe**. Szeroki wybór odmian, wielkości oraz zastosowań decyduje o ich popularności. Powszechnie znaną odmianą jest **_Thuja occidentalis L_**.
 
 {:.distinction.distinction-information}
 
@@ -74,7 +74,7 @@ Decydując się na **roślinę ze szkółki**, należy zwrócić uwagę na jej b
 
 ## Kiedy sadzić tuje?
 
-Jednym z najczęściej pojawiających się pytań jest kwestia dotycząca tego, kiedy sadzić tuje.Rośliny, które wyhodowano w pojemniku, **można sadzić przez cały sezon** - od wczesnej wiosny (najlepiej od połowy kwietnia) aż do późnej jesieni. Najlepszy okres to wczesna wiosna i późne lato. **Wiosną rośliny zaaklimatyzują się** i przygotują przed upałami. Natomiast tuje posadzone w sierpniu lub wrześniu będą miały czas na przygotowanie do zimy. Żywotniki można sadzić najpóźniej 6 tygodni przed pojawianiem się pierwszych przymrozków.
+Tuje, które wyhodowano w pojemniku, **można sadzić przez cały sezon** - od wczesnej wiosny (najlepiej od połowy kwietnia) aż do późnej jesieni. Najlepszy okres to wczesna wiosna i późne lato. **Wiosną rośliny zaaklimatyzują się** i przygotują przed upałami. Natomiast tuje posadzone w sierpniu lub wrześniu będą miały czas na przygotowanie do zimy. Żywotniki można sadzić najpóźniej 6 tygodni przed pojawianiem się pierwszych przymrozków. W innym przypadku rośliny mogą się nie przyjąć.
 
 {:.distinction.distinction-information}  
 Rośliny, które sprzedawane są z gołym korzeniem, **owinięte w jutę ogrodniczą**, powinny być sadzone w kwietniu lub od połowy sierpnia do połowy września. Należy je posadzić od razu po zakupie, aby nie dopuścić do wyschnięcia korzeni.
