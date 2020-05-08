@@ -21,7 +21,7 @@ intro: Czyste powietrze w domu wpływa na samopoczucie człowieka. Z tego wzglę
   Skrzydłokwiat to roślina o wyjątkowych właściwościach, która nie tylko pięknie wygląda,
   ale również odpowiada za oczyszczanie powietrza w pomieszczeniu. Postaw na naturalne
   metody i zapewnij domownikom czyste i zdrowe powietrze.
-image: "/uploads/skrzydlokwiat-glowne.jpg"
+image: "/uploads/skrzydlokwiat-glowne-1.jpg"
 related_products: []
 
 ---
