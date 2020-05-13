@@ -37,24 +37,51 @@ storczyki ogrodowe (100)
 
 ## Jak pielęgnować storczyki? Podstawy pielęgnacji storczyków ogrodowych
 
-### Łatwe w uprawie gatunki storczyków ogrodowych 
+Sposób pielęgnacji storczyków należy dobierać od konkretnego rodzaju i gatunku rośliny. Storczyki ogrodowe to grupa wymagająca nie tylko pielęgnacji, ale również właściwej uprawy z uwagi na to, że hodowany jest na zewnątrz w naturalnych warunkach atmosferycznych.
+
+### Storczyk ogrodowy - kiedy i jak go przesadzać?
+
+Przesadzanie storczyka ogrodowego należy przeprowadzać wyłącznie wczesną wiosną. Jest to bardzo ważne ponieważ wtedy roślina zaczyna wypuszczać pierwsze pędy. Wtedy też można przystąpić do podziału storczyków. Aby to zrobić należy rozdzielić sadzonki tak, by na każdą z nich przypadał minimalnie jeden pąk i zdrowy korzeń storczyka. W innym wypadku kwiat nie zakwitnie poprawnie. Dodatkowo, dla prawidłowego wzrostu roślinę należy podsypać ziemią zebraną z poprzedniego miejsca sadzenia. Taki sposób przesadzania pozwoli cieszyć się na długo efektem pięknych kwiatów w ogrodzie.
+
+UWAGA  
+Bardzo często właściciele storczyków ogrodowych decydują się na ich rozmnażanie poprzez wysianie niewielkich nasion tuż obok roślin matecznych. Sposób ten jest jednak mało skuteczny lub całkowicie bezskuteczny dla większości przypadków.
+
+![](/uploads/jak-przesadzac-storczyki.jpg)
+
+### Łatwe w uprawie gatunki storczyków ogrodowych
 
 Choć storczyk ogrodowy może wydawać się wymagającą rośliną, w rzeczywistości przy doborze odpowiedniego gatunku okazuje się naprawdę łatwy w uprawie. Aby maksymalnie uprościć proces opieki nad kwiatem warto zdecydować się na hodowlę popularnych gatunków podstawowych. Każdy z nich wymaga jednak indywidualnego sposobu pielęgnacji, dostosowanego w pełni do potrzeb rodzajowych i gatunkowych rośliny.
 
-Decydując się na konkretny gatunek storczyków ogrodowych mamy do wyboru zarówno kwiaty rosnące pojedynczo, jak i takie rozrastające się na boki, tworzące obszerne kępy kwiatowe. Do gatunków rozrastających się można zaliczyć między innymi popularny storczyk ogrodowy o nazwie Bletilla Pasiasta. Szczególnie wartym uwagi jest także storczyk z rodzaju Obuwik. To jeden z najczęściej wybieranych gatunków ze względu na łatwość jego pielęgnacji oraz nietuzinkową urodę. Aby ten gatunek stał się długotrwałą ozdobą ogrodu należy zasadzić go w zacienionym miejscu, najlepiej w towarzystwie paproci ogrodowych i bylin. 
+Decydując się na konkretny gatunek storczyków ogrodowych mamy do wyboru zarówno kwiaty rosnące pojedynczo, jak i takie rozrastające się na boki, tworzące obszerne kępy kwiatowe. Do gatunków rozrastających się można zaliczyć między innymi popularny storczyk ogrodowy o nazwie Bletilla Pasiasta. 
+
+![](/uploads/obuwik-pospolity.jpg)
+
+Szczególnie wartym uwagi jest także storczyk z rodzaju Obuwik pospolity. To jeden z najczęściej wybieranych gatunków ze względu na łatwość jego pielęgnacji oraz nietuzinkową urodę. Aby ten gatunek stał się długotrwałą ozdobą ogrodu należy zasadzić go w zacienionym miejscu, najlepiej w towarzystwie paproci ogrodowych i bylin. 
+
+![](/uploads/obuwik-pospolity-2.jpg)
 
 INFORMACJA  
-Obuwniki można sadzić również w słońcu, pod warunkiem zapewnienia odpowiedniego podłoża. Takie podłoże powinno być przede wszystkim próchnicze, dzięki czemu latem nabierze wilgoci a zimą nie będzie zbierała się na nim woda.
+Obuwniki można sadzić również w słońcu, pod warunkiem zapewnienia im odpowiedniego podłoża. Takie podłoże powinno być przede wszystkim próchnicze, dzięki czemu latem nabierze wilgoci a zimą nie będzie zbierała się na nim woda.
 
-### Kiedy i jak przesadzać storczyka ogrodowego?
+## Jak dbać o storczyka w domu?
 
-Przesadzanie storczyka ogrodowego należy przeprowadzać wyłącznie wczesną wiosną. Jest to bardzo ważne ponieważ wtedy roślina zaczyna wypuszczać pierwsze pędy. Wtedy też można przystąpić do podziału storczyków. Aby to zrobić należy rozdzielić sadzonki tak, aby na każdą z nich przypadał minimalnie jeden pęd storczyka.
+Storczyk w domu to niemałe wyzwanie dla właściciela ze względu na wymagające warunki jego pielęgnacji. Aby kwitnienie przebiegało prawidłowo, a roślina mogła swobodnie wzrastać należy zadbać o kilka istotnych elementów, takich jak:
 
-### Jak dbać o storczyka w domu?
+* Odpowiednie podłoże - storczyki w doniczce wymagają specjalnego rodzaju podłoża. Musi ono jednocześnie cechować się wysoką chłonnością oraz swobodnie przepuszczać powietrze ku korzeniom. Najlepiej sprawdzi się gotowa ziemia do storczyków. Można także zdecydować się na przygotowanie podłoża własnej kompozycji.
 
-Dendrobium, czy Phalaenopsis. 
+INFORMACJA  
+Aby własnoręcznie przygotować podłoże pod storczyk możesz wymieszać ze sobą przekompostowaną korę sosny, mech, torf i trochę ziemi liściastej. Tak przygotowana mieszanka zapewni odpowiedni wzrost Twoim kwiatom.
 
-### Storczyk miniaturka - pielęgnacja
+* Regularne nawadnianie - podlewanie storczyków odbywa się w sposób nietypowy, ponieważ tego typu kwiaty ozdobne są bardzo narażone na gnicie korzeni. Z tego względu aby nawodnić storczyk należy umożliwić mu pobranie wody z powietrza, stawiając naczynie z wodą za doniczką. Dzięki temu roślina sama pobierze odpowiednią ilość wody w dogodnym dla siebie momencie. Natomiast podczas bezpośredniego podlewania storczyków należy unikać całkowitego zanurzania korzeni w wodzie.
+* Usytuowanie doniczki - wybór miejsca, w którym stanie storczyk ma bardzo duży wpływ na jego kwitnienie i rozwój. Storczyki są bardzo delikatne i źle znoszą przeciągi. Z tego względu najlepiej jest postawić je z dala od miejsc, do których docierają  silne podmuchy wiatru. Dodatkowo, storczyki powinny znajdować się w miejscu delikatnie zacienionym, gdyż zbyt duże nasłonecznienie może hamować ich rozwój.
+
+![](/uploads/storczyk-w-domu.jpg)
+
+* Prawidłowe przesadzanie - każda roślina doniczkowa od czasu do czasu wymaga przesadzenia. Storczyki przesadza się, gdy roślina przestała mieścić się w doniczce lub gdy podłoże stało się zbyt miękkie. Standardowo storczyki przesadza się regularnie co około 2-3 lata. Podczas przesadzania ważne jest, aby doniczka miala optymalny rozmiar, dzięki czemu korzenie nie zostaną narażone na gnicie.
+
+Te kilka podstawowych zasad pielęgnacji storczyków pozwoli cieszyć się ich pięknymi, ozdobnymi kwiatami nawet przez kilka następnych lat.
+
+## Storczyk miniaturka - odmiana warta uwagi
 
 ## Storczyk - cena rośliny
 
@@ -86,3 +113,5 @@ Przyczyną nieprawidłowego kwitnienia storczyków lub jego braku może być tak
 
 INFORMACJA  
 W czasie spoczynku kwiatów należy całkowicie zrezygnować z nawożenia storczyków. Natomiast podczas kwitnienia pąków nawożenie powinno być intensywniejsze.
+
+![](/uploads/zle-dbrany-nawoz.jpg)
