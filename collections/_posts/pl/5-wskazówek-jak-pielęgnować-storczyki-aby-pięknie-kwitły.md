@@ -1,40 +1,31 @@
 ---
 layout: post
 date: 2020-05-08
-main_keywords: []
+main_keywords:
+- storczyk
+- " jak pielęgnować storczyki"
+- " storczyk cena"
+- " storczyk jak dbać"
+- " storczyk ogrodowy"
+- " storczyk miniaturka"
+- " jak pielęgnować storczyka"
+- storczyk jak podlewać
+- " dlaczego storczyk nie kwitnie"
 toc: true
 promoted: false
 update_date: 2020-05-08
 title: 5 wskazówek, jak pielęgnować storczyki, aby pięknie kwitły
-description: 5 wskazówek, jak pielęgnować storczyki, aby pięknie kwitły
-intro: 5 wskazówek, jak pielęgnować storczyki, aby pięknie kwitły
+description: Twój storczyk nie kwitnie prawidłowo? Oto 5 prostych zasad, które przywróci
+  jego dawny wygląd. Sprawdź, jak pielęgnować storczyki, aby rosły pięknie i zdrowo.
+intro: Twój storczyk nie kwitnie prawidłowo? Jego kwiaty straciły swój wyjątkowy urok?
+  Ten rodzaj kwiatów wymaga wyjątkowej pielęgnacji. Te 5 prostych zasad, pomoże Ci
+  zachować zdrowy i piękny wygląd kwiatostanów, które dzięki nim staną się dumną ozdobą
+  Twojego otoczenia na długi czas. Przekonaj się, jak prawidłowo zadbać o swoje storczyki.
 image: "/uploads/storczyk-glowne.jpg"
 related_products: []
 published: false
 
 ---
-Słowa kluczowe:
-
-storczyk (23k)
-
-jak pielęgnować storczyki (1,6k)
-
-storczyk cena (800)
-
-storczyk jak dbać (700)
-
-storczyk ogrodowy (350)
-
-storczyk miniaturka (350)
-
-jak pielęgnować storczyka (250)
-
-storczyk jak podlewać (200)
-
-dlaczego storczyk nie kwitnie (150)
-
-storczyki ogrodowe (100)
-
 ## Jak pielęgnować storczyki? Podstawy pielęgnacji storczyków ogrodowych
 
 Sposób pielęgnacji storczyków należy dobierać od konkretnego rodzaju i gatunku rośliny. Storczyki ogrodowe to grupa wymagająca nie tylko pielęgnacji, ale również właściwej uprawy z uwagi na to, że hodowany jest na zewnątrz w naturalnych warunkach atmosferycznych.
@@ -67,6 +58,8 @@ Obuwniki można sadzić również w słońcu, pod warunkiem zapewnienia im odpow
 
 Storczyk w domu to niemałe wyzwanie dla właściciela ze względu na wymagające warunki jego pielęgnacji. Aby kwitnienie przebiegało prawidłowo, a roślina mogła swobodnie wzrastać należy zadbać o kilka istotnych elementów, takich jak:
 
+{:.list.list-positive}
+
 * Odpowiednie podłoże - storczyki w doniczce wymagają specjalnego rodzaju podłoża. Musi ono jednocześnie cechować się wysoką chłonnością oraz swobodnie przepuszczać powietrze ku korzeniom. Najlepiej sprawdzi się gotowa ziemia do storczyków. Można także zdecydować się na przygotowanie podłoża własnej kompozycji.
 
 INFORMACJA  
@@ -77,15 +70,17 @@ Aby własnoręcznie przygotować podłoże pod storczyk możesz wymieszać ze so
 
 ![](/uploads/storczyk-w-domu.jpg)
 
+{:.list.list-positive}
+
 * Prawidłowe przesadzanie - każda roślina doniczkowa od czasu do czasu wymaga przesadzenia. Storczyki przesadza się, gdy roślina przestała mieścić się w doniczce lub gdy podłoże stało się zbyt miękkie. Standardowo storczyki przesadza się regularnie co około 2-3 lata. Podczas przesadzania ważne jest, aby doniczka miala optymalny rozmiar, dzięki czemu korzenie nie zostaną narażone na gnicie.
 
-Te kilka podstawowych zasad pielęgnacji storczyków pozwoli cieszyć się ich pięknymi, ozdobnymi kwiatami nawet przez kilka następnych lat.
-
-## Storczyk miniaturka - odmiana warta uwagi
+Te kilka podstawowych zasad pielęgnacji storczyków pozwoli cieszyć się ich pięknymi, ozdobnymi kwiatami nawet przez kilka lat od zakupu rośliny.
 
 ## Storczyk - cena rośliny
 
 Cena storczyków może być różna i jest zależna od kilku czynników. Jednym z podstawowych jest gatunek i rodzaj storczyka. W zależności od konkretnego gatunku różnica w cenie może sięgać nawet kilkudziesięciu złotych. Czym mniej spotykany i bardziej wymagający gatunek, tym większa jest cena storczyka. Ceny storczyków doniczkowych wahają się od około 35 zł do nawet ponad 100 zł za sztukę. Natomiast storczyk ogrodowy to koszt rzędu kilkudziesięciu złotych lub więcej. Cena storczyka może być również zależna od miejsca jego zakupu. Kwiaty sprzedawane w kwiaciarniach lub specjalistycznych sklepach ogrodniczych zwykle są również droższe od tych, które znaleźć można na półkach supermarketu.
+
+![](/uploads/storczyk-cena-rosliny.jpg)
 
 ## Dlaczego storczyk nie kwitnie? Poznaj 3 najczęstsze przyczyny
 
