@@ -6,8 +6,14 @@ toc: true
 promoted: false
 update_date: 2020-05-08
 title: Dlaczego warto zasadzić dereń jadalny w swoim ogrodzie?
-description: Dlaczego warto zasadzić dereń jadalny w swoim ogrodzie?
-intro: Dlaczego warto zasadzić dereń jadalny w swoim ogrodzie?
+description: Dereń jadalny to roślina o wielu właściwościach. Zobacz, dlaczego warto
+  zasadzić dereń jadalny w swoim ogrodzie i dowiedz się jak możesz wykorzystać go
+  w kuchni.
+intro: Dereń jadalny to roślina o wielu właściwościach. Ten nietypowy krzew ozdobny
+  może nie tylko pięknie wyglądać w ogrodzie, ale również przyczynić się do poprawy
+  zdrowia. Owoce derenia jadalnego są bardzo smaczne i mają korzystny wpływ na funkcjonowanie
+  organizmu. Sprawdź, dlaczego warto zasadzić dereń jadalny w swoim ogrodzie i dowiedz
+  się, jak łatwo wykorzystywać go w kuchni.
 image: "/uploads/deren-jadalny-glowne.jpg"
 related_products: []
 published: false
