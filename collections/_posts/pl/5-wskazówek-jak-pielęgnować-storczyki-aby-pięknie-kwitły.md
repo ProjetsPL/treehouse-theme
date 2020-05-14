@@ -123,3 +123,35 @@ W czasie spoczynku kwiatów należy całkowicie zrezygnować z nawożenia storcz
 {% fig %}
 ![](/uploads/zle-dbrany-nawoz.jpg)
 {% endfig %}
+
+{% faqItem %} {% faqQuestion %}   
+Jak długo kwitnie storczyk?  
+ {% endfaqQuestion %}
+
+{% faqAnswer %}   
+Czas kwitnienia storczyka to 3-4 miesięcy. Jeśli jednak storczyk jest mocno rozrośnięty może zakwitać kilka razy do roku, a nawet kwitnąć nieprzerwanie.  
+{% endfaqAnswer %}   
+{% endfaqItem %}  
+Co zrobić, gdy storczyk przekwitnie?  
+{% faqItem %} {% faqQuestion %}   
+{% endfaqQuestion %}
+
+{% faqAnswer %}   
+W przypadku przekwitu storczyka należy przede wszystkim pozbyć się jego przekwitniętych pędów. Bardzo ważne jest to, aby przycinać kwiat zgodnie z podstawowymi zasadami pielęgnacji. W przeciwnym wypadku storczyk może mieć problem z ponownym kwitnieniem.  
+ {% endfaqAnswer %} {% endfaqItem %}
+
+{% faqItem %} {% faqQuestion %}   
+Co zrobić, żeby stroczyk miał dużo kwiatów?  
+{% endfaqQuestion %}
+
+{% faqAnswer %}   
+Ilość kwiatów zależy zarówno od gatunku storczyka, jak i odpowiedniej pielęgnacji rośliny. Bardzo ważne jest dostarczanie kwiatom potrzebnych składników odżywczych. W tym celu należy dbać o ich regularne nawożenie i nawadnianie.  
+{% endfaqAnswer %} {% endfaqItem %}
+
+{% faqItem %} {% faqQuestion %}   
+Kiedy storczyk wypuszcza nowe pędy?  
+{% endfaqQuestion %}
+
+{% faqAnswer %}   
+Storczyk wypuszcza pędy wraz z okresem kwitnienia, które może odbywać się w różnych porach roku. Proces ten jest zależny od konkretnego gatunku. Niektóre gatunki storczyków kwtną częściej niż raz do roku, a co za tym idzie, częściej również wypuszczają nowe pędy.  
+{% endfaqAnswer %} {% endfaqItem %}
