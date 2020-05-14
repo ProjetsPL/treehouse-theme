@@ -38,4 +38,28 @@ There are several species of grass typically planted in gardens. The most popula
 
 {:.list}
 
-* 
+* **Sheep's fescue** – a slow growing species, highly resistant to atmospheric and climate conditions, with extensive root system. This type of grass seed should be planted in acidic soil, with a good access to sunlight.
+* **Creeping red fescue** – grass of a fast growth rate, resistant to trampling and weather conditions. It has rather this straws, although it grows in clumps, which contributes to fast development of the lawn.
+* **Common bent** – this species is not very demanding when it comes to cultivation. It has short and thin straws, and it's very easy to mow.
+
+{% fig %}
+
+![Common grass – a classic grass seed for your garden](/uploads/trawa-pospolita.jpg "Common grass – a classic grass seed for your garden")
+
+{% endfig %}
+
+### Meadow grass – an unusual lawn idea
+
+**Meadow grass seed** (poa) is a very original choice, as it's characterized by **rich blooming**. It can be used for planting grass in your garden. The straws are quite tall and lush, with lots of flowers. This way you can achieve an artistic, messy look of your lawn with a very natural effect. Popular species used as meadow grass are:
+
+{:.list}
+
+* **Meadow fescue** – a popular species of tall meadow grass, reaching up to one meter. This type of grass is perfect for flower garden, as well as for filling spots in a rock garden.
+* **Bluegrass** – grass with dark-green straws, reaching up to 70 cm of height. It blooms from mid-spring to end-summer.
+* **Common cottongrass** – a species of moderate height, reaching up to 40 cm. It blooms with characteristic round, grey, fluffy flowers.
+
+{% fig %}
+
+![Meadow grass – an unusual lawn idea](/uploads/trawa-lakowa.jpg "Meadow grass – an unusual lawn idea")
+
+{% endfig %}
