@@ -13,7 +13,6 @@ related_products: []
 published: false
 
 ---
-![](/uploads/dzem-deren-jadalny.jpg)dereń (18k)
 
 dereń jadalny (7,9k)
 
@@ -62,9 +61,17 @@ Nalewka posiada również walory smakowe, dlatego można spożywać ją w czyste
 
 Aby przygotować nalewkę z derenia należy kilogram owoców derenia wymieszać z 5 łyżkami suszonych jagód, a następnie całość obficie zalać spirytusem. Słoik z nalewką przez pierwsze dni powinno przechowywać się w ciepłym miejscu, potrząsając nim co 2-3 dni. Po 5 tygodniach należy odlać spirytus od owoców i schować do lodówki. Owoce natomiast trzeba zasypać cukrem i odczekać do całkowitego jego rozpuszczenia. 
 
+![](/uploads/nalewka-z-derenia.jpg)
+
+Powstały syrop wystarczy połączyć ze spirytusem umożliwiając mu wejście w proces klarowania. Ostatnim krokiem jest przefiltrowanie powstałej nalewki dereniowej przez gazę do szklanych butelek. Tak przygotowaną nalewkę można przechowywać w zimnym pomieszczeniu nawet przez kilka lat.
+
 ### Zrób smaczne przetwory z derenia
 
-dżem z derenia
+Dżem z derenia to doskonały dodatek do kanapek i deserów. Posiada pyszny słodko-kwaśny smak, który dodaje wyrazistości spożywanym posiłkom. Dodatkowo jego bogate właściwości odżywcze sprawiają, że konfitury z derenia są nie tylko smaczne, ale i zdrowe.
 
 UWAGA  
 Zarówno przetwory, jak i świeże owoce derenia mogą być szkodliwe dla osób cierpiących na choroby wrzodowe żołądka.
+
+Aby przygotować przetwory z derenia należy w pierwszej kolejności dokładnie opłukać, obrać i wydrylować owoce z pestek. Następnym krokiem jest zagotowanie syropu z cukru i wody w proporcji 0,5 litra wody na 2 kg cukru. Owoce należy przesypać  syropu i pozostawić do nasiąknięcia na 24 godziny. Następnie wystarczy zagotować syrop na małym ogniu, doprowadzając do wrzenia. Gorący dżem z derenia należy przełożyć do słoików i przechowywać szczelnie zamknięte.
+
+![](/uploads/dzem-deren-jadalny.jpg)
