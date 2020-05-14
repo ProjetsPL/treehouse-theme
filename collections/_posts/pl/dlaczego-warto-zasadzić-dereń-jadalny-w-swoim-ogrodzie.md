@@ -13,33 +13,39 @@ related_products: []
 published: false
 
 ---
-dereń jadalny (7,9k)
-
-dereń odmiany (500)
-
-dereń jadalny uprawa (350)
-
-dereń nalewka (300)
-
-przetwory z derenia (100)
-
-dereń właściwości (100)
-
-dereń przepisy (90)
-
-dżem z derenia (80)
-
 ## Czym jest dereń i co go wyróżnia?
+
+Dereń to krzew ozdobny z rodziny roślin dereniowatych, która swoją nazwę zawdzięcza właśnie temu gatunkowi. Ten oryginalny krzew występuje w kilkudziesięciu gatunkach - część z nich przystosowana jest do uprawy w ogrodzie. Pozostałe gatunki można natomiast spotkać w lasach lub zaroślach. W Polsce największą popularnością cieszy się dereń jadalny.
+
+Tym co wyróżnia go spośród innych krzewów jest mnogość jego zastosowań oraz łatwość uprawy. Dereń jest nie tylko pięknym krzewem, który stanowi ozdobę ogrodu, ale również posiada właściwości korzystne dla ludzkiego zdrowia. Ponadto jest rośliną o małych wymaganiach uprawnych, dzięki czemu nadaje się idealnie dla osób, którym zwykle brakuje czasu na pielęgnację roślin ogrodowych.
+
+![](/uploads/deren-jadalny-w-ogrodzie.jpg)
 
 ## Odmiany derenia najlepsze do sadzenia w ogrodzie
 
 Jedną z najczęściej spotykanych odmian dereni do ogrodu jest zdecydowanie dereń jadalny, inaczej nazywany Cornus mas. Tak duże zainteresowanie wynika zapewne z jego bogatych właściwości, które można szeroko wykorzystywać nie tylko w ogrodzie, ale również poza nim. Dereń jadalny charakteryzuje się drobnymi, czerwonymi owocami o kulistym kształcie. Czerwony kolor owoców potrafi wspaniale ożywić ogród zarówno latem jak i zimą.
 
-Dereń występuje również w wielu odmianach ozdobnych, które mogą stanowić piękną dekorację ogrodu. Ten najbardziej popularne i warte uwagi gatunki to między innymi
+![](/uploads/deren-jadalny-gatunki.jpg)
 
-Inne warte uwagi odmiany derenia to między innymi 
+Dereń występuje również w wielu odmianach ozdobnych, które mogą stanowić piękną dekorację ogrodu. Ten najbardziej popularne i warte uwagi gatunki to między innymi Dereń biały (Cornus alba) - sięgający nawet do 3 metrów wysokości, pochodzący z Japonii Dereń kousa - o oryginalnym kształcie, czy wyjątkowo wysoki Dereń głowiasty - odporny na ujemne temperatury i trudne warunki atmosferyczne.
+
+![](/uploads/deren-bialy.jpg)
 
 ## Dereń jadalny - uprawa i pielęgnacja krzewu
+
+Uprawa derenia jadalnego jest stosunkowo prosta. Jednak konieczne jest zachowanie kilku podstawowych zasad pielęgnacji aby krzew rozwijał się prawidłowo i mógł zdobić ogród przez lata. Jedną z istotnych kwestii jest usytuowanie derenia oraz uprawa krzewu na odpowiednio przystosowanym podłożu. Dereń powinien rosnąć w miejscu z dostępem do światła słonecznego lub w połowicznym zacienieniu. Najlepsze podłoże dla hodowli derenia to grunt wapienny lub gleba delikatnie kwaśna i wilgotna. Ponadto dereń jadalny bardzo źle znosi stojącą wodę. Z tego względu należy unikać sadzenia go na glebach o złej przepuszczalności wody do korzeni.
+
+Aby zasadzić dereń jadalny w ogrodzie wystarczy zakupić gotową sadzonkę w sklepie ogrodniczym. Przed sadzeniem należy skrócić wszystkie nadziemne pędy i zbyt szeroko rozrośnięte korzenie o 1/3 ich długości. Dereń jadalny rośnie do około 6-8 m wysokości i zwykle przybiera formę wysokiego krzewu lub drzewa. Dlatego planując sadzenie rośliny należy zapewnić jej odpowiednią przestrzeń do wzrostu. 
+
+![](/uploads/kwitnacy-deren-jadalny-w-ogrodzie.jpg)
+
+INFORMACJA  
+Dereń jadalny przez pierwsze 2 lata rośnie bardzo wolno, dlatego pierwsze widoczne efekty można zauważyć dopiero po około 3 latach od zasadzenia. 
+
+Aby dereń jadalny rozwijał się i wzrastał prawidłowo należy go odpowiednio pielęgnować. Dwie najważniejsze kwestie pielęgnacyjne to regularne nawadnianie i nawożenie krzewu. Mimo, że dereń dobrze znosi susze, mają one niekorzystny wpływ na prawidłowe owocowanie rośliny. Należy więc dbać o to, by regularnie podlewać krzew oraz dostarczać mu potrzebnych składników odżywczych. W tej kwestii roślina nie jest wymagająca. Wystarczy nawozić dereń raz do roku z początkiem wiosny, aby zapewnić mu wzrost i odżywienie.
+
+UWAGA  
+Dereń jadalny nie wymaga przycinania. Mechaniczne naruszenie wzrostu krzewu może wpłynąć na mniejsze owocowanie rośliny.
 
 ## Jak wykorzystać dereń w kuchni? Właściwości owoców derenia  jadalnego
 
@@ -81,3 +87,19 @@ Zarówno przetwory, jak i świeże owoce derenia mogą być szkodliwe dla osób 
 Aby przygotować przetwory z derenia należy w pierwszej kolejności dokładnie opłukać, obrać i wydrylować owoce z pestek. Następnym krokiem jest zagotowanie syropu z cukru i wody w proporcji 0,5 litra wody na 2 kg cukru. Owoce należy przesypać  syropu i pozostawić do nasiąknięcia na 24 godziny. Następnie wystarczy zagotować syrop na małym ogniu, doprowadzając do wrzenia. Gorący dżem z derenia należy przełożyć do słoików i przechowywać szczelnie zamknięte.
 
 ![](/uploads/dzem-deren-jadalny.jpg)
+
+{% faqItem %} {% faqQuestion %}   
+Co to jest dereń?  
+{% endfaqQuestion %}
+
+{% faqAnswer %}   
+Dereń to roślina z gatunku krzewów ozdobnych. Wyróżnia się około kilkudziesięciu rodzajów dereni. Większość z nich rośnie samodzielnie, jednak istnieją również gatunki przeznaczone do sadzenia w ogrodzie - jednym z nich jest dereń jadalny.  
+{% endfaqAnswer %} {% endfaqItem %}
+
+{% faqItem %} {% faqQuestion %}   
+Jak drylować dereń?  
+{% endfaqQuestion %}
+
+{% faqAnswer %}   
+Drylowanie dereni należy rozpocząć od dokładnego przebrania i wymycia owoców. Następnie trzymając owoc w dłoni za pomocą kciuka i palca wskazującego trzeba ścisnąć kilkukrotnie. Po oddzieleniu pestki od miąższu należy usunąć ją ze środka owocu.  
+Aby  {% endfaqAnswer %} {% endfaqItem %}
