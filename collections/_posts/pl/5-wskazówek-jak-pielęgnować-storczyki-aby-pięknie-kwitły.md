@@ -37,7 +37,9 @@ Przesadzanie storczyka ogrodowego należy przeprowadzać wyłącznie wczesną wi
 UWAGA  
 Bardzo często właściciele storczyków ogrodowych decydują się na ich rozmnażanie poprzez wysianie niewielkich nasion tuż obok roślin matecznych. Sposób ten jest jednak mało skuteczny lub całkowicie bezskuteczny dla większości przypadków.
 
+{% fig %}
 ![](/uploads/jak-przesadzac-storczyki.jpg)
+{% endfig %}
 
 ### Łatwe w uprawie gatunki storczyków ogrodowych
 
@@ -45,11 +47,15 @@ Choć storczyk ogrodowy może wydawać się wymagającą rośliną, w rzeczywist
 
 Decydując się na konkretny gatunek storczyków ogrodowych mamy do wyboru zarówno kwiaty rosnące pojedynczo, jak i takie rozrastające się na boki, tworzące obszerne kępy kwiatowe. Do gatunków rozrastających się można zaliczyć między innymi popularny storczyk ogrodowy o nazwie Bletilla Pasiasta. 
 
+{% fig %}
 ![](/uploads/obuwik-pospolity.jpg)
+{% endfig %}
 
 Szczególnie wartym uwagi jest także storczyk z rodzaju Obuwik pospolity. To jeden z najczęściej wybieranych gatunków ze względu na łatwość jego pielęgnacji oraz nietuzinkową urodę. Aby ten gatunek stał się długotrwałą ozdobą ogrodu należy zasadzić go w zacienionym miejscu, najlepiej w towarzystwie paproci ogrodowych i bylin. 
 
+{% fig %}
 ![](/uploads/obuwik-pospolity-2.jpg)
+{% endfig %}
 
 INFORMACJA  
 Obuwniki można sadzić również w słońcu, pod warunkiem zapewnienia im odpowiedniego podłoża. Takie podłoże powinno być przede wszystkim próchnicze, dzięki czemu latem nabierze wilgoci a zimą nie będzie zbierała się na nim woda.
@@ -69,6 +75,7 @@ Aby własnoręcznie przygotować podłoże pod storczyk możesz wymieszać ze so
 * Usytuowanie doniczki - wybór miejsca, w którym stanie storczyk ma bardzo duży wpływ na jego kwitnienie i rozwój. Storczyki są bardzo delikatne i źle znoszą przeciągi. Z tego względu najlepiej jest postawić je z dala od miejsc, do których docierają  silne podmuchy wiatru. Dodatkowo, storczyki powinny znajdować się w miejscu delikatnie zacienionym, gdyż zbyt duże nasłonecznienie może hamować ich rozwój.
 
 ![](/uploads/storczyk-w-domu.jpg)
+{% endfig %}
 
 {:.list.list-positive}
 
@@ -80,7 +87,9 @@ Te kilka podstawowych zasad pielęgnacji storczyków pozwoli cieszyć się ich p
 
 Cena storczyków może być różna i jest zależna od kilku czynników. Jednym z podstawowych jest gatunek i rodzaj storczyka. W zależności od konkretnego gatunku różnica w cenie może sięgać nawet kilkudziesięciu złotych. Czym mniej spotykany i bardziej wymagający gatunek, tym większa jest cena storczyka. Ceny storczyków doniczkowych wahają się od około 35 zł do nawet ponad 100 zł za sztukę. Natomiast storczyk ogrodowy to koszt rzędu kilkudziesięciu złotych lub więcej. Cena storczyka może być również zależna od miejsca jego zakupu. Kwiaty sprzedawane w kwiaciarniach lub specjalistycznych sklepach ogrodniczych zwykle są również droższe od tych, które znaleźć można na półkach supermarketu.
 
+{% fig %}
 ![](/uploads/storczyk-cena-rosliny.jpg)
+{% endfig %}
 
 ## Dlaczego storczyk nie kwitnie? Poznaj 3 najczęstsze przyczyny
 
@@ -93,7 +102,9 @@ Jednym z powodów, przez który storczyk nie kwitnie prawidłowo może być zły
 INFORMACJA  
 Jednym z gatunków, który wyjątkowo źle reaguje na ten sposób przycinania jest falenopsis. W przypadku tego gatunku należy poczekać do całkowitego obumarcia pędów, a następnie bezpiecznie je usunąć.
 
+{% fig %}
 ![](/uploads/zle-podcinane-storczyki.jpg)
+{% endfig %}
 
 ### Roślina hodowana przy zbyt niskiej temperaturze
 
@@ -109,4 +120,6 @@ Przyczyną nieprawidłowego kwitnienia storczyków lub jego braku może być tak
 INFORMACJA  
 W czasie spoczynku kwiatów należy całkowicie zrezygnować z nawożenia storczyków. Natomiast podczas kwitnienia pąków nawożenie powinno być intensywniejsze.
 
+{% fig %}
 ![](/uploads/zle-dbrany-nawoz.jpg)
+{% endfig %}
