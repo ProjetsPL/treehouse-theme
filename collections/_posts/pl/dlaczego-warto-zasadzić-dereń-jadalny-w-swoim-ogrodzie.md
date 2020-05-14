@@ -42,9 +42,9 @@ Czym jest dereń i co go wyróżnia?
 
 ### Na co pomagają owoce derenia jadalnego?
 
-Owoce derenia jadalnego są źródłem wielu witamin i minerałów, dlatego mogą działać prozdrowotnie lub leczniczo. Spożywanie owoców derenia jadalnego wpływa korzystnie na:
+Owoce derenia jadalnego są źródłem wielu witamin i minerałów, dlatego mogą działać prozdrowotnie a nawet leczniczo. Spożywanie owoców derenia jadalnego wpływa korzystnie na:
 
-* 
+* Odporność organizmu - dereń cechuje się wysoką zawartością witaminy /c
 
 ### Dereniowa nalewka na przeziębienie
 
