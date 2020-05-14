@@ -92,7 +92,7 @@ Wybór oświetlenia to bardzo ważny element podczas aranżacji małej łazienki
 
 * **Natężenie światła** - w zależności od pożądanego efektu należy również pomyśleć o natężeniu światła. Zbyt ciemne światło w pomieszczeniu bez okien może być wyjątkowo problematyczne i uciążliwe przy dłuższym użytkowaniu, na przykład wykonując codzienną rutynę pielęgnacyjną lub robiąc pranie.
 
-**Niemałe znaczenie ma również kąt padania promieni świetlnych.** Umieszczenie oświetlenia pod odpowiednim kontem optycznie powiększy małą łazienkę, dzięki czemu przestrzeń nie wyda się przytłoczona.
+**Niemałe znaczenie ma również kąt padania promieni świetlnych.** Umieszczenie oświetlenia pod odpowiednim kątem optycznie powiększy małą łazienkę, dzięki czemu przestrzeń nie wyda się przytłoczona.
 
 Zasada jest więc prosta - **stawiaj na wiele punktów świetlnych.** A przede wszystkim łącz ze sobą różnego rodzaju lampy - baw się ich wielkościami. To teraz bardzo modne.
 
