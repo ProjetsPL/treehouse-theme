@@ -8,13 +8,13 @@ description: Evergreen plants are important part of every garden. What is the be
   or shrub.
 image: "/uploads/shrub-for-your-garden.jpg"
 promoted: false
-update_date: 2020-02-05
+update_date: 2020-05-14
 intro: Thuja trees are quite popular plants growing in many gardens. They can be used
-  as windscreens, thick hedges and shrubs. Thuja is an evergreen, pollution and heat
-  resistant plant. It grows pretty quick and is quite resilient. If you are designing
-  your own garden, you should consider choosing such a plant, for instance thuja green
-  giant. It is worth to learn how to take care of a thuja, so that it is always beautiful
-  and healthy.
+  as windscreens, thick hedges and shrubs. Thuja is an evergreen, pollution- and heat-resistant
+  plant. It grows pretty quick and is quite resilient. If you are designing your own
+  garden, you should consider choosing such a plant, for instance thuja green giant.
+  You should learn how to take care of a thuja, so that it is always beautiful and
+  healthy.
 main_keywords:
 - shrub
 - thuja green giant
@@ -27,18 +27,18 @@ main_keywords:
 - where to buy thuja
 
 ---
-## What is thuja tree?
+## Thuja trees - universal plants
 
-**Thuja, or arborvitae** is a coniferous tree native to Asia and North America. Because of the versatility of those trees, they are used worldwide as garden plants. They can be planted in groups as well as a single, individual plant. Thuja has a lot of varieties which can be useful for various conditions. Such a wide choice provided by those plants is the main reason for their popularity among gardeners.
+**A thuja, or arborvitae** is a coniferous tree native to Asia and North America. Because of the versatility of those trees, they are used worldwide as garden plants. They can be planted in groups as well as a single, individual plant. Thuja has a lot of varieties which can be useful for various conditions. Such a wide choice provided by those plants is the main reason for their popularity among gardeners. **_Thuja occidentalis L._** is quite a popular variety.
 
 {:.distinction.distinction-information}
-Many types of thuja trees are exceptionally resistant to any conditions. They are easy to take care of and most of the species are evergreen. A thuja tree can be grown in a flowerpot, hence it can grow not only in the garden, but also on a balcony, a terrace or a patio. Any shorter variety can be used as a shrub, for instance in a rock garden.
+Many types of **thuja trees** are exceptionally resistant to any conditions. They are easy to take care of and most of the species are evergreen. A thuja tree can be grown in a flowerpot, hence **it can grow not only in the garden, but also on a balcony, a terrace or a patio**. Any shorter variety can be used as a shrub, for instance in a rock garden.
 
 Thuja trees are not very complicated to take care of. One should, however, learn a few basic facts, for instance when to plant a thuja, what type is the best for a shrub and how to take care of specific varieties, such as thuja green giant.
 
 ### Which type of thuja should I choose?
 
-There are a few types of arborvitaes and each of them differs by their specific requirements. Before choosing a particular one, one should consider which of them will suit their needs the best. The most common types of thujas are:
+There are a few types of arborvitaes, and each of them differs by their specific requirements. Before choosing a particular one, one should consider which of them will suit their needs the best. The most common types of thujas are:
 
 {:.list}
 
@@ -51,7 +51,7 @@ There are a few types of arborvitaes and each of them differs by their specific 
 
 {:.list}
 
-* **Chinese thuja** - also called oriental arborvitae. This type is native to Asia. Because it is very vulnerable to cold temperatures, it is rarely chosen for colder regions. This kind of shrub grows quite well in warm zones. it requires warm and sunny spots. Its advantages are high resistance to droughts and good tolerance of different types of soil.
+* **Chinese thuja** - also called oriental arborvitae. This type is native to Asia. Because it is very vulnerable to cold temperatures, it is rarely chosen for colder regions. This kind of shrub grows quite well in warm zones. It requires warm and sunny spots. Its advantages are high resistance to droughts and good tolerance of different types of soil.
 
 The best shrub to build hedges is eastern thuja.It does not grow too rapidly - about 30 centimetres a year. It develops few cones and has quite a regular shape. An oriental thuja, on the other hand, will not form a very high shrub (it reaches about 1 metre), therefore it’s perfect for a rock garden.
 
@@ -77,20 +77,18 @@ If you decided to choose a **balled and burlapped** plant, pay close attention t
 
 ## When to plant thujas?
 
-One of the most common questions when picking any type of plant, is when to plant them. Thuja trees that have been grown in containers can be planted all year long from early spring (mid-April) to late autumn.
-
-The best time to plant a thuja is early spring and late summer. Planted in spring, a shrub has time to acclimate and prepare for heat waves in summer. In contrast, if you plant your thuja in August or September, it will get ready for winter. Do not plant your shrub later than six weeks before the first freezes.
+Thuja trees that have been grown in containers can be planted all year long from early spring (mid-April) to late autumn. The best time to plant a thuja is early spring and late summer. **Planted in spring, a shrub has time to acclimate** and prepare for heat waves in summer. In contrast, if you plant your thuja in August or September, it will have time to get ready for winter. Do not plant your shrub later than six weeks before the first freezes. Otherwise, the plant might not take root.
 
 {:.distinction.distinction-information}
-Balled and burlapped thujas should be planted in April or from mid-August to mid-September. Plant them immediately after the purchase, before the roots get dry.
+Balled and **burlapped thujas** should be planted in April or from mid-August to mid-September. Plant them immediately after the purchase, before the roots get dry.
 
 {% fig %}
 ![When to plant thujas?](/uploads/when-to-plant-thujas.jpg "When to plant thujas?")
 {% endfig %}
 
-## Thuja tree - how to plant shrub?
+## Thuja tree - how to plant the shrub?
 
-The soil in which the shrub will grow should be fertile, loose and damp. Barren, dry soils will cause the plants to wither and their needles will become brown. One needs to pay attention to the needs of particular types of thujas - each variety needs a different land. You might also purchase a potting **soil mix prepared specifically for conifers**. You can also mix composted pine bark with peat moss.
+The soil in which the shrub will grow should be fertile, loose and damp. Barren, dry soils will cause the plants to wither, and their needles will become brown. One needs to pay attention to the needs of particular types of thujas - each variety needs a different land. You might also purchase a potting **soil mix prepared specifically for conifers**. You can also mix composted pine bark with peat moss.
 
 The spot for planting needs to be prepared accordingly. Get rid of all the weeds within 30-40 cm radius. For a hedgerow, weed out a 60 cm wide strip of land. Dig out a hole or multiple holes - they should be 2-3 times longer and wider that the root ball of your thuja.
 
@@ -113,13 +111,13 @@ Fill the holes halfway with the soil mix (either purchased at store or the one y
 
 ## How to take care of thuja trees?
 
-You need to take a proper care of your newly planted thuja trees, so that they grow well and do not wither. **Young thuja trees** don’t have long enough roots to draw water from the deeper ground. For this reason you need to care for them properly.
+You need to take a proper care of your newly planted thuja trees, so that they grow well and do not wither. **Young thuja trees** don’t have roots long enough to draw water from the deeper ground. For this reason you need to care for them properly.
 
 During the first weeks the plants should be **watered regularly** - mornings or evenings. If your shrub is exposed to heat waves and droughts, spray its needles with water. Do it before sunrise or after sunset, so the sun doesn’t burn the plant. In case of strong winds stake higher plants with bamboo or wooden sticks.
 
 If you decide to plant thujas, it is worth to buy a mycorrhizal inoculant and apply it as soon as you plant the trees. Such procedure makes it easier for your plants to draw water and nutrients from the ground. It saves a lot of time and money spent on the plants later. One should start **feeding the plants** in spring and finish around mid-July.
 
-You can use **general purpose fertiliser**, as well as plant food made specifically for conifers. From August to September you may use special autumn fertiliser which is low in nitrogen.
+You can use **general-purpose fertiliser**, as well as plant food made specifically for conifers. From August to September you may use special autumn fertiliser which is low in nitrogen.
 
 {:.distinction.distinction-information}
 You can prim your shrub from spring to mid-summer. It is especially important for hedges. The last trimming should be performed in August so that the branches don’t die during first freezings.
@@ -134,7 +132,7 @@ When to plant thuja green giant?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The best time to plant thuja trees is between early spring and late autumn. The only exception are balled and burlapped plants - the latest time they can be planted is mid-August. Do not plant your trees later than 6 weeks before the first freezes.
+The best time to plant thuja trees is between early spring and late autumn. The only exception is balled and burlapped plants - the latest time they can be planted is mid-August. Do not plant your trees later than 6 weeks before the first freezes.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
