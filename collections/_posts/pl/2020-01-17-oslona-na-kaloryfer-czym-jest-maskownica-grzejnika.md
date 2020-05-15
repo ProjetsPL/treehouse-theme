@@ -8,7 +8,7 @@ description: "Zależy Ci na estetycznym kaloryferze? Twoje wnętrze będzie wygl
   na kaloryfer."
 image: "/uploads/oslona-na-kaloryfer-main.jpg"
 promoted: false
-update_date: 2020-04-17
+update_date: 2020-05-15
 intro: Często zdarza się, że w nowo urządzonym mieszkaniu wszystko do siebie pasuje
   - poza jednym elementem. Jest nim nieestetyczny grzejnik. Mimo istnienia ozdobnych
   urządzeń tego typu, niestety większość rozwiązań grzewczych nie szczyci się pięknym
@@ -34,24 +34,28 @@ Dlatego maskownica grzejnika jest coraz bardziej popularnym sposobem na dopasowa
 
 Zakrycie mało atrakcyjnego elementu to nie jedyna funkcja, jaką może spełniać **osłona na kaloryfer**. Przy odpowiednim dopasowaniu takie rozwiązanie może stać się dodatkową półką, a także ochroną najmłodszych domowników. Do pokoju dziecięcego sprawdzi się ciekawa maskownica grzejnika z kolorowymi wzorami np. z ulubionymi postaciami malucha.
 
+{% fig %}
+![Czym jest osłona na kaloryfer?](/uploads/czy-zabudowa-grzejnika-sie-oplaca.jpg "Czym jest osłona na kaloryfer?")
+{% endfig %}
+
 ## Czy zabudowa grzejnika się opłaca?
 
 Większość instalatorów urządzeń grzewczych twierdzi, że osłona na grzejnik to marnotrawstwo energii. Z kolei zwolennicy maskownic wskazują na **korzyści płynące z takiego rozwiązania**. Przed podjęciem decyzji warto poznać obie strony, aby rozważyć, czy osłona na kaloryfer sprawdzi się w danym wnętrzu.
 
-{% fig %}
-![Czy zabudowa grzejnika się opłaca?](/uploads/czy-zabudowa-grzejnika-sie-oplaca.jpg "Czy zabudowa grzejnika się opłaca?")
-{% endfig %}
+### Osłona na grzejnik - jakie są jej zalety?
 
-### Osłona na grzejnik - zalety
-
-Najważniejszą i podstawową korzyścią płynącą z zabudowania grzejnika, jest **podniesienie walorów estetycznych w pomieszczeniu**. Jest to główny powód, dla którego właściciele mieszkań decydują się na zastosowanie tego rozwiązania. Maskownica grzejnika to element dekoracyjny, który można odpowiednio dopasować do wystroju wnętrza.
+Osłona na kaloryfer ma wiele zalet. Najważniejszą i podstawową korzyścią płynącą z zabudowania grzejnika i wykorzystania osłony na grzejnik, jest **podniesienie walorów estetycznych w pomieszczeniu**. Jest to główny powód, dla którego właściciele mieszkań decydują się na zastosowanie tego rozwiązania. Maskownica grzejnika to element dekoracyjny, który można odpowiednio dopasować do wystroju wnętrza.
 
 {:.distinction.distinction-information}
-Producenci oferują wiele rozwiązań, a w przypadku niestandardowych oczekiwań, element można dopasować na specjalne zamówienie. Wówczas możesz wybrać, z jakiego materiału ma zostać wykonana osłona na kaloryfer i dopasować jej wygląd do własnych preferencji.
+Producenci oferują wiele rozwiązań, a w przypadku niestandardowych oczekiwań, osłona na kaloryfer może zostać dopasowana na specjalne zamówienie. Wówczas możesz wybrać, z jakiego materiału ma zostać wykonana. Osłona na kaloryfer to element, który jak każdy inny można dopasować do własnych preferencji.
 
-Koszty tego elementu można zmniejszyć, decydując się na jego samodzielne wykonanie. Wbrew pozorom nie jest to bardzo trudne zadanie, a własnoręcznie zaprojektowana ozdoba przyniesie wiele satysfakcji. Niezależnie od sposobu wykonania, **maskownica grzejnika** zazwyczaj jest bardzo łatwa w montażu.
+{% fig %}
+![Osłona na grzejnik - jakie są jej zalety?](/uploads/oslona-na-kaloryfer-wzor.jpg "Osłona na grzejnik - jakie są jej zalety?")
+{% endfig %}
 
-Dodatkowa zaleta, jaką posiada obudowa grzejnika to jej **podwójna funkcjonalność**. Oprócz tego, że będzie doskonałą dekoracją, to może także pełnić funkcję półki. Można zabudować grzejnik tak, aby z zewnątrz przypominał komodę lub kredens. Maskownica grzejnika w sypialni może przybrać formę stolika nocnego, a pod oknem - siedziska lub ławeczki. Jeżeli w domu przebywają dzieci, to osłona zapewnia dodatkową ochronę przed poparzeniem. Ze względu na tę funkcję rozwiązanie to jest często stosowane w przedszkolach.
+Koszty maskownicy można zmniejszyć, decydując się na jej samodzielne wykonanie. Wbrew pozorom nie jest to bardzo trudne zadanie, a własnoręcznie zaprojektowana osłona na kaloryfer przyniesie wiele satysfakcji. Niezależnie od sposobu wykonania, **maskownica grzejnika** zazwyczaj jest bardzo łatwa w montażu.
+
+Dodatkowa zaleta, jaką posiada osłona na kaloryfer to jej **podwójna funkcjonalność**. Oprócz tego, że będzie doskonałą dekoracją, to może także pełnić funkcję półki. Można zabudować grzejnik tak, aby z zewnątrz przypominał komodę lub kredens. Maskownica grzejnika w sypialni może przybrać formę stolika nocnego, a pod oknem - siedziska lub ławeczki. Jeżeli w domu przebywają dzieci, to osłona na kaloryfer zapewnia dodatkową ochronę przed poparzeniem. Ze względu na tę funkcję rozwiązanie to jest często stosowane w przedszkolach.
 
 {:.distinction.distinction-information}
 Wykorzystanie elementu, jakim jest **osłona na kaloryfer**, jest o wiele prostsze i tańsze niż całkowita wymiana grzejnika. Remont instalacji to przede wszystkim inwestycja znacznej ilości czasu. Dodatkowo zakup grzejników dekoracyjnych wiążą się z większym wydatkiem niż w przypadku zwykłych urządzeń.
