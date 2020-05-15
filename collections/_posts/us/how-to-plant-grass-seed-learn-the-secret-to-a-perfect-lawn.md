@@ -21,8 +21,8 @@ description: "A lush, green lawn is your dream goal? You have no idea how to ach
   garden!"
 intro: Dreaming of a beautiful, green lawn? The right grass seed and proper maintenace
   are key to success. Learn how and when to plant grass seed so that it looks perfect
-  in your garden. Learn how self-repairing grass seed works, and use tips and tricks
-  to create a lawn that you've always dreamed of!
+  in your garden. Learn how self-repairing grass seed works, and use some tips and
+  tricks to create a lawn that you've always dreamed of!
 image: "/uploads/jak-siac-trawe-glowne.jpg"
 related_products: []
 published: false
