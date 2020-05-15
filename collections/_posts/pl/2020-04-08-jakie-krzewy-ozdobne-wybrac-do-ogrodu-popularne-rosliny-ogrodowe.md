@@ -10,27 +10,46 @@ main_keywords:
 - ciekawe rośliny do ogrodu
 toc: true
 promoted: false
-update_date: 2020-04-08
+update_date: 2020-05-15
 title: Jakie Krzewy Ozdobne Wybrać Do Ogrodu? Popularne Rośliny Ogrodowe
-description: "Estetyczny i zadbany ogród wymaga wysiłku. \U0001F331 Planujesz posadzić
-  nowe drzewa i krzewy? \U0001F333 Zobacz, jakie rośliny ogrodowe warto mieć w swojej
-  kolekcji."
-intro: Planujesz posadzić nowe drzewa i krzewy? Ładny i zadbany ogród wymaga nakładu
-  pracy i zaangażowania. Rośliny ogrodowe potrzebują odpowiednich warunków, aby móc
-  zdrowo rosnąć. Jednak przy odpowiedniej pielęgnacji zarówno krzewy, jak i drzewka
-  ozdobne do ogrodu mogą stanowić jego wyjątkową, naturalną dekorację. Zobacz, jakie
-  rośliny ogrodowe warto mieć w swojej kolekcji.
+description: "Marzysz o pięknym ogrodzie? \U0001F331 Planujesz posadzić krzewy ozdobne?
+  \U0001F333 Zobacz, jakie krzewy ogrodowe w tym sezonie są najpopularniejsze."
+intro: Planujesz posadzić nowe drzewa lub krzewy ogrodowe? Ładny i zadbany ogród wymaga
+  nakładu pracy i zaangażowania. Krzewy ozdobne potrzebują odpowiednich warunków,
+  aby móc odpowiednio rosnąć. Jednak przy odpowiedniej pielęgnacji zarówno krzewy
+  do ogrodu, jak i niewielkie drzewka ozdobne mogą stanowić jego wyjątkową, naturalną
+  dekorację. Zobacz, jakie rośliny ogrodowe warto mieć w swojej kolekcji.
 image: "/uploads/drzewa-do-ogrodu-2.jpg"
 related_products: []
 
 ---
-## Drzewa i krzewy do ogrodu – jak je sadzić i pielęgnować?
+## Najpopularniejsze krzewy ozdobne do ogrodu
 
-Żeby rośliny ogrodowe odpowiednio się rozwijały i rosły konieczne jest zapewnienie im właściwych warunków i **odpowiedniej pielęgnacji**. Poszczególne gatunki różnią się od siebie nie tylko wyglądem i sposobem kwitnienia. Każdy z nich wymaga **indywidualnego traktowania** odpowiadającego potrzebom konkretnego gatunku. Aby upewnić się, że odpowiednio dbasz o swoje krzewy i drzewa do ogrodu, przede wszystkim zapoznaj się z opisem wybranych gatunków na stronach leśnych szkółek.
+Krzewy ogrodowe potrafią odmienić każdą działkę. Wiele osób zastanawia się **jakie krzewy do ogrodu wybrać**. Najpopularniejsze krzewy ozdobne do ogrodu zachwycają swoimi kolorami. Wśród nich znajdują się między innymi: forsycje, hortensje, czy rododendrony nazywane także różanecznikami.
+
+{% fig %}
+![Najpopularniejsze krzewy ozdobne do ogrodu](/uploads/najpiekniejsze-krzewy-ogrodowe-forsycja.jpg "Najpopularniejsze krzewy ozdobne do ogrodu")
+{% endfig %}
+
+Można także zdecydować się na **krzewy ozdobne do ogrodu - liściaste**. Najpopularniejsze z nich to bukszpan wieczniezielony, irga błyszcząca, czy pęcherznica kalinolistna.
+
+Pamiętaj jednak, że wszystkie krzewy ozdobne do ogrodu wymagają innych warunków i odmiennej pielęgnacji. Liczy się w tym przypadku rodzaj gleby, nawożenie, czy naświetlenie miejsca, w którym znajdują się krzewy ogrodowe.
+
+{% fig %}
+![krzewy ozdobne do ogrodu - liściaste](/uploads/najpiekniejsze-krzewy-ogrodowe-bukszpan.jpg "krzewy ozdobne do ogrodu - liściaste")
+{% endfig %}
+
+## Drzewa i krzewy ogrodowe – jak je sadzić i pielęgnować?
+
+Żeby krzewy ogrodowe odpowiednio się rozwijały i rosły konieczne jest zapewnienie im właściwych warunków i **odpowiedniej pielęgnacji**. Poszczególne gatunki różnią się od siebie nie tylko wyglądem i sposobem kwitnienia. Każdy z nich wymaga **indywidualnego traktowania** odpowiadającego potrzebom konkretnego gatunku. Aby upewnić się, że odpowiednio dbasz o swoje krzewy i drzewa do ogrodu, przede wszystkim zapoznaj się z opisem wybranych gatunków na stronach leśnych szkółek.
+
+{% fig %}
+![Drzewa i krzewy ogrodowe – jak je sadzić i pielęgnować?](/uploads/jak-sadzic-krzewy-sadzonka.jpg "Drzewa i krzewy ogrodowe – jak je sadzić i pielęgnować?")
+{% endfig %}
 
 **Czy istnieją uniwersalne wskazówki, co do uprawy krzewów i drzew ogrodowych? Jakie czynniki wpływają na ich odpowiedni wzrost?**
 
-Większość gatunków drzew i krzewów wymaga przede wszystkim dużego dostępu do światła. Żadne rośliny nie przetrwają bez odpowiedniej ilości promieni słonecznych. Dlatego **sadząc drzewa i krzewy do ogrodu** dobrze jest upewnić się, że wybrałeś dla nich odpowiednie miejsce z dostępem do takiej ilości światła, jakiej faktycznie potrzebują.
+Większość gatunków drzew i roślin ogrodowych wymaga przede wszystkim dużego dostępu do światła. Żadne krzewy ozdobne nie przetrwają bez odpowiedniej ilości promieni słonecznych. Dlatego **sadząc drzewa i krzewy do ogrodu** dobrze jest upewnić się, że wybrałeś dla nich odpowiednie miejsce z dostępem do takiej ilości światła, jakiej faktycznie potrzebują.
 
 {:.distinction.distinction-warning}
 Nie należy przesadzać w żadną ze stron, ponieważ zbyt duże nasłonecznienie ma równie szkodliwy wpływ na rośliny ogrodowe, co jego brak.
@@ -46,7 +65,6 @@ Kiedy już uda Ci się wybrać i zasadzić rośliny ogrodowe w najbardziej dogod
 Podstawowe sposoby pielęgnacji roślin ogrodowych:
 
 {:.list.list-positive}
-
 * regularne nawadnianie/podlewanie,
 * nawożenie,
 * przycinanie drzew i krzewów,
@@ -77,6 +95,18 @@ Decydując się na konkretne drzewa i krzewy do ogrodu, warto wybierać nie tylk
 
 Istnieje wiele różnych gatunków roślin, które zakwitają w porze jesieni. Wśród nich znajdziesz między innymi: **azalię, klon, kalinę, brzozę czy miłorząb chiński.** Te i pozostałe jesienne gatunki drzew mogą tworzyć unikatowe kompozycje roślinne w połączeniu z pięknymi jesiennymi kwiatami, jak na przykład: **chryzantemy, astry, zimowity czy japońskie zawilce.** Wśród sezonowych roślin ogrodowych znajdziesz również kilka gatunków krzewów, których owoce stają się kolorową ozdobą ogrodu, gdy już z drzew opadną wszystkie liście. Do takich krzewów zaliczamy: pigwowiec pośredni, rokitnik wąskolistny, trzmielin, berberys czy chociażby niektóre gatunki jabłoni.
 
+{% fig %}
+![Krzewy ogrodowe - azalia](/uploads/krzewy-ozdobne-do-ogrodu-azalia.jpg "Krzewy ogrodowe - azalia")
+{% endfig %}
+
+{% fig %}
+![Krzewy ozdobne - kalina](/uploads/krzewy-ozdobne-do-ogrodu-kalina.jpg "Krzewy ozdobne - kalina")
+{% endfig %}
+
+{% fig %}
+![Drzewa ogrodowe - brzoza](/uploads/krzewy-ozdobne-do-ogrodu-brzoza.jpg "Drzewa ogrodowe - brzoza")
+{% endfig %}
+
 {:.distinction.distinction-information}  
 Wybierając drzewa i krzewy do ogrodu, bardzo ważne jest to, aby zwrócić uwagę na ulistnienie i pokrój roślin. Zbyt duża ilość krzewów o kolorowych liściach - żółtych, pomarańczowych lub czerwonawych – może przytłoczyć ogród i wprowadzić do niego niepotrzebny chaos.
 
@@ -93,6 +123,10 @@ Jedną z takich roślin jest między innymi **leszczyna pospolita**, której pę
 {:.distinction.distinction-information}
 Inne ciekawe rośliny do ogrodu zimowego to na przykład: złotolin japoński, dereń biały, brzoza, ale także gerbery, eustomy czy hiacynty.
 
+{% fig %}
+![Krzewy ogrodowe - Leszczyna](/uploads/krzewy-ogrodowe-leszczyna.jpg "Krzewy ogrodowe - Leszczyna")
+{% endfig %}
+
 ## Krzewy ozdobne wieloletnie – zachowaj piękny ogród przez długi czas
 
 W sklepach ogrodniczych znajdziesz **ogromny wybór gatunków roślin wieloletnich**. To takie drzewa i krzewy ogrodowe, które (w odróżnieniu od roślin sezonowych, i rocznych) zachowują się w ogrodzie przez długi czas. Decydując się na krzewy ozdobne wieloletnie, należy zastanowić się, jaki efekt aranżacyjny chcesz osiągnąć. Być może zależy Ci na kwitnących krzewach albo chcesz posadzić krzewy do ogrodu z kolorowymi kwiatami.
@@ -106,6 +140,10 @@ Najpopularniejsze drzewa i krzewy do ogrodu, które co roku zakwitają na nowo, 
 {% endfig %}
 
 Coraz częściej można także spotkać nieco mniej popularne, ale równie piękne **wieloletnie krzewy do ogrodu o kolorowych kwiatach**. Jednym z nich jest sięgająca wysokością nawet do 3 metrów Budleja Dawida. Posiada niezwykle ciekawe kwiaty, które przybierają różne barwy, w zależności od zasadzonej odmiany. Wśród nich znajdziesz takie kolory kwiatów jak fioletowe, różowe, czerwonawe, białe lub niebieskie. Budleja Dawida charakteryzuje się także pięknym zapachem.
+
+{% fig %}
+![ Krzewy ogrodowe ozdobne Budleja Dawida](/uploads/krzewy-ozdobne-budleja.jpg " Krzewy ogrodowe ozdobne Budleja Dawida")
+{% endfig %}
 
 {:.distinction.distinction-information}
 Intensywny zapach, który potrafi zwabić do ogrodu owady, posiada również jaśminowiec wonny. To krzew o wysokości 3 metrów i pięknych białych kwiatach. Dzięki odporności na mrozy co roku na przełomie wiosny i lata zakwita na nowo, ku uciesze właścicieli.
@@ -122,6 +160,14 @@ Jeśli interesują Cię **niskie wieloletnie rośliny ogrodowe**, możesz zwróc
 Ich kuliste, duże kwiaty wybarwiają się w zależności od zakwaszenia podłoża, zyskując kolor biały, różowy, fioletowy lub niebieski.
 
 Inne ciekawe propozycje wieloletnich krzewów do ogrodu to na przykład **żylistek wysmukły**. Bujny i gęsty krzew, rosnący do wysokości pół metra lub metra. Posiada piękne, białe kwiaty, kwitnące na przełomie wiosny i lata. Równie ciekawie ze względu na nietuzinkowe zabarwienie wygląda **pigwowiec japoński**. Jego kwiaty zakwitają na kolor biały, czerwony lub różowoczerwony, a na jego gałęziach pojawiają się jadalne, żółte owoce o słodkim smaku. Inne niewielkie rośliny ozdobne, które warto rozważyć w swoim ogrodzie to między innymi **irga pozioma** oraz **tawułą japońską**.
+
+{% fig %}
+![Krzewy ozdobne - Pigwowiec japoński](/uploads/krzewy-ozdobne-pigwowiec.jpg "Krzewy ozdobne - Pigwowiec japoński")
+{% endfig %}
+
+{% fig %}
+![Krzewy ozdobne - tawuła japońska](/uploads/krzewy-ozdobne-tawula.jpg "Krzewy ozdobne - tawuła japońska")
+{% endfig %}
 
 ### Wieloletnie, owocowe drzewka ozdobne do ogrodu
 
