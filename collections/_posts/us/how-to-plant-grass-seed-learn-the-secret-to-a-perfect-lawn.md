@@ -78,7 +78,7 @@ One of the most popular species of ornamental grass is feather reed grass, which
 
 **Self-repairing grass is a real gardening phenomenon.** What makes it different from any other type of grass seed is the unique growth and spreading process.
 
-Self-repairing grass seed can grow several blades ot of a single grain, and then they start to spread. It happens both vertically and horizontally, forming **thick bunches of grass**. Traditional types of grass also form bunches that spread, however their number remains the same. Self-repairing grass seed makes the lawn think and lush in a very short time.
+Self-repairing grass seed can grow several blades out of a single grain, and then they start to spread. It happens both vertically and horizontally, forming **thick bunches of grass**. Traditional types of grass also form bunches that spread, however their number remains the same. Self-repairing grass seed makes the lawn think and lush in a very short time.
 
 {% fig %}
 
@@ -86,13 +86,13 @@ Self-repairing grass seed can grow several blades ot of a single grain, and then
 
 {% endfig %}
 
-Self-repairing grass makes great surface for a heavily used lawn. For this reason it's a perfect solution for a graden with children. This type of grass seed is also very resistant to atmospheric condition, so it can survive heavy rains and freees.
+Self-repairing grass makes great surface for a heavily used lawn. For this reason it's a perfect solution for a garden with children. This type of grass seed is also very resistant to atmospheric condition, so it can survive heavy rains and freezes.
 
 ### Self-repairing grass – price
 
-**The price of self-repairing grass seed** differs depending on several factors. One of the most significant ones is the **manufacturer**. Good quality self-rapairing grass seed might cost even twice as much as other types. When choosing a particular brand you have to decide whether your primary criterion is the quality or quantity.
+**The price of self-repairing grass seed** differs depending on several factors. One of the most significant ones is the **manufacturer**. Good quality self-repairing grass seed might cost even twice as much as other types. When choosing a particular brand you have to decide whether your primary criterion is the quality or quantity.
 
-The size of the bag is crucial as well. A one kilogram package of self-repairing grass seed might be sufficient for a small garden, it is definitely not enough for a large garden.
+The size of the bag is crucial as well. A one-kilogram package of self-repairing grass seed might be sufficient for a small garden, it is definitely not enough for a large garden.
 
 ## How to plant grass seed? Preparing the ground
 
@@ -108,11 +108,11 @@ If the site is not cleaned up thoroughly, it might result in poor growth of the 
 
 {% endfig %}
 
-Another step in the process of soil preparation is **breaking the ground and testing its acidity**. It's a good indicator for which type of grass seed you should choose for a particular type of soil. For the best results, the soil should be fertile, airy and it should have moderate humidity.
+Another step in the process of soil preparation is **breaking the ground and testing its acidity**. It's a good indicator for which type of grass seed you should choose for a particular type of soil. For the best results, the soil should be fertile, airy, and it should have moderate humidity.
 
 {:.distinction.distinction-information}
 
-The acidity can be tested in two ways – by sending a sample to a lab or by using a special acidimeter. THe best acidity of a soil for grass seed is 5.5-6.5 pH.
+The acidity can be tested in two ways – by sending a sample to a lab or by using a special acidimeter. THe best acidity of a soil for grass seed is 5.5 – 6.5 pH.
 
 Make sure to **fertilize the soil** for a week before planting the grass seed. To do this, use a starter or a universal fertilizer You can purchase both at a garden center. Mix it with the soil according to the manufacturer's instructions.
 
@@ -122,7 +122,7 @@ The last, but equally important step of preparing the soil before planting grass
 
 A popular and quick method for planting grass seed is doing it **manually**. It involves seeding the grain yourself. To do this, you should **divide the prepared ground for several even parts**.
 
-When planting grass seed, it is advised to **do it crosswise**. This way the grain is evenly distributed and the grass can reach optimal density. To make things easier, start seeding in one direction, and as you come back, spread the rest in opposite. Rake the ground thoroughly afterwards. It helps to cover the seeds with soil, which will protect the sprouts from weather conditions.
+When planting grass seed, it is advised to **do it crosswise**. This way the grain is evenly distributed, and the grass can reach optimal density. To make things easier, start seeding in one direction, and as you come back, spread the rest in opposite. Rake the ground thoroughly afterwards. It helps to cover the seeds with soil, which will protect the sprouts from weather conditions.
 
 {% fig %}
 
@@ -146,7 +146,7 @@ Another, very important part is **watering the lawn.** To do it correctly, pour 
 
 If you want your lawn to be **green and lush**, try planting grass seed in particular months. When to plant grass seed so that it grows fast and well?
 
-Most of grass seed species require planting in autumn. It's the best season, mostly due to **weather and soil conditions**, characteristic for this part of the year. Planting grass seed from august to october protects the seeds from heavy rainfalls and high temperatures. Additionally, the soil humidity encourages the grass to sprout and grow.
+Most of the grass seed species require planting in autumn. It's the best season, mostly due to **weather and soil conditions**, characteristic for this part of the year. Planting grass seed from August to October protects the seeds from heavy rainfalls and high temperatures. Additionally, the soil humidity encourages the grass to sprout and grow.
 
 {% fig %}
 
@@ -158,7 +158,7 @@ Most of grass seed species require planting in autumn. It's the best season, mos
 
 {:.distinction.distinction-information}
 
-Some garden owners decide to plant grass seed in March. It is, however, not the best idea from the gardening point of view. Although there are some species resistant to atmospheric conditions, for instance some types of ornamental grasses, planting grass seed so early might result in poor growth.
+Some garden owners decide to plant grass seed in March. It is, however, not the best idea from the gardening point of view. Although there are some species that are resistant to atmospheric conditions – for instance some types of ornamental grasses, planting grass seed so early might result in poor growth.
 
 {% faqItem %}
 {% faqQuestion %}
