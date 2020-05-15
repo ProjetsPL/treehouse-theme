@@ -34,7 +34,6 @@ intro: Designing and decorating a small bathroom might be a real challenge. Limi
   dreams.
 image: "/uploads/mala-lazienka-glowne.jpg"
 related_products: []
-published: false
 
 ---
 ## A small bathroom remodel: big ideas for a tiny bathroom
@@ -49,7 +48,7 @@ When picking a color for a small bathroom, it is good to use delicate and bright
 
 {% fig %}
 
-![](/uploads/kolor-scian-lazienka.jpg)
+![Small bathroom themes – light color palette is always a good choice!](/uploads/kolor-scian-lazienka.jpg "Small bathroom themes – light color palette is always a good choice!")
 
 {% endfig %}
 
@@ -83,7 +82,7 @@ If a marble bathroom is too expensive for you, just choose the cheaper option an
 
 {% fig %}
 
-![](/uploads/marmurowa-lazienka.jpg)
+![Small bathroom decor with marble](/uploads/marmurowa-lazienka.jpg "Small bathroom decor with marble")
 
 {% endfig %}
 
@@ -177,7 +176,7 @@ When preparing a small bathroom design, pay attention not only to the looks, but
 What are the best floor tiles for small bathrooms?
 {% endfaqQuestion %}
 
-{% faqAnswer %} 
+{% faqAnswer %}
 
 You might choose any color of floor tiles for a small bathroom. They must, however, match the walls. Picking contrasting colors, for instance white walls and dark floor, might work well. Otherwise, pick one, bright shade both for the floor and walls.
 
