@@ -14,7 +14,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-05-08
-title: 6 wskazówek, jak pielęgnować storczyki, aby pięknie kwitły
+title: 6 Wskazówek, Jak Pielęgnować Storczyki, aby Pięknie Kwitły
 description: "Twój storczyk nie kwitnie prawidłowo? \U0001F33A Oto 6 wskazówek, które
   przywróci jego dawny wygląd. ➡️ Sprawdź, jak prosto pielęgnować storczyki."
 intro: Twój storczyk nie kwitnie prawidłowo i stracił swój wyjątkowy urok? Ten rodzaj
