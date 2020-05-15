@@ -34,21 +34,21 @@ product_category: lamp
 
 Antracyt to bardzo intrygująca barwa. Na czym polega tak naprawdę jego fenomen? Jest on zbliżony do czerni, jednak ma wyraźnie jaśniejszy odcień. To czyni go wyjątkowym.
 
-Ten rodzaj szarego znacznie zyskał na popularności w ostatnich latach. Jest to jednak kolor dosyć trudny w zastosowaniu. **Antracyt w aranżacji wnętrz** należy wkomponować w sposób ostrożny i umiejętny. Łatwo przytłoczyć pokój zbyt dużą ilością tej ciemnej barwy. Najlepiej stosować go w przestronnych wnętrzach. Nie oznacza to jednak, że w przypadku mniejszych pomieszczeń trzeba z niego całkowicie rezygnować. Warto natomiast w takim przypadku postawić na dodatki.
+Ten rodzaj szarego znacznie zyskał na popularności w ostatnich latach. Jest to jednak kolor dosyć trudny w zastosowaniu. **Antracytowy w aranżacji wnętrz** należy wkomponować w sposób ostrożny i umiejętny. Łatwo przytłoczyć pokój zbyt dużą ilością tej ciemnej barwy. Najlepiej stosować go w przestronnych wnętrzach. Nie oznacza to jednak, że w przypadku mniejszych pomieszczeń trzeba z niego całkowicie rezygnować. Warto natomiast w takim przypadku postawić na dodatki.
 
-Jeżeli wnętrza Twojego domu są przestronne, ale Ty sam nie masz pojęcia, jak właściwie wykorzystać antracyt - kolor pomoże "okiełznać" Ci specjalista do spraw aranżacji wnętrz. Skontaktuj się z kompetentną osobą, przedstaw jej swoje oczekiwania i **czekaj na gotowy projekt**. To rozwiązanie, które wybiera coraz większa grupa osób, chcących wprowadzić do swoich wnętrz antracyt.
+Jeżeli wnętrza Twojego domu są przestronne, ale Ty sam nie masz pojęcia, jak właściwie wykorzystać antracytowy kolor pomoże "okiełznać" Ci specjalista do spraw aranżacji wnętrz. Skontaktuj się z kompetentną osobą, przedstaw jej swoje oczekiwania i **czekaj na gotowy projekt**. To rozwiązanie, które wybiera coraz większa grupa osób, chcących wprowadzić do swoich wnętrz kolor antracyt.
 
 {% fig %}
 ![Antracyt - jaki to dokładnie kolor?](/uploads/antracyt-co-to-za-kolor.jpg "Antracyt - jaki to dokładnie kolor?")
 {% endfig %}
 
-**Antracyt jest kolorem uniwersalnym**, co zostało już wcześniej zaznaczone - w związku z tym można go dostosować tak naprawdę do każdego stylu. Dobrze sprawdzi się w nowoczesnych aranżacjach wnętrz. Pasuje szczególnie do **stylu skandynawskiego, industrialnego, jak i minimalistycznego**. Umiejętnie dopasowany kolor antracytowy nada pomieszczeniu indywidualnego i wyjątkowego charakteru, ożywiając wnętrze i podkreślając elementy wystroju.
+**Antracytowy jest kolorem uniwersalnym**, co zostało już wcześniej zaznaczone - w związku z tym można go dostosować tak naprawdę do każdego stylu. Dobrze sprawdzi się w nowoczesnych aranżacjach wnętrz. Pasuje szczególnie do **stylu skandynawskiego, industrialnego, jak i minimalistycznego**. Umiejętnie dopasowany kolor antracytowy nada pomieszczeniu indywidualnego i wyjątkowego charakteru, ożywiając wnętrze i podkreślając elementy wystroju.
 
 ## Antracyt na ścianach - czy to dobry pomysł?
 
 Antracyt to kolor, który idealnie sprawdzi się na ścianach - zarówno w domu, jak i w mieszkaniu - trzeba tylko pamiętać o jego umiejętnym wykorzystaniu.
 
-Kolor antracytowy w przeszłości pojawiał się na ścianach niezwykle rzadko. Ciemna barwa wydawała się mało ciekawa i zbyt mocna. Tymczasem umiejętnie wykorzystany antracyt może doskonale sprawdzić się w niemal **każdej przestrzeni**.
+Kolor antracytowy w przeszłości pojawiał się na ścianach niezwykle rzadko. Ciemna barwa wydawała się mało ciekawa i zbyt mocna. Tymczasem umiejętnie wykorzystany odcień antracytowy może doskonale sprawdzić się w niemal **każdej przestrzeni**.
 
 {:.distinction.distinction-information}
 Ten uniwersalny kolor znajdzie zastosowanie we wszystkich pomieszczeniach zaaranżowanych w nowoczesny sposób - kuchni, łazience, sypialni czy gabinecie.
@@ -57,7 +57,7 @@ Ten uniwersalny kolor znajdzie zastosowanie we wszystkich pomieszczeniach zaaran
 ![Antracyt na ścianach - czy to dobry pomysł?](/uploads/antracyt-na-scianach-czy-to-dobry-pomysl.jpg "Antracyt na ścianach - czy to dobry pomysł?")
 {% endfig %}
 
-Pomieszczenia, w których kolor antracyt sprawdzi się na ścianach, powinny być nie tylko przestronne, ale także dobrze oświetlone. Barwa ta dobrze sprawdzi się w pokojach o dużym natężeniu naturalnego światła. Najlepiej ozdabiać nią pokoje znajdujące się od strony **wschodniej, południowo-wschodniej oraz zachodniej**. Nie powinno się natomiast malować ścian na ciemnoszary w pomieszczeniach od strony północnej - będą one wyglądać zbyt ponuro i chłodno. W takich przypadkach lepiej połączyć tę barwę z innymi, jaśniejszymi odcieniami.
+Pomieszczenia, w których kolor antracyt sprawdzi się na ścianach, powinny być nie tylko przestronne, ale także dobrze oświetlone. Barwa ta dobrze sprawdzi się w pokojach o dużym natężeniu naturalnego światła. Najlepiej ozdabiać nią pokoje znajdujące się od strony **wschodniej, południowo-wschodniej oraz zachodniej**. Nie powinno się natomiast malować ścian na kolor antracytowy, czy ciemnoszary w pomieszczeniach od strony północnej - będą one wyglądać zbyt ponuro i chłodno. W takich przypadkach lepiej połączyć tę barwę z innymi, jaśniejszymi odcieniami.
 
 {:.distinction.distinction-warning}
 Jeżeli pomieszczenie ma niewielkie rozmiary, nie powinno się malować ścian na antracytowy. Intensywna, ciemna barwa tylko przytłoczyłaby już i tak małą przestrzeń. Lepszym rozwiązaniem jest pomalowanie ścian na neutralną, jasną barwę, która optycznie powiększy pokój. Antracyt w takim przypadku można wykorzystać do podkreślenia charakteru wystroju - za pomocą mebli i dodatków.
@@ -72,7 +72,7 @@ Jeżeli pomieszczenie ma niewielkie rozmiary, nie powinno się malować ścian n
 
 ### Kolor antracytowy - jak pokryć ściany, aby uniknąć nieoczekiwanych efektów?
 
-**Kolor antracytowy** jest idealnym wyborem, jeżeli chodzi o ściany. Jednak niespodziewanych efektów unikniesz wyłącznie pod warunkiem wyboru odpowiedniej farby. Emulsja w takiej barwie musi mieć określoną konsystencję, co sprawia, że daje **satynowe wykończenie**. 
+**Kolor antracytowy** jest idealnym wyborem, jeżeli chodzi o ściany. Jednak niespodziewanych efektów unikniesz wyłącznie pod warunkiem wyboru odpowiedniej farby. Emulsja w takiej barwie musi mieć określoną konsystencję, co sprawia, że daje **satynowe wykończenie**.
 
 Obawiasz się efektu przytłoczenia ze względu na antracytowy kolor? Zawsze możesz zdecydować się na pomalowanie tylko jednej, akcentowej ściany na ciemny odcień, a reszty - na jaśniejszą barwę np. w odcieniach bieli.
 
@@ -98,13 +98,13 @@ Ciekawym rozwiązaniem do salonu, w którym kolor ścian to antracyt, jest wybó
 ![Dodatki do ścian w ciemnym odcieniu](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-3.jpg "Dodatki do ścian w ciemnym odcieniu")
 {% endfig %}
 
-### Antracyt jako akcent na jasnej ścianie
+### Antracytowy jako akcent na jasnej ścianie
 
 Antracyt nie do każdego wnętrza nadaje się jako główny kolor ścian. Czy to oznacza, że musisz rezygnować całkowicie z tej barwy? Absolutnie! W takim przypadku kolor antracytowy - doskonale sprawdza się ona w roli **akcentu**.
 
 Do jasnych przestrzeni warto dobierać **ciemnoszare elementy wyposażenia**, takie jak zasłony, czy ozdobne poduszki. Dobrym pomysłem jest także wybór drobnych sprzętów w kolorze, jakim jest antracyt - krzeseł, stolików i lamp.
 
-{:.distinction.distinction-information} 
+{:.distinction.distinction-information}
 Elementy takie, jak drzwi, kaloryfery i ramy okien w w kolorze antracytowym również podkreślą jasne wnętrze. Takie wyposażenie wbrew pozorom ożywia jasne wnętrze, jednocześnie nadając mu charakteru. Antracyt w wielu przypadkach dodaje pomieszczeniu niezbędnej dynamiki i jest przełamaniem nudy.
 
 {% fig %}
@@ -196,6 +196,10 @@ Zależy Ci na eleganckiej i stylowej sypialni? Nic trudnego - wystarczy, że wyb
 {% fig %}
 ![Antracyt doskonały przy tapicerowanym łóżku](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-1-2.jpg "Antracyt doskonały przy tapicerowanym łóżku")
 {% endfig %}
+
+### Poduszki i pościel w antracytowym kolorze
+
+Jeżeli lubisz **mocne kolory**, ale nie chcesz, aby zdominowały całe wnętrze - wykorzystaj je w formie dodatków - także w sypialni! Bez przeszkód możesz wybrać **antracytowe poduszki** lub **całą pościel w kolorze antracytu**, szczególnie jeżeli Twoja sypialnia jest jasna. Antracytowe elementy wyposażenia nadają wnętrzu elegancji i klasy.
 
 ## Antracyt, czyli pomysł na wystrój łazienki
 
