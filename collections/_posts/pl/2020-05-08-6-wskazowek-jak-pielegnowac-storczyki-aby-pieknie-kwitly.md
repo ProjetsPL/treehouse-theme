@@ -65,6 +65,7 @@ Aby własnoręcznie przygotować podłoże pod storczyk, możesz wymieszać ze s
 * **Regularne nawadnianie** - podlewanie storczyków odbywa się w sposób nietypowy, ponieważ tego typu kwiaty ozdobne są bardzo narażone na gnicie korzeni. Z tego względu, **aby nawodnić storczyka należy umożliwić mu pobranie wody z powietrza**, stawiając naczynie z wodą za doniczką. Dzięki temu roślina sama pobierze odpowiednią ilość wody w dogodnym dla siebie momencie. Natomiast podczas bezpośredniego podlewania storczyków należy unikać całkowitego zanurzania korzeni w wodzie.
 * **Usytuowanie doniczki** - wybór miejsca, w którym stanie storczyk ma bardzo duży wpływ na jego kwitnienie i rozwój. Storczyki są bardzo delikatne i źle znoszą przeciągi. Z tego względu najlepiej jest postawić je z dala od miejsc, do których docierają  silne podmuchy wiatru. Dodatkowo storczyki powinny znajdować się w **miejscu delikatnie zacienionym**, gdyż zbyt duże nasłonecznienie może hamować ich rozwój.
 
+{% fig %}
 ![Jak dbać o storczyka w domu?](/uploads/storczyk-w-domu.jpg "Jak dbać o storczyka w domu?")
 {% endfig %}
 
