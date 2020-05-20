@@ -54,7 +54,7 @@ Jako, że każdy gatunek roślin doniczkowych jest inny - wymaga też specjalnej
 
 ![](/uploads/rosliny-doniczkowe.jpg)
 
-Jedną z podstawowych zasad pielęgnacji jest przede wszystkim regularne nawadnianie i podlewanie kwiatów. Ważne aby rośliny doniczkowe nawadniać zgodnie z zapotrzebowaniem konkretnych gatunków. Większość rodzajów kwiatów wymaga intensywnego podlewania w okresie wiosennym, ponieważ jest to czas kwitnienia. 
+Jedną z podstawowych zasad pielęgnacji jest przede wszystkim regularne nawadnianie i podlewanie kwiatów. Ważne aby rośliny doniczkowe nawadniać zgodnie z zapotrzebowaniem konkretnych gatunków. Większość rodzajów kwiatów wymaga intensywnego podlewania w okresie wiosennym, ponieważ jest to czas kwitnienia.
 
 Wiosna to pora roku, w której wykonuje się najwięcej prac z kwiatami doniczkowymi. Marzec i kwiecień to czas corocznego nawożenia roślin. Taka praktyka umożliwi roślinom prawidłowe kwitnienie, a także odżywi istniejące już pędy i korzenie. Wiosna to także dobry czas na przesadzanie rozrośniętych roślin do większych doniczek lub podział na mniejsze sadzonki.
 
@@ -65,13 +65,13 @@ O kwiaty doniczkowe należy troszczyć się również jesienią. To czas na przy
 
 ## Jakie kwiaty doniczkowe warto mieć w swoim domu?
 
-Najlepsze rośliny doniczkowe, jakie warto hodować w domu to te, które nie wymagają intensywnej i codziennej pielęgnacji. Dzięki temu Twoje rośliny doniczkowe będą wspaniałą ozdobą salonu nawet przy minimalnej opiece. 
+Najlepsze rośliny doniczkowe, jakie warto hodować w domu to te, które nie wymagają intensywnej i codziennej pielęgnacji. Dzięki temu Twoje rośliny doniczkowe będą wspaniałą ozdobą salonu nawet przy minimalnej opiece.
 
 Wybierając kwiaty doniczkowe pokojowe, warto jednak zwracać uwagę nie tylko na ich wygląd, ale także praktyczne właściwości, jakie rośliny mają do zaoferowania swoim właścicielom. Oto kilka popularnych kwiatów doniczkowych, które warto hodować w swoim domu:
 
 {:.list.list-positive}
 
-* **Pelargonia** - to jedna z najpopularniejszych, ozdobnych roślin doniczkowych. Od lat uprawiana na balkonach i parapetach przez babcie, ciocie i sąsiadów. Pelargonie nie tylko wyglądają estetycznie, przybierając piękny, intensywny kolor kwiatów, ale także posiadają szereg praktycznych właściwości. Olejek eteryczny znajdujący się w liściach pelargonii wykorzystywany jest do masaży leczniczych, inhalacji i kąpieli. Działa przeciwbakteryjnie i przeciwzapalnie. 
+* **Pelargonia** - to jedna z najpopularniejszych, ozdobnych roślin doniczkowych. Od lat uprawiana na balkonach i parapetach przez babcie, ciocie i sąsiadów. Pelargonie nie tylko wyglądają estetycznie, przybierając piękny, intensywny kolor kwiatów, ale także posiadają szereg praktycznych właściwości. Olejek eteryczny znajdujący się w liściach pelargonii wykorzystywany jest do masaży leczniczych, inhalacji i kąpieli. Działa przeciwbakteryjnie i przeciwzapalnie.
 
   {:.distinction.distinction-information}
 
@@ -83,7 +83,7 @@ Wybierając kwiaty doniczkowe pokojowe, warto jednak zwracać uwagę nie tylko n
 
 {:.list.list-positive}
 
-* **Skrzydłokwiat** - to wyjątkowa roślina doniczkowa, której właściwości potrafią zastąpić oczyszczacz powietrza. Roślina w sposób naturalny filtruje powietrze, wchłaniając szkodliwe dla organizmu toksyny. Skrzydłokwiaty to wspaniałe kwiaty do domu, szczególnie polecane osobom mającym problemy z oddychaniem lub cierpiącym na choroby układu oddechowego, jak na przykład astma. 
+* **Skrzydłokwiat** - to wyjątkowa roślina doniczkowa, której właściwości potrafią zastąpić oczyszczacz powietrza. Roślina w sposób naturalny filtruje powietrze, wchłaniając szkodliwe dla organizmu toksyny. Skrzydłokwiaty to wspaniałe kwiaty do domu, szczególnie polecane osobom mającym problemy z oddychaniem lub cierpiącym na choroby układu oddechowego, jak na przykład astma.
 * **Aloes** - to roślina doniczkowa, która cieszy się pochlebną opinią dotyczącą mnogości jej zastosowań. Zaczynając od bogactwa witamin i minerałów, jakie znajdują się w soku aloesowym aż po szereg właściwości leczniczych. Sok aloesowy ze świeżych liści pomaga na obrzęki, ukąszenia, a nawet młodzieńczy trądzik. Natomiast właściwości przeciwzapalne aloesu wspomagają leczenie chorób układu trawiennego. To zdecydowanie kwiat doniczkowy warty zasadzenia w każdym domu.
 
 ![](/uploads/aloes.jpg)
@@ -92,9 +92,23 @@ Wybierając kwiaty doniczkowe pokojowe, warto jednak zwracać uwagę nie tylko n
 
 ### Monstera - kwiat doniczkowy dla miłośników egzotyki
 
-### Orchidea - 
+Monstera to jeden z najpopularniejszych i jednocześnie najefektowniejszych kwiatów doniczkowych ostatnich czasów. Za jej pomocą z łatwością można stworzyć w domu własny egzotyczny ogród. 
 
-### **Bluszcz** - ta roślina doniczkowa, choć wygląda efektownie -zwykle nie budzi zbyt pozytywnych skojarzeń. 
+Monstera to roślina doniczkowa idealna dla każdego, ponieważ nie tylko wygląda wyjątkowo ciekawie, ale także jest kwiatem niewymagającym i łatwym w pielęgnacji. Dodatkowo, zielone rośliny doniczkowe wpisują się doskonale w obecne trendy, dlatego jeśli planujesz zakładanie miejskiej dżungli we własnym mieszkaniu, warto koniecznie pomyśleć nad dodaniem Monstery do swojej kolekcji.
+
+{% fig %}
+
+![](/uploads/monstera-kwiat-dla-milosnikow-egzotyki.jpg)
+
+{% endfig %}
+
+### Orchidea -
+
+### Bluszcz - 
+
+Ta roślina, choć wygląda efektownie - zwykle nie budzi pozytywnych skojarzeń. 
+
+### ta roślina doniczkowa, choć wygląda efektownie -zwykle nie budzi zbyt pozytywnych skojarzeń.
 
 ### XX
 
