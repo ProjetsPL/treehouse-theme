@@ -97,9 +97,7 @@ Monstera to jeden z najpopularniejszych i jednocześnie najefektowniejszych kwia
 Monstera to roślina doniczkowa idealna dla każdego, ponieważ nie tylko wygląda wyjątkowo ciekawie, ale także jest kwiatem niewymagającym i łatwym w pielęgnacji. Dodatkowo, zielone rośliny doniczkowe wpisują się doskonale w obecne trendy, dlatego jeśli planujesz zakładanie miejskiej dżungli we własnym mieszkaniu, warto koniecznie pomyśleć nad dodaniem Monstery do swojej kolekcji.
 
 {% fig %}
-
 ![](/uploads/monstera-kwiat-dla-milosnikow-egzotyki.jpg)
-
 {% endfig %}
 
 ### Orchidea -
