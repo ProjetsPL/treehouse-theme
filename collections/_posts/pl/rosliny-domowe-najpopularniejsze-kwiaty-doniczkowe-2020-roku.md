@@ -17,42 +17,38 @@ toc: true
 promoted: false
 update_date: 2020-05-13
 title: Rośliny domowe - najpopularniejsze kwiaty doniczkowe 2020 roku
-description: Rośliny domowe - najpopularniejsze kwiaty doniczkowe 2020 roku
-intro: Rośliny domowe - najpopularniejsze kwiaty doniczkowe 2020 roku
+description: Uprawiasz domowe rośliny doniczkowe? Te gatunki z pewnością zrobią na
+  Tobie wrażenie. Sprawdź, jakie kwiaty doniczkowe są najpopularniejsze w 2020 roku.
+intro: 'Uprawiasz domowe rośliny doniczkowe? Te gatunki nie tylko wyglądają efektownie,
+  ale również są wyjątkowo łatwe w utrzymaniu. Przekonaj się, jakich popularnych kwiatów
+  wciąż brakuje w Twojej domowej kolekcji, a także poznaj łatwe sposoby na ich pielęgnację.
+  Sprawdź, jakie kwiaty doniczkowe są najpopularniejsze w 2020 roku. '
 image: "/uploads/jak-pielegnowac-rosliny-doniczkowe.jpg"
 related_products: []
 published: false
 
 ---
-kwiaty doniczkowe (28k)
-
-rośliny doniczkowe (7,1k)
-
-kwiaty domowe (3,4k)
-
-kwiaty doniczkowe pokojowe (2,6k)
-
-kwiat doniczkowy (2,4k)
-
-kwiaty doniczkowe domowe (1,6k)
-
-kwiaty do domu (1,2k)
-
-rośliny domowe (1,1k)
-
-roślina doniczkowa (700)
-
-kwiaty pokojowe (600)
-
-popularne kwiaty doniczkowe (500)
-
 ## Kwiaty doniczkowe - co warto o nich wiedzieć?
+
+Kwiaty doniczkowe to inaczej rośliny pokojowe lub domowe, uprawiane w ziemi, znajdującej się w różnego rodzaju naczyniach. Rośliny doniczkowe w prosty sposób wprowadzają naturalne środowisko do pomieszczeń zamkniętych, co wpływa relaksująco na przebywające w nich osoby. Pełnią funkcje ozdobną, umożliwiając jednocześnie kontakt z naturą.
+
+Kwiaty doniczkowe to rośliny wieloletnie lub sezonowe, zazwyczaj występujące w formie tradycyjnych kwiatów, pnączy, bylin lub miniaturowych drzew. W doniczkach uprawia się głównie rośliny o wysokich walorach estetycznych - o ciekawym zabarwieniu, kroju lub nietypowym kwitnieniu.
+
+{% fig %}
+
+![](/uploads/kwiaty-doniczkowe-co-warto-wiedziec.jpg)
+
+{% endfig %}
 
 ## Jak dbać o rośliny doniczkowe?
 
 Jako, że każdy gatunek roślin doniczkowych jest inny - wymaga też specjalnej pielęgnacji. Z tego względu wybierając konkretne rodzaje roślin doniczkowych należy stworzyć im warunki konieczne do prawidłowego wzrostu i kwitnienia. Istnieje jednak kilka uniwersalnych zasad, które pomogą Ci troszczyć się o kwiaty doniczkowe na co dzień.
 
+{% fig %}
+
 ![](/uploads/rosliny-doniczkowe.jpg)
+
+{% endfig %}
 
 Jedną z podstawowych zasad pielęgnacji jest przede wszystkim regularne nawadnianie i podlewanie kwiatów. Ważne aby rośliny doniczkowe nawadniać zgodnie z zapotrzebowaniem konkretnych gatunków. Większość rodzajów kwiatów wymaga intensywnego podlewania w okresie wiosennym, ponieważ jest to czas kwitnienia.
 
@@ -79,20 +75,28 @@ Wybierając kwiaty doniczkowe pokojowe, warto jednak zwracać uwagę nie tylko n
 * **Dracena** - to bardzo popularna roślina doniczkowa. Jako, że wymaga minimalnej uwagi i troski jest polecana szczególnie osobom, które lubią kwiaty, ale nie mają czasu ich codziennie pielęgnować. To roślina doniczkowa idealna dla osób zapracowanych lub roztrzepanych, gdyż ewentualne zaniedbanie znosi nadzwyczaj dobrze - w przeciwieństwie do większości kwiatów doniczkowych.
 * **Paproć** - niegdyś popularna paproć to dla wielu już przeżytek. Tymczasem ten popularny kwiat dzięki swojemu intensywnemu zielonemu odcieniowi działa relaksująco na ludzki organizm. Dodatkowo, liście paproci to znakomity, naturalny oczyszczacz powietrza. Ta popularna roślina doniczkowa neutralizuje sygnały emitowane z urządzeń elektronicznych, znajdujących się w pomieszczeniu. Jest więc idealnym rozwiązaniem jako kwiat doniczkowy do salonu lub biura.
 
+  {% fig %}
+
 ![](/uploads/paproc-roslina-doniczkowa.jpg)
+
+{% endfig %}
 
 {:.list.list-positive}
 
 * **Skrzydłokwiat** - to wyjątkowa roślina doniczkowa, której właściwości potrafią zastąpić oczyszczacz powietrza. Roślina w sposób naturalny filtruje powietrze, wchłaniając szkodliwe dla organizmu toksyny. Skrzydłokwiaty to wspaniałe kwiaty do domu, szczególnie polecane osobom mającym problemy z oddychaniem lub cierpiącym na choroby układu oddechowego, jak na przykład astma.
 * **Aloes** - to roślina doniczkowa, która cieszy się pochlebną opinią dotyczącą mnogości jej zastosowań. Zaczynając od bogactwa witamin i minerałów, jakie znajdują się w soku aloesowym aż po szereg właściwości leczniczych. Sok aloesowy ze świeżych liści pomaga na obrzęki, ukąszenia, a nawet młodzieńczy trądzik. Natomiast właściwości przeciwzapalne aloesu wspomagają leczenie chorób układu trawiennego. To zdecydowanie kwiat doniczkowy warty zasadzenia w każdym domu.
 
+{% fig %}
+
 ![](/uploads/aloes.jpg)
+
+{% endfig %}
 
 ## Te rośliny doniczkowe będą zawsze w modzie
 
-### Monstera - kwiat doniczkowy dla miłośników egzotyki
+### Monstera - stwórz dżunglę we własnym domu
 
-Monstera to jeden z najpopularniejszych i jednocześnie najefektowniejszych kwiatów doniczkowych ostatnich czasów. Za jej pomocą z łatwością można stworzyć w domu własny egzotyczny ogród. 
+Monstera jest jednym z najpopularniejszych i jednocześnie najefektowniejszych kwiatów doniczkowych ostatnich czasów. Za jej pomocą z łatwością można stworzyć w domu własny egzotyczny ogród.
 
 Monstera to roślina doniczkowa idealna dla każdego, ponieważ nie tylko wygląda wyjątkowo ciekawie, ale także jest kwiatem niewymagającym i łatwym w pielęgnacji. Dodatkowo, zielone rośliny doniczkowe wpisują się doskonale w obecne trendy, dlatego jeśli planujesz zakładanie miejskiej dżungli we własnym mieszkaniu, warto koniecznie pomyśleć nad dodaniem Monstery do swojej kolekcji.
 
@@ -100,14 +104,23 @@ Monstera to roślina doniczkowa idealna dla każdego, ponieważ nie tylko wyglą
 ![](/uploads/monstera-kwiat-dla-milosnikow-egzotyki.jpg)
 {% endfig %}
 
-### Orchidea -
+### Kaktus doniczkowy - naturalny minimalizm we wnętrzu
 
-### Bluszcz - 
+Kaktus to popularna i ponadczasowa ozdobna roślina doniczkowa. Swoje zainteresowanie wzbudza głównie ze względu na to, iż jest w całości obrośnięta kolcami. 
 
-Ta roślina, choć wygląda efektownie - zwykle nie budzi pozytywnych skojarzeń. 
+Kaktus to roślina, której naturalnym środowiskiem jest gorąca i sucha pustynia, a co za tym idzie - wymaga ona naprawdę minimalnej pielęgnacji. Dzięki temu kaktusy sprawdzają się doskonale jako rośliny doniczkowe u osób, które nie potrafią zajmować się kwiatami lub często zapominają np. o ich podlewaniu. Ich niezwykła zdolność przystosowania się do różnych warunków klimatycznych sprawia, że hodowcy często decydują się właśnie na te kwiaty domowe. 
 
-### ta roślina doniczkowa, choć wygląda efektownie -zwykle nie budzi zbyt pozytywnych skojarzeń.
+{:.distinction.distinction-information}  
+Kaktusy to rośliny domowe, które wyjątkowo dobrze znoszą zaniedbanie oraz ewentualne błędy w pielęgnacji. Z tego względu nadają się idealnie dla osób, które nie mają tzw. ręki do kwiatów, ale mimo to chciałyby posiadać je w swoim domu.
 
-### XX
+### Orchidea... kwiat doniczkowy dla każdego!
 
-### XX
+Orchidee (lub inaczej storczyki) to wyjątkowo piękne kwiaty, które sprawdzają się idealnie, jako domowe kwiaty doniczkowe. Ten rodzaj kwiatów jest bardzo popularny i lubiany przez miłośników roślin doniczkowych, dlatego stanowią ozdobę wielu domów i mieszkań. To uniwersalne rośliny, które będą wyglądać modnie w każdym wnętrzu i o każdej porze roku.
+
+Istnieje kilka różnych odmian storczyków, które różnią się od siebie zabarwieniem płatków. Najpopularniejsze kolory kwiatów to biały, różowy, fioletowy oraz niebieski. Uprawa orchidei nie jest skomplikowana, jednak wymaga ona przestrzegania kilku ważnych zasad pielęgnacji rośliny. W zamian za to, przy odpowiedniej trosce o ten wyjątkowy kwiat doniczkowy właściciel będzie mógł na długo cieszyć się jego pięknem.
+
+{% fig %}
+
+![](/uploads/orchidea.jpg)
+
+{% endfig %}
