@@ -108,3 +108,103 @@ Some garden orchid owners decide to propagate them by planting the small seeds n
 {% endfig %}
 
 ## Why does my orchid not bloom? Learn 3 most common reasons
+
+Orchids are demanding plants, therefore they might not bloom properly if they are not taken care of. **Your orchid doesn't bloom?** Use the tricks listed below and learn how to revive an orchid.
+
+### Improperly pruned orchids
+
+One of the reasons why an orchid doesn't bloom is the **wrong way of trimming** the plant or not doing it at all. Flowers that finished blossoming should be cut off, snipping them over the third bud. It can result in **rich blooming.** Some species, however, do not like trimming, which might lead to hindering the blooming process.
+
+{:.distinction.distinction-information}
+
+An orchid species that sould not be trimmed is Phalaneopsis – so called moth orchid. In this case you should wait for the flowers to die back and then safely remove them.
+
+{% fig %}
+
+![](/uploads/zle-podcinane-storczyki.jpg)
+
+{% endfig %}
+
+### Too low temperature
+
+An important factor that influences blooming of orchids is **temperature and lighting** that they are kept in. Orchids grow best in warm temperatures – for this reason they should grow in temperature no lower that **22°C (71 F)**. Improper temperature not only hinders blooming but also may make it grow slower and cause the leaves to grow smaller.
+
+{:.distinction.distinction-warning}
+
+Some species are adapted to extremely low temperatures in winter. For instance Dendrobium Mobile blooms in temperatures between 5 and 10 Celcius degrees (41 and 50 F) and might grow slow if it's placed in a too warm room.
+
+### Wrong orchid fertilizer
+
+ANother reason for poor blooming of your orchids is **wrong plant food**. Orchids should be fed with special mixes, as ornamental plants need fertilizer to be diluted with water. The quantity of the substance is also very important. To little fertilizes might lead to important nutrients defict, while too much of it can cause the roots overgrowth. **Fertilize your orchids with a small dose of the substance, 2-3 times per week.**
+
+{:.distinction.distinction-information}
+
+When the plant is hibernating, do not use fertilizer at all. When the orchid is blooming, use it more frequently.
+
+{% fig %}
+
+![](/uploads/zle-dbrany-nawoz.jpg)
+
+{% endfig %}
+
+## How much does an orchid cost?
+
+The price of an orchid depends mostly on its type. The main difference is between potted orchids and garden orchids planted in soil.
+
+{% fig %}
+
+![](/uploads/storczyk-cena-rosliny.jpg)
+
+{% endfig %}
+
+The differences in price also depend on the **type of the plant**. The rarer and more demanding an orchid is, the more expensive it gets. The price also depends on where you buy the flower. Plants sold in flower shops and specialistic florist stores are more expensive than the ones you can find in supermarkets.
+
+{% faqItem %}
+{% faqQuestion %}
+How long do orchid blooms last?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+The period of blooming depends mostly on species. There are types that bloom all year long, while the others bloom periodically. To make your plant bloom longer, make sure to take a proper care of it.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+How do you keep an orchid alive?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Make sure that your orchid grows in the right type of soil and that you water it regularly. Orchids also like high humidity. If you provide your orchid all it needs, it will look beautiful for a long time.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+Why are my orchid leaves turning yellow?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Yellow leaves of an orchid might be caused by various factors, for instance too much light. If the leaves of your orchid are turning yellow, inspect the plant closely. Make sure that there are no pests and that the roots are not standing in water.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+How often to water an orchid?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Typically, you should water your orchid once a week. Remember not to leave the roots in water, as they might rot. Orchids take water from air, so you might also place a container with water near the pot.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+How to prune orchid?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Prune the orchid right above the third bud. Most species require trimming the flowers when they finish blooming. Pay attention to the type of orchid you own, as some types do not like pruning.
+{% endfaqAnswer %}
+{% endfaqItem %}
