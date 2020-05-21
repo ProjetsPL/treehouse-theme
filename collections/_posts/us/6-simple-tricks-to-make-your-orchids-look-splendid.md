@@ -28,9 +28,9 @@ title: 6 Simple Tricks to Make Your Orchids Look Splendid!
 description: "Your beloved orchids don’t want to bloom? \U0001F33A No problem! Learn
   those 6 easy methods to make them look beautiful again. ➡️ Find out how to care
   for orchids!"
-intro: Your orchid doesn't bloom properly and it lost its previous charm? This type
+intro: Your orchid doesn't bloom properly, and it lost its previous charm? This type
   of plants requires special treatment. You need to adjust the method of taking care
-  of orchids to their needs, in accordance with the type an species. Those simple
+  of orchids to their needs, in accordance with the type of the species. Those simple
   rules will help you keep the beautiful appearance of the flowers. Learn how to care
   for orchids so that they always look stunning!
 image: "/uploads/storczyk-glowne-1.jpg"
