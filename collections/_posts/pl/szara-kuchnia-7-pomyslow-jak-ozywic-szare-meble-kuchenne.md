@@ -6,8 +6,14 @@ toc: true
 promoted: false
 update_date: 2020-05-20
 title: Szara kuchnia - 7 pomysłów jak ożywić szare meble kuchenne
-description: Szara kuchnia - 7 pomysłów jak ożywić szare meble kuchenne
-intro: Szara kuchnia
+description: |-
+  Szara kuchnia jest klasyczna, ale nie musi być nudna! , jak ciekawie ją zaaranżować? Sprawdź, jak w prosty sposób możesz ożywić swoje szare meble kuchenne.
+  - 7 pomysłów jak ożywić szare meble kuchenne
+intro: Szarości zdominowały wystrój wnętrz w naszych domach. Wbrew obiegowej opini,
+  że wnoszą chłód do aranżacji, pokochaliśmy je za uniwersalność i stylowy wygląd.
+  Nie może ich zabraknąć również w kuchni. Szare meble kuchenne podbijają nasze serca.
+  Poniżej kilka propozycji jak je zestawiać i łączyć z pozostałymi elementami w kuchni
+  oraz jakie odcienie sprawdzą się na małej a jakie na dużej przestrzeni.
 image: "/uploads/kuchnia-szara-glowne.jpg"
 related_products: []
 published: false
@@ -49,18 +55,36 @@ Centralny element szarej kuchni w stylu loft stanowi zazwyczaj metalowa wyspa z 
 
 ![](/uploads/kuchnia-w-stylu-loft.jpg)
 
-Ten projekt szarej kuchni uwodzi przede wszystkim wiernym odwzorowaniem stylu loft. Jak mówi sam architekt ,,jest to design dla młodej rodziny o niestandardowych oczekiwaniach funkcjonalno – estetycznych.” Zastosowane szarości i biel są nieodzownym elementem loftów, tak samo jak ,,niedbale” wymurowana ściana z cegły dodająca surowego charakteru. Dopełnieniem całości są charakterne lampy i podwieszany sufit, który jeszcze bardziej zbliża to wnętrze do tych pofabrykowach. Został on wykonany ze stalowych dwuetowników i siatki stalowej. Centrum szarej kuchni stanowi prosta w formie stalowa wyspa z kamiennym blatem. Funkcjonalne szare meble nie zakłócają loftowej stylistyki, a wręcz stają się jej idealnym uzupełnieniem. Czy Wy też, podobnie jak ja, uważacie, że szara kuchnia i styl loft to połączenie idealne?
-
 ## Biała kuchnia z szarym blatem - sposób na ciekawą aranżację wnętrza
+
+Połączenie białych ścian z eleganckim szarym blatem to ciekawa aranżacja kuchni, która staje się coraz bardziej popularna. Kontrast pomiędzy wykorzystanymi kolorami pozwala stworzyć pomieszczenie o nieprzeciętnym, ale bardzo uniwersalnym designie. Zobacz, jak kuchnia z szarym blatem
 
 ### Blat kuchenny z kamienia dla wielbicieli eleganckich rozwiązań
 
+![](/uploads/szara-kuchnia-blat-z-kamienia.jpg)
+
 Kuchnia biało szara - dlaczego jest modna?
 
-## Jak dobrze wykorzystać szare meble kuchenne?
+## Jak dobrze wykorzystać szare meble kuchenne? 3 proste sposoby
 
-### Z czym zestawiać szare szafki kuchenne aby dobrze wyglądały?
+Szare meble kuchenne są często wybierane do aranżacji wnętrz i choć wyglądają prosto i klasycznie, można wykorzystać je na wiele różnych sposobów. Oto 3 zasady, dzięki którym efektowna aranżacja szarych szafek kuchennych stanie się o wiele prostsza:
 
-### Jak dodać świeżości i blasku szarym meblom?
+{:.list.list-positive}
 
-### 
+* **zabudowa dolna w szarym kolorze** - jednym z najpopularniejszych rozwiązań jest umieszczenie szarych szafek kuchennych w dolnej części zabudowy. Ciemny dół i jaśniejsza góra w kuchni optycznie odciąży ściany, a także lekko powiększy pomieszczenie.
+* **górne szafki kuchenne w w odcieniach szarości** - szare meble kuchenne zastosowane w górnej zabudowie to rozwiązanie do eleganckiej kuchni. Taka zabudowa nada pomieszczeniu klasy i eleganckiego stylu.
+* **pełna zabudowa kuchni z szarych mebli** - Szare fronty, blaty, agd oraz ceramika i armatura w wykończeniu ze stali nierdzewnej to ciekawe zestawienie, które oprze się modzie i będzie na topie przez długi czas.
+
+{:.distinction.distinction-warning}  
+Szara zabudowa potrafi optycznie przytłoczyć pomieszczenie, dlatego zaleca się wykorzystywać ją w kuchniach przestronnych, o dużym metrażu.
+
+## Z czym zestawiać ciemnoszare szafki kuchenne aby dobrze wyglądały?
+
+Nie od dziś wiadomo, że wszystkie odcienie szarości doskonale łączą się ze śnieżnobiałą bielą. Jednak czasami takie rozwiązanie może okazać się niesatysfakcjonujące. W takim przypadku warto jest spróbować niestandardowych połączeń, aby sprawdzić, który styl jest najbardziej odpowiedni dla wybranego wnętrza.
+
+Jeśli szare szafki kuchenne mają ciemny odcień, można zestawić je niekoniecznie z jasną ścianą, ale postawić na jasne wykończenie i dodatki, na przykład zestawiając ich ciemne fonty z jasnym blatem. W zależności od tego, czy fonty szafek są wyraziste czy gładkie blat może być kamienny (np. granitowy) lub jednolity poddany procesowi laminacji. Jasne drewno to bardzo wdzięczny materiał, który wprowadzi do kuchni ciepły i rodzinny klimat.
+
+![](/uploads/szara-kuchnia-glowne.jpg)
+
+{:.distinction.distinction-information}  
+Szare szafki kuchenne powinny też być odpowiednio oświetlone, zwłaszcza jeśli zdecydowałeś się na kolor ciemnoszary. Tuż przed zakupem warto sprawdzić, czy wybrane światło nie zakłamuje kolorów, przez co szare fonty mogą wyglądać niekorzystnie.
