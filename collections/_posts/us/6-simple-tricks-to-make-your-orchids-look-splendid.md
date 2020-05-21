@@ -29,10 +29,10 @@ description: "Your beloved orchids don’t want to bloom? \U0001F33A No problem!
   those 6 easy methods to make them look beautiful again. ➡️ Find out how to care
   for orchids!"
 intro: Your orchid doesn't bloom properly and it lost its previous charm? This type
-  of plants requires special treatment. The method of taking care of orchids needs
-  to be appropriate for their type an species. Those simple rules will help you keep
-  the beautiful appearance of the flowers. Learn how to care for orchids so that they
-  look great for many years!
+  of plants requires special treatment. You need to adjust the method of taking care
+  of orchids to their needs, in accordance with the type an species. Those simple
+  rules will help you keep the beautiful appearance of the flowers. Learn how to care
+  for orchids so that they always look stunning!
 image: "/uploads/storczyk-glowne-1.jpg"
 related_products: []
 published: false
@@ -44,9 +44,9 @@ Although an orchid can seem like a demanding plant, in fact, when you choose the
 
 ### What is the best type of orchid to care for beginners?
 
-If you want to start your adventure with orchids, you should probably pick one of the most popular basic species such as **Phalaenopsis** or **Dendrobium**. Each of them requires an individual way of treatment, fit for the needs of a particular plant.
+If you want to start your adventure with orchids, you should probably pick one of the most popular basic species such as **Phalaenopsis** or **Dendrobium**. Each of them requires an individual way of treatment, fit for their particular needs.
 
-If you have decided on one type of an orchid, you can pick either ones developing singular flowers or the one that grow **in large bunches**. An example of the latter might be an orchid called **Bletilla striata**.
+If you have decided on one type of an orchid, you can pick either ones developing singular flowers or the ones growing **in large bunches**. An example of the latter might be an orchid called **Bletilla striata**.
 
 {% fig %}
 
@@ -85,7 +85,7 @@ To make your own orchid potting mix, you can combine composted pine bark, moss, 
 
 {% fig %}
 
-![](/uploads/storczyk-w-domu.jpg)
+![How to care for orchids at home?](/uploads/storczyk-w-domu.jpg "How to care for orchids at home?")
 
 {% endfig %}
 
@@ -99,11 +99,11 @@ Orchid flowers that grow in your garden can be transplanted only in the **early 
 
 {:.distinction.distinction-warning}
 
-Some garden orchid owners decide to propagate them by planting the small seeds near the parental plants. It is, however, not a very good method – in most cases is not effective at all.
+Some garden orchid owners decide to propagate them by planting the small seeds near the parental plants. It is, however, not a very good method – in most cases it is not effective at all.
 
 {% fig %}
 
-![](/uploads/jak-przesadzac-storczyki.jpg)
+![Garden orchids – when and how to transplant them?](/uploads/jak-przesadzac-storczyki.jpg "Garden orchids – when and how to transplant them?")
 
 {% endfig %}
 
@@ -113,7 +113,7 @@ Orchids are demanding plants, therefore they might not bloom properly if they ar
 
 ### Improperly pruned orchids
 
-One of the reasons why an orchid doesn't bloom is the **wrong way of trimming** the plant or not doing it at all. Flowers that finished blossoming should be cut off, snipping them over the third bud. It can result in **rich blooming.** Some species, however, do not like trimming, which might lead to hindering the blooming process.
+One of the reasons why an orchid doesn't bloom is the **wrong way of trimming** the plant or not doing it at all. Flowers that finished blossoming should be cut off, snipping them above the third bud. It can result in **rich blooming.** Some species, however, do not like trimming, which might lead to hindering the blooming process.
 
 {:.distinction.distinction-information}
 
@@ -121,13 +121,13 @@ An orchid species that sould not be trimmed is Phalaneopsis – so called moth o
 
 {% fig %}
 
-![](/uploads/zle-podcinane-storczyki.jpg)
+![Improperly pruned orchids](/uploads/zle-podcinane-storczyki.jpg "Improperly pruned orchids")
 
 {% endfig %}
 
 ### Too low temperature
 
-An important factor that influences blooming of orchids is **temperature and lighting** that they are kept in. Orchids grow best in warm temperatures – for this reason they should grow in temperature no lower that **22°C (71 F)**. Improper temperature not only hinders blooming but also may make it grow slower and cause the leaves to grow smaller.
+An important factor that influences orchids blooming is **temperature and lighting** that they are kept in. Orchids grow best in warm temperatures – for this reason they should grow in temperature no lower that **22°C (71 F)**. Improper temperature not only hinders blooming but also may make it grow slower and cause the leaves to grow smaller.
 
 {:.distinction.distinction-warning}
 
@@ -135,7 +135,7 @@ Some species are adapted to extremely low temperatures in winter. For instance D
 
 ### Wrong orchid fertilizer
 
-ANother reason for poor blooming of your orchids is **wrong plant food**. Orchids should be fed with special mixes, as ornamental plants need fertilizer to be diluted with water. The quantity of the substance is also very important. To little fertilizes might lead to important nutrients defict, while too much of it can cause the roots overgrowth. **Fertilize your orchids with a small dose of the substance, 2-3 times per week.**
+Another reason for poor blooming of your orchids is **wrong plant food**. Orchids should be fed with special mixes, as ornamental plants need fertilizer to be diluted with water. The quantity of the substance is also very important. To little might lead to important nutrients defict, while too much can cause roots overgrowth. **Fertilize your orchids with a small dose of the substance, 2-3 times per week.**
 
 {:.distinction.distinction-information}
 
@@ -143,7 +143,7 @@ When the plant is hibernating, do not use fertilizer at all. When the orchid is 
 
 {% fig %}
 
-![](/uploads/zle-dbrany-nawoz.jpg)
+![Wrong orchid fertilizer](/uploads/zle-dbrany-nawoz.jpg "Wrong orchid fertilizer")
 
 {% endfig %}
 
@@ -204,7 +204,8 @@ Typically, you should water your orchid once a week. Remember not to leave the r
 How to prune orchid?
 {% endfaqQuestion %}
 
-{% faqAnswer %}
-Prune the orchid right above the third bud. Most species require trimming the flowers when they finish blooming. Pay attention to the type of orchid you own, as some types do not like pruning.
+{% faqAnswer %} Prune the orchid right above the third bud. Most species require trimming the flowers when they finish blooming. Pay attention to the type of the orchid you own, as some types do not like pruning at all.
+
 {% endfaqAnswer %}
+
 {% endfaqItem %}
