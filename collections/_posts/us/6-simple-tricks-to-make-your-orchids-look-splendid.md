@@ -40,7 +40,7 @@ published: false
 ---
 ## Are there any orchid flower types that are easy to grow?
 
-Although an orchid can seem like a demanding plant, in fact, when you choose the right species, it is quite easy to grow. Therefore one cannot speak of difficult or effortless species, although it is true – some of them require more time to take care of.
+Although an orchid can seem like a demanding plant, in fact, when you choose the right species, it is quite easy to grow. Therefore, one cannot speak of difficult or effortless species, although it is true – some of them require more time to take care of.
 
 ### What is the best type of orchid to care for beginners?
 
@@ -72,7 +72,7 @@ Orchid care at home might be a real challenge for the owner. If you want to achi
 
 {:.list.list-positive}
 
-* **The right type of soil** – potted orchid flowers require a special type of soil. It should be highly absorbent as well as provide enough air for the roots. The best choice in this case is purchasing a special orchid potting mix. You can also prepare your own mixture.
+* **The right type of soil** – potted orchid flowers require a special type of soil. It should be highly absorbent as well as provide enough air for the roots. The best choice, in this case, is purchasing a special orchid potting mix. You can also prepare your own mixture.
 
 {:.distinction.distinction-information}
 
@@ -91,11 +91,11 @@ To make your own orchid potting mix, you can combine composted pine bark, moss, 
 
 {:.list.list-positive}
 
-* **Correct repotting** – every potted plant requires repotting from time to time. When and how to repot an orchid? You should change your orchid's container when it grew too large or when the soil became too soft. Usually this type of plant requires the procedure every 2 or 3 years. When repotting, pay attention to the size of the container so that the roots do not rot.
+* **Correct repotting** – every potted plant requires repotting from time to time. When and how to repot an orchid? You should change your orchid's container when it grew too large or when the soil became too soft. Usually, this type of plant requires the procedure every 2 or 3 years. When repotting, pay attention to the size of the container so that the roots do not rot.
 
 ## Garden orchids – when and how to transplant them?
 
-Orchid flowers that grow in your garden can be transplanted only in the **early spring**. It's very important, as it's the time the plant grows new shoots. When it happens, you can divide the orchid flowers. To do this, separate the plant so that you get at least one bud and a healthy root per one new plant. Otherwise the orchid flower will not bloom. What's more, you can add some soil from the previous place onto the new spot. This way the orchids will surely bloom with beautiful flowers in your garden.
+Orchid flowers that grow in your garden can be transplanted only in the **early spring**. It's very important, as it's the time the plant grows new shoots. When it happens, you can divide the orchid flowers. To do this, separate the plant so that you get at least one bud and a healthy root per one new plant. Otherwise, the orchid flower will not bloom. What's more, you can add some soil from the previous place onto the new spot. This way the orchids will surely bloom with beautiful flowers in your garden.
 
 {:.distinction.distinction-warning}
 
@@ -117,7 +117,7 @@ One of the reasons why an orchid doesn't bloom is the **wrong way of trimming** 
 
 {:.distinction.distinction-information}
 
-An orchid species that sould not be trimmed is Phalaneopsis – so called moth orchid. In this case you should wait for the flowers to die back and then safely remove them.
+An orchid species that should not be trimmed is Phalaneopsis – so called moth orchid. In this case you should wait for the flowers to die back and then safely remove them.
 
 {% fig %}
 
@@ -131,11 +131,11 @@ An important factor that influences orchids blooming is **temperature and lighti
 
 {:.distinction.distinction-warning}
 
-Some species are adapted to extremely low temperatures in winter. For instance Dendrobium Mobile blooms in temperatures between 5 and 10 Celcius degrees (41 and 50 F) and might grow slow if it's placed in a too warm room.
+Some species are adapted to extremely low temperatures in winter. For instance Dendrobium Mobile blooms in temperatures between 5 and 10 Celsius degrees (41 and 50 F) and might grow slow if it's placed in a too warm room.
 
 ### Wrong orchid fertilizer
 
-Another reason for poor blooming of your orchids is **wrong plant food**. Orchids should be fed with special mixes, as ornamental plants need fertilizer to be diluted with water. The quantity of the substance is also very important. To little might lead to important nutrients defict, while too much can cause roots overgrowth. **Fertilize your orchids with a small dose of the substance, 2-3 times per week.**
+Another reason for poor blooming of your orchids is **wrong plant food**. Orchids should be fed with special mixes, as ornamental plants need fertilizer to be diluted with water. The quantity of the substance is also very important. To little might lead to important nutrients deficit, while too much can cause roots overgrowth. **Fertilize your orchids with a small dose of the substance, 2-3 times per week.**
 
 {:.distinction.distinction-information}
 
@@ -157,7 +157,7 @@ The price of an orchid depends mostly on its type. The main difference is betwee
 
 {% endfig %}
 
-The differences in price also depend on the **type of the plant**. The rarer and more demanding an orchid is, the more expensive it gets. The price also depends on where you buy the flower. Plants sold in flower shops and specialistic florist stores are more expensive than the ones you can find in supermarkets.
+The differences in price also depend on the **type of the plant**. The rarer and more demanding an orchid is, the more expensive it gets. The price also depends on where you buy the flower. Plants sold in flower shops and specialist florist stores are more expensive than the ones you can find in supermarkets.
 
 {% faqItem %}
 {% faqQuestion %}
