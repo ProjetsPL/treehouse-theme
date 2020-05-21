@@ -7,7 +7,7 @@ description: "An ugly radiator disrupts your home interior design? \U0001F3E0 Le
   how to solve this infuriating problem. Check why a cover radiator is the best solution."
 image: "/uploads/oslona-na-kaloryfer.jpg"
 promoted: false
-update_date: 2020-04-24
+update_date: 2020-05-21
 intro: An unaesthetic radiator is a problem of many, otherwise good-looking apartments.
   Despite the existence of decorative radiators, most of the available heating devices
   are not particularly beautiful objects. If it is also your problem, a radiator cover
@@ -27,32 +27,39 @@ main_keywords:
 
 A radiator cover is an attachment which can **increase aesthetics of the heat exchanger.** It is typically used with older models like steel column radiators. Using a radiator cover usually does not influence heating efficiency. In many cases it can be used as an **extension for the windowsill**. This way the element gains a new functionality.
 
-{:.distinction.distinction-information}
-For this reason a radiator cover is an increasingly popular solution used by many homeowners to fit the device to an **interior design**. It also allows to spare money that would have been spent for a new decorative radiator.
+{:.distinction.distinction-information} 
 
-Hiding an ugly element is not the only function of a **radiator cover**. If designed well, it can become an additional shelf, as well as protection for little children’s hands. If you want to install a radiator cover in a children’s room, it is best to choose a colourful one, for instance with favourite animals or cartoon characters.
+For this reason a radiator cover is an increasingly popular solution used by many homeowners to match the device with an **interior design**. It also allows to spare money that would have been spent for a new decorative radiator.
 
-## Is a radiator cover worth it?
-
-Most of heating devices experts probably would say that using a radiator cover is a waste of energy. On the other hand, supporters of such solution claim that **it has many advantages**. Before you decide which is best for you, it is good to learn arguments from both sides. It will help you decide whether you need a radiator cover or not.
+Hiding an ugly element is not the only function of a **radiator cover**. If designed well, it can become an additional shelf, as well as  a protection for little children’s hands. If you want to install a radiator cover in a children’s room, it is best to choose a colourful one, for instance with favourite animals or cartoon characters.
 
 {% fig %}
 ![Is a radiator cover worth it?](/uploads/czy-zabudowa-grzejnika-sie-oplaca.jpg "Is a radiator cover worth it?")
 {% endfig %}
 
+## Is a radiator cover worth it?
+
+Most of heating devices experts probably would say that using a radiator cover is a waste of energy. On the other hand, supporters of such solution claim that **it has many advantages**. Before you decide which is best for you, it is good to learn arguments from both sides. It will help you decide whether you need a radiator cover or not.
+
 ### Radiator cover - advantages
 
-The most important and crucial advantage of covering your radiator is **increasing its aesthetic value**. It is the main reason why many homeowners decide to employ such elements in their apartments. A radiator cover is a decorative element that can be suited to your home design.
+Using a radiator cover has many advantages. The most important and crucial benefit of covering your radiator is **increasing its aesthetic value**. It is the main reason why many homeowners decide to employ such elements in their apartments. A radiator cover is a decorative element that can be suited to your home design.
 
 {:.distinction.distinction-information}
-Manufacturers offer a **lot of solutions** and if your requirements do not meet the standards, you can always customise the project. In this situation, you can choose what material the radiator cover should be made of and adapt the appearance of the structure to your own preferences.
+Manufacturers offer a lot of solutions and if your requirements do not meet the standards, you can always customise the project. In this situation, you can choose what material the radiator cover should be made of and adapt the appearance of the structure to your own preferences.
 
-If your budget is low, you can reduce the costs by **crafting the cover yourself**. It is not as difficult as it seems and designing such project is very satisfying. Whether you make it or purchase it, a radiator cover is usually very easy to install.
+{% fig %}
 
-An additional advantage of covering your radiator is the **double functionality** of the element. Apart from decorating, the cover might also become a storage unit. You can also choose a cover that resembles a dresser. You might make a bedside table in a bedroom, and if the radiator stands by the window - a **seat or a bench**. If there are children in the house, the radiator cover is also a protection against burning their hands. Such solution is often used in kindergartens.
+![Radiator cover - advantages](/uploads/oslona-na-kaloryfer-wzor.jpg "Radiator cover - advantages")
+
+{% endfig %}
+
+You can reduce the cost of a radiator cover by crafting it yourself. It is not as difficult as it seems and designing such a project is very satisfying. Whether you make it or purchase it, a **radiator cover** is usually very easy to install.
+
+An additional advantage of covering your radiator is the **double functionality** of the element. Apart from being a decoration, the cover might also become a storage unit. You can also choose a cover that resembles a dresser. You might make a bedside table in a bedroom, and if the radiator stands by the window - a seat or a bench. If there are children in the house, the radiator cover is also a protection against burning their hands. Such a solution is often used in kindergartens.
 
 {:.distinction.distinction-information}
-A **radiator cover** is a far cheaper and much simpler solution than a complete replacement of your radiator. Renovating the installation is not only time-consuming, but also new decorative radiators are much more expensive than ordinary devices.
+A **radiator cover** is a far cheaper and much simpler solution than a complete replacement of your radiator. Renovating the installation might be time-consuming. Also, new decorative radiators are much more expensive than ordinary devices.
 
 {% fig %}
 ![Radiator cover - advantages](/uploads/oslona-na-grzejnik-zalety.jpg "Radiator cover - advantages")
@@ -60,16 +67,16 @@ A **radiator cover** is a far cheaper and much simpler solution than a complete 
 
 ### Radiator cover - disadvantages
 
-The biggest disadvantage of using a radiator cover is **decreasing the device heating efficiency.** Regardless of the design of the decorative elemnt, using it always means decreasing the heating power.
+The biggest disadvantage of using a radiator cover is **decreasing the device heating efficiency.** Regardless of the design of the decorative element, using it always means decreasing the heating power.
 
 {:.distinction.distinction-warning}
-The screen blocks out the device, therefore it is more difficult for the heat to reach the room. It might be the cause of **decreasing the temperature in the room**. For this reason you might have to turn up the heating, which might lead to an increase in heating bills that everyone would prefer to avoid.
+The screen blocks out the device, therefore it is more difficult for the heat to reach the room. It might be the cause of **decreasing the temperature in the room**. For this reason you might have to turn up the heating, which might lead to an increase in heating bills that anyone would prefer to avoid.
 
-A similar situation might occur if your heater has a thermostat. The temperature behind the cover is higher than in the room - which causes the thermostat to cut off the warm water inside the device. Because of this remember about **proper ventilation** when designing a radiator cover. Under no circumstance cover the radiator completely.
+A similar situation might occur if your heater has a thermostat. The temperature behind the cover is higher than in the room - which causes the thermostat to cut off the warm water inside the device. Having that in mind, remember about **proper ventilation** when designing a radiator cover. Under no circumstance cover the radiator completely.
 
 ## What radiator cover is the best?
 
-Manufacturers offer a lot of various solutions. You choose one that fits to your own needs and to the design of your room. There are many types of covers - the most common materials are:
+Manufacturers offer a lot of various solutions. Choose one that matches your own needs and the design of your room. There are many types of covers - the most common materials are:
 
 {:.list.list-positive}
 
@@ -81,7 +88,7 @@ Manufacturers offer a lot of various solutions. You choose one that fits to your
 
 {:.list.list-positive}
 
-* **PCV** - this material is one of the cheapest. Its main advantages are the light weight and flexibility in cutting patterns. There are **many manufacturers producing boards made of this material** - you can purchase one in a chosen pattern.
+* **PCV** - this material is one of the cheapest. Its main advantages are the light weight and flexibility when it comes to cutting patterns. There are **many manufacturers producing boards made of this material** - you can purchase one in a chosen pattern.
 * **MDF** - radiator covers made of MDF boards are quite durable. Manufacturers offer a lot of shapes and designs.
 * **Glass** - this material is very aesthetic, however it might be very prone to damage. It is also quite heavy.
 * **Metal** - the most commonly used metals are steel and aluminium. A metal radiator cover is very durable and conducts heat well. Keep in mind that this type does not protect from burns.
@@ -89,7 +96,7 @@ Manufacturers offer a lot of various solutions. You choose one that fits to your
 {:.distinction.distinction-warning}
 Each type of material used for a radiator cover should be **resistant to high temperatures**. On no account use materials that are easy to burn or that have been painted with a substance emanating fumes.
 
-Radiator covers have various types of construction. **A hanging model** is the most popular - it is attached either directly to the heater or to the wall behind it. This type is also easiest to clean. There are also covers **standing on the floor**, in form of a chest or a shelf. They are more expensive, however also more elegant. You can also tailor them to other furniture pieces in the room.
+Radiator covers have various types of construction. **A hanging model** is the most popular - it is attached either directly to the heater or to the wall behind it. This type is also easiest to clean. There are also covers **standing on the floor**, in form of a chest or a shelf. They are more expensive, however also more elegant. You can also tailor them to fit other furniture pieces in the room.
 
 ## DIY radiator cover
 
