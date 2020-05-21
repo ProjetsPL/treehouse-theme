@@ -8,7 +8,7 @@ description: "Dreaming of a classy color to make your interior look stylish? \U0
   to its popularity!"
 image: "/uploads/moda-na-antracyt.png"
 promoted: false
-update_date: 2020-04-24
+update_date: 2020-05-21
 intro: Charcoal is a versatile color that can be used for many purposes. It is usually
   described as a mix of grey with a trace of black or navy blue. Very often mistaken
   for graphite, in reality it is a completely different, unique shade. Charcoal can
