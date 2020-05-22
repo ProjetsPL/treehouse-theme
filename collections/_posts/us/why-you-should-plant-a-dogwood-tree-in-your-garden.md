@@ -59,7 +59,7 @@ There are many types of dogwood trees, including also ornamental plants which mi
 
 {% fig %}
 
-![](/uploads/deren-bialy.jpg)
+![Dogwood tree – flowers](/uploads/deren-bialy.jpg "Dogwood tree – flowers")
 
 {% endfig %}
 
@@ -69,7 +69,7 @@ If you're wondering how to plant a dogwood tree in your garden, just buy a seedl
 
 {% fig %}
 
-![](/uploads/kwitnacy-deren-jadalny-w-ogrodzie.jpg)
+![How to plant a cornelian cherry dogwood tree?](/uploads/kwitnacy-deren-jadalny-w-ogrodzie.jpg "How to plant a cornelian cherry dogwood tree?")
 
 {% endfig %}
 
@@ -104,7 +104,7 @@ Cornelian cherry fruits are a good source of many vitamins and minerals, therefo
 
 {% fig %}
 
-![](/uploads/deren-jadalny-owoce.jpg)
+![What are the benefits of cornelian cherry fruits?](/uploads/deren-jadalny-owoce.jpg "What are the benefits of cornelian cherry fruits?")
 
 {% endfig %}
 
@@ -126,7 +126,7 @@ To prepare a cornelian cherry liqueur, mix one kilogram of fruits with 5 tablesp
 
 {% fig %}
 
-![](/uploads/nalewka-z-derenia.jpg)
+![Cornelian cherry liqueur for cold... and more!](/uploads/nalewka-z-derenia.jpg "Cornelian cherry liqueur for cold... and more!")
 
 {% endfig %}
 
@@ -144,7 +144,7 @@ To prepare **cornelian cherry jam**, first rinse, peel and pit the fruits. Then 
 
 {% fig %}
 
-![](/uploads/dzem-deren-jadalny.jpg)
+![How to make tasty cornelian cherry preserves?](/uploads/dzem-deren-jadalny.jpg "How to make tasty cornelian cherry preserves?")
 
 {% endfig %}
 
