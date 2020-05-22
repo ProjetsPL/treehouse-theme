@@ -24,7 +24,7 @@ description: "Dogwood is a unique plant of many useful properties. \U0001F33F Wh
   is it beneficial to have it in your garden? ➡️ Learn how to use a dogwood tree in
   your kitchen!"
 intro: Dogwood has many useful qualities. This unusual ornamental plant not only looks
-  fantastic in your garden ut might also contribute to improving your health. Certain
+  fantastic in your garden but might also contribute to improving your health. Certain
   species of dogwood bear quite a tasty fruit of beneficial properties. Learn why
   you should consider planting a dogwood tree in your garden and how to use it in
   the kitchen.
