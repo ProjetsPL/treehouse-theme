@@ -149,3 +149,43 @@ To prepare **cornelian cherry jam**, first rinse, peel and pit the fruits. Then 
 {% endfig %}
 
 Cornelian cherry is long-known to natural medicine. It can be used both for healing and in kitchen, therefore it's a plant that is often cultivated in many parts of the world.
+
+{% faqItem %}
+{% faqQuestion %}
+When to plant dogwood trees?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Dogwood tree seedlings can be planted during the whole season, although the best time to do it is spring or fall. Make sure to plant the seedling in the right type of soil – calcareuos or slightly acidic. Dogwood trees need a lot of space to grow, as they reach up to 5-8 meters.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+When do dogwood trees bloom?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Depending on the weather conditions, a dogwood tree blooms from February to April in moderate climates. One bud develops 15-20 little flowers. They are frost resistant.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+How to trim dogwood tree?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Although dogwood trees rarely require pruning, if needed, do it in late autumn or in winter. Use a pruning saw or shears and cut right at the base of the branch. Do not cut in the collar area, as it may lead to an infection.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+How big does a dogwood tree get?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Depending on the particular species, dogwood trees can reach up to 8 meters of height. The seedlings grow slow during the first 2 years. The changes become significant in the third year.
+{% endfaqAnswer %}
+{% endfaqItem %}
