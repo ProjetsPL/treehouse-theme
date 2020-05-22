@@ -31,7 +31,7 @@ published: false
 ---
 ## Szara kuchnia - na czym polega ten trend?
 
-Szara kuchnia to trend bardzo elastyczny i uniwersalny.  Malowanie kuchni na ten właśnie kolor może uczynić kuchnię minimalistyczną, elegancką, wytworną lub swojską. Ten sam szary kolor ścian lub mebli pozwala więc na stworzenie wnętrza o różnych właściwościach i walorach estetycznych. Ze względu na uniwersalizm koloru, w przypadku szarej kuchni elementem, który decyduje o charakterze pomieszczenia są przede wszystkim dodatki. Z tego względu należy dobierać je przemyślanie i z umiarem. 
+Szara kuchnia to trend bardzo elastyczny i uniwersalny.  Malowanie kuchni na ten właśnie kolor może uczynić kuchnię minimalistyczną, elegancką, wytworną lub swojską. Ten sam szary kolor ścian lub mebli pozwala więc na stworzenie wnętrza o różnych właściwościach i walorach estetycznych. Ze względu na uniwersalizm koloru, w przypadku szarej kuchni elementem, który decyduje o charakterze pomieszczenia są przede wszystkim dodatki. Z tego względu należy dobierać je przemyślanie i z umiarem.
 
 {:.distinction.distinction-information}  
 Szara kuchnia jest również bardo praktyczna, ponieważ kolor szary wygląda dobrze na każdej powierzchni i strukturze. Szare meble kuchenne sprawdzą się świetnie zarówno w wersji matowej, półmatowej, jak i w połysku, gdyż nie uwydatniają one odcisków palców.
@@ -55,7 +55,7 @@ Jasnoszara kuchnia będzie wyglądała najlepiej z bardzo jasnym, prawie białym
 {:.distinction.distinction-warning}  
 Niezależnie od wybranego koloru, drewno wykorzystywane w kuchni powinno być zawsze poddane laminacji. Wybór drewna laminowanego pozwala na jego łatwe czyszczenie, co jest bardzo ważne w przypadku ciężkich zabrudzeń, jak na przykład plamy z tłuszczu.
 
-### Biało szara kuchnia w stylu loft - nadaj meblom charakteru
+### Biało szara kuchnia w stylu loft - nadaj meblom wyjątkowego charakteru
 
 Szara kuchnia z drewnem będzie wyglądać idealnie, kiedy urządzi się ją w stylu loft. To ciekawy i nietuzinkowy sposób na nadanie świeżości i charakteru zwykłym szarym meblom. Do aranżacji w stylu loft wykorzystuje się zwykle materiały w surowej i naturalnej formie. Mogą to być na przykład: beton, drewno, kamień lub cegła.
 
@@ -72,8 +72,8 @@ Centralny element szarej kuchni w stylu loft stanowi zazwyczaj metalowa wyspa z 
 
 Szara kuchnia zaprojektowana w myśl stylu nowoczesnego wprost uwielbia szalone połączenia kolorystyczne. To właśnie dzięki nim zwyczajne pomieszczenie potrafi zamienić się w odważne i żywe wnętrze. Kuchnia szara z akcentem kolorystycznym zdecydowanie przyciąga uwagę, a nawet potrafi dodać energii i wprawić w dobry nastrój osoby, które w niej przebywają.
 
-Monochromatyczny i dla wielu przewidywalny szary kolor można przełamać wyrazistym akcentem w postaci kolorowego akcesorium kuchennego - na przykład kolorowa lodówka lub ekspres do kawy - a także umieścić wybrany kolor na jednej ze ścian lub wykorzystując w tym celu barwne fonty szafek. Wprowadzając kolor do szarej kuchni, łatwo pozbyć się surowości i optycznego chłodu panującego w pomieszczeniu. Jednymi z najbardziej popularnych kolorów występujących w szarej kuchni są: czerwień, pomarańcz, zieleń oraz żółć, gdyż wywołują one pozytywne uczucia w organizmie człwieka, a także wzmagają apetyt. Kolor można jednak wybrać dowolnie, według własnych preferencji.  
-  
+Monochromatyczny i dla wielu przewidywalny szary kolor można przełamać wyrazistym akcentem w postaci kolorowego akcesorium kuchennego - na przykład kolorowa lodówka lub ekspres do kawy - a także umieścić wybrany kolor na jednej ze ścian lub wykorzystując w tym celu barwne fonty szafek. Wprowadzając kolor do szarej kuchni, łatwo pozbyć się surowości i optycznego chłodu panującego w pomieszczeniu. Jednymi z najbardziej popularnych kolorów występujących w szarej kuchni są: czerwień, pomarańcz, zieleń oraz żółć, gdyż wywołują one pozytywne uczucia w organizmie człwieka, a także wzmagają apetyt. Kolor można jednak wybrać dowolnie, według własnych preferencji.
+
 {:.distinction.distinction-information}  
 Kolor w szarej kuchni można osiągnąć również w bardzo naturalny sposób, na przykład tworząc na ścianie mały domowy ogród świeżych, zielonych ziół.
 
@@ -83,7 +83,7 @@ Kolor w szarej kuchni można osiągnąć również w bardzo naturalny sposób, n
 
 ## Biała kuchnia z szarym blatem - sposób na ciekawą aranżację wnętrza
 
-Połączenie białych ścian (lub zabudowy) z eleganckim szarym blatem to ciekawa aranżacja kuchni, która staje się coraz bardziej popularna. Kontrast pomiędzy wykorzystanymi kolorami pozwala stworzyć pomieszczenie o nieprzeciętnym, ale bardzo uniwersalnym designie. Szary, gładki blat doskonale podkreśla idealną linię białych mebli, dzięki czemu tworzy wraz z zabudową modną i nowoczesną aranżację kuchenną. 
+Połączenie białych ścian (lub zabudowy) z eleganckim szarym blatem to ciekawa aranżacja kuchni, która staje się coraz bardziej popularna. Kontrast pomiędzy wykorzystanymi kolorami pozwala stworzyć pomieszczenie o nieprzeciętnym, ale bardzo uniwersalnym designie. Szary, gładki blat doskonale podkreśla idealną linię białych mebli, dzięki czemu tworzy wraz z zabudową modną i nowoczesną aranżację kuchenną.
 
 Wybierając białe szafki kuchenne i szary blat dobrze jest zdecydować się również na białe lub ciemnoszare ściany. Dzięki temu aranżacja będzie stanowiła jedną spójną całość. Białe ściany rozjaśnią kuchnię, co jest dobrym rozwiązaniem w przypadku małych pomieszczeń, jednak w niektórych przypadkach może okazać się problematyczne za względu na możliwość łatwego zabrudzenia. Natomiast ściana w kolorze szarym sprawi, że pomieszczenie będzie wydawać się na ciemniejsze oraz optycznie je zmniejszy. Z tego względu należy więc unikać ciemnych kolorów ścian w kuchniach o niewielkiej powierzchni.
 
@@ -117,18 +117,18 @@ Jeśli szare szafki kuchenne mają ciemny odcień, można zestawić je niekoniec
 {:.distinction.distinction-information}  
 Szare szafki kuchenne powinny też być odpowiednio oświetlone, zwłaszcza jeśli zdecydowałeś się na kolor ciemnoszary. Tuż przed zakupem warto sprawdzić, czy wybrane światło nie zakłamuje kolorów, przez co szare fonty mogą wyglądać niekorzystnie.
 
-{% faqItem %} {% faqQuestion %}   
+{% faqItem %} {% faqQuestion %}  
 Szare meble jaki kolor ścian?  
- {% endfaqQuestion %}
+{% endfaqQuestion %}
 
 {% faqAnswer %} W przypadku wyboru szarych mebli kuchennych najbardziej klasycznym rozwiązaniem są ściany w kolorze bieli lub jednolitej szarości. Kolor szary jest jednak na tyle uniwersalny, że można łączyć go również w nieco odważniejsze zestawienia. Szare meble będą świetnie komponowały się między innymi z kolorem żółtym, zielonym, czy pomarańczowym.  
 {% endfaqAnswer %} {% endfaqItem %}
 
-{% faqItem %} {% faqQuestion %}   
+{% faqItem %} {% faqQuestion %}  
 Szara kuchnia jaki blat?  
 {% endfaqQuestion %}
 
-{% faqAnswer %} Najbardziej popularne jest połączenie szarej kuchni z blatem drewnianym lub kamiennym. Takie rozwiązanie daje szeroki wachlarz wyboru ze względu na duże zróżnicowanie rodzajów drewna i kamieni. Szara kuchnia z blatem drewnianym jest natomiast bardziej uniwersalna niż kuchnia z blatem kamiennym.   
+{% faqAnswer %} Najbardziej popularne jest połączenie szarej kuchni z blatem drewnianym lub kamiennym. Takie rozwiązanie daje szeroki wachlarz wyboru ze względu na duże zróżnicowanie rodzajów drewna i kamieni. Szara kuchnia z blatem drewnianym jest natomiast bardziej uniwersalna niż kuchnia z blatem kamiennym.  
 {% endfaqAnswer %} {% endfaqItem %}
 
 {% faqItem %}
@@ -141,10 +141,10 @@ Koszt domowych sposobów na czyszczenie pralki to zaledwie kilka złotych. Wią�
 {% endfaqAnswer %}
 {% endfaqItem %}
 
-{% faqItem %} {% faqQuestion %}   
+{% faqItem %} {% faqQuestion %}  
 Jaki kolor pasuje do szarych mebli?  
 {% endfaqQuestion %}
 
-{% faqAnswer %}   
+{% faqAnswer %}  
 Szare meble są bardzo uniwersalne, dzięki czemu będą wyglądać dobrze w połączeniu z większością kolorów. Najbardziej popularne zestawienia to odcienie zieleni i żółci a także klasyczna i kremowa biel. Nieco mniej spotykanym, ale równie efektownym połączeniem jest zestawienie szarych mebli z kolorem fuksji.  
 {% endfaqAnswer %} {% endfaqItem %}
