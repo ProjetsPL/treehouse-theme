@@ -2,16 +2,16 @@
 layout: post
 date: 2020-01-26
 toc: true
-title: Lawenda w doniczce. Czy lawenda na balkonie to dobry pomysł?
-description: Lawenda to popularna roślina często uprawiana w ogrodach. Nie trzeba
-  mieć jednak ogródka - świetnym pomysłem jest posadzenie lawendy w doniczce na balkonie.
+title: Lawenda w Doniczce. Czy Lawenda na Balkonie to Dobry Pomysł?
+description: "Lawenda to jedna z najpopularniejszych roślin ogrodowych. \U0001F3E1
+  Coraz częściej pojawia się też na balkonach. ➡️ Sprawdź, jakie ma właściwości."
 image: "/uploads/lawenda-w-doniczce.jpg"
 intro: Lawenda to wyjątkowa roślina o wielu właściwościach, która gości w wielu ogrodach.
   Jest ceniona ze względu na piękny kolor i mocny zapach. Uprawa lawendy nie sprawia
   wielu problemów, co jest jej dodatkowym atutem. Jednak nie trzeba posiadać ogrodu,
   aby korzystać z właściwości tej rośliny. Lawenda w doniczce to dobry pomysł, gdy
   przestrzeń jest ograniczona. Jak ją pielęgnować?
-update_date: 2020-02-01
+update_date: 2020-05-22
 promoted: true
 main_keywords:
 - lawenda
@@ -27,7 +27,13 @@ main_keywords:
 ---
 ## Jakie właściwości ma lawenda?
 
-Lawenda to krzew z rodziny jasnotowatych, czyli wargowych. Jest to roślina nie tylko ozdobna, ale także uprawna. Dorasta do wysokości pół metra, istnieją też wyższe gatunki. Cechą charakterystyczną są **fioletowe lub wręcz niebieskie kwiaty**, które rosnące w długich słupkach i wydzielają kamforowy zapach. Roślina jest ceniona ze względu na swoje właściwości lecznicze, ale nie tylko. Lawenda stosowana jest także w przemyśle perfumeryjnym oraz jako przyprawa. Wykorzystywane są jej kwiaty, najczęściej w formie suszonej. Wytwarza się z nich także olejek eteryczny, który posiada właściwości odkażające.
+Lawenda (**_Lavandula_**) to krzew z rodziny jasnotowatych. To roślina ozdobna, ale także uprawna. Osiąga pół metra jednak wśród 40 rodzajów lawendy - istnieją wyższe gatunki. Charakterystyczne są **fioletowe lub niebieskie kwiaty** - w długich słupkach. Wydzielają one kamforowy zapach. Roślina ma właściwości lecznicze. Lawenda stosowana jest w przemyśle perfumeryjnym i jako przyprawa.
+
+Wykorzystywane są jej kwiaty, najczęściej w formie suszonej. Wytwarza się z nich także olejek eteryczny, który posiada właściwości odkażające.
+
+Ponadto lawenda ma także wiele innych właściwości, które doceni każda kobieta. W dobie powrotu naturalnych kosmetyków lawenda staje się ponownie coraz bardziej doceniana. Ma właściwość **ograniczające produkcję sebum przez skórę**, dlatego nadaje się szczególnie do **cery tłustej i mieszanej**. Doskonale radzi sobie z trądzikiem i wypryskami, czy zmianami koloru skóry.
+
+Uprawiając lawendę w ogrodzie lub doniczkach na balkonie, można samodzielnie przygotować preparaty wspomagające skórę.
 
 {:.distinction.distinction-information}
 Kwiat ze względu na swój zapach działa **kojąco na układ nerwowy**, a w przypadku zmęczenia umysłowego - pobudza aktywność umysłową. Roślina pita jako napar lub dodawana do potraw jako przyprawa pobudza układ trawienny oraz rozluźnia mięśnie, łagodząc ból.

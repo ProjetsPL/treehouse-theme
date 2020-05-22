@@ -41,20 +41,20 @@ przesadzanie anturium (100)
 
 ## Anturium - jaki to kwiat?
 
-Anturium to wyjątkowy kwiat doniczkowy. Jest jedną z najpopularniejszych i jednocześnie oryginalnych, tropikalnych roślin. **Anturium** należy do najbardziej popularnych, a jednocześnie bardzo oryginalnych roślin tropikalnych. Ze względu na niezwykle dekoracyjny kwiatostan, dawniej królowało głównie w kwiaciarniach, stanowiąc ważny element wiązanek. Obecnie coraz częściej uprawia **Anturium** należy do najbardziej popularnych, a jednocześnie bardzo oryginalnych roślin tropikalnych.
+Anturium (anthurium) to wyjątkowy kwiat doniczkowy. Jest trwałą byliną o bogatych walorach dekoracyjnych. Anturium to jedna z najpopularniejszych i jednocześnie najbardziej oryginalnych, tropikalnych roślin. 
 
-![](/uploads/anturium-2.jpg)
+Anturium charakteryzuję się kwiatostanem o ciekawym, nieregularnym kształcie i czerwonym zabarwieniu. Z tego względu dawniej można było spotkać je wyłącznie w kwiaciarniach, jako dodatek do bukietów okolicznościowych. Dziś jednak anthurium coraz częściej uprawia się również w domach, jak tradycyjne rośliny doniczkowe.
+
+## Odmiany anturium w Polsce i na świecie
+
+**Anturium Andrego** to obecnie najpopularniejsze _Anthurium_, łącznie z licznymi mieszańcami, wywodzącymi się od gatunku wyjściowego, charakteryzującego się czerwonymi kwiatami. W sprzedaży mamy możliwość nabycia olbrzymiej ilości odmian tej grupy _Anthurium_, z których wiele jest niezwykle oryginalnych. Osiąga większe rozmiary niż **Anturium Scherzera**, a kwiatostan w formie kolby jest bardziej prosty bądź delikatnie wygięty. Liście zaostrzone u nasady, sercowate, zielone, zależnie od odmiany także o zmiennej barwie np. nakrapiane. Pochwa u gatunku czerwona, natomiast u mieszańców bardzo zmienna (zielona, czerwona, żółta, różowa, biała). Kwiatostan może sięgać do około 10 cm długości. Kwitnienie zależnie od odmiany, możliwe przez cały sezon, a więc wiosną i latem.
 
 ## Anturium - pielęgnacja i uprawa kwiatu
 
-### Jak pielęgnować anturium? 
-
-### Odmiany anturium 
+### Jak pielęgnować anturium, żeby pięknie rosło?
 
 ### Anturium - podlewanie i rozmnażanie
 
 ## Anturium - cena rośliny
 
 ## 3 sposoby, jak wykorzystać anturium
-
-![](/uploads/anturium-3.jpg)![](/uploads/anturium-4.jpg)![](/uploads/anturium-5.jpg)![](/uploads/anturium-6.jpg)
