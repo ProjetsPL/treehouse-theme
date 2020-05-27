@@ -55,3 +55,5 @@ Niektóre ryby i żaby żywią się larwami owadów. Wpuszczenie ich do zbiornik
 {% fig %}
 
 ![](/uploads/a-co-na-komary-nad-woda.jpg)
+
+{% endfig %}
