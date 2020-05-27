@@ -1,13 +1,26 @@
 ---
 layout: post
 date: 2020-05-27
-main_keywords: []
+main_keywords:
+- co odstrasza komary
+- " na komary"
+- " co na komary"
+- " sposoby na komary"
+- " domowe sposoby na komary"
+- " sposób na komary"
+- " jak odstraszyć komary"
 toc: true
 promoted: false
 update_date: 2020-05-27
 title: Co odstrasza komary? Skuteczne sposoby na komary w ogrodzie
-description: Co odstrasza komary? Skuteczne sposoby na komary w ogrodzie
-intro: Co odstrasza komary? Skuteczne sposoby na komary w ogrodzie
+description: Boisz się, że komary w ogrodzie uprzykrzą Twoje letnie wieczory? Zobacz,
+  jak skutecznie się ich pozbyć! Poznaj sprawdzone sposoby na komary i ciesz się pełnią
+  nadchodzącego lata.
+intro: Marzysz o spędzeniu miłego, letniego wieczoru w ogrodzie, ale obawiasz się,
+  że komary pokrzyżują Twoje plany? Zobacz, jak walczyć z nimi łatwo i skutecznie.
+  Poznaj sprawdzone i niedrogie sposoby na to, jak pozbyć się tych nieprzyjemnych,
+  latających insektów z Twojego ogrodu i ciesz się pełnią nadchodzącego lata, spędzając
+  czas na świeżym powietrzu bez ograniczeń.
 image: "/uploads/komary-glowne-jpg.jpg"
 related_products: []
 published: false
@@ -27,7 +40,7 @@ sposób na komary (1,5k)
 
 jak odstraszyć komary (500)
 
-## Czy domowe sposoby na komary są skuteczne?
+## Czy domowe sposoby na komary są naprawdę skuteczne?
 
 ## Jakie rośliny ogrodowe działają przeciwko komarom?
 
@@ -50,9 +63,13 @@ Ciekawą odmianą tego gatunku, również odstraszającą komary, jest drzewo Di
 
 Skrapianie ubrania czy spryskiwanie ciała specjalnymi środkami na komary jest skuteczne, jednak krótkotrwałe. Zwykle trzeba powtarzać ten proces kilkakrotnie jednego dnia. Jakie sposoby na komary w ogrodzie sprawią, że insekty na długo przestaną uprzykrzać letnie wieczory? Oto nasze propozycje, które pomogą wygrać walkę z komarami w ogrodzie.
 
-### jhgif
+### Olejki eteryczne i spraye na komary
 
-Palenie kadzidełek, świec i pochodni ma ograniczony zakres swego działania (chronią tylko bezpośrednio przy źródle żarzących się preparatów) Jedynie powstrzymują owady, nie likwidując ich.
+Zdecydowanie najbardziej powszechne w walce z komarami jest stosowanie wszelkiego rodzaju sprayów przeciwko komarom, olejków eterycznych czy kadzideł zapachowych. Jednak należy pamiętać o tym, że tego typu środki na komary jedynie powstrzymują i odstraszają owady, a nie całkowicie je likwidują.
+
+Ponadto, palenie kadzidełek, świec i pochodni chociaż jest rzeczywiście skuteczne, zwykle ma bardzo ograniczony zakres swego działania. Preparaty tego typu chronią przed komarami wyłącznie bezpośrednio przy źródle. Jednakże, czym bardziej oddalamy się od miejsca palenia kadzidełek czy świec, tym bardziej narażeni jesteśmy na ukąszenia.  
+
+![](/uploads/kadzidlo-na-komary.jpg)
 
 ### Oświetlenie ogrodowe, jako skuteczny środek na komary 
 
@@ -60,11 +77,10 @@ Jednym z najpopularniejszych sposobów na komary w ogrodzie jest zamontowanie sp
 
 Lampa emituje delikatne światło ultrafioletowe, które przyciąga owady, bez względu na aktualną porę dnia. Jedne z najpopularniejszych rodzajów lamp to takie, które likwidują insekty poprzez rażenie prądem, drugie z nich natomiast sprawiają, że komary przylepiają się do lampy i są zasysane do wewnątrz urządzenia. Sposób wabienia komarów nie zmienia się, natomiast samo zwalczanie insektów różni się od siebie.
 
+{:.distinction.distinction-information}  
 Dużym plusem lampy na komary jest fakt, że nie ma ona żadnego wpływu na osoby przebywające w jej pobliżu. Z tego względu stanowi więc świetne rozwiązanie dla alergików, którzy nie mogą używać popularnych sprayów do ochrony przed insektami. 
 
-### 
-
-**Lampa na komary na zewnątrz** ma o tyle przewagę nad innymi środkami odstraszającymi i zwalczającymi komary, że ma neutralny wpływ na osoby przebywające w pobliżu i eliminuje, a nie tylko odstrasza brzęczących gości. Opryski w ogrodzie - niezawodny sposób na komary
+### Opryski w ogrodzie - niezawodny sposób na komary
 
 Krokiem ostatecznym w walce z komarami jest przeprowadzenie oprysków w ogrodzie. Zastosowanie odpowiedniego środka do oprysku na komary nie tylko odstrasza, ale również skutecznie likwiduje insekty znajdujące się w ogrodzie. 
 
