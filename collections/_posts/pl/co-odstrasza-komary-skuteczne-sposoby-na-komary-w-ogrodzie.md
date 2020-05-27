@@ -26,20 +26,6 @@ related_products: []
 published: false
 
 ---
-co odstrasza komary (1,6k)
-
-na komary (2,8k)
-
-co na komary (1,6k)
-
-sposoby na komary (1,3k)
-
-domowe sposoby na komary (1,7k)
-
-sposób na komary (1,5k)
-
-jak odstraszyć komary (500)
-
 ## Czy domowe sposoby na komary są naprawdę skuteczne?
 
 ## Jakie rośliny ogrodowe działają przeciwko komarom?
@@ -49,7 +35,9 @@ Istnieją gatunki roślin ogrodowych, które sadzone w ogrodzie działają na ko
 Popularnym kwiatem ozdobnym doskonale odstraszającym komary jest komarzyca (plektrantus koleusowaty) wiotka roślina o długich pędach. Kwiat najlepiej prezentuje się w donicy wiszącej, dzięki czemu można hodować go również na balkonie lub tarasie.   
 Innymi popularnymi roślinami ozdobnymi, które świetnie odstraszają komary są między innymi bodziszki. To gatunek idealny do sadzenia na skalniakach, skarpach i niskich rabatach. 
 
+{% fig %}
 ![](/uploads/rosliny-odstraszajace-komary.jpg)
+{% endfig %}
 
 Jednak to, co odstrasza komary w ogrodzie to nie tylko kwitnące byliny. Doskonałym i skutecznym sposobem na komary jest również zasadzenie poszczególnych gatunków drzew i krzewów. Jednym z najmniej lubianych przez komary jest sumak octowca. To drzewo pomaga pozbyć się komarów z ogrodu, a jednocześnie zajmuje bardzo mało miejsca oraz wymaga minimalnej pielęgnacji, z jaką poradzi sobie każdy, nawet zaczynający dopiero swoją przygodę z uprawą roślin ogrodowych.
 
@@ -57,7 +45,9 @@ Jednak to, co odstrasza komary w ogrodzie to nie tylko kwitnące byliny. Doskona
 {:.distinction.distinction-information}  
 Ciekawą odmianą tego gatunku, również odstraszającą komary, jest drzewo Dissecta, które charakteryzuje się rozłożystą koroną. Drzewko to rośnie do czterech metrów wysokości i może osiągać nawet sześć metrów szerokości. Liście Dissecta jesienią zabarwiają się na kolor pomarańczowy, co nadaje roślinie dodatkowych walorów dekoracyjnych.
 
+{% fig %}
 ![](/uploads/dissecta-przeciwko-komarom.jpg)
+{% endfig %}
 
 ## Co odstrasza komary? Wypróbuj 3 sprawdzone środki do ogrodu przeciw tym insektom
 
@@ -69,7 +59,9 @@ Zdecydowanie najbardziej powszechne w walce z komarami jest stosowanie wszelkieg
 
 Ponadto, palenie kadzidełek, świec i pochodni chociaż jest rzeczywiście skuteczne, zwykle ma bardzo ograniczony zakres swego działania. Preparaty tego typu chronią przed komarami wyłącznie bezpośrednio przy źródle. Jednakże, czym bardziej oddalamy się od miejsca palenia kadzidełek czy świec, tym bardziej narażeni jesteśmy na ukąszenia.  
 
+{% fig %}
 ![](/uploads/kadzidlo-na-komary.jpg)
+{% endfig %}
 
 ### Oświetlenie ogrodowe, jako skuteczny środek na komary 
 
@@ -80,6 +72,7 @@ Lampa emituje delikatne światło ultrafioletowe, które przyciąga owady, bez w
 {:.distinction.distinction-information}  
 Dużym plusem lampy na komary jest fakt, że nie ma ona żadnego wpływu na osoby przebywające w jej pobliżu. Z tego względu stanowi więc świetne rozwiązanie dla alergików, którzy nie mogą używać popularnych sprayów do ochrony przed insektami. 
 
+
 ### Opryski w ogrodzie - niezawodny sposób na komary
 
 Krokiem ostatecznym w walce z komarami jest przeprowadzenie oprysków w ogrodzie. Zastosowanie odpowiedniego środka do oprysku na komary nie tylko odstrasza, ale również skutecznie likwiduje insekty znajdujące się w ogrodzie. 
@@ -88,6 +81,7 @@ Krokiem ostatecznym w walce z komarami jest przeprowadzenie oprysków w ogrodzie
 Jeżeli zależy Ci na pozbyciu się jednocześnie kilku rodzajów insektów możesz pomieszać ze sobą dwa różne środki opryskowe, zachowując równowagę w proporcji.
 
 Oprysk ogrodowy na komary to nic innego jak skoncentrowany środek owadobójczy, przygotowywany własnoręcznie na chwilę przed jego użyciem. Należy stosować go przede wszystkim w zaciemnionych miejscach o dużej wilgotności i w wysokich trawach. Ze względu na mniejszą aktywność komarów zarówno w godzinach porannych, jak i późnym wieczorem, za pomocą opryskiwacza działającego pod ciśnieniem, można efektywnie zmniejszyć populację lub całkowicie zapobiec ich rozmnażaniu. Im większy obszar zostanie spryskany, tym większa będzie skuteczność zabiegu. Mimo wszystko preparatu należy używać rozsądnie, zachowując przy tym odpowiednie proporcje. Przeprowadzenie odkomarzania chemicznego, na dużej powierzchni, to pewny sposób na walkę z tymi  właśnie insektami.
+
 
 ## A co na komary nad wodą?
 
@@ -99,7 +93,5 @@ Jako, że komary najczęściej wybierają zanieczyszczone, gęste i płytkie zbi
 Niektóre ryby i żaby żywią się larwami owadów. Wpuszczenie ich do zbiornika z wodą w ogrodzie może więc zapobiec rozmnażaniu się insektów.
 
 {% fig %}
-
 ![](/uploads/a-co-na-komary-nad-woda.jpg)
-
 {% endfig %}
