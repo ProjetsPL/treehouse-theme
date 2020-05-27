@@ -27,32 +27,51 @@ sposób na komary (1,5k)
 
 jak odstraszyć komary (500)
 
-## Jak odstraszyć komary w ogrodzie?
+## Czy domowe sposoby na komary są skuteczne?
 
 ## Jakie rośliny ogrodowe działają przeciwko komarom?
 
 Istnieją gatunki roślin ogrodowych, które sadzone w ogrodzie działają na komary odstraszająco. Są to głównie kwiaty, drzewa i krzewy o intensywnych zapachach. Aromatyczne kwiaty i zioła są dla komarów nie do zniesienia, a co za tym idzie sprawdzą się doskonale jako ochrona ogrodu przed tymi insektami.
 
-Roślinami ozdobnymi, które świetnie odstraszają komary są między innymi bodziszki. To gatunek idealny do sadzenia na skalniakach, skarpach i niskich rabatach. Innym popularnym kwiatem ozdobnym doskonale odstraszającym komary jest komarzyca (plektrantus koleusowaty) wiotka roślina o długich pędach. Kwiat najlepiej prezentuje się w donicy wiszącej, dzięki czemu można hodować go również na balkonie lub tarasie.
+Popularnym kwiatem ozdobnym doskonale odstraszającym komary jest komarzyca (plektrantus koleusowaty) wiotka roślina o długich pędach. Kwiat najlepiej prezentuje się w donicy wiszącej, dzięki czemu można hodować go również na balkonie lub tarasie.   
+Innymi popularnymi roślinami ozdobnymi, które świetnie odstraszają komary są między innymi bodziszki. To gatunek idealny do sadzenia na skalniakach, skarpach i niskich rabatach. 
+
+![](/uploads/rosliny-odstraszajace-komary.jpg)
 
 Jednak to, co odstrasza komary w ogrodzie to nie tylko kwitnące byliny. Doskonałym i skutecznym sposobem na komary jest również zasadzenie poszczególnych gatunków drzew i krzewów. Jednym z najmniej lubianych przez komary jest sumak octowca. To drzewo pomaga pozbyć się komarów z ogrodu, a jednocześnie zajmuje bardzo mało miejsca oraz wymaga minimalnej pielęgnacji, z jaką poradzi sobie każdy, nawet zaczynający dopiero swoją przygodę z uprawą roślin ogrodowych.
 
+  
 {:.distinction.distinction-information}  
 Ciekawą odmianą tego gatunku, również odstraszającą komary, jest drzewo Dissecta, które charakteryzuje się rozłożystą koroną. Drzewko to rośnie do czterech metrów wysokości i może osiągać nawet sześć metrów szerokości. Liście Dissecta jesienią zabarwiają się na kolor pomarańczowy, co nadaje roślinie dodatkowych walorów dekoracyjnych.
 
-Ale kwitnące byliny i zioła to nie jedyne [rośliny pachnące](https://poradnikogrodniczy.pl/projektujemyogrod5.php) odstraszające **komary w ogrodzie**. Jeżeli chodzi o drzewa i krzewy, to komary ponoć nie lubią latać wokół sumaka octowca (_Rhus typhia_). Są to niewysokie drzewa o stosunkowo niewielkich wymaganiach glebowych i dobrze znoszące zanieczyszczenie powietrza w miastach. Mogą rosnąć na stanowiskach słonecznych lub półcienistych. Posiadacze tarasów mogą sobie pozwolić na uprawę w pojemniku odmiany 'Dissecta', o wspaniałej rozłożystej koronie. Drzewko to osiąga do 4 metrów wysokości i od 3 do 6 metrów szerokości. Jego głęboko powcinane liście jesienią przebarwiają się na pomarańczowo. Pień tej odmiany może się pochylać, co nadaje roślinie jeszcze większego uroku.
+![](/uploads/dissecta-przeciwko-komarom.jpg)
 
-[Plektrantus ](http://rosliny.wymarzonyogrod.pl/baza-roslin/balkonowe-i-tarasowe/plektrantus,8_180/)(komarzycą) – to roślina o długich zwisających pędach, w naszym klimacie uprawiana jako jednoroczna, jej ozdobą są liście: zielone z białymi brzegami. Plektrantus można sadzić w pojemnikach bądź bezpośrednio w gruncie. Zapach liście plektrantusa odstrasza komary.  
-Kocimiętka – jest byliną dorastającą do 30–50 cm wysokości, która tworzy gęste kępy z długimi pokładającymi się na ziemi pędami. Cała roślina jest bardzo aromatyczna – jej zapach odstrasza komary, ale przyciąga koty, które lubią podgryzać roślinę.  
-[Surmia ](http://rosliny.wymarzonyogrod.pl/baza-roslin/drzewa-lisciaste/surmia-bignoniowa,7_347/)(catalpa) – szybko rosnące drzewo z rozłożystą koroną i krótkim pniem, o nieco egzotycznym wyglądzie. Ma duże, dekoracyjne liście i białe kwiaty, które pojawiają się na przełomie lipca i sierpnia. Surmia zawiera olejki eteryczne odstraszające komary.  
-[Bazylia ](http://rosliny.wymarzonyogrod.pl/baza-roslin/ziola/bazylia-pospolita-bazylia-wlasciwa,15_701/)– aromatyczna roślina przyprawowa, której zapach skutecznie odstrasza komary. Bazylię można sadzić w gruncie albo w donicach ustawianych w ogrodzie czy na tarasie.  
-[Koper włoski ](http://rosliny.wymarzonyogrod.pl/baza-roslin/warzywa/fenkul-wloski-koper-wloski-koper-slodki,17_707/)– warzywo i roślina przyprawowa. Osiąga 90–200 cm wysokości, ma wzniesiony pokrój, pędy są silnie rozgałęzione i ulistnione trzykrotnie pierzastymi liśćmi o pochwiastych nasadach, które wraz z łodygą tworzą u podnóża rośliny, jadalne, bulwiaste zgrubienie, zwane potocznie cebulą.  
-[Lawenda ](http://rosliny.wymarzonyogrod.pl/baza-roslin/byliny/lawenda-waskolistna-lawenda-lekarska,5_336/)– bylina uprawiana jako roślina ozdobna oraz zielarska. Tworzy sztywne, wzniesione pędy pokryte szarym kutnerem, z wiekiem drewniejące w dolnej części. Lancetowane liście, także pokryte srebrzystym kutnerem, są silnie aromatyczne. W Polsce lawenda dorasta do około 50 cm wysokości i około 70 cm szerokości. Fioletowe kwiaty, zebrane w kłosowate kwiatostany, są także silnie aromatyczne. Lawenda skutecznie odstrasza komary.  
-Bodziszek (geranium) – to rodzaj bylin o aromatycznych liściach, kwitnących – w zależności od gatunku – na fioletowo, niebiesko czy różowo. [Bodziszki ](http://rosliny.wymarzonyogrod.pl/szukaj/?query=bodziszek)to rośliny trwałe i łatwe w pielęgnacji, mogą rosnąć zarówno w miejscach nasłonecznionych, jak i i półcienistych, dobrze znoszą suszę. Ich zapach odstrasza komary.
+## Co odstrasza komary? Wypróbuj 3 sprawdzone środki do ogrodu przeciw tym insektom
 
-## Co odstrasza komary? Wypróbuj 4 sprawdzone środki do ogrodu przeciw tym insektom
+Skrapianie ubrania czy spryskiwanie ciała specjalnymi środkami na komary jest skuteczne, jednak krótkotrwałe. Zwykle trzeba powtarzać ten proces kilkakrotnie jednego dnia. Jakie sposoby na komary w ogrodzie sprawią, że insekty na długo przestaną uprzykrzać letnie wieczory? Oto nasze propozycje, które pomogą wygrać walkę z komarami w ogrodzie.
 
-### Na komary opryski ogrodu
+### jhgif
+
+Palenie kadzidełek, świec i pochodni ma ograniczony zakres swego działania (chronią tylko bezpośrednio przy źródle żarzących się preparatów) Jedynie powstrzymują owady, nie likwidując ich.
+
+### Oświetlenie ogrodowe, jako skuteczny środek na komary 
+
+Jednym z najpopularniejszych sposobów na komary w ogrodzie jest zamontowanie specjalnego oświetlenia. Do walki z kąsającymi insektami wykorzystuje się lamp na komary do stosowania na zewnątrz. Taka lampa nie tylko odstrasza, ale także całkowicie eliminuje latające insekty. 
+
+Lampa emituje delikatne światło ultrafioletowe, które przyciąga owady, bez względu na aktualną porę dnia. Jedne z najpopularniejszych rodzajów lamp to takie, które likwidują insekty poprzez rażenie prądem, drugie z nich natomiast sprawiają, że komary przylepiają się do lampy i są zasysane do wewnątrz urządzenia. Sposób wabienia komarów nie zmienia się, natomiast samo zwalczanie insektów różni się od siebie.
+
+Dużym plusem lampy na komary jest fakt, że nie ma ona żadnego wpływu na osoby przebywające w jej pobliżu. Z tego względu stanowi więc świetne rozwiązanie dla alergików, którzy nie mogą używać popularnych sprayów do ochrony przed insektami. 
+
+### 
+
+**Lampa na komary na zewnątrz** ma o tyle przewagę nad innymi środkami odstraszającymi i zwalczającymi komary, że ma neutralny wpływ na osoby przebywające w pobliżu i eliminuje, a nie tylko odstrasza brzęczących gości. Opryski w ogrodzie - niezawodny sposób na komary
+
+Krokiem ostatecznym w walce z komarami jest przeprowadzenie oprysków w ogrodzie. Zastosowanie odpowiedniego środka do oprysku na komary nie tylko odstrasza, ale również skutecznie likwiduje insekty znajdujące się w ogrodzie. 
+
+{:.distinction.distinction-information}  
+Jeżeli zależy Ci na pozbyciu się jednocześnie kilku rodzajów insektów możesz pomieszać ze sobą dwa różne środki opryskowe, zachowując równowagę w proporcji.
+
+Oprysk ogrodowy na komary to nic innego jak skoncentrowany środek owadobójczy, przygotowywany własnoręcznie na chwilę przed jego użyciem. Należy stosować go przede wszystkim w zaciemnionych miejscach o dużej wilgotności i w wysokich trawach. Ze względu na mniejszą aktywność komarów zarówno w godzinach porannych, jak i późnym wieczorem, za pomocą opryskiwacza działającego pod ciśnieniem, można efektywnie zmniejszyć populację lub całkowicie zapobiec ich rozmnażaniu. Im większy obszar zostanie spryskany, tym większa będzie skuteczność zabiegu. Mimo wszystko preparatu należy używać rozsądnie, zachowując przy tym odpowiednie proporcje. Przeprowadzenie odkomarzania chemicznego, na dużej powierzchni, to pewny sposób na walkę z tymi  właśnie insektami.
 
 ## A co na komary nad wodą?
 
