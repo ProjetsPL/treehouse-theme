@@ -24,7 +24,7 @@ title: House plants – Find the Best Indoor Plants of 2020
 description: "Are you a plant lover? Do you grow indoor plants? \U0001F331 These fascinating
   species will amaze you. ➡️ Take a look at the most popular house plants of 2020."
 intro: Do you grow potted plants at home? There are certain species that not only
-  look beautiful but they are also very easy to grow. Learn what species you should
+  look beautiful, but they are also very easy to grow. Learn what species you should
   add to your green collection and find out how to take care of them. Check what are
   the most popular house plants of 2020.
 image: "/uploads/jak-pielegnowac-rosliny-doniczkowe.jpg"
