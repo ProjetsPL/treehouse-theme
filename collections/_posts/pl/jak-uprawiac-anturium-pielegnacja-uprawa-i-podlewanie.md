@@ -1,7 +1,20 @@
 ---
 layout: post
 date: 2020-05-14
-main_keywords: []
+main_keywords:
+- anturium
+- " anthurium"
+- " anturium kwiat"
+- " kwiat anturium"
+- anturium pielęgnacja
+- " anturium choroby"
+- " anturium uprawa"
+- " anturium cena"
+- " anturium podlewanie"
+- " anturium rozmnażanie"
+- jak pielęgnować anturium
+- " anturium odmiany"
+- " przesadzanie anturium"
 toc: true
 promoted: false
 update_date: 2020-05-14
@@ -47,7 +60,7 @@ Anturium charakteryzuję się kwiatostanem o ciekawym, nieregularnym kształcie 
 
 ![](/uploads/anturium-6.jpg)
 
-## Odmiany anturium w Polsce i na świecie
+## Popularne odmiany anturium w Polsce i na świecie
 
 Najpopularniejszym Anthurium w Polsce to obecnie Anturium Andrego. Bardzo często łączy się je z licznymi mieszańcami, jakie wywodzą się od tego gatunku. Najbardziej charakterystycznym elementem Anthurium Andrego są jego czerwone kwiaty. Kwiatostan może sięgać nawet do około 10 cm długości, a jego kwitnienie jest zależne od odmiany - możliwe przez cały sezon, a więc wiosną i latem.
 
@@ -63,6 +76,8 @@ Innym popularnym gatunkiem tego kwiatu jest Anturium Sherza. To wyjątkowo popul
 
 ## Anturium - cena rośliny
 
+Anturium można również kupować w formie bukietu. Koszt wiązanki jest zależny od ilości kwiatów przeznaczonych na jego wykonanie i oscyluje od kilkudziesięciu do nawet kilkuset złotych. Najczęściej bukiety z tego gatunku roślin zamawia się na różnego rodzaju wydarzenia okolicznościowe, jak na przykład imieniny. Wiązanka z anturium ze względu na swój specyficzny charakter sprawdzi się również świetnie, jako ozdoba wszelkich uroczystości odbywających się w kościele, jak śluby czy pogrzeby oraz na co dzień, jako wystrój ołtarza.
+
 ## Jak wyleczyć Anturium z choroby?
 
 Sposób leczenia chorób Anturium powinien być dobierany w zależności od przyczyny. Anturium to roślina mocna i odporna na czynniki zewnętrzne, jednak błędy popełniane w pielęgnacji i uprawie kwiatu mogą powodować choroby liści lub kwiatostanów. Powodem schorzeń mogą być:
@@ -73,4 +88,12 @@ Sposób leczenia chorób Anturium powinien być dobierany w zależności od przy
 * choroba infekcyjna,
 * szkodniki owadzie.
 
-Choroby infekcyjne Anturium
+Aby wyleczyć anturium z większości popularnych chorób, jak zżółknięte i suche liście lub więdnięcie wystarczy troszczyć się o odpowiednią pielęgnację rośliny. Dbać o jej nawadnianie, nawożenie oraz przesadzanie, zgodnie z wymogami rośliny. 
+
+Nieco bardziej skomplikowane jest natomiast leczenie chorób infekcyjnych anturium.  W takim przypadku patogeny mnożą się bardzo szybko, a co za tym idzie - przenoszą na inne rośliny. Pierwotna przyczyna choroby infekcyjnej wynika zwykle z nieuwagi właściciela. Bardzo często już przyniesiona do domu sadzonka mogła zostać pobrana z chorej rośliny i jest zainfekowana. Aby uniknąć przeniesienia infekcji na pozostałe rośliny domowe, podejrzaną sadzonkę należy odizolować od reszty kwiatów na dwa tygodnie i obserwować jej rozwój.
+
+![](/uploads/anturium-3.jpg)
+
+A jak naprawić szkody powstałe po insektach? W przypadku stwierdzenia na anturium szkodników owadzich zwykle konieczny jest oprysk preparatem owadobójczym.  
+  
+Do szkodników owadzich, których żerowanie doprowadza do żółknięcia, brązowienia i obumierania liści należą: wciornastki, mszyce,  wełnowce, przędziorki i czerwce. Suche powietrze sprzyja rozpowszechnianiu się wciornastków i wełnowców. Jeśli nie zostaną porę zauważone odpowiednio wcześnie,  mogą doprowadzić do pożółknięcia liści i poważnego osłabienia rośliny.
