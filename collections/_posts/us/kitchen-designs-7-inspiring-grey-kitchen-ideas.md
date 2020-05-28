@@ -46,7 +46,7 @@ A grey kitchen is very practical because it's a color that looks good on any sur
 
 {% fig %}
 
-![](/uploads/szara-kuchnia-trend.jpg)
+![Grey kitchen – what is it about?](/uploads/szara-kuchnia-trend.jpg "Grey kitchen – what is it about?")
 
 {% endfig %}
 
@@ -68,4 +68,16 @@ Regardless of the color you choose, wood used in the kitchen should always be la
 
 Grey kitchen with wood might look interesting when designed in loft style. it's an unique and unusual way to **give a fresh look and bring out the** **character** from ordinary grey furniture. Loft style usually uses ordinary materials in their **raw and natural form**. They might be, for instance: concrete, wood, stone or brick.
 
-A grey kitchen in loft style is perfect for anybody who loves **interesting and unexceptional interiors**, as it 
+A grey kitchen in loft style is perfect for anybody who loves **interesting and unexceptional interiors**, as it contains a lot of unusual aesthetical solutions. A prevalent element of loft interiors is using a classic combination of two colors – **grey and white**. Quite a popular solution for this style are **brick** or **concrete walls**.
+
+A **loft style grey kitchen** uses not always practical, but great looking accessories, such as long **hanging lamps without shade**, suspended ceiling or elements made of steel.
+
+{:.distinction.distinction-information}
+
+The central element of a loft style grey kitchen is usually a metal island with wooden or stone counter, used for preparing and eating meals. This solution is not only very trendy, but also highly functional. 
+
+{% fig %}
+
+![Grey and white kitchen, loft style – give a unique character to your furniture](/uploads/kuchnia-w-stylu-loft.jpg "Grey and white kitchen, loft style – give a unique character to your furniture")
+
+{% endfig %}
