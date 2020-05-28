@@ -34,7 +34,7 @@ related_products: []
 published: false
 
 ---
-## Grey kitchen – what is this trend about?
+## Grey kitchen – what is it about?
 
 Grey kitchen is a **very** **universal trend.** A kitchen painted in this color might become either minimalist, elegant, luxurious or homely. Walls or furniture in the same grey color allow to create a **room of different qualities and aesthetics**. Because of the versatility of the color, accessories are the ones that determine the character of a grey kitchen. For this reason you should choose them carefully.
 
@@ -58,4 +58,14 @@ One of the most popular and at the same time most impressive kitchen design is *
 
 One of the most popular current trends is **matching grey kitchen with wood** in any color. Wood usually appears in the form of kitchen counters or a table.
 
-**A light-grey kitchen** looks best with a very pale, almost white wood. When it comes to dark, graphite-grey color, all shades of grey fit well. You might 
+**A light-grey kitchen** looks best with a very pale, almost white wood. When it comes to dark, graphite-grey color, all shades of grey fit well. You might go for a bold contrast, choosing light wood or give the interior a warmer look by combining **grey kitchen cabinets with yellow or orange shaded wooden counters.** Dark wood matched with grey fronts might bring elegance to the room but at the same time it makes the interior look "heavier". It might be problematic for homeowners who love subtle designs.
+
+{:.distinction.distinction-warning}
+
+Regardless of the color you choose, wood used in the kitchen should always be laminated. It makes it easier to clean, which is very important in case of difficult, heavy stains, such as oil.
+
+## Grey and white kitchen, loft style – give a unique character to your furniture
+
+Grey kitchen with wood might look interesting when designed in loft style. it's an unique and unusual way to **give a fresh look and bring out the** **character** from ordinary grey furniture. Loft style usually uses ordinary materials in their **raw and natural form**. They might be, for instance: concrete, wood, stone or brick.
+
+A grey kitchen in loft style is perfect for anybody who loves **interesting and unexceptional interiors**, as it 
