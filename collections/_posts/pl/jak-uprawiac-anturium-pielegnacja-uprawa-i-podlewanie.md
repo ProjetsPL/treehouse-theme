@@ -19,8 +19,13 @@ toc: true
 promoted: false
 update_date: 2020-05-14
 title: Jak uprawiać anturium? Pielęgnacja, uprawa i podlewanie
-description: Jak uprawiać anturium? Pielęgnacja, uprawa i podlewanie
-intro: Jak uprawiać anturium? Pielęgnacja, uprawa i podlewanie
+description: Regularne podlewanie, nawożenie i przesadzanie anturium to podstawy pielęgnacji
+  tego kwiatu. Zobacz, jak uprawiać anturium, aby pięknie kwitło w Twoim domu.
+intro: Anturium to popularny kwiat doniczkowy, który zachwyca swoich właścicieli bogatymi
+  walorami dekoracyjnymi. Jednak, jak każda roślina doniczkowa potrzebuje odpowiedniej
+  troski ze strony hodowcy, by mógł rozwijać się prawidłowo. Regularne podlewanie,
+  nawożenie i przesadzanie anturium to podstawy pielęgnacji dla tego gatunku. Zobacz,
+  jak uprawiać anturium, aby pięknie kwitło w domowym zaciszu.
 image: "/uploads/anthurium-glowne.jpg"
 related_products: []
 published: false
