@@ -32,13 +32,17 @@ Anturium (anthurium) to wyjątkowy kwiat doniczkowy. Jest trwałą byliną o bog
 
 Anturium charakteryzuję się kwiatostanem o ciekawym, nieregularnym kształcie i czerwonym zabarwieniu. Z tego względu dawniej można było spotkać je wyłącznie w kwiaciarniach, jako dodatek do bukietów okolicznościowych. Dziś jednak anthurium coraz częściej uprawia się również w domach, jak tradycyjne rośliny doniczkowe.
 
+{% fig %}
 ![](/uploads/anturium-6.jpg)
+{% endfig %}
 
 ## Popularne odmiany anturium w Polsce i na świecie
 
 Najpopularniejszym Anthurium w Polsce to obecnie Anturium Andrego. Bardzo często łączy się je z licznymi mieszańcami, jakie wywodzą się od tego gatunku. Najbardziej charakterystycznym elementem Anthurium Andrego są jego czerwone kwiaty. Kwiatostan może sięgać nawet do około 10 cm długości, a jego kwitnienie jest zależne od odmiany - możliwe przez cały sezon, a więc wiosną i latem.
 
+{% fig %}
 ![](/uploads/anturium-2.jpg)
+{% endfig %}
 
 Innym popularnym gatunkiem tego kwiatu jest Anturium Sherza. To wyjątkowo popularna odmiana rośliny, z którą można spotkać się w wielu polskich domach. Sama natomiast pochodzi z Ameryki Południowej. Ta ciekawa odmiana osiąga około 20- 50 cm wysokości. Posiada podłużne liściektórych długość może przekraczać nawet 20 cm. Ze względu na ich głęboko zielony kolor i połysk pełnią one, tak jak i kwiatostany -funkcję dekoracyjną.  Kwiat natomiast swoją formą przypomina poskręcaną, czerwoną kolbę, co jest cechą charakterystyczną tego gatunku.
 
@@ -66,7 +70,9 @@ Regularne i obfite podlewanie anturium jest bardzo ważne, przede wszystkim w sz
 
 Odpowiednia pielęgnacja i regularne nawadnianie rośliny daje możliwość rozmnażania anturium w domu. Jest to co prawda dość skomplikowane, ale przydatne i bardzo satysfakcjonujące - szczególnie przy zakładaniu hodowli kwiatów doniczkowych. Proces ten można wykonać w domu samodzielnie, jednak nie należy on do najłatwiejszych i wymaga sporo cierpliwości. Najlepszy i najprostszy sposób to rozmnażanie anturium przez podział rośliny doniczkowej. Należy jednak wziąć pod uwagę fakt, że proces ten uda się tylko jeśli mamy do czynienia z rośliną dobrze wyrośniętą. Korzenie anturium można podzielić przy okazji przesadzania. Należy ostrożnie oddzielić je od siebie ostrym, zdezynfekowanym nożem, a następnie przesadzić do kilku osobnych donic. 
 
+{% fig %}
 ![](/uploads/anturium-5.jpg)
+{% endfig %}
 
 ## Anturium - cena rośliny
 
@@ -74,7 +80,9 @@ Anturium w doniczce można zakupić w cenie kilkudziesięciu złotych za sztukę
 
 W kwiaciarni natomiast anturium można również zakupić w formie bukietu. Koszt wiązanki jest zależny od ilości kwiatów przeznaczonych na jego wykonanie i oscyluje od kilkudziesięciu do nawet kilkuset złotych. Najczęściej bukiety z tego gatunku roślin zamawia się na różnego rodzaju wydarzenia okolicznościowe, jak na przykład imieniny. Wiązanka z anturium ze względu na swój specyficzny charakter sprawdzi się również świetnie, jako ozdoba wszelkich uroczystości odbywających się w kościele, jak śluby czy pogrzeby oraz na co dzień, jako wystrój ołtarza.
 
+{% fig %}
 ![](/uploads/anturium-4.jpg)
+{% endfig %}
 
 ## Jak wyleczyć Anturium z choroby?
 
@@ -90,7 +98,9 @@ Aby wyleczyć anturium z większości popularnych chorób, jak zżółknięte i 
 
 Nieco bardziej skomplikowane jest natomiast leczenie chorób infekcyjnych anturium.  W takim przypadku patogeny mnożą się bardzo szybko, a co za tym idzie - przenoszą na inne rośliny. Pierwotna przyczyna choroby infekcyjnej wynika zwykle z nieuwagi właściciela. Bardzo często już przyniesiona do domu sadzonka mogła zostać pobrana z chorej rośliny i jest zainfekowana. Aby uniknąć przeniesienia infekcji na pozostałe rośliny domowe, podejrzaną sadzonkę należy odizolować od reszty kwiatów na dwa tygodnie i obserwować jej rozwój.
 
+{% fig %}
 ![](/uploads/anturium-3.jpg)
+{% endfig %}
 
 A jak naprawić szkody powstałe po insektach? W przypadku stwierdzenia na anturium szkodników owadzich zwykle konieczny jest oprysk preparatem owadobójczym.
 
