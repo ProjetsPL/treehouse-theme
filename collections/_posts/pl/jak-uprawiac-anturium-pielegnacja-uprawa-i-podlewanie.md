@@ -79,7 +79,10 @@ Kwiat anturium, jak wszystkie rośliny doniczkowe powinien otrzymać własną pr
 {:.distinction.distinction-warning}  
 Zbyt mała ilość światła, podobnie jak zbyt duże nasłonecznienie również może znacznie zaszkodzić wzrostowi anturium. Jeśli w pomieszczeniu będzie za ciemno, liście anturium wydłużą się i będą cienkie, a kwiaty nie zakwitną prawidłowo.
 
-W pielęgnacji tego 
+W pielęgnacji tego gatunku bardzo ważne jest również nieczęste, ale regularne nawożenie i przesadzanie anturium. Młode rośliny nawozi się raz w roku, na wiosnę, jak również przesadza się je do większych doniczek, aby zdrowo rosły.   
+  
+{:.distinction.distinction-information}  
+Anturium musi zostać koniecznie przesadzone, w momencie gdy korzenie przerosną przez otwór w dnie doniczki.
 
 ### Anturium - podlewanie i rozmnażanie
 
