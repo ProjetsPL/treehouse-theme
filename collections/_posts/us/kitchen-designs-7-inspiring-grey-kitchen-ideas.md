@@ -81,3 +81,5 @@ The central element of a loft style grey kitchen is usually a metal island with 
 ![Grey and white kitchen, loft style – give a unique character to your furniture](/uploads/kuchnia-w-stylu-loft.jpg "Grey and white kitchen, loft style – give a unique character to your furniture")
 
 {% endfig %}
+
+## A grey kitchen with wooden elements – how to design it?
