@@ -66,4 +66,118 @@ You should keep the **hygiene of the house plants leaves** throughout the whole 
 
 Keep your plants in good condition in the autumn as well. It's the best time to prepare them for winter rest. Avoid fertilizing the house plants in autumn – wait until spring.
 
-## 
+## What house plants are worth having?
+
+**The best potted plants** that you can grow in your household are the ones that do not require to much attention. This is an easy way to make your house plants a **real** **decoration**, while putting as little effort as possible.
+
+When you choose indoor plants, pay attention not only to their appearance, but also to their practical properties that you could use. The most popular 2020 house plants that are worth having are:
+
+{:.list.list-positive}
+
+* **Geranium** – it's one of the most popular ornamental house plants – indoors, but put outside. They are typically grown **on balconies and windowsills**. Geraniums not only look quite aesthetic, as they bloom in beautiful, intense color, but also have a lot of practical uses. The essential oil that can be found in the leaves is used for therapeutic massages, inhalations and baths. It has **antibacterial and anti-inflammatory** properties.
+
+{:.distinction.distinction-information}
+
+You can also use geranium in the kitchen – for instance adding its chopped leaves to tea or to meals and desserts.
+
+{:.list.list-positive}
+
+* **Dracaena** – a very popular houseplant. It requires minimal attention, therefore it's recommended for those who **don't have time for taking care of plants everyday.** It's perfect for busy or forgetful homeowners, as it takes being neglected very well, contrary to other indoor plants.
+* **Fern** – a very common in the past, nowadays fern has been forgotten a little. Now it comes back. This popular house plant is soothing for human organism, thanks to its intense green color. In addition, it's leaves work as a natural air purifier. This potted plant **neutralizes signals emitted from electronical devices** that are in the room. It's an ideal indoor plant for a living room or an office.
+
+{% fig %}
+
+![Fern](/uploads/paproc-roslina-doniczkowa.jpg "Fern")
+
+{% endfig %}
+
+* **Peace lily** – a unique houseplant that can act as **an air purifier replacement**. The plant filters air naturally, absorbing harmful toxins from the air. Peace lilies are perfect indoor plants. THey are highly recommended for people suffering from respiratory issues such as asthma.
+* **Aloe vera** – it's an indoor plant that is praised for its many uses. Aloe vera juice is **rich in vitamins and nutrients**, and it has healing properties. **Fresh aloe juice helps with swelling, bug bites, as well as acne**. Thanks to its anti-inflammatory properties it also aids gastrointestinal system treatment. It's an indoor plant worth planting in every household.
+
+{% fig %}
+
+![Aloe vera](/uploads/aloes.jpg "Aloe vera")
+
+{% endfig %}
+
+## House plants that are always trendy
+
+There are certain potted plants that **have been highly popular** for many seasons and it doesn't look like the trend is going to end. What house plants should one choose to **create a** **stylish and elegant interior**? Find some suggestions below.
+
+### Monstera – turn your house into jungle
+
+Monstera is one of the most popular and at the same time **the most impressive potted plants**. Using it you can create your own exotic garden in your house.
+
+Monstera is a perfect **potted plant** for everyone. It not only looks very interesting, but it is also very easy to take care of. Monstera is an ideal addition to current trends. If you're planning to create your own urban jungle, consider adding a monstera to your collection.
+
+{% fig %}
+
+![Monstera – turn your house into jungle](/uploads/monstera-kwiat-dla-milosnikow-egzotyki.jpg "Monstera – turn your house into jungle")
+
+{% endfig %}
+
+### Potted cactus – natural minimalism in your interior
+
+Cactus is a very popular and **timeless ornamental indoor plant**. It's most interesting feature is the fact that it's entirely covered with spikes.
+
+{% fig %}
+
+![Potted cactus – natural minimalism in your interior](/uploads/kaktus-doniczkowy.jpg "Potted cactus – natural minimalism in your interior")
+
+{% endfig %}
+
+A cactus is a plant naturally growing on hot and dry deserts, therefore it requires **minimal effort**. For this reason cacti are perfect for anyone who cannot really take care of plants or often **forget about watering them**. Because of their great ability to adapt to any conditions, homeowners often choose them to be their house plants.
+
+**There are many types of cacti to choose from**. There is always at least a dozen of the most popular ones in a typical gardening shop. You will surely find the one that suits you perfectly.
+
+ {:.distinction.distinction-information}
+
+Cacti can survive being neglected very well. For this reason they are ideal for people who are not capable of taking care of plants but they still want to have them in their house.
+
+### Orchids... potted plants that delight everyone
+
+**Orchids** are exceptionally beautiful plants that are perfect for the role of potted plants. It's a very popular and liked species among house plants lovers, and they are decorations in many homes. Those uniersal plants look trendy in any interior, durning any season.
+
+There are several types of orchids with different **petal colors**. The most popular colors are white, pink, purple and blue.
+
+Growing orchids is not very complicated, although it **requires following a few rules.** By putting enough effort, the owner can enjoy its beauty for a long time.
+
+{% fig %}
+
+![Orchids... potted plants that delight everyone](/uploads/orchidea.jpg "Orchids... potted plants that delight everyone")
+
+{% endfig %}
+
+{% faqItem %}
+{% faqQuestion %}
+Where to buy houseplants?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+If you are looking for new house plants, try visiting a gardening shop. You can find high quality plant for your home there. Alternatively, supermarkets often offer cheap potted plants, so keep an eye for them while doing grocery shopping.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+How often to water houseplants?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+You should adjust watering your plants to their individual needs, as each species requires different care. Most plants need watering once or twice a week. Keep in mind that in winter the air is more dry, so make sure to water them mre often.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+How cold is too cold for houseplants?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Any temperature lower than 15 Celcius degrees (60 F) might be harmful for indoor plants. Most house plants are native to tropical climates, therefore room temperature is best for them. The cold might damage delicate potted plants.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+What are the best houseplants for low light?
+
+If your room is dark, search for plants that natively grow in the lower parts of forests. You might choose peace lily or any type of fern. Other species to consider are dreacena, snake plant and zamioculcas - they are very good especially for bedrooms.
