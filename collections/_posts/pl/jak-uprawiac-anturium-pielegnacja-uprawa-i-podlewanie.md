@@ -51,6 +51,8 @@ Anturium charakteryzuję się kwiatostanem o ciekawym, nieregularnym kształcie 
 
 Najpopularniejszym Anthurium w Polsce to obecnie Anturium Andrego. Bardzo często łączy się je z licznymi mieszańcami, jakie wywodzą się od tego gatunku. Najbardziej charakterystycznym elementem Anthurium Andrego są jego czerwone kwiaty. Kwiatostan może sięgać nawet do około 10 cm długości, a jego kwitnienie jest zależne od odmiany - możliwe przez cały sezon, a więc wiosną i latem.
 
+![](/uploads/anturium-2.jpg)
+
 Innym popularnym gatunkiem tego kwiatu jest Anturium Sherza. To wyjątkowo popularna odmiana rośliny, z którą można spotkać się w wielu polskich domach. Sama natomiast pochodzi z Ameryki Południowej. Ta ciekawa odmiana osiąga około 20- 50 cm wysokości. Posiada podłużne liściektórych długość może przekraczać nawet 20 cm. Ze względu na ich głęboko zielony kolor i połysk pełnią one, tak jak i kwiatostany -funkcję dekoracyjną.  Kwiat natomiast swoją formą przypomina poskręcaną, czerwoną kolbę, co jest cechą charakterystyczną tego gatunku.
 
 ## Anturium - pielęgnacja i uprawa kwiatu
@@ -61,4 +63,14 @@ Innym popularnym gatunkiem tego kwiatu jest Anturium Sherza. To wyjątkowo popul
 
 ## Anturium - cena rośliny
 
-## 3 sposoby, jak wykorzystać anturium
+## Jak wyleczyć Anturium z choroby?
+
+Sposób leczenia chorób Anturium powinien być dobierany w zależności od przyczyny. Anturium to roślina mocna i odporna na czynniki zewnętrzne, jednak błędy popełniane w pielęgnacji i uprawie kwiatu mogą powodować choroby liści lub kwiatostanów. Powodem schorzeń mogą być:
+
+{:.list.list-negative}
+
+* niespełnienie wymogów rośliny,
+* choroba infekcyjna,
+* szkodniki owadzie.
+
+Choroby infekcyjne Anturium
