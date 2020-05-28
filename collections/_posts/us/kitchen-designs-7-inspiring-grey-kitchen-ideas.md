@@ -50,7 +50,7 @@ A grey kitchen is very practical because it's a color that looks good on any sur
 
 {% endfig %}
 
-## Grey wooden kitchen – how to design it?
+## A grey kitchen with wooden elements – how to design it?
 
 One of the most popular and at the same time most impressive kitchen design is **grey kitchen with wooden elements**. If it's improperly arranged, however, it might look poorly. Knowledge of the basic rules of designing a grey kitchen can help you achieve the intended result and create a **stylish interior** that you will enjoy for a long time.
 
@@ -74,7 +74,7 @@ A **loft style grey kitchen** uses not always practical, but great looking acces
 
 {:.distinction.distinction-information}
 
-The central element of a loft style grey kitchen is usually a metal island with wooden or stone counter, used for preparing and eating meals. This solution is not only very trendy, but also highly functional. 
+The central element of a loft style grey kitchen is usually a metal island with wooden or stone counter, used for preparing and eating meals. This solution is not only very trendy, but also highly functional.
 
 {% fig %}
 
@@ -82,4 +82,4 @@ The central element of a loft style grey kitchen is usually a metal island with 
 
 {% endfig %}
 
-## A grey kitchen with wooden elements – how to design it?
+## 
