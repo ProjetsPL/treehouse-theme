@@ -45,11 +45,13 @@ Anturium (anthurium) to wyjątkowy kwiat doniczkowy. Jest trwałą byliną o bog
 
 Anturium charakteryzuję się kwiatostanem o ciekawym, nieregularnym kształcie i czerwonym zabarwieniu. Z tego względu dawniej można było spotkać je wyłącznie w kwiaciarniach, jako dodatek do bukietów okolicznościowych. Dziś jednak anthurium coraz częściej uprawia się również w domach, jak tradycyjne rośliny doniczkowe.
 
+![](/uploads/anturium-6.jpg)
+
 ## Odmiany anturium w Polsce i na świecie
 
-Najpopularniejszym Anthurium 
+Najpopularniejszym Anthurium w Polsce to obecnie Anturium Andrego. Bardzo często łączy się je z licznymi mieszańcami, jakie wywodzą się od tego gatunku. Najbardziej charakterystycznym elementem Anthurium Andrego są jego czerwone kwiaty. Kwiatostan może sięgać nawet do około 10 cm długości, a jego kwitnienie jest zależne od odmiany - możliwe przez cały sezon, a więc wiosną i latem.
 
-**Anturium Andrego** to obecnie najpopularniejsze _Anthurium_, łącznie z licznymi mieszańcami, wywodzącymi się od gatunku wyjściowego, charakteryzującego się czerwonymi kwiatami. W sprzedaży mamy możliwość nabycia olbrzymiej ilości odmian tej grupy _Anthurium_, z których wiele jest niezwykle oryginalnych. Osiąga większe rozmiary niż **Anturium Scherzera**, a kwiatostan w formie kolby jest bardziej prosty bądź delikatnie wygięty. Liście zaostrzone u nasady, sercowate, zielone, zależnie od odmiany także o zmiennej barwie np. nakrapiane. Pochwa u gatunku czerwona, natomiast u mieszańców bardzo zmienna (zielona, czerwona, żółta, różowa, biała). Kwiatostan może sięgać do około 10 cm długości. Kwitnienie zależnie od odmiany, możliwe przez cały sezon, a więc wiosną i latem.
+Innym popularnym gatunkiem tego kwiatu jest Anturium Sherza. To wyjątkowo popularna odmiana rośliny, z którą można spotkać się w wielu polskich domach. Sama natomiast pochodzi z Ameryki Południowej. Ta ciekawa odmiana osiąga około 20- 50 cm wysokości. Posiada podłużne liściektórych długość może przekraczać nawet 20 cm. Ze względu na ich głęboko zielony kolor i połysk pełnią one, tak jak i kwiatostany -funkcję dekoracyjną.  Kwiat natomiast swoją formą przypomina poskręcaną, czerwoną kolbę, co jest cechą charakterystyczną tego gatunku.
 
 ## Anturium - pielęgnacja i uprawa kwiatu
 
