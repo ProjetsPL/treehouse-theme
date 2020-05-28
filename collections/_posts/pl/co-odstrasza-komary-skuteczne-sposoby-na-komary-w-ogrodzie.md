@@ -29,6 +29,8 @@ published: false
 
 Domowe sposoby w walce z komarami mogą być równie skuteczne co środki, jakie można znaleźć w sklepach. Jedynym warunkiem jest odpowiednie ich przygotowanie i stosowanie zgodnie z przeznaczeniem oraz w prawidłowych ilościach. Najpopularniejsze domowe sposoby wykorzystywane przeciwko komarom to naturalne olejki eteryczne, które odstraszają owady wydzielając intensywny zapach. Wśród nich znajdują się między innymi:
 
+{:.list.list-positive}
+
 * olejek trawy cytrynowej - odstraszający również muchy i meszki
 * olejek goździkowy
 * olejek patchouli (paczulowy)
@@ -36,9 +38,12 @@ Domowe sposoby w walce z komarami mogą być równie skuteczne co środki, jakie
 
 Wykorzystując olejki eteryczne można w prosty sposób przygotować domowy spray na komary, który będzie naturalnym odpowiednikiem spreparowanych środków chemicznych. Do wykonania domowego preparatu przeciwko komarom potrzebne będą: mieszanka kilku olejków eterycznych o właściwościach odstraszających owady oraz olej bazowy (olejek eteryczny o stężeniu 5%-10%). 
 
-Przygotowanie naturalnego ole
+Przygotowanie naturalnego olejku przeciwko komarom w domu jest bardzo proste. Aby to zrobić należy połączyć wybrane olejki eteryczne z olejem bazowym z zachowaniem odpowiednich proporcji i dokładnie wymieszać. Roztwór najlepiej jest przechowywać w pojemnikach z ciemnego szkła, na przykład w butelkach. 
 
-lejki eteryczne należy zmieszać z olejem bazowym. 
+{:.distinction.distinction-warning}  
+Aby olejek na komary domowej roboty był skuteczny, najlepiej aplikować go co 2 godziny na miejsca zagrożone ugryzieniem.
+
+![](/uploads/domowe-sposoby-na-komary.jpg)
 
 ## Jakie rośliny ogrodowe działają przeciwko komarom?
 
