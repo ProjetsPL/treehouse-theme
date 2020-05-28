@@ -26,32 +26,6 @@ related_products: []
 published: false
 
 ---
-anturium (14k)
-
-anthurium (1,3k)
-
-anturium pielęgnacja (600)
-
-kwiat anturium (600)
-
-anturium kwiat (500)
-
-anturium choroby (500)
-
-anturium uprawa (450)
-
-anturium cena (400)
-
-anturium podlewanie (350)
-
-anturium rozmnażanie (250)
-
-jak pielęgnować anturium (200)
-
-anturium odmiany (150)
-
-przesadzanie anturium (100)
-
 ## Anturium - jaki to kwiat?
 
 Anturium (anthurium) to wyjątkowy kwiat doniczkowy. Jest trwałą byliną o bogatych walorach dekoracyjnych. Anturium to jedna z najpopularniejszych i jednocześnie najbardziej oryginalnych, tropikalnych roślin.
@@ -79,12 +53,20 @@ Kwiat anturium, jak wszystkie rośliny doniczkowe powinien otrzymać własną pr
 {:.distinction.distinction-warning}  
 Zbyt mała ilość światła, podobnie jak zbyt duże nasłonecznienie również może znacznie zaszkodzić wzrostowi anturium. Jeśli w pomieszczeniu będzie za ciemno, liście anturium wydłużą się i będą cienkie, a kwiaty nie zakwitną prawidłowo.
 
-W pielęgnacji tego gatunku bardzo ważne jest również nieczęste, ale regularne nawożenie i przesadzanie anturium. Młode rośliny nawozi się raz w roku, na wiosnę, jak również przesadza się je do większych doniczek, aby zdrowo rosły.   
+W pielęgnacji tego gatunku bardzo ważne jest również nieczęste, ale regularne nawożenie i przesadzanie anturium. Młode rośliny nawozi się raz w roku w okresie od kwietnia do sierpnia, jak również przesadza się je do większych doniczek wczesną wiosną, aby zdrowo rosły.   
   
 {:.distinction.distinction-information}  
 Anturium musi zostać koniecznie przesadzone, w momencie gdy korzenie przerosną przez otwór w dnie doniczki.
 
+Duże znaczenie dla prawidłowej pielęgnacji tego gatunku ma podłoże, na którym hodowany jest kwiat anturium. Z uwagi na naturalne środowisko rośliny, różniące się od gleby polskiej, należy zapewnić jej podłoże możliwie najbardziej zbliżone do naturalnego. Dla anturium rosnącego w doniczce substrat powinien mieć przede wszystkim dużą zawartość kwaśnej ziemi torfowej, zawierać ziemię liściastą, kompost lub ziemię kwiatową oraz piasek.
+
 ### Anturium - podlewanie i rozmnażanie
+
+Regularne i obfite podlewanie anturium jest bardzo ważne, przede wszystkim w szczytowym okresie rozwoju rośliny. W tym czasie jego korzeń powinien być stale i równomiernie wilgotny. Jednocześnie należy bezwzględnie unikać zarówno mocnego przesuszania anturium, jak i stojącej w donicy wody. Najlepsza woda do codziennego podlewania anturium to miękka deszczówka. Dobrze jest również dla prawidłowego nawilżenia regularnie opryskiwać nią z wierzchu liście kwiatów.
+
+Odpowiednia pielęgnacja i regularne nawadnianie rośliny daje możliwość rozmnażania anturium w domu. Jest to co prawda dość skomplikowane, ale przydatne i bardzo satysfakcjonujące - szczególnie przy zakładaniu hodowli kwiatów doniczkowych. Proces ten można wykonać w domu samodzielnie, jednak nie należy on do najłatwiejszych i wymaga sporo cierpliwości. Najlepszy i najprostszy sposób to rozmnażanie anturium przez podział rośliny doniczkowej. Należy jednak wziąć pod uwagę fakt, że proces ten uda się tylko jeśli mamy do czynienia z rośliną dobrze wyrośniętą. Korzenie anturium można podzielić przy okazji przesadzania. Należy ostrożnie oddzielić je od siebie ostrym, zdezynfekowanym nożem, a następnie przesadzić do kilku osobnych donic. 
+
+![](/uploads/anturium-5.jpg)
 
 ## Anturium - cena rośliny
 
