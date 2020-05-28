@@ -43,7 +43,9 @@ Przygotowanie naturalnego olejku przeciwko komarom w domu jest bardzo proste. Ab
 {:.distinction.distinction-warning}  
 Aby olejek na komary domowej roboty był skuteczny, najlepiej aplikować go co 2 godziny na miejsca zagrożone ugryzieniem.
 
+{% fig %}
 ![](/uploads/domowe-sposoby-na-komary.jpg)
+{% endfig %}
 
 ## Jakie rośliny ogrodowe działają przeciwko komarom?
 
