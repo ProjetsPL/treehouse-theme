@@ -7,7 +7,7 @@ description: Meble ogrodowe z palet ➡️ najpopularniejszy trend ostatnich sez
   tani i ekologiczny ✔️ Sprawdź, jak samodzielnie zrobić meble ogrodowe z palet.
 image: "/uploads/modne-meble-ogrodowe-z-palet-jak-zrobic-meble-ogrodowe-z-palet.jpg"
 promoted: false
-update_date: 2020-02-05
+update_date: 2020-05-29
 intro: Żeby czas spędzony na odpoczynku w ogrodzie lub na tarasie był przyjemny, potrzebne
   są odpowiednie meble. Jednak wygodny zestaw wypoczynkowy może kosztować całkiem
   sporo. Tymczasem istnieje rozwiązanie, które jest nie tylko tanie, ale i oryginalne.
