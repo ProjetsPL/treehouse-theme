@@ -143,16 +143,6 @@ Najbardziej popularne jest połączenie szarej kuchni z blatem drewnianym lub ka
 {% endfaqItem %}
 
 {% faqItem %}
-{% faqQuestion %}
-Ile kosztuje czyszczenie pralki?
-{% endfaqQuestion %}
-
-{% faqAnswer %}
-Koszt domowych sposobów na czyszczenie pralki to zaledwie kilka złotych. Wiąże się to jedynie z zakupem środków, takich jak ocet, soda lub kwasek cytrynowy. Jest to rozwiązanie o wiele tańsze, niż stosowanie specjalistycznych produktów do czyszczenia.
-{% endfaqAnswer %}
-{% endfaqItem %}
-
-{% faqItem %}
 {% faqQuestion %}  
 Jaki kolor pasuje do szarych mebli?  
 {% endfaqQuestion %}
