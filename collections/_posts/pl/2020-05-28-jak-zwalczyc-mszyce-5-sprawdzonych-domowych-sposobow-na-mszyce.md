@@ -27,7 +27,6 @@ intro: Marzysz o pięknym ogrodzie, ale szkodniki żerują na Twoich roślinach?
   domowymi sposobami, abyś znów mógł cieszyć się pięknym i zdrowym ogrodem.
 image: "/uploads/jak-zwalczac-mszyce.jpg"
 related_products: []
-published: false
 
 ---
 ## Czym są mszyce i dlaczego są szkodliwe?
