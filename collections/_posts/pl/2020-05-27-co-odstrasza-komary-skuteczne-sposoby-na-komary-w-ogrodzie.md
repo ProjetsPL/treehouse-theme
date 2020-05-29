@@ -35,9 +35,11 @@ Domowe sposoby w walce z komarami mogą być równie skuteczne co środki, jakie
 * olejek patchouli (paczulowy),
 * olejek eukaliptusowy, a szczególnie olejek z eukaliptusa cytrynowego - nazywany olejkiem eukaliptusowym citronella lub cytrynowym, otrzymywany z rośliny Eucalyptus citriodora.
 
-Wykorzystując **olejki eteryczne**, można w prosty sposób przygotować **domowy spray na komary**, który będzie naturalnym odpowiednikiem środków chemicznych. Do wykonania domowego preparatu przeciwko komarom potrzebne będą: mieszanka kilku olejków eterycznych o właściwościach odstraszających owady oraz **olej bazowy** (olejek eteryczny o stężeniu 5%-10%).
+Wykorzystując **olejki eteryczne**, można w prosty sposób przygotować **domowy spray na komary**, który będzie naturalnym odpowiednikiem środków chemicznych. Do wykonania domowego preparatu przeciwko komarom potrzebne będą: mieszanka kilku olejków eterycznych o właściwościach odstraszających owady oraz **olej bazowy** (olej roślinny np. taki, którego używasz w kuchni: słonecznikowy, migdałowy lub z pestek winogron).
 
-Przygotowanie **naturalnego olejku przeciwko komarom** w domu jest bardzo proste. Aby to zrobić, należy połączyć wybrane olejki eteryczne z olejem bazowym z zachowaniem odpowiednich proporcji i dokładnie wymieszać. Roztwór najlepiej jest przechowywać w **pojemnikach z ciemnego szkła**, na przykład w butelkach.
+Przygotowanie **naturalnego olejku przeciwko komarom** w domu jest bardzo proste. Aby to zrobić, należy połączyć wybrane olejki eteryczne z olejem bazowym z zachowaniem odpowiednich proporcji i dokładnie wymieszać. Na 100 ml twojego oleju bazowego powinno przypadać nie więcej niż 10 ml olejku eterycznego (pamiętaj o tym szczególnie wtedy, kiedy używasz kilku różnych olejków).
+
+Roztwór najlepiej jest przechowywać w **pojemnikach z ciemnego szkła**, na przykład w butelkach.
 
 {:.distinction.distinction-warning}  
 Aby olejek na komary domowej roboty był skuteczny, najlepiej aplikować go co 2 godziny na miejsca zagrożone ugryzieniem.
