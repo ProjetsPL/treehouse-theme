@@ -37,7 +37,10 @@ Mszyce to powszechne i bardzo uciążliwe szkodniki. Występują w ogrodach kwia
 
 Mszyce są bardzo niebezpieczne dla roślin ogrodowych, ponieważ żerują na nich, wysysając soki z roślin. Jednocześnie zanieczyszczają je spadzią, a nawet mogą przenosić groźne wirusy. Z tego względu bardzo ważne jest, aby reagować natychmiastowo, zwalczając je domowymi sposobami, gdy tylko szkodniki pojawią się w ogrodzie. 
 
+{% fig %}
 ## ![](/uploads/mszyce-dlaczego-sa-szkodliwe.jpg)  
+{% endfig %}
+
 Szukasz sposobu na mszyce w ogrodzie? Zasadź rośliny odstraszające szkodniki
 
 Dobre sąsiedztwo roślin w ogrodzie ma duży wpływ na ich prawidłowy wzrost i uprawę. Obecnie w modzie jest ogrodnictwo ekologiczne, w którym najważniejszą rolę odgrywa dobór sadzenia roślin sąsiadujących, tak aby oddziaływały na siebie pozytywnie. Domowe sposoby na mszyce opierają się głównie na sadzeniu roślin, których te szkodniki wyjątkowo nie lubią.
@@ -49,7 +52,9 @@ W ogrodzie ozdobnym doskonale natomiast sprawdzi się lawenda. Ten kwiat jest ś
 {:.distinction.distinction-information}  
 Miętę można również zasadzić w doniczce obok innych roślin, aby odstraszyć mszyce, żerujące na roślinach balkonowych.
 
+{% fig %}
 ![](/uploads/mieta-przeciw-mszycom.jpg)
+{% endfig %}
 
 ## Wywary roślinne - preparaty na mszyce z roślin ogrodowych
 
@@ -60,7 +65,9 @@ Bardzo dobry domowy sposób na mszyce to przygotowanie wywaru z cebuli, która z
 {:.distinction.distinction-information}  
 Wywar z cebuli działa nie tylko przeciw mszycom. Jest to również dobry środek na niektóre choroby grzybicze roślin.
 
+{% fig %}
 ![](/uploads/preparat-na-mszyce-z-cebuli.jpg)  
+{% endfig %}
   
 Wyciąg z czosnku to drugi, równie skuteczny, domowy sposób na mszyce. Przygotowanie tego naturalnego preparatu należy rozpocząć od zmielenia 250 g czosnku. Następnie całość wystarczy zalać 10 litrami wody i pozostawić na 24 godziny. Preparat na mszyce jest gotowy do użycia zaraz po rozcieńczeniu wyciągu z wodą w proporcji 1:1. 
 
@@ -71,7 +78,9 @@ Domowy preparat na mszyce można przechowywać maksymalnie przez 2 miesiące od 
 
 Najlepszym domowym sposobem na mszyce są opryski ekologiczne ogrodu. Dzięki preparatom przygotowanym z naturalnych składników można szybko i skutecznie pozbyć się szkodników, zapewniając jednocześnie bezpieczeństwo hodowanym roślinom. Ekologiczne opryski są również idealne do ogrodów, w których przebywają dzieci, ponieważ ich stosowanie nie zagraża zdrowiu człowieka. 
 
+{% fig %}
 ![](/uploads/naturalne-opryski-sposob-na-mszyce.jpg)
+{% endfig %}
 
 ### Jak przygotować preparat na mszyce z octu?
 
