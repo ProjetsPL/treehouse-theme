@@ -19,7 +19,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-05-28
-title: Kitchen Designs – 7 Inspiring Grey Kitchen Ideas
+title: Amazing Kitchen Designs – Check 7 Inspiring Grey Kitchen Ideas
 description: "Grey kitchen is a classic, but it doesn't have to be boring! \U0001F4A1
   Looking for grey kitchen ideas? ➡️ Check the best gray kitchen cabinets designs."
 intro: Various shades of grey have dominated the interior design sector in the recent
@@ -31,7 +31,6 @@ intro: Various shades of grey have dominated the interior design sector in the r
   that you've always dreamed of.
 image: "/uploads/kuchnia-szara-glowne.jpg"
 related_products: []
-published: false
 
 ---
 ## A grey kitchen – what is it about?
@@ -39,15 +38,12 @@ published: false
 A grey kitchen is a **very** **universal trend.** A kitchen painted in this color might become either minimalist, elegant, luxurious or homely. Walls or furniture in the same grey color allow to create a **room of different qualities and aesthetics**. Because of the versatility of the color, it is accessories that determine the character of a grey kitchen. For this reason you should choose them carefully.
 
 {:.distinction.distinction-information}
-
 A grey kitchen is very practical because it's in a color that looks good on any surface and texture. Grey kitchen cabinets are perfect in matt, semi-glossy and glossy versions, as they make fingerprints less apparent.
 
 **Gray kitchen cabinets,** depending on particular type, might be a part of **any interior style**. The color might be used both on plain and richly decorated fronts. A grey kitchen might be both universal and unique, and that's why it is so valued by interior designers.
 
 {% fig %}
-
 ![Grey kitchen – what is it about?](/uploads/szara-kuchnia-trend.jpg "Grey kitchen – what is it about?")
-
 {% endfig %}
 
 ## A grey kitchen with wooden elements – how to design it?
@@ -61,7 +57,6 @@ One of the most popular current trends is **matching grey kitchen with wood** in
 **A light-grey kitchen** looks best with a very pale, almost white wood. When it comes to dark, graphite-grey color, all shades of grey fit well. You might go for a bold contrast, choosing light wood or give the interior a warmer look by combining **grey kitchen cabinets with yellow or orange shaded wooden counters.** Dark wood matched with grey fronts might bring elegance to the room but at the same time it makes the interior look "heavier." It might be an issue for homeowners who love subtle designs.
 
 {:.distinction.distinction-warning}
-
 Regardless of the color you choose, wood used in the kitchen should always be laminated. It makes it easier to clean, which is very important in case of difficult, heavy stains, such as oil.
 
 ## A grey and white kitchen, loft style – give a unique character to your furniture
@@ -73,13 +68,10 @@ A grey kitchen in loft style is perfect for anybody who loves **interesting and 
 A **loft style grey kitchen** uses not always practical, but great looking accessories, such as long **hanging lamps without shade**, suspended ceiling or elements made of steel.
 
 {:.distinction.distinction-information}
-
 The central element of a loft style grey kitchen is usually a metal island with wooden or stone counter, used for preparing and eating meals. This solution is not only very trendy but also highly functional.
 
 {% fig %}
-
 ![Grey and white kitchen, loft style – give a unique character to your furniture](/uploads/kuchnia-w-stylu-loft.jpg "Grey and white kitchen, loft style – give a unique character to your furniture")
-
 {% endfig %}
 
 ## For brave ones only – a modern grey kitchen with a colorful accent
@@ -91,13 +83,10 @@ The monochromatic and for many a predictable grey color can be adjusted by addin
 You could also put a color on one of the walls. By adding other colors to the grey kitchen, you can easily **get rid of the austerity and visual "coldness."** The most popular colors used in a grey kitchen are: red, orange, green and yellow, as **they evoke positive feelings** and strengthen appetite. Nevertheless, choose the color by yourself, in line with your own preferences.
 
 {:.distinction.distinction-information}
-
 You can also bring color to your grey kitchen naturally, for instance by creating a small "garden" on a wall, with green fresh herbs.
 
 {% fig %}
-
 ![For brave ones only – a modern grey kitchen with a colorful accent](/uploads/szara-kuchnia-z-kolorowym-akcentem.jpg "For brave ones only – a modern grey kitchen with a colorful accent")
-
 {% endfig %}
 
 ## White kitchen with a grey countertop – an intriguing design idea
@@ -107,9 +96,7 @@ Matching white walls (or cabinets) with **an elegant grey counter** is an intere
 When deciding upon white kitchen cabinets and a grey countertop, it is advised to paint the walls grey or white. It will make the design **more consistent**. White walls can brighten the room, which is a good solution for small interiors. In some cases, though, this solution might be problematic due to high probability of the walls getting stained. Grey walls make the room darker and **visually smaller**. For this reason it is better to avoid dark colored walls in small kitchens.
 
 {% fig %}
-
 ![White kitchen with a grey countertop – an intriguing design idea](/uploads/biala-kuchnia-z-szarym-blatem.jpg "White kitchen with a grey countertop – an intriguing design idea")
-
 {% endfig %}
 
 ## How to use grey kitchen cabinets? 3 easy ways
@@ -117,13 +104,11 @@ When deciding upon white kitchen cabinets and a grey countertop, it is advised t
 Grey kitchen cabinets are often used in many interior designs, and although they look **simple and classical,** they can be used in many ways. There are **3 rules** that make grey kitchen cabinets design far easier:
 
 {:.list.list-positive}
-
 * **Lower cabinets in grey** – placing grey kitchen cabinets at the bottom is one of the most popular solutions. Dark bottom and light top can visually take weight off the walls and make the room look bigger.
 * **Upper kitchen shelves in grey color** – grey kitchen cupboards in the upper level look very elegant. They make the kitchen look classy and refined.
 * **All in grey** – grey fronts, counters, appliances and fixtures made of stainless steel is an interesting combination, and it will be trendy for a long time.
 
 {:.distinction.distinction-warning}
-
 Grey kitchen furniture might visually overwhelm the whole interior, therefore it should be applied in large, spacious kitchens only.
 
 ## What to match dark grey kitchen cabinets with so that they look good?
@@ -133,13 +118,10 @@ It's not a secret that all shades of grey mix well with snow white color. But so
 If grey kitchen cabinets have dark shade, you might combine them with light walls or try using bright accessories, for instance by combining dark fronts with bright countertops. Depending on whether the cabinet's front is plain or pronounced, you might choose a countertop made of stone (e.g. granite) or wooden and laminated one. Light wood is a very easy material, which can bring a warm and familiar atmosphere into the interior.
 
 {% fig %}
-
 ![What to match dark grey kitchen cabinets with so that they look good?](/uploads/szara-kuchnia-glowne.jpg "What to match dark grey kitchen cabinets with so that they look good?")
-
 {% endfig %}
 
 {:.distinction.distinction-information}
-
 Grey kitchen cabinets should be well illuminated, especially if it's a dark grey color. Make sure, right before making a purchase, whether the light doesn't deflect the colors, which might make the grey front look poorly.
 
 A classic grey kitchen is not boring, provided that the tradition is supported by a little bit of modernity.
