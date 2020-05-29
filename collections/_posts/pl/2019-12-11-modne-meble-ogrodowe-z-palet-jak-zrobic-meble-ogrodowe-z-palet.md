@@ -2,9 +2,9 @@
 layout: post
 date: 2019-12-11
 toc: true
-title: Modne meble ogrodowe z palet. Jak zrobić meble ogrodowe z palet?
-description: Meble ogrodowe z palet to popularny trend ostatnich sezonów. Meble z
-  europalet to rozwiązanie tanie i ekologiczne. Ich wykonanie nie jest skomplikowane.
+title: Modne Meble Ogrodowe z Palet. Jak Zrobić Meble Ogrodowe z Palet?
+description: Meble ogrodowe z palet ➡️ najpopularniejszy trend ostatnich sezonów -
+  tani i ekologiczny ✔️ Sprawdź, jak samodzielnie zrobić meble ogrodowe z palet.
 image: "/uploads/modne-meble-ogrodowe-z-palet-jak-zrobic-meble-ogrodowe-z-palet.jpg"
 promoted: false
 update_date: 2020-02-05
@@ -24,7 +24,13 @@ main_keywords:
 ---
 ## Meble ogrodowe z palet - jak zrobić je samodzielnie?
 
+Na **samodzielne wykonanie mebli ogrodowych z palet** decyduje się coraz więcej osób. Na korzyść tego rozwiązania przekłada się przede wszystkim niski koszt. Za podobne, gotowe meble oferowane przez producentów wyposażenia ogrodowego musiałbyś sporo zapłacić. Tymczasem wystarczy odrobina kreatywności i kilka palet, aby stworzyć ciekawe i unikalne meble ogrodowe z palet.
+
 Zgodnie z obowiązującymi trendami, **meble DIY** to bardzo modny element wystroju współczesnych wnętrz. Dla wielu osób recykling staje się coraz ważniejszym aspektem stylu życia. **Meble ogrodowe z palet** odpowiadają obu wymienionym nurtom. Zalet ich wykonania jest wiele. Przede wszystkim jest to rozwiązanie bardzo tanie.
+
+{% fig %}
+![](/uploads/meble-ogrodowe-z-palet-lawka.jpg)
+{% endfig %}
 
 {:.distinction.distinction-information}
 
@@ -39,6 +45,10 @@ Mimo, że palety nie są zazwyczaj wykonane z wysokiej jakości drewna, to są o
 ## Meble ogrodowe z palet - jakie palety wybrać?
 
 **Drewniane palety transportowe** są często pozostałością po materiałach budowlanych używanych przy remontach. Wówczas ich koszt jest równy zeru. Można także spróbować zdobyć paletę ze sklepu, przykładowo z marketu budowlanego lub zwykłego supermarketu. Koszt takiego materiału w hurtowni to zazwyczaj około 20-50 zł. Dobrym pomysłem jest również przeszukanie serwisów aukcyjnych, gdzie można dostać paletę już za kilkanaście złotych.
+
+{% fig %}
+![Meble ogrodowe z palet - jakie palety wybrać?](/uploads/meble-ogrodowe-z-palet-jak-je-zrobic.jpg "Meble ogrodowe z palet - jakie palety wybrać?")
+{% endfig %}
 
 Zastanawiając się, **jak zrobić meble ogrodowe z palet**, warto wziąć pod uwagę rozmiar tych elementów. Palety transportowe różnią się rodzajem i wielkością. Najczęściej spotykane typy to:
 
@@ -55,7 +65,6 @@ Zastanawiając się, **jak zrobić meble ogrodowe z palet**, warto wziąć pod u
 Ze względu na swoje uniwersalne wymiary oraz wytrzymałość, europalety są najczęściej wybierane jako element, z którego można stworzyć nowe produkty. Drewno, z którego są wykonywane, jest impregnowane i poddane obróbce termicznej. **Meble ogrodowe z palet** można jednak wykonać również z pozostałych typów.
 
 {:.distinction.distinction-information}
-
 Należy wybierać **nieuszkodzone palety** oraz odpowiednio je przygotować. Jeżeli są one zdobywane są z różnych miejsc, należy pamiętać, aby wybierać elementy tego samego typu.
 
 ## Jak zrobić meble z palet?
@@ -72,6 +81,10 @@ Zanim będzie można wykonać **meble ogrodowe z palet**, należy zaopatrzyć si
 * narzędzia malarskie - pędzle i wałki,
 * dodatkowe elementy - kółka, szklane blaty, poduszki, koce, materace.
 
+{% fig %}
+![Jak zrobić meble z palet?](/uploads/meble-ogrodowe-z-palet-jak-je-zrobic-1.jpg "Jak zrobić meble z palet?")
+{% endfig %}
+
 ### Meble ogrodowe z palet - krok po kroku
 
 Przed rozpoczęciem jakichkolwiek prac, **meble ogrodowe z palet** należy dokładnie zaprojektować. Trzeba zmierzyć miejsce, w którym mają stać. Rozmiar projektu powinien zostać dobrany do wymiarów palety, tak, aby uniknąć niepotrzebnego przycinania.
@@ -79,6 +92,10 @@ Przed rozpoczęciem jakichkolwiek prac, **meble ogrodowe z palet** należy dokł
 {:.distinction.distinction-warning}
 
 Najlepiej, aby długość mebla była wielokrotnością długości palety. Wówczas, aby ją zwiększyć, wystarczy dołożyć kolejny element z jednej strony. **Standardowa wysokość mebli** to zazwyczaj dwie palety. Wyższe można uzyskać poprzez dodanie jeszcze jednej warstwy.
+
+{% fig %}
+![meble ogrodowe z palet](/uploads/meble-ogrodowe-z-palet-lawki.jpg "meble ogrodowe z palet")
+{% endfig %}
 
 Po wykonaniu **dokładnego projektu**, uwzględniającego ilość stosowanych palet, drewniane elementy należy odpowiednio przygotować:
 
@@ -110,7 +127,6 @@ Istnieje wiele pomysłów na to, jakie **meble ogrodowe z palet** można wykona�
 {% endfig %}
 
 {:.distinction.distinction-information}
-
 Oprócz wymienionych przykładów, jest wiele innych **pomysłów na meble**. W sieci znajdziesz pomysły wraz z instrukcją, jak zrobić **meble ogrodowe z palet - krok po kroku**.
 
 ### Kanapa z palet - DIY
