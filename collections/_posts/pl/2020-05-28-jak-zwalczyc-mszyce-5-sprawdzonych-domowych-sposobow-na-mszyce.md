@@ -17,7 +17,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-05-28
-title: Jak Zwalczyć Mszyce? 3 Sprawdzone Domowe Sposoby na Mszyce
+title: Jak Zwalczyć Mszyce? 5 Sprawdzonych Domowych Sposobów na Mszyce
 description: "Szkodniki żerują na Twoich roślinach? \U0001F997 Poznaj najskuteczniejsze
   naturalne sposoby na mszyce. ✅ Pozbądź się ich ze swojego ogrodu."
 intro: Marzysz o pięknym ogrodzie, ale szkodniki żerują na Twoich roślinach? Zastanawiasz
@@ -37,9 +37,7 @@ Mszyce to powszechne i **bardzo uciążliwe szkodniki**. Występują w ogrodach 
 Mszyce są bardzo niebezpieczne dla roślin ogrodowych, ponieważ żerują na nich, wysysając ich soki. Jednocześnie zanieczyszczają je spadzią, a nawet mogą przenosić groźne wirusy. Z tego względu bardzo ważne jest, aby **reagować natychmiastowo**, zwalczając je domowymi sposobami, gdy tylko szkodniki pojawią się w ogrodzie.
 
 {% fig %}
-
 ![Czym są mszyce i dlaczego są szkodliwe?](/uploads/mszyce-dlaczego-sa-szkodliwe.jpg "Czym są mszyce i dlaczego są szkodliwe?")
-
 {% endfig %}
 
 ## Szukasz sposobu na mszyce w ogrodzie? Zasadź rośliny odstraszające szkodniki
@@ -65,11 +63,9 @@ Doskonałym sposobem na mszyce jest przygotowanie wywaru z cebuli, która znajdu
 
 {:.list.list-positive}
 
-kilka cebul
-
-wodę
-
-duży garnek
+* kilka cebul,
+* wodę,
+* duży garnek.
 
 Pokrój cebulę (maks. 100 g) na kawałki, a następnie zalej ją ok. 10 litrami wody i gotuj na małym ogniu przez 30 min. Wywar będzie gotowy do użytku po 30 minutach.
 
@@ -95,18 +91,20 @@ Najlepszym domowym sposobem na mszyce są **opryski ekologiczne ogrodu**. Dzięk
 
 ### Jak przygotować preparat na mszyce z octu?
 
-Opryski z octu są jednymi z najczęściej stosowanych przez amatorów środków przeciw mszycom w ogrodzie i na balkonie. Aby przygotować roztwór z octu należy wymieszać go z wodą, zachowując  proporcje 1:10.
+Opryski z octu są jednymi z najczęściej stosowanych w przypadku walki z mszycami. **Aby przygotować roztwór z octu, należy wymieszać go z wodą, zachowując  proporcje 1:10.**
 
 {:.distinction.distinction-warning}  
-Przygotowując preparat należy zawsze wlewać ocet do wody - nigdy odwrotnie, ponieważ może wywołać to niepożądane reakcje chemiczne, niebezpieczne dla zdrowia.
+Przygotowując preparat, należy zawsze wlewać ocet do wody - nigdy odwrotnie, ponieważ może wywołać to niepożądane reakcje chemiczne, niebezpieczne dla zdrowia.
 
-Opcjonalnie, do tak przygotowanego roztworu można dodać łyżeczkę szarego mydła lub kilka kropli płynu do mycia naczyń. Dzięki temu preparat lepiej będzie przylegał do skrapianych roślin. Mydło znacznie wydłuży też jego działanie.  Tak przygotowany roztwór należy przelać do spryskiwacza, a następnie obficie polać nim rośliny Podczas oprysków dobrze jest zwrócić uwagę na to, by pryskać nie tylko z góry, ale też od spodu liści, ponieważ tam mszyc jest najwięcej.
+Opcjonalnie, **do przygotowanego roztworu można dodać łyżeczkę szarego mydła lub kilka kropli płynu do mycia naczyń**. Dzięki temu preparat lepiej będzie przylegał do skrapianych roślin. Mydło znacznie wydłuży też jego działanie.  Tak przygotowany roztwór należy przelać do spryskiwacza, a następnie obficie polać nim rośliny Podczas oprysków dobrze jest zwrócić uwagę na to, by pryskać nie tylko z góry, ale też od spodu liści, ponieważ tam mszyc jest najwięcej.
 
 ### Soda na mszyce - niezawodne rozwiązanie na szkodniki w ogrodzie
 
-Roztwór z sody oczyszczonej znalazł zastosowanie do skutecznej walki ze szkodnikami w ogrodzie. Jest skuteczny przede wszystkim na  mszyce, ale można stosować go również na mączki i roztocza.
+**Roztwór z sody oczyszczonej** ma wiele właściwości - znalazł zastosowanie także podczas walki ze szkodnikami w ogrodzie. Jest skuteczny przede wszystkim na  mszyce, ale można stosować go również na mączki i roztocza.
 
-Aby wykonać roztwór przeciw mszycom z sody oczyszczonej należy do litra ciepłej wody dodać 1/4 łyżeczki sody oczyszczonej. Następnie  do roztworu dodać 1/2 łyżeczki oleju jadalnego - dokładnie wymieszać i porządnie wstrząsnąć. Na sam koniec do powstałego roztworu dodać kilka kropel szarego mydła... i gotowe!
+**Roztwór przeciw mszycom** z sody oczyszczonej jest prosty do przyrządzenia. Do litra ciepłej wody (ale nie wrzątku) wsyp odrobinę sody oczyszczonej (mniej więcej 1/3 łyżeczki). Dolej pół łyżeczki oleju, który stosujesz w kuchni. Wszystko dokładnie ze sobą wymieszaj. Możesz również podobnie, jak w przypadku poprzednich roztworów dodać szare mydło.
 
 {:.distinction.distinction-information}  
-Roztworami z sody w celu pozbycia się szkodników można również przecierać liście roślin doniczkowych. Taki zabieg powinien być powtarzany kilkakrotnie w odstępach co około 4 dni.
+Roztwór można nie tylko rozpylać, ale również smarować nim liście zaatakowanych przez szkodniki roślin. Czynność ta powinna być powtarzana ok. 2 razy w tygodniu.
+
+Wykorzystując **domowe sposoby** możesz szybko, a przede wszystkim s**kutecznie zwalczyć mszyce**. Nie zawsze konieczne jest stosowanie środków chemicznych - niech będzie to ostateczność.
