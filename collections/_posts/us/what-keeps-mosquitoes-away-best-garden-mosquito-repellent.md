@@ -34,3 +34,29 @@ related_products: []
 published: false
 
 ---
+## Can a natural mosquito repellent replace store-bought products?
+
+Natural mosquito control methods might be as effective as many store-bought products. The only thing that needs to be kept in mind is the **right preparation and proper use** of such remedies. The most popular method is using essential oils for mosquito repellent, whose strong scent scare the insects away. They are for instance:
+
+{:.list.list-positive}
+
+* lemon grass oil – it also repels flies and gnats,
+* clove oil,
+* patchouli oil,
+* eucalyptus oil, especially the one made from lemon-scented gum (_Corymbia citriodora_).
+
+With **essential oils**, you can easily prepare a homemade **mosquito repellent spray**, which is a natural equivalent of store-bought chemical products. To make a homemade mosquito repellent you need: a mixture of essential oils that have insect repellent qualities and **base oil** (i.e. vegetable oil, for instance the one you typically use in the kitchen: sunflower, almond or grapeseed oil).
+
+A **homemade mosquito repellent** is very easy to make. All you need to do is combine essential oils of your choice with the base oil in the right proportion and mix them well. For 100 ml of your base oil you should use no more than 10 ml of essential oil (keep that in mind especially when using several various essential oils).
+
+Keep the mixture in **dark glass containers**, for instance in bottles.
+
+{:.distinction.distinction-warning}
+
+For the best effectivenes, apply your homemade mosquito repellent every 2 hours onto spots most vulnerable to bites.
+
+{% fig %}
+
+![Can a natural mosquito repellent replace store-bought products?](/uploads/domowe-sposoby-na-komary.jpg "Can a natural mosquito repellent replace store-bought products?")
+
+{% endfig %}
