@@ -1,42 +1,36 @@
 ---
 layout: post
 date: 2020-05-29
-main_keywords: []
+main_keywords:
+- sposoby na mszyce
+- " domowe sposoby na mszyce"
+- soda na mszyce
+- środek na mszyce
+- domowy sposób na mszyce
+- preparat na mszyce
+- " sposób na mszyce"
+- mszyce domowe sposoby
+- mszyce na różach
+- co na mszyce
+- naturalne sposoby na mszyce
+- jak zwalczyć mszyce
 toc: true
 promoted: false
 update_date: 2020-05-28
 title: Jak zwalczyć mszyce? 3 sprawdzone domowe sposoby na mszyce
-description: Jak zwalczyć mszyce? 3 sprawdzone domowe sposoby na mszyce
-intro: Jak zwalczyć mszyce? 3 sprawdzone domowe sposoby na mszyce
+description: Domowe sposoby na mszyce są równie skuteczne, co kupne preparaty. Szkodniki
+  żerują na Twoich roślinach? Poznaj naturalne sposoby na mszyce i raz na zawsze pozbądź
+  się ich z ogrodu.
+intro: Marzysz o pięknym ogrodzie, ale szkodniki żerują na Twoich roślinach? Zastanawiasz
+  się, jak raz na zawsze pozbyć się uciążliwych mszyc? Przekonaj się że domowe sposoby
+  na mszyce mogą być równie skuteczne, co kupne preparaty chemiczne. Dowiedz się,
+  jak zwalczać mszyce domowymi sposobami, abyś znów mógł cieszyć się pięknym i zdrowym
+  ogrodem.
 image: "/uploads/jak-zwalczac-mszyce.jpg"
 related_products: []
 published: false
 
 ---
-sposoby na mszyce
-
-domowe sposoby na mszyce (2,3k)
-
-soda na mszyce (1,9k)
-
-środek na mszyce (1,5k)
-
-domowy sposób na mszyce (1,3k)
-
-preparat na mszyce (1,1k)
-
-sposób na mszyce (600)
-
-mszyce domowe sposoby (500)
-
-mszyce na różach (500)
-
-co na mszyce (500)
-
-naturalne sposoby na mszyce (350)
-
-jak zwalczyć mszyce (300)
-
 ## Czym są mszyce i dlaczego są szkodliwe?
 
 Mszyce to powszechne i bardzo uciążliwe szkodniki. Występują w ogrodach kwiatowych, warzywnych, a nawet na kwiatach domowych hodowanych na balkonach. Można je łatwo rozpoznać, ponieważ zawsze występują w koloniach. Owady te, w zależności od gatunku mogą mieć kolor czarny, zielony, żółty lub najmniej spotykany - kolor pomarańczowy. 
