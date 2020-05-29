@@ -60,3 +60,63 @@ For the best effectivenes, apply your homemade mosquito repellent every 2 hours 
 ![Can a natural mosquito repellent replace store-bought products?](/uploads/domowe-sposoby-na-komary.jpg "Can a natural mosquito repellent replace store-bought products?")
 
 {% endfig %}
+
+## What are the most effective mosquito repellent plants?
+
+There are certain plant species that act as **natural mosquito repellents**. They are mostly flowers, trees and shrubs of strong smells. Fragrant plants and herbs are very unplesant for mosquitoes, therefore they are great if you want to **protect your garden from those insects**.
+
+A plant known as **_Plectranthus glabratus_** or Swedish ivy is an ornamental plant with long, loose leaves. It's a great natural mosquito repellent. It looks best in a hanging pot, therefore it can be grown on balconies and patios.
+
+Other popular ornamental mosquito repellent plants are **geraniums**. It's a perfect species for rock gardens, slopes and flowerbeds.
+
+{% fig %}
+
+![What are the most effective mosquito repellent plants?](/uploads/rosliny-odstraszajace-komary.jpg "What are the most effective mosquito repellent plants?")
+
+{% endfig %}
+
+Not only flowering perennials repel mosquitoes. Another brilliant method for natural mosquito control is planting certain species of **trees and shrubs**. One of the least popular among mosquitoes trees is staghorn sumac. This tree can help you get rid of mosquitoes from your garden. It takes very little space and requires minimal effort, so it's a plant that anyone can manage – even if you barely started your gardening adventure.
+
+{:.distinction.distinction-information}
+
+Dissecta is an interesting variety of this species, and it also acts as a mosquito repellent. It's characteristic feature is the wide crown. The tree grows up to four meters tall and even six meters wide. The leaves of a dissecta turn orange in autumn, which makes the tree even more ornamental.
+
+{% fig %}
+
+![Best mosquito repellent plants](/uploads/dissecta-przeciwko-komarom.jpg "Best mosquito repellent plants")
+
+{% endfig %}
+
+## What keeps mosquitoes away? Learn 3 proven mosquito repellents for your garden
+
+Sprinkling your clothes or **spraying your body with special mosquito repellent solutions is effective but short-lasting**. This process typically has to be repeated several times a day. What are the best methods to keep the mosquitoes out of your garden and stop them from ruining your evenings? Check our suggestions that will help you win the battle with mosquitoes.
+
+### Essential oils and mosquito repellent sprays
+
+The most popular method for fighting with mosquitoes is using various mosquito sprays, essentail oils or a mosquito repellent candle. **You can combine all those methods, which will make them more effective.** You should, however, keep in mind that those remedies only hold back and repel the insects, instead of fully eliminating the problem.
+
+**Burning incense sticks, candles and torches,** although effective, they are very limited in time. Such products protect against the insects only when staying by the source. The further you are from the mosquito repellent candle or stick, the more you are vulnerable to bites. For this reason, even **if you decided to burn an incense stick, don't forget to use a repellent oil or spray as well.**
+
+{% fig %}
+
+![Essential oils and mosquito repellent sprays](/uploads/kadzidlo-na-komary.jpg "Essential oils and mosquito repellent sprays")
+
+{% endfig %}
+
+### Outdoor lighting – an effective mosquito repellent
+
+One of the most popular mosquito repellents for gardens involves installing a **special type of lighting**. There are certain outdoor lamps that help you combat the insects. It does not only repel, but also **completely eliminates the flying insects**.
+
+{% fig %}
+
+![](/uploads/skuteczne-sposoby-na-komary.jpg)
+
+{% endfig %}
+
+**A lamp of this type emits subtle ultraviolet lighting**, which pulls the insects regardless of the season. One of the most popular types of lamps are the ones that eliminate the mosquitoes by electrocuting them. Another method makes the insects stick to the lamp and the device sucks them inside. **The method of luring the mosquitoes remains the same, while the way they are eliminated is different.**
+
+{:.distinction.distinction-information}
+
+A great advantage of such a lamp is the fact that it doesn't affect people standing nearby. For this reason it's a perfect solution for allergy sufferers, who cannot use popular mosquito repellent sprays.
+
+## 
