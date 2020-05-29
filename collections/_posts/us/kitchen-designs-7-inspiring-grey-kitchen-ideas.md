@@ -34,9 +34,9 @@ related_products: []
 published: false
 
 ---
-## Grey kitchen – what is it about?
+## A grey kitchen – what is it about?
 
-Grey kitchen is a **very** **universal trend.** A kitchen painted in this color might become either minimalist, elegant, luxurious or homely. Walls or furniture in the same grey color allow to create a **room of different qualities and aesthetics**. Because of the versatility of the color, accessories are the ones that determine the character of a grey kitchen. For this reason you should choose them carefully.
+A grey kitchen is a **very** **universal trend.** A kitchen painted in this color might become either minimalist, elegant, luxurious or homely. Walls or furniture in the same grey color allow to create a **room of different qualities and aesthetics**. Because of the versatility of the color, accessories are the ones that determine the character of a grey kitchen. For this reason you should choose them carefully.
 
 {:.distinction.distinction-information}
 
