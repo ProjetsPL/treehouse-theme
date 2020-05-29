@@ -85,7 +85,9 @@ Najpopularniejsze w walce z komarami jest stosowanie wszelkiego rodzaju sprayów
 
 Jednym z najpopularniejszych sposobów na komary w ogrodzie jest **zamontowanie specjalnego oświetlenia**. Do walki z kąsającymi insektami wykorzystuje się lamp na komary do stosowania na zewnątrz. Takie oświetlenie nie tylko odstrasza, ale także **całkowicie eliminuje latające insekty**.
 
+{% fig %}
 ![Oświetlenie ogrodowe, jako skuteczny środek na komary](/uploads/skuteczne-sposoby-na-komary.jpg "Oświetlenie ogrodowe, jako skuteczny środek na komary")
+{% endfig %}
 
 **Lampa emituje delikatne światło ultrafioletowe**, które przyciąga owady, bez względu na aktualną porę dnia. Jedne z najpopularniejszych rodzajów lamp to takie, które likwidują insekty poprzez rażenie prądem, drugie z nich natomiast sprawiają, że komary przylepiają się do lampy i są zasysane do wewnątrz urządzenia. **Sposób wabienia komarów nie zmienia się, natomiast samo zwalczanie insektów różni się od siebie.**
 
