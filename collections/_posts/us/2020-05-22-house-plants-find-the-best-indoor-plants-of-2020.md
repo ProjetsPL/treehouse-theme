@@ -22,14 +22,13 @@ promoted: false
 update_date: 2020-05-22
 title: House plants – Find the Best Indoor Plants of 2020
 description: "Are you a plant lover? Do you grow indoor plants? \U0001F331 These fascinating
-  species will amaze you. ➡️ Take a look at the most popular house plants of 2020."
+  species will amaze you. ➡️ Take a look at the most popular house plants."
 intro: Do you grow potted plants at home? There are certain species that not only
   look beautiful, but they are also very easy to grow. Learn what species you should
   add to your green collection and find out how to take care of them. Check what are
   the most popular house plants of 2020.
 image: "/uploads/jak-pielegnowac-rosliny-doniczkowe.jpg"
 related_products: []
-published: false
 
 ---
 ## House plants – what should you know about them?
@@ -41,9 +40,7 @@ Potted plants have many names – house plants, indoor flowers and so on. They a
 Plants chosen to be grown in pots usually have high aesthetic value, displaying interesting colors, shapes or **unusual way of blooming**. The wide variety of plants of this type makes it easier to pick the one that matches your individual taste.
 
 {% fig %}
-
 ![House plants – what should you know about them?](/uploads/kwiaty-doniczkowe-co-warto-wiedziec.jpg "House plants – what should you know about them?")
-
 {% endfig %}
 
 ## How to take care of house plants?
@@ -51,9 +48,7 @@ Plants chosen to be grown in pots usually have high aesthetic value, displaying 
 As every type of house plant is different, they have various needs. For this reason when you choose particular types of potted plants, make sure to provide the **best conditions to them, for their proper growth and blooming**. Nevertheless, there are some general rules that can help you take care of your indoor plants.
 
 {% fig %}
-
-![](/uploads/rosliny-doniczkowe.jpg)
-
+![How to take care of house plants?](/uploads/rosliny-doniczkowe.jpg "How to take care of house plants?")
 {% endfig %}
 
 One of the basic rules of plants care is **regular watering.** It's important to water the plants according to the needs of particular species. Most of the potted plants require **intense watering in spring**, as it's the time of **blooming**.
@@ -63,7 +58,6 @@ Spring is the season when potted plants require the most work. **March and April
 You should keep the **hygiene of the house plants leaves** throughout the whole year. Sprinkle their surface with clean water weekly, especially in winter when the air is more dry due to heating.
 
 {:.distinction.distinction-information}
-
 Keep your plants in good condition in the autumn as well. It's the best time to prepare them for their winter rest. Avoid fertilizing the house plants in autumn – you should wait until spring.
 
 ## What house plants are worth having?
@@ -73,31 +67,24 @@ Keep your plants in good condition in the autumn as well. It's the best time to 
 When you choose indoor plants, pay attention not only to their appearance, but also to their practical properties that you could use. The most popular 2020 house plants that are worth having are:
 
 {:.list.list-positive}
-
 * **Geranium** – it's one of the most popular ornamental house plants – kept indoors, but put outside. They are typically grown **on balconies and windowsills**. Geraniums not only look quite aesthetic, as they bloom in beautiful, intense colors, but also have a lot of practical uses. The essential oil that can be found in the leaves is used for therapeutic massages, inhalations and baths. It has **antibacterial and anti-inflammatory** properties.
 
 {:.distinction.distinction-information}
-
 You can also use a geranium in the kitchen – for instance adding its chopped leaves to tea or to meals and desserts.
 
 {:.list.list-positive}
-
 * **Dracaena** – a very popular houseplant. It requires minimal attention, therefore it's recommended for those who **don't have time for taking care of plants everyday.** It's perfect for busy or forgetful homeowners. It takes being neglected very well, contrary to other indoor plants.
 * **Fern** – a very common in the past, nowadays fern has been forgotten a little. Now it comes back. This popular house plant is soothing for a human organism, thanks to its intense green color. In addition, its leaves work as a natural air purifier. This potted plant **neutralizes signals emitted from electronical devices** that are in the room. It's an ideal indoor plant for a living room or an office.
 
 {% fig %}
-
 ![Fern](/uploads/paproc-roslina-doniczkowa.jpg "Fern")
-
 {% endfig %}
 
 * **Peace lily** – a unique houseplant that can act as **an air purifier replacement**. The plant filters air naturally, absorbing harmful toxins from the air. Peace lilies are perfect indoor plants. They are highly recommended for people suffering from respiratory issues such as asthma.
 * **Aloe vera** – it's an indoor plant, praised for its many uses. Aloe vera juice is **rich in vitamins and nutrients**, and it has healing properties. **Fresh aloe juice helps with swelling, bug bites, as well as acne**. Thanks to its anti-inflammatory properties, it also aids gastrointestinal system treatment. It's an indoor plant worth planting in every household.
 
 {% fig %}
-
 ![Aloe vera](/uploads/aloes.jpg "Aloe vera")
-
 {% endfig %}
 
 ## House plants that are always trendy
@@ -111,9 +98,7 @@ Monstera is one of the most popular and at the same time **the most impressive p
 Monstera is a perfect **potted plant** for everyone. It not only looks very interesting, but it is also very easy to take care of. Monstera is an ideal addition to current trends. If you're planning to create your own urban jungle, consider adding a monstera to your collection.
 
 {% fig %}
-
 ![Monstera – turn your house into jungle](/uploads/monstera-kwiat-dla-milosnikow-egzotyki.jpg "Monstera – turn your house into jungle")
-
 {% endfig %}
 
 ### Potted cactus – natural minimalism in your interior
@@ -121,17 +106,14 @@ Monstera is a perfect **potted plant** for everyone. It not only looks very inte
 Cactus is a very popular and **timeless ornamental indoor plant**. Its most interesting feature is the fact that it's entirely covered with spikes.
 
 {% fig %}
-
 ![Potted cactus – natural minimalism in your interior](/uploads/kaktus-doniczkowy.jpg "Potted cactus – natural minimalism in your interior")
-
 {% endfig %}
 
 A cactus is a plant naturally growing on hot and dry deserts, therefore it requires **minimal effort**. For this reason cacti are perfect for anyone who cannot really take care of plants or often **forgets about watering them**. Because of their great ability to adapt to any conditions, homeowners often choose them to be their house plants.
 
 **There are many types of cacti to choose from**. There is always at least a dozen of the most popular ones in a typical gardening shop. You will surely find the one that suits you perfectly.
 
- {:.distinction.distinction-information}
-
+{:.distinction.distinction-information}
 Cacti can survive being neglected very well. For this reason they are ideal for people who are not capable of taking care of plants but they still want to have them in their house.
 
 ### Orchids... potted plants that delight everyone
@@ -143,9 +125,7 @@ There are several types of orchids with different **petal colors**. The most pop
 Growing orchids is not very complicated, although it **requires following a few rules.** By putting enough effort, the owner can enjoy its beauty for many years.
 
 {% fig %}
-
 ![Orchids... potted plants that delight everyone](/uploads/orchidea.jpg "Orchids... potted plants that delight everyone")
-
 {% endfig %}
 
 {% faqItem %}
@@ -173,9 +153,9 @@ You should adjust watering your plants to their individual needs, as each specie
 How cold is too cold for houseplants?
 {% endfaqQuestion %}
 
-{% faqAnswer %} 
+{% faqAnswer %}
 
-Any temperature lower than 15 Celsius degrees (60 F) might be harmful for indoor plants. Most house plants are native to tropical climates, therefore room temperature is best for them. The cold might damage delicate potted plants. 
+Any temperature lower than 15 Celsius degrees (60 F) might be harmful for indoor plants. Most house plants are native to tropical climates, therefore room temperature is best for them. The cold might damage delicate potted plants.
 
 {% endfaqAnswer %}
 
