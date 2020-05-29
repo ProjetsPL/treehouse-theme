@@ -29,7 +29,6 @@ main_keywords:
 Czyszczenie pralki jest bardzo ważne ponieważ jej elementy stale ulegają **zabrudzeniom**. Mają one kontakt nie tylko z brudem pochodzącym z pranych ubrań, ale narażone są na **ciągły kontakt z wodą**. To może powodować powstawanie kamienia na grzałce, bębnie i filtrze. Wówczas pralka będzie dłużej nagrzewała wodę, a światło w przewodach zmniejszy się - co obniży ciśnienie wody.
 
 {:.distinction.distinction-information}
-
 Jeżeli **osad z kamienia** nie będzie regularnie usuwany, wspomniane części zostaną uszkodzone. Wygeneruje to dodatkowe koszty związane z naprawą urządzenia. Może okazać się nawet, że pralkę będzie trzeba wymienić na nową, ponieważ reperowanie popsutych elementów stanie się nieopłacalne. Można więc przyjąć, że **czyszczenie pralki chroni sprzęt** przed jego poważnymi uszkodzeniami.
 
 ### Co stanie się, jeżeli czyszczenie pralki nie będzie przeprowadzane regularnie?
@@ -53,7 +52,9 @@ Mają one wpływ na:
 
 Czyszczenie pralki domowymi sposobami jest coraz częściej wykorzystywane - szczególnie w tych domach, gdzie znajdują się małe dzieci. Na rynku istnieje spory wybór gotowych chemicznych **środków przeznaczonych do czyszczenia pralek**. Jednak mogą one być nie tylko drogie, ale również szkodliwe dla zdrowia człowieka.
 
+{% fig %}
 ![Jak wyczyścić pralkę domowym sposobem?](/uploads/czyszczenie-pralki-domowe-sposoby-bezpieczenstwo-dzieci.jpg "Jak wyczyścić pralkę domowym sposobem?")
+{% endfig %}
 
 {:.distinction.distinction-warning}
 
