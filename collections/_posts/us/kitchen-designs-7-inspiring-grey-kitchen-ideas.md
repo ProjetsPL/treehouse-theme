@@ -143,3 +143,33 @@ If grey kitchen cabinets have dark shade, you might combine them with light wall
 Grey kitchen cabinets should be well illuminated, especially if it's a dark grey color. Make sure right before making a purchase wheter the light doesn't deflect the colors, which might make the grey front look poorly.
 
 A classic grey kitchen is not boring, provided that the tradition is supported by a little bit of modernity.
+
+{% faqItem %}
+{% faqQuestion %}
+What walls go with grey kitchen cabinets?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+If you have grey cabinets in your kitchen, the best solution is painting the walls white or uniform grey. Grey color is versatile enough, so you can also try more bold combinations. Grey cabinets look perfect with yellow, green and orange colors.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+What countertops are best for grey kitchen?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+The most popular solution is matching grey kitchen with wooden or stone countertops. The variety of choice is wide, as there are many types of wood and stone. A grey kitchen with wooden counter is more universal than the one with stone top.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+What color looks best with grey cabinets?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Grey furniture is very universal, therefore it looks good with most colors. The most popular colors to combine with grey are green, yellow and white. A less common, but equally impressive match is grey furniture and fuchsia elements.
+{% endfaqAnswer %}
+{% endfaqItem %}
