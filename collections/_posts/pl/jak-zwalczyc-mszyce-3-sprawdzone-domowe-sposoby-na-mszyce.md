@@ -22,10 +22,10 @@ description: Domowe sposoby na mszyce są równie skuteczne, co kupne preparaty.
   żerują na Twoich roślinach? Poznaj naturalne sposoby na mszyce i raz na zawsze pozbądź
   się ich z ogrodu.
 intro: Marzysz o pięknym ogrodzie, ale szkodniki żerują na Twoich roślinach? Zastanawiasz
-  się, jak raz na zawsze pozbyć się uciążliwych mszyc? Przekonaj się że domowe sposoby
-  na mszyce mogą być równie skuteczne, co kupne preparaty chemiczne. Dowiedz się,
-  jak zwalczać mszyce domowymi sposobami, abyś znów mógł cieszyć się pięknym i zdrowym
-  ogrodem.
+  się, jak raz na zawsze pozbyć się uciążliwych mszyc? Te 3 proste rozwiązania, pomogą
+  Ci w walce z problemem. Wypróbuj domowe sposoby na mszyce i przekonaj się, że mogą
+  być równie skuteczne jak kupne preparaty chemiczne. Dowiedz się, jak zwalczać mszyce
+  domowymi sposobami, abyś znów mógł cieszyć się pięknym i zdrowym ogrodem.
 image: "/uploads/jak-zwalczac-mszyce.jpg"
 related_products: []
 published: false
