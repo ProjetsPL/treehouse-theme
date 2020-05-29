@@ -99,6 +99,7 @@ Wybierając białe szafki kuchenne i szary blat dobrze jest postawić również 
 Szare meble kuchenne są często wybierane do aranżacji wnętrz i choć wyglądają **prosto i klasycznie**, można wykorzystać je na wiele różnych sposobów. Oto **3 zasady**, dzięki którym efektowna aranżacja szarych szafek kuchennych stanie się o wiele prostsza:
 
 {:.list.list-positive}
+
 * **Zabudowa dolna w szarym kolorze** - jednym z najpopularniejszych rozwiązań jest umieszczenie szarych szafek kuchennych w dolnej części zabudowy. Ciemny dół i jaśniejsza góra w kuchni optycznie odciąży ściany, a także lekko powiększy pomieszczenie.
 * **Górne szafki kuchenne w w odcieniach szarości** - szare meble kuchenne zastosowane w górnej zabudowie to rozwiązanie do eleganckiej kuchni. Taka zabudowa nada pomieszczeniu klasy i eleganckiego stylu.
 * **Pełna zabudowa kuchni z szarych mebli** - szare fronty, blaty, sprzęt AGD oraz ceramika i armatura w wykończeniu ze stali nierdzewnej to ciekawe zestawienie, które będzie na topie przez długi czas.
@@ -110,7 +111,7 @@ Szara zabudowa potrafi optycznie przytłoczyć pomieszczenie, dlatego zaleca si�
 
 Nie od dziś wiadomo, że wszystkie odcienie szarości doskonale łączą się ze śnieżnobiałą bielą. Jednak czasami takie rozwiązanie może okazać się niesatysfakcjonujące. W takim przypadku warto jest spróbować **niestandardowych połączeń**, aby sprawdzić, który styl jest najodpowiedniejszy dla wybranego wnętrza.
 
-Jeśli szare szafki kuchenne mają ciemny odcień, można zestawić je niekoniecznie z jasną ścianą, ale postawić na jasne wykończenie i dodatki, na przykład zestawiając ich ciemne fonty z jasnym blatem. W zależności od tego, czy fonty szafek są wyraziste czy gładkie blat może być kamienny (np. granitowy) lub jednolity poddany procesowi laminacji. Jasne drewno to bardzo wdzięczny materiał, który wprowadzi do kuchni **ciepły i rodzinny klimat**.
+Jeśli szare szafki kuchenne mają ciemny odcień, można zestawić je niekoniecznie z jasną ścianą, ale postawić na jasne wykończenie i dodatki, na przykład zestawiając ich ciemne fronty z jasnym blatem. W zależności od tego, czy fronty szafek są wyraziste czy gładkie blat może być kamienny (np. granitowy) lub jednolity poddany procesowi laminacji. Jasne drewno to bardzo wdzięczny materiał, który wprowadzi do kuchni **ciepły i rodzinny klimat**.
 
 {% fig %}
 ![ciemnoszare szafki kuchenne](/uploads/szara-kuchnia-glowne.jpg "ciemnoszare szafki kuchenne")
@@ -121,24 +122,24 @@ Szare szafki kuchenne powinny też być odpowiednio oświetlone, zwłaszcza jeś
 
 Klasyczna, szara kuchnia nie będzie nudna pod warunkiem, że tradycyjne rozwiązanie przełamiesz odrobiną nowoczesności.
 
-{% faqItem %} 
+{% faqItem %}
 {% faqQuestion %}  
 Szare meble jaki kolor ścian?  
 {% endfaqQuestion %}
 
-{% faqAnswer %} 
+{% faqAnswer %}
 W przypadku wyboru szarych mebli kuchennych najbardziej klasycznym rozwiązaniem są ściany w kolorze bieli lub jednolitej szarości. Kolor szary jest jednak na tyle uniwersalny, że można łączyć go również w nieco odważniejsze zestawienia. Szare meble będą świetnie komponowały się między innymi z kolorem żółtym, zielonym, czy pomarańczowym.  
-{% endfaqAnswer %} 
+{% endfaqAnswer %}
 {% endfaqItem %}
 
-{% faqItem %} 
+{% faqItem %}
 {% faqQuestion %}  
 Szara kuchnia jaki blat?  
 {% endfaqQuestion %}
 
-{% faqAnswer %} 
-Najbardziej popularne jest połączenie szarej kuchni z blatem drewnianym lub kamiennym. Takie rozwiązanie daje szeroki wachlarz wyboru ze względu na duże zróżnicowanie rodzajów drewna i kamieni. Szara kuchnia z blatem drewnianym jest natomiast bardziej uniwersalna niż kuchnia z blatem kamiennym. 
-{% endfaqAnswer %} 
+{% faqAnswer %}
+Najbardziej popularne jest połączenie szarej kuchni z blatem drewnianym lub kamiennym. Takie rozwiązanie daje szeroki wachlarz wyboru ze względu na duże zróżnicowanie rodzajów drewna i kamieni. Szara kuchnia z blatem drewnianym jest natomiast bardziej uniwersalna niż kuchnia z blatem kamiennym.
+{% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
@@ -151,12 +152,12 @@ Koszt domowych sposobów na czyszczenie pralki to zaledwie kilka złotych. Wią�
 {% endfaqAnswer %}
 {% endfaqItem %}
 
-{% faqItem %} 
+{% faqItem %}
 {% faqQuestion %}  
 Jaki kolor pasuje do szarych mebli?  
 {% endfaqQuestion %}
 
 {% faqAnswer %}  
 Szare meble są bardzo uniwersalne, dzięki czemu będą wyglądać dobrze w połączeniu z większością kolorów. Najbardziej popularne zestawienia to odcienie zieleni i żółci a także klasyczna i kremowa biel. Nieco mniej spotykanym, ale równie efektownym połączeniem jest zestawienie szarych mebli z kolorem fuksji.  
-{% endfaqAnswer %} 
+{% endfaqAnswer %}
 {% endfaqItem %}
