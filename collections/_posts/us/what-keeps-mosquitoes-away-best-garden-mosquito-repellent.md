@@ -141,7 +141,7 @@ Some fish and frog species feed on insect larvae. Keeping them in your garden po
 
 {% fig %}
 
-![](/uploads/a-co-na-komary-nad-woda.jpg)
+![What about mosquitoes by the water?](/uploads/a-co-na-komary-nad-woda.jpg "What about mosquitoes by the water?")
 
 {% endfig %}
 
