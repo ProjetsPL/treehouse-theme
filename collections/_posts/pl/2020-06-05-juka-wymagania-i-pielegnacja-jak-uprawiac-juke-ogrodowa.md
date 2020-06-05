@@ -22,27 +22,29 @@ intro: Juka ogrodowa jest jedną z najpiękniejszych roślin pojawiających się
   zdecydujesz się na jej zakup - sprawdź najważniejsze informacje na ten temat.
 image: "/uploads/juka-wymagania-i-pielegnacja-jak-uprawiac-juke-ogrodowa.jpg"
 related_products: []
-published: false
 
 ---
 ## Juka ogrodowa - co to za roślina?
 
 **Juka ogrodowa** to roślina z rodzaju **_Yucca_**, wywodzącego się z Ameryki, zimozielona rosnąca do wysokości 2m i obficie kwitnąca. Jej **białe kwiatostany** w kształcie dzwonków pojawiają się latem - od czerwca do sierpnia. Najpopularniejsza odmiana występująca w Polsce to **juka karolińska** nazywana też **kalifornijską**. Roślina lubi duże nasłonecznienie oraz ciepło.
 
+{% fig %}
 ![Juka ogrodowa - co to za roślina?](/uploads/juka-wymagania-i-pielegnacja-jak-uprawiac-juke-ogrodowa-2.jpg "Juka ogrodowa - co to za roślina?")
+{% endfig %}
 
 ## Jakie odmiany ma juka ogrodowa?
 
 Juka ogrodowa występuje w **kilku odmianach**, które różnią się między sobą wysokością, do której wzrastają, barwą liści, czy odpornością na warunki atmosferyczne. **Najpopularniejszą odmianą w Polsce jest wspomniana już juka karolińska**, która nie tylko pięknie wygląda, ale także jest odporna na niskie temperatury charakterystyczne dla naszego regionu.
 
+{% fig %}
 ![Jakie odmiany ma juka ogrodowa?](/uploads/juka-wymagania-i-pielegnacja-jak-uprawiac-juke-ogrodowa-3.jpg "Jakie odmiany ma juka ogrodowa?")
+{% endfig %}
 
 ### 4 popularne odmiany juki ogrodowej
 
 Oprócz podstawowej, najpopularniejszej wersji, juka występuje w Polsce także w czterech innych odmianach cieszących się zainteresowaniem. Są to:
 
 {:.list.list-positive}
-
 * **Color Guard** - odmiana z lekko różowymi brzegami liści,
 * **Variegata** - juka o nietypowych zielono-niebieskich liściach z białymi prześwitami,
 * **Ivory Towers** - odmiana z liśćmi delikatnie zabarwionymi na biało, na obrzeżach,
@@ -51,9 +53,13 @@ Oprócz podstawowej, najpopularniejszej wersji, juka występuje w Polsce także 
 {:.distinction.distinction-information}
 Co ciekawe, wszystkie juki ogrodowe pomimo różnic w kolorystyce liście mają dokładnie takie same, białe, duże kwiatostany.
 
+{% fig %}
 ![4 popularne odmiany juki ogrodowej](/uploads/juka-wymagania-i-pielegnacja-jak-uprawiac-juke-ogrodowa-5.jpg "4 popularne odmiany juki ogrodowej")
+{% endfig %}
 
+{% fig %}
 ![Odmiany juki ogrodowej](/uploads/juka-wymagania-i-pielegnacja-jak-uprawiac-juke-ogrodowa-7.jpg "Odmiany juki ogrodowej")
+{% endfig %}
 
 ## Juka ogrodowa - sadzenie i warunki uprawy
 
@@ -64,17 +70,23 @@ Jeżeli posiadasz małe sadzonki, które jeszcze nie są dobrze rozwinięte - ws
 
 Juka w ogrodzie powinna być **posadzona w miejscu o sporym nasłonecznieniu**. Całkowicie otwarta przestrzeń nie będzie jednak do końca wskazana. Ponieważ roślina osiąga dosyć dużą wysokość, mogłaby być narażona wówczas na silne wiatry i złamanie.
 
+{% fig %}
 ![Juka ogrodowa - sadzenie i warunki uprawy](/uploads/juka-wymagania-i-pielegnacja-jak-uprawiac-juke-ogrodowa-4.jpg "Juka ogrodowa - sadzenie i warunki uprawy")
+{% endfig %}
 
 Juka ogrodowa **doskonale radzi sobie na różnych podłożach** - zarówno na żyznych glebach, jak i na ziemi piaszczystej. Nie przepada natomiast za zbyt wysoką wilgocią i glebami gliniastymi.
 
+{% fig %}
 ![Warunki odpowiednie dla juki ogrodowej](/uploads/juka-wymagania-i-pielegnacja-jak-uprawiac-juke-ogrodowa-8.jpg "Warunki odpowiednie dla juki ogrodowej")
+{% endfig %}
 
 ## Juka ogrodowa - pielęgnacja i kwitnienie
 
 Jeżeli spodziewasz się kwitnienia juki w krótkim czasie od jej zasadzie, to niestety będziesz rozczarowany. Juka ogrodowa **zyskuje zdolność kwitnienia dopiero po 2-3 latach** - przy zapewnionej odpowiedniej pielęgnacji. Konieczne będzie wspomniane już wcześniej odpowiednie nasłonecznienie i ciepło. Jeżeli w danym roku temperatury są niskie - kwitnienie juki może być zagrożone.
 
+{% fig %}
 ![Juka ogrodowa - pielęgnacja i kwitnienie](/uploads/juka-wymagania-i-pielegnacja-jak-uprawiac-juke-ogrodowa-9.jpg "Juka ogrodowa - pielęgnacja i kwitnienie")
+{% endfig %}
 
 Właściwy wzrost rośliny jest w dużej mierze zależny także od **dostarczenie jej odpowiednich składników odżywczych - jednak w niewielkich dawkach**. Zazwyczaj nawożenie juki ogrodowej odbywa się 2 razy w sezonie.
 
@@ -87,7 +99,9 @@ Zimowanie juki ma wpływ na późniejszy stan rośliny i wystąpienie kwitnienia
 
 Zabezpieczenie przed zimowaniem polega na **związaniu liści rośliny i ich okryciu materiałem chroniącym przed mrozami**.
 
+{% fig %}
 ![Jak powinny być zimowane juki ogrodowe?](/uploads/juka-wymagania-i-pielegnacja-jak-uprawiac-juke-ogrodowa-10.jpg "Jak powinny być zimowane juki ogrodowe?")
+{% endfig %}
 
 {:.distinction.distinction-information}
 Do okrycia juki ogrodowej najlepiej wykorzystać tekturę, gałązki świerka lub słomę. Zabezpieczona w ten sposób roślina przetrwa zimny sezon bez ryzyka o wystąpienie chorób.
@@ -98,14 +112,15 @@ Do okrycia juki ogrodowej najlepiej wykorzystać tekturę, gałązki świerka lu
 
 Podobnie, jak niektóre rośliny ogrodowe również i juka **może być uprawiana w domu**. Także w tym przypadku nie należy zapomnieć o odpowiednich warunkach - dobrym nasłonecznieniu i niezbyt częstym podlewaniu. Juka domowe doskonale sprawdzi się w niedalekiej odległości od okien lub drzwi balkonowych, gdzie będzie miała zapewnioną stałą ekspozycję na naturalne światło.
 
+{% fig %}
 ![Czy juka może znajdować się w domu?](/uploads/juka-wymagania-i-pielegnacja-jak-uprawiac-juke-ogrodowa-6.jpg "Czy juka może znajdować się w domu?")
+{% endfig %}
 
 ## Dlaczego juka ogrodowa nie kwitnie?
 
 Przyczyny braku kwitnienia juki mogą być różne. Ich ustalenie pomoże Ci zadbać o roślinę i doprowadzić do stanu, w których na jej gałązkach pojawią się **piękne, białe dzwonki**. Wśród najczęstszych przyczyn braku kwitnienia juki wymienia się:
 
 {:.list.list-negative}
-
 * brak odpowiedniego nasłonecznienia,
 * zbyt wilgotną glebę lub za częste podlewanie,
 * nieprawidłowe odżywianie składnikami mineralnymi lub zbyt częste nawożenie rośliny,
