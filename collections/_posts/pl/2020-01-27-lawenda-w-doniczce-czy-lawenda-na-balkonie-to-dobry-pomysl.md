@@ -31,7 +31,7 @@ Lawenda (**_Lavandula_**) to krzew z rodziny jasnotowatych. To roślina ozdobna,
 
 Wykorzystywane są jej kwiaty, najczęściej w **formie suszonej**. Wytwarza się z nich także olejek eteryczny, który posiada właściwości odkażające.
 
-Ponadto lawenda ma także wiele innych właściwości, które doceni każda kobieta. W dobie powrotu naturalnych kosmetyków lawenda staje się ponownie coraz bardziej doceniana. Ma właściwość **ograniczające produkcję sebum przez skórę**, dlatego nadaje się szczególnie do **cery tłustej i mieszanej**. Doskonale radzi sobie z trądzikiem i wypryskami, czy zmianami koloru skóry.
+Ponadto lawenda ma także wiele innych właściwości, które doceni każda kobieta. W dobie powrotu naturalnych kosmetyków lawenda staje się ponownie coraz bardziej doceniana. Ma właściwości **ograniczające produkcję sebum przez skórę**, dlatego nadaje się szczególnie do **cery tłustej i mieszanej**. Doskonale radzi sobie z trądzikiem i wypryskami, czy zmianami koloru skóry.
 
 Uprawiając lawendę w ogrodzie lub doniczkach na balkonie, można samodzielnie przygotować preparaty wspomagające skórę.
 
@@ -50,13 +50,13 @@ Między innymi ze względu na te właściwości może być ona stosowana w ogrod
 
 ## Lawenda w doniczce - co warto o niej wiedzieć?
 
-Lawenda w doniczce jest odpowiednią propozycją dla wszystkich osób, które chcą cieszyć się tą piękną roślina na swoim balkonie. **Możesz zdecydować się na zakup gotowej sadzonki lub samodzielnie wysiać lawendę.** Drugi sposób wymaga zdecydowanie więcej zaangażowania, ponieważ konieczne jest przeprowadzenia staryfikacji nasion. Jest to nic innego jak **chłodzenie nasion**, które odbywa się przez około trzy tygodnie.
+Lawenda w doniczce jest odpowiednią propozycją dla wszystkich osób, które chcą cieszyć się tą piękną roślina na swoim balkonie. **Możesz zdecydować się na zakup gotowej sadzonki lub samodzielnie wysiać lawendę.** Drugi sposób wymaga zdecydowanie więcej zaangażowania, ponieważ konieczne jest przeprowadzenia stratyfikacji nasion. Jest to nic innego jak **chłodzenie nasion**, które odbywa się przez około trzy tygodnie.
 
 {% fig %}
 ![Lawenda w doniczce - co warto o niej wiedzieć?](/uploads/lawenda-w-doniczce-sadzenie.jpg "Lawenda w doniczce - co warto o niej wiedzieć?")
 {% endfig %}
 
-Najlepiej proces staryfikacji nasion przeprowadzić w okolicy lutego. Jak to zrobić? Przygotuj niedużej wielkości naczynie i wsyp do niego ziemię ogrodową. Następnie wysiej nasiona lawendy i wstaw do pomieszczenia, w którym temperatura osiąga około 0°C np. do piwnicy. Coraz częściej można spotkać się z sytuacją, że **chłodzenie nasion lawendy odbywa się w lodówce** - to zdecydowanie wygodniejszy sposób. Dodatkowo nie musisz obawiać się także przymrozków.
+Najlepiej proces stratyfikacji nasion przeprowadzić w okolicy lutego. Jak to zrobić? Przygotuj niedużej wielkości naczynie i wsyp do niego ziemię ogrodową. Następnie wysiej nasiona lawendy i wstaw do pomieszczenia, w którym temperatura osiąga około 0°C np. do piwnicy. Coraz częściej można spotkać się z sytuacją, że **chłodzenie nasion lawendy odbywa się w lodówce** - to zdecydowanie wygodniejszy sposób. Dodatkowo nie musisz obawiać się także przymrozków.
 
 **Uprawa lawendy w domu** nie jest trudnym zadaniem. Roślina ta nie jest bardzo wymagająca. Odpowiednio posadzona, będzie służyć przez długie lata. Istnieje wiele gatunków lawendy, a większość z nich nadaje się do **uprawy w doniczce**. Rośliny jednoroczne, które nie mają szans przetrwać mrozów przy uprawie ogrodowej, będą czuły się świetnie w pojemniku.
 
