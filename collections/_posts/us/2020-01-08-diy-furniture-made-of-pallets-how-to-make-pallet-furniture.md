@@ -2,9 +2,9 @@
 layout: post
 date: 2020-01-08
 toc: true
-title: DIY furniture made of pallets. How to make pallet furniture?
-description: Pallets are popular material for DIY furniture. If you are looking for
-  a cheap and eco-friendly garden furniture, you should consider using wood pallets.
+title: DIY Furniture Made of Pallets. How to Make Pallet Furniture?
+description: Pallets are ➡️ the hottest design trend. It's a zero-waste, eco-friendly
+  and cheap furniture idea! ✔️ Find out how to make your own pallet furniture.
 image: "/uploads/modne-meble-ogrodowe-z-palet-jak-zrobic-meble-ogrodowe-z-palet.jpg"
 promoted: true
 update_date: 2020-02-05
@@ -29,14 +29,23 @@ main_keywords:
 - pallet furniture ideas
 
 ---
-## DIY pallet furniture - how to make it?
+## DIY pallet furniture – why are they so popular?
 
-According to the latest trends, **DIY furniture** is a stylish element of interior decoration. Recycling and upcycling is an important part of life for an increasing number of people. Pallet furniture is a realisation of both trendy interior design and ecological lifestyle. There are many advantages of creating objects made of pallets. Most importantly they are extremely cheap.
+An increasing number of people decide to **make** their own **pallet furniture**. What makes this solution so attractive is mostly its cheap price. The price of similar, store-bought furniture offered by manufacturers is usually quite high. But all you need to make interesting and unique pallet furniture is a little bit of creativity and a few pallets.
 
-{:.distinction.distinction-information}
-If you already own pallets that were used for materials storage, the cost of creating pallet furniture covers only several minor products. You can also **get some pallets for free** or low price in industrial areas, supermarkets or wholesalers.
+According to the latest trends, **DIY furniture** is a stylish element of interior decoration. Recycling and upcycling is an important part of life for an increasing number of people. **Pallet furniture** is a realisation of both of those trends. There are many advantages of creating objects made of pallets. Most importantly, they are extremely cheap.
 
-Although pallets usually are not made of **high quality wood**, they are very sturdy and resistant to damage. Therefore pallet wood projects are strong and such furniture serves for a long time. The material is lightweight and eco-friendly. If designed well, pallet furniture can be elegant and quite stylish. A pallet table or **pallet bench** is a perfect complimentary element to scandinavian or minimalistic style.
+{% fig %}
+
+![DIY pallet furniture – why are they so popular?](/uploads/meble-ogrodowe-z-palet-lawka.jpg "DIY pallet furniture – why are they so popular?")
+
+{% endfig %}
+
+{:.distinction.distinction-information} If you already own pallets that were used for materials storage, the cost of creating pallet furniture covers only several minor products. You can also **buy some pallets** for a low price in industrial areas, supermarkets or wholesalers.
+
+## Why is it worth to make pallet furniture?
+
+Although pallets usually are not made of high quality wood, they are very sturdy and resistant to damage. Therefore pallet wood projects are strong and such furniture serves for a long time. The material is **lightweight and eco-friendly**. If designed well, pallet furniture can be elegant and quite stylish. A pallet **table or pallet bench** is a perfect complimentary element to scandinavian or minimalistic style.
 
 {% fig %}
 ![DIY pallet furniture - how to make it?](/uploads/meble-ogrodowe-z-palet-jak-zrobic-je-samodzielnie.jpg "DIY pallet furnture - how to make it?")
@@ -46,10 +55,14 @@ Although pallets usually are not made of **high quality wood**, they are very st
 
 **Wooden pallets used in transport** are often left after building materials used for construction. If you bought them with materials for construction, they basically cost you nothing. You could also try to get some pallets in supermarkets, small shops or industrial areas. They aren’t very expensive. A good idea is to browse through auction websites, where one can buy pallets even cheaper than in a shop.
 
-{:.distinction.distinction-information}
-Looking for pallet ideas and **DIY furniture projects**, consider the size of those elements. There are different types of pallets, each having various sizes.
+{% fig %}
 
-The most common types are:
+![Pallet furniture for your garden - which pallets are the best?](/uploads/meble-ogrodowe-z-palet-jak-je-zrobic.jpg "Pallet furniture for your garden - which pallets are the best?")
+
+{% endfig %}
+
+
+Looking for **pallet ideas and** **DIY furniture projects**, consider the size of those elements. There are different types of pallets, each having various sizes. The most common types are:
 
 {:.list}
 
@@ -80,12 +93,24 @@ Before starting your pallet wood project you should equip yourself with **right 
 * painting tools - brushes and rollers,
 * additional elements - wheels, glass tabletops, cushions, blankets, mattresses.
 
+{% fig %}
+
+![How to make pallet furniture?](/uploads/meble-ogrodowe-z-palet-jak-je-zrobic-1.jpg "How to make pallet furniture?")
+
+{% endfig %}
+
 ### Pallet furniture - step by step
 
 Before starting **making pallet furniture**, you need a proper design. Measure the place where the furniture is supposed to be placed. The size of your pallet furniture should match the size of a pallet accordingly, to avoid cutting.
 
 {:.distinction.distinction-warning}
 It is good if the size of the final piece is a multiple of a pallet’s length. This way, if you want to increase the length, you just add another piece to one side. A standard height of the **furniture** is usually a height of two pallets. To get a higher piece, just add another layer of pallet.
+
+{% fig %}
+
+![Pallet furniture - step by step](/uploads/meble-ogrodowe-z-palet-lawki.jpg "Pallet furniture - step by step")
+
+{% endfig %}
 
 Having prepared a detailed project which includes the number of pallets you are going to need, you need to prepare the pallets:
 
