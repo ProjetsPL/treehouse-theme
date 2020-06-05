@@ -36,7 +36,7 @@ published: false
 ---
 ## Can a natural mosquito repellent replace store-bought products?
 
-Natural mosquito control methods might be as effective as many store-bought products. The only thing that needs to be kept in mind is the **right preparation and proper use** of such remedies. The most popular method is using essential oils for mosquito repellent, whose strong scent scare the insects away. They are for instance:
+Natural mosquito control methods might be as effective as some store-bought products. The only thing that needs to be kept in mind is the **right preparation and proper usage** of such remedies. The most popular method is using essential oils for mosquito repellent, whose strong scent scare the insects away. They are for instance:
 
 {:.list.list-positive}
 
@@ -45,15 +45,15 @@ Natural mosquito control methods might be as effective as many store-bought prod
 * patchouli oil,
 * eucalyptus oil, especially the one made from lemon-scented gum (_Corymbia citriodora_).
 
-With **essential oils**, you can easily prepare a homemade **mosquito repellent spray**, which is a natural equivalent of store-bought chemical products. To make a homemade mosquito repellent you need: a mixture of essential oils that have insect repellent qualities and **base oil** (i.e. vegetable oil, for instance the one you typically use in the kitchen: sunflower, almond or grapeseed oil).
+You can easily prepare a homemade **mosquito repellent spray** with **essential oils**, which is a natural equivalent of store-bought chemical products. To make a homemade mosquito repellent you need: a mixture of essential oils that have insect repellent qualities and **base oil** (i.e. vegetable oil, for instance the one you typically use in the kitchen: sunflower, almond or grapeseed oil).
 
 A **homemade mosquito repellent** is very easy to make. All you need to do is combine essential oils of your choice with the base oil in the right proportion and mix them well. For 100 ml of your base oil you should use no more than 10 ml of essential oil (keep that in mind especially when using several various essential oils).
 
-Keep the mixture in **dark glass containers**, for instance in bottles.
+Keep the mixture in **dark glass containers**, for instance in small bottles.
 
 {:.distinction.distinction-warning}
 
-For the best effectivenes, apply your homemade mosquito repellent every 2 hours onto spots most vulnerable to bites.
+For the best effectivenes, apply your homemade mosquito repellent every 2 hours onto spots that are the most vulnerable to bites.
 
 {% fig %}
 
@@ -63,7 +63,7 @@ For the best effectivenes, apply your homemade mosquito repellent every 2 hours 
 
 ## What are the most effective mosquito repellent plants?
 
-There are certain plant species that act as **natural mosquito repellents**. They are mostly flowers, trees and shrubs of strong smells. Fragrant plants and herbs are very unplesant for mosquitoes, therefore they are great if you want to **protect your garden from those insects**.
+There are certain plant species that act as **natural mosquito repellents**. They are mostly flowers, trees and shrubs with strong scents. Fragrant plants and herbs are very unplesant for mosquitoes, therefore they are great if you want to **protect your garden from those insects**.
 
 A plant known as **_Plectranthus glabratus_** or Swedish ivy is an ornamental plant with long, loose leaves. It's a great natural mosquito repellent. It looks best in a hanging pot, therefore it can be grown on balconies and patios.
 
@@ -75,7 +75,7 @@ Other popular ornamental mosquito repellent plants are **geraniums**. It's a per
 
 {% endfig %}
 
-Not only flowering perennials repel mosquitoes. Another brilliant method for natural mosquito control is planting certain species of **trees and shrubs**. One of the least popular among mosquitoes trees is staghorn sumac. This tree can help you get rid of mosquitoes from your garden. It takes very little space and requires minimal effort, so it's a plant that anyone can manage – even if you barely started your gardening adventure.
+Not only flowering perennials repel mosquitoes. Another brilliant method for natural mosquito control is planting certain species of **trees and shrubs**. One of the most hated trees among mosquitoes is staghorn sumac. The tree can help you get rid of mosquitoes from your garden. It takes very little space and requires minimal effort, so it's a plant that anyone can manage – even if you barely started your gardening adventure.
 
 {:.distinction.distinction-information}
 
@@ -93,9 +93,9 @@ Sprinkling your clothes or **spraying your body with special mosquito repellent 
 
 ### Essential oils and mosquito repellent sprays
 
-The most popular method for fighting with mosquitoes is using various mosquito sprays, essentail oils or a mosquito repellent candle. **You can combine all those methods, which will make them more effective.** You should, however, keep in mind that those remedies only hold back and repel the insects, instead of fully eliminating the problem.
+The most popular method for fighting mosquitoes is using various mosquito sprays, essentail oils or a mosquito repellent candle. **You can combine all those methods, which will make them more effective.** You should, however, keep in mind that those remedies only hold back and repel the insects, instead of fully eliminating the problem.
 
-**Burning incense sticks, candles and torches,** although effective, they are very limited in time. Such products protect against the insects only when staying by the source. The further you are from the mosquito repellent candle or stick, the more you are vulnerable to bites. For this reason, even **if you decided to burn an incense stick, don't forget to use a repellent oil or spray as well.**
+**Incense sticks, candles and torches,** although effective, they are very limited timewise. Such products protect against the insects only when you are staying right by the source. The further you are from the mosquito repellent candle or stick, the more you are vulnerable to bites. For this reason, even **if you decided to burn an incense stick, do not forget to use a repellent oil or spray as well.**
 
 {% fig %}
 
@@ -113,7 +113,7 @@ One of the most popular mosquito repellents for gardens involves installing a **
 
 {% endfig %}
 
-**A lamp of this type emits subtle ultraviolet lighting**, which pulls the insects regardless of the season. One of the most popular types of lamps are the ones that eliminate the mosquitoes by electrocuting them. Another method makes the insects stick to the lamp and the device sucks them inside. **The method of luring the mosquitoes remains the same, while the way they are eliminated is different.**
+**A lamp of this type emits subtle ultraviolet lighting**, which pulls the insects regardless of the season. One of the most common types of lamps are the ones that eliminate the mosquitoes by electrocuting them. Another method makes the insects stick to the lamp and the device sucks them inside. **The method of luring the mosquitoes remains the same in both devices, while the way they are eliminated is different.**
 
 {:.distinction.distinction-information}
 
@@ -121,17 +121,17 @@ A great advantage of such a lamp is the fact that it doesn't affect people stand
 
 ## Garden spraying – a sure mosquito control method
 
-The last step in the fight with mosquitoes is **spraying your garden**. Using the right tipe of mosquito repellent scares away and eliminates the insects dwelling in your garden.
+The last step in the fight with mosquitoes is **spraying your garden**. By using the right type of mosquito repellent, you can scare away and eliminate the insects dwelling in your garden.
 
 {:.distinction.distinction-information}
 
 If you want to get rid of several types of insects, you can mix two different mosquito repellent sprays. Remember to keep the proportions in balance.
 
-Garden mosquito spray is nothing else than a **concentrated insect repellent**, hand-made a moment before using it. Apply it mostly in dark, damp spots and on tall grasses. Due to the fact that mosquitoes are less active in the morning and in the late evening, the spray might help you decrease their population or completely hinder their reproduction. The larger area you spray, the more effective the moethod is. Nevertheless, **use the spray responsibly**, remembering about the right proportions. A chemical mosquito repellent is a sure way to win the fight with those insects.
+Garden mosquito spray is nothing else than a **concentrated insect repellent**, mixed a moment before using it. Apply it mostly in dark, damp spots and on tall grasses. Due to the fact that mosquitoes are less active in the morning and in the late evening, the spray might help you decrease their population or completely hinder their reproduction. The larger area you spray, the more effective the method is. Nevertheless, **use the spray responsibly**, remembering about the right proportions. A chemical mosquito repellent is a sure way to win the fight with those insects.
 
 ## What about mosquitoes by the water?
 
-To prevent mosquitoes reproduction in your garden, you need to make sure that the water in the reservoir is constantly moving. It's very important because **fresh, standing water is a place where the insects lay eggs.** You can produce water movement very easily, for instance by adding fountains, streams or a cascade to your pond. It's an easy way to prevent the mosquitoes from reproducing, stopping them from laying eggs.
+To prevent mosquitoes reproduction in your garden, you need to make sure that the water in the reservoir is constantly moving. It's very important because **fresh, standing water is a place where the insects lay eggs.** You can produce water movement very easily, for instance by adding fountains, streams or a cascade to your pond. It's an easy way to prevent the mosquitoes from reproducing, by stopping them from laying eggs.
 
 Because **mosquitoes typically choose foul, dense and shallow water bodies**, you should take care of the water plants and clean the pond regularly.
 
@@ -153,7 +153,7 @@ What is a natural mosquito repellent?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Certain plants release scents that repel mosquitoes. Plecranthus, geranium or a dissecta are great natural mosquito repellents. Plant them in various spots in your garden, most importantly close by the place you usually spend time at.
+Certain plants release scents that repel mosquitoes. Plectranthus, geranium or a dissecta are great natural mosquito repellents. Plant them in various spots in your garden, most importantly close by the place where you usually spend time.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
@@ -163,6 +163,6 @@ What essential oils are good for mosquito repellent?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Lemon grass oil, patchouli oil, clove oil and eucaliptus oil are great mosquito repellents. It is a good idea to mix them all along with some base vegetable oil. You can apply such mixture to your skin every time you need to go out. Remember to reapply it every two hours if you are outside for a longer time.
+Lemon grass oil, patchouli oil, clove oil and eucalyptus oil are great mosquito repellents. It is a good idea to mix them all, along with some base vegetable oil. You can apply such mixture to your skin every time you need to go out. Remember to reapply it every two hours if you are outside for a longer time.
 {% endfaqAnswer %}
 {% endfaqItem %}
