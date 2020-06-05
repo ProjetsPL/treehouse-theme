@@ -118,4 +118,4 @@ Niektóre ryby i żaby żywią się larwami owadów. Wpuszczenie ich do zbiornik
 ![A co na komary nad wodą?](/uploads/a-co-na-komary-nad-woda.jpg "A co na komary nad wodą?")
 {% endfig %}
 
-Chcesz cieszyć sie spokojnie spędzonym czasem we własnym ogrodzie? Podejmij działania zwalczające komary tuż po tym, jak zauważyć, że pojawiają się pierwsze insekty. W ten sposób zapobiegniesz ich inwazji.
+Chcesz cieszyć się spokojnie spędzonym czasem we własnym ogrodzie? Podejmij działania zwalczające komary tuż po tym, jak zauważyć, że pojawiają się pierwsze insekty. W ten sposób zapobiegniesz ich inwazji.
