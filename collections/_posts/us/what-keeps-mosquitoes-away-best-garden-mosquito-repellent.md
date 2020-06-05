@@ -53,7 +53,7 @@ Keep the mixture in **dark glass containers**, for instance in small bottles.
 
 {:.distinction.distinction-warning}
 
-For the best effectivenes, apply your homemade mosquito repellent every 2 hours onto spots that are the most vulnerable to bites.
+For the best effectiveness, apply your homemade mosquito repellent every 2 hours onto spots that are the most vulnerable to bites.
 
 {% fig %}
 
@@ -63,7 +63,7 @@ For the best effectivenes, apply your homemade mosquito repellent every 2 hours 
 
 ## What are the most effective mosquito repellent plants?
 
-There are certain plant species that act as **natural mosquito repellents**. They are mostly flowers, trees and shrubs with strong scents. Fragrant plants and herbs are very unplesant for mosquitoes, therefore they are great if you want to **protect your garden from those insects**.
+There are certain plant species that act as **natural mosquito repellents**. They are mostly flowers, trees and shrubs with strong scents. Fragrant plants and herbs are very unpleasant for mosquitoes, therefore they are great if you want to **protect your garden from those insects**.
 
 A plant known as **_Plectranthus glabratus_** or Swedish ivy is an ornamental plant with long, loose leaves. It's a great natural mosquito repellent. It looks best in a hanging pot, therefore it can be grown on balconies and patios.
 
