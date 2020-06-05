@@ -15,7 +15,7 @@ main_keywords:
 - " popularne kwiaty doniczkowe"
 toc: true
 promoted: false
-update_date: 2020-05-14
+update_date: 2020-06-05
 title: Rośliny Domowe - Najpopularniejsze Kwiaty Doniczkowe 2020 Roku
 description: "Uprawiasz domowe rośliny doniczkowe? \U0001F331 Te gatunki zrobią na
   Tobie wrażenie. ➡️ Sprawdź najpopularniejsze kwiaty doniczkowe w 2020 roku."
@@ -32,7 +32,7 @@ related_products: []
 
 Kwiaty doniczkowe bardzo często pojawiają się pod różnymi określeniami - rośliny pokojowe lub domowe. Są uprawiane w ziemi, znajdującej się w różnego rodzaju naczyniach. **Rośliny doniczkowe w prosty sposób wprowadzają naturalne środowisko do pomieszczeń zamkniętych**, co wpływa na ich wystój wnętrz, ale także na samopoczucie osób, które w nich przebywają. Umożliwiają także kontakt z naturą - szczególnie zimą.
 
-**Kwiaty doniczkowe to rośliny wieloletnie lub sezonowe**, zazwyczaj występujące w formie tradycyjnych kwiatów lub pnączy. Mogą to być również byliny lub miniaturowe drzewa. 
+**Kwiaty doniczkowe to rośliny wieloletnie lub sezonowe**, zazwyczaj występujące w formie tradycyjnych kwiatów lub pnączy. Mogą to być również byliny lub miniaturowe drzewa.
 
 W doniczkach uprawia się głównie rośliny o wysokich walorach estetycznych - o ciekawym zabarwieniu, kroju lub **nietypowym kwitnieniu**. Ogromny wybór daje możliwość dopasowania kwiatów do indywidualnego gustu.
 
@@ -70,9 +70,16 @@ Wybierając kwiaty doniczkowe pokojowe, warto jednak zwracać uwagę nie tylko n
 {:.distinction.distinction-information}
 Pelargonię można wykorzystać również w kuchni - na przykład dodając jej posiekane liście do herbaty lub jako dodatek do dań i deserów.
 
+![](/uploads/kwiaty-doniczkowe-pelargonie1.jpg)
+
+![](/uploads/kwiaty-doniczkowe-pelargonie.jpg)
+
 {:.list.list-positive}
 
 * **Dracena** - to bardzo popularna roślina doniczkowa. Jako że wymaga minimalnej uwagi i troski, jest polecana szczególnie osobom, które lubią kwiaty, ale **nie mają czasu ich codziennie pielęgnować**. To roślina doniczkowa idealna dla osób zapracowanych lub roztrzepanych, gdyż ewentualne zaniedbanie znosi nadzwyczaj dobrze - w przeciwieństwie do większości kwiatów doniczkowych.
+
+![](/uploads/kwiaty-doniczkowe-dracena.jpg)
+
 * **Paproć** - niegdyś popularna paproć współcześnie została nieco zapomniana i wraca po latach. Tymczasem ten popularny kwiat dzięki swojemu intensywnemu zielonemu odcieniowi działa relaksująco na ludzki organizm. Dodatkowo liście paproci to znakomity, naturalny oczyszczacz powietrza. Ta popularna roślina doniczkowa **neutralizuje sygnały emitowane z urządzeń elektronicznych**, znajdujących się w pomieszczeniu. Jest więc idealnym rozwiązaniem jako kwiat doniczkowy do salonu lub biura.
 
 {% fig %}
@@ -82,10 +89,13 @@ Pelargonię można wykorzystać również w kuchni - na przykład dodając jej p
 {:.list.list-positive}
 
 * **Skrzydłokwiat** - to wyjątkowa roślina doniczkowa, której właściwości potrafią **zastąpić oczyszczacz powietrza**. Roślina w sposób naturalny filtruje powietrze, wchłaniając szkodliwe dla organizmu toksyny. Skrzydłokwiaty to wspaniałe kwiaty do domu, szczególnie polecane osobom mającym problemy z oddychaniem lub cierpiącym na choroby układu oddechowego, jak na przykład astma.
+
+![](/uploads/kwiaty-doniczkowe-skrzydlokwiat.jpg)
+
 * **Aloes** - to roślina doniczkowa, która cieszy się pochlebną opinią na temat mnogości jej zastosowań. Zaczynając od **bogactwa witamin i minerałów**, jakie znajdują się w soku aloesowym aż po szereg właściwości leczniczych. S**ok aloesowy ze świeżych liści pomaga na obrzęki, ukąszenia, a nawet młodzieńczy trądzik.** Natomiast właściwości przeciwzapalne aloesu wspomagają leczenie chorób układu trawiennego. To zdecydowanie kwiat doniczkowy warty zasadzenia w każdym domu.
 
 {% fig %}
-![Aloes](/uploads/aloes.jpg "Aloes")
+![](/uploads/kwiaty-doniczkowe-aloes.jpg)
 {% endfig %}
 
 ## Rośliny doniczkowe, które będą zawsze w modzie
