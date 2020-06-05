@@ -119,4 +119,50 @@ One of the most popular mosquito repellents for gardens involves installing a **
 
 A great advantage of such a lamp is the fact that it doesn't affect people standing nearby. For this reason it's a perfect solution for allergy sufferers, who cannot use popular mosquito repellent sprays.
 
-## 
+## Garden spraying – a sure mosquito control method
+
+The last step in the fight with mosquitoes is **spraying your garden**. Using the right tipe of mosquito repellent scares away and eliminates the insects dwelling in your garden.
+
+{:.distinction.distinction-information}
+
+If you want to get rid of several types of insects, you can mix two different mosquito repellent sprays. Remember to keep the proportions in balance.
+
+Garden mosquito spray is nothing else than a **concentrated insect repellent**, hand-made a moment before using it. Apply it mostly in dark, damp spots and on tall grasses. Due to the fact that mosquitoes are less active in the morning and in the late evening, the spray might help you decrease their population or completely hinder their reproduction. The larger area you spray, the more effective the moethod is. Nevertheless, **use the spray responsibly**, remembering about the right proportions. A chemical mosquito repellent is a sure way to win the fight with those insects.
+
+## What about mosquitoes by the water?
+
+To prevent mosquitoes reproduction in your garden, you need to make sure that the water in the reservoir is constantly moving. It's very important because **fresh, standing water is a place where the insects lay eggs.** You can produce water movement very easily, for instance by adding fountains, streams or a cascade to your pond. It's an easy way to prevent the mosquitoes from reproducing, stopping them from laying eggs.
+
+Because **mosquitoes typically choose foul, dense and shallow water bodies**, you should take care of the water plants and clean the pond regularly.
+
+{:.distinction.distinction-information}
+
+Some fish and frog species feed on insect larvae. Keeping them in your garden pond might prevent mosquitoes from reproducing.
+
+{% fig %}
+
+![](/uploads/a-co-na-komary-nad-woda.jpg)
+
+{% endfig %}
+
+Do you want to enjoy a peaceful time in your own garden? Make sure to use appropriate mosquito repellent immediately afer you notice first insects. This way you can avoid a mosquito invasion.
+
+{% faqItem %}
+{% faqQuestion %}
+What is a natural mosquito repellent?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Certain plants release scents that repel mosquitoes. Plecranthus, geranium or a dissecta are great natural mosquito repellents. Plant them in various spots in your garden, most importantly close by the place you usually spend time at.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+What essential oils are good for mosquito repellent?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Lemon grass oil, patchouli oil, clove oil and eucaliptus oil are great mosquito repellents. It is a good idea to mix them all along with some base vegetable oil. You can apply such mixture to your skin every time you need to go out. Remember to reapply it every two hours if you are outside for a longer time.
+{% endfaqAnswer %}
+{% endfaqItem %}
