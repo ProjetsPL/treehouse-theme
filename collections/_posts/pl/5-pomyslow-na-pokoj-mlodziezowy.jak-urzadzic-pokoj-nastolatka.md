@@ -27,10 +27,11 @@ pokoje młodzieżowe (2,7k)
 
 pokój nastolatka (2,1k)
 
-##   
+## 
+
 Pokój młodzieżowy
 
-## Projekt pokoju młodzieżowego - jak go zrobić?
+## Projekt pokoju młodzieżowego - jak go wykonać?
 
 ## Jak zaaranżować pokój nastolatki zgodnie z trendami?
 
