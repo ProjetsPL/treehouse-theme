@@ -59,7 +59,7 @@ O kwiaty doniczkowe należy troszczyć się również jesienią. To czas na przy
 
 ## Jakie kwiaty doniczkowe warto mieć w swoim domu?
 
-**Najlepsze rośliny doniczkowe**, jakie warto hodować w domu to te, które nie wymagają intensywnej i codziennej pielęgnacji. Dzięki temu Twoje rośliny doniczkowe będą **wspaniałą ozdobą salonu** nawet przy minimalnej opiece.
+**Najlepsze rośliny doniczkowe**, jakie warto hodować w domu to te, które nie wymagają intensywnej i codziennej pielęgnacji. To sprawia, że nie musisz poświęcać im sporo czasu. Dzięki temu Twoje rośliny doniczkowe będą **wspaniałą ozdobą salonu** nawet przy minimalnej opiece lub wtedy, kiedy zapomnisz, że wymagają podlania.
 
 Wybierając kwiaty doniczkowe pokojowe, warto jednak zwracać uwagę nie tylko na ich wygląd, ale także praktyczne właściwości, jakie rośliny mają do zaoferowania swoim właścicielom. Oto kilka **popularnych kwiatów doniczkowych**, które w 2020 roku warto hodować w swoim domu:
 
