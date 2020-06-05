@@ -70,15 +70,23 @@ Wybierając kwiaty doniczkowe pokojowe, warto jednak zwracać uwagę nie tylko n
 {:.distinction.distinction-information}
 Pelargonię można wykorzystać również w kuchni - na przykład dodając jej posiekane liście do herbaty lub jako dodatek do dań i deserów.
 
-![](/uploads/kwiaty-doniczkowe-pelargonie1.jpg)
+{% fig %}
+![Kwiaty doniczkowe Pelargonia](/uploads/kwiaty-doniczkowe-pelargonie1.jpg "Kwiaty doniczkowe Pelargonia")
+{% endfig %}
 
-![](/uploads/kwiaty-doniczkowe-pelargonie.jpg)
+{% fig %}
+![Kwiaty domowe Pelargonia](/uploads/kwiaty-doniczkowe-pelargonie.jpg "Kwiaty domowe Pelargonia")
+{% endfig %}
 
 {:.list.list-positive}
 
 * **Dracena** - to bardzo popularna roślina doniczkowa. Jako że wymaga minimalnej uwagi i troski, jest polecana szczególnie osobom, które lubią kwiaty, ale **nie mają czasu ich codziennie pielęgnować**. To roślina doniczkowa idealna dla osób zapracowanych lub roztrzepanych, gdyż ewentualne zaniedbanie znosi nadzwyczaj dobrze - w przeciwieństwie do większości kwiatów doniczkowych.
 
-![](/uploads/kwiaty-doniczkowe-dracena.jpg)
+{% fig %}
+![Kwiaty doniczkowe Dracena](/uploads/kwiaty-doniczkowe-dracena.jpg "Kwiaty doniczkowe Dracena")
+{% endfig %}
+
+{:.list.list-positive}
 
 * **Paproć** - niegdyś popularna paproć współcześnie została nieco zapomniana i wraca po latach. Tymczasem ten popularny kwiat dzięki swojemu intensywnemu zielonemu odcieniowi działa relaksująco na ludzki organizm. Dodatkowo liście paproci to znakomity, naturalny oczyszczacz powietrza. Ta popularna roślina doniczkowa **neutralizuje sygnały emitowane z urządzeń elektronicznych**, znajdujących się w pomieszczeniu. Jest więc idealnym rozwiązaniem jako kwiat doniczkowy do salonu lub biura.
 
@@ -90,12 +98,16 @@ Pelargonię można wykorzystać również w kuchni - na przykład dodając jej p
 
 * **Skrzydłokwiat** - to wyjątkowa roślina doniczkowa, której właściwości potrafią **zastąpić oczyszczacz powietrza**. Roślina w sposób naturalny filtruje powietrze, wchłaniając szkodliwe dla organizmu toksyny. Skrzydłokwiaty to wspaniałe kwiaty do domu, szczególnie polecane osobom mającym problemy z oddychaniem lub cierpiącym na choroby układu oddechowego, jak na przykład astma.
 
-![](/uploads/kwiaty-doniczkowe-skrzydlokwiat.jpg)
+{% fig %}
+![Skrzydłokwiat - Kwiaty doniczkowe](/uploads/kwiaty-doniczkowe-skrzydlokwiat.jpg "Skrzydłokwiat - Kwiaty doniczkowe")
+{% endfig %}
+
+{:.list.list-positive}
 
 * **Aloes** - to roślina doniczkowa, która cieszy się pochlebną opinią na temat mnogości jej zastosowań. Zaczynając od **bogactwa witamin i minerałów**, jakie znajdują się w soku aloesowym aż po szereg właściwości leczniczych. S**ok aloesowy ze świeżych liści pomaga na obrzęki, ukąszenia, a nawet młodzieńczy trądzik.** Natomiast właściwości przeciwzapalne aloesu wspomagają leczenie chorób układu trawiennego. To zdecydowanie kwiat doniczkowy warty zasadzenia w każdym domu.
 
 {% fig %}
-![](/uploads/kwiaty-doniczkowe-aloes.jpg)
+![Kwiaty doniczkowe Aloes](/uploads/kwiaty-doniczkowe-aloes.jpg "Kwiaty doniczkowe Aloes")
 {% endfig %}
 
 ## Rośliny doniczkowe, które będą zawsze w modzie
