@@ -7,7 +7,7 @@ description: Pallets are ➡️ the hottest design trend. It's a zero-waste, eco
   and cheap furniture idea! ✔️ Find out how to make your own pallet furniture.
 image: "/uploads/modne-meble-ogrodowe-z-palet-jak-zrobic-meble-ogrodowe-z-palet.jpg"
 promoted: true
-update_date: 2020-02-05
+update_date: 2020-06-05
 intro: Comfortable and functional furniture is an essential element if you want to
   spend a pleasant time in your garden or on your patio. A new, good quality garden
   furniture set might be quite costly. There are, however, much cheaper, original
