@@ -19,7 +19,7 @@ main_keywords:
 - how to care for houseplants
 toc: true
 promoted: false
-update_date: 2020-05-22
+update_date: 2020-06-12
 title: House plants – Find the Best Indoor Plants of 2020
 description: "Are you a plant lover? Do you grow indoor plants? \U0001F331 These fascinating
   species will amaze you. ➡️ Take a look at the most popular house plants."
@@ -45,17 +45,17 @@ Plants chosen to be grown in pots usually have high aesthetic value, displaying 
 
 ## How to take care of house plants?
 
-As every type of house plant is different, they have various needs. For this reason when you choose particular types of potted plants, make sure to provide the **best conditions to them, for their proper growth and blooming**. Nevertheless, there are some general rules that can help you take care of your indoor plants.
+As every type of house plant is different, they have various needs. For this reason when you choose particular types of potted plants, make sure to provide the **best conditions to them, for their proper growth and blooming**. There are some general rules that can help you take care of your indoor plants.
 
 {% fig %}
 ![How to take care of house plants?](/uploads/rosliny-doniczkowe.jpg "How to take care of house plants?")
 {% endfig %}
 
-One of the basic rules of plants care is **regular watering.** It's important to water the plants according to the needs of particular species. Most of the potted plants require **intense watering in spring**, as it's the time of **blooming**.
+One of the most basic rules of plants care is **regular watering.** It's important to water the plants according to the needs of particular species. Most of the potted plants require **intense watering in spring**, as it's the time when they **bloom**.
 
-Spring is the season when potted plants require the most work. **March and April is the best time for fertilizing.** It will help your plants to bloom and enliven the already existing shoots and roots. Spring is also a good time for repotting too large house plants into bigger containers – or **dividing them into smaller parts**.
+Spring is the season when potted plants require the most attention. **March and April is the best time for fertilizing.** It will help your plants to bloom and enliven the already existing shoots and roots. Spring is also a good time for repotting too large house plants into bigger containers – or **dividing them into smaller parts**.
 
-You should keep the **hygiene of the house plants leaves** throughout the whole year. Sprinkle their surface with clean water weekly, especially in winter when the air is more dry due to heating.
+You should keep the **the house plants leaves clean** throughout the whole year. Sprinkle their surface with clean water weekly, especially in winter when the air is more dry due to central heating.
 
 {:.distinction.distinction-information}
 Keep your plants in good condition in the autumn as well. It's the best time to prepare them for their winter rest. Avoid fertilizing the house plants in autumn – you should wait until spring.
@@ -64,11 +64,11 @@ Keep your plants in good condition in the autumn as well. It's the best time to 
 
 **The best potted plants** that you can grow in your household are the ones that do not require too much attention and everyday care. This is an easy way to make your house plants a **magnificent** **decoration**, while putting as little effort as possible or in case you forget to water them.
 
-When you choose indoor plants, pay attention not only to their appearance, but also to their practical properties that you could use. See the most **popular house plants** that are absolute must-haves in 2020:
+Before making a decision which indoor plants to choose, pay attention not only to their appearance, but also to their practical properties that you could use. See the most **popular house plants** that are absolute must-haves in 2020:
 
 {:.list.list-positive}
 
-* **Geranium** – it is one of the most popular ornamental flowers – it is a house plant, although your put it outside. It is typically grown **on balconies and windowsills**. Geraniums are not only aesthetically-pleasing, as they bloom in beautiful, intense colors, but also have a lot of practical uses. The essential oil that can be found in the leaves is used for therapeutic massages, inhalations and baths. It has **antibacterial and anti-inflammatory** properties.
+* **Geranium** – it is one of the most popular ornamental flowers. It is a house plant, although your put it outside. It is typically grown **on balconies and windowsills**. Geraniums are not only aesthetically-pleasing, as they bloom in beautiful, intense colors, but also have a lot of practical uses. The essential oil that can be found in the leaves is used for therapeutic massages, inhalations and baths. It has **antibacterial and anti-inflammatory** properties.
 
 {:.distinction.distinction-information}
 You can also use a geranium in the kitchen – for instance adding its chopped leaves to tea or to meals and desserts.
@@ -97,7 +97,7 @@ You can also use a geranium in the kitchen – for instance adding its chopped l
 
 {:.list.list-positive}
 
-* **Fern** – a very common in the past, nowadays fern has been forgotten a little. Now it comes back. This popular house plant is soothing for a human organism, thanks to its intense green color. In addition, its leaves work as a natural air purifier. This potted plant **neutralizes signals emitted from electronical devices** that are in the room. It's an ideal indoor plant for a living room or an office.
+* **Fern** – a very common in the past, nowadays fern has been forgotten a little. Now it comes back. This popular house plant has a soothing effect for a human organism, thanks to its intense green color. In addition, its leaves work as a natural air purifier. This potted plant **neutralizes signals emitted from electronical devices** that are in the room. It's an ideal indoor plant for a living room or an office.
 
 {% fig %}
 ![Fern](/uploads/paproc-roslina-doniczkowa.jpg "Fern")
@@ -180,7 +180,7 @@ How often to water houseplants?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-You should adjust watering your plants to their individual needs, as each species requires different care. Most plants need watering once or twice a week. Keep in mind that in winter the air is more dry, so make sure to water them more often.
+You should adjust watering your plants to their individual needs, as each species requires a different kind of care. Most plants need watering once or twice a week. Keep in mind that in winter the air is more dry, so make sure to water them more often.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
@@ -203,6 +203,6 @@ What are the best houseplants for low light?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-If your room is dark, search for plants that natively grow in the lower parts of forests. You might choose peace lily or any type of fern. Other species to consider are dracaena, snake plant and zamioculcas - they are very good especially for bedrooms.
+If your room is dark, search for plants that natively grow in the lower parts of forests. You might choose peace lily or any type of fern. Other species to consider are dracaena, snake plant and zamioculcas - they are very good for bedrooms.
 {% endfaqAnswer %}
 {% endfaqItem %}
