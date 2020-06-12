@@ -3,11 +3,11 @@ layout: post
 date: 2019-12-18
 toc: true
 title: Płytki na schody zewnętrzne - to nie taki prosty wybór
-description: Wiele osób zastanawia się, jakie wybrać płytki na schody zewnętrzne.
-  Przy wyborze warto zwrócić uwagę na kilka aspektów, które pomogą w podjęciu decyzji.
+description: "Wybierasz płytki na schody zewnętrzne do domu? \U0001F3E0 Sprawdź, na
+  co zwrócić uwagę. ➡️ Odkryj, które płytki schodowe zewnętrzne są najlepsze."
 image: "/uploads/plytki-na-schody-zewnetrzne-to-nie-taki-prosty-wybor-min.jpg"
 promoted: false
-update_date: 2020-02-05
+update_date: 2020-06-12
 intro: Schody zewnętrzne to istotny element wykończenia domu. Najczęściej wybieranym
   materiałem do ich wyłożenia są kafelki. Głównym aspektem, który biorą pod uwagę
   osoby wybierające płytki na schody zewnętrzne, jest wygląd. Jednak przy takim zakupie
@@ -85,6 +85,17 @@ Samodzielne wyłożenie schodów za pomocą płytek nie jest trudne. Ważny jest
 * Klej kładziony pod płytki schodowe zewnętrzne powinien być specjalnie do tego przeznaczony. Taki produkt musi być odporny na wilgoć i mróz.
 * Układanie płytek należy rozpocząć **od najwyższego stopnia**. Najpierw należy położyć poziome warstwy, a potem pionowe.
 * **Fugowanie** można wykonać dopiero po 2-3 dniach od ułożenia płytek. Najlepiej używać fugi tego samego producenta, co klej, aby mieć pewność, że produkty będą ze sobą współpracowały. Przyczynia się to do wydłużenia trwałości schodów.
+
+## Płytki na schody zewnętrzne - jakich błędów unikać przy ich wyborze?
+
+**Najczęściej popełnianym błędem**, który można popełnić, wybierając płytki na schody zewnętrzne, jest zwracanie uwagi wyłącznie na aspekt wizualny. Oczywiście estetyka płytek jest bardzo ważna i wpływa na cały wizerunek budynku. Nie należy natomiast zapominać, że wejście do domu jest najbardziej eksploatowanym miejscem w jego otoczeniu. Dlatego bardzo ważna jest wytrzymałość kafelków. **Równie istotny jest aspekt praktyczności**. Warto unikać głębokich żłobień na całej powierzchni płytek. Wówczas są one narażone na znacznie większą liczbę uszkodzeń.
+
+{:.distinction.distinction-information}
+Jeżeli zależy Ci na oryginalnych zdobieniach, wybierz płytki na schody zewnętrzne z ciekawym motywem kolorystycznym.
+
+![Płytki na schody zewnętrzne - jakich błędów unikać przy ich wyborze?](/uploads/plytki-na-schody.jpg "Płytki na schody zewnętrzne - jakich błędów unikać przy ich wyborze?")
+
+Istotną kwestią może być także proces montażu. **Płytki na schody zewnętrzne wymagają zastosowania odpowiednich preparatów, na których są osadzane.** Specjalny klej musi wytrzymywać zmienny zakres temperatur. Powinien być także odporny na działanie czynników atmosferycznych.
 
 Wybór płytek schodowych może być trudną kwestią. Jednak wystarczy wziąć pod uwagę kilka istotnych aspektów, a zakup stanie się łatwiejszy. Dobrze wybrane i ułożone płytki na schody zewnętrzne przez długie lata będą zdobiły dom swoim ładnym wyglądem. Dlatego warto poświęcić szczególną uwagę na ten element wykończenia domu.
 
