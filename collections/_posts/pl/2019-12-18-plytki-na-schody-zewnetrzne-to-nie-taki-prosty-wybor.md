@@ -2,7 +2,7 @@
 layout: post
 date: 2019-12-18
 toc: true
-title: Płytki na schody zewnętrzne - to nie taki prosty wybór
+title: Płytki Na Schody Zewnętrzne - To Nie Taki Prosty Wybór
 description: "Wybierasz płytki na schody zewnętrzne do domu? \U0001F3E0 Sprawdź, na
   co zwrócić uwagę. ➡️ Odkryj, które płytki schodowe zewnętrzne są najlepsze."
 image: "/uploads/plytki-na-schody-zewnetrzne-to-nie-taki-prosty-wybor-min.jpg"
