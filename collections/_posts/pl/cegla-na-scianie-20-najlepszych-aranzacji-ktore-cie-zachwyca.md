@@ -14,4 +14,14 @@ related_products: []
 published: false
 
 ---
-\## Cegła w salonie - minimalistyczny projekt z kontrastem
+## Cegła w salonie - minimalistyczny projekt z kontrastem
+
+![](/uploads/cegla-na-sciane-salon-kontrast.jpg)
+
+## Ściana z cegły w salonie urządzonym w stylu loftowym
+
+![](/uploads/sciania-z-cegly-w-salonie-styl-loftowy.jpg)
+
+## Biała cegła na ścianę w biurze? Doskonały pomysł!
+
+![](/uploads/biala-cegla-na-scianie-biuro.jpg)
