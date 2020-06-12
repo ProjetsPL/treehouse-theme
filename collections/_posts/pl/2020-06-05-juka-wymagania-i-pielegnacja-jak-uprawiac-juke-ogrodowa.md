@@ -45,13 +45,13 @@ Juka ogrodowa występuje w **kilku odmianach**, które różnią się między so
 Oprócz podstawowej, najpopularniejszej wersji, juka występuje w Polsce także w czterech innych odmianach cieszących się zainteresowaniem. Są to:
 
 {:.list.list-positive}
+
 * **Color Guard** - odmiana z lekko różowymi brzegami liści,
 * **Variegata** - juka o nietypowych zielono-niebieskich liściach z białymi prześwitami,
 * **Ivory Towers** - odmiana z liśćmi delikatnie zabarwionymi na biało, na obrzeżach,
 * **Bright Edge** - niska juka o zielono-żółtych liściach.
 
-{:.distinction.distinction-information}
-Co ciekawe, wszystkie juki ogrodowe pomimo różnic w kolorystyce liście mają dokładnie takie same, białe, duże kwiatostany.
+{:.distinction.distinction-information} Co ciekawe, wszystkie juki ogrodowe pomimo różnic w kolorystyce liście mają dokładnie takie same, białe, duże kwiatostany. 
 
 {% fig %}
 ![4 popularne odmiany juki ogrodowej](/uploads/juka-wymagania-i-pielegnacja-jak-uprawiac-juke-ogrodowa-5.jpg "4 popularne odmiany juki ogrodowej")
@@ -121,6 +121,7 @@ Podobnie, jak niektóre rośliny ogrodowe również i juka **może być uprawian
 Przyczyny braku kwitnienia juki mogą być różne. Ich ustalenie pomoże Ci zadbać o roślinę i doprowadzić do stanu, w których na jej gałązkach pojawią się **piękne, białe dzwonki**. Wśród najczęstszych przyczyn braku kwitnienia juki wymienia się:
 
 {:.list.list-negative}
+
 * brak odpowiedniego nasłonecznienia,
 * zbyt wilgotną glebę lub za częste podlewanie,
 * nieprawidłowe odżywianie składnikami mineralnymi lub zbyt częste nawożenie rośliny,
