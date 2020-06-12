@@ -94,6 +94,7 @@ A bouquet with cut anthurium, due to its specific character is a perfect decorat
 Anthurium disease treatment should be fit to its cause. Flamingo plants are **strong and resistant to most external conditions**, although some care errors might affect **leaves and flowers.** The plant's disease is usually caused by:
 
 {:.list.list-negative}
+
 * not meeting the plant's needs,
 * an infection,
 * insects.
