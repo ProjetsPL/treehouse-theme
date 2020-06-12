@@ -15,7 +15,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-06-05
-title: How to Grow Flamingo Flower? A Practical Guide to Anthurium Care
+title: How to Grow Anthurium? A Complete Guide to Anthurium Care
 description: "Anthurium is an unusual plant with interesting flowers. \U0001F33A What
   does anthurium care should look like? \U0001F4A7 Learn how to make it look perfect!"
 intro: Anthurium, or flamingo flower is a popular potted plant of a great aesthetic
@@ -25,7 +25,6 @@ intro: Anthurium, or flamingo flower is a popular potted plant of a great aesthe
   you with beautiful looks.
 image: "/uploads/anthurium-glowne.jpg"
 related_products: []
-published: false
 
 ---
 ## Anthurium – what kind of plant is it?
@@ -35,9 +34,7 @@ published: false
 Anthurium has unique-looking **flowers of unusual, irregular shape and usually red color**. For this reason in the past they were often used in a cut form, as bouquet components. Today, anthurium is a common ornamental plant. Although many homeowners are afraid of taking care of flamingo flowers, they are not very complicated to grow. There are a few simple rules, and following them makes anthurium care very easy.
 
 {% fig %}
-
 ![Anthurium – what kind of plant is it?](/uploads/anturium-6.jpg "Anthurium – what kind of plant is it?")
-
 {% endfig %}
 
 ## Popular anthurium flower species
@@ -45,9 +42,7 @@ Anthurium has unique-looking **flowers of unusual, irregular shape and usually r
 One of the most popular types of anthurium is **_Anthurium andraeanum_**_._ It is a common practice to mix this species with its subspecies. The most prominent feature of Anthurium andraeanum are its red flowers. They can reach up to 10 cm of height. The blooming period depends on the type. Some subspecies might bloom throughout the whole season, that is in spring and summer.
 
 {% fig %}
-
 ![Popular anthurium flower species](/uploads/anturium-2.jpg "Popular anthurium flower species")
-
 {% endfig %}
 
 Another popular species is **_Anthurium sherzerianum._** This type is a decoration of many households. The species originates in South America. This peculiar type of flower usually reaches up to 20-50 cm of height. It has long leaves that can grow over 20 cm long. Due to their deep green color and shine, the leaves are very ornamental, just like the flowers. The latter resemble twisted, red cobs, which is very characteristic for the species.
@@ -61,13 +56,11 @@ Each species of a potted plant has different demands, and it requires a **differ
 Anthurium flower, as every other potted plant, should get its own spot in the house - with appropriate conditions fit for its particular needs. Because anthurium comes from tropical, and rather shaded areas, **it does not require direct sunlight to grow** and develop beautiful flowers. For this reason you should place the plant by the window, but not in the full sun - half-shade will be perfect.
 
 {:.distinction.distinction-warning}
-
 Too little light, just like too much sun, might harm the process of growth of an anthurium. If it's too dark in the room, you will notice the leaves changing. They will be very thin, they might also become longer. Improper conditions and lack of light also hinder blooming.
 
 Anthurium care also involves fertilizing and repotting – not too frequently, but regularly. **Young plants should be fed once a year from April to August**, and they should be repotted in the early spring, so that they grow healthily.
 
 {:.distinction.distinction-information}
-
 If you notice that the roots are too big for the pot, transplant the anthurium. You can easily spot the roots at the bottom of the pot.
 
 The **soil** in which the anthurium grows is a very important factor for its care. It should be as close to the plant's native conditions as possible. The soil for a potted anthurium should contain **a lot of acidic peat** and leaf compost. You can also use a potting mix and sand.
@@ -81,9 +74,7 @@ The best water for everyday watering is **soft rainwater**. For the appropriate 
 With a proper anthurium care and regular watering, you can try to **propagate the plant**. Keep in mind that this process can be successful only if the flamingo flower is large enough. **You can divide the anthurium's roots when repotting it.** Carefully separate them, using a sterilized knife and then put the plants in their new pots.
 
 {% fig %}
-
 ![Athurium – watering and propagating](/uploads/anturium-5.jpg "Athurium – watering and propagating")
-
 {% endfig %}
 
 ## Anthurium plant – price
@@ -95,9 +86,7 @@ You can also buy **anthurium in form of a bouquet**. The price depends on the nu
 A bouquet with cut anthurium, due to its specific character is a perfect decoration for any **celebration that takes place in a church**, such as a wedding or a funeral. It's also a great everyday altar decoration.
 
 {% fig %}
-
 ![Anthurium plant – price](/uploads/anturium-4.jpg "Anthurium plant – price")
-
 {% endfig %}
 
 ## How to treat anthurium attacked by a disease?
@@ -105,7 +94,6 @@ A bouquet with cut anthurium, due to its specific character is a perfect decorat
 Anthurium disease treatment should be fit to its cause. Flamingo plants are **strong and resistant to most external conditions**, although some care errors might affect **leaves and flowers.** The plant's disease is usually caused by:
 
 {:.list.list-negative}
-
 * not meeting the plant's needs,
 * an infection,
 * insects.
@@ -117,9 +105,7 @@ If you want to treat the most popular anthurium's diseases manifested by yellow 
 It might be the case that an **anthurium seedling has been taken from a diseased mother plant.** It is very possible that it is already infected. To avoid carrying the disease onto other house plants, isolate your new anthurium plant. Two weeks of observation is usually enough.
 
 {% fig %}
-
 ![How to treat anthurium attacked by a disease?](/uploads/anturium-3.jpg "How to treat anthurium attacked by a disease?")
-
 {% endfig %}
 
 **How to treat the damages caused by insects?** If you noticed some pests on your plant, you need to take appropriate measures. You can get the right products in every gardening shop.
