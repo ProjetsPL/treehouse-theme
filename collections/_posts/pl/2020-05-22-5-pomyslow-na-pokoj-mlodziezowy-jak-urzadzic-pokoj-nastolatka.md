@@ -77,6 +77,7 @@ Tego typu praktyczne przestrzenie w pokoju młodzieżowym **pasują tak naprawd�
 
 Praktyczne aspekty, które musi spełniać pokój nastolatka to jedno. Drugą ważną kwestią jest natomiast **wprowadzenie charakteru dziecka do wnętrza**. Przede wszystkim w tym zakresie nie należy go ograniczać, ale rozsądnie zaplanować, w jakich elementach pojawi się główny motyw pokoju.
 
+{:.list}
 * Jeżeli nastolatek interesuje się **filmami fantastycznymi** - postawcie na plakaty tematyczne na jednej ze ścian.
 * Twoja nastolatka **uwielbia malowanie?** Zorganizuj miejsce na sztalugę lub przymocowany do ściany wieszak, na którym będzie umieszczać płótno podczas pracy.
 * Dziecko **kocha komiksy**? Stwórz mu biblioteczkę, gdzie będzie mógł je przechowywać.
