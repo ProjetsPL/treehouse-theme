@@ -93,7 +93,9 @@ Samodzielne wyłożenie schodów za pomocą płytek nie jest trudne. Ważny jest
 {:.distinction.distinction-information}
 Jeżeli zależy Ci na oryginalnych zdobieniach, wybierz płytki na schody zewnętrzne z ciekawym motywem kolorystycznym.
 
+{% fig %}
 ![Płytki na schody zewnętrzne - jakich błędów unikać przy ich wyborze?](/uploads/plytki-na-schody.jpg "Płytki na schody zewnętrzne - jakich błędów unikać przy ich wyborze?")
+{% endfig %}
 
 Istotną kwestią może być także proces montażu. **Płytki na schody zewnętrzne wymagają zastosowania odpowiednich preparatów, na których są osadzane.** Specjalny klej musi wytrzymywać zmienny zakres temperatur. Powinien być także odporny na działanie czynników atmosferycznych.
 
