@@ -1,7 +1,11 @@
 ---
 layout: post
 date: 2020-06-12
-main_keywords: []
+main_keywords:
+- cegła na ścianę
+- cegła w salonie
+- 'ściana z cegły '
+- 'cegła na ścianie '
 toc: true
 promoted: false
 update_date: 2020-06-12
