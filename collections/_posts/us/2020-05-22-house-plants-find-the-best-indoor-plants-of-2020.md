@@ -62,29 +62,65 @@ Keep your plants in good condition in the autumn as well. It's the best time to 
 
 ## What house plants are worth having?
 
-**The best potted plants** that you can grow in your household are the ones that do not require too much attention. This is an easy way to make your house plants a **real** **decoration**, while putting as little effort as possible.
+**The best potted plants** that you can grow in your household are the ones that do not require too much attention and everyday care. This is an easy way to make your house plants a **magnificent** **decoration**, while putting as little effort as possible or in case you forget to water them.
 
-When you choose indoor plants, pay attention not only to their appearance, but also to their practical properties that you could use. The most popular 2020 house plants that are worth having are:
+When you choose indoor plants, pay attention not only to their appearance, but also to their practical properties that you could use. See the most **popular house plants** that are absolute must-haves in 2020:
 
 {:.list.list-positive}
-* **Geranium** – it's one of the most popular ornamental house plants – kept indoors, but put outside. They are typically grown **on balconies and windowsills**. Geraniums not only look quite aesthetic, as they bloom in beautiful, intense colors, but also have a lot of practical uses. The essential oil that can be found in the leaves is used for therapeutic massages, inhalations and baths. It has **antibacterial and anti-inflammatory** properties.
+
+* **Geranium** – it is one of the most popular ornamental flowers – it is a house plant, although your put it outside. It is typically grown **on balconies and windowsills**. Geraniums are not only aesthetically-pleasing, as they bloom in beautiful, intense colors, but also have a lot of practical uses. The essential oil that can be found in the leaves is used for therapeutic massages, inhalations and baths. It has **antibacterial and anti-inflammatory** properties.
 
 {:.distinction.distinction-information}
 You can also use a geranium in the kitchen – for instance adding its chopped leaves to tea or to meals and desserts.
 
+{% fig %}
+
+![House plants – geranium](/uploads/kwiaty-doniczkowe-pelargonie1.jpg "House plants – geranium")
+
+{% endfig %}
+
+{% fig %}
+
+![House plants – geranium](/uploads/kwiaty-doniczkowe-pelargonie.jpg "House plants – geranium")
+
+{% endfig %}
+
 {:.list.list-positive}
-* **Dracaena** – a very popular houseplant. It requires minimal attention, therefore it's recommended for those who **don't have time for taking care of plants everyday.** It's perfect for busy or forgetful homeowners. It takes being neglected very well, contrary to other indoor plants.
+
+* **Dracaena** – a very popular houseplant. It requires minimal attention and care, therefore it's recommended for those who **don't have time for taking care of plants everyday.** It's a perfect potted plant for busy or forgetful homeowners. Being neglected is not an issue for it, contrary to other indoor plants.
+
+{% fig %}
+
+![House plant – draceana](/uploads/kwiaty-doniczkowe-dracena.jpg "House plants – draceana")
+
+{% endfig %}
+
+{:.list.list-positive}
+
 * **Fern** – a very common in the past, nowadays fern has been forgotten a little. Now it comes back. This popular house plant is soothing for a human organism, thanks to its intense green color. In addition, its leaves work as a natural air purifier. This potted plant **neutralizes signals emitted from electronical devices** that are in the room. It's an ideal indoor plant for a living room or an office.
 
 {% fig %}
 ![Fern](/uploads/paproc-roslina-doniczkowa.jpg "Fern")
 {% endfig %}
 
+{:.list.list-positive}
+
 * **Peace lily** – a unique houseplant that can act as **an air purifier replacement**. The plant filters air naturally, absorbing harmful toxins from the air. Peace lilies are perfect indoor plants. They are highly recommended for people suffering from respiratory issues such as asthma.
-* **Aloe vera** – it's an indoor plant, praised for its many uses. Aloe vera juice is **rich in vitamins and nutrients**, and it has healing properties. **Fresh aloe juice helps with swelling, bug bites, as well as acne**. Thanks to its anti-inflammatory properties, it also aids gastrointestinal system treatment. It's an indoor plant worth planting in every household.
 
 {% fig %}
-![Aloe vera](/uploads/aloes.jpg "Aloe vera")
+
+![House plants – peace lily](/uploads/kwiaty-doniczkowe-skrzydlokwiat.jpg "House plants – peace lily")
+
+{% endfig %}
+
+{:.list.list-positive}
+
+* **Aloe vera** – it's an indoor plant, often praised for its many uses. Aloe vera juice is **rich in vitamins and minerals**, and it has healing properties. **Fresh aloe juice helps with swelling, bug bites, as well as acne**. Thanks to its anti-inflammatory properties, it also aids gastrointestinal system treatment. It's an indoor plant definitely worth having in every household.
+
+{% fig %}
+
+![House plants – aloe vera](/uploads/kwiaty-doniczkowe-aloes.jpg "House plants – aloe vera")
+
 {% endfig %}
 
 ## House plants that are always trendy
