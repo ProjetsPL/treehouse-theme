@@ -38,7 +38,11 @@ Ciekawym sposobem na zaaranżowanie ścianki TV jest wykorzystanie **surowej ceg
 {% endfig %}
 
 {% fig %}
-![Ścianka TV na tle cegły](/uploads/sciana-tv-w-salonie.jpg "Ścianka TV na tle cegły")![Ściana telewizyjna na tle cegły](/uploads/sciana-tv-cegla.jpg "Ściana telewizyjna na tle cegły")
+![Ścianka TV na tle cegły](/uploads/sciana-tv-w-salonie.jpg "Ścianka TV na tle cegły")
+{% endfig %}
+
+{% fig %}
+![Ściana telewizyjna na tle cegły](/uploads/sciana-tv-cegla.jpg "Ściana telewizyjna na tle cegły")
 {% endfig %}
 
 ## Znajdź dobrą podkładkę - ściana telewizyjna na tle drewna
