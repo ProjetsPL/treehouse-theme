@@ -97,7 +97,8 @@ Biel w połączeniu z drewnem daje szansę na stworzenie wyjątkowo przytulnej �
 Klasyczne białe łazienki na poddaszu można **przełamać czarnymi dodatkami**, tworząc tym samym bardzo nowoczesną przestrzeń. Zastanawiasz się, jak wprowadzić ciemniejsze akcenty do pomieszczenia? Tak naprawdę dobre będa w tym przypadku detale. **Czarne oprawy lamp, armatura, oprawa lustra, czy nieco loftowy stojak na umywalkę.** Jednak żeby łazienka na poddaszu nie była zbyt surowa - do tego typu aranżacji doskonale sprawdzą się rośliny. Zieleń idealnie scali dwie zupełnie różne barwy.
 
 {:.distinction.distinction-information}
-Zależy Ci na nowoczesnym wnętrzu, ale nie chcesz przesadzić z dodatkami. Postaw na białe kafelki ścienne o nieregularnym kszałcie. Możesz także zdecydować się na płytki z nierówną, trójwymiarową strukturą. To niewielkie akcenty, dzięki którym Twoja łazienka na poddaszu zyska charakteru.
+
+Zależy Ci na nowoczesnym wnętrzu, ale nie chcesz przesadzić z dodatkami? Postaw na białe kafelki ścienne o nieregularnym kszałcie. Możesz także zdecydować się na płytki z nierówną, trójwymiarową strukturą. To niewielkie akcenty, dzięki którym Twoja łazienka na poddaszu zyska charakteru.
 
 {% fig %}
 ![Nowoczesna łazienka na poddaszu - czarne dodatki i zieleń](/uploads/lazienka-na-poddaszu-jak-stworzyc-funkcjonalne-pomieszczenie-5.jpg "Nowoczesna łazienka na poddaszu - czarne dodatki i zieleń")
