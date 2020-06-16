@@ -18,7 +18,6 @@ intro: Czeka Cię wykończenie domu? Szukasz niebanalnych pomysłów na aranżac
   wykorzystania cegły na ścianę. Zainspiruj się i twórz niepowtarzalne przestrzenie.
 image: "/uploads/cegla-na-sciane-1.jpg"
 related_products: []
-published: false
 
 ---
 ## Cegła w salonie - minimalistyczny projekt z kontrastem
@@ -55,7 +54,6 @@ Jeżeli w Twoim domu lub mieszkaniu znajduje się ściana z cegły - wystarczy, 
 {% endfig %}
 
 {:.distinction.distinction-information} 
-
 Przestrzeń biurowa, gdzie została zastosowana biała cegła na ścianie, ożywi się nieco, jeżeli do wnętrza wprowadzisz zielone rośliny.
 
 {% fig %}
