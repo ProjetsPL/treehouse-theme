@@ -15,7 +15,7 @@ main_keywords:
 - do kiedy można siać trawę
 toc: true
 promoted: false
-update_date: 2020-05-07
+update_date: 2020-06-16
 title: Kiedy i Jak Siać Trawę? Praktyczne Wskazówki Jak Założyć Trawnik
 description: "Marzysz o bujnym, zielonym trawniku ale nie masz pojęcia, jak wygląda
   sianie trawy? \U0001F331 Sprawdź, jak siać trawę aby była prawdziwą ozdobą Twojego
@@ -149,6 +149,23 @@ Wysiew traw większości popularnych gatunków wykorzystywanych w ogrodzie przyp
 
 {:.distinction.distinction-information}  
 Zdarza się, że właściciele ogrodów decydują się na wysiew trawy w marcu. Z ogrodniczego punku widzenia nie jest to jednak najlepszy pomysł. Choć istnieją gatunki odporne na warunki atmosferyczne - np. niektóre rodzaje traw ozdobnych, sianie trawy tak wczesną wiosną może w niektórych przypadkach przyczynić się do zaburzeń jej wzrostu.
+
+## Najczęstsze błędy popełniane przy sianiu trawy
+
+Podczas zakładania trawnika warto zwrócić uwagę na każdy element procesu. Przede wszystkim należy pamiętać o przestrzeganiu wszelkich wskazówek związanych - zarówno z **przygotowaniem podłoża, wysiewem, czy dalszą pielęgnacją trawnika**. Często nawet drobne błędy potrafią zaważyć na tym, czy trawa dobrze wzrasta.
+
+**Wśród najczęściej popełnianych błędów wymienia się:**
+
+{:.list.list-negative}
+
+* **Nieprawidłowe przygotowanie gleby** i brak usunięcia wszelkich zanieczyszczeń z ziemi, które uniemożliwiają prawidłowy wzrost trawy.
+* **Brak tak zwanego rozluźnienia gleby** - dzięki któremu można usunąć wszelkie pozostałości po rosnących wcześniej na danym obszarze roślinach.
+* **Niedostatecznie dokładne usunięcie chwastów z powierzchni**, na której będzie siana trawa. W przypadku dużego zachwaszczenia bardzo często konieczne jest zastosowanie herbicydów, które pozwalają pozbyć się niechcianych roślin z gruntu.
+* **Niewłaściwe użyźnienie gleby** - niektóre rodzaje ziemi wymagają specjalnego nawożenia. Ma to znaczenie szczególnie w przypadku podłoży piaszczystych, gdzie warto zastosować dodatkowo mieszkanki ziemi z torfem lub kompost.
+* **Wybranie niewłaściwych nasion**, które nie są przeznaczone do trawników ogrodowych, ale upraw łąkowych.
+* **Nierównomierne sianie trawy na terenie**, które skutkuje nieestetycznie prezentującym się trawnikiem.
+* **Brak zabezpieczenia nasion po wysiewie**, zwłaszcza w okresie silnych wiatrów, które mogą je wywiewać.
+* **Niezapewnienie dostateczne ilości wody**, przez do nasiona trawy nie mają odpowiednich warunków do kiełkowania i prawidłowego wzrostu.
 
 {% faqItem %}
 {% faqQuestion %}  
