@@ -46,6 +46,7 @@ It is important to **move a brush or a roller in the right direction**. Apply th
 If you paint large surfaces, the most universal and **convenient tool** is simply a **traditional roller**. It helps to distribute paint evenly and with the same intensity at every spot. There are three types of paint rollers with varios naps:
 
 {:.list}
+
 * short nap roller - from 6 to 10 mm (ca. 1/4 to 3/8 inch) length,
 * medium nap roller - from 13 to 15 mm (ca. 1/2 to 2/3 inch) length,
 * long nap roller - from 19 to 30 mm (ca. 3/4 to 1 inch) length.
@@ -131,12 +132,13 @@ It is advised to clean walls before painting especially if there are **greasy st
 **Washing walls before painting prevents the paint from peeling off.** You should also do it if you notice the following:
 
 {:.list.list-negative}
+
 * fungus and mold,
 * yellow stains and marks from cigarette smoke,
 * stains from various liquid substances, e.g.: disinfectants, air fresheners or perfumes,
 * other visible dirt, e.g.: crayons and mud.
 
-### How to wash walls before painting? 
+### How to wash walls before painting?
 
 Choose **wall cleaning products** according to how heavily the wall is stained and to the type of the stain. If it's only a light dirt, a solution of warm water and detergent (e.g. dish soap) should be effective enough.
 
@@ -151,7 +153,7 @@ Such a solution might be not enough for large and very greasy stains or for mold
 How much does wall painting cost?
 {% endfaqQuestion %}
 
-{% faqAnswer %} 
+{% faqAnswer %}
 The price depends on the size of the surface you want to paint and on the cost of materials. You might ask a professional to do it for you, although the price will be higher. Painting walls by yourself is much cheaper.
 {% endfaqAnswer %}
 
