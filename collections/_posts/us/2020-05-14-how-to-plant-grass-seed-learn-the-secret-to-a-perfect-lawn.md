@@ -14,7 +14,7 @@ main_keywords:
 - when to seed lawn
 toc: true
 promoted: false
-update_date: 2020-05-14
+update_date: 2020-06-16
 title: How to Plant Grass Seed? Learn the Secret to a Perfect Lawn
 description: "A lush, green lawn is your dream goal? You have no idea how to achieve
   it? \U0001F331 Learn how to plant grass seed and make your lawn a real gem!"
@@ -35,6 +35,7 @@ There are several species of grass typically planted in gardens. They can be div
 **Common grass** is the most popular type of a lawn seed in gardens. Its biggest advantage is the aesthetic looks and beautiful green color. It is quite short and easy to mow, therefore it's a perfect base for an even and well-tended lawn that will be an object of jealousy of your neighbors.
 
 {:.list}
+
 * **Sheep's fescue** – a slow growing species, highly resistant to atmospheric and climate conditions, with extensive root system. This type of grass seed should be planted in acidic soil, with a good access to sunlight.
 * **Creeping red fescue** – grass of a fast growth rate, resistant to trampling and weather conditions. It has rather thin blades, although it grows in clumps, which contributes to fast development of the lawn.
 * **Common bent** – this species is not very demanding when it comes to cultivation. It has short and thin blades, and it's very easy to mow.
@@ -48,6 +49,7 @@ There are several species of grass typically planted in gardens. They can be div
 **Meadow grass seed** (poa) is a very original choice, as it's characterized by **rich blooming**. It can be used for planting grass in your garden. The blades are quite tall and lush, with lots of flowers. This way you can achieve an artistic, messy look of your lawn with a very natural effect. Popular species used as meadow grass are:
 
 {:.list}
+
 * **Meadow fescue** – a popular species of tall meadow grass, reaching up to one meter. This type of grass is perfect for flower garden, as well as for filling spots in a rock garden.
 * **Bluegrass** – grass with dark-green blades, reaching up to 70 cm of height. It blooms from mid-spring to end-summer.
 * **Common cottongrass** – a species of moderate height, reaching up to 40 cm. It blooms with characteristic round, grey, fluffy flowers.
@@ -57,7 +59,7 @@ There are several species of grass typically planted in gardens. They can be div
 {% endfig %}
 
 {:.distinction.distinction-information}
-One of the most popular species of ornamental grass is feather reed grass, which is a cross between two related plants – _Calamagrostis Arundinacea_ and _Calamagrostis Epigejos_ (wood small-reed). It reaches up to 1.5 meters and it looks similar to grain plants.
+One of the most popular species of ornamental grass is feather reed grass, which is a cross between two related plants – _Calamagrostis Arundinacea_ and _Calamagrostis Epigejos_ (wood small-reed). It reaches up to 1.5 meters, and it looks similar to grain plants.
 
 {% fig %}
 ![ornamental grass](/uploads/trawy-ozdobne.jpg "ornamental grass")
@@ -77,7 +79,7 @@ Self-repairing grass makes great surface for a heavily used lawn. For this reaso
 
 ### Self-repairing grass – price
 
-**The price of self-repairing grass seed** differs depending on several factors. One of the most significant ones is the **manufacturer**. Good quality self-repairing grass seed might cost even twice as much as other types. When choosing a particular brand you have to decide whether your primary criterion is the quality or quantity.
+**The price of self-repairing grass seed** differs depending on several factors. One of the most significant ones is the **manufacturer**. Good quality self-repairing grass seed might cost even twice as much as other types. When choosing a particular brand, you have to decide whether your primary criterion is the quality or quantity.
 
 The size of the bag is crucial as well. A one-kilogram package of self-repairing grass seed might be sufficient for a small garden, it is definitely not enough for a large garden.
 
@@ -97,7 +99,7 @@ Another step in the process of soil preparation is **breaking the ground and tes
 {:.distinction.distinction-information}
 The acidity can be tested in two ways – by sending a sample to a lab or by using a special acidimeter. THe best acidity of a soil for grass seed is 5.5 – 6.5 pH.
 
-Make sure to **fertilize the soil** for a week before planting the grass seed. To do this, use a starter or a universal fertilizer You can purchase both at a garden center. Mix it with the soil according to the manufacturer's instructions.
+Make sure to **fertilize the soil** for a week before planting the grass seed. To do this, use a starter or a universal fertilizer. You can purchase both at a garden center. Mix it with the soil according to the manufacturer's instructions.
 
 The last, but equally important step of preparing the soil before planting grass seed is **rolling the ground**. It helps to even the surface for planting and thickens the soil.
 
@@ -134,6 +136,23 @@ Most of the grass seed species require planting in autumn. It's the best season,
 
 {:.distinction.distinction-information}
 Some garden owners decide to plant grass seed in March. It is, however, not the best idea from the gardening point of view. Although there are some species that are resistant to atmospheric conditions – for instance some types of ornamental grasses, planting grass seed so early might result in poor growth.
+
+## The most common mistakes made when planting grass seed
+
+When you prepare your lawn, you should pay close attention to every detail of the process. First and foremost, remember about all the rules – for **preparing the ground, seeding and further lawn care.** Very often even the smallest mistakes might affect the proper growth of grass.
+
+**The most commonly made mistakes are:**
+
+{:.list.list-negative}
+
+* **Incorrectly prepared soil** and not removing all elements that might affect the growth.
+* **Not loosening the soil** – which helps with the removal of the remainders of plants that used to grow in the area.
+* **Insufficient removal of any weeds from the area** on which you are going to plant grass seed. If there is a lot of weeds, you might need to use an herbicide, which will remove the plants from the soil.
+* **Not enriching the soil** – some types of soil require additional fertilizing. It is particularly important in case of sandy soils, where you should use a special peat mix or compost.
+* **Choosing wrong grass seed**, that is not suitable for garden lawn, but rather for meadow grass.
+* **Uneven planting,** which results in an unaesthetic looking lawn.
+* **Not securing the seed after planting**, especially when the weather is windy, which might blow the seed away.
+* **Insufficient amount of water**, which hinders the seeds from sprouting and growing properly.
 
 {% faqItem %}
 {% faqQuestion %}
