@@ -47,7 +47,7 @@ Możliwości, jakie niosą ze sobą łazienki na poddaszu, w dużej mierze zale�
 ![Dobry plan przestrzeni to kluczowy aspekt łazienki na poddaszu](/uploads/lazienka-na-poddaszu-jak-stworzyc-funkcjonalne-pomieszczenie-6.jpg "Dobry plan przestrzeni to kluczowy aspekt łazienki na poddaszu")
 {% endfig %}
 
-## Aranżacja łazienki na poddaszu - kwestia oświetlenie
+## Aranżacja łazienki na poddaszu - kwestia oświetlenia
 
 Bardzo często w przestrzeniach na poddaszu dostępne są **okna dachowe**. Dopływ naturalnego światła jest bardzo ważny, ponieważ przekłada się na wrażenie przestrzenności wnętrza i dodaje aranżacjom lekkości. Jednak co w przypadku, kiedy łazienka na poddaszu nie ma okien? Wówczas postaw na **odpowiednie oświetlenie sztuczne**. Dużo punktów świetlnych, lustro i szkło wprowadzają ciekawy klimat.
 
