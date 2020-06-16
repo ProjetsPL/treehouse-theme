@@ -16,7 +16,7 @@ intro: Czeka Cię wykończenie domu? Szukasz niebanalnych pomysłów na aranżac
   Cegła na ścianę sprawdzi się idealnie - niezależnie od tego, czy lubisz styl klasyczny,
   nowoczesny, minimalistyczny, czy retro. Sprawdź najciekawsze rozwiązania dotyczące
   wykorzystania cegły na ścianę. Zainspiruj się i twórz niepowtarzalne przestrzenie.
-image: "/uploads/cegla-na-sciane-1.jpg"
+image: "/uploads/cegla-na-scianie.jpg"
 related_products: []
 
 ---
