@@ -23,7 +23,7 @@ published: false
 ---
 ## Attic bathroom – what challenges does it pose?
 
-An attic bathroom, according to many, poses many limitations. Large slopes, short walls and sometimes joists – depending on the building's plan. Obviously, on one hand those are quite difficult conditions, which do not make designing an attic bathroom any easier. On the other – you cannot change it. The best idea, therefore, is to make those element **a** **distinguishable feature** of your interior. It's a good way to get usunsual and very stylish interiors.
+An attic bathroom, according to many, poses many limitations. Large slopes, short walls and sometimes joists, depending on the building's plan. Obviously, on one hand those are quite difficult conditions, which do not make designing an attic bathroom any easier. On the other – you simply cannot change the structure of the room. The best idea, therefore, is to make those elements **a** **distinguishable feature** of your interior. It's a good way to get unusual and very stylish looking interiors.
 
 {% fig %}
 
@@ -37,7 +37,7 @@ An attic bathroom, according to many, poses many limitations. Large slopes, shor
 
 ## A good space planning is key for an attic bathroom design
 
-The possibilities that an attic bathroom carries, mostly depend on the space you have at your disposal. Althout it seems that a big bathroom with a ceiling slope is easier to design, it might be very tricky – especially if you don't **plan your space well.** A small attic bathroom, on the other hand, requires a lot of skill and implementing functional solutions that won't take too much space. For this reason attic bathroom design is often left to specialists, who know best how to fit such an interior to the needs of their clients.
+The possibilities created by an attic bathroom mostly depend on the space you have at your disposal. Although it seems that a big bathroom with a ceiling slope is easy to design, it might be very tricky – especially if you don't **plan your space well.** A small attic bathroom, on the other hand, requires a lot of skill and implementation of functional solutions that won't take too much space. For this reason attic bathroom design is often left to specialists, who know best how to fit such an interior to meet the needs of their clients.
 
 {% fig %}
 
@@ -47,7 +47,7 @@ The possibilities that an attic bathroom carries, mostly depend on the space you
 
 ## Attic bathroom design – lighting
 
-Attic bathrooms often contain **roof windows**. Natural lighting is very important, as it creates the sense of spatiality of the interior and lift the weight off the design. But what is an attic bathroom has no windows? In such a case make sure to pick the **proper artificial lighting**. A combination of plenty of light points, a mirror and glass might create an interesting atmosphere.
+Attic bathrooms often contain **roof windows**. Natural lighting is very important, as it creates the sense of spatiality of the interior and lifts the weight off the design. But what if an attic bathroom has no windows? In such a case make sure to pick the **proper artificial lighting**. A combination of plenty of light points, a mirror and some glass might create an interesting atmosphere.
 
 {:.distinction.distinction-information}
 
@@ -61,7 +61,7 @@ Small attic bathrooms look perfect if you replace internal walls with glassbrick
 
 ## Making a small attic bathroom look bigger
 
-Apart from the mentioned above lighting method, you also can **make the small attic bathroom visually bigger** with certain design elements. The most popular trick involves using white color – on the floor, walls and furniture. Minimalism and **absolute white look** is a go-to design for anyone who doesn't know which style is the best for them. White can be matched with any accessory, making it easy to change the looks of the interior even several times a year.
+Apart from the mentioned above method with the use of lighting, you can also **make the small attic bathroom visually bigger** by using certain design elements. The most popular trick involves using white color – on the floor, walls and furniture. Minimalism and **absolute white look** is a go-to design for anyone who doesn't know which style is the best for them. White can be matched with any accessory, making it easy to change the looks of the interior even several times a year.
 
 {:.distinction.distinction-information}
 
@@ -69,7 +69,7 @@ A small attic bathroom doesn't like massive, highly ornamental furniture with ca
 
 ## An attic bathroom with a bathtub? A great idea!
 
-An attic bathroom is a perfect place for a bathtub. It is ideal for a sloped ceiling interior. If the amount of space allows for it, **you could choose a freestanding bathtub**, which is the best for relaxation. If the small bathroom is too tiny for such a design, pick a small tub attached to the wall. An attic bathroom is becoming a popular design, so you shouldn't have any problems with finding the right accessories.
+An attic bathroom is a perfect place for a bathtub. It is ideal for a sloped ceiling interior. If the amount of space allows for it, **you could choose a freestanding bathtub**, which is the best type for relaxation. If the small bathroom is too tiny for such a design, pick a small tub attached to the wall. An attic bathroom is becoming a popular design, so you shouldn't have any problems with finding the right accessories for it.
 
 {:.distinction.distinction-warning}
 
@@ -81,13 +81,13 @@ An attic bathroom with a shower stand is a more difficult solution, mostly due t
 
 {% endfig %}
 
-## An attic bathroom ideas – the most popular designs of 2020
+## Attic bathroom ideas – the most popular designs of 2020
 
-The most important element of a well-designed attic bathroom are the mentioned above: plan, lighting and suitable accesories. **Do not forget, however, about the current trends, which are quite diverse in 2020.** They can help you find a perfect solution for your attic bathroom. What type of loft bathroom is the most trendy this year?
+The most important elements of a well-designed attic bathroom are the mentioned above: planning, lighting and suitable accessories. **Do not forget, however, about the current trends, which have been quite diverse in 2020.** They can help you find a perfect solution for your attic bathroom. What type of loft bathroom is the trendiest this year?
 
 ### Wood and white – a classic attic bathroom
 
-White combined with wood is a perfect solution for a very cozy attic bathroom. If you decide on this style, consider using **wood-look ceramic tiles** and a **wooden top** for a **wash-stand**. A round mirror with a wooden frame hung on a thick rope is also an interesting idea. Such design can also use wooden shelves for cosmetics and a towel holder in a similar style.
+White combined with wood is a perfect solution for a very cozy attic bathroom. If you decide to pick this style, consider using **wood-look ceramic tiles** and a **wooden top** for a **wash-stand**. A round mirror with a wooden frame hung on a thick rope is also an interesting idea. Such design can also use wooden shelves for cosmetics and a towel holder in a similar style.
 
 {% fig %}
 
@@ -103,7 +103,7 @@ White combined with wood is a perfect solution for a very cozy attic bathroom. I
 
 ### A modern attic bathroom – black accessories and green color
 
-Attic bathrooms in classic white can be supplemented with **black accesories** **which break the monotony** and create a very modern looking interior. Are you wondering how to add dark accents to your interior? Details is what is best to focus on. **Black lamp shades, fittings, mirror frame or washbasin pedestal.** To make your attic bathroom more homely – use plants, which are perfect for this type of design. The green color is a great blend for various shades.
+Attic bathrooms in a classic white color can be supplemented with **black accessories** **to break the monotony** and create a very modern looking interior. Are you wondering how to add dark accents to your interior? Details are what is best to focus on**: black lamp shades, fittings, mirror frame or washbasin pedestal.** To make your attic bathroom more homely – use plants, which are perfect for this type of design. The green color is a great blend for various shades.
 
 {:.distinction.distinction-information}
 
@@ -123,6 +123,6 @@ Do you wish to have a modern looking interior but do not want to overdo the acce
 
 ### Black or navy blue attic bathroom design
 
-Elegant, dark colors are becoming more and more popular – therefore it's no wonder that they also appear in the context of an attic bathroom design. **Dark grey, steel blue or even black are the colors that are particularly popular for home interiors in 2020.** In an attic bathroom, though, they need a very good design. They look perfect with a big mirror wall, for instance. In most cases, dark-colored attic bathrooms are prepared by professional interior designers. By hiring a specialist, you can be completely sure that the outcome will be satifying.
+Elegant, dark colors are becoming more and more popular – therefore it's no wonder that they also appear in the context of an attic bathroom design. **Dark grey, steel blue or even black are the colors that are particularly popular for home interiors in 2020.** In an attic bathroom, though, they need a very good, well-thought design. They look perfect with a big mirror wall, for instance. In most cases, dark-colored attic bathrooms are prepared by professional interior designers. By hiring a specialist, you can be completely sure that the outcome will be satifying.
 
-Before you start designing your attic bathroom, think about whtat you expect from the interior. Check your possibilities and get inspired with modern trends that are used by others. This way you can easily create a perfect space which will suit all your needs.
+Before you start designing your attic bathroom, think about what you expect from the interior. Check your possibilities and get inspired with modern trends that are used by others. This way you can easily create a perfect space which will suit all your needs.
