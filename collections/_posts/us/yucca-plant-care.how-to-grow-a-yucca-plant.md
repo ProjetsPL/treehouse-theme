@@ -20,12 +20,12 @@ toc: true
 promoted: false
 update_date: 2020-06-26
 title: Yucca plant care. How to grow a yucca plant?
-description: "Do you like beautiful blooming plants? \U0001F331 Yucca is a perfect
+description: "Do you like beautifully blooming plants? \U0001F331 Yucca is a perfect
   plant for you. ✔️ Check how to care for it so that it do that it grows healthy."
-intro: Yucca is one of the most beautiful plants that often appears in gardens. Its
-  large, white flowers can amaze even the most picky gardener. It requires a lot of
-  sun, but it's quite easy in the open space. How to grow this plant? Before you decide
-  to buy a yucca plant – learn the most important details about it.
+intro: Yucca is one of the most attractive plants that often appears in gardens. Its
+  large, snow-white flowers can amaze even the pickiest gardener. It requires a lot
+  of sun, but that's no problem in the open space. How to grow this plant? Before
+  you decide to buy a yucca plant – learn the most crucial details about it.
 image: "/uploads/juka-wymagania-i-pielegnacja-jak-uprawiac-juke-ogrodowa.jpg"
 related_products: []
 published: false
@@ -33,7 +33,7 @@ published: false
 ---
 ## Yucca plant – what kind of plant is it?
 
-**Yucca** is a species of plants from the **_Asparagaceae_** family_,_ which originates in both Americas. It's evergreen, grows up to 2 meters. White **yucca flowers** are bell-shaped and they appear in the summer, from June to August. One of the most poplar subspecies is **_Yucca filamentosa,_** also known as **Adam's needle**. The plant likes a lot of sun and warmth.
+**Yucca** is a species of plants from the **_Asparagaceae_** family_,_ which originates in both Americas. It's evergreen, grows up to 2 meters. White **yucca flowers** are bell-shaped, and they appear in the summer, from June to August. One of the most poplar subspecies is **_Yucca filamentosa,_** also known as **Adam's needle**. The plant likes a lot of sun and warmth.
 
 {% fig %}
 
@@ -43,7 +43,7 @@ published: false
 
 ## What types of a yucca plant are there?
 
-Yucca plants are represented by **many** **various types** of different heights, leaf color and resistance to weather conditions. **One of the most popular species grown in european gardens is the already mentioned Adam's needle.** It not only looks beautiful but also is resistant to low temperatures, characteristic for most European countries.
+Yucca plants are represented by **many** **various types** of different heights, leaf color and resistance to weather conditions. **One of the most popular species grown in European gardens is the already mentioned Adam's needle.** It not only looks beautiful but also is resistant to low temperatures, characteristic for most European countries.
 
 {% fig %}
 
@@ -84,7 +84,7 @@ An interesting fact is that despite various colors of the leaves, all yucca plan
 
 {:.distinction.distinction-warning}
 
-If you have small seedlings that are not well developed yet – refrain from planting them in early spring. Low temperatures might negatively affects them and the yucca will not take root.
+If you have small seedlings that are not well developed yet – refrain from planting them in early spring. Low temperatures might negatively affect them, and the yucca will not take root.
 
 A yucca should be **planted in a spot with high sun exposure** in the garden. A completely open space, however, is not recommended. Because yuccas grow quite tall, they are vulnerable to strong winds that might break them easily.
 
@@ -104,7 +104,7 @@ A yucca plant **grows perfectly in various types of soils** – both in rich and
 
 ## Yucca plant – care and blooming
 
-If you expect your yucca tree to bloom shortly after planting it, unfortunately you are going to be disappointed. Yucca plants **start developing flowers after 2-3 years** – only if it's properly taken care of. The already mentioned sun exposure and warmth is essential. If there are low temperatures during a season – the blooming process is threatened.
+If you expect your yucca tree to bloom shortly after planting it, unfortunately you are going to be disappointed. Yucca plants **start developing flowers after 2-3 years** – only if it's properly taken care of. The already mentioned sun exposure and warmth are essential. If there are low temperatures during a season – the blooming process is threatened.
 
 {% fig %}
 
@@ -176,6 +176,6 @@ How to care for a yucca plant?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-One of the most important factors in yucca plant care is the sufficient sunlight exposure. Make sure that the spot in which the plant grows has enough access to sun. Do not overwater the yucca, as it doesn't like humidity. Yucca grows well in rich or sandy soils, but not in the ones with high clay content.
+One of the most important factors in yucca plant care is the sufficient sunlight exposure. Make sure that the spot in which the plant grows has enough access to the sun. Do not overwater the yucca, as it doesn't like humidity. Yucca grows well in rich or sandy soils, but not in the ones with high clay content.
 {% endfaqAnswer %}
 {% endfaqItem %}
