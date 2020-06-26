@@ -13,7 +13,7 @@ main_keywords:
 - " szare szafki kuchenne"
 toc: true
 promoted: false
-update_date: 2020-05-20
+update_date: 2020-06-26
 title: Szara Kuchnia - 7 Pomysłów na Modne Szare Meble Kuchenne
 description: "Szara kuchnia to klasyka, która wcale nie musi być nudna. \U0001F4A1
   Szukasz pomysłu na aranżację? ➡️ Sprawdź, jak wykorzystać szare meble kuchenne."
@@ -107,6 +107,20 @@ Szare meble kuchenne są często wybierane do aranżacji wnętrz i choć wygląd
 {:.distinction.distinction-warning}  
 Szara zabudowa potrafi optycznie przytłoczyć pomieszczenie, dlatego zaleca się wykorzystywać ją w kuchniach przestronnych, o dużym metrażu.
 
+Warto też zauważyć, że istnieje wiele odcieni szarości, a każdy z nich może nadać wnętrzu zupełnie innego wyglądu. Popularne od kilku sezonów **chłodne szarości w 2020 roku zaczynają ustępować miejsca ciepłym barwom**. Jeżeli zdecydujesz się na meble w takim odcieniu  to delikatny szary może stanowić podstawę, którą wykorzystasz na ścianie. Musisz jednak ostrożne dobierać kolory - najlepiej bazując na wzornikach.
+
+{% fig %}
+![Pełna zabudowa kuchni z szarych mebli](/uploads/szara-kuchnia-nowoczesna.jpg "Pełna zabudowa kuchni z szarych mebli")
+{% endfig %}
+
+{% fig %}
+![Szara kuchnia ciepła](/uploads/szara-kuchnia-nowoczesny-styl.jpg "Szara kuchnia ciepła")
+{% endfig %}
+
+{% fig %}
+![Szara kuchnia różne odcienie](/uploads/szara-kuchnia-cieply-odcien.jpg "Szara kuchnia różne odcienie")
+{% endfig %}
+
 ## Z czym zestawiać ciemnoszare szafki kuchenne, aby dobrze wyglądały?
 
 Nie od dziś wiadomo, że wszystkie odcienie szarości doskonale łączą się ze śnieżnobiałą bielą. Jednak czasami takie rozwiązanie może okazać się niesatysfakcjonujące. W takim przypadku warto jest spróbować **niestandardowych połączeń**, aby sprawdzić, który styl jest najodpowiedniejszy dla wybranego wnętrza.
@@ -115,6 +129,14 @@ Jeśli szare szafki kuchenne mają ciemny odcień, można zestawić je niekoniec
 
 {% fig %}
 ![ciemnoszare szafki kuchenne](/uploads/szara-kuchnia-glowne.jpg "ciemnoszare szafki kuchenne")
+{% endfig %}
+
+{% fig %}
+![Szara kuchnia nowoczesna](/uploads/szara-kuchnia-minimalizm.jpg "Szara kuchnia nowoczesna")
+{% endfig %}
+
+{% fig %}
+![Szara kuchnia nowoczesna jasna](/uploads/szara-kuchnia-stylowa.jpg "Szara kuchnia nowoczesna jasna")
 {% endfig %}
 
 {:.distinction.distinction-information}  
