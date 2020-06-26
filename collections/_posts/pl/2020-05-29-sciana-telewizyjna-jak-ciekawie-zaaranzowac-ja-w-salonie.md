@@ -86,7 +86,7 @@ Pamiętaj, że stawiając na nietypowy wybór, jakim są panele 3D, nie należy 
 
 ## Oryginalna tapeta jako dekoracja ściany z telewizorem
 
-Zależy Ci na kolorowym, nietypowym wzorze na ścianie, gdzie znajdzie się telewizor. Oczywiście możesz zlecić takie prace malarzowi, jednak wtedy dekoracja ściany z telewizorem może okazać się wyjątkowo kosztowna lub nie do końca odpowiadająca Twoim wymaganiom. W takim przypadku doskonałym rozwiązaniem może okazać się **wykorzystanie tapety**.
+Zależy Ci na kolorowym, nietypowym wzorze na ścianie, gdzie znajdzie się telewizor? Oczywiście możesz zlecić takie prace malarzowi, jednak wtedy dekoracja ściany z telewizorem może okazać się wyjątkowo kosztowna lub nie do końca odpowiadająca Twoim wymaganiom. W takim przypadku doskonałym rozwiązaniem może okazać się **wykorzystanie tapety**.
 
 {% fig %}
 ![Oryginalna tapeta jako dekoracja ściany z telewizorem](/uploads/sciana-telewizyjna-w-salonie.jpg "Oryginalna tapeta jako dekoracja ściany z telewizorem")
