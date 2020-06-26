@@ -31,7 +31,7 @@ An unusual and creative TV wall design is a real challenge, especially for peopl
 
 ## A TV wall with bricks
 
-A **brick wall** is an interesting idea for a TV wall design. It's a solution that fits many styles. Due to the material used, it refers to the classics, it's also a bold one, which is a characteristic feature of modern interiors, and it can be also attributed to the **retro style**. A lot depends on the accessories you use, which give one a possibility to adjust the room to one's personal taste. A TV room with bricks in the background is a perfect idea for anyone who doesn't quite know which style suits them the most, or for those who like to often change designs.
+A **brick wall** is an interesting idea for a TV wall design. It's a solution that fits many styles. Due to the material used, it refers to the classics. It's a bold choice, which is a characteristic feature of modern interiors, and it can be also attributed to the **retro style**. A lot depends on the accessories you use, which give one a possibility to adjust the room to one's personal taste. A TV room with bricks in the background is a perfect idea for anyone who doesn't quite know which style suits them the most, or for those who like to often change designs.
 
 {% fig %}
 
@@ -53,7 +53,7 @@ A **brick wall** is an interesting idea for a TV wall design. It's a solution th
 
 ## Find a good backing – a wooden TV wall
 
-As for a TV wall with wood, you have several possibilities when it comes to design. You can lay the whole wall with wooden panels, or just a part of it – only where the device is placed. In such a case you can order specially designed panels. All you need is an initial project and the specialist is going to know what you expect.
+As for a TV wall with wood, you have several possibilities when it comes to design. You can lay the whole wall with wooden panels or just a part of it – only where the device is placed. In such a case you can order specially designed panels. All you need is an initial project and the specialist is going to know what you expect.
 
 If you have the wooden elements made for you, consider adding another functionality to the wall. You could ask for making side shelves to the main panel, for instance to make a display of your movies collection on them.
 
@@ -65,9 +65,9 @@ If you have the wooden elements made for you, consider adding another functional
 
 ## The popular choice – a TV wall unit
 
-It's becoming quite common for many homeowners and interior designers to **have special furniture units designed**. It's a solution that allows to maximally use the space available in the room. When designing furniture unit with shelves and closets, you might consider to **leave a space for a TV** – turning it into a TV wall unit.
+It's becoming quite common for many homeowners and interior designers to **have special furniture units designed**. It's a solution that allows to maximally use the space available in the room. When designing furniture unit with shelves and closets, you might consider to **leaving a space for a TV** – turning it into a TV wall unit.
 
-This solution leaves you a plethora of possibilites. A white unit with a **wooden niche** for the TV is definitely an interesting idea. You could also arrange a contrasting part on the wall the TV is going to be placed. This way, when turned off, the device will be practically invisible.
+This solution leaves you a plethora of possibilities. A white unit with a **wooden niche** for the TV is definitely an interesting idea. You could also arrange a contrasting part on the wall the TV is going to be placed. This way, when turned off, the device will be practically invisible.
 
 {% fig %}
 
@@ -99,7 +99,7 @@ Do you want an absolutely modern-looking interior? Choose unusual solutions that
 
 {:.distinction.distinction-warning}
 
-Keep in mind that if you choose 3D panels, you shouldn't overdo them. Apart from the TV wall designed this way, the rest of the walls in the room should remain even.
+Keep in mind that if you choose 3D panels, you shouldn't overdo them. Apart from the TV wall, the rest of the walls in the room should remain even.
 
 ## An original wallpaper as a TV wall decoration
 
@@ -115,7 +115,7 @@ Modern-looking pattern give you many possibilities. You can use **traditional ma
 
 {:.distinction.distinction-warning}
 
-A TV wall might get hot during a prolonged use of the device, therefore when you choose a wallpaper, pay attention to the quality of the materials. This will allow you to enjoy the wall ornament for longer.
+A TV wall might get hot during a prolonged use of the device, so when you choose a wallpaper, pay attention to the quality of the materials. This will allow you to enjoy the wall ornament for longer.
 
 ## A TV wall with the device hidden in a closet
 
