@@ -19,7 +19,6 @@ intro: A bathroom is quite a difficult to design space. What's more, a room with
   inspirations for you.
 image: "/uploads/lazienka-na-poddaszu-jak-stworzyc-funkcjonalne-pomieszczenie.jpg"
 related_products: []
-published: false
 
 ---
 ## Attic bathroom – what challenges does it pose?
