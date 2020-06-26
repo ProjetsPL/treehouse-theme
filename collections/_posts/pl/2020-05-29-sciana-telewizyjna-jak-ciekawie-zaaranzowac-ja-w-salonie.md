@@ -49,7 +49,7 @@ Ciekawym sposobem na zaaranżowanie ścianki TV jest wykorzystanie **surowej ceg
 
 W przypadku, kiedy ściana z telewizorem wykończona jest drewnem, masz kilka możliwości wyboru aranżacji. Ściana telewizyjna może być **na całej powierzchni wyłożona drewnem** lub tylko **częściowo - w miejscu, gdzie znajduje się sprzęt**. Wówczas wykorzystuje się specjalne panele drewniane wykonywane na zamówienie. Wystarczy wstępny projekt, aby specjalista wiedział, na czym Ci zależy.
 
-Jeżeli drewniane elementy wykonywane są specjalnie dla Ciebie, warto zastanowić się nad **dodatkową funkcjonalnością ściany**. Możesz poprosić o dorobienie do drewnianego bocznych półek, na których zgromadzisz kolekcję filmów.
+Jeżeli drewniane elementy wykonywane są specjalnie dla Ciebie, warto zastanowić się nad **dodatkową funkcjonalnością ściany**. Możesz poprosić o dorobienie do drewnianego panelu bocznych półek, na których zgromadzisz kolekcję filmów.
 
 {% fig %}
 ![Znajdź dobrą podkładkę - ściana TV na tle drewna](/uploads/sciana-telewizyjna-drewniana.jpg "Znajdź dobrą podkładkę - ściana TV na tle drewna")
