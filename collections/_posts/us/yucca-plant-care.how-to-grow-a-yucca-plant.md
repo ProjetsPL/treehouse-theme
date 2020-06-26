@@ -21,7 +21,7 @@ promoted: false
 update_date: 2020-06-26
 title: Yucca plant care. How to grow a yucca plant?
 description: "Do you like beautifully blooming plants? \U0001F331 Yucca is a perfect
-  plant for you. ✔️ Check how to care for it so that it do that it grows healthy."
+  plant for you. ✔️ Check how to care for it so that it grows healthy."
 intro: Yucca is one of the most attractive plants that often appears in gardens. Its
   large, snow-white flowers can amaze even the pickiest gardener. It requires a lot
   of sun, but that's no problem in the open space. How to grow this plant? Before
