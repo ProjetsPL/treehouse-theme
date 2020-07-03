@@ -18,7 +18,7 @@ main_keywords:
 - grey kitchen walls
 toc: true
 promoted: false
-update_date: 2020-05-28
+update_date: 2020-07-03
 title: Amazing Kitchen Designs – Check 7 Inspiring Grey Kitchen Ideas
 description: "Grey kitchen is a classic, but it doesn't have to be boring! \U0001F4A1
   Looking for grey kitchen ideas? ➡️ Check the best gray kitchen cabinets designs."
@@ -104,12 +104,33 @@ When deciding upon white kitchen cabinets and a grey countertop, it is advised t
 Grey kitchen cabinets are often used in many interior designs, and although they look **simple and classical,** they can be used in many ways. There are **3 rules** that make grey kitchen cabinets design far easier:
 
 {:.list.list-positive}
-* **Lower cabinets in grey** – placing grey kitchen cabinets at the bottom is one of the most popular solutions. Dark bottom and light top can visually take weight off the walls and make the room look bigger.
-* **Upper kitchen shelves in grey color** – grey kitchen cupboards in the upper level look very elegant. They make the kitchen look classy and refined.
+
+* **Lower cabinets in grey** – placing grey kitchen cabinets at the bottom is one of the most popular solutions. Dark bottoms and light tops can visually take weight off the walls and make the room look bigger.
+* **Upper kitchen shelves in grey color** – upper level grey kitchen cupboards look very elegant. They make the kitchen look classy and refined.
 * **All in grey** – grey fronts, counters, appliances and fixtures made of stainless steel is an interesting combination, and it will be trendy for a long time.
 
 {:.distinction.distinction-warning}
-Grey kitchen furniture might visually overwhelm the whole interior, therefore it should be applied in large, spacious kitchens only.
+Grey kitchen furniture might overwhelm the whole interior visually, therefore it should be applied in large, spacious kitchens only.
+
+Notica that there are many shades of grey and each of them might make the kitchen look completely different. The recently popular **cool grey is starting to give way to warmer tones in 2020**. If you decide to buy furniture in this color, you might use a delicate tone of gray as a basis – on the walls. Make sure, however, to pick the colors carefully – use a color chart to help you.
+
+{% fig %}
+
+![Grey kitchen cabinets set](/uploads/szara-kuchnia-nowoczesna.jpg "Grey kitchen cabinets set")
+
+{% endfig %}
+
+{% fig %}
+
+![Warm grey kitchen](/uploads/szara-kuchnia-nowoczesny-styl.jpg "Warm grey kitchen")
+
+{% endfig %}
+
+{% fig %}
+
+![Grey kitchen with various shades](/uploads/szara-kuchnia-cieply-odcien.jpg "Grey kitchen with various shades")
+
+{% endfig %}
 
 ## What to match dark grey kitchen cabinets with so that they look good?
 
@@ -119,6 +140,18 @@ If grey kitchen cabinets have dark shade, you might combine them with light wall
 
 {% fig %}
 ![What to match dark grey kitchen cabinets with so that they look good?](/uploads/szara-kuchnia-glowne.jpg "What to match dark grey kitchen cabinets with so that they look good?")
+{% endfig %}
+
+{% fig %}
+
+![A modern grey kitchen](/uploads/szara-kuchnia-minimalizm.jpg "A modern grey kitchen")
+
+{% endfig %}
+
+{% fig %}
+
+![A modern grey kitchen - bright shades](/uploads/szara-kuchnia-stylowa.jpg "A modern grey kitchen - bright shades")
+
 {% endfig %}
 
 {:.distinction.distinction-information}
