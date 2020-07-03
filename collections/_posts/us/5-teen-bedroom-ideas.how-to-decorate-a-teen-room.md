@@ -128,4 +128,12 @@ Seemingly unimportant details often decide about a succesful interior design. **
 
 Remember that a teen bedroom should be a space in which the **teenager feels good**. Therefore – suggest, but do not make all the decisions. This way you can not only create a well designed interior – together, but also gain trust, which will benefit you in the future.
 
-> 
+{% faqItem %}
+{% faqQuestion %}
+How to decorate a teenage room?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+When designing a teen bedroom, make sure to plan the available space carefully. Choose neutral wall colors so that you don't have to repaint them in case your teen's taste changes. Pick accessories that match your child's interests to add some character. Remember that the teen room is for the teen – design it together with your child so that they feel good in it.
+{% endfaqAnswer %}
+{% endfaqItem %}
