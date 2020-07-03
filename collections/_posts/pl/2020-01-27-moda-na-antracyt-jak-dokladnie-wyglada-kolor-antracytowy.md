@@ -7,7 +7,7 @@ description: "Szukasz koloru, który będzie idealnie pasował do każdego wnęt
   Postaw na antracyt! Kolor antracyt to prawdziwy hit 2020 roku. Przekonaj się sam."
 image: "/uploads/moda-na-antracyt.png"
 promoted: true
-update_date: 2020-05-08
+update_date: 2020-07-03
 intro: Antracyt to kolor uniwersalny. Połączenie szarości z ciemniejszymi barwami
   może być wykorzystane w wielu odsłonach. Antracyt bardzo często mylony się z kolorem
   grafitowym lub barwą szarą - podczas, kiedy jest on odcieniem wyjątkowym. Kolor
@@ -28,19 +28,23 @@ related_products:
 product_category: lamp
 
 ---
-## Antracyt - jaki to dokładnie kolor?
+## Antracyt - jaki to kolor?
 
 **Kolor antracytowy** to odcień określany także jako grafit. Dla niektórych to barwa brunatna charakteryzująca np. **węgiel kopalny** czy inne **skały organogeniczne**. Antracyt w kodzie hex występuje jako #364135, w systemie RAL pod numerem 7016 szary antracytowy. Kolor antracyt to **unikalne połączenie** odcienia szarego i barwy czarnej.
 
 Antracyt to bardzo intrygująca barwa. Na czym polega tak naprawdę jego fenomen? Jest on zbliżony do czerni, jednak ma wyraźnie jaśniejszy odcień. To czyni go wyjątkowym.
 
-Ten rodzaj szarego znacznie zyskał na popularności w ostatnich latach. Jest to jednak kolor dosyć trudny w zastosowaniu. **Antracytowy w aranżacji wnętrz** należy wkomponować w sposób ostrożny i umiejętny. Łatwo przytłoczyć pokój zbyt dużą ilością tej ciemnej barwy. Najlepiej stosować go w przestronnych wnętrzach. Nie oznacza to jednak, że w przypadku mniejszych pomieszczeń trzeba z niego całkowicie rezygnować. Warto natomiast w takim przypadku postawić na dodatki.
+## Czy antracyt pasuje do domowych aranżacji wnętrz?
+
+Kolor antracytowy **doskonale pasuje do domowych wnętrz**, dlatego właśnie ten rodzaj szarego znacznie zyskał na popularności w ostatnich latach. Jest to jednak kolor dosyć trudny w zastosowaniu. **Antracytowy w aranżacji wnętrz** należy wkomponować w sposób ostrożny i umiejętny. Łatwo przytłoczyć pokój zbyt dużą ilością tej ciemnej barwy. Najlepiej stosować go w przestronnych wnętrzach. Nie oznacza to jednak, że w przypadku mniejszych pomieszczeń trzeba z niego całkowicie rezygnować. Warto natomiast w takim przypadku postawić na dodatki.
 
 Jeżeli wnętrza Twojego domu są przestronne, ale Ty sam nie masz pojęcia, jak właściwie wykorzystać antracytowy kolor pomoże "okiełznać" Ci specjalista do spraw aranżacji wnętrz. Skontaktuj się z kompetentną osobą, przedstaw jej swoje oczekiwania i **czekaj na gotowy projekt**. To rozwiązanie, które wybiera coraz większa grupa osób, chcących wprowadzić do swoich wnętrz kolor antracyt.
 
 {% fig %}
 ![Antracyt - jaki to dokładnie kolor?](/uploads/antracyt-co-to-za-kolor.jpg "Antracyt - jaki to dokładnie kolor?")
 {% endfig %}
+
+## Do jakiego stylu najlepiej pasuje kolor antracytowy?
 
 **Antracytowy jest kolorem uniwersalnym**, co zostało już wcześniej zaznaczone - w związku z tym można go dostosować tak naprawdę do każdego stylu. Dobrze sprawdzi się w nowoczesnych aranżacjach wnętrz. Pasuje szczególnie do **stylu skandynawskiego, industrialnego, jak i minimalistycznego**. Umiejętnie dopasowany kolor antracytowy nada pomieszczeniu indywidualnego i wyjątkowego charakteru, ożywiając wnętrze i podkreślając elementy wystroju.
 
