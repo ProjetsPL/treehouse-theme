@@ -49,7 +49,7 @@ Tego typu minimalistyczne i jednocześnie **bardzo nowoczesne lampy do salonu** 
 
 **Klasyczne klosze z przezroczystego szkła** to prawdziwy hit mody w ostatnim czasie. Istnieje jednak równie ciekawe i kontrowersyjne rozwiązanie, jakim jest wykorzystanie samej żarówki, jako oświetlenia salonu, czy innego pomieszczenia domowego. Taki pomysł jest charakterystyczny szczególnie w mieszkaniach, czy domach urządzonych w stylu loftowych - nawiązującym do powierzchni pofabrykowych. Te cieszą się ogromnym zainteresowaniem szczególnie u młodszej części społeczeństwa.
 
-{:.list.list-positive}
+{:.distinction.distinction-information}
 Jeżeli decydujesz się na wykorzystanie samej żarówki - bez dekoracyjnego klosza, pamiętaj, aby jej oprawa była dobrze dopasowana. Możesz wybierać różne kolory - i chociaż najpopularniejsza w tym przypadku jest czerń, to równie ciekawie może wyglądać biel, złoto lub srebro.
 
 {% fig %}
@@ -138,7 +138,7 @@ Absolutnie **najpopularniejszym rozwiązaniem w 2020 roku jest zastosowanie konc
 
 **Podłogowe lampy do salonu** to doskonałe wsparcie głównych punktów świetlnych w pomieszczeniu. Przede wszystkim są one pomocne, kiedy wieczorami lubisz sporo czytać. Dobrze doświetlona książka to troska o kondycję oczu. Jednak takie lampy mają także funkcję dekoracyjną.
 
-{:.list.list-positive}
+{:.distinction.distinction-information}
 Jeszcze kilka lat temu znacznie chętniej wybierane były niewielkie lampki, które nie rzucały się zbytnio w oczy. Obecnie w modzie są duże abażury zawieszone na charakterystycznie wygiętej nodze. To idealne rozwiązanie do sporych przestrzeni salonowych.
 
 {% fig %}
