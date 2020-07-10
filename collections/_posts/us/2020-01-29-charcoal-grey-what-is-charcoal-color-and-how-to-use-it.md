@@ -8,7 +8,7 @@ description: "Dreaming of a classy color to make your interior look stylish? \U0
   to its popularity!"
 image: "/uploads/moda-na-antracyt.png"
 promoted: false
-update_date: 2020-05-21
+update_date: 2020-07-10
 intro: Charcoal is a versatile color that can be used for many purposes. It is usually
   described as a mix of grey with a trace of black or navy blue. Very often mistaken
   for graphite, in reality it is a completely different, unique shade. Charcoal can
@@ -30,13 +30,17 @@ main_keywords:
 
 Charcoal is a very intriguing color. Why is it so popular? It is very close to black, however it is noticeably brighter. It's one of the darkest tones of gray - and this feature makes it special.
 
-Although this type of color recently became very popular, it might be quite difficult to use in interior arrangement. Combining **charcoal with other home decor elements** should be done very carefully and skillfully. The reason for that is the fact that a color that is too dark can easily overwhelm a room. Charcoal works best in spacious and well illuminated interiors. If the room is quite small, however, it does not mean that you should avoid the color. In this case instead of painting the walls it is better to use charcoal accessories.
+## Charcoal – a suitable color for home decor?
+
+Charcoal is a color that works perfectly in home interiors. This is the reason why this particular shade of gray gained so much popularity in the recent years. Nonetheless, it's a difficult color to use.Combining **charcoal with other home decor elements** should be done very carefully and skillfully. It's very easy to overwhelm the room with too much of this dark shade. Charcoal works best in spacious and well illuminated interiors. If the room is quite small, however, it does not mean that you should avoid the color. In this case it is better to use charcoal accessories rather than paint the walls.
 
 If your home is spacious but you have no idea how to use charcoal - refer to the help of a specialist. Contact a competent person, explain them what exactly you expect and **wait for a project fitted for your needs.** This solution is becoming increasingly popular among those who want to use charcoal color in their homes.
 
 {% fig %}
 ![Charcoal - what color is it, exactly?](/uploads/antracyt-co-to-za-kolor.jpg "Charcoal - what color is it, exactly?")
 {% endfig %}
+
+## What style works best with charcoal color?
 
 As mentioned before, charcoal is quite a universal shade. For this reason it can be easily suited to basically any interior design. It fits modern styles, such as **scandinavian, industrial and minimalistic**. If combined well, charcoal can make a room look special and unique, accentuating particular elements.
 
