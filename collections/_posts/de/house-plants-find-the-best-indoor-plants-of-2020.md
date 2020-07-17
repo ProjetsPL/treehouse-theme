@@ -29,6 +29,7 @@ intro: Do you grow potted plants at home? There are certain species that not onl
   the most popular house plants of 2020.
 image: "/uploads/jak-pielegnowac-rosliny-doniczkowe.jpg"
 related_products: []
+published: false
 
 ---
 ## House plants – what should you know about them?
