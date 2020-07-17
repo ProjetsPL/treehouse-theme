@@ -22,6 +22,7 @@ main_keywords:
 - paving slabs
 - how to lay paving stones
 - how to clean paving stones
+published: false
 
 ---
 ## Paving stones - choosing the right material

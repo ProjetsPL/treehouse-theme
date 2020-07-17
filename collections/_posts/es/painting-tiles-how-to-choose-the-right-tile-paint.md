@@ -23,6 +23,7 @@ main_keywords:
 - 'how to paint tile '
 - how to paint ceramic tile
 - how to paint bathroom tile
+published: false
 
 ---
 ## Painting tile - a quick makeover
