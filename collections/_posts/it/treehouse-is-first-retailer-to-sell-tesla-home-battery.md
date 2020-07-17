@@ -12,9 +12,9 @@ intro: AUSTIN — Texas startup TreeHouse will play a pivotal role in getting Te
   just-unveiled home battery to market. The maker of the premium electric car has
   chosen TreeHouse as the first retailer authorized to sell its groundbreaking home
   energy storage battery, the Powerwall.
+published: false
 
 ---
-
 “This is really going to transform the way homes are powered,” said TreeHouse co-founder and CEO Jason Ballard, speaking at Tesla’s energy storage event in Hawthorne, Calif. “I think in the near future, having a battery in your home will be as normal as having a water heater or a dishwasher.”
 
 Derived from the battery technology in Tesla’s electric vehicles, the new Tesla energy storage systems will bridge the gap between when renewable energy is generated and and when it is needed. For instance, the battery can stockpile power produced by a homeowner’s solar panels or wind power produced during off-peak hours.

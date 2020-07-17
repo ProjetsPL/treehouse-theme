@@ -24,6 +24,7 @@ main_keywords:
 - what is a terrarium
 - how to plant a terrarium
 - how to make terrarium plants
+published: false
 
 ---
 ## What is a terrarium? Tiny forest in a glass

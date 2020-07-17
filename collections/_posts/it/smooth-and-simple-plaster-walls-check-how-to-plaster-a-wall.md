@@ -22,6 +22,7 @@ intro: Finishing a wall with plaster is a popular method to get a smooth and aes
   and even!
 image: "/uploads/jak-latwo-wykorzystac-gladz-gipsowa-do-wyrownania-scian.jpg"
 related_products: []
+published: false
 
 ---
 ## What is plaster?
