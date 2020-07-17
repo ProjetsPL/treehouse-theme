@@ -79,6 +79,14 @@ sections:
   match: "**/*"
   new_doc_ext: md
 - type: heading
+  label: DE
+- type: heading
+  label: ES
+- type: heading
+  label: FR
+- type: heading
+  label: IT
+- type: heading
   label: Jekyll
 - type: document
   path: _config.yml
