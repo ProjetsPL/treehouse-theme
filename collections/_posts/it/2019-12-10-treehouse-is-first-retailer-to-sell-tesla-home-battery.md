@@ -12,6 +12,7 @@ intro: AUSTIN — Texas startup TreeHouse will play a pivotal role in getting Te
   just-unveiled home battery to market. The maker of the premium electric car has
   chosen TreeHouse as the first retailer authorized to sell its groundbreaking home
   energy storage battery, the Powerwall.
+published: false
 
 ---
 
