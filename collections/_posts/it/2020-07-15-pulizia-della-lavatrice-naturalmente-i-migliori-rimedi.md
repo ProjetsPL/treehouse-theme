@@ -1,50 +1,49 @@
 ---
 layout: post
-date: 2019-12-03T23:00:00.000+00:00
+date: 2020-07-15
 toc: true
-title: Cleaning the Washing Machine Naturally - The Best Remedies
-description: "How to clean the washing machine naturally? ➡️ Learn the the most effective
-  methods for cleaning the washing machine. \U0001F9FD It’s very easy!"
+title: Pulizia della lavatrice naturalmente - I migliori rimedi
+description: "Come pulire la lavatrice in modo naturale? ➡️ Scoprite i metodi più
+  efficaci per la pulizia della lavatrice. \U0001F9FD È molto facile!"
 image: "/uploads/Cleaning the washing machine naturally.jpg"
-update_date: 2020-06-05
-intro: Cleaning the washing machine is a commonly neglected activity. Meanwhile, it
-  is an important part of its maintenance. Ignoring the necessity to clean your washing
-  machine may lead to some serious consequences. As a result, using the device might
-  not only be unpleasant, but also highly inefficient. For this reason, you must remember
-  about regular cleaning of the laundry machine.
+update_date: 2020-07-15
+intro: La pulizia della lavatrice è un'attività comunemente trascurata. Nel frattempo,
+  è una parte importante della sua manutenzione. Ignorare la necessità di pulire la
+  lavatrice può portare ad alcune gravi conseguenze. Di conseguenza, l'utilizzo dell'apparecchio
+  potrebbe non solo essere spiacevole, ma anche altamente inefficiente. Per questo
+  motivo, è necessario ricordare la pulizia regolare della lavatrice.
 promoted: false
 main_keywords:
-- cleaning the washing machine
-- cleaning washing machine with vinegar
-published: false
+- pulizia della lavatrice
+- pulizia della lavatrice con aceto
 
 ---
-## Why cleaning the washing machine is important?
+## Perché è importante pulire la lavatrice?
 
-Cleaning your washing machine is crucial, as most of its components are in constant **contact with dirt** coming off the clothes. They are also **exposed to water**, which leads to forming limescale on the heating element, drum and filters. If left to such state, the machine might start to malfunction. The heater is going to take more time to warm up the water. Pressure in the tubes can weaken because of the scale accumulating inside.
+La pulizia della lavatrice è fondamentale, in quanto la maggior parte dei suoi componenti sono in costante contatto con lo sporco che si stacca dai vestiti. Sono anche esposti all'acqua, che porta alla formazione di calcare sull'elemento riscaldante, sul tamburo e sui filtri. Se lasciata in questo stato, la macchina potrebbe iniziare a funzionare male. Il riscaldatore impiegherà più tempo a riscaldare l'acqua. La pressione nei tubi può indebolirsi a causa del calcare che si accumula all'interno.
 
 {:.distinction.distinction-information}
 
-If the limescale is not removed regularly, the mentioned parts will eventually get broken. Repairing a broken device generates additional costs. It is often the case that fixing the broken elements is simply too expensive, therefore it might be more economic to replace the whole machine. Having that in mind, one can assume that **cleaning the washing machine saves it from a serious breakdown**.
+Se il calcare non viene rimosso regolarmente, le parti menzionate alla fine si romperanno. La riparazione di un dispositivo rotto genera costi aggiuntivi. Spesso il fissaggio degli elementi rotti è semplicemente troppo costoso, quindi potrebbe essere più economico sostituire l'intera macchina. Tenendo conto di questo, si può presumere che la pulizia della lavatrice la salvi da un grave guasto.
 
-### What will happen if the washing machine is not cleaned regularly?
+### Cosa succede se la lavatrice non viene pulita regolarmente?
 
-If you neglect cleaning the washing machine, the continuous contact with water, warm environment and poor ventilation inside of it will create perfect conditions for organisms such as yeast and fungi. Mold is **very dangerous for human health**, as it releases toxic substances into the air. 
+Se si trascura la pulizia della lavatrice, il continuo contatto con l'acqua, l'ambiente caldo e la scarsa ventilazione al suo interno creeranno condizioni perfette per organismi come lieviti e funghi. La muffa è molto pericolosa per la salute umana, poiché rilascia sostanze tossiche nell'aria.
 
-They can cause problems with:
+Con esse possono causare problemi:
 
-* respiratory system,
-* nervous system,
-* skin,
-* allergies,
-* constant feeling of tiredness
-* runny nose.
+* sistema respiratorio,
+* sistema nervoso,
+* la pelle,
+* allergie,
+* costante sensazione di stanchezza
+* naso che cola.
 
-Yeast occupying your washing machine might be the cause of an **unpleasant smell**, which might affect the laundry. **Thorough and systematic cleaning** of the washing machine will prevent the aforementioned issues. It not only minimizes the risk of the device malfunction, but also makes it more efficient.
+Il lievito che occupa la lavatrice potrebbe essere la causa di un odore sgradevole, che potrebbe influenzare il bucato. Una pulizia accurata e sistematica della lavatrice eviterà i suddetti problemi. Non solo riduce al minimo il rischio di malfunzionamento dell'apparecchio, ma lo rende anche più efficiente.
 
-## How to clean the washing machine - home remedies
+## Come pulire la lavatrice - rimedi casalinghi
 
-Cleaning the washing machine with home-made solutions becomes increasingly popular - especially at homes with small children. There is a wide range of ready-made **products for cleaning a washing machine**. However such cleaners might not only be expensive, but also harmful.
+La pulizia della lavatrice con soluzioni fatte in casa diventa sempre più popolare - soprattutto nelle case con bambini piccoli. Esiste una vasta gamma di prodotti pronti per la pulizia di una lavatrice. Tuttavia, tali prodotti potrebbero non solo essere costosi, ma anche dannosi.
 
 {% fig %}
 
@@ -54,55 +53,55 @@ Cleaning the washing machine with home-made solutions becomes increasingly popul
 
 {:.distinction.distinction-warning}
 
-Synthetic cleaners might cause skin irritation and have adverse allergic reactions for sensitive persons. For this reasen, if you're wondering how to clean the washing machine, consider natural remedies.
+I detergenti sintetici possono causare irritazione cutanea e avere reazioni allergiche avverse per le persone sensibili. Per questo motivo, se vi state chiedendo come pulire la lavatrice, considerate i rimedi naturali.
 
-Such methods usually require ingredients that can be found in every kitchen. They are cheap and **using them for cleaning the washing machine is safe for human health**.
+Tali metodi di solito richiedono ingredienti che si possono trovare in ogni cucina. Sono economici e il loro utilizzo per la pulizia della lavatrice è sicuro per la salute umana.
 
-### Cleaning washing machine with baking soda
+### Pulizia della lavatrice con bicarbonato di sodio
 
 {% fig %}
 ![Cleaning washing machine with baking soda](/uploads/Cleaning washing machine with baking soda.jpg "Cleaning washing machine with baking soda")
 {% endfig %}
 
-**Bicarbonate**, in other words - **baking soda** is quite a versatile substance. It is used mainly in the kitchen for baking purposes. It is also an ingredient of many home-made cosmetics, such as face masks and scrubs.
+Il bicarbonato, in altre parole, il bicarbonato di sodio è una sostanza molto versatile. Viene utilizzato principalmente in cucina per la cottura al forno. È anche un ingrediente di molti cosmetici fatti in casa, come maschere facciali e scrub.
 
-**Baking soda** is also a perfect cleaner. It removes all types of dirt, limescale and stains from the cleaned surfaces. It is a brilliant odour remover. **Cleaning the washing machine with baking soda** helps to protect its parts from scale and therefore prolongs their lifetime. The powder removes all kinds of unpleasant odours, which could affect the laundry.
+Il bicarbonato di sodio è anche un perfetto detergente. Rimuove ogni tipo di sporco, calcare e macchie dalle superfici pulite. È un brillante antiodore. La pulizia della lavatrice con il bicarbonato di sodio aiuta a proteggere le sue parti dal calcare e quindi ne prolunga la durata. La polvere rimuove tutti i tipi di odori sgradevoli, che potrebbero danneggiare il bucato.
 
 {:.distinction.distinction-information}
 
-**Cleaning your washing machine with baking soda** is not very difficult. All that is needed is half a glass of baking soda, which should be put into the detergent drawer (the powder compartment). To wash the machine, run an empty wash cycle using the highest possible temperature (usually 90 Celsius degrees). The spin speed in this case is not important - it can be set to the lowest. If needed, you can load the machine with some towels or kitchen cloths.
+Pulire la lavatrice con il bicarbonato di sodio non è molto difficile. Tutto ciò che serve è mezzo bicchiere di bicarbonato di sodio, che dovrebbe essere messo nel cassetto del detersivo (lo scomparto della polvere). Per lavare la macchina, eseguire un ciclo di lavaggio a vuoto utilizzando la temperatura più alta possibile (di solito 90 gradi Celsius). La velocità di centrifuga in questo caso non è importante - può essere impostata al minimo. Se necessario, potete caricare la macchina con alcuni asciugamani o panni da cucina.
 
-### Cleaning washing machine with vinegar
+### Pulizia della lavatrice con aceto
 
-Another solution for **cleaning the washing machine is vinegar**. It is a good bleach with antistatic properties. It can be used to wash towels, it removes detergent residues and increases fabric’s ability to absorb water.
+Un'altra soluzione per la pulizia della lavatrice è l'aceto. Si tratta di una buona candeggina con proprietà antistatiche. Può essere usato per lavare gli asciugamani, rimuove i residui di detersivo e aumenta la capacità del tessuto di assorbire l'acqua.
 
-Similar to baking soda, vinegar is able to remove scent. To **clean the washing machine**, pour 1-2 litres of vinegar into the detergent compartment and set a high temperature washing cycle. **Vinegar will remove limescale**, mold and bacteria.
+Simile al bicarbonato di sodio, l'aceto è in grado di rimuovere l'odore. Per pulire la lavatrice, versare 1-2 litri di aceto nello scomparto del detersivo e impostare un ciclo di lavaggio ad alta temperatura. L'aceto rimuoverà il calcare, la muffa e i batteri.
 
 {:.distinction.distinction-warning}
 
-The only issue with this method is the strong, sour smell that might spread across the entire household. **Ventilating the rooms**, however, should quickly get rid of the scent. It might also be helpful to set another washing cycle with a little bit of washing powder or liquid. Its smell will kill the vinegar odour.
+L'unico problema di questo metodo è l'odore forte e acido che potrebbe diffondersi in tutta la famiglia. La ventilazione delle stanze, tuttavia, dovrebbe eliminare rapidamente l'odore. Potrebbe anche essere utile impostare un altro ciclo di lavaggio con un po' di detersivo o liquido. Il suo odore ucciderà l'odore di aceto.
 
-### Cleaning washing machine with citric acid
+### Pulizia della lavatrice con acido citrico
 
-Apart from vinegar and baking soda, there is also a third product that can be used to **clean the washing machine - citric acid**. It can be used to descale various appliances, not only washing machines. Citric acid is commonly used to remove limescale from devices such as kettles and coffeemakers.
+Oltre all'aceto e al bicarbonato di sodio, esiste anche un terzo prodotto che può essere utilizzato per pulire la lavatrice: l'acido citrico. Può essere usato per decalcificare vari elettrodomestici, non solo le lavatrici. L'acido citrico è comunemente usato per rimuovere il calcare da apparecchi come i bollitori e le caffettiere.
 
 {:.distinction.distinction-information}
 
-**How to clean the washing machine with citric acid?** Simply put 120 g of the product in the powder compartment. Similar to the previous methods - set a high temperature washing cycle.
+Come pulire la lavatrice con acido citrico? Basta mettere 120 g di prodotto nello scomparto della polvere. Come nei metodi precedenti - impostare un ciclo di lavaggio ad alta temperatura.
 
-### Cleaning washing machine with vinegar and baking soda
+### Pulizia della lavatrice con aceto e bicarbonato di sodio
 
-If the washing machine is very filthy and the previously mentioned methods do not work, you can combine the ingredients. For instance, **vinegar and baking soda** can be used to make an extremely effective cleaning scrub. To do it, mix 10 tablespoons with baking soda until solid paste is formed. Place the pulp at each problematic spot and leave it for a few hours. Finally, rinse it using a damp sponge or cloth, then wipe until dry. You can also **boost vinegar with citric acid**. The proportions are: 20 g of citric acid per one litre.
+Se la lavatrice è molto sporca e i metodi precedentemente citati non funzionano, è possibile combinare gli ingredienti. Per esempio, l'aceto e il bicarbonato di sodio possono essere usati per fare uno scrub di pulizia estremamente efficace. Per farlo, mescolare 10 cucchiai con il bicarbonato di sodio fino a formare una pasta solida. Mettete la polpa in ogni punto problematico e lasciatela per qualche ora. Infine, sciacquare con una spugna o un panno umido, quindi pulire fino a quando non si asciuga. Si può anche aumentare l'aceto con acido citrico. Le proporzioni sono: 20 g di acido citrico per un litro.
 
-## Cleaning the washing machine - essential issues
+## Pulizia della lavatrice - questioni essenziali
 
-Just rinsing the **washing machine with a cleaning solution** might be not enough. One must pay attention to each part of the appliance. The most important components are:
+Il solo risciacquo della lavatrice con una soluzione detergente potrebbe non essere sufficiente. È necessario prestare attenzione ad ogni parte dell'apparecchio. I componenti più importanti sono:
 
 {:.list.list-positive}
 
-* **Filters** - usually they are located in the front of the machine. You should check it for small objects that often get caught in there. Small parts of garment, such as socks also often get in the filter. After cleaning it thoroughly, rinse it with pure water and put it back in its place.
-* **Detergent drawer** - this spot is very likely to grow mold. If the washing machine has been not cleaned for a very long time, the drawer should be removed from its socket and thoroughly scrubbed. It is best to use a sponge and an appropriate cleaning product, or soda. Apart from the drawer, the socket itself should be cleaned as well.
-* **Seal and other rubber parts** - those components are the most susceptible for damage from water. In front load types the most filth residues can be found under the door seal, therefore it should be cleaned regularly. The aforementioned paste made of vinegar and baking soda will be perfect for this purpose. It makes cleaning quick and easy.
+* Filtri - di solito si trovano nella parte anteriore della macchina. Dovreste controllare se ci sono piccoli oggetti che spesso rimangono impigliati. Anche piccole parti dell'indumento, come le calze, entrano spesso nel filtro. Dopo averlo pulito a fondo, sciacquatelo con acqua pura e rimettetelo al suo posto.
+* Cassetto del detersivo - questo punto è molto probabile che cresca della muffa. Se la lavatrice non è stata pulita per molto tempo, il cassetto deve essere rimosso dalla sua sede e strofinato a fondo. È meglio usare una spugna e un prodotto per la pulizia appropriato, o una soda. Oltre al cassetto, si dovrebbe pulire anche la presa stessa.
+* Guarnizioni e altre parti in gomma - questi componenti sono i più suscettibili ai danni causati dall'acqua. Nei tipi a carico frontale i residui più sporchi si trovano sotto la guarnizione della porta, quindi dovrebbero essere puliti regolarmente. La pasta di cui sopra a base di aceto e bicarbonato di sodio sarà perfetta per questo scopo. Rende la pulizia facile e veloce.
 
 {% fig %}
 ![Cleaning the washing machine - essential issues](/uploads/cleaning-the-washing-machine-essential-issues.jpg "Cleaning the washing machine - essential issues")
@@ -110,52 +109,52 @@ Just rinsing the **washing machine with a cleaning solution** might be not enoug
 
 {:.distinction.distinction-warning}
 
-The mentioned above parts are most prone to filth, scale and mold growth, therefore they need careful attention. **Routine cleaning the washing machine** and its components will prevent major issues with the device in the future.
+Le parti sopra menzionate sono più soggette a sporcizia, incrostazioni e crescita di muffe, quindi hanno bisogno di un'attenta attenzione. La pulizia di routine della lavatrice e dei suoi componenti eviterà in futuro problemi importanti con il dispositivo.
 
-## How to clean the washing machine - cleaning tools
+## Come pulire la lavatrice - pulizia degli utensili
 
-To just wipe the surface, use a soft cloth. You can also **use a hard sponge** to scrub stains that are difficult to remove. Plastic bristle brushes are excellent for cleaning as well. However they should be used with caution when scrubbing delicate elements such as rubber seals. To access hard-to-reach places (for instance detergent drawer socket), you can use an old toothbrush.
+Per pulire la superficie, utilizzare un panno morbido. È anche possibile utilizzare una spugna dura per strofinare le macchie difficili da rimuovere. Le spazzole di setole di plastica sono eccellenti anche per la pulizia. Tuttavia devono essere usate con cautela quando si strofinano elementi delicati come le guarnizioni in gomma. Per accedere ai punti difficili da raggiungere (ad esempio la presa del cassetto del detersivo), potete usare un vecchio spazzolino da denti.
 
-**Cleaning the washing machine should be performed on a regular basis**. This important activity increases durability of the device and makes it more efficient. Routinely cleansed washing machine will wash the laundry better, making it fresh and pleasant-smelling. Natural cleaners are definitely worth the effort. They are highly effective and do not cost much. **Soda, vinegar and citric acid** can be found in almost every household. Using them is an easy way to take care of your washing machine and guarantee its long-lasting performance.
+La pulizia della lavatrice dovrebbe essere effettuata regolarmente. Questa importante attività aumenta la durata dell'apparecchio e lo rende più efficiente. Una lavatrice pulita di routine laverà meglio il bucato, rendendolo fresco e profumato. I detergenti naturali valgono sicuramente lo sforzo. Sono molto efficaci e non costano molto. Soda, aceto e acido citrico si trovano in quasi tutte le case. Usarli è un modo semplice per prendersi cura della lavatrice e garantirne la durata nel tempo.
 
-## Cleaning the washing machine naturally - FAQ
+## Pulire la lavatrice in modo naturale - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-Cleaning the washing machine with vinegar - in what temperature?
+Pulire la lavatrice con aceto - a che temperatura?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Cleaning the washing machine using vinegar should involve the highest possible temperature. It speeds up the reaction of acid with limescale, and makes the cleaning more effective. The best temperature is 90°C.
+La pulizia della lavatrice con l'aceto deve essere effettuata alla massima temperatura possibile. Accelera la reazione dell'acido con il calcare e rende la pulizia più efficace. La temperatura migliore è di 90°C.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-Cleaning the washing machine - does it affect its durability?
+La pulizia della lavatrice - influisce sulla sua durata?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Cleaning the washing machine regularly is a very good way to prolong its life. Preventing the accumulation of scale on its parts is a guarantee that the device will run without fail for a long time.
+Pulire regolarmente la lavatrice è un ottimo modo per prolungarne la durata. Prevenire l'accumulo di calcare sulle sue parti è una garanzia che il dispositivo funzionerà senza problemi per lungo tempo.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How much does it cost to clean the washing machine?
+Quanto costa pulire la lavatrice?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The cost of natural cleaning remedies is remarkably low. The only products to buy are vinegar, baking soda or citric acid, which are very cheap. Their price is a fraction of the store-bought chemical cleaners.
+Il costo dei rimedi naturali per la pulizia è notevolmente basso. Gli unici prodotti da acquistare sono aceto, bicarbonato di sodio o acido citrico, che sono molto economici. Il loro prezzo è una frazione dei detergenti chimici acquistati in negozio.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-Cleaning the washing machine - how often?
+Pulizia della lavatrice - con quale frequenza?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-It is advised to descale your washing machine once a month. Doing it will prevent scale and other substances from accumulating inside of the device. All of the parts, such as filters and the drawer, should be cleansed manually every six months.
+Si consiglia di decalcificare la lavatrice una volta al mese. In questo modo si eviterà l'accumulo di calcare e di altre sostanze all'interno dell'apparecchio. Tutte le parti, come i filtri e il cassetto, devono essere puliti manualmente ogni sei mesi.
 {% endfaqAnswer %}
 {% endfaqItem %}
