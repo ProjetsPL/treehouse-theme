@@ -23,6 +23,7 @@ main_keywords:
 - how to make a pallet bed
 - 'how to make a pallet bed frame '
 - how to make a pallet garden bed
+published: false
 
 ---
 ## Pallet - an idea for cheap furniture
