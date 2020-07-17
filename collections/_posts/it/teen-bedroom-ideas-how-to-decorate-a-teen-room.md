@@ -31,6 +31,7 @@ intro: A teen bedroom decoration is a real challenge for every parent. It's easi
   to your teen, letting them to choose the one they like the most.
 image: "/uploads/aranzacje-pokoju-mlodziezowego.jpg"
 related_products: []
+published: false
 
 ---
 ## Designing a teen bedroom – by yourself or with an expert?

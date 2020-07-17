@@ -34,6 +34,7 @@ intro: Your orchid doesn't bloom properly, and it lost its previous charm? This 
   for orchids so that they always look stunning!
 image: "/uploads/storczyk-glowne-1.jpg"
 related_products: []
+published: false
 
 ---
 ## Are there any orchid flower types that are easy to grow?
