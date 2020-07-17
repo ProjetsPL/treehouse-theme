@@ -90,10 +90,34 @@ sections:
   - blog-post
 - type: heading
   label: ES
+- type: directory
+  path: collections/_posts/es
+  label: Posty
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+  templates:
+  - blog-post
 - type: heading
   label: FR
+- type: directory
+  path: collections/_posts/fr
+  label: Posty
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+  templates:
+  - blog-post
 - type: heading
   label: IT
+- type: directory
+  path: collections/_posts/it
+  label: Posty
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+  templates:
+  - blog-post
 - type: heading
   label: Jekyll
 - type: document
