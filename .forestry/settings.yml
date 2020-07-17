@@ -80,6 +80,14 @@ sections:
   new_doc_ext: md
 - type: heading
   label: DE
+- type: directory
+  path: collections/_posts/de
+  label: Posty
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+  templates:
+  - blog-post
 - type: heading
   label: ES
 - type: heading
