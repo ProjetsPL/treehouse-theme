@@ -99,7 +99,7 @@ sections:
   label: Rankingi
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - ranking
 - type: directory

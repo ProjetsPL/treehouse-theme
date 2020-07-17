@@ -1,50 +1,52 @@
 ---
 layout: post
-date: 2019-12-03T23:00:00.000+00:00
+date: 2020-07-14
 toc: true
-title: Cleaning the Washing Machine Naturally - The Best Remedies
-description: "How to clean the washing machine naturally? ➡️ Learn the the most effective
-  methods for cleaning the washing machine. \U0001F9FD It’s very easy!"
+title: Natürliche Reinigung der Waschmaschine - die besten Abhilfemaßnahmen
+description: "Wie reinigt man die Waschmaschine auf natürliche Weise? ➡️ Lernen Sie
+  die effektivsten Methoden zur Reinigung der Waschmaschine kennen. \U0001F9FD Es
+  ist sehr einfach!"
 image: "/uploads/Cleaning the washing machine naturally.jpg"
-update_date: 2020-06-05
-intro: Cleaning the washing machine is a commonly neglected activity. Meanwhile, it
-  is an important part of its maintenance. Ignoring the necessity to clean your washing
-  machine may lead to some serious consequences. As a result, using the device might
-  not only be unpleasant, but also highly inefficient. For this reason, you must remember
-  about regular cleaning of the laundry machine.
+update_date: 2020-07-15
+intro: Die Reinigung der Waschmaschine ist eine häufig vernachlässigte Tätigkeit.
+  Inzwischen ist sie ein wichtiger Teil ihrer Wartung. Die Vernachlässigung der Notwendigkeit,
+  die Waschmaschine zu reinigen, kann schwerwiegende Folgen haben. Infolgedessen kann
+  die Benutzung des Gerätes nicht nur unangenehm, sondern auch höchst ineffizient
+  sein. Aus diesem Grund müssen Sie an die regelmäßige Reinigung der Waschmaschine
+  denken.
 promoted: false
 main_keywords:
-- cleaning the washing machine
-- cleaning washing machine with vinegar
+- Reinigung der Waschmaschine
+- Waschmaschine mit Essig reinigen
 published: false
 
 ---
-## Why cleaning the washing machine is important?
+## Warum ist die Reinigung der Waschmaschine wichtig?
 
-Cleaning your washing machine is crucial, as most of its components are in constant **contact with dirt** coming off the clothes. They are also **exposed to water**, which leads to forming limescale on the heating element, drum and filters. If left to such state, the machine might start to malfunction. The heater is going to take more time to warm up the water. Pressure in the tubes can weaken because of the scale accumulating inside.
+Die Reinigung Ihrer Waschmaschine ist von entscheidender Bedeutung, da die meisten ihrer Komponenten in ständigem Kontakt mit Schmutz stehen, der sich von der Kleidung löst. Sie sind auch Wasser ausgesetzt, was zur Kalkbildung auf dem Heizelement, der Trommel und den Filtern führt. In diesem Zustand kann es zu Fehlfunktionen der Maschine kommen. Das Heizelement wird mehr Zeit benötigen, um das Wasser aufzuwärmen. Der Druck in den Rohren kann durch den sich im Inneren ansammelnden Kalk schwächer werden.
 
 {:.distinction.distinction-information}
 
-If the limescale is not removed regularly, the mentioned parts will eventually get broken. Repairing a broken device generates additional costs. It is often the case that fixing the broken elements is simply too expensive, therefore it might be more economic to replace the whole machine. Having that in mind, one can assume that **cleaning the washing machine saves it from a serious breakdown**.
+Wenn der Kalk nicht regelmäßig entfernt wird, werden die genannten Teile irgendwann gebrochen. Die Reparatur eines defekten Gerätes verursacht zusätzliche Kosten. Oft ist die Reparatur der gebrochenen Elemente einfach zu teuer, so dass es wirtschaftlicher sein kann, die ganze Maschine zu ersetzen. Wenn man das bedenkt, kann man davon ausgehen, dass die Reinigung der Waschmaschine diese vor einer ernsthaften Panne bewahrt.
 
-### What will happen if the washing machine is not cleaned regularly?
+### Was passiert, wenn die Waschmaschine nicht regelmäßig gereinigt wird?
 
-If you neglect cleaning the washing machine, the continuous contact with water, warm environment and poor ventilation inside of it will create perfect conditions for organisms such as yeast and fungi. Mold is **very dangerous for human health**, as it releases toxic substances into the air. 
+Wenn Sie die Reinigung der Waschmaschine vernachlässigen, schaffen der ständige Kontakt mit Wasser, die warme Umgebung und die schlechte Belüftung im Inneren der Waschmaschine perfekte Bedingungen für Organismen wie Hefe und Pilze. Schimmelpilze sind sehr gefährlich für die menschliche Gesundheit, da sie giftige Substanzen in die Luft abgeben.
 
-They can cause problems with:
+Sie können Probleme mit verursachen:
 
-* respiratory system,
-* nervous system,
-* skin,
-* allergies,
-* constant feeling of tiredness
-* runny nose.
+* Atmungssystem,
+* Nervensystem,
+* Haut,
+* Allergien,
+* ständiges Gefühl der Müdigkeit
+* laufende Nase.
 
-Yeast occupying your washing machine might be the cause of an **unpleasant smell**, which might affect the laundry. **Thorough and systematic cleaning** of the washing machine will prevent the aforementioned issues. It not only minimizes the risk of the device malfunction, but also makes it more efficient.
+Hefe in der Waschmaschine kann die Ursache für einen unangenehmen Geruch sein, der die Wäsche beeinträchtigen kann. Durch eine gründliche und systematische Reinigung der Waschmaschine können die oben genannten Probleme vermieden werden. Sie minimiert nicht nur das Risiko einer Fehlfunktion des Gerätes, sondern macht es auch effizienter.
 
-## How to clean the washing machine - home remedies
+## Wie man die Waschmaschine reinigt - Hausmittel
 
-Cleaning the washing machine with home-made solutions becomes increasingly popular - especially at homes with small children. There is a wide range of ready-made **products for cleaning a washing machine**. However such cleaners might not only be expensive, but also harmful.
+Die Reinigung der Waschmaschine mit selbstgemachten Lösungen wird immer beliebter - vor allem in Heimen mit kleinen Kindern. Es gibt eine große Auswahl an fertigen Produkten für die Reinigung einer Waschmaschine. Solche Reinigungsmittel können jedoch nicht nur teuer, sondern auch schädlich sein.
 
 {% fig %}
 
@@ -54,55 +56,55 @@ Cleaning the washing machine with home-made solutions becomes increasingly popul
 
 {:.distinction.distinction-warning}
 
-Synthetic cleaners might cause skin irritation and have adverse allergic reactions for sensitive persons. For this reasen, if you're wondering how to clean the washing machine, consider natural remedies.
+Synthetische Reinigungsmittel können Hautreizungen verursachen und bei empfindlichen Personen unerwünschte allergische Reaktionen hervorrufen. Wenn Sie sich daher fragen, wie Sie die Waschmaschine reinigen können, sollten Sie natürliche Mittel in Betracht ziehen.
 
-Such methods usually require ingredients that can be found in every kitchen. They are cheap and **using them for cleaning the washing machine is safe for human health**.
+Solche Methoden erfordern normalerweise Zutaten, die in jeder Küche zu finden sind. Sie sind billig und ihre Verwendung zur Reinigung der Waschmaschine ist für die menschliche Gesundheit unbedenklich.
 
-### Cleaning washing machine with baking soda
+### Waschmaschine mit Backpulver reinigen
 
 {% fig %}
 ![Cleaning washing machine with baking soda](/uploads/Cleaning washing machine with baking soda.jpg "Cleaning washing machine with baking soda")
 {% endfig %}
 
-**Bicarbonate**, in other words - **baking soda** is quite a versatile substance. It is used mainly in the kitchen for baking purposes. It is also an ingredient of many home-made cosmetics, such as face masks and scrubs.
+Bikarbonat, mit anderen Worten - Backpulver ist eine recht vielseitige Substanz. Es wird vor allem in der Küche zum Backen verwendet. Es ist auch Bestandteil vieler hausgemachter Kosmetika, wie z.B. Gesichtsmasken und Peelings.
 
-**Baking soda** is also a perfect cleaner. It removes all types of dirt, limescale and stains from the cleaned surfaces. It is a brilliant odour remover. **Cleaning the washing machine with baking soda** helps to protect its parts from scale and therefore prolongs their lifetime. The powder removes all kinds of unpleasant odours, which could affect the laundry.
+Backpulver ist auch ein perfektes Reinigungsmittel. Es entfernt alle Arten von Schmutz, Kalk und Flecken von den gereinigten Oberflächen. Es ist ein brillanter Geruchsentferner. Die Reinigung der Waschmaschine mit Backpulver trägt dazu bei, die Teile der Waschmaschine vor Kalkablagerungen zu schützen, und verlängert somit ihre Lebensdauer. Das Pulver entfernt alle Arten von unangenehmen Gerüchen, die die Wäsche beeinträchtigen könnten.
 
 {:.distinction.distinction-information}
 
-**Cleaning your washing machine with baking soda** is not very difficult. All that is needed is half a glass of baking soda, which should be put into the detergent drawer (the powder compartment). To wash the machine, run an empty wash cycle using the highest possible temperature (usually 90 Celsius degrees). The spin speed in this case is not important - it can be set to the lowest. If needed, you can load the machine with some towels or kitchen cloths.
+Die Reinigung Ihrer Waschmaschine mit Backpulver ist nicht sehr schwierig. Sie brauchen nur ein halbes Glas Backpulver, das Sie in die Waschmittelschublade (das Pulverfach) legen. Um die Maschine zu waschen, führen Sie einen leeren Waschgang bei der höchstmöglichen Temperatur (normalerweise 90 Grad Celsius) durch. Die Schleudergeschwindigkeit ist in diesem Fall nicht wichtig - sie kann auf die niedrigste eingestellt werden. Falls nötig, können Sie die Maschine mit einigen Handtüchern oder Küchentüchern beladen.
 
-### Cleaning washing machine with vinegar
+### Waschmaschine mit Essig reinigen
 
-Another solution for **cleaning the washing machine is vinegar**. It is a good bleach with antistatic properties. It can be used to wash towels, it removes detergent residues and increases fabric’s ability to absorb water.
+Eine andere Lösung für die Reinigung der Waschmaschine ist Essig. Es ist ein gutes Bleichmittel mit antistatischen Eigenschaften. Es kann zum Waschen von Handtüchern verwendet werden, es entfernt Waschmittelrückstände und erhöht die Fähigkeit des Gewebes, Wasser aufzunehmen.
 
-Similar to baking soda, vinegar is able to remove scent. To **clean the washing machine**, pour 1-2 litres of vinegar into the detergent compartment and set a high temperature washing cycle. **Vinegar will remove limescale**, mold and bacteria.
+Ähnlich wie Backpulver ist Essig in der Lage, Gerüche zu entfernen. Um die Waschmaschine zu reinigen, gießen Sie 1-2 Liter Essig in das Waschmittelfach und stellen Sie einen Waschzyklus bei hoher Temperatur ein. Essig entfernt Kalk, Schimmel und Bakterien.
 
 {:.distinction.distinction-warning}
 
-The only issue with this method is the strong, sour smell that might spread across the entire household. **Ventilating the rooms**, however, should quickly get rid of the scent. It might also be helpful to set another washing cycle with a little bit of washing powder or liquid. Its smell will kill the vinegar odour.
+Das einzige Problem bei dieser Methode ist der starke, saure Geruch, der sich über den gesamten Haushalt ausbreiten könnte. Durch das Lüften der Räume sollte der Geruch jedoch schnell wieder verschwinden. Es könnte auch hilfreich sein, einen weiteren Waschgang mit ein wenig Waschpulver oder Flüssigkeit einzustellen. Sein Geruch wird den Essiggeruch abtöten.
 
-### Cleaning washing machine with citric acid
+### Reinigung der Waschmaschine mit Zitronensäure
 
-Apart from vinegar and baking soda, there is also a third product that can be used to **clean the washing machine - citric acid**. It can be used to descale various appliances, not only washing machines. Citric acid is commonly used to remove limescale from devices such as kettles and coffeemakers.
+Neben Essig und Backpulver gibt es noch ein drittes Produkt, das zur Reinigung der Waschmaschine verwendet werden kann - Zitronensäure. Sie kann zur Entkalkung verschiedener Geräte, nicht nur von Waschmaschinen, verwendet werden. Zitronensäure wird häufig verwendet, um Kalkablagerungen aus Geräten wie Wasserkochern und Kaffeemaschinen zu entfernen.
 
 {:.distinction.distinction-information}
 
-**How to clean the washing machine with citric acid?** Simply put 120 g of the product in the powder compartment. Similar to the previous methods - set a high temperature washing cycle.
+Wie reinigt man die Waschmaschine mit Zitronensäure? Geben Sie einfach 120 g des Produkts in das Pulverfach. Ähnlich wie bei den vorherigen Methoden - stellen Sie einen Waschzyklus mit hoher Temperatur ein.
 
-### Cleaning washing machine with vinegar and baking soda
+### Waschmaschine mit Essig und Backpulver reinigen
 
-If the washing machine is very filthy and the previously mentioned methods do not work, you can combine the ingredients. For instance, **vinegar and baking soda** can be used to make an extremely effective cleaning scrub. To do it, mix 10 tablespoons with baking soda until solid paste is formed. Place the pulp at each problematic spot and leave it for a few hours. Finally, rinse it using a damp sponge or cloth, then wipe until dry. You can also **boost vinegar with citric acid**. The proportions are: 20 g of citric acid per one litre.
+Wenn die Waschmaschine sehr schmutzig ist und die oben genannten Methoden nicht funktionieren, können Sie die Zutaten kombinieren. Zum Beispiel kann mit Essig und Backpulver ein äußerst wirksames Reinigungsmittel hergestellt werden. Dazu mischt man 10 Esslöffel mit Backpulver, bis eine feste Paste entsteht. Legen Sie den Brei an jede problematische Stelle und lassen Sie ihn einige Stunden stehen. Zum Schluss spülen Sie ihn mit einem feuchten Schwamm oder Tuch ab und wischen ihn dann trocken. Sie können Essig auch mit Zitronensäure anreichern. Die Proportionen sind: 20 g Zitronensäure pro Liter.
 
-## Cleaning the washing machine - essential issues
+## Reinigung der Waschmaschine - wesentliche Fragen
 
-Just rinsing the **washing machine with a cleaning solution** might be not enough. One must pay attention to each part of the appliance. The most important components are:
+Es reicht möglicherweise nicht aus, die Waschmaschine nur mit einer Reinigungslösung zu spülen. Man muss auf jeden Teil des Geräts achten. Die wichtigsten Komponenten sind:
 
 {:.list.list-positive}
 
-* **Filters** - usually they are located in the front of the machine. You should check it for small objects that often get caught in there. Small parts of garment, such as socks also often get in the filter. After cleaning it thoroughly, rinse it with pure water and put it back in its place.
-* **Detergent drawer** - this spot is very likely to grow mold. If the washing machine has been not cleaned for a very long time, the drawer should be removed from its socket and thoroughly scrubbed. It is best to use a sponge and an appropriate cleaning product, or soda. Apart from the drawer, the socket itself should be cleaned as well.
-* **Seal and other rubber parts** - those components are the most susceptible for damage from water. In front load types the most filth residues can be found under the door seal, therefore it should be cleaned regularly. The aforementioned paste made of vinegar and baking soda will be perfect for this purpose. It makes cleaning quick and easy.
+* **Filter** - sie befinden sich in der Regel an der Vorderseite der Maschine. Sie sollten sie auf kleine Objekte überprüfen, die sich dort oft verfangen. Auch kleine Teile von Kleidungsstücken, wie z.B. Socken, gelangen häufig in den Filter. Nachdem Sie ihn gründlich gereinigt haben, spülen Sie ihn mit reinem Wasser aus und setzen Sie ihn wieder an seinen Platz.
+* **Waschmittelschublade** - an dieser Stelle kann sich mit hoher Wahrscheinlichkeit Schimmel bilden. Wenn die Waschmaschine sehr lange nicht gereinigt wurde, sollte die Waschmittelschublade aus der Steckdose genommen und gründlich geschrubbt werden. Am besten verwenden Sie einen Schwamm und ein geeignetes Reinigungsmittel oder Soda. Abgesehen von der Schublade sollte auch die Steckdose selbst gereinigt werden.
+* **Dichtungen und andere Gummiteile** - diese Komponenten sind am anfälligsten für Wasserschäden. Bei Frontladertypen befinden sich die meisten Schmutzreste unter der Türdichtung, daher sollte diese regelmäßig gereinigt werden. Die oben erwähnte Paste aus Essig und Backpulver eignet sich perfekt für diesen Zweck. Sie ermöglicht eine schnelle und einfache Reinigung.
 
 {% fig %}
 ![Cleaning the washing machine - essential issues](/uploads/cleaning-the-washing-machine-essential-issues.jpg "Cleaning the washing machine - essential issues")
@@ -110,52 +112,52 @@ Just rinsing the **washing machine with a cleaning solution** might be not enoug
 
 {:.distinction.distinction-warning}
 
-The mentioned above parts are most prone to filth, scale and mold growth, therefore they need careful attention. **Routine cleaning the washing machine** and its components will prevent major issues with the device in the future.
+Die oben genannten Teile sind am anfälligsten für Schmutz, Schuppen und Schimmelbildung, weshalb sie sorgfältige Aufmerksamkeit erfordern. Die routinemäßige Reinigung der Waschmaschine und ihrer Komponenten wird in Zukunft größere Probleme mit dem Gerät verhindern.
 
-## How to clean the washing machine - cleaning tools
+## Wie man die Waschmaschine reinigt - Reinigungswerkzeuge
 
-To just wipe the surface, use a soft cloth. You can also **use a hard sponge** to scrub stains that are difficult to remove. Plastic bristle brushes are excellent for cleaning as well. However they should be used with caution when scrubbing delicate elements such as rubber seals. To access hard-to-reach places (for instance detergent drawer socket), you can use an old toothbrush.
+Um die Oberfläche einfach abzuwischen, verwenden Sie ein weiches Tuch. Sie können auch einen harten Schwamm verwenden, um Flecken zu schrubben, die schwer zu entfernen sind. Auch Bürsten mit Kunststoffborsten eignen sich hervorragend zur Reinigung. Sie sollten jedoch mit Vorsicht verwendet werden, wenn Sie empfindliche Elemente wie Gummidichtungen schrubben. Für den Zugang zu schwer zugänglichen Stellen (z.B. Waschmittelschublade) können Sie eine alte Zahnbürste verwenden.
 
-**Cleaning the washing machine should be performed on a regular basis**. This important activity increases durability of the device and makes it more efficient. Routinely cleansed washing machine will wash the laundry better, making it fresh and pleasant-smelling. Natural cleaners are definitely worth the effort. They are highly effective and do not cost much. **Soda, vinegar and citric acid** can be found in almost every household. Using them is an easy way to take care of your washing machine and guarantee its long-lasting performance.
+Die Reinigung der Waschmaschine sollte regelmäßig durchgeführt werden. Diese wichtige Tätigkeit erhöht die Lebensdauer des Gerätes und macht es leistungsfähiger. Eine routinemäßig gereinigte Waschmaschine wird die Wäsche besser waschen und macht sie frisch und angenehm duftend. Natürliche Reiniger sind die Mühe auf jeden Fall wert. Sie sind hochwirksam und kosten nicht viel. Soda, Essig und Zitronensäure sind in fast jedem Haushalt zu finden. Ihre Verwendung ist eine einfache Möglichkeit, Ihre Waschmaschine zu pflegen und ihre lang anhaltende Leistung zu garantieren.
 
-## Cleaning the washing machine naturally - FAQ
+## Natürliche Reinigung der Waschmaschine - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-Cleaning the washing machine with vinegar - in what temperature?
+Reinigung der Waschmaschine mit Essig - bei welcher Temperatur?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Cleaning the washing machine using vinegar should involve the highest possible temperature. It speeds up the reaction of acid with limescale, and makes the cleaning more effective. The best temperature is 90°C.
+Die Reinigung der Waschmaschine mit Essig sollte bei möglichst hoher Temperatur erfolgen. Er beschleunigt die Reaktion von Säure mit Kalk und macht die Reinigung effektiver. Die beste Temperatur beträgt 90°C.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-Cleaning the washing machine - does it affect its durability?
+Reinigung der Waschmaschine - beeinträchtigt sie deren Lebensdauer?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Cleaning the washing machine regularly is a very good way to prolong its life. Preventing the accumulation of scale on its parts is a guarantee that the device will run without fail for a long time.
+Die regelmäßige Reinigung der Waschmaschine ist eine sehr gute Möglichkeit, ihre Lebensdauer zu verlängern. Die Verhinderung der Ansammlung von Kesselstein auf ihren Teilen ist eine Garantie dafür, dass das Gerät lange Zeit störungsfrei läuft.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How much does it cost to clean the washing machine?
+Wie viel kostet die Reinigung der Waschmaschine?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The cost of natural cleaning remedies is remarkably low. The only products to buy are vinegar, baking soda or citric acid, which are very cheap. Their price is a fraction of the store-bought chemical cleaners.
+Die Kosten für natürliche Reinigungsmittel sind bemerkenswert niedrig. Die einzigen Produkte, die man kaufen kann, sind Essig, Backpulver oder Zitronensäure, die sehr billig sind. Ihr Preis entspricht einem Bruchteil der im Handel gekauften chemischen Reinigungsmittel.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-Cleaning the washing machine - how often?
+Reinigung der Waschmaschine - wie oft?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-It is advised to descale your washing machine once a month. Doing it will prevent scale and other substances from accumulating inside of the device. All of the parts, such as filters and the drawer, should be cleansed manually every six months.
+Es wird empfohlen, Ihre Waschmaschine einmal im Monat zu entkalken. Dadurch wird verhindert, dass sich Kesselstein und andere Substanzen im Inneren des Geräts ansammeln. Alle Teile, wie Filter und Schublade, sollten alle sechs Monate manuell gereinigt werden.
 {% endfaqAnswer %}
 {% endfaqItem %}
