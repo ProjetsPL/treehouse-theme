@@ -25,6 +25,7 @@ main_keywords:
 - furniture painting ideas
 - how to paint wood furniture
 - how to paint laminate furniture
+published: false
 
 ---
 ## Types of furniture paint
