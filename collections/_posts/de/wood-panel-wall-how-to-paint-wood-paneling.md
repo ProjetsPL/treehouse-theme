@@ -24,6 +24,7 @@ main_keywords:
 - painted paneling
 - painted wood paneling
 - how to paint wood paneling
+published: false
 
 ---
 ## Why painting a wood paneling?

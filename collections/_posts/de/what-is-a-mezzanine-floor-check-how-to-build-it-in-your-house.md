@@ -21,6 +21,7 @@ intro: Dreaming of an elegant, stylish home design? Mezzanine level is a perfect
   - make an additional space in your home and enjoy the spectacular results.
 image: "/uploads/antresola-1.jpg"
 related_products: []
+published: false
 
 ---
 ## What is a mezzanine? Can I employ it in my house?
