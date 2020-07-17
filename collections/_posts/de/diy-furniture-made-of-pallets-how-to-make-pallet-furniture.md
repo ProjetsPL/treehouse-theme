@@ -27,6 +27,7 @@ main_keywords:
 - 'diy pallet projects '
 - where to get pallets
 - pallet furniture ideas
+published: false
 
 ---
 ## DIY pallet furniture – why are they so popular?

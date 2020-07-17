@@ -30,6 +30,7 @@ intro: In times of minimalistic designs, everyone aims to spare as much space as
   a solution are beyond one’s imagination.
 image: "/uploads/sidekix-media-g51F6-zyu-unsplash.jpg"
 related_products: []
+published: false
 
 ---
 ## Curbless shower - how does it work?

@@ -29,7 +29,6 @@ intro: Clean air at home contributes to your good mood. That's the reason why ai
   in your house.
 image: "/uploads/skrzydlokwiat-glowne-1.jpg"
 related_products: []
-published: false
 
 ---
 ## What is a peace lily and what are its features?
