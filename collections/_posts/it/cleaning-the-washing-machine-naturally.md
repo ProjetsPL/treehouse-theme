@@ -16,6 +16,7 @@ promoted: false
 main_keywords:
 - cleaning the washing machine
 - cleaning washing machine with vinegar
+published: false
 
 ---
 ## Why cleaning the washing machine is important?
