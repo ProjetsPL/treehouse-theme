@@ -22,6 +22,7 @@ main_keywords:
 - outdoor tiles
 - how to install tile flooring
 - how to remove tile flooring
+published: false
 
 ---
 ## Outside steps tile flooring - which outdoor tiles are the best

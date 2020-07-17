@@ -29,6 +29,7 @@ intro: Dogwood has many useful qualities. This unusual ornamental plant not only
   the kitchen.
 image: "/uploads/dlaczeg-warto-sadzic-deren-jadalny-w-ogrodzie.jpg"
 related_products: []
+published: false
 
 ---
 ## What is a dogwood tree?

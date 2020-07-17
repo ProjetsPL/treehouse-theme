@@ -24,6 +24,7 @@ intro: Dreaming of a beautiful, green lawn? The right grass seed and proper main
   tricks to create a lawn that you've always dreamed of!
 image: "/uploads/jak-siac-trawe-glowne.jpg"
 related_products: []
+published: false
 
 ---
 ## Types of grass seed to plant in your garden
