@@ -79,8 +79,7 @@ Decydując się na panele w kuchni, czy każdym innym pomieszczeniu domowym, war
 * 23,
 * 31,
 * 32,
-* 
-  1. 
+* 33.
 
 Do wykorzystania domowego wystarczające będą klasy z pierwszą liczbą 2. Panele z oznaczeniem 3 nadają się do przestrzeni publicznych. **Jednak, które z nich sprawdzą się najlepiej w kuchni? Warto postawić na trwały model o klasie odporności- 23**.
 
