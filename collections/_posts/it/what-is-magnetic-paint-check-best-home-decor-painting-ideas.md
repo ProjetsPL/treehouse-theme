@@ -23,6 +23,7 @@ intro: Bored with the old, classic look of your interior? Planning to refresh yo
   new look. Try chalkboard paint and enjoy magnificent results!
 image: "/uploads/farba-tablicowa.jpg"
 related_products: []
+published: false
 
 ---
 ## How to use magnetic paint?
