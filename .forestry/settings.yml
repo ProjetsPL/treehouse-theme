@@ -85,7 +85,7 @@ sections:
   label: Strony
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: collections/_posts/de
   label: Posty
@@ -94,6 +94,14 @@ sections:
   new_doc_ext: md
   templates:
   - blog-post
+- type: directory
+  path: de/recenzje
+  label: Rankingi
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+  templates:
+  - ranking
 - type: heading
   label: ES
 - type: directory
@@ -101,7 +109,7 @@ sections:
   label: Strony
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: collections/_posts/es
   label: Posty
@@ -110,6 +118,14 @@ sections:
   new_doc_ext: md
   templates:
   - blog-post
+- type: directory
+  path: es/recenzje
+  label: Rankingi
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - ranking
 - type: heading
   label: FR
 - type: directory
@@ -117,7 +133,7 @@ sections:
   label: Strony
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: collections/_posts/fr
   label: Posty
@@ -126,6 +142,14 @@ sections:
   new_doc_ext: md
   templates:
   - blog-post
+- type: directory
+  path: fr/recenzje
+  label: Rankingi
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - ranking
 - type: heading
   label: IT
 - type: directory
@@ -133,7 +157,7 @@ sections:
   label: Strony
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: collections/_posts/it
   label: Posty
@@ -142,6 +166,14 @@ sections:
   new_doc_ext: md
   templates:
   - blog-post
+- type: directory
+  path: it/recenzje
+  label: Rankingi
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - ranking
 - type: heading
   label: Jekyll
 - type: document
