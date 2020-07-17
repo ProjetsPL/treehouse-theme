@@ -81,7 +81,7 @@ Decydując się na panele w kuchni, czy każdym innym pomieszczeniu domowym, war
 * 32,
 * 33.
 
-Do wykorzystania domowego wystarczające będą klasy z pierwszą liczbą 2. Panele z oznaczeniem 3 nadają się do przestrzeni publicznych. **Jednak, które z nich sprawdzą się najlepiej w kuchni? Warto postawić na trwały model o klasie odporności- 23**.
+Do wykorzystania domowego wystarczające będą klasy z pierwszą liczbą 2. Panele z oznaczeniem 3 nadają się do przestrzeni publicznych. **Jednak, które z nich sprawdzą się najlepiej w kuchni? Warto postawić na trwały model o klasie odporności - 23**.
 
 {:.distinction.distinction-information}
 Sam proces ustalania klas użyteczności paneli jest bardzo ciekawy. Są one badane pod kątem oddziaływania różnych czynników. Brane są pod uwagę między takie kwestie jak odporność na ścieranie, uszkodzenia mechaniczne, zaplamienie, uszkodzenia wywołane papierosami, przesuwanie mebli np. krzeseł. Uwzględnia się także między innymi przyrost grubości po spęcznieniu panela.
