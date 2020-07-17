@@ -1,0 +1,86 @@
+---
+layout: blog
+title: Blog Treehouse - crea la tua casa dei sogni con noi!
+description: Treehouse è una piattaforma dove si possono trovare molte idee brillanti per la casa e il giardino. Lasciatevi ispirare e trovate prodotti in grado di soddisfare tutte le vostre aspettative.
+---
+<main class="page page-articles-list">
+    <div class="beams-wrapper global-beam-wrapper breadcrumbs">
+        <div class="beam b-size-4">
+            <div class="beam-item b-size-4 breadcrumbs-content">
+                <svg id="Signature_-_gray" data-name="Signature - gray" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+                    <g id="Group_42" data-name="Group 42" transform="translate(-172.5 -172.5)" opacity="0.19">
+                        <path id="Path_129" data-name="Path 129" d="M214.082,188.5v8.909a1.018,1.018,0,0,1-1.018,1.018H209.5v-8.176Z" transform="translate(-27.582 -11.927)" fill="#233030"/>
+                        <path id="Path_130" data-name="Path 130" d="M177.845,178.1v1.782l2.291-.876V186.5h-6.618a1.018,1.018,0,0,1-1.018-1.018V173.518a1.018,1.018,0,0,1,1.018-1.018h11.964a1.018,1.018,0,0,1,1.018,1.018v1.273Z" fill="#233030"/>
+                    </g>
+                </svg>
+                <ul>
+                    <li><a href="/it/">Pagina iniziale</a></li>
+                    <li><a href="/it/blog.html">Articoli</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="beams-wrapper  global-beam-wrapper articles-list-content ">
+        <div class="beam b-size-4">
+            <div class="beam-item b-size-3 articles-list-articles">
+                 <section class="beam b-size-6">
+                    <div class="beam-item b-size-6">
+                        <h1 class="h-section">Articoli</h1>
+                        <p>Portate a casa vostra i progetti più originali. Lasciatevi ispirare dalle nostre migliori idee per l'arredamento della casa. Su Treehouse troverete i progetti più innovativi. Forse sei un tradizionalista? Ci pensiamo noi a te. Abbiamo preparato alcuni disegni freschi di forme classiche ben conosciute. Sul nostro sito web troverete le ultime tendenze e gli stili più recenti nel design d'interni.</p>
+                    </div>
+
+                    {% assign articles = site.posts | where:"lang", "it" %}
+                    {% assign i = 0 %}
+
+                    {% for article in articles %}
+                      {% if i == 0 or i == 1 %}
+                        <div class="beam-item b-size-3">
+                          {% include parts/articles-listing-boxitem-md.html article=article %}
+                        </div>
+                      {% else %}
+                      <div class="beam-item b-size-2">
+                        {% include parts/articles-listing-boxitem-sm.html article=article %}
+                      </div>
+                      {% endif %}
+
+                      {% assign i = i | plus: 1 %}
+                    {% endfor %}
+
+                    <!-- <div class="beam-item beam-pagination">
+                        <ul>
+                            <li class="previous"><a href=""><img src="/assets/img/more-arrow.svg"  alt="Poprzednia strona"></a></a></li>
+                            <li><a href="">1</a></li>
+                            <li class="active"><a href="">3</a></li>
+                            <li><a href="">4</a></li>
+                            <li><a href="">...</a></li>
+                            <li class="next"><a href=""><img src="/assets/img/more-arrow.svg"  alt="Następna strona"></a></li>
+                        </ul>
+                    </div> -->
+                </section>
+            </div>
+            <div class="beam-item b-size-1 articles-list-sidebar">
+                 <section class="beam recommended-articles">
+                    <div class="beam-item">
+                        <h2 class="h-section">Articoli in primo piano</h2>
+                    </div>
+                    {% assign promoted_articles = site.posts | where:"lang", "it" | where:"promoted", true %}
+
+                    {% for article in promoted_articles limit: 10 %}
+                      <div class="beam-item">
+                        {% include parts/articles-listing-listitem-sm.html article=article %}
+                      </div>
+                    {% endfor %}
+                </section>
+
+            </div>
+        </div>
+
+        <div class="beam b-size-2">
+
+            <section class="beam-item b-size-2">
+                <h2 class="h-section">Chiedete ai nostri esperti</h2>
+                <p>Sognate una bella casa o un giardino ma non sapete da dove cominciare? Stai cercando una guida per la scelta di un prodotto, per la ristrutturazione o per l'arredamento della tua stanza? Non siete sicuri di quali mobili scegliere o se si adatta alla vostra casa? Non preoccupatevi più. Rivolgetevi ai nostri specialisti. Abbiamo preparato i migliori e più originali consigli e trucchi su vari argomenti.</p>
+            </section>
+        </div>
+    </div>
+</main>

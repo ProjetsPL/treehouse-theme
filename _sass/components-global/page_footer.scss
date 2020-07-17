@@ -43,9 +43,11 @@
             color: $gray-6;
         }
         a {
-            &:last-child {
+            padding: 8px 10px 6px 10px;
                 margin-left: 10px;
-            }
+                img {
+                    padding-right: 0;
+                }
         }
     }
 }
@@ -67,7 +69,7 @@
     }
 }
 
-@media (max-width: 460px) {
+@media (max-width: 500px) {
     .page-footer {
         .page-footer-content {
             .copy {
@@ -89,9 +91,9 @@
                     text-align: center;
                 }
                 a {
+                    margin-left: 0px;
                     margin-bottom: 10px;
                     &:last-child {
-                        margin-left: 0px;
                         margin-bottom: 0px;
                     }
                 }

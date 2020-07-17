@@ -88,6 +88,62 @@ defaults:
       lang: "us"
       full-lang: 'en-US'
       categories: "us"
+  # DE
+  -
+    scope:
+      path: "de"
+    values:
+      lang: "de"
+      full-lang: 'de-DE'
+  -
+    scope:
+      path: "_posts/de"
+    values:
+      lang: "de"
+      full-lang: 'de-DE'
+      categories: "de"
+  # FR
+  -
+    scope:
+      path: "fr"
+    values:
+      lang: "fr"
+      full-lang: 'fr-FR'
+  -
+    scope:
+      path: "_posts/fr"
+    values:
+      lang: "fr"
+      full-lang: 'fr-FR'
+      categories: "fr"
+  # ES
+  -
+    scope:
+      path: "es"
+    values:
+      lang: "es"
+      full-lang: 'es-ES'
+  -
+    scope:
+      path: "_posts/es"
+    values:
+      lang: "es"
+      full-lang: 'es-ES'
+      categories: "es"
+  # IT
+  -
+    scope:
+      path: "it"
+    values:
+      lang: "it"
+      full-lang: 'it-IT'
+  -
+    scope:
+      path: "_posts/it"
+    values:
+      lang: "it"
+      full-lang: 'it-IT'
+      categories: "it"
 
   # PL
   -
@@ -175,6 +231,98 @@ i18n:
     maybe_interesting: "Maybe you're interested"
     ranking: "Ranking"
     ranking_page_slug: "reviews"
+    ranking_page: "Reviews"
+
+  de:
+    read_more: "Lesen Sie mehr"
+    published: "Veröffentlicht"
+    updated: "Letzte Aktualisierung"
+    toc: "Inhaltsverzeichnis"
+    read_also: "Lesen Sie auch"
+    leave_comment: "Einen Kommentar hinterlassen"
+    title: 'Lassen Sie sich inspirieren und schaffen Sie mit uns Ihr Traumhaus! - Treehouse'
+    home_and_garden: Haus & Garten
+    select_country: "Land auswählen"
+    home_page: "Startseite"
+    blog_page: "Artikel"
+    autor_label: "Autor"
+    contact_label: "Kontakt"
+    author_description: "Dorota ist von Beruf Wirtschaftswissenschaftlerin, aber ihr größtes Hobby ist die Fotografie und Innenarchitektur. Seit Anfang 2019 in Treehouse."
+    promoted_articles: "Empfohlene Artikel"
+    next_article: "Nächster Artikel"
+    previous_article: "Vorheriger Artikel"
+    maybe_interesting: "Vielleicht sind Sie interessiert"
+    ranking: "Rangliste"
+    ranking_page_slug: "rezensionen"
+    ranking_page: "Rezensionen"
+
+  es:
+    read_more: "Leer más..."
+    published: "Publicado"
+    updated: "Última actualización"
+    toc: "Tabla de contenido"
+    read_also: "Lea también"
+    leave_comment: "Deje un comentario"
+    title: 'Inspírese y cree la casa de sus sueños con nosotros! - Treehouse'
+    home_and_garden: Hogar y Jardín
+    select_country: "Seleccione el país"
+    home_page: "Página de inicio"
+    blog_page: "Artículos"
+    autor_label: "Autor"
+    contact_label: "Contacte con"
+    author_description: "Dorota es economista de profesión, pero su mayor hobby es la fotografía y el diseño de interiores. En Treehouse desde principios de 2019."
+    promoted_articles: "Artículos destacados"
+    next_article: "Próximo artículo"
+    previous_article: "Artículo anterior"
+    maybe_interesting: "Tal vez te interese"
+    ranking: "Clasificación"
+    ranking_page_slug: "resenas"
+    ranking_page: "Reseñas"
+
+  fr:
+    read_more: "En savoir plus"
+    published: "Publié"
+    updated: "Dernière mise à jour"
+    toc: "Table des matières"
+    read_also: "A lire également"
+    leave_comment: "Laissez un commentaire"
+    title: 'Laissez-vous inspirer et créez la maison de vos rêves avec nous ! - Treehouse'
+    home_and_garden: Maison et jardin
+    select_country: "Sélectionnez un pays"
+    home_page: "Page d'accueil"
+    blog_page: "Articles"
+    autor_label: "Auteur"
+    contact_label: "Contactez"
+    author_description: "Dorota est économiste de profession, mais son plus grand hobby est la photographie et la décoration d'intérieur. Elle est à Treehouse depuis le début de l'année 2019."
+    promoted_articles: "Articles de fond"
+    next_article: "Article suivant"
+    previous_article: "Article précédent"
+    maybe_interesting: "Peut-être êtes-vous intéressé"
+    ranking: "Classement"
+    ranking_page_slug: "commentaires"
+    ranking_page: "Commentaires"
+
+  it:
+    read_more: "Per saperne di più"
+    published: "Pubblicato"
+    updated: "Ultimo aggiornamento"
+    toc: "Indice dei contenuti"
+    read_also: "Leggi anche"
+    leave_comment: "Lascia un commento"
+    title: 'Lasciatevi ispirare e create la vostra casa dei sogni con noi! - Treehouse'
+    home_and_garden: Casa e giardino
+    select_country: "Seleziona il paese"
+    home_page: "Pagina iniziale"
+    blog_page: "Articoli"
+    autor_label: "Autore"
+    contact_label: "Contatto"
+    author_description: "Dorota è un'economista di professione, ma il suo più grande hobby è la fotografia e il design d'interni. A Treehouse dall'inizio del 2019."
+    promoted_articles: "Articoli in primo piano"
+    next_article: "Prossimo articolo"
+    previous_article: "Articolo precedente"
+    maybe_interesting: "Forse siete interessati"
+    ranking: "Classifica"
+    ranking_page_slug: "recensioni"
     ranking_page: "Reviews"
 
   en:

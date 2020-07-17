@@ -139,5 +139,13 @@
 - us: us/index.html
   pl: pl/index.html
   en: index.html
+  de: de/index.html
+  es: es/index.html
+  fr: fr/index.html
+  it: it/index.html
 - us: us/blog.html
   pl: pl/blog.html
+  de: de/blog.html
+  es: es/blog.html
+  fr: fr/blog.html
+  it: it/blog.html
