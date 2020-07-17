@@ -22,6 +22,7 @@ intro: Dreaming of an elegant kitchen design? Kitchen curtains are a small detai
   time, using nothing but kitchen curtains!
 image: "/uploads/zaslony-kuchenne.jpg"
 related_products: []
+published: false
 
 ---
 ## How to choose kitchen curtains - key issues
