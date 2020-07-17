@@ -21,6 +21,7 @@ main_keywords:
 - fabric ceiling
 - PVC ceiling
 - how to drape a ceiling with fabric
+published: false
 
 ---
 ## What is a stretch ceiling?
