@@ -25,6 +25,7 @@ intro: Anthurium, or flamingo flower is a popular potted plant of a great aesthe
   you with beautiful looks.
 image: "/uploads/anthurium-glowne.jpg"
 related_products: []
+published: false
 
 ---
 ## Anthurium – what kind of plant is it?
