@@ -26,6 +26,7 @@ intro: Are you planning a small makeover but you have no idea how to paint walls
   latest trends and create an interior that matches the top home decor designs.
 image: "/uploads/jak-pomalowac-pokoj-najmodniejsze-kolory-do-pokoju-2020.jpg"
 related_products: []
+published: false
 
 ---
 ## Before you start changing colors of the room

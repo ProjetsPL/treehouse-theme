@@ -22,6 +22,7 @@ main_keywords:
 - how to make a hanging chair
 - how to hang a hanging chair
 - how to install a hanging chair
+published: false
 
 ---
 ## Hanging chair - comfort in your home
