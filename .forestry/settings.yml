@@ -102,6 +102,15 @@ sections:
   new_doc_ext: ".md"
   templates:
   - ranking
+- type: directory
+  path: collections/_products/de
+  label: Produkty
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - product-mattress
+  - product-lamp
 - type: heading
   label: ES
 - type: directory
@@ -126,6 +135,15 @@ sections:
   new_doc_ext: md
   templates:
   - ranking
+- type: directory
+  path: collections/_products/es
+  label: Produkty
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - product-mattress
+  - product-lamp
 - type: heading
   label: FR
 - type: directory
@@ -150,6 +168,15 @@ sections:
   new_doc_ext: md
   templates:
   - ranking
+- type: directory
+  path: collections/_products/fr
+  label: Produkty
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - product-mattress
+  - product-lamp
 - type: heading
   label: IT
 - type: directory
@@ -174,6 +201,15 @@ sections:
   new_doc_ext: md
   templates:
   - ranking
+- type: directory
+  path: collections/_products/it
+  label: Produkty
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - product-mattress
+  - product-lamp
 - type: heading
   label: Jekyll
 - type: document
