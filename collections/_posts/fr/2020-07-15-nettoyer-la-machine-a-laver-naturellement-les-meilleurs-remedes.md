@@ -1,50 +1,50 @@
 ---
 layout: post
-date: 2019-12-03T23:00:00.000+00:00
+date: 2020-07-15
 toc: true
-title: Cleaning the Washing Machine Naturally - The Best Remedies
-description: "How to clean the washing machine naturally? ➡️ Learn the the most effective
-  methods for cleaning the washing machine. \U0001F9FD It’s very easy!"
+title: Nettoyer la machine à laver naturellement - les meilleurs remèdes
+description: "Comment nettoyer la machine à laver naturellement ? ➡️ Découvrez les
+  méthodes les plus efficaces pour nettoyer la machine à laver. \U0001F9FD C'est très
+  facile !"
 image: "/uploads/Cleaning the washing machine naturally.jpg"
-update_date: 2020-06-05
-intro: Cleaning the washing machine is a commonly neglected activity. Meanwhile, it
-  is an important part of its maintenance. Ignoring the necessity to clean your washing
-  machine may lead to some serious consequences. As a result, using the device might
-  not only be unpleasant, but also highly inefficient. For this reason, you must remember
-  about regular cleaning of the laundry machine.
+update_date: 2020-07-15
+intro: Le nettoyage de la machine à laver est une activité souvent négligée. En revanche,
+  il constitue une partie importante de son entretien. Ignorer la nécessité de nettoyer
+  votre machine à laver peut avoir de graves conséquences. En conséquence, l'utilisation
+  de l'appareil peut être non seulement désagréable, mais aussi très inefficace. C'est
+  pourquoi vous devez vous souvenir du nettoyage régulier de la machine à laver.
 promoted: false
 main_keywords:
-- cleaning the washing machine
-- cleaning washing machine with vinegar
-published: false
+- le nettoyage de la machine à laver
+- nettoyer la machine à laver avec du vinaigre
 
 ---
-## Why cleaning the washing machine is important?
+## Pourquoi est-il important de nettoyer la machine à laver ?
 
-Cleaning your washing machine is crucial, as most of its components are in constant **contact with dirt** coming off the clothes. They are also **exposed to water**, which leads to forming limescale on the heating element, drum and filters. If left to such state, the machine might start to malfunction. The heater is going to take more time to warm up the water. Pressure in the tubes can weaken because of the scale accumulating inside.
+Le nettoyage de votre machine à laver est crucial, car la plupart de ses composants sont en contact permanent avec la saleté qui se détache des vêtements. Ils sont également exposés à l'eau, ce qui entraîne la formation de calcaire sur l'élément chauffant, le tambour et les filtres. Si on les laisse dans cet état, la machine peut commencer à mal fonctionner. Le chauffage va prendre plus de temps pour réchauffer l'eau. La pression dans les tubes peut s'affaiblir à cause du tartre qui s'accumule à l'intérieur.
 
 {:.distinction.distinction-information}
 
-If the limescale is not removed regularly, the mentioned parts will eventually get broken. Repairing a broken device generates additional costs. It is often the case that fixing the broken elements is simply too expensive, therefore it might be more economic to replace the whole machine. Having that in mind, one can assume that **cleaning the washing machine saves it from a serious breakdown**.
+Si le calcaire n'est pas éliminé régulièrement, les pièces mentionnées finiront par se briser. La réparation d'un appareil cassé génère des coûts supplémentaires. Il arrive souvent que la réparation des éléments cassés soit tout simplement trop coûteuse, il peut donc être plus économique de remplacer l'ensemble de la machine. En gardant cela à l'esprit, on peut supposer que le nettoyage de la machine à laver permet d'éviter une panne grave.
 
-### What will happen if the washing machine is not cleaned regularly?
+### Que se passe-t-il si la machine à laver n'est pas nettoyée régulièrement ?
 
-If you neglect cleaning the washing machine, the continuous contact with water, warm environment and poor ventilation inside of it will create perfect conditions for organisms such as yeast and fungi. Mold is **very dangerous for human health**, as it releases toxic substances into the air. 
+Si vous négligez de nettoyer la machine à laver, le contact continu avec l'eau, l'environnement chaud et la mauvaise ventilation à l'intérieur de celle-ci créeront des conditions parfaites pour des organismes tels que les levures et les champignons. Les moisissures sont très dangereuses pour la santé humaine, car elles libèrent des substances toxiques dans l'air.
 
-They can cause problems with:
+Elles peuvent causer des problèmes avec :
 
-* respiratory system,
-* nervous system,
-* skin,
-* allergies,
-* constant feeling of tiredness
-* runny nose.
+* le système respiratoire,
+* le système nerveux,
+* la peau,
+* les allergies,
+* un sentiment constant de fatigue
+* nez qui coule.
 
-Yeast occupying your washing machine might be the cause of an **unpleasant smell**, which might affect the laundry. **Thorough and systematic cleaning** of the washing machine will prevent the aforementioned issues. It not only minimizes the risk of the device malfunction, but also makes it more efficient.
+La levure qui occupe votre machine à laver peut être la cause d'une odeur désagréable, qui peut affecter le linge. Un nettoyage approfondi et systématique de la machine à laver permettra d'éviter les problèmes susmentionnés. Il permet non seulement de minimiser le risque de dysfonctionnement de l'appareil, mais aussi de le rendre plus efficace.
 
-## How to clean the washing machine - home remedies
+## Comment nettoyer la machine à laver - remèdes maison
 
-Cleaning the washing machine with home-made solutions becomes increasingly popular - especially at homes with small children. There is a wide range of ready-made **products for cleaning a washing machine**. However such cleaners might not only be expensive, but also harmful.
+Le nettoyage de la machine à laver avec des solutions faites maison est de plus en plus populaire - surtout dans les foyers où il y a de jeunes enfants. Il existe une large gamme de produits prêts à l'emploi pour le nettoyage d'une machine à laver. Cependant, ces produits de nettoyage peuvent être non seulement coûteux, mais aussi nocifs.
 
 {% fig %}
 
@@ -54,55 +54,55 @@ Cleaning the washing machine with home-made solutions becomes increasingly popul
 
 {:.distinction.distinction-warning}
 
-Synthetic cleaners might cause skin irritation and have adverse allergic reactions for sensitive persons. For this reasen, if you're wondering how to clean the washing machine, consider natural remedies.
+Les nettoyants synthétiques peuvent provoquer des irritations de la peau et avoir des réactions allergiques indésirables chez les personnes sensibles. Pour cette raison, si vous vous demandez comment nettoyer la machine à laver, pensez aux remèdes naturels.
 
-Such methods usually require ingredients that can be found in every kitchen. They are cheap and **using them for cleaning the washing machine is safe for human health**.
+De telles méthodes nécessitent généralement des ingrédients que l'on trouve dans toutes les cuisines. Ils sont bon marché et leur utilisation pour le nettoyage de la machine à laver est sans danger pour la santé humaine.
 
-### Cleaning washing machine with baking soda
+### Nettoyage de la machine à laver avec du bicarbonate de soude
 
 {% fig %}
 ![Cleaning washing machine with baking soda](/uploads/Cleaning washing machine with baking soda.jpg "Cleaning washing machine with baking soda")
 {% endfig %}
 
-**Bicarbonate**, in other words - **baking soda** is quite a versatile substance. It is used mainly in the kitchen for baking purposes. It is also an ingredient of many home-made cosmetics, such as face masks and scrubs.
+Le bicarbonate, en d'autres termes - le bicarbonate de soude est une substance assez polyvalente. Il est principalement utilisé dans la cuisine pour la cuisson. Il est également un ingrédient de nombreux produits cosmétiques faits maison, tels que les masques et les gommages.
 
-**Baking soda** is also a perfect cleaner. It removes all types of dirt, limescale and stains from the cleaned surfaces. It is a brilliant odour remover. **Cleaning the washing machine with baking soda** helps to protect its parts from scale and therefore prolongs their lifetime. The powder removes all kinds of unpleasant odours, which could affect the laundry.
+Le bicarbonate de soude est également un nettoyant parfait. Il élimine tous les types de saleté, de calcaire et de taches des surfaces nettoyées. C'est un excellent désodorisant. Le nettoyage de la machine à laver au bicarbonate de soude permet de protéger ses pièces du calcaire et donc de prolonger leur durée de vie. La poudre élimine toutes sortes d'odeurs désagréables, qui pourraient affecter le linge.
 
 {:.distinction.distinction-information}
 
-**Cleaning your washing machine with baking soda** is not very difficult. All that is needed is half a glass of baking soda, which should be put into the detergent drawer (the powder compartment). To wash the machine, run an empty wash cycle using the highest possible temperature (usually 90 Celsius degrees). The spin speed in this case is not important - it can be set to the lowest. If needed, you can load the machine with some towels or kitchen cloths.
+Il n'est pas très difficile de nettoyer votre machine à laver avec du bicarbonate de soude. Il suffit de verser un demi-verre de bicarbonate de soude dans le tiroir à détergent (le compartiment à poudre). Pour laver la machine, effectuez un cycle de lavage à vide en utilisant la température la plus élevée possible (généralement 90 degrés Celsius). Dans ce cas, la vitesse d'essorage n'est pas importante - elle peut être réglée au plus bas. Si nécessaire, vous pouvez charger la machine avec des serviettes ou des torchons de cuisine.
 
-### Cleaning washing machine with vinegar
+### Nettoyage de la machine à laver au vinaigre
 
-Another solution for **cleaning the washing machine is vinegar**. It is a good bleach with antistatic properties. It can be used to wash towels, it removes detergent residues and increases fabric’s ability to absorb water.
+Une autre solution pour nettoyer la machine à laver est le vinaigre. C'est un bon agent de blanchiment aux propriétés antistatiques. Il peut être utilisé pour laver les serviettes, il élimine les résidus de détergent et augmente la capacité du tissu à absorber l'eau.
 
-Similar to baking soda, vinegar is able to remove scent. To **clean the washing machine**, pour 1-2 litres of vinegar into the detergent compartment and set a high temperature washing cycle. **Vinegar will remove limescale**, mold and bacteria.
+Tout comme le bicarbonate de soude, le vinaigre est capable d'éliminer les odeurs. Pour nettoyer la machine à laver, versez 1 à 2 litres de vinaigre dans le compartiment à détergent et réglez un cycle de lavage à haute température. Le vinaigre élimine le calcaire, les moisissures et les bactéries.
 
 {:.distinction.distinction-warning}
 
-The only issue with this method is the strong, sour smell that might spread across the entire household. **Ventilating the rooms**, however, should quickly get rid of the scent. It might also be helpful to set another washing cycle with a little bit of washing powder or liquid. Its smell will kill the vinegar odour.
+Le seul problème avec cette méthode est l'odeur forte et aigre qui pourrait se répandre dans tout le ménage. La ventilation des pièces devrait cependant permettre d'éliminer rapidement cette odeur. Il peut également être utile de régler un autre cycle de lavage avec un peu de lessive en poudre ou de liquide. Son odeur tuera l'odeur de vinaigre.
 
-### Cleaning washing machine with citric acid
+### Nettoyage de la machine à laver à l'acide citrique
 
-Apart from vinegar and baking soda, there is also a third product that can be used to **clean the washing machine - citric acid**. It can be used to descale various appliances, not only washing machines. Citric acid is commonly used to remove limescale from devices such as kettles and coffeemakers.
+Outre le vinaigre et le bicarbonate de soude, il existe un troisième produit qui peut être utilisé pour nettoyer la machine à laver : l'acide citrique. Il peut être utilisé pour détartrer divers appareils, et pas seulement les machines à laver. L'acide citrique est couramment utilisé pour éliminer le calcaire des appareils tels que les bouilloires et les cafetières.
 
 {:.distinction.distinction-information}
 
-**How to clean the washing machine with citric acid?** Simply put 120 g of the product in the powder compartment. Similar to the previous methods - set a high temperature washing cycle.
+Comment nettoyer la machine à laver avec de l'acide citrique ? Il suffit de mettre 120 g de produit dans le compartiment à poudre. Comme pour les méthodes précédentes, réglez un cycle de lavage à haute température.
 
-### Cleaning washing machine with vinegar and baking soda
+### Nettoyage de la machine à laver avec du vinaigre et du bicarbonate de soude
 
-If the washing machine is very filthy and the previously mentioned methods do not work, you can combine the ingredients. For instance, **vinegar and baking soda** can be used to make an extremely effective cleaning scrub. To do it, mix 10 tablespoons with baking soda until solid paste is formed. Place the pulp at each problematic spot and leave it for a few hours. Finally, rinse it using a damp sponge or cloth, then wipe until dry. You can also **boost vinegar with citric acid**. The proportions are: 20 g of citric acid per one litre.
+Si la machine à laver est très sale et que les méthodes mentionnées ci-dessus ne fonctionnent pas, vous pouvez combiner les ingrédients. Par exemple, du vinaigre et du bicarbonate de soude peuvent être utilisés pour faire un nettoyage extrêmement efficace. Pour ce faire, mélangez 10 cuillères à soupe de bicarbonate de soude jusqu'à ce qu'il se forme une pâte solide. Placez la pâte à chaque endroit problématique et laissez-la reposer pendant quelques heures. Enfin, rincez-la à l'aide d'une éponge ou d'un chiffon humide, puis essuyez-la jusqu'à ce qu'elle soit sèche. Vous pouvez également renforcer le vinaigre avec de l'acide citrique. Les proportions sont les suivantes : 20 g d'acide citrique par litre.
 
-## Cleaning the washing machine - essential issues
+## Nettoyage de la machine à laver - points essentiels
 
-Just rinsing the **washing machine with a cleaning solution** might be not enough. One must pay attention to each part of the appliance. The most important components are:
+Il ne suffit pas de rincer la machine à laver avec une solution de nettoyage. Il faut faire attention à chaque partie de l'appareil. Les composants les plus importants sont les suivants :
 
 {:.list.list-positive}
 
-* **Filters** - usually they are located in the front of the machine. You should check it for small objects that often get caught in there. Small parts of garment, such as socks also often get in the filter. After cleaning it thoroughly, rinse it with pure water and put it back in its place.
-* **Detergent drawer** - this spot is very likely to grow mold. If the washing machine has been not cleaned for a very long time, the drawer should be removed from its socket and thoroughly scrubbed. It is best to use a sponge and an appropriate cleaning product, or soda. Apart from the drawer, the socket itself should be cleaned as well.
-* **Seal and other rubber parts** - those components are the most susceptible for damage from water. In front load types the most filth residues can be found under the door seal, therefore it should be cleaned regularly. The aforementioned paste made of vinegar and baking soda will be perfect for this purpose. It makes cleaning quick and easy.
+* Filtres - ils sont généralement situés à l'avant de la machine. Vous devez vérifier qu'il n'y a pas de petits objets qui s'y coincent souvent. De petites pièces de vêtement, comme les chaussettes, se retrouvent aussi souvent dans le filtre. Après l'avoir soigneusement nettoyé, rincez-le à l'eau pure et remettez-le à sa place.
+* Tiroir à détergent - cet endroit est très susceptible de contenir des moisissures. Si la machine à laver n'a pas été nettoyée depuis très longtemps, le tiroir doit être retiré de sa prise et soigneusement frotté. Il est préférable d'utiliser une éponge et un produit de nettoyage approprié, ou de la soude. Outre le tiroir, il faut également nettoyer la prise de courant elle-même.
+* Les joints et autres pièces en caoutchouc - ces composants sont les plus susceptibles d'être endommagés par l'eau. Dans les types à chargement frontal, les résidus les plus sales se trouvent sous le joint de la porte, c'est pourquoi il faut le nettoyer régulièrement. La pâte à base de vinaigre et de bicarbonate de soude mentionnée ci-dessus sera parfaite à cet effet. Elle permet un nettoyage rapide et facile.
 
 {% fig %}
 ![Cleaning the washing machine - essential issues](/uploads/cleaning-the-washing-machine-essential-issues.jpg "Cleaning the washing machine - essential issues")
@@ -110,52 +110,52 @@ Just rinsing the **washing machine with a cleaning solution** might be not enoug
 
 {:.distinction.distinction-warning}
 
-The mentioned above parts are most prone to filth, scale and mold growth, therefore they need careful attention. **Routine cleaning the washing machine** and its components will prevent major issues with the device in the future.
+Les parties mentionnées ci-dessus sont les plus sujettes à la saleté, au tartre et à la croissance de moisissures, c'est pourquoi elles nécessitent une attention particulière. Un nettoyage de routine de la machine à laver et de ses composants permettra d'éviter des problèmes majeurs à l'avenir.
 
-## How to clean the washing machine - cleaning tools
+## Comment nettoyer la machine à laver - outils de nettoyage
 
-To just wipe the surface, use a soft cloth. You can also **use a hard sponge** to scrub stains that are difficult to remove. Plastic bristle brushes are excellent for cleaning as well. However they should be used with caution when scrubbing delicate elements such as rubber seals. To access hard-to-reach places (for instance detergent drawer socket), you can use an old toothbrush.
+Pour simplement essuyer la surface, utilisez un chiffon doux. Vous pouvez également utiliser une éponge dure pour frotter les taches difficiles à enlever. Les brosses en poils de plastique sont également excellentes pour le nettoyage. Cependant, elles doivent être utilisées avec précaution pour frotter des éléments délicats tels que les joints en caoutchouc. Pour accéder aux endroits difficiles d'accès (par exemple la prise du tiroir à détergent), vous pouvez utiliser une vieille brosse à dents.
 
-**Cleaning the washing machine should be performed on a regular basis**. This important activity increases durability of the device and makes it more efficient. Routinely cleansed washing machine will wash the laundry better, making it fresh and pleasant-smelling. Natural cleaners are definitely worth the effort. They are highly effective and do not cost much. **Soda, vinegar and citric acid** can be found in almost every household. Using them is an easy way to take care of your washing machine and guarantee its long-lasting performance.
+Le nettoyage de la machine à laver doit être effectué régulièrement. Cette activité importante augmente la durabilité de l'appareil et le rend plus efficace. Un nettoyage régulier de la machine à laver permettra de mieux laver le linge, ce qui le rendra plus frais et plus agréable à l'odorat. Les nettoyants naturels en valent certainement la peine. Ils sont très efficaces et ne coûtent pas cher. On trouve de la soude, du vinaigre et de l'acide citrique dans presque tous les foyers. Leur utilisation est un moyen facile de prendre soin de votre machine à laver et de garantir son fonctionnement durable.
 
-## Cleaning the washing machine naturally - FAQ
+## Nettoyer la machine à laver naturellement - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-Cleaning the washing machine with vinegar - in what temperature?
+Nettoyer la machine à laver avec du vinaigre - à quelle température ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Cleaning the washing machine using vinegar should involve the highest possible temperature. It speeds up the reaction of acid with limescale, and makes the cleaning more effective. The best temperature is 90°C.
+Le nettoyage de la machine à laver au vinaigre doit se faire à la température la plus élevée possible. Cela accélère la réaction de l'acide avec le calcaire et rend le nettoyage plus efficace. La meilleure température est de 90°C.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-Cleaning the washing machine - does it affect its durability?
+Nettoyage de la machine à laver - cela affecte-t-il sa durabilité ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Cleaning the washing machine regularly is a very good way to prolong its life. Preventing the accumulation of scale on its parts is a guarantee that the device will run without fail for a long time.
+Le nettoyage régulier de la machine à laver est un très bon moyen de prolonger sa durée de vie. Prévenir l'accumulation de tartre sur ses pièces est une garantie que l'appareil fonctionnera sans défaillance pendant une longue période.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How much does it cost to clean the washing machine?
+Combien coûte le nettoyage de la machine à laver ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The cost of natural cleaning remedies is remarkably low. The only products to buy are vinegar, baking soda or citric acid, which are very cheap. Their price is a fraction of the store-bought chemical cleaners.
+Le coût des remèdes naturels de nettoyage est remarquablement bas. Les seuls produits à acheter sont le vinaigre, le bicarbonate de soude ou l'acide citrique, qui sont très bon marché. Leur prix ne représente qu'une fraction de celui des nettoyants chimiques achetés en magasin.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-Cleaning the washing machine - how often?
+Nettoyage de la machine à laver - à quelle fréquence ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-It is advised to descale your washing machine once a month. Doing it will prevent scale and other substances from accumulating inside of the device. All of the parts, such as filters and the drawer, should be cleansed manually every six months.
+Il est conseillé de détartrer votre machine à laver une fois par mois. Cela évitera que le tartre et d'autres substances ne s'accumulent à l'intérieur de l'appareil. Toutes les pièces, telles que les filtres et le tiroir, doivent être nettoyées manuellement tous les six mois.
 {% endfaqAnswer %}
 {% endfaqItem %}
