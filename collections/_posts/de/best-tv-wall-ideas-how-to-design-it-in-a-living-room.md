@@ -22,6 +22,7 @@ intro: A TV is the most basic equipment in almost every home. You can arrange it
   look like? Check the most interesting TV wall ideas.
 image: "/uploads/sciana-telewizyjna-zdjecie-glowne-1.jpg"
 related_products: []
+published: false
 
 ---
 ## A TV wall in the living room – a focal point of the interior

@@ -21,6 +21,7 @@ intro: Many homeowners dream of a stunning balcony garden. Plants on balcony are
   balcony garden?
 image: "/uploads/kwiaty-na-balkon.jpg"
 related_products: []
+published: false
 
 ---
 ## What are the best balcony plants?
