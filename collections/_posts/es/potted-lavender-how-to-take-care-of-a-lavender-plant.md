@@ -25,6 +25,7 @@ main_keywords:
 - how to dry lavender
 - when does lavender bloom
 - when to plant lavender
+published: false
 
 ---
 ## What are the characteristics of lavender?
