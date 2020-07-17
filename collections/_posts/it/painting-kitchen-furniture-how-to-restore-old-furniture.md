@@ -20,6 +20,7 @@ main_keywords:
 - chalk painting furniture
 - painting laminate furniture
 - kitchen furniture ideas
+published: false
 
 ---
 ## How to restore old furniture in the kitchen?
