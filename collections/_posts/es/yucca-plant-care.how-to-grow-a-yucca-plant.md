@@ -28,6 +28,7 @@ intro: Yucca is one of the most attractive plants that often appears in gardens.
   decide to buy a yucca plant – learn the most crucial details about it.
 image: "/uploads/juka-wymagania-i-pielegnacja-jak-uprawiac-juke-ogrodowa.jpg"
 related_products: []
+published: false
 
 ---
 ## Yucca plant – what kind of plant is it?
