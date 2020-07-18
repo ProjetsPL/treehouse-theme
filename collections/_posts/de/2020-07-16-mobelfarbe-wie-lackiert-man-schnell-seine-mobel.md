@@ -1,48 +1,48 @@
 ---
 layout: post
-date: 2019-12-18
+date: 2020-07-16
 toc: true
-title: Furniture paint - how to paint your furniture quickly?
-description: " Furniture paint is a good idea for a quick, inexpensive makeover. What
-  is the best furniture paint that will make the room look great? Learn some useful
-  tricks!"
+title: Möbelfarbe - wie lackiert man schnell seine Möbel?
+description: Möbelanstrich ist eine gute Idee für eine schnelle und preiswerte Renovierung.
+  Welches ist die beste Möbellackierung, die den Raum großartig aussehen lässt? Lernen
+  Sie einige nützliche Tricks!
 image: "/uploads/farba-do-mebli.jpg"
 promoted: false
-update_date: 2020-02-05
-intro: You don’t have to throw away your old furniture if its only flaw is being out-of-date.
-  If you just realized that your furnishing is boring, consider renovating it. Something
-  so simple as brand new colour will give the room a surprisingly fresh look. Furniture
-  paint might unearth the hidden potential of your old furniture. However one must
-  be careful to choose the right product. In this way you can be sure that the makeover
-  will be successful.
+update_date: 2020-07-16
+intro: Sie müssen Ihre alten Möbel nicht wegwerfen, wenn ihr einziger Makel darin
+  besteht, dass sie veraltet sind. Wenn Sie gerade erst bemerkt haben, dass Ihre Einrichtung
+  langweilig ist, ziehen Sie in Betracht, sie zu renovieren. Etwas so Einfaches wie
+  eine nagelneue Farbe wird dem Raum ein überraschend frisches Aussehen verleihen.
+  Ein Möbelanstrich könnte das verborgene Potential Ihrer alten Möbel zum Vorschein
+  bringen. Allerdings muss man bei der Auswahl des richtigen Produkts vorsichtig sein.
+  Auf diese Weise können Sie sicher sein, dass die Renovierung erfolgreich sein wird.
 main_keywords:
-- furniture paint
-- chalk furniture paint
-- best furniture paint
-- how paint furniture
-- furniture paint sprayer
-- furniture paint spray
-- furniture painting ideas
-- how to paint wood furniture
-- how to paint laminate furniture
-published: false
+- Möbelfarbe
+- Kreide-Möbelfarbe
+- bester Möbelanstrich
+- wie Möbel bemalen
+- Möbel-Lackierer
+- Möbel-Lackspray
+- Ideen für Möbelmalerei
+- wie man Holzmöbel bemalt
+- wie man Laminatmöbel lackiert
 
 ---
-## Types of furniture paint
+## Arten von Möbelanstrichen
 
-There are a lot of types of furniture paint available. Such product is perfect for renewing furniture. However among **various types of paint**, not each of them is suitable for every surface. Deciding, which type is the best furniture paint for one’s particular needs, it’s good to consider the result you expect. There are various kinds of paint on the market.
-
-{:.list}
-
-* **Acrylic paint** - acrylic resin acts here as a binder, whereas water is the diluter. Because of that, this kind of furniture paint dries quickly and the smell is relatively weak. They give either satin, semi-gloss or high-gloss finish. The surface is quite **susceptible to physical damage**, however it is weatherproof. It UV light resistant, therefore its colour will not change in the future. Such furniture paint is good for painting objects covered with veneer.
-* **Oil paint (alkyd paint)** - its main ingredients are alkyd resin and oils, thanks to which the paint is **weatherproof**. Surfaces covered with oil furniture paint are resistant to physical damage, water and temperature.
-
-  **Its biggest drawback is the acrid smell of the fumes.**
+Es sind viele verschiedene Arten von Möbellacken erhältlich. Dieses Produkt eignet sich perfekt für die Erneuerung von Möbeln. Von den verschiedenen Lackarten ist jedoch nicht jede für jede Oberfläche geeignet. Bei der Entscheidung, welcher Typ der beste Möbelanstrich für die eigenen Bedürfnisse ist, ist es gut, das erwartete Ergebnis zu berücksichtigen. Es gibt verschiedene Arten von Lacken auf dem Markt.
 
 {:.list}
 
-* **Chalk paint** - it is made of water, chalk powder and some pigment. Thanks to the simplicity of its composition you can easily prepare such paint at home. It provides a matte finish, dries quickly and does not smell. Chalk furniture paint is **ecological** and therefore suitable for children’s bedroom. It is not resistant against physical damage and weather, hence it should be coated with **additional layer of varnish or wax**. Chalk paint is perfect for furniture distressing techniques.
-* **Stain and varnish** - if you want to highlight the wood pattern, the most suitable products are varnish and stain. Stain might be coloured, but it doesn’t cover the natural pattern. Depending on the type of the product, varnishes and stains can give matt, semi-gloss or **high-gloss finish**. Water-based varnish does not smell and dries quickly, however it can be easily damaged. Alternatively you can use **polyurethane varnish**, but keep in mind that it might darken in time.
+* Acrylfarbe - Acrylharz wirkt hier als Bindemittel, während Wasser der Verdünner ist. Aus diesem Grund trocknet diese Art von Möbelfarbe schnell und der Geruch ist relativ schwach. Sie ergeben entweder eine satinierte, halbglänzende oder hochglänzende Oberfläche. Die Oberfläche ist recht anfällig für physikalische Beschädigungen, ist aber witterungsbeständig. Sie ist UV-Lichtbeständig, daher wird sich ihre Farbe auch in Zukunft nicht verändern. Solche Möbellacke eignen sich gut zum Lackieren von mit Furnier überzogenen Gegenständen.
+* Ölfarbe (Alkydfarbe) - ihre Hauptbestandteile sind Alkydharz und Öle, dank denen die Farbe wetterfest ist. Die mit Ölmöbelfarbe bedeckten Oberflächen sind gegen physische Beschädigungen, Wasser und Temperatur beständig.
+
+  Ihr größter Nachteil ist der beißende Geruch der Dämpfe.
+
+{:.list}
+
+* Kreidefarbe - sie wird aus Wasser, Kreidepulver und etwas Pigment hergestellt. Dank der Einfachheit ihrer Zusammensetzung können Sie solche Farbe leicht zu Hause vorbereiten. Sie hat eine matte Oberfläche, trocknet schnell und riecht nicht. Kreide-Möbelfarbe ist ökologisch und daher für Kinderzimmer geeignet. Sie ist nicht beständig gegen physische Beschädigungen und Witterungseinflüsse, deshalb sollte sie mit einer zusätzlichen Lack- oder Wachsschicht überzogen werden. Kreidefarbe eignet sich perfekt für Möbelbeeinträchtigungstechniken.
+* Beizen und Lacke - wenn Sie das Holzmuster hervorheben möchten, sind Lacke und Beizen die geeignetsten Produkte. Beize kann farbig sein, aber sie überdeckt nicht das natürliche Muster. Je nach Art des Produkts können Lacke und Beizen eine matte, halbglänzende oder hochglänzende Oberfläche ergeben. Lack auf Wasserbasis riecht nicht und trocknet schnell, kann jedoch leicht beschädigt werden. Alternativ können Sie Polyurethan-Lack verwenden, aber bedenken Sie, dass er mit der Zeit nachdunkeln kann.
 
 {% fig %}
 ![Types of furniture paint](/uploads/farby-do-mebli-rodzaje.jpg "Types of furniture paint")
@@ -50,28 +50,28 @@ There are a lot of types of furniture paint available. Such product is perfect f
 
 {:.list}
 
-* **Renovation paint** - such paints are produced specifically for the purpose of furniture renovation. They are suitable for wood, laminate and plywood, as well as ceramic tiles. This type of furniture paint is highly **resistant to any kind of damage**.  
+* Renovierungsanstrich - solche Anstriche werden speziell zum Zweck der Möbelrenovierung hergestellt. Sie sind für Holz, Laminat und Sperrholz sowie für Keramikfliesen geeignet. Diese Art von Möbelfarbe ist sehr widerstandsfähig gegen jede Art von Beschädigung.
 
 {:.distinction.distinction-warning}
-The biggest disadvantage of using them is a very long time to dry (even 12 hours). They should be applied at least twice.
+Der größte Nachteil ihrer Verwendung ist eine sehr lange Trocknungszeit (sogar 12 Stunden). Sie sollten mindestens zweimal aufgetragen werden.
 
-* **Chalkboard paint** - surfaces painted with chalkboard paint are suitable for writing with chalk. They can be wiped with dry or wet cloths. They might be a good idea for painting **children’s furniture**. Table or closet door painted with it will make a great writing surface for a child.
+* Kreidekreidefarbe - mit Kreidekreidefarbe bemalte Oberflächen eignen sich zum Schreiben mit Kreide. Sie können mit trockenen oder feuchten Tüchern abgewischt werden. Sie könnten eine gute Idee für das Bemalen von Kindermöbeln sein. Damit bemalte Tisch- oder Schranktüren eignen sich hervorragend als Schreibfläche für ein Kind.
 
-## How to paint furniture - before you start
+## Wie man Möbel streicht - bevor man anfängt
 
-**Before starting the renovation**, one should prepare everything accordingly. Take out each drawer and unscrew every knob, handle and hinge. All surfaces should be clean and dry. They should be sanded - that will ensure that the paint has a proper grip. Use **sandpaper** or a sanding sponge, which is easier to use.
+Bevor man mit der Renovierung beginnt, sollte man alles entsprechend vorbereiten. Nehmen Sie jede Schublade heraus und schrauben Sie alle Knöpfe, Griffe und Scharniere ab. Alle Oberflächen sollten sauber und trocken sein. Sie sollten geschliffen werden - das gewährleistet, dass die Farbe einen guten Halt hat. Verwenden Sie Schleifpapier oder einen Schleifschwamm, was einfacher zu benutzen ist.
 
 {:.distinction.distinction-information}
 
-Before covering the object with furniture paint, all surfaces should be checked for scratches and dents. Shallow scratches can be easily sanded. Deep indentations and holes should be filled with wood putty. Covering such defects with **furniture paint could highlight them.**
+Bevor das Objekt mit Möbellack überzogen wird, sollten alle Oberflächen auf Kratzer und Dellen geprüft werden. Flache Kratzer können leicht abgeschliffen werden. Tiefe Vertiefungen und Löcher sollten mit Holzspachtel ausgefüllt werden. Das Abdecken solcher Defekte mit Möbellack könnte sie hervorheben.
 
-If the surface is smooth, it should be dusted with a **damp cloth**. Some materials, especially solid wood, require using an undercoat. It should also be used under certain types of paint, such as **acrylic**.
+Wenn die Oberfläche glatt ist, sollte sie mit einem feuchten Tuch abgestaubt werden. Einige Materialien, insbesondere Massivholz, erfordern die Verwendung eines Voranstrichs. Sie sollte auch unter bestimmten Arten von Farbe, wie z.B. Acryl, verwendet werden.
 
-## Furniture paint techniques - quick renovation
+## Möbelmaltechniken - schnelle Renovierung
 
-To paint the furniture, use **short pile roller**. To access hard-to-reach places, you can use a small brush. To get satisfactory results and a long-lasting surface, make sure to cover each object with minimum two layers of paint. Wait for a suitable amount of time between painting each layer. You can additionally delicately **sand dried coating** before putting the next one - the paint will stick better.
+Verwenden Sie zum Streichen der Möbel einen Kurzstapelroller. Um schwer zugängliche Stellen zu erreichen, können Sie einen kleinen Pinsel verwenden. Um zufriedenstellende Ergebnisse und eine langlebige Oberfläche zu erhalten, achten Sie darauf, jedes Objekt mit mindestens zwei Farbschichten abzudecken. Warten Sie zwischen den einzelnen Farbschichten eine angemessene Zeitspanne ab. Sie können die getrocknete Schicht zusätzlich vorsichtig abschleifen, bevor Sie die nächste Schicht auftragen - die Farbe haftet dann besser.
 
-The lifespan of the result depends mainly on the used furniture paint, which should be selected specifically for the given purpose. Furniture such as cases, shelves, TV stands and dressers are hardly moved. Therefore you can choose less durable furniture paint for them, such as acrylic and chalk paint. If the renovated objects are going to stand in the garden, the kitchen or children’s room, it is worth to choose a product of a firmer finish. The best furniture paint in such cases is one that is **resistant against physical damage**.
+Die Lebensdauer des Ergebnisses hängt hauptsächlich von der verwendeten Möbellackierung ab, die speziell für den gegebenen Zweck ausgewählt werden sollte. Möbel wie Koffer, Regale, TV-Ständer und Kommoden werden kaum bewegt. Daher können Sie für sie weniger haltbare Möbellacke wie Acryl- und Kreidefarbe wählen. Wenn die renovierten Gegenstände im Garten, in der Küche oder im Kinderzimmer stehen sollen, lohnt es sich, ein Produkt mit einer festeren Oberfläche zu wählen. Die beste Möbellackierung ist in solchen Fällen eine, die gegen physische Beschädigungen resistent ist.
 
 {% fig %}
 ![How to paint furniture - before you start](/uploads/farba-do-mebli-dobry-sposob-na-metamorfoze.jpg "How to paint furniture - before you start")
@@ -79,60 +79,60 @@ The lifespan of the result depends mainly on the used furniture paint, which sho
 
 {:.distinction.distinction-warning}
 
-If the renovated object is going to stand in a children’s room, make sure that the product you are using is safe. Furniture covered with **strong smelling paint** should be thoroughly aired out before it can be placed in the room.
+Wenn das renovierte Objekt in einem Kinderzimmer stehen soll, vergewissern Sie sich, dass das von Ihnen verwendete Produkt sicher ist. Mit stark riechender Farbe bedeckte Möbel sollten gründlich gelüftet werden, bevor sie in den Raum gestellt werden können.
 
-Apart from using furniture paint, take care of the details as well. Damaged handles and knobs should be replaced with new ones. Well designed handles or knobs will improve the appearance of the object and will suit as an additional decoration. A good idea is placing **handles of colour contrasting with the rest of the furniture**. It will energise the whole room.
+Achten Sie neben der Verwendung von Möbelfarbe auch auf die Details. Beschädigte Griffe und Knöpfe sollten durch neue ersetzt werden. Gut gestaltete Griffe oder Knöpfe verbessern das Aussehen des Objekts und eignen sich als zusätzliche Dekoration. Eine gute Idee ist es, Griffe farblich mit dem Rest der Möbel zu kontrastieren. Das bringt den ganzen Raum in Schwung.
 
-While choosing the best furniture paint, one should think of the **the finish** that will be the most appropriate for the interior. Bright, glossy surfaces will make the room look bigger, whereas matte furniture is associated with elegance and simplicity.
+Bei der Auswahl der besten Möbelfarbe sollte man an die Ausführung denken, die sich am besten für das Interieur eignet. Helle, glänzende Oberflächen lassen den Raum größer erscheinen, während matte Möbel mit Eleganz und Schlichtheit assoziiert werden.
 
-If the object is made of solid wood, consider leaving it in its original colour. All that you need to do in such a case is varnishing the surface. For an interesting effect you can also **combine two different textures**. To do that, paint only a part of the object and varnish the rest, making the original wood pattern visible.
+Wenn das Objekt aus Massivholz gefertigt ist, sollten Sie in Betracht ziehen, es in seiner ursprünglichen Farbe zu belassen. Alles, was Sie in einem solchen Fall tun müssen, ist die Oberfläche zu lackieren. Für einen interessanten Effekt können Sie auch zwei verschiedene Texturen kombinieren. Dazu streichen Sie nur einen Teil des Objekts und lackieren den Rest, so dass das ursprüngliche Holzmuster sichtbar wird.
 
-## All-purpose furniture paint - white
+## Allzweckmöbelfarbe - weiß
 
-Quite a number of apartments is furnished with old veneer furniture. It might be old-fashioned, however many items still have interesting shapes. The **usual colours** of such objects range from dark to orange brown. Such shades are heavily outdated, as they tend to overwhelm the whole interior. For this reason, when renovating your furniture, consider choosing bright colours. **White is the most versatile colour** - it’s always trendy. The benefit of choosing white for interior design is making the rooms look bigger.
+Eine ganze Reihe von Wohnungen ist mit alten Furniermöbeln eingerichtet. Es mag altmodisch sein, aber viele Gegenstände haben noch interessante Formen. Die üblichen Farben solcher Gegenstände reichen von dunkel- bis orangebraun. Solche Farbtöne sind stark veraltet, da sie dazu neigen, das gesamte Interieur zu überladen. Aus diesem Grund sollten Sie bei der Renovierung Ihrer Möbel die Wahl heller Farben in Betracht ziehen. Weiß ist die vielseitigste Farbe - sie liegt immer im Trend. Der Vorteil der Wahl von Weiß für die Inneneinrichtung besteht darin, dass die Räume größer wirken.
 
 {% fig %}
 ![All-purpose furniture paint - white](/uploads/biala-farba-do-mebli-kolor-uniwersalny.jpg "All-purpose furniture paint - white")
 {% endfig %}
 
-Bright tones fit many designs, for instance currently dominating **modern decor style**. This type of interior design often combines whites and shades of grey.
+Helle Töne passen zu vielen Designs, zum Beispiel zu den derzeit dominierenden modernen Dekorstilen. Bei dieser Art der Inneneinrichtung werden oft Weiß- und Grautöne kombiniert.
 
-If the **modern interior design** seems too bleak, you don’t have to give up on elegant whites. Perhaps you will get inspired by the French provence style, which is much cozier than the modern one. This type is perfect for renovated furniture. Distressing is common for this design - such an effect is easy to recreate with chalk furniture paint.
+Wenn Ihnen die moderne Inneneinrichtung zu düster erscheint, müssen Sie nicht auf elegante Weißtöne verzichten. Vielleicht lassen Sie sich vom Stil der französischen Provence inspirieren, der viel gemütlicher ist als der moderne Stil. Dieser Typ eignet sich perfekt für renovierte Möbel. Verstörend ist bei diesem Design üblich - ein solcher Effekt lässt sich mit Kreidemöbelfarbe leicht nachstellen.
 
-Keep in mind that even the **best furniture paint** will not be able to cover the whole surface with just one layer. If you paint dark furniture white, make sure to put at least three layers of the product. If you put less, the dark colour might break through the bright paint.
+Denken Sie daran, dass selbst der beste Möbelanstrich nicht in der Lage ist, die gesamte Oberfläche mit nur einer Schicht zu bedecken. Wenn Sie dunkle Möbel weiß lackieren, achten Sie darauf, dass Sie mindestens drei Schichten des Produkts auftragen. Wenn Sie weniger Schichten auftragen, kann die dunkle Farbe die helle Farbe durchbrechen.
 
-If you opt for a **weathered look**, pick a dark colour as the base. The next layers should be brighter. When the paint is completely dry, gently sand the edges to bring out the dark colour.
+Wenn Sie sich für ein verwittertes Aussehen entscheiden, wählen Sie eine dunkle Farbe als Untergrund. Die nächsten Schichten sollten heller sein. Wenn die Farbe vollständig getrocknet ist, schleifen Sie die Ränder vorsichtig ab, um die dunkle Farbe hervorzuheben.
 
-**Painting old furniture** is a great way to refresh one’s space. When objects surrounding you become boring, furniture paint comes in handy. It will give your furniture a new look without the necessity to spend money on new objects. Such a solution is quick and relatively cheap.
+Das Streichen alter Möbel ist eine gute Möglichkeit, seinen Raum aufzufrischen. Wenn Gegenstände, die Sie umgeben, langweilig werden, kann Möbelfarbe sehr nützlich sein. Sie verleiht Ihren Möbeln ein neues Aussehen, ohne dass Sie Geld für neue Gegenstände ausgeben müssen. Eine solche Lösung ist schnell und relativ billig.
 
-## Furniture paint - FAQ
+## Möbelfarbe - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-Does the furniture always have to be sanded?
+Müssen die Möbel immer geschliffen werden?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Getting rid of the old layers of varnish or paint is necessary for every type of furniture. Only chalk furniture paint may be used without thorough sanding of the surface - but it still needs to be sanded on the surface. Otherwise the paint might not stick properly.
+Bei jeder Art von Möbeln ist es notwendig, die alten Lack- oder Farbschichten zu entfernen. Ohne gründliches Abschleifen der Oberfläche dürfen nur Kreide-Möbelfarben verwendet werden - die Oberfläche muss aber noch abgeschliffen werden. Andernfalls könnte die Farbe nicht richtig haften.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-Can I paint every type of furniture?
+Kann ich jede Art von Möbeln streichen?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Irrespective of the type or the colour of the surface, there is a product for each of them. There is a great choice of furniture paint on the market - for every type of furniture. The only thing to keep in mind is the right preparation of the painted surface.
+Unabhängig von der Art oder der Farbe der Oberfläche gibt es für jede von ihnen ein Produkt. Es gibt eine große Auswahl an Möbellacken auf dem Markt - für jede Art von Möbeln. Das Einzige, was man beachten muss, ist die richtige Vorbereitung der lackierten Oberfläche.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How long will the surface last?
+Wie lange wird die Oberfläche halten?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Durability of the surface depends on the type of furniture paint and on how the object is used. For instance, chalk paint should not be used for kitchen furniture. If the paint is by nature less durable, it needs to be secured with an additional layer of varnish.
+Die Haltbarkeit der Oberfläche hängt von der Art des Möbelanstrichs und von der Art der Nutzung des Objekts ab. Kreidefarbe sollte zum Beispiel nicht für Küchenmöbel verwendet werden. Wenn die Farbe von Natur aus weniger haltbar ist, muss sie mit einer zusätzlichen Lackschicht gesichert werden.
 {% endfaqAnswer %}
 {% endfaqItem %}
