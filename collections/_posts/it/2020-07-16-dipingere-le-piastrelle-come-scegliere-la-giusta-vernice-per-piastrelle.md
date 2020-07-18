@@ -1,135 +1,136 @@
 ---
 layout: post
-date: 2019-12-18
+date: 2020-07-16
 toc: true
-title: Painting tiles - how to choose the right tile paint?
+title: Dipingere le piastrelle - come scegliere la giusta vernice per piastrelle?
 description: Tile paint is a great product that you can use for a quick room renovation.
   It’s quite easy! Check which tile paint is the best for your bathroom or kitchen.
 image: "/uploads/farba-do-plytek-na-czym-polega-malowanie-plytek.jpg"
 promoted: false
-update_date: 2020-02-05
-intro: Your bathroom floor tiles that looked amazing several years ago, now are probably
-  not as great. They might seem unaesthetic, outdated, or simply boring. However a
-  complete tile replacement means a lot of expenses and a long time spent on a renovation.
-  You can avoid all the trouble if you decide to use tile paint. Painting tile is
-  much quicker than replacing them. Combined with some other minor changes, you can
-  completely transform your room over the course of one weekend.
+update_date: 2020-07-16
+intro: Le piastrelle del vostro pavimento del bagno che sembravano incredibili diversi
+  anni fa, ora probabilmente non sono così grandiose. Potrebbero sembrare antiestetiche,
+  antiquate o semplicemente noiose. Tuttavia, una sostituzione completa delle piastrelle
+  significa un sacco di spese e un lungo periodo di tempo speso per una ristrutturazione.
+  Si possono evitare tutti i problemi se si decide di usare la vernice per piastrelle.
+  Dipingere le piastrelle è molto più veloce che sostituirle. In combinazione con
+  alcune altre piccole modifiche, è possibile trasformare completamente la vostra
+  stanza nel corso di un fine settimana.
 main_keywords:
-- tile paint
-- bathroom floor tiles
-- painting tile
-- painting ceramic tile
-- paint tile floor
-- 'how to paint tile '
-- how to paint ceramic tile
-- how to paint bathroom tile
-published: false
+- vernice per piastrelle
+- piastrelle per il pavimento del bagno
+- tegola di pittura
+- pittura di piastrelle di ceramica
+- verniciare il pavimento in piastrelle
+- come dipingere le piastrelle
+- come dipingere piastrelle di ceramica
+- come dipingere le piastrelle del bagno
 
 ---
-## Painting tile - a quick makeover
+## Tegola da pittura - un rapido rifacimento
 
-Ceramic tile is a quite sturdy material. However the longer the tiles are exploited, the less radiant they become. **Floor tiles** lose their original gloss and the grout colour fades. Tile replacement might be pretty expensive and overly exhausting. Usually such makeover means either hiring a construction crew or sacrificing one’s own freetime to **do such a renovation yourself**.
+La ceramica è un materiale piuttosto robusto. Tuttavia, più a lungo le piastrelle vengono sfruttate, meno radiose diventano. Le piastrelle per pavimenti perdono la loro lucentezza originale e il colore dello stucco si scolorisce. La sostituzione delle piastrelle potrebbe essere piuttosto costosa e troppo faticosa. Di solito questo tipo di rifacimento comporta l'assunzione di una squadra di costruzione o il sacrificio del proprio tempo libero per fare una tale ristrutturazione da soli.
 
-Having that in mind, tile paint might be a good idea for a quick and **easy makeover**. Doing that you not only don’t have to worry about ripping up the old tiles and all the mess related to it. In comparison to a complete renovation of a bathroom or a kitchen, it is far cheaper. Because it’s so quick, painting tiles is perfect for people who tend to change the room decor on a spur of a moment. **Tile paint** can be layered multiple times. One just needs to stick to the product’s instructions.
+Avendo questo in mente, la vernice per piastrelle potrebbe essere una buona idea per un rifacimento facile e veloce. In questo modo non solo non ci si deve preoccupare di strappare le vecchie piastrelle e tutto il disordine che ne deriva. In confronto a una ristrutturazione completa di un bagno o una cucina, è molto più economico. Poiché è così veloce, dipingere le piastrelle è perfetto per chi tende a cambiare l'arredamento della stanza su due piedi. La pittura delle piastrelle può essere stratificata più volte. Basta attenersi alle istruzioni del prodotto.
 
-**Painting ceramic tiles** is not difficult and doesn’t require hiring a specialist. You can do such makeover by yourself. The only trick is to pick the right tile paint and make sure that the tiles are well prepared. No special tools are necessary.
+Dipingere piastrelle di ceramica non è difficile e non richiede l'assunzione di uno specialista. Si può fare questo tipo di rifacimento da soli. L'unico trucco è scegliere la giusta vernice per piastrelle e assicurarsi che le piastrelle siano ben preparate. Non sono necessari attrezzi speciali.
 
-An additional advantage of such **renovation** is the fact that it doesn’t generate any noise. Therefore you don’t have to worry about the peace of your neighbours. Tile paint won’t fill your interior with dust and dirt, as it is with tile replacement. The whole procedure is relatively easy and fast to do. It can be done over the course of just one day, and **maximum time is three days**. The time depends on the type of tile paint and the number of layers.
+Un ulteriore vantaggio di questo tipo di ristrutturazione è il fatto che non genera alcun rumore. Non dovete quindi preoccuparvi della pace dei vostri vicini. La vernice per piastrelle non riempirà il vostro interno con polvere e sporcizia, come lo è con la sostituzione delle piastrelle. L'intera procedura è relativamente facile e veloce da fare. Si può fare in un solo giorno, e il tempo massimo è di tre giorni. Il tempo dipende dal tipo di vernice per piastrelle e dal numero di strati.
 
 {% fig %}
 ![Painting tile - a quick makeover](/uploads/malowanie-plytek-sposob-na-szybki-remont.jpg "Painting tile - a quick makeover")
 {% endfig %}
 
-## Choosing the right tile paint
+## La scelta della giusta vernice per piastrelle
 
-Manufacturers offer quite limited choice of products suitable for **painting tiles**. You can buy two part tile paints. Their biggest advantage is the fact that they don’t require **using a primer** **before painting.** You should apply it if you choose the other type - one part paint.
+I produttori offrono una scelta piuttosto limitata di prodotti adatti alla verniciatura delle piastrelle. È possibile acquistare due parti di vernici per piastrelle. Il loro più grande vantaggio è il fatto che non richiedono l'uso di un primer prima di dipingere. Si dovrebbe applicare se si sceglie l'altro tipo - una parte di vernice.
 
-**Tile paint** can be also used for painting materials such as metal, glass, concrete, plastic and stone. The products available on the market are:
+La vernice per piastrelle può essere utilizzata anche per la pittura di materiali come metallo, vetro, cemento, plastica e pietra. I prodotti disponibili sul mercato sono:
 
 {:.list}
 
-* **Epoxy paint** - this type of tile paint is highly resistant to abrasion and the use of detergents. They are thinned with water. Using epoxy paint for tile is enjoyable, as it **does not produce any strong smell**.
-* **Alkyd urethane paint** - it is usually used for metal, but it might serve as tile paint as well. It produces a strong, resistant layer, therefore it is perfect for painting tiles on the floor.
-* **Acrylic tile paint** - such products are manufactured specifically for the use on tiles. Contrary to ordinary products of this type, acrylic tile paint is water resistant. It can be used to cover **glass and metal**.
+* Vernice epossidica - questo tipo di vernice per piastrelle è altamente resistente all'abrasione e all'uso di detergenti. Sono diluite con acqua. L'uso di vernice epossidica per piastrelle è piacevole, in quanto non produce alcun odore forte.
+* Vernice uretanica alchidica - di solito è usata per il metallo, ma può servire anche come vernice per piastrelle. Produce uno strato forte e resistente, quindi è perfetta per dipingere le piastrelle sul pavimento.
+* Vernice acrilica per piastrelle - questi prodotti sono fabbricati appositamente per l'uso su piastrelle. Contrariamente ai prodotti ordinari di questo tipo, la vernice acrilica per piastrelle è resistente all'acqua. Può essere usata per coprire vetro e metallo.
 
-Paint that is typically used for walls is not suitable for **painting tiles in the kitchen or bathroom**. Such paint would not stick to the smooth tile surface and it would just flow down. However, if you use a good primer before painting tiles, you can cover them with latex or oil paint. Make sure that the product you choose is **washable**, because tiles are usually placed in rooms of high humidity.
+La pittura che viene tipicamente utilizzata per le pareti non è adatta per dipingere le piastrelle in cucina o in bagno. Tale vernice non si attaccherebbe alla superficie liscia delle piastrelle e scorrerebbe semplicemente verso il basso. Tuttavia, se si utilizza un buon primer prima di dipingere le piastrelle, è possibile coprirle con lattice o vernice ad olio. Assicuratevi che il prodotto scelto sia lavabile, perché le piastrelle sono di solito collocate in stanze ad alta umidità.
 
 {:.distinction.distinction-warning}
 
-Such a solution might be beneficial if you demand a broad range of colours. Unfortunately, the choice of colours of tile paint is quite narrow.
+Una soluzione di questo tipo potrebbe essere utile se si richiede un'ampia gamma di colori. Purtroppo, la scelta dei colori della vernice per piastrelle è piuttosto ristretta.
 
-Keep in mind that paint that you use for wall tiles cannot necessarily be used for floor tiles. Floor tile paint should be highly resistant to abrasion. Wall tiles, particularly those in the shower, should be covered with a waterproof surface, immune to detergents. Deciding, which tile paint is the best for your needs, think of the finish you wish for. **Satin and matt surfaces are very elegant**, whereas shiny tiles will make the room look bigger.
+Tenete presente che la vernice che usate per le piastrelle da rivestimento non può necessariamente essere usata per le piastrelle da pavimento. La vernice per piastrelle deve essere altamente resistente all'abrasione. Le piastrelle da parete, in particolare quelle nella doccia, devono essere ricoperte con una superficie impermeabile, immune ai detergenti. Decidere, quale vernice per piastrelle è la migliore per le vostre esigenze, pensate alla finitura che desiderate. Le superfici satinate e opache sono molto eleganti, mentre le piastrelle lucide faranno apparire la stanza più grande.
 
 {% fig %}
 ![Choosing the right tile paint](/uploads/wybor-farby-do-plytek.jpg "Choosing the right tile paint")
 {% endfig %}
 
-## Tile paint - how to paint ceramic tile?
+## Pittura per piastrelle - come si dipinge una piastrella di ceramica?
 
-**Interior transformation with the use of tile paint is not a difficult task.** For satisfactory results, before painting one should prepare accordingly:
+La trasformazione interna con l'uso di vernice per piastrelle non è un compito difficile. Per risultati soddisfacenti, prima di dipingere ci si dovrebbe preparare di conseguenza:
 
 {:.list}
 
-1. Search for any holes and cracks in your tiles. Fill them with silicone sealant or a special type of glue. The surface should be as smooth as possible.
-2. Thoroughly **wash and degrease** each tile, using a special degreasing agent. Make sure the surface is completely dry.
-3. Remove old sealings and silicone. Afterwards you will apply new sealant.
-4. It is worth to sand the tiles, which will make painting much easier. This way tile paint and primer stick better to the surface. Use **fine sandpaper or a sanding sponge**. It is important particularly in places of high humidity, such as shower, and on the floor. After sanding make sure the tiles are thoroughly dusted.
-5. If you use primer, use appropriate product fit for the tile paint. One to two layers of primer is enough. When priming, start from grout and move onto the tiles.
+1. Cerca eventuali buchi e crepe nelle tue tegole. Riempitele con sigillante siliconico o con un tipo speciale di colla. La superficie deve essere il più liscia possibile.
+2. Lavare e sgrassare accuratamente ogni piastrella, utilizzando uno speciale sgrassante. Assicurarsi che la superficie sia completamente asciutta.
+3. Rimuovere le vecchie guarnizioni e il silicone. Successivamente si applica il nuovo sigillante.
+4. Vale la pena di carteggiare le piastrelle, il che renderà la pittura molto più facile. In questo modo la pittura delle piastrelle e il primer si attaccano meglio alla superficie. Utilizzare carta vetrata fine o una spugna abrasiva. È importante soprattutto in luoghi ad alta umidità, come la doccia, e sul pavimento. Dopo la carteggiatura assicurarsi che le piastrelle siano ben spolverate.
+5. Se si utilizza il primer, utilizzare il prodotto adatto per la pittura delle piastrelle. Uno o due strati di primer sono sufficienti. Quando si applica il primer, iniziare dalla stuccatura e passare sulle piastrelle.
 
-Before you start painting, **secure all elements** that are not going to be covered with paint. Usually it involves light switches, power sockets and sinks. Do do this, use masking tape.
+Prima di iniziare a dipingere, assicurate tutti gli elementi che non saranno coperti di vernice. Di solito si tratta di interruttori della luce, prese di corrente e lavandini. Fate questo, usate del nastro adesivo.
 
-## Painting - how to use tile paint?
+## Pittura - come si usa la vernice per piastrelle?
 
-If the surface has been **properly prepared**, you can proceed and start painting tiles. It is best to do it during dry and windy weather. If it is possible, open the window. It will prevent you from inhaling the fumes and will make the paint dry faster. Mix the product precisely the way the manufacturer recommends. The best tool for painting tiles is sponge roller. Do not use brush, as it would leave visible trails on the surface. Another method is spray painting, however it might be quite difficult. Such procedure requires using special equipment.
+Se la superficie è stata preparata correttamente, si può procedere e iniziare a verniciare le piastrelle. È meglio farlo con tempo asciutto e ventoso. Se possibile, aprire la finestra. Questo vi impedirà di inalare i fumi e farà asciugare la vernice più velocemente. Mescolare il prodotto esattamente nel modo raccomandato dal produttore. Lo strumento migliore per dipingere le piastrelle è il rullo di spugna. Non usare il pennello, perché lascerebbe tracce visibili sulla superficie. Un altro metodo è la pittura a spruzzo, tuttavia potrebbe essere abbastanza difficile. Tale procedura richiede l'utilizzo di attrezzature speciali.
 
-After applying the first layer leave it for **16-24 hours**. Then you can paint the tiles again. When painting floor tiles, one should apply three layers. Make sure to spread the paint as thinly as possible to avoid uneven surface.
+Dopo aver applicato il primo strato lasciarlo per 16-24 ore. Poi si possono ridipingere le piastrelle. Quando si dipingono le piastrelle del pavimento, si dovrebbero applicare tre strati. Assicuratevi di stendere la vernice il più sottile possibile per evitare superfici irregolari.
 
-If you use **epoxy paint for tiles**, you can add an additional layer of transparent varnish at the top. Floor tiles might be covered with a layer of special non slip varnish. Remember to re-apply silicone sealant where it’s needed.
+Se si utilizza vernice epossidica per le piastrelle, è possibile aggiungere un ulteriore strato di vernice trasparente nella parte superiore. Le piastrelle del pavimento possono essere ricoperte con uno strato di vernice speciale antiscivolo. Ricordate di riapplicare il sigillante siliconico dove è necessario.
 
-**Tile paint** becomes fully functional after some time after application. Stiffening of the surface may take up to 20 days. Therefore the tiles cannot be washed or wiped immediately after they dry. When the layers are still in the process of stiffening, it is easy to damage them. Be careful not to hit the surface and not to drop anything on it.
+La vernice per piastrelle diventa pienamente funzionale dopo qualche tempo dall'applicazione. L'irrigidimento della superficie può richiedere fino a 20 giorni. Pertanto le piastrelle non possono essere lavate o pulite immediatamente dopo l'asciugatura. Quando gli strati sono ancora in fase di irrigidimento, è facile danneggiarli. Fare attenzione a non colpire la superficie e a non far cadere nulla su di essa.
 
-You can paint your tiles on one colour, however it is not the only possibility. You can for instance create a **checkerboard pattern.** To do it, secure every other tile with masking tape after the first layer dries. Then just paint the remaining tiles using a contrasting colour. Another good idea is using special stencils with decorative patterns.
+È possibile dipingere le piastrelle su un unico colore, ma non è l'unica possibilità. Potete per esempio creare un motivo a scacchiera. Per farlo, fissate ogni altra piastrella con del nastro adesivo dopo che il primo strato si è asciugato. Poi basta dipingere le piastrelle rimanenti con un colore contrastante. Un'altra buona idea è quella di utilizzare speciali stencil con motivi decorativi.
 
-Painting tiles is the best solution for a **quick and effortless kitchen or bathroom renovation**. Its biggest advantage is the low price, especially in comparison to tile replacement. All one needs to purchase are painting tools, good tile paint and several additional materials. Painting tiles is a great idea for an effective and effortless makeover. You can do it yourself, which will bring you a lot of satisfaction.
+La pittura delle piastrelle è la soluzione migliore per una ristrutturazione rapida e senza sforzo della cucina o del bagno. Il suo più grande vantaggio è il prezzo basso, soprattutto in confronto alla sostituzione delle piastrelle. Tutto ciò di cui si ha bisogno per l'acquisto sono strumenti per dipingere, una buona vernice per piastrelle e diversi materiali aggiuntivi. Dipingere le piastrelle è una grande idea per un rifacimento efficace e senza sforzo. Si può fare da soli, il che vi darà molta soddisfazione.
 
-## Painting tiles - FAQ
+## Pittura di piastrelle - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-Which tile paint is the best?
+Quale vernice per piastrelle è la migliore?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Every available tile paint is good. Choosing a product, one should consider their own needs and expectations. Tile paint for floor should have high resistance to abrasion.
+Ogni vernice per piastrelle disponibile è buona. Scegliendo un prodotto, si dovrebbero considerare le proprie esigenze e aspettative. La vernice per piastrelle per pavimenti dovrebbe avere un'alta resistenza all'abrasione.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-Which tile paint is the most durable?
+Quale vernice per piastrelle è la più resistente?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Alkyd urethane paints make the strongest surfaces. They are abrasion-resistant, which is the biggest advantage. They can be used to paint metal elements.
+Le vernici alchidiche all'uretano rendono le superfici più resistenti. Sono resistenti all'abrasione, che è il vantaggio più grande. Possono essere utilizzate per verniciare elementi metallici.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How long does tile paint dry?
+Per quanto tempo si asciuga la vernice delle piastrelle?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-A single layer of tile paint dries approximately 16-24 hours. One should wait at least 16 hours before covering the surface with another layer. The paint stiffens completely after 20 days.
+Un singolo strato di vernice per piastrelle asciuga circa 16-24 ore. Si dovrebbe aspettare almeno 16 ore prima di ricoprire la superficie con un altro strato. La vernice si irrigidisce completamente dopo 20 giorni.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How much does tile paint cost?
+Quanto costa la vernice per piastrelle?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The cost depends on particular brand of the paint. When planning painting tiles one should consider several points. The size of the surface and the amount of layers that the tile paint requires are the most important.
+Il costo dipende dalla marca della vernice. Quando si pianificano le piastrelle di pittura si dovrebbero considerare diversi punti. La dimensione della superficie e la quantità di strati che la pittura delle piastrelle richiede sono i più importanti.
 {% endfaqAnswer %}
 {% endfaqItem %}
