@@ -1,142 +1,142 @@
 ---
 layout: post
-date: 2019-12-18
+date: 2020-07-16
 toc: true
-title: How to clean an oven? The best oven cleaners and home remedies
-description: How to clean oven effectively? It doesn’t have to be very complicated.
-  There are a lot of home remedies that will help you prepare the best oven cleaners.
+title: "¿Cómo se limpia un horno? Los mejores limpiadores de hornos y remedios caseros"
+description: "¿Cómo limpiar el horno de forma efectiva? No tiene que ser muy complicado.
+  Hay muchos remedios caseros que te ayudarán a preparar los mejores limpiadores de
+  hornos."
 image: "/uploads/jak-wyczyscic-piekarnik-to-nie-takie-trudne.jpg"
 promoted: false
-update_date: 2020-02-05
-intro: Cleaning an oven is not quite the most pleasurable activity. For this reason
-  you are most likely want to “do it later” - which leads to even bigger mess in your
-  kitchen. The old dirt becomes more difficult to remove and you are getting more
-  and more frustrated. Fortunately there are many quick and easy methods to help you.
-  Thanks to the oven cleaners shown below you will finally stop wondering how to clean
-  your oven.
+update_date: 2020-07-16
+intro: Limpiar un horno no es la actividad más placentera. Por esta razón lo más probable
+  es que quieras "hacerlo después", lo que lleva a un mayor desorden en tu cocina.
+  La vieja suciedad se hace más difícil de quitar y te frustras cada vez más. Afortunadamente
+  hay muchos métodos rápidos y fáciles para ayudarle. Gracias a los limpiadores de
+  horno que se muestran a continuación, finalmente dejará de preguntarse cómo limpiar
+  su horno.
 main_keywords:
-- oven
-- oven cleaner
-- how to clean oven
-- self cleaning oven
-- natural oven cleaner
-- clean oven
-- how to clean oven racks
-- how to clean a gas oven
-- how to clean inside of oven
-- how to clean oven window
-published: false
+- horno
+- limpiador de horno
+- cómo limpiar el horno
+- horno autolimpiante
+- limpiador natural de hornos
+- " horno limpio"
+- cómo limpiar las parrillas de los hornos
+- cómo limpiar un horno de gas
+- cómo limpiar el interior del horno
+- cómo limpiar la ventana del horno
 
 ---
-## How to clean oven? Oven cleaners and cleaning hacks
+## ¿Cómo limpiar el horno? Limpiadores de hornos y limpiadores de puertas
 
-If you don’t want to feel frustration every time you tidy your kitchen, you should **clean your oven** on a regular basis. It is best to wipe its insides every time after using it. In practice, however, such activities are postponed as much as possible, until the dirt becomes a serious obstacle.
+Si no quiere sentir frustración cada vez que ordene su cocina, debería limpiar su horno regularmente. Es mejor limpiar su interior cada vez después de usarlo. En la práctica, sin embargo, tales actividades se posponen tanto como sea posible, hasta que la suciedad se convierta en un serio obstáculo.
 
 {:.distinction.distinction-warning}
 
-There are many **commercial oven cleaners** available to buy. However their components often are controversial. The ingredients of such products are usually chemicals that tend to release strong smell. What’s more, they might be dangerous in contact with skin.
+Hay muchos limpiadores de hornos comerciales disponibles para comprar. Sin embargo, sus componentes a menudo son controvertidos. Los ingredientes de estos productos son generalmente químicos que tienden a liberar un fuerte olor. Además, pueden ser peligrosos en contacto con la piel.
 
-So how to clean the oven? Fortunately there are plenty of natural oven cleaners that are **eco-friendly, safe and most importantly - effective**.
+Entonces, ¿cómo se limpia el horno? Afortunadamente, hay muchos limpiadores naturales para hornos que son ecológicos, seguros y, lo más importante, efectivos.
 
 {% fig %}
 ![How to clean oven? Oven cleaners and cleaning hacks](/uploads/czym-wyczyscic-piekarnik.jpg "How to clean oven? Oven cleaners and cleaning hacks")
 {% endfig %}
 
-### Oven cleaners for light stains
+### Limpiadores de horno para manchas ligeras
 
-If the oven is not very dirty, it should be quite easy to clean. The best **oven cleaners** that do not require any effort or scrubbing are:
+Si el horno no está muy sucio, debería ser muy fácil de limpiar. Los mejores limpiadores de hornos que no requieren ningún esfuerzo o restregado son:
 
 {:.list}
 
-* **Steam for oven cleaning** - this method is possible only in convection ovens. How to clean the oven with steam? All you need is an ovenproof dish and half a lemon. Just pour some water into the dish and squeeze the lemon juice into it. Set the temperature to 170°C. The fan will spread the steam everywhere in the oven. Turn the oven off after a while and wait until it cools down. Then just wipe the interior with a clean **cloth soaked with water and dish soap**. Rinse the soap residues with water and leave the oven open until it dries completely.
-* **Water mixed with vinegar** - light stains can be cleaned with the use of water mixed with some vinegar. Just wipe the oven with a cloth soaked with the mixture, or in case of heavier stains - use a sponge scrubber. After the cleaning rinse the oven with clear water and wipe it dry, using paper towel or a dry piece of cloth.
+* Vapor para la limpieza del horno. Este método sólo es posible en los hornos de convección. ¿Cómo se limpia el horno con vapor? Todo lo que necesitas es un plato de horno y medio limón. Sólo tienes que verter un poco de agua en el plato y exprimir el jugo de limón en él. Poner la temperatura a 170°C. El ventilador esparcirá el vapor por todo el horno. Apaga el horno después de un rato y espera a que se enfríe. Luego sólo hay que limpiar el interior con un paño limpio empapado en agua y jabón para vajilla. Enjuague los restos de jabón con agua y deje el horno abierto hasta que se seque completamente.
+* Agua mezclada con vinagre - las manchas ligeras pueden limpiarse con el uso de agua mezclada con un poco de vinagre. Sólo hay que limpiar el horno con un paño empapado con la mezcla, o en caso de manchas más pesadas - usar una esponja fregadora. Después de la limpieza, enjuague el horno con agua clara y séquelo, usando una toalla de papel o un pedazo de tela seca.
 
 {% fig %}
 ![Oven cleaners for light stains](/uploads/jak-czyscic-piekarnik-z-lekkich-zabrudzen-1.jpg "Oven cleaners for light stains")
 {% endfig %}
 
-### How to clean oven - old dirt
+### Cómo limpiar el horno - suciedad vieja
 
-**Which oven cleaner** will clean stubborn dirt? Removing burnt and baked food particles is time consuming. Even thorough scrubbing might not be effective, unless you use the right methods. Fortunately there are some **reliable home remedies**.They will save you a lot of time and energy and you will clean your oven in no time.
+¿Qué limpiador de hornos limpiará la suciedad resistente? Eliminar las partículas de comida quemada y horneada lleva mucho tiempo. Incluso una limpieza a fondo puede no ser eficaz, a menos que se utilicen los métodos adecuados. Afortunadamente hay algunos remedios caseros fiables. Le ahorrarán mucho tiempo y energía y limpiará su horno en poco tiempo.
 
 {:.distinction.distinction-information}
 
-The most commonly used oven cleaner is baking soda. This substance is a highly effective - along with the dirt, it also **removes the unpleasant smell** of burnt food. You can use baking soda in combination with other products.
+El limpiador de hornos más utilizado es el bicarbonato de sodio. Esta sustancia es muy efectiva, junto con la suciedad, también elimina el desagradable olor a comida quemada. Puedes usar bicarbonato de sodio en combinación con otros productos.
 
-The most popular methods use mixtures of substances such as:
+Los métodos más populares utilizan mezclas de sustancias como:
 
 {:.list}
 
-* **Baking soda, dish detergent and water** - to prepare such a mixture, take half a glass of water, ¼ glass of baking soda and 1-2 teaspoons of dish soap. Mix it and place the substance onto every dirty spot in your oven. Leave if for a couple of minutes - the paste will **dissolve the dirt**. Next, clean the oven with a damp sponge, rinse it and leave until it dries completely.
-* **Baking soda, dish soap and vinegar** - mix those substances as follows: half a glass of soap, half a glass of vinegar and 5-10 tablespoons of baking soda. How to clean the oven with this method? Set the temperature to 50°C and turn the oven off once it warms up. Spread the paste in the oven and leave it overnight. Next day just clean it with warm water and leave it to dry.
-* **Baking soda, salt and hot water** - mix the soda and water 1:1 and add two teaspoons of salt. Place the paste onto every stained spot and leave it for 5 min to 12 hours. Clean the oven afterwards **using a sponge or a brush**. Rinse it with clean water and dry with a cloth or paper towel.
+* Bicarbonato de sodio, detergente para vajilla y agua - para preparar tal mezcla, tome medio vaso de agua, ¼ vaso de bicarbonato de sodio y 1-2 cucharaditas de jabón para vajilla. Mézclelo y coloque la sustancia en cada punto sucio del horno. Déjelo por un par de minutos - la pasta disolverá la suciedad. Luego, limpia el horno con una esponja húmeda, enjuágalo y déjalo hasta que se seque completamente.
+* Bicarbonato de sodio, jabón para platos y vinagre - mezclar estas sustancias de la siguiente manera: medio vaso de jabón, medio vaso de vinagre y 5-10 cucharadas de bicarbonato de sodio. ¿Cómo se limpia el horno con este método? Ponga la temperatura a 50°C y apague el horno una vez que se caliente. Esparcir la pasta en el horno y dejarla toda la noche. Al día siguiente, límpialo con agua tibia y déjalo secar.
+* Bicarbonato de sodio, sal y agua caliente. Mezclar el bicarbonato de sodio y el agua en una proporción de 1:1 y añadir dos cucharaditas de sal. Coloca la pasta en cada punto manchado y déjala durante 5 min. a 12 horas. Limpiar el horno después con una esponja o un cepillo. Aclárelo con agua limpia y séquelo con un paño o una toalla de papel.
 
 {% fig %}
 ![How to clean oven - old dirt](/uploads/jak-umyc-piekarnik-z-trwalych-zanieczyszczen.jpg "How to clean oven - old dirt")
 {% endfig %}
 
-## How to clean a self cleaning oven?
+## ¿Cómo se limpia un horno autolimpiante?
 
-Many modern ovens have the function of self-cleaning. There are two technologies that can be used for this purpose: catalytic and pyrolytic. **How to clean an oven** with such functions? Both of the methods involve burning the dirt. Pyrolytic ovens warm up to very high temperatures, usually 500°C. As a result, the food particles burn off and turn to ash. All that needs to be done afterwards is to **wipe the inside with a damp cloth**. Keep in mind that this type of oven cleaning requires completely emptying the oven. If left inside during cleaning, utensils such as baking trays would get completely destroyed.
+Muchos hornos modernos tienen la función de autolimpieza. Hay dos tecnologías que pueden ser utilizadas para este propósito: la catalítica y la pirolítica. ¿Cómo se puede limpiar un horno con tales funciones? Ambos métodos implican quemar la suciedad. Los hornos pirolíticos se calientan a temperaturas muy altas, normalmente 500°C. Como resultado, las partículas de comida se queman y se convierten en cenizas. Todo lo que hay que hacer después es limpiar el interior con un paño húmedo. Tengan en cuenta que este tipo de limpieza requiere vaciar completamente el horno. Si se deja dentro durante la limpieza, los utensilios como las bandejas de hornear se destruirán completamente.
 
-Catalytic cleaning, on the other hand, happens with the use of the oven. Special catalytic liners absorb grease and dirt.
+La limpieza catalítica, por otro lado, ocurre con el uso del horno. Los revestimientos catalíticos especiales absorben la grasa y la suciedad.
 
 {:.distinction.distinction-warning}
 
-If you have this type of oven, remember about **cleaning the liners regularly**. Do it delicately, as they are easy to damage. Do not let the grease to grow on them - if such layer gets too thick, you will have to replace the liners.
+Si tienes este tipo de horno, recuerda limpiar los revestimientos con regularidad. Hágalo con delicadeza, ya que son fáciles de dañar. No dejes que la grasa crezca en ellos, si la capa se vuelve demasiado gruesa, tendrás que reemplazar los revestimientos.
 
-## How to clean an oven - important elements
+## Cómo limpiar un horno - elementos importantes
 
-**When you clean your oven**, remember about its each component. Pay special attention to rack, trays, shelves and the outside. It is best to soak **removable parts such as rack and trays** in a separate bowl with water and vinegar. Scrub them afterwards using a sponge scrubber and dish soap.
+Cuando limpies el horno, recuerda cada uno de sus componentes. Preste especial atención a la estantería, las bandejas, los estantes y el exterior. Es mejor remojar las partes removibles como la rejilla y las bandejas en un recipiente separado con agua y vinagre. Frótelas después con una esponja y jabón para platos.
 
-You should also clean the front of the oven. The easiest method is pouring some water mixed with vinegar into a spray bottle. **Spray all stains** with the substance and wipe the surface with a soft cloth. If possible, unscrew all of the knobs and clean them in a bowl filled with water.
+También debe limpiar la parte delantera del horno. El método más fácil es verter un poco de agua mezclada con vinagre en un atomizador. Rocíe todas las manchas con la sustancia y limpie la superficie con un paño suave. Si es posible, desenrosque todas las perillas y límpielas en un tazón lleno de agua.
 
-How to clean oven from the outside? **Remember about the glass**, which is the most important part. It’s the place where all the grease accumulates and dries up. Such a film is difficult to remove. The methods with baking soda mentioned above will surely clean the dirty glass. If it’s possible with your particular oven model, take out the glass to make the cleaning easier.
+¿Cómo se limpia el horno desde fuera? Recuerde lo del vaso, que es la parte más importante. Es el lugar donde se acumula toda la grasa y se seca. Esta película es difícil de quitar. Los métodos con bicarbonato de sodio mencionados anteriormente seguramente limpiarán el vaso sucio. Si es posible con su modelo de horno particular, saque el vidrio para facilitar la limpieza.
 
 {:.distinction.distinction-information}
 
-**If the stains are very difficult** to get rid of, you can try cleaning with petroleum jelly, which should soften the dirt. Just spread it on the glass and wait a couple of minutes. Then use glass cleaner.
+Si las manchas son muy difíciles de eliminar, puede intentar limpiarlas con vaselina, que debería ablandar la suciedad. Sólo tienes que extenderla sobre el vidrio y esperar un par de minutos. Luego usa un limpiador de vidrios.
 
-**Cleaning the oven** doesn’t have to be difficult. Clean it on a regular basis while the dirt is still fresh and easy to remove. If you left it uncleaned for a long time though - don’t panic. There are **home remedies** available, along with recipes for oven cleaners. They are cheap and eco-friendly, and they will help you to remove even the most stubborn dirt. It’s worth the effort, as clean oven is a guarantee that your food will always taste as it should.
+Limpiar el horno no tiene por qué ser difícil. Límpialo regularmente mientras la suciedad esté todavía fresca y sea fácil de quitar. Si lo dejas sin limpiar durante mucho tiempo, no te asustes. Hay remedios caseros disponibles, junto con recetas para limpiar el horno. Son baratos y ecológicos, y le ayudarán a eliminar incluso la suciedad más difícil. Vale la pena el esfuerzo, ya que un horno limpio es una garantía de que tu comida siempre sabrá como debe.
 
-## How to clean an oven - FAQ
+## Cómo limpiar un horno - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-How to clean oven using home remedies?
+¿Cómo limpiar el horno usando remedios caseros?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Baking soda is the best oven cleaner used in many home recipes. Just mix it with another substance that you can find in your kitchen, for instance with vinegar and dish soap. Such paste will dissolve any kind of dirt.
+El bicarbonato de sodio es el mejor limpiador de hornos usado en muchas recetas caseras. Sólo mézclelo con otra sustancia que pueda encontrar en su cocina, por ejemplo con vinagre y jabón para platos. Esta pasta disolverá cualquier tipo de suciedad.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to clean oven without damaging it?
+¿Cómo limpiar el horno sin dañarlo?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-In order not to damage your oven while cleaning, soak all the stains before removing them. It will remove the necessity to scrub the dirt - that could scratch delicate parts. It the dirt is hard to remove, use a brush with plastic bristles. Make sure to be careful with scrubbing.
+Para no dañar el horno mientras lo limpias, empapa todas las manchas antes de quitarlas. Esto eliminará la necesidad de restregar la suciedad, que podría rayar las partes delicadas. Si la suciedad es difícil de quitar, use un cepillo con cerdas de plástico. Asegúrate de tener cuidado al restregar.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to clean a very dirty oven?
+¿Cómo limpiar un horno muy sucio?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-You can cover particularly stubborn stains with a special baking soda paste. It should work even with the most filthy surfaces. To prepare the paste, mix the soda with warm water and some salt. Leave it overnight and the stains should soften.
+Puedes cubrir las manchas más difíciles con una pasta especial de bicarbonato de sodio. Debería funcionar incluso con las superficies más sucias. Para preparar la pasta, mezcle el bicarbonato de sodio con agua caliente y un poco de sal. Déjelo toda la noche y las manchas se suavizarán.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to clean a convection oven?
+¿Cómo se limpia un horno de convección?
 {% endfaqQuestion %}
 
 {% faqAnswer %}  
-The best oven cleaner for convection ovens is steam. Pour water and lemon juice into a heat resistant dish and put it in the oven. Set the temperature to 170°C - the fan will spread the steam. After the oven cools down, wipe the surface with a soft cloth.
+El mejor limpiador de hornos de convección es el vapor. Vierta agua y jugo de limón en un plato resistente al calor y póngalo en el horno. Ponga la temperatura a 170°C - el ventilador esparcirá el vapor. Después de que el horno se enfríe, limpia la superficie con un paño suave.
 {% endfaqAnswer %}
 {% endfaqItem %}
