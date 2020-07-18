@@ -1,40 +1,42 @@
 ---
 layout: post
-date: 2019-12-18
+date: 2020-07-16
 toc: true
-title: Painting tiles - how to choose the right tile paint?
-description: Tile paint is a great product that you can use for a quick room renovation.
-  It’s quite easy! Check which tile paint is the best for your bathroom or kitchen.
+title: Bemalen von Fliesen - wie wählt man die richtige Fliesenfarbe aus?
+description: Fliesenfarbe ist ein großartiges Produkt, das Sie für eine schnelle Raumrenovierung
+  verwenden können. Es ist ganz einfach! Prüfen Sie, welche Fliesenfarbe die beste
+  für Ihr Bad oder Ihre Küche ist.
 image: "/uploads/farba-do-plytek-na-czym-polega-malowanie-plytek.jpg"
 promoted: false
-update_date: 2020-02-05
-intro: Your bathroom floor tiles that looked amazing several years ago, now are probably
-  not as great. They might seem unaesthetic, outdated, or simply boring. However a
-  complete tile replacement means a lot of expenses and a long time spent on a renovation.
-  You can avoid all the trouble if you decide to use tile paint. Painting tile is
-  much quicker than replacing them. Combined with some other minor changes, you can
-  completely transform your room over the course of one weekend.
+update_date: 2020-07-16
+intro: Die Bodenfliesen Ihres Badezimmers, die vor einigen Jahren fantastisch aussahen,
+  sind jetzt wahrscheinlich nicht mehr so toll. Sie könnten unästhetisch, veraltet
+  oder einfach nur langweilig wirken. Ein kompletter Austausch der Fliesen bedeutet
+  jedoch eine Menge Ausgaben und einen langen Zeitaufwand für eine Renovierung. Sie
+  können all diesen Ärger vermeiden, wenn Sie sich für die Verwendung von Fliesenfarbe
+  entscheiden. Fliesen zu streichen ist viel schneller als sie zu ersetzen. Kombiniert
+  mit einigen anderen kleinen Änderungen können Sie Ihr Zimmer im Laufe eines Wochenendes
+  komplett umgestalten.
 main_keywords:
-- tile paint
-- bathroom floor tiles
-- painting tile
-- painting ceramic tile
-- paint tile floor
-- 'how to paint tile '
-- how to paint ceramic tile
-- how to paint bathroom tile
-published: false
+- Fliesenfarbe
+- Badezimmer-Bodenfliesen
+- Malkachel
+- Bemalen von Keramikfliesen
+- Farbe Fliesenboden
+- wie man Fliesen bemalt
+- wie man Keramikfliesen bemalt
+- Bemalen von Fliesen
 
 ---
-## Painting tile - a quick makeover
+## Fliesen bemalen - ein schneller Umbau
 
-Ceramic tile is a quite sturdy material. However the longer the tiles are exploited, the less radiant they become. **Floor tiles** lose their original gloss and the grout colour fades. Tile replacement might be pretty expensive and overly exhausting. Usually such makeover means either hiring a construction crew or sacrificing one’s own freetime to **do such a renovation yourself**.
+Keramikfliesen sind ein recht robustes Material. Je länger die Fliesen jedoch ausgebeutet werden, desto weniger strahlend werden sie. Bodenfliesen verlieren ihren ursprünglichen Glanz und die Farbe des Fugenmörtels verblasst. Der Austausch von Fliesen kann ziemlich teuer und übermäßig anstrengend sein. Gewöhnlich bedeutet eine solche Renovierung entweder die Einstellung eines Bauteams oder den Verzicht auf die eigene Freizeit, um eine solche Renovierung selbst durchzuführen.
 
-Having that in mind, tile paint might be a good idea for a quick and **easy makeover**. Doing that you not only don’t have to worry about ripping up the old tiles and all the mess related to it. In comparison to a complete renovation of a bathroom or a kitchen, it is far cheaper. Because it’s so quick, painting tiles is perfect for people who tend to change the room decor on a spur of a moment. **Tile paint** can be layered multiple times. One just needs to stick to the product’s instructions.
+Wenn man das bedenkt, könnte Fliesenfarbe eine gute Idee für eine schnelle und einfache Renovierung sein. Dabei müssen Sie sich nicht nur keine Sorgen über das Zerreißen der alten Fliesen und all die damit verbundene Unordnung machen. Im Vergleich zu einer Komplettrenovierung eines Badezimmers oder einer Küche ist es viel billiger. Weil es so schnell geht, ist das Streichen der Fliesen perfekt für Leute, die dazu neigen, die Raumausstattung spontan zu ändern. Fliesenfarbe kann mehrfach geschichtet werden. Man muss sich nur an die Gebrauchsanweisung des Produkts halten.
 
-**Painting ceramic tiles** is not difficult and doesn’t require hiring a specialist. You can do such makeover by yourself. The only trick is to pick the right tile paint and make sure that the tiles are well prepared. No special tools are necessary.
+Das Bemalen von Keramikfliesen ist nicht schwierig und erfordert nicht die Einstellung eines Spezialisten. Sie können solche Renovierungsarbeiten selbst durchführen. Der einzige Trick besteht darin, die richtige Fliesenfarbe auszuwählen und sicherzustellen, dass die Fliesen gut vorbereitet sind. Es sind keine Spezialwerkzeuge erforderlich.
 
-An additional advantage of such **renovation** is the fact that it doesn’t generate any noise. Therefore you don’t have to worry about the peace of your neighbours. Tile paint won’t fill your interior with dust and dirt, as it is with tile replacement. The whole procedure is relatively easy and fast to do. It can be done over the course of just one day, and **maximum time is three days**. The time depends on the type of tile paint and the number of layers.
+Ein zusätzlicher Vorteil einer solchen Renovierung ist die Tatsache, dass sie keinen Lärm erzeugt. Sie müssen sich also keine Sorgen um die Ruhe Ihrer Nachbarn machen. Die Farbe der Fliesen füllt Ihr Interieur nicht mit Staub und Schmutz, wie es beim Austausch der Fliesen der Fall ist. Das ganze Verfahren ist relativ einfach und schnell durchzuführen. Es kann im Laufe eines Tages durchgeführt werden, und die maximale Dauer beträgt drei Tage. Die Zeit hängt von der Art der Fliesenfarbe und der Anzahl der Schichten ab.
 
 {% fig %}
 ![Painting tile - a quick makeover](/uploads/malowanie-plytek-sposob-na-szybki-remont.jpg "Painting tile - a quick makeover")
@@ -42,94 +44,94 @@ An additional advantage of such **renovation** is the fact that it doesn’t gen
 
 ## Choosing the right tile paint
 
-Manufacturers offer quite limited choice of products suitable for **painting tiles**. You can buy two part tile paints. Their biggest advantage is the fact that they don’t require **using a primer** **before painting.** You should apply it if you choose the other type - one part paint.
+Die Hersteller bieten eine recht begrenzte Auswahl an Produkten an, die zum Bemalen von Fliesen geeignet sind. Sie können zweiteilige Fliesenfarben kaufen. Ihr größter Vorteil ist die Tatsache, dass sie keine Grundierung vor dem Anstrich benötigen. Sie sollten sie auftragen, wenn Sie sich für den anderen Typ - einteilige Farbe - entscheiden.
 
-**Tile paint** can be also used for painting materials such as metal, glass, concrete, plastic and stone. The products available on the market are:
+Fliesenfarbe kann auch zum Anstreichen von Materialien wie Metall, Glas, Beton, Kunststoff und Stein verwendet werden. Die auf dem Markt erhältlichen Produkte sind:
 
 {:.list}
 
-* **Epoxy paint** - this type of tile paint is highly resistant to abrasion and the use of detergents. They are thinned with water. Using epoxy paint for tile is enjoyable, as it **does not produce any strong smell**.
-* **Alkyd urethane paint** - it is usually used for metal, but it might serve as tile paint as well. It produces a strong, resistant layer, therefore it is perfect for painting tiles on the floor.
-* **Acrylic tile paint** - such products are manufactured specifically for the use on tiles. Contrary to ordinary products of this type, acrylic tile paint is water resistant. It can be used to cover **glass and metal**.
+* Epoxidfarbe - diese Art von Fliesenfarbe ist sehr widerstandsfähig gegen Abrieb und den Einsatz von Reinigungsmitteln. Sie werden mit Wasser verdünnt. Die Verwendung von Epoxidfarbe für Fliesen ist angenehm, da sie keinen starken Geruch erzeugt.
+* Alkyd-Urethan-Farbe - sie wird normalerweise für Metall verwendet, kann aber auch als Fliesenfarbe dienen. Sie erzeugt eine starke, widerstandsfähige Schicht und eignet sich daher perfekt zum Bemalen von Fliesen auf dem Boden.
+* Acryl-Fliesenfarbe - solche Produkte werden speziell für die Verwendung auf Fliesen hergestellt. Im Gegensatz zu gewöhnlichen Produkten dieser Art ist Acrylfliesenfarbe wasserbeständig. Sie kann zur Abdeckung von Glas und Metall verwendet werden.
 
-Paint that is typically used for walls is not suitable for **painting tiles in the kitchen or bathroom**. Such paint would not stick to the smooth tile surface and it would just flow down. However, if you use a good primer before painting tiles, you can cover them with latex or oil paint. Make sure that the product you choose is **washable**, because tiles are usually placed in rooms of high humidity.
+Farbe, die typischerweise für Wände verwendet wird, eignet sich nicht für die Bemalung von Fliesen in der Küche oder im Bad. Solche Farbe würde nicht an der glatten Fliesenoberfläche haften und würde einfach herunterfließen. Wenn Sie jedoch vor dem Streichen der Fliesen eine gute Grundierung verwenden, können Sie sie mit Latex- oder Ölfarbe abdecken. Achten Sie darauf, daß das von Ihnen gewählte Produkt abwaschbar ist, da Fliesen in der Regel in Räumen mit hoher Luftfeuchtigkeit verlegt werden.
 
 {:.distinction.distinction-warning}
 
-Such a solution might be beneficial if you demand a broad range of colours. Unfortunately, the choice of colours of tile paint is quite narrow.
+Eine solche Lösung könnte vorteilhaft sein, wenn Sie eine breite Farbpalette verlangen. Leider ist die Farbauswahl bei Fliesenfarben recht begrenzt.
 
-Keep in mind that paint that you use for wall tiles cannot necessarily be used for floor tiles. Floor tile paint should be highly resistant to abrasion. Wall tiles, particularly those in the shower, should be covered with a waterproof surface, immune to detergents. Deciding, which tile paint is the best for your needs, think of the finish you wish for. **Satin and matt surfaces are very elegant**, whereas shiny tiles will make the room look bigger.
+Denken Sie daran, dass Farbe, die Sie für Wandfliesen verwenden, nicht unbedingt auch für Bodenfliesen verwendet werden kann. Farbe für Bodenfliesen sollte eine hohe Abriebfestigkeit aufweisen. Wandfliesen, insbesondere in der Dusche, sollten mit einer wasserfesten, gegen Reinigungsmittel unempfindlichen Oberfläche versehen sein. Bei der Entscheidung, welche Fliesenfarbe für Ihre Bedürfnisse am besten geeignet ist, denken Sie an die von Ihnen gewünschte Ausführung. Satinierte und matte Oberflächen sind sehr elegant, während glänzende Fliesen den Raum größer erscheinen lassen.
 
 {% fig %}
 ![Choosing the right tile paint](/uploads/wybor-farby-do-plytek.jpg "Choosing the right tile paint")
 {% endfig %}
 
-## Tile paint - how to paint ceramic tile?
+## Fliesenfarbe - wie bemalt man Keramikfliesen?
 
-**Interior transformation with the use of tile paint is not a difficult task.** For satisfactory results, before painting one should prepare accordingly:
+Die Umgestaltung von Innenräumen mit der Verwendung von Fliesenfarbe ist keine schwierige Aufgabe. Um zufriedenstellende Ergebnisse zu erzielen, sollte man sich vor dem Malen entsprechend vorbereiten:
 
 {:.list}
 
-1. Search for any holes and cracks in your tiles. Fill them with silicone sealant or a special type of glue. The surface should be as smooth as possible.
-2. Thoroughly **wash and degrease** each tile, using a special degreasing agent. Make sure the surface is completely dry.
-3. Remove old sealings and silicone. Afterwards you will apply new sealant.
-4. It is worth to sand the tiles, which will make painting much easier. This way tile paint and primer stick better to the surface. Use **fine sandpaper or a sanding sponge**. It is important particularly in places of high humidity, such as shower, and on the floor. After sanding make sure the tiles are thoroughly dusted.
-5. If you use primer, use appropriate product fit for the tile paint. One to two layers of primer is enough. When priming, start from grout and move onto the tiles.
+1. Suchen Sie nach Löchern und Rissen in Ihren Fliesen. Füllen Sie sie mit Silikondichtmasse oder einem speziellen Kleber. Die Oberfläche sollte so glatt wie möglich sein.
+2. Waschen und entfetten Sie jede Fliese gründlich mit einem speziellen Entfettungsmittel. Stellen Sie sicher, dass die Oberfläche vollständig trocken ist.
+3. Entfernen Sie alte Dichtungen und Silikon. Anschliessend tragen Sie eine neue Versiegelung auf.
+4. Es lohnt sich, die Fliesen abzuschleifen, was das Streichen wesentlich erleichtert. Auf diese Weise haften Fliesenfarbe und Grundierung besser auf der Oberfläche. Verwenden Sie feines Schleifpapier oder einen Schleifschwamm. Dies ist besonders an Orten mit hoher Luftfeuchtigkeit, wie z.B. unter der Dusche, und auf dem Boden wichtig. Achten Sie nach dem Schleifen darauf, dass die Fliesen gründlich abgestaubt werden.
+5. Wenn Sie eine Grundierung verwenden, verwenden Sie ein für die Fliesenfarbe geeignetes Produkt. Ein bis zwei Schichten Grundierung sind ausreichend. Beginnen Sie beim Grundieren mit dem Fugenmörtel und gehen Sie auf die Fliesen.
 
-Before you start painting, **secure all elements** that are not going to be covered with paint. Usually it involves light switches, power sockets and sinks. Do do this, use masking tape.
+Bevor Sie mit dem Malen beginnen, sichern Sie alle Elemente, die nicht mit Farbe bedeckt werden sollen. In der Regel handelt es sich dabei um Lichtschalter, Steckdosen und Spülbecken. Benutzen Sie dazu Abdeckband.
 
-## Painting - how to use tile paint?
+## Malerei - wie verwendet man Fliesenfarbe?
 
-If the surface has been **properly prepared**, you can proceed and start painting tiles. It is best to do it during dry and windy weather. If it is possible, open the window. It will prevent you from inhaling the fumes and will make the paint dry faster. Mix the product precisely the way the manufacturer recommends. The best tool for painting tiles is sponge roller. Do not use brush, as it would leave visible trails on the surface. Another method is spray painting, however it might be quite difficult. Such procedure requires using special equipment.
+Wenn die Oberfläche ordnungsgemäß vorbereitet wurde, können Sie fortfahren und mit dem Bemalen der Fliesen beginnen. Am besten ist es, dies bei trockenem und windigem Wetter zu tun. Wenn es möglich ist, öffnen Sie das Fenster. Das verhindert das Einatmen der Dämpfe und lässt die Farbe schneller trocknen. Mischen Sie das Produkt genau so, wie es der Hersteller empfiehlt. Das beste Werkzeug zum Bemalen von Fliesen ist der Schwammroller. Verwenden Sie keinen Pinsel, da dieser sichtbare Spuren auf der Oberfläche hinterlassen würde. Eine andere Methode ist die Spritzlackierung, die jedoch recht schwierig sein kann. Ein solches Verfahren erfordert den Einsatz von Spezialgeräten.
 
-After applying the first layer leave it for **16-24 hours**. Then you can paint the tiles again. When painting floor tiles, one should apply three layers. Make sure to spread the paint as thinly as possible to avoid uneven surface.
+Nach dem Auftragen der ersten Schicht lässt man sie 16-24 Stunden stehen. Danach können Sie die Fliesen erneut bemalen. Beim Anstreichen von Bodenfliesen sollte man drei Schichten auftragen. Achten Sie darauf, die Farbe so dünn wie möglich aufzutragen, um eine unebene Oberfläche zu vermeiden.
 
-If you use **epoxy paint for tiles**, you can add an additional layer of transparent varnish at the top. Floor tiles might be covered with a layer of special non slip varnish. Remember to re-apply silicone sealant where it’s needed.
+Wenn Sie Epoxidfarbe für die Fliesen verwenden, können Sie oben eine zusätzliche Schicht transparenten Lack auftragen. Bodenfliesen können mit einer Schicht eines speziellen rutschfesten Lacks versehen werden. Vergessen Sie nicht, dort, wo es nötig ist, erneut Silikondichtungsmittel aufzutragen.
 
-**Tile paint** becomes fully functional after some time after application. Stiffening of the surface may take up to 20 days. Therefore the tiles cannot be washed or wiped immediately after they dry. When the layers are still in the process of stiffening, it is easy to damage them. Be careful not to hit the surface and not to drop anything on it.
+Fliesenfarbe wird nach einiger Zeit nach dem Auftragen voll funktionsfähig. Die Versteifung der Oberfläche kann bis zu 20 Tage dauern. Daher können die Fliesen nicht sofort nach dem Trocknen gewaschen oder abgewischt werden. Wenn die Schichten noch im Prozess der Versteifung sind, können sie leicht beschädigt werden. Achten Sie darauf, nicht gegen die Oberfläche zu stoßen und nichts auf die Oberfläche fallen zu lassen.
 
-You can paint your tiles on one colour, however it is not the only possibility. You can for instance create a **checkerboard pattern.** To do it, secure every other tile with masking tape after the first layer dries. Then just paint the remaining tiles using a contrasting colour. Another good idea is using special stencils with decorative patterns.
+Sie können Ihre Fliesen mit einer Farbe bemalen, aber das ist nicht die einzige Möglichkeit. Sie können zum Beispiel ein Schachbrettmuster erstellen. Dazu befestigen Sie jede zweite Fliese mit Klebeband, nachdem die erste Schicht getrocknet ist. Dann streichen Sie einfach die restlichen Fliesen mit einer Kontrastfarbe. Eine weitere gute Idee ist die Verwendung spezieller Schablonen mit dekorativen Mustern.
 
-Painting tiles is the best solution for a **quick and effortless kitchen or bathroom renovation**. Its biggest advantage is the low price, especially in comparison to tile replacement. All one needs to purchase are painting tools, good tile paint and several additional materials. Painting tiles is a great idea for an effective and effortless makeover. You can do it yourself, which will bring you a lot of satisfaction.
+Das Bemalen der Fliesen ist die beste Lösung für eine schnelle und mühelose Renovierung von Küche oder Bad. Ihr größter Vorteil ist der niedrige Preis, insbesondere im Vergleich zum Austausch von Fliesen. Man braucht nur Malerwerkzeug, gute Fliesenfarbe und einige zusätzliche Materialien zu kaufen. Das Bemalen von Fliesen ist eine großartige Idee für eine effektive und mühelose Renovierung. Sie können es selbst machen, was Ihnen viel Befriedigung bringen wird.
 
-## Painting tiles - FAQ
+## Bemalen von Fliesen - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-Which tile paint is the best?
+Welche Fliesenfarbe ist die beste?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Every available tile paint is good. Choosing a product, one should consider their own needs and expectations. Tile paint for floor should have high resistance to abrasion.
+Jede verfügbare Fliesenfarbe ist gut. Bei der Auswahl eines Produkts sollte man die eigenen Bedürfnisse und Erwartungen berücksichtigen. Fliesenfarbe für Fußböden sollte eine hohe Abriebfestigkeit aufweisen.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-Which tile paint is the most durable?
+Welche Fliesenfarbe ist die haltbarste?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Alkyd urethane paints make the strongest surfaces. They are abrasion-resistant, which is the biggest advantage. They can be used to paint metal elements.
+Alkyd-Urethan-Farben bilden die stärksten Oberflächen. Sie sind abriebfest, was der größte Vorteil ist. Sie können zum Lackieren von Metallelementen verwendet werden.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How long does tile paint dry?
+Wie lange trocknet Fliesenfarbe?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-A single layer of tile paint dries approximately 16-24 hours. One should wait at least 16 hours before covering the surface with another layer. The paint stiffens completely after 20 days.
+Eine einzelne Schicht Fliesenfarbe trocknet etwa 16-24 Stunden. Man sollte mindestens 16 Stunden warten, bevor man die Oberfläche mit einer weiteren Schicht bedeckt. Die Farbe wird nach 20 Tagen vollständig steif.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How much does tile paint cost?
+Wie viel kostet Fliesenfarbe?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The cost depends on particular brand of the paint. When planning painting tiles one should consider several points. The size of the surface and the amount of layers that the tile paint requires are the most important.
+Die Kosten hängen von der jeweiligen Marke der Farbe ab. Bei der Planung der Bemalung von Fliesen sollte man mehrere Punkte berücksichtigen. Die Größe der Oberfläche und die Anzahl der Schichten, die die Fliesenfarbe erfordert, sind die wichtigsten.
 {% endfaqAnswer %}
 {% endfaqItem %}
