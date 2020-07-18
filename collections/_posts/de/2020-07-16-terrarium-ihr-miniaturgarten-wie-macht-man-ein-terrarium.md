@@ -1,91 +1,90 @@
 ---
 layout: post
-date: 2020-01-08
+date: 2020-07-16
 toc: true
-title: Terrarium - your miniature garden. How to make a terrarium?
-description: Terrarium is a very unusual, low-effort decoration. You might wonder
-  how to make a terrarium. It is very easy to prepare - you don’t need any complicated
-  tools.
+title: Terrarium - Ihr Miniaturgarten. Wie macht man ein Terrarium?
+description: Das Terrarium ist eine sehr ungewöhnliche, aufwandsarme Dekoration. Sie
+  fragen sich vielleicht, wie man ein Terrarium macht. Es ist sehr einfach vorzubereiten
+  - Sie brauchen keine komplizierten Werkzeuge.
 image: "/uploads/terrarium-your-miniature-garden.jpg"
 promoted: false
-update_date: 2020-02-05
-intro: Terrarium is an increasingly popular home decoration. Such project is very
-  easy to make and it fits every home decor style. Terrarium plants look very interesting
-  in a glass container. They will fascinate anyone visiting your house. What’s more,
-  they are perfect plants for busy people who don’t have time to remember to water
-  them. You won’t spend much time on taking care of terraria, as they are practically
-  self-supporting.
+update_date: 2020-07-16
+intro: Terrarien sind eine immer beliebtere Heimdekoration. Ein solches Projekt ist
+  sehr einfach zu machen und passt zu jedem Einrichtungsstil. Terrarienpflanzen sehen
+  in einem Glasbehälter sehr interessant aus. Sie werden jeden Besucher Ihres Hauses
+  faszinieren. Außerdem sind sie perfekte Pflanzen für vielbeschäftigte Menschen,
+  die keine Zeit haben, daran zu denken, sie zu gießen. Sie werden nicht viel Zeit
+  für die Pflege von Terrarien aufwenden, da sie praktisch selbsttragend sind.
 main_keywords:
 - terrarium
-- terrarium plants
 - diy terrarium
-- making a terrarium
-- how to make a terrarium
-- what is a terrarium
-- how to plant a terrarium
-- how to make terrarium plants
-published: false
+- Terrarienpflanzen
+- Herstellung eines Terrariums
+- wie man ein Terrarium macht
+- Was ist ein Terrarium
+- wie man ein Terrarium pflanzt
+- wie man Terrarienpflanzen herstellt
 
 ---
-## What is a terrarium? Tiny forest in a glass
+## Was ist ein Terrarium? Winziger Wald im Glas
 
-Plants should be present in every household. Living in a city means a very limited contact with nature. For this reason, plants for many are absolutely necessary elements of interior decoration. They have soothing effect on human body. **Terraria** are perfect for this purpose - such a **miniature garden** is a closed ecosystem which looks like a piece of a real forest. Observing what is happening inside of the glass is a very relaxing activity.
-
-{:.distinction.distinction-information}
-**Plant terrarium** was first invented in the Victorian era by an English doctor Nathaniel Bagshaw Ward. His glass container had a rectangular shape and was known as **Wardian case**. It was designed to carry plants during long trips overseas.
-
-Regardless of the shape of the container, all terraria work the same. **A microclimate develops inside of the sealed vessel**. That keeps the organisms inside alive. Because the whole construction is airtight, the weather outside does not affect them.
-
-## How to pick the right terrarium plants?
-
-Making your own **terrarium** does not require any special skills. All you need is your own creativity. It is worth to learn some tips that will help you make a perfect, long lasting terrarium. One of the most important issues while preparing a **bottle garden** is the choice of the right plants. Keep in mind that not all of the species will live together in harmony.
+Pflanzen sollten in jedem Haushalt vorhanden sein. Das Leben in einer Stadt bedeutet einen sehr begrenzten Kontakt mit der Natur. Aus diesem Grund sind Pflanzen für viele absolut notwendige Elemente der Inneneinrichtung. Sie haben eine beruhigende Wirkung auf den menschlichen Körper. Terrarien eignen sich perfekt für diesen Zweck - ein solcher Miniaturgarten ist ein geschlossenes Ökosystem, das wie ein Stück echter Wald aussieht. Zu beobachten, was im Inneren des Glases geschieht, ist eine sehr entspannende Tätigkeit.
 
 {:.distinction.distinction-information}
-Preparing a **terrarium**, you have two options. You can make a closed terrarium and seal the container so the plants thrive in their own climate. You can also make an open decoration that needs to be watered from time to time. The type of plants that you will choose depends on this decision.
+Das Pflanzenterrarium wurde erstmals in der viktorianischen Ära von dem englischen Arzt Nathaniel Bagshaw Ward erfunden. Sein Glasbehälter hatte eine rechteckige Form und war als Wardian Case bekannt. Er war dazu gedacht, Pflanzen auf langen Reisen nach Übersee zu transportieren.
+
+Unabhängig von der Form des Behälters funktionieren alle Terrarien gleich. Im Inneren des versiegelten Gefäßes entwickelt sich ein Mikroklima. Das hält die Organismen im Inneren am Leben. Da die gesamte Konstruktion luftdicht ist, werden sie vom Wetter draußen nicht beeinträchtigt.
+
+## Wie wählt man die richtigen Terrarienpflanzen aus?
+
+Die Herstellung eines eigenen Terrariums erfordert keine besonderen Fähigkeiten. Alles, was Sie brauchen, ist Ihre eigene Kreativität. Es lohnt sich, einige Tipps zu lernen, die Ihnen helfen werden, ein perfektes, langlebiges Terrarium zu bauen. Einer der wichtigsten Punkte bei der Vorbereitung eines Flaschengartens ist die Auswahl der richtigen Pflanzen. Denken Sie daran, dass nicht alle Arten harmonisch zusammenleben werden.
+
+{:.distinction.distinction-information}
+Bei der Vorbereitung eines Terrariums haben Sie zwei Möglichkeiten. Sie können ein geschlossenes Terrarium einrichten und den Behälter versiegeln, damit die Pflanzen in ihrem eigenen Klima gedeihen. Sie können auch eine offene Dekoration anfertigen, die von Zeit zu Zeit gegossen werden muss. Die Art der Pflanzen, die Sie wählen werden, hängt von dieser Entscheidung ab.
 
 {% fig %}
 ![How to pick the right terrarium plants?](/uploads/how-to-pick-the-right-terrarium-plants.jpg "How to pick the right terrarium plants?")
 {% endfig %}
 
-Closed vessels may contain **tropical plants** and the ones that like humidity. Slow growing plants will be the best choice - they won’t change their appearance very much for a long time.
+Geschlossene Behälter können tropische Pflanzen und solche, die Feuchtigkeit mögen, enthalten. Langsam wachsende Pflanzen werden die beste Wahl sein - sie werden ihr Aussehen für lange Zeit nicht sehr verändern.
 
-Compositions inside of sealed terraria may use **species** such as:
+Für Zusammensetzungen in geschlossenen Terrarien können folgende Arten verwendet werden:
 
 {:.list.list-positive}
 
-* fern,
-* moss,
-* peace lily,
-* rubber plant,
-* hedera (ivy),
-* pilea,
-* glechoma (ground-ivy).
+* Farn,
+* Moos,
+* Friedenslilie,
+* Gummibaum,
+* hedera (Efeu),
+* Pilea,
+* Glechom (Bodenlebewesen).
 
 {:.distinction.distinction-warning}
-Keep in mind that **in some states it is illegal to collect moss** from a forest. If you are not sure if you can gather moss in your country, it might be a better idea to buy it at a florist’s. You might also collect it in your own yard, if you own it.
+Denken Sie daran, dass es in einigen Staaten illegal ist, Moos aus einem Wald zu sammeln. Wenn Sie nicht sicher sind, ob Sie in Ihrem Land Moos sammeln können, ist es vielleicht eine bessere Idee, es in einem Blumenladen zu kaufen. Sie können das Moos auch in Ihrem eigenen Garten sammeln, wenn Sie ihn besitzen.
 
-Apart from the plants, you should also collect some **decoration elements** for your terrarium. For a closed terrarium it is best to use:
+Abgesehen von den Pflanzen sollten Sie auch einige Dekorationselemente für Ihr Terrarium sammeln. Für ein geschlossenes Terrarium ist es am besten zu verwenden:
 
 {:.list}
 
-* rocks and pebbles,
-* tree bark,
-* cones,
-* small branches.
+* Felsen und Kieselsteine,
+* Baumrinde,
+* Kegel,
+* kleine Zweigstellen.
 
 {% fig %}
 ![Decoration elements](/uploads/dodatki-dekoracyjne-1.jpg "Decoration elements")
 {% endfig %}
 
-If your composition will be placed in an open container, you should choose plants such as **cacti and succulents**. You have free choice in this matter. For a good visual effect it is good to match plants with interesting forms and shapes. For instance you could choose **echeverias that look like roses and living stones** (lithops). The only restriction for your terrarium is to not to match plants living in different environments, for instance ferns with succulents.
+Wenn Ihre Komposition in einen offenen Behälter gestellt werden soll, sollten Sie Pflanzen wie Kakteen und Sukkulenten wählen. Sie haben in dieser Frage freie Wahl. Für einen guten visuellen Effekt ist es gut, Pflanzen mit interessanten Formen und Gestalten zu kombinieren. Sie könnten zum Beispiel Echeverien wählen, die wie Rosen und lebende Steine (Lithops) aussehen. Die einzige Einschränkung für Ihr Terrarium besteht darin, Pflanzen, die in verschiedenen Umgebungen leben, z.B. Farne mit Sukkulenten, nicht zu kombinieren.
 
-## How to make a terrarium?
+## Wie macht man ein Terrarium?
 
-**Before starting setting up the composition** in your terrarium, you should gather all the relevant equipment. Apart from the **right plants** you will also need:
+Bevor Sie mit der Einrichtung der Zusammensetzung in Ihrem Terrarium beginnen, sollten Sie alle relevanten Geräte zusammenstellen. Neben den richtigen Pflanzen brauchen Sie auch die richtigen:
 
 {:.list}
 
-* **A glass container** - the vessel might be of any shape. If the plants you gathered like humidity, the container needs a tight lid. The size of the vessel should match the scale of the plants. It is worth to choose a bigger jar for your **terrarium**, so that the plants will have some space to grow. You can choose any container that is made of glass - a big mason jar, wide neck bottles, or even old incandescent light bulbs (remember to remove the filament from the inside).
+* Ein Glasbehälter - das Gefäß kann jede beliebige Form haben. Wenn die Pflanzen, die Sie gesammelt haben, Feuchtigkeit mögen, braucht der Behälter einen dichten Deckel. Die Grösse des Gefässes sollte der Grösse der Pflanzen entsprechen. Es lohnt sich, ein größeres Glasgefäß für Ihr Terrarium zu wählen, damit die Pflanzen etwas Platz zum Wachsen haben. Sie können ein beliebiges Gefäß aus Glas wählen - ein großes gemauertes Gefäß, Weithalsflaschen oder sogar alte Glühbirnen (denken Sie daran, den Glühfaden von innen zu entfernen).
 
 {% fig %}
 ![Glass container](/uploads/Szklane naczynie.jpg "Glass container")
@@ -93,84 +92,87 @@ If your composition will be placed in an open container, you should choose plant
 
 {:.list}
 
-* **Soil** - you can use all-purpose potting soil, however every other type will suffice. Make sure that it is **free from diseases and fungi**. If your terrarium is going to contain **succulents**, you should probably use soil specifically made for them.
-* **Activated charcoal** - you can purchase it at the pharmacy or in a pet shop. **Charcoal is going to regulate the level of humidity in a closed container**. It will also prevent the plants from rotting. You can skip this part in case of an open container.
-* **Gravel or sand** - terrarium needs a drainage layer. material such as sand or gravel gather the excess of water and **protect the roots from drenching**. You can also use keramsite for this purpose.
+* Erde - Sie können Allzweck-Blumenerde verwenden, aber jeder andere Typ reicht aus. Achten Sie darauf, dass sie frei von Krankheiten und Pilzen ist. Wenn Ihr Terrarium Sukkulenten enthalten soll, sollten Sie wahrscheinlich speziell für sie angefertigte Erde verwenden.
+* Aktivkohle - Sie können sie in der Apotheke oder in einem Zoofachgeschäft kaufen. Aktivkohle reguliert den Feuchtigkeitsgehalt in einem geschlossenen Behälter. Sie verhindert auch, dass die Pflanzen verrotten. Bei einem offenen Behälter können Sie diesen Teil überspringen.
+* Kies oder Sand - ein Terrarium braucht eine Drainageschicht. Material wie Sand oder Kies sammelt das überschüssige Wasser und schützt die Wurzeln vor Durchnässung. Zu diesem Zweck können Sie auch Keramsite verwenden.
 
 {% fig %}
 ![Gravel or sand](/uploads/gravel-or-sand.jpg "Gravel or sand")
 {% endfig %}
 
-### Making a terrarium
+### Herstellung eines Terrariums
 
-If you prepared all the needed elements, you can start making your **DIY terrarium** project. It is good to protect your working space with old newspapers. This will **minimise the cleaning after your work is done**.
+Wenn Sie alle erforderlichen Elemente vorbereitet haben, können Sie mit Ihrem Heimwerker-Terrarienprojekt beginnen. Es ist gut, Ihren Arbeitsraum mit alten Zeitungen zu schützen. Dadurch wird die Reinigung nach getaner Arbeit auf ein Minimum reduziert.
 
 {:.list}
 
-1. Wash the containers and sterilize them with hot water. The glass should be perfectly dry. If you are not sure whether the **drainage material** and the soil is clean, you can parch it in an oven. It will kill any fungi and bacteria.
-2. Place the first layer - the drainage - at the bottom of the container. **The layer of gravel or sand should be a few centimeters thick** - 2 to 5 cm.
-3. The second layer is the **activated charcoal**. Skip this step in case of an open decoration.
-4. Put the soil in the vessel. It should have from 5 to 10 cm. You can **smooth the surface using your hands**. Be careful not to stain the glass walls, as it is hard to clean them once the plants are inside.
-5. Dig several holes in the soil and put the plants in them. **Cover the roots with soil** and press it using your hands or a spoon. If you are planting a **cactus**, use thick gloves to avoid the risk of hurting yourself with sharp spikes.
-6. Place the **decorations** - cones, pebbles, tree bark and moss. **Do not place heavy stones on the moss**, as it could make it rot.
-7. The last stage is watering your **terrarium**. It is best to use a pipette and pour around 10-15 millilitres of water. Then **tightly close** the container (if it’s closed terrarium).
+1. Waschen Sie die Behälter und sterilisieren Sie sie mit heißem Wasser. Das Glas sollte vollkommen trocken sein. Wenn Sie nicht sicher sind, ob das Drainagematerial und der Boden sauber sind, können Sie es in einem Ofen austrocknen lassen. Das tötet alle Pilze und Bakterien ab.
+2. Legen Sie die erste Schicht - die Drainage - auf den Boden des Behälters. Die Schicht aus Kies oder Sand sollte einige Zentimeter dick sein - 2 bis 5 cm.
+
+   Die zweite Schicht ist die Aktivkohle. Überspringen Sie diesen Schritt im Falle einer offenen Dekoration.
+3. Geben Sie die Erde in das Gefäß. Sie sollte 5 bis 10 cm haben. Sie können die Oberfläche mit den Händen glätten. Achten Sie darauf, die Glaswände nicht zu beflecken, da es schwierig ist, sie zu reinigen, wenn die Pflanzen erst einmal drinnen sind.
+4. Graben Sie mehrere Löcher in die Erde und setzen Sie die Pflanzen hinein. Bedecken Sie die Wurzeln mit Erde und drücken Sie sie mit den Händen oder einem Löffel an. Wenn Sie einen Kaktus pflanzen, verwenden Sie dicke Handschuhe, um das Risiko zu vermeiden, sich mit scharfen Stacheln zu verletzen.
+5. Platzieren Sie die Dekorationen - Zapfen, Kieselsteine, Baumrinde und Moos. Legen Sie keine schweren Steine auf das Moos, da das Moos sonst verfaulen könnte.
+6. Der letzte Schritt ist die Bewässerung Ihres Terrariums. Am besten verwenden Sie eine Pipette und gießen etwa 10-15 Milliliter Wasser ein. Verschließen Sie dann den Behälter fest (wenn es sich um ein geschlossenes Terrarium handelt).
 
 {% fig %}
 ![Making a terrarium](/uploads/making-a-terrarium.jpg "Making a terrarium")
 {% endfig %}
 
-## How to plant a terrarium?
+## Wie pflanzt man ein Terrarium?
 
-**Terrarium** should be placed in a bright, but not sunny spot. After a few days you should notice water on the walls of your closed terrarium. If the evaporation process is too intense, you can open the container for a few hours and then close it again. On the other hand, if you won’t notice any water on the walls within 2 weeks, pour about 2 mililitres of water into the soil. You can repeat this until water starts evaporating noticeably.
+Das Terrarium sollte an einem hellen, aber nicht sonnigen Ort aufgestellt werden. Nach einigen Tagen sollten Sie Wasser an den Wänden Ihres geschlossenen Terrariums bemerken. Wenn der Verdunstungsprozess zu intensiv ist, können Sie den Behälter für einige Stunden öffnen und dann wieder schließen. Wenn Sie andererseits innerhalb von 2 Wochen kein Wasser an den Wänden bemerken, gießen Sie etwa 2 Milliliter Wasser in die Erde. Dies können Sie wiederholen, bis das Wasser merklich zu verdunsten beginnt.
 
 {:.distinction.distinction-information}
-If you made everything correctly, the microclimate should work properly and your **terrarium** does not need any special attention. Only open compositions should be watered regularly. If you notice that in your closed terrarium the level of humidity dropped significantly, just pour 2-5 ml of water. It should suffice at least for a year. The first signs that it’s **too dry** in the container are **yellow leaves** of the plants.
 
-Your terrarium plants might also be **attacked by pests**. They are often carried in with soil or moss.
+Wenn Sie alles richtig gemacht haben, sollte das Mikroklima einwandfrei funktionieren und Ihr Terrarium braucht keine besondere Aufmerksamkeit. Nur offene Kompositionen sollten regelmäßig gegossen werden. Wenn Sie feststellen, dass in Ihrem geschlossenen Terrarium der Feuchtigkeitsgehalt deutlich gesunken ist, gießen Sie einfach 2-5 ml Wasser ein. Es sollte mindestens für ein Jahr ausreichen. Die ersten Anzeichen dafür, dass es im Behälter zu trocken ist, sind gelbe Blätter der Pflanzen.
+
+Ihre Terrarienpflanzen können auch von Schädlingen befallen werden. Sie werden oft mit Erde oder Moos eingeschleppt.
 
 {:.distinction.distinction-warning}
-If you noticed any insects, use the appropriate **insecticide**. The problem should be resolved after several days of treatment.
 
-Terrarium is a beautiful decoration. It doesn’t require much effort to take care of - it’s self-sufficient. A big advantage is the fact that it’s very easy to make. If you don’t have any time or motivation to prepare it, you can buy it in a flower shop. Such an attractive and unusual composition is definitely worth having.
+Wenn Sie Insekten bemerkt haben, verwenden Sie das entsprechende Insektizid. Das Problem sollte nach einigen Tagen Behandlung behoben sein.
+
+Ein Terrarium ist eine schöne Dekoration. Seine Pflege erfordert nicht viel Aufwand - es ist selbstgenügsam. Ein großer Vorteil ist die Tatsache, dass es sehr einfach herzustellen ist. Wenn Sie keine Zeit oder Motivation haben, es vorzubereiten, können Sie es in einem Blumenladen kaufen. Eine so attraktive und ungewöhnliche Komposition ist es auf jeden Fall wert, sie zu haben.
 
 ## Terrarium - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-How to make terrarium plants?
+Wie stellt man Terrarienpflanzen her?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Making a terrarium requires only a glass vessel, a few plants and some soil. Terrarium contains several layers - drainage, potting soil, plants and decorations. There are special DIY courses organised in bigger cities, where you can learn how to make such decorations.
+Für die Herstellung eines Terrariums benötigt man nur ein Glasgefäß, ein paar Pflanzen und etwas Erde. Ein Terrarium besteht aus mehreren Schichten - Drainage, Blumenerde, Pflanzen und Dekorationen. In größeren Städten gibt es spezielle Heimwerkerkurse, in denen Sie lernen können, wie man solche Dekorationen herstellt.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to take care of a terrarium?
+Wie pflegt man ein Terrarium?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Terrarium should be self-sufficient, with some exceptions. Open terrarium plants should be watered regularly. Closed terrarium should not be opened.
+Das Terrarium sollte bis auf einige Ausnahmen autark sein. Offene Terrarienpflanzen sollten regelmäßig gegossen werden. Geschlossene Terrarien sollten nicht geöffnet werden.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to make a terrarium in a bottle?
+Wie macht man ein Terrarium in einer Flasche?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Start from placing the soil into your bottle terrarium and then use long and thin sticks (e.g. chopsticks) to put the plants inside. You might compress the moss to squeeze it through the bottleneck.
+Beginnen Sie mit dem Einbringen der Erde in Ihr Flaschen-Terrarium und verwenden Sie dann lange und dünne Stäbchen (z.B. Essstäbchen), um die Pflanzen hineinzustellen. Sie könnten das Moos zusammendrücken, um es durch den Flaschenhals zu pressen.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to grow moss in a terrarium?
+Wie züchtet man Moos in einem Terrarium?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The key to growing moss in a terrarium is recreating its natural conditions. Check what humidity levels are best for the moss you own. Water it regularly if the moss is placed in an open terrarium.
+Der Schlüssel zum Wachstum von Moos in einem Terrarium ist die Wiederherstellung der natürlichen Bedingungen. Prüfen Sie, welche Luftfeuchtigkeit für das Moos, das Sie besitzen, am besten geeignet ist. Gießen Sie es regelmäßig, wenn das Moos in ein offenes Terrarium gesetzt wird.
 {% endfaqAnswer %}
 {% endfaqItem %}
