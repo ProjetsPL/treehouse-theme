@@ -27,8 +27,7 @@ main_keywords:
 - Ideen für die Wohnungseinrichtung
 - diy Ideen
 - diy-dekor
-related_products:
-- collections/_products/pl/mattresses/hilding-flamenco-sprezynowy-160x200.md
+related_products: []
 
 ---
 ## Machen Sie es selbst! Einrichtungsideen für jedermann
