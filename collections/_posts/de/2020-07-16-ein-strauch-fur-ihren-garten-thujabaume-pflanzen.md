@@ -1,50 +1,50 @@
 ---
 layout: post
-date: 2020-01-08
+date: 2020-07-16
 toc: true
-title: " A shrub for your garden - planting thuja trees"
-description: Evergreen plants are important part of every garden. What is the best
-  shrub to plant? Thuja might be a good choice. It can be planted either as a tree
-  or shrub.
+title: Ein Strauch für Ihren Garten - Thujabäume pflanzen
+description: Immergrüne Pflanzen sind ein wichtiger Bestandteil jedes Gartens. Welches
+  ist der beste Strauch zum Pflanzen? Thuja könnte eine gute Wahl sein. Sie kann entweder
+  als Baum oder als Strauch gepflanzt werden.
 image: "/uploads/shrub-for-your-garden.jpg"
 promoted: false
-update_date: 2020-05-14
-intro: Thuja trees are quite popular plants growing in many gardens. They can be used
-  as windscreens, thick hedges and shrubs. Thuja is an evergreen, pollution- and heat-resistant
-  plant. It grows pretty quick and is quite resilient. If you are designing your own
-  garden, you should consider choosing such a plant, for instance thuja green giant.
-  You should learn how to take care of a thuja, so that it is always beautiful and
-  healthy.
+update_date: 2020-07-16
+intro: Thuja-Bäume sind recht beliebte Pflanzen, die in vielen Gärten wachsen. Sie
+  können als Windschutz, dichte Hecken und Sträucher verwendet werden. Thuja ist eine
+  immergrüne, schadstoff- und hitzeresistente Pflanze. Sie wächst ziemlich schnell
+  und ist ziemlich widerstandsfähig. Wenn Sie Ihren eigenen Garten gestalten, sollten
+  Sie die Wahl einer solchen Pflanze in Betracht ziehen, zum Beispiel Thuja Grüner
+  Riese. Sie sollten lernen, wie man eine Thuja pflegt, damit sie immer schön und
+  gesund ist.
 main_keywords:
-- shrub
-- thuja green giant
+- Strauch
+- thuja grüner riese
 - thuja
-- thuja tree
-- thuja trees
-- thuja gardens
-- how to plant shrub
-- planting thuja green giant
-- where to buy thuja
-published: false
+- Thujabaum
+- Thujabäume
+- thuja-gärten
+- wie man Sträucher pflanzt
+- pflanzen thuja grüner riese
+- wo man Thuja kaufen kann
 
 ---
-## Thuja trees - universal plants
+## Thujabäume - universelle Pflanzen
 
-**A thuja, or arborvitae** is a coniferous tree native to Asia and North America. Because of the versatility of those trees, they are used worldwide as garden plants. They can be planted in groups as well as a single, individual plant. Thuja has a lot of varieties which can be useful for various conditions. Such a wide choice provided by those plants is the main reason for their popularity among gardeners. **_Thuja occidentalis L._** is quite a popular variety.
+Eine Thuja oder Arborvitae ist ein Nadelbaum, der in Asien und Nordamerika beheimatet ist. Wegen der Vielseitigkeit dieser Bäume werden sie weltweit als Gartenpflanzen verwendet. Sie können sowohl in Gruppen als auch als Einzelpflanze gepflanzt werden. Thuja hat eine Vielzahl von Sorten, die für verschiedene Bedingungen nützlich sein können. Die große Auswahl, die diese Pflanzen bieten, ist der Hauptgrund für ihre Beliebtheit bei Gärtnern. Thuja occidentalis L. ist eine recht beliebte Sorte.
 
 {:.distinction.distinction-information}
-Many types of **thuja trees** are exceptionally resistant to any conditions. They are easy to take care of and most of the species are evergreen. A thuja tree can be grown in a flowerpot, hence **it can grow not only in the garden, but also on a balcony, a terrace or a patio**. Any shorter variety can be used as a shrub, for instance in a rock garden.
+Viele Arten von Thujabäumen sind außerordentlich widerstandsfähig gegen alle Bedingungen. Sie sind leicht zu pflegen und die meisten Arten sind immergrün. Ein Thujabaum kann in einem Blumentopf gezogen werden, so dass er nicht nur im Garten, sondern auch auf einem Balkon, einer Terrasse oder einem Patio wachsen kann. Jede kürzere Sorte kann als Strauch verwendet werden, zum Beispiel in einem Steingarten.
 
-Thuja trees are not very complicated to take care of. One should, however, learn a few basic facts, for instance when to plant a thuja, what type is the best for a shrub and how to take care of specific varieties, such as thuja green giant.
+Thujabäume sind nicht sehr kompliziert in der Pflege. Man sollte jedoch ein paar grundlegende Fakten lernen, z.B. wann man eine Thuja pflanzt, welche Art die beste für einen Strauch ist und wie man bestimmte Sorten, wie z.B. Thuja Grüner Riese, pflegt.
 
-### Which type of thuja should I choose?
+### Welche Art von Thuja sollte ich wählen?
 
-There are a few types of arborvitaes, and each of them differs by their specific requirements. Before choosing a particular one, one should consider which of them will suit their needs the best. The most common types of thujas are:
+Es gibt einige wenige Arten von Arborvitaes, und jede von ihnen unterscheidet sich durch ihre spezifischen Anforderungen. Bevor man sich für eine bestimmte Arborvita entscheidet, sollte man überlegen, welche von ihnen ihren Bedürfnissen am besten entspricht. Die gebräuchlichsten Arten von Thujas sind:
 
 {:.list}
 
-* **Eastern arborvitae** - also known as _thuja occidentalis_. This type of plants prefers alkaline, high Ph soils. Most of the varieties are frost resistant and immune to pollution, however **they should be shielded from cold wind and droughts**. This type of thuja grows well in sunny spots, however some varieties prefer shade. When purchasing such a shrub it is good to learn about its individual needs, for instance when is best to plant the thuja.
-* **Giant arborvitae** - the most popular variety of this type is thuja green giant. Its needles have dark green colour. The tree can grow very high, however there are also smaller, shrub varieties. Young seedlings are **vulnerable to cold temperatures**, therefore they need to be planted in warm and sunny spots. Giant thuja is more resistant to droughts than the eastern type.
+* Östliche Arborvitae - auch bekannt als thuja occidentalis. Diese Pflanzenart bevorzugt alkalische Böden mit hohem Ph-Gehalt. Die meisten Sorten sind frostresistent und immun gegen Verschmutzung, sollten jedoch vor kaltem Wind und Trockenheit geschützt werden. Diese Art von Thuja wächst gut an sonnigen Standorten, einige Sorten bevorzugen jedoch Schatten. Beim Kauf eines solchen Strauches ist es gut, sich über seine individuellen Bedürfnisse zu informieren, z.B. wann man die Thuja am besten pflanzt.
+* Giant arborvitae - die beliebteste Sorte dieser Art ist Thuja green giant. Seine Nadeln haben eine dunkelgrüne Farbe. Der Baum kann sehr hoch wachsen, es gibt aber auch kleinere, strauchartige Sorten. Junge Sämlinge sind anfällig für Kälte, deshalb müssen sie an warmen und sonnigen Orten gepflanzt werden. Die Riesen-Thuja ist widerstandsfähiger gegen Trockenheit als der östliche Typ.
 
 {% fig %}
 ![Giant arborvitae](/uploads/which-type-of-thuja-should-I-choose.jpg "Giant arborvitae")
@@ -52,117 +52,117 @@ There are a few types of arborvitaes, and each of them differs by their specific
 
 {:.list}
 
-* **Chinese thuja** - also called oriental arborvitae. This type is native to Asia. Because it is very vulnerable to cold temperatures, it is rarely chosen for colder regions. This kind of shrub grows quite well in warm zones. It requires warm and sunny spots. Its advantages are high resistance to droughts and good tolerance of different types of soil.
+* Chinesische Thuja - auch orientalische Arborvitae genannt. Diese Art ist in Asien beheimatet. Da sie sehr kälteempfindlich ist, wird sie nur selten für kältere Regionen gewählt. Diese Strauchart wächst in warmen Zonen recht gut. Sie benötigt warme und sonnige Standorte. Ihre Vorteile sind eine hohe Widerstandsfähigkeit gegen Trockenheit und eine gute Toleranz gegenüber verschiedenen Bodentypen.
 
-The best shrub to build hedges is eastern thuja.It does not grow too rapidly - about 30 centimetres a year. It develops few cones and has quite a regular shape. An oriental thuja, on the other hand, will not form a very high shrub (it reaches about 1 metre), therefore it’s perfect for a rock garden.
+Der beste Strauch, um Hecken zu bilden, ist die östliche Thuja, die nicht zu schnell wächst - etwa 30 Zentimeter pro Jahr. Er entwickelt wenige Zapfen und hat eine recht regelmäßige Form. Eine orientalische Thuja hingegen wird keinen sehr hohen Strauch bilden (sie wird etwa 1 Meter hoch), daher eignet sie sich perfekt für einen Steingarten.
 
-Planning a composition, it is best to choose plants of various sizes and shapes. One needs to take the conditions in their own garden into consideration, as well as the type of soil where the thujas are going to grow. If you are wondering if you can plant thuja green giant or use an oriental thuja for a shrub, it is best to ask the sales person in the flower shop.
+Bei der Planung einer Komposition ist es am besten, Pflanzen in verschiedenen Größen und Formen zu wählen. Man muss die Bedingungen im eigenen Garten berücksichtigen, ebenso wie die Art des Bodens, auf dem die Thujas wachsen werden. Wenn Sie sich fragen, ob Sie Thuja Grüner Riese pflanzen oder eine orientalische Thuja als Strauch verwenden können, fragen Sie am besten den Verkäufer im Blumenladen.
 
-### Thuja tree - how to pick the best seedlings
+### Thujabaum - wie man die besten Setzlinge pflückt
 
 {:.distinction.distinction-warning}
-When purchasing a thuja, pay a special attention to the state of the seedlings. Do not buy withered or damaged ones, with broken roots or eaten by vermin.
+Achten Sie beim Kauf einer Thuja besonders auf den Zustand der Setzlinge. Kaufen Sie keine verwelkten oder beschädigten, mit abgebrochenen Wurzeln oder von Ungeziefer gefressenen.
 
-The best thuja for a shrub is **the short variety**, seeded in a container. Such plants are more expensive, however they have bigger chance to survive in a new environment. When buying a tree, examine closely the underneath of the pot:
+Das beste Thuja für einen Strauch ist die kurze Sorte, die in einen Behälter gesät wird. Solche Pflanzen sind teurer, haben aber eine größere Chance, in einer neuen Umgebung zu überleben. Achten Sie beim Kauf eines Baumes genau auf die Unterseite des Topfes:
 
 {:.list.list-negative}
 
-* If the roots break through, the plant has not been watered for a long time.
-* Do not buy a thuja if you noticed that some roots had been cut. It means that the plant was not grown in the pot, but it was potted quite recently.
+* Wenn die Wurzeln durchbrechen, ist die Pflanze lange Zeit nicht gegossen worden.
+* Kaufen Sie keine Thuja, wenn Sie bemerkt haben, dass einige Wurzeln durchgeschnitten wurden. Das bedeutet, dass die Pflanze nicht im Topf gewachsen ist, sondern erst vor kurzem eingetopft wurde.
 
 {% fig %}
 ![Thuja tree - how to pick the best seedlings](/uploads/thuja-tree-how-to-pick-the-best-seedlings.jpg "Thuja tree - how to pick the best seedlings")
 {% endfig %}
 
-If you decided to choose a **balled and burlapped** plant, pay close attention to the roots. The soil around them should be dense and not too dry. Do not purchase trees whose roots volume is unproportionally small to the volume of the rest of the plant. Such thujas are very likely to wither after planting them in your garden.
+Wenn Sie sich für eine ballenförmige und geknickte Pflanze entschieden haben, achten Sie genau auf die Wurzeln. Der Boden um sie herum sollte dicht und nicht zu trocken sein. Kaufen Sie keine Bäume, deren Wurzelvolumen im Verhältnis zum Volumen der übrigen Pflanze unverhältnismäßig gering ist. Es ist sehr wahrscheinlich, dass solche Thujas nach dem Einpflanzen in Ihren Garten verwelken.
 
-## When to plant thujas?
+## Wann sollten Thujas gepflanzt werden?
 
-Thuja trees that have been grown in containers can be planted all year long from early spring (mid-April) to late autumn. The best time to plant a thuja is early spring and late summer. **Planted in spring, a shrub has time to acclimate** and prepare for heat waves in summer. In contrast, if you plant your thuja in August or September, it will have time to get ready for winter. Do not plant your shrub later than six weeks before the first freezes. Otherwise, the plant might not take root.
+Thujabäume, die in Containern angebaut wurden, können das ganze Jahr über vom frühen Frühjahr (Mitte April) bis zum Spätherbst gepflanzt werden. Die beste Zeit, um eine Thuja zu pflanzen, ist das frühe Frühjahr und der Spätsommer. Im Frühjahr gepflanzt, hat ein Strauch Zeit, sich zu akklimatisieren und auf die Hitzewellen im Sommer vorzubereiten. Wenn Sie dagegen Ihre Thuja im August oder September pflanzen, hat sie Zeit, sich auf den Winter vorzubereiten. Pflanzen Sie Ihren Strauch nicht später als sechs Wochen vor dem ersten Frost. Sonst kann es passieren, dass die Pflanze keine Wurzeln schlägt.
 
 {:.distinction.distinction-information}
-Balled and **burlapped thujas** should be planted in April or from mid-August to mid-September. Plant them immediately after the purchase, before the roots get dry.
+Ballen- und Sackleinen-Thujas sollten im April oder von Mitte August bis Mitte September gepflanzt werden. Pflanzen Sie sie sofort nach dem Kauf, bevor die Wurzeln trocken werden.
 
 {% fig %}
 ![When to plant thujas?](/uploads/when-to-plant-thujas.jpg "When to plant thujas?")
 {% endfig %}
 
-## Thuja tree - how to plant the shrub?
+## Thujabaum - wie pflanzt man den Strauch?
 
-The soil in which the shrub will grow should be fertile, loose and damp. Barren, dry soils will cause the plants to wither, and their needles will become brown. One needs to pay attention to the needs of particular types of thujas - each variety needs a different land. You might also purchase a potting **soil mix prepared specifically for conifers**. You can also mix composted pine bark with peat moss.
+Der Boden, auf dem der Strauch wachsen wird, sollte fruchtbar, locker und feucht sein. Unfruchtbarer, trockener Boden lässt die Pflanzen verwelken, und ihre Nadeln werden braun. Man muss auf die Bedürfnisse bestimmter Arten von Thujas achten - jede Sorte braucht ein anderes Land. Sie können auch eine speziell für Koniferen zubereitete Blumenerdemischung kaufen. Sie können auch kompostierte Kiefernrinde mit Torfmoos mischen.
 
-The spot for planting needs to be prepared accordingly. Get rid of all the weeds within 30-40 cm radius. For a hedgerow, weed out a 60 cm wide strip of land. Dig out a hole or multiple holes - they should be 2-3 times longer and wider that the root ball of your thuja.
+Der Platz für die Pflanzung muss entsprechend vorbereitet werden. Beseitigen Sie alle Unkräuter im Umkreis von 30-40 cm. Für eine Hecke wird ein 60 cm breiter Streifen Land gejätet. Graben Sie ein Loch oder mehrere Löcher aus - sie sollten 2-3 Mal länger und breiter als der Wurzelballen Ihrer Thuja sein.
 
-### How far apart to plant thuja trees?
+### Wie weit auseinander, um Thujabäume zu pflanzen?
 
-If you want a dense hedge, plant your thuja trees every 60 cm. If you plant them every 80 cm, they will form a row of trees. Make sure to keep a distance from the fence (around 50-60 cm). It will allow the plants to grow freely. Thuja green giant will form a high hedge which is quite a useful decoration for any garden. It protects your house from noise, wind and pollution.
+Wenn Sie eine dichte Hecke wünschen, pflanzen Sie Ihre Thujabäume alle 60 cm. Wenn Sie sie alle 80 cm pflanzen, bilden sie eine Reihe von Bäumen. Achten Sie darauf, einen Abstand vom Zaun einzuhalten (etwa 50-60 cm). So können die Pflanzen frei wachsen. Der grüne Riese Thuja bildet eine hohe Hecke, die eine sehr nützliche Dekoration für jeden Garten ist. Sie schützt Ihr Haus vor Lärm, Wind und Verschmutzung.
 
-Fill the holes halfway with the soil mix (either purchased at store or the one you prepared yourself). Then all you need to do is:
+Füllen Sie die Löcher bis zur Hälfte mit dem Erdgemisch (entweder im Laden gekauft oder von Ihnen selbst vorbereitet). Dann brauchen Sie nur noch zu tun:
 
 {:.list.list-positive}
 
-* Place the plant vertically and cover the roots with soil.
-* Fill the hole with water and once it soaks into the ground - refill it with soil.
-* **Even the surface** and water the plant again.
-* You can put a garden foil and tree bark on top of the ground - it will prevent the water from evaporating.
+* Stellen Sie die Pflanze senkrecht und bedecken Sie die Wurzeln mit Erde.
+* Füllen Sie das Loch mit Wasser, und sobald es in den Boden eindringt, füllen Sie es mit Erde auf.
+* Glätten Sie die Oberfläche und gießen Sie die Pflanze erneut.
+* Sie können eine Gartenfolie und Baumrinde auf den Boden legen - das verhindert, dass das Wasser verdunstet.
 
 {% fig %}
 ![How far apart to plant thuja trees?](/uploads/thuja-tree-how-to-plant-shrub.jpg "How far apart to plant thuja trees?")
 {% endfig %}
 
-## How to take care of thuja trees?
+## Wie pflegt man Thujabäume?
 
-You need to take a proper care of your newly planted thuja trees, so that they grow well and do not wither. **Young thuja trees** don’t have roots long enough to draw water from the deeper ground. For this reason you need to care for them properly.
+Sie müssen Ihre neu gepflanzten Thujabäume richtig pflegen, damit sie gut wachsen und nicht verdorren. Junge Thujabäume haben keine Wurzeln, die lang genug sind, um Wasser aus dem tieferen Boden zu ziehen. Aus diesem Grund müssen Sie sie richtig pflegen.
 
-During the first weeks the plants should be **watered regularly** - mornings or evenings. If your shrub is exposed to heat waves and droughts, spray its needles with water. Do it before sunrise or after sunset, so the sun doesn’t burn the plant. In case of strong winds stake higher plants with bamboo or wooden sticks.
+In den ersten Wochen sollten die Pflanzen regelmäßig gegossen werden - morgens oder abends. Wenn Ihr Strauch Hitzewellen und Dürreperioden ausgesetzt ist, besprühen Sie seine Nadeln mit Wasser. Tun Sie das vor Sonnenaufgang oder nach Sonnenuntergang, damit die Sonne die Pflanze nicht verbrennt. Pfählen Sie bei starkem Wind höhere Pflanzen mit Bambus oder Holzstöcken.
 
-If you decide to plant thujas, it is worth to buy a mycorrhizal inoculant and apply it as soon as you plant the trees. Such procedure makes it easier for your plants to draw water and nutrients from the ground. It saves a lot of time and money spent on the plants later. One should start **feeding the plants** in spring and finish around mid-July.
+Wenn Sie sich entscheiden, Thujas zu pflanzen, lohnt es sich, ein Mykorrhizal-Impfmittel zu kaufen und es anzuwenden, sobald Sie die Bäume pflanzen. Ein solches Vorgehen erleichtert es Ihren Pflanzen, Wasser und Nährstoffe aus dem Boden zu ziehen. Es spart viel Zeit und Geld, das später für die Pflanzen ausgegeben wird. Man sollte im Frühjahr mit der Fütterung der Pflanzen beginnen und etwa Mitte Juli fertig werden.
 
-You can use **general-purpose fertiliser**, as well as plant food made specifically for conifers. From August to September you may use special autumn fertiliser which is low in nitrogen.
+Sie können sowohl Allzweckdünger als auch speziell für Nadelbäume hergestellte Pflanzennahrung verwenden. Von August bis September können Sie speziellen Herbstdünger verwenden, der wenig Stickstoff enthält.
 
 {:.distinction.distinction-information}
-You can prim your shrub from spring to mid-summer. It is especially important for hedges. The last trimming should be performed in August so that the branches don’t die during first freezings.
+Sie können Ihren Strauch vom Frühjahr bis zum Hochsommer grundieren. Dies ist besonders wichtig für Hecken. Der letzte Schnitt sollte im August durchgeführt werden, damit die Zweige beim ersten Frost nicht absterben.
 
-Thuja trees usually are not difficult to take care of. For this reason gardeners choose this type of shrub for their gardens. Thuja green giant trees are perfect for hedges, but also for making compositions. You should take care of your thuja as soon as possible so it grows well and looks great for a long time.
+Thujabäume sind normalerweise nicht schwierig zu pflegen. Aus diesem Grund wählen Gärtner diese Art von Sträuchern für ihren Garten. Thujagrüne Riesenbäume eignen sich hervorragend für Hecken, aber auch für Kompositionen. Sie sollten Ihre Thuja-Bäume so bald wie möglich pflegen, damit sie gut wachsen und lange gut aussehen.
 
-## A shrub for your garden - FAQ
+## Ein Strauch für Ihren Garten - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-When to plant thuja green giant?
+Wann soll der grüne Riese Thuja gepflanzt werden?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The best time to plant thuja trees is between early spring and late autumn. The only exception is balled and burlapped plants - the latest time they can be planted is mid-August. Do not plant your trees later than 6 weeks before the first freezes.
+Die beste Zeit zum Pflanzen von Thujabäumen ist zwischen dem frühen Frühjahr und dem Spätherbst. Die einzige Ausnahme sind Ballen- und Sackleinen-Pflanzen - der späteste Zeitpunkt, zu dem sie gepflanzt werden können, ist Mitte August. Pflanzen Sie Ihre Bäume nicht später als 6 Wochen vor dem ersten Frost.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to plant thuja green giant?
+Wie pflanzt man Thuja Grüner Riese?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Thuja trees should be planted in holes at least 2 times bigger than the root ball. The bottom of the hole should be layered with conifer soil. Plant the trees vertically and water them afterwards.
+Thujabäume sollten in Löcher gepflanzt werden, die mindestens 2 Mal größer sind als der Wurzelballen. Der Boden des Lochs sollte mit Koniferenerde geschichtet werden. Pflanzen Sie die Bäume vertikal und gießen Sie sie anschließend.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-Where to buy thuja tree?
+Wo kann man Thujabäume kaufen?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Thuja trees can be bought at any florist shop. You can also purchase the shrub online or search for a nursery in your area.
+Thujabäume können in jedem Blumengeschäft gekauft werden. Sie können den Strauch auch online kaufen oder nach einer Baumschule in Ihrer Nähe suchen.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How fast do thuja green giants grow?
+Wie schnell wachsen die grünen Thuja-Riesen?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Thuja green giant can grow around 1 metre per year. At this rate a small shrub becomes a tree very quick. Because of its fast growth, thuja green giant is perfect for planting a dense hedge.
+Der grüne Riese Thuja kann etwa 1 Meter pro Jahr wachsen. Bei diesem Tempo wird aus einem kleinen Strauch sehr schnell ein Baum. Wegen seines schnellen Wachstums eignet sich Thujagrüner Riese perfekt für die Bepflanzung einer dichten Hecke.
 {% endfaqAnswer %}
 {% endfaqItem %}
