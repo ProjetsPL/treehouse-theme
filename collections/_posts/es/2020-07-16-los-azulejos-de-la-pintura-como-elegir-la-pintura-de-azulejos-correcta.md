@@ -1,135 +1,136 @@
 ---
 layout: post
-date: 2019-12-18
+date: 2020-07-16
 toc: true
-title: Painting tiles - how to choose the right tile paint?
-description: Tile paint is a great product that you can use for a quick room renovation.
-  It’s quite easy! Check which tile paint is the best for your bathroom or kitchen.
+title: Los azulejos de la pintura - ¿cómo elegir la pintura de azulejos correcta?
+description: La pintura de azulejos es un gran producto que puede ser utilizado para
+  una rápida renovación de la habitación. ¡Es muy fácil! Compruebe qué pintura de
+  azulejos es la mejor para su baño o cocina.
 image: "/uploads/farba-do-plytek-na-czym-polega-malowanie-plytek.jpg"
 promoted: false
-update_date: 2020-02-05
-intro: Your bathroom floor tiles that looked amazing several years ago, now are probably
-  not as great. They might seem unaesthetic, outdated, or simply boring. However a
-  complete tile replacement means a lot of expenses and a long time spent on a renovation.
-  You can avoid all the trouble if you decide to use tile paint. Painting tile is
-  much quicker than replacing them. Combined with some other minor changes, you can
-  completely transform your room over the course of one weekend.
+update_date: 2020-07-16
+intro: Los azulejos de tu baño que se veían increíbles hace varios años, ahora probablemente
+  no son tan buenos. Pueden parecer antiestéticos, anticuados o simplemente aburridos.
+  Sin embargo, un cambio completo de azulejos significa muchos gastos y mucho tiempo
+  dedicado a la renovación. Puedes evitar todos los problemas si decides usar pintura
+  de azulejos. Pintar los azulejos es mucho más rápido que reemplazarlos. Combinado
+  con algunos otros cambios menores, puedes transformar completamente tu habitación
+  en el transcurso de un fin de semana.
 main_keywords:
-- tile paint
-- bathroom floor tiles
-- painting tile
-- painting ceramic tile
-- paint tile floor
-- 'how to paint tile '
-- how to paint ceramic tile
-- how to paint bathroom tile
-published: false
+- pintura de azulejos
+- baldosas de baño
+- azulejo de pintura
+- pintando azulejos de cerámica
+- pintar el suelo de baldosas
+- cómo pintar el azulejo
+- cómo pintar los azulejos de cerámica
+- cómo pintar los azulejos del baño
 
 ---
-## Painting tile - a quick makeover
+## Baldosa de pintura - un rápido cambio de imagen
 
-Ceramic tile is a quite sturdy material. However the longer the tiles are exploited, the less radiant they become. **Floor tiles** lose their original gloss and the grout colour fades. Tile replacement might be pretty expensive and overly exhausting. Usually such makeover means either hiring a construction crew or sacrificing one’s own freetime to **do such a renovation yourself**.
+El azulejo de cerámica es un material bastante resistente. Sin embargo, cuanto más tiempo se explotan los azulejos, menos radiantes se vuelven. Los azulejos pierden su brillo original y el color de la lechada se desvanece. La sustitución de los azulejos puede ser bastante cara y demasiado agotadora. Normalmente, este tipo de renovación significa contratar un equipo de construcción o sacrificar el tiempo libre para hacer la renovación usted mismo.
 
-Having that in mind, tile paint might be a good idea for a quick and **easy makeover**. Doing that you not only don’t have to worry about ripping up the old tiles and all the mess related to it. In comparison to a complete renovation of a bathroom or a kitchen, it is far cheaper. Because it’s so quick, painting tiles is perfect for people who tend to change the room decor on a spur of a moment. **Tile paint** can be layered multiple times. One just needs to stick to the product’s instructions.
+Teniendo eso en cuenta, la pintura de azulejos podría ser una buena idea para una rápida y fácil renovación. Haciendo eso no sólo no tienes que preocuparte de romper los viejos azulejos y todo el desorden relacionado con ellos. En comparación con una renovación completa de un baño o una cocina, es mucho más barato. Como es tan rápido, pintar los azulejos es perfecto para la gente que tiende a cambiar la decoración de la habitación en un momento dado. La pintura de azulejos puede ser aplicada en varias capas. Sólo hay que seguir las instrucciones del producto.
 
-**Painting ceramic tiles** is not difficult and doesn’t require hiring a specialist. You can do such makeover by yourself. The only trick is to pick the right tile paint and make sure that the tiles are well prepared. No special tools are necessary.
+Pintar azulejos de cerámica no es difícil y no requiere contratar a un especialista. Puedes hacer ese cambio de imagen por ti mismo. El único truco es elegir la pintura de azulejos correcta y asegurarse de que los azulejos estén bien preparados. No se necesitan herramientas especiales.
 
-An additional advantage of such **renovation** is the fact that it doesn’t generate any noise. Therefore you don’t have to worry about the peace of your neighbours. Tile paint won’t fill your interior with dust and dirt, as it is with tile replacement. The whole procedure is relatively easy and fast to do. It can be done over the course of just one day, and **maximum time is three days**. The time depends on the type of tile paint and the number of layers.
+Una ventaja adicional de tal renovación es el hecho de que no genera ningún ruido. Por lo tanto, no tienes que preocuparte por la paz de tus vecinos. La pintura de azulejos no llenará su interior con polvo y suciedad, como ocurre con el cambio de azulejos. Todo el procedimiento es relativamente fácil y rápido de hacer. Se puede hacer en el transcurso de un solo día, y el tiempo máximo es de tres días. El tiempo depende del tipo de pintura de azulejos y del número de capas.
 
 {% fig %}
 ![Painting tile - a quick makeover](/uploads/malowanie-plytek-sposob-na-szybki-remont.jpg "Painting tile - a quick makeover")
 {% endfig %}
 
-## Choosing the right tile paint
+## Elegir la pintura de azulejos correcta
 
-Manufacturers offer quite limited choice of products suitable for **painting tiles**. You can buy two part tile paints. Their biggest advantage is the fact that they don’t require **using a primer** **before painting.** You should apply it if you choose the other type - one part paint.
+Los fabricantes ofrecen una selección bastante limitada de productos adecuados para pintar azulejos. Puedes comprar pinturas de azulejos de dos partes. Su mayor ventaja es el hecho de que no requieren el uso de una imprimación antes de pintar. Deberías aplicarlo si eliges el otro tipo, una parte de pintura.
 
-**Tile paint** can be also used for painting materials such as metal, glass, concrete, plastic and stone. The products available on the market are:
+La pintura de azulejos también se puede utilizar para pintar materiales como metal, vidrio, hormigón, plástico y piedra. Los productos disponibles en el mercado son:
 
 {:.list}
 
-* **Epoxy paint** - this type of tile paint is highly resistant to abrasion and the use of detergents. They are thinned with water. Using epoxy paint for tile is enjoyable, as it **does not produce any strong smell**.
-* **Alkyd urethane paint** - it is usually used for metal, but it might serve as tile paint as well. It produces a strong, resistant layer, therefore it is perfect for painting tiles on the floor.
-* **Acrylic tile paint** - such products are manufactured specifically for the use on tiles. Contrary to ordinary products of this type, acrylic tile paint is water resistant. It can be used to cover **glass and metal**.
+* Pintura epoxi - este tipo de pintura de azulejos es muy resistente a la abrasión y al uso de detergentes. Se diluyen con agua. El uso de pintura epoxi para azulejos es agradable, ya que no produce ningún olor fuerte.
+* Pintura de uretano alquídico - se utiliza normalmente para el metal, pero también puede servir como pintura de azulejos. Produce una capa fuerte y resistente, por lo que es perfecta para pintar azulejos en el suelo.
+* Pintura acrílica para baldosas - estos productos se fabrican específicamente para el uso en baldosas. A diferencia de los productos ordinarios de este tipo, la pintura acrílica para baldosas es resistente al agua. Puede ser usada para cubrir vidrio y metal.
 
-Paint that is typically used for walls is not suitable for **painting tiles in the kitchen or bathroom**. Such paint would not stick to the smooth tile surface and it would just flow down. However, if you use a good primer before painting tiles, you can cover them with latex or oil paint. Make sure that the product you choose is **washable**, because tiles are usually placed in rooms of high humidity.
+La pintura que se usa típicamente para las paredes no es adecuada para pintar los azulejos de la cocina o el baño. Tal pintura no se pegaría a la superficie lisa del azulejo y sólo fluiría hacia abajo. Sin embargo, si se utiliza una buena imprimación antes de pintar los azulejos, se puede cubrir con pintura de látex o de aceite. Asegúrese de que el producto que elija sea lavable, ya que los azulejos suelen estar colocados en habitaciones de alta humedad.
 
 {:.distinction.distinction-warning}
 
-Such a solution might be beneficial if you demand a broad range of colours. Unfortunately, the choice of colours of tile paint is quite narrow.
+Tal solución podría ser beneficiosa si se exige una amplia gama de colores. Desafortunadamente, la elección de colores de la pintura de azulejos es bastante estrecha.
 
-Keep in mind that paint that you use for wall tiles cannot necessarily be used for floor tiles. Floor tile paint should be highly resistant to abrasion. Wall tiles, particularly those in the shower, should be covered with a waterproof surface, immune to detergents. Deciding, which tile paint is the best for your needs, think of the finish you wish for. **Satin and matt surfaces are very elegant**, whereas shiny tiles will make the room look bigger.
+Tenga en cuenta que la pintura que utiliza para los azulejos de la pared no necesariamente se puede utilizar para los azulejos del suelo. La pintura para baldosas debe ser altamente resistente a la abrasión. Los azulejos de pared, particularmente los de la ducha, deben ser cubiertos con una superficie impermeable, inmune a los detergentes. Al decidir qué pintura de azulejos es la mejor para sus necesidades, piense en el acabado que desea. Las superficies satinadas y mates son muy elegantes, mientras que los azulejos brillantes harán que la habitación parezca más grande.
 
 {% fig %}
 ![Choosing the right tile paint](/uploads/wybor-farby-do-plytek.jpg "Choosing the right tile paint")
 {% endfig %}
 
-## Tile paint - how to paint ceramic tile?
+## Pintura de azulejos. ¿Cómo pintar un azulejo de cerámica?
 
-**Interior transformation with the use of tile paint is not a difficult task.** For satisfactory results, before painting one should prepare accordingly:
+La transformación interior con el uso de pintura de azulejos no es una tarea difícil. Para obtener resultados satisfactorios, antes de pintar uno debe prepararse en consecuencia:
 
 {:.list}
 
-1. Search for any holes and cracks in your tiles. Fill them with silicone sealant or a special type of glue. The surface should be as smooth as possible.
-2. Thoroughly **wash and degrease** each tile, using a special degreasing agent. Make sure the surface is completely dry.
-3. Remove old sealings and silicone. Afterwards you will apply new sealant.
-4. It is worth to sand the tiles, which will make painting much easier. This way tile paint and primer stick better to the surface. Use **fine sandpaper or a sanding sponge**. It is important particularly in places of high humidity, such as shower, and on the floor. After sanding make sure the tiles are thoroughly dusted.
-5. If you use primer, use appropriate product fit for the tile paint. One to two layers of primer is enough. When priming, start from grout and move onto the tiles.
+1. Busca cualquier agujero o grieta en tus azulejos. Rellénenlas con sellador de silicona o un tipo especial de pegamento. La superficie debe ser lo más lisa posible.
+2. Lavar y desengrasar a fondo cada azulejo, usando un agente desengrasante especial. Asegúrese de que la superficie esté completamente seca.
+3. Quitar los sellos viejos y la silicona. Después aplicará un nuevo sellador.
+4. Vale la pena lijar los azulejos, lo que hará que pintar sea mucho más fácil. De esta manera la pintura de los azulejos y la imprimación se adhieren mejor a la superficie. Use un papel de lija fino o una esponja de lijar. Es importante sobre todo en lugares de alta humedad, como la ducha, y en el suelo. Después de lijar, asegúrese de que los azulejos estén bien desempolvados.
+5. Si usa imprimación, use el producto apropiado para la pintura de azulejos. Una o dos capas de imprimación es suficiente. Cuando se aplica la imprimación, se empieza por la lechada y se pasa a los azulejos.
 
-Before you start painting, **secure all elements** that are not going to be covered with paint. Usually it involves light switches, power sockets and sinks. Do do this, use masking tape.
+Antes de empezar a pintar, asegure todos los elementos que no vayan a ser cubiertos con pintura. Normalmente se trata de interruptores de luz, enchufes y lavabos. Hágalo, use cinta adhesiva.
 
-## Painting - how to use tile paint?
+## Pintura - ¿cómo usar la pintura de azulejos?
 
-If the surface has been **properly prepared**, you can proceed and start painting tiles. It is best to do it during dry and windy weather. If it is possible, open the window. It will prevent you from inhaling the fumes and will make the paint dry faster. Mix the product precisely the way the manufacturer recommends. The best tool for painting tiles is sponge roller. Do not use brush, as it would leave visible trails on the surface. Another method is spray painting, however it might be quite difficult. Such procedure requires using special equipment.
+Si la superficie ha sido preparada adecuadamente, puede proceder y comenzar a pintar los azulejos. Es mejor hacerlo durante el tiempo seco y ventoso. Si es posible, abra la ventana. Evitará que inhale los vapores y hará que la pintura se seque más rápido. Mezcle el producto exactamente de la manera que el fabricante recomienda. La mejor herramienta para pintar azulejos es el rodillo de esponja. No utilice la brocha, ya que dejaría huellas visibles en la superficie. Otro método es la pintura en aerosol, sin embargo puede ser bastante difícil. Este procedimiento requiere el uso de un equipo especial.
 
-After applying the first layer leave it for **16-24 hours**. Then you can paint the tiles again. When painting floor tiles, one should apply three layers. Make sure to spread the paint as thinly as possible to avoid uneven surface.
+Después de aplicar la primera capa, déjela durante 16-24 horas. Luego puede volver a pintar los azulejos. Cuando se pintan las baldosas del suelo, se deben aplicar tres capas. Asegúrese de extender la pintura lo más delgado posible para evitar una superficie desigual.
 
-If you use **epoxy paint for tiles**, you can add an additional layer of transparent varnish at the top. Floor tiles might be covered with a layer of special non slip varnish. Remember to re-apply silicone sealant where it’s needed.
+Si utiliza pintura epoxi para las baldosas, puede añadir una capa adicional de barniz transparente en la parte superior. Las baldosas del suelo pueden cubrirse con una capa de barniz especial antideslizante. Recuerde volver a aplicar sellador de silicona donde sea necesario.
 
-**Tile paint** becomes fully functional after some time after application. Stiffening of the surface may take up to 20 days. Therefore the tiles cannot be washed or wiped immediately after they dry. When the layers are still in the process of stiffening, it is easy to damage them. Be careful not to hit the surface and not to drop anything on it.
+La pintura para baldosas se vuelve completamente funcional después de un tiempo de aplicación. El endurecimiento de la superficie puede tomar hasta 20 días. Por lo tanto, las baldosas no pueden ser lavadas o limpiadas inmediatamente después de secarse. Cuando las capas están todavía en proceso de endurecimiento, es fácil dañarlas. Tenga cuidado de no golpear la superficie y de no dejar caer nada sobre ella.
 
-You can paint your tiles on one colour, however it is not the only possibility. You can for instance create a **checkerboard pattern.** To do it, secure every other tile with masking tape after the first layer dries. Then just paint the remaining tiles using a contrasting colour. Another good idea is using special stencils with decorative patterns.
+Puedes pintar tus azulejos de un solo color, sin embargo no es la única posibilidad. Puedes, por ejemplo, crear un patrón de tablero de ajedrez. Para ello, asegura cada uno de los otros azulejos con cinta adhesiva después de que la primera capa se seque. Luego sólo tienes que pintar los azulejos restantes usando un color de contraste. Otra buena idea es usar plantillas especiales con patrones decorativos.
 
-Painting tiles is the best solution for a **quick and effortless kitchen or bathroom renovation**. Its biggest advantage is the low price, especially in comparison to tile replacement. All one needs to purchase are painting tools, good tile paint and several additional materials. Painting tiles is a great idea for an effective and effortless makeover. You can do it yourself, which will bring you a lot of satisfaction.
+Pintar los azulejos es la mejor solución para una rápida y fácil renovación de la cocina o el baño. Su mayor ventaja es el bajo precio, especialmente en comparación con la sustitución de azulejos. Todo lo que uno necesita comprar son herramientas de pintura, buena pintura de azulejos y varios materiales adicionales. Pintar los azulejos es una gran idea para una renovación efectiva y sin esfuerzo. Puedes hacerlo tú mismo, lo que te dará mucha satisfacción.
 
-## Painting tiles - FAQ
+## Los azulejos de la pintura - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-Which tile paint is the best?
+¿Qué pintura de azulejos es la mejor?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Every available tile paint is good. Choosing a product, one should consider their own needs and expectations. Tile paint for floor should have high resistance to abrasion.
+Toda la pintura de azulejos disponible es buena. Al elegir un producto, uno debe considerar sus propias necesidades y expectativas. La pintura de azulejos para el suelo debe tener una alta resistencia a la abrasión.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-Which tile paint is the most durable?
+¿Qué pintura de azulejos es la más duradera?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Alkyd urethane paints make the strongest surfaces. They are abrasion-resistant, which is the biggest advantage. They can be used to paint metal elements.
+Las pinturas de uretano alquídico hacen las superficies más fuertes. Son resistentes a la abrasión, que es la mayor ventaja. Pueden ser usadas para pintar elementos metálicos.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How long does tile paint dry?
+¿Cuánto tiempo se seca la pintura de los azulejos?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-A single layer of tile paint dries approximately 16-24 hours. One should wait at least 16 hours before covering the surface with another layer. The paint stiffens completely after 20 days.
+Una sola capa de pintura de azulejos se seca aproximadamente de 16 a 24 horas. Se debe esperar al menos 16 horas antes de cubrir la superficie con otra capa. La pintura se endurece completamente después de 20 días.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How much does tile paint cost?
+¿Cuánto cuesta la pintura de azulejos?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The cost depends on particular brand of the paint. When planning painting tiles one should consider several points. The size of the surface and the amount of layers that the tile paint requires are the most important.
+El costo depende de la marca particular de la pintura. Cuando se planifica la pintura de los azulejos uno debe considerar varios puntos. El tamaño de la superficie y la cantidad de capas que la pintura de azulejos requiere son los más importantes.
 {% endfaqAnswer %}
 {% endfaqItem %}
