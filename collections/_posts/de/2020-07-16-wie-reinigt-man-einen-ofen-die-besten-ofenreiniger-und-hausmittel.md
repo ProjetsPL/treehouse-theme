@@ -1,142 +1,142 @@
 ---
 layout: post
-date: 2019-12-18
+date: 2020-07-16
 toc: true
-title: How to clean an oven? The best oven cleaners and home remedies
-description: How to clean oven effectively? It doesn’t have to be very complicated.
-  There are a lot of home remedies that will help you prepare the best oven cleaners.
+title: Wie reinigt man einen Ofen? Die besten Ofenreiniger und Hausmittel
+description: Wie reinigt man einen Ofen effektiv? Das muss nicht sehr kompliziert
+  sein. Es gibt viele Hausmittel, mit denen Sie die besten Ofenreiniger zubereiten
+  können.
 image: "/uploads/jak-wyczyscic-piekarnik-to-nie-takie-trudne.jpg"
 promoted: false
-update_date: 2020-02-05
-intro: Cleaning an oven is not quite the most pleasurable activity. For this reason
-  you are most likely want to “do it later” - which leads to even bigger mess in your
-  kitchen. The old dirt becomes more difficult to remove and you are getting more
-  and more frustrated. Fortunately there are many quick and easy methods to help you.
-  Thanks to the oven cleaners shown below you will finally stop wondering how to clean
-  your oven.
+update_date: 2020-07-16
+intro: Das Reinigen eines Backofens ist nicht gerade die angenehmste Tätigkeit. Aus
+  diesem Grund werden Sie es höchstwahrscheinlich "später" tun wollen - was zu noch
+  größerer Unordnung in Ihrer Küche führt. Der alte Schmutz lässt sich immer schwerer
+  entfernen, und Sie werden immer frustrierter. Glücklicherweise gibt es viele schnelle
+  und einfache Methoden, um Ihnen zu helfen. Dank der unten gezeigten Ofenreiniger
+  werden Sie endlich aufhören, sich zu fragen, wie Sie Ihren Ofen reinigen können.
 main_keywords:
-- oven
-- oven cleaner
-- how to clean oven
-- self cleaning oven
-- natural oven cleaner
-- clean oven
-- how to clean oven racks
-- how to clean a gas oven
-- how to clean inside of oven
-- how to clean oven window
-published: false
+- Ofen
+- Ofenreiniger
+- wie man den Ofen reinigt
+- selbstreinigender Ofen
+- natürlicher Ofenreiniger
+- sauberer Ofen
+- wie man Backofengestelle reinigt
+- wie man einen Gasherd reinigt
+- wie man das Innere des Ofens reinigt
+- wie man Ofenfenster reinigt
 
 ---
-## How to clean oven? Oven cleaners and cleaning hacks
+## Wie wird der Ofen gereinigt? Ofenreiniger und Reinigungshacken
 
-If you don’t want to feel frustration every time you tidy your kitchen, you should **clean your oven** on a regular basis. It is best to wipe its insides every time after using it. In practice, however, such activities are postponed as much as possible, until the dirt becomes a serious obstacle.
+Wenn Sie nicht jedes Mal, wenn Sie Ihre Küche aufräumen, frustriert sein wollen, sollten Sie Ihren Backofen regelmäßig reinigen. Am besten ist es, ihn nach jedem Gebrauch von innen abzuwischen. In der Praxis werden solche Aktivitäten jedoch so weit wie möglich aufgeschoben, bis der Schmutz zu einem ernsthaften Hindernis wird.
 
 {:.distinction.distinction-warning}
 
-There are many **commercial oven cleaners** available to buy. However their components often are controversial. The ingredients of such products are usually chemicals that tend to release strong smell. What’s more, they might be dangerous in contact with skin.
+Es gibt viele kommerzielle Ofenreiniger zu kaufen. Ihre Bestandteile sind jedoch oft umstritten. Bei den Inhaltsstoffen solcher Produkte handelt es sich in der Regel um Chemikalien, die dazu neigen, einen starken Geruch freizusetzen. Außerdem können sie bei Kontakt mit der Haut gefährlich sein.
 
-So how to clean the oven? Fortunately there are plenty of natural oven cleaners that are **eco-friendly, safe and most importantly - effective**.
+Wie reinigt man also den Backofen? Glücklicherweise gibt es viele natürliche Ofenreiniger, die umweltfreundlich, sicher und vor allem wirksam sind.
 
 {% fig %}
 ![How to clean oven? Oven cleaners and cleaning hacks](/uploads/czym-wyczyscic-piekarnik.jpg "How to clean oven? Oven cleaners and cleaning hacks")
 {% endfig %}
 
-### Oven cleaners for light stains
+### Ofenreiniger für leichte Flecken
 
-If the oven is not very dirty, it should be quite easy to clean. The best **oven cleaners** that do not require any effort or scrubbing are:
+Wenn der Ofen nicht sehr schmutzig ist, sollte er recht einfach zu reinigen sein. Die besten Ofenreiniger, die keine Anstrengung und kein Schrubben erfordern, sind:
 
 {:.list}
 
-* **Steam for oven cleaning** - this method is possible only in convection ovens. How to clean the oven with steam? All you need is an ovenproof dish and half a lemon. Just pour some water into the dish and squeeze the lemon juice into it. Set the temperature to 170°C. The fan will spread the steam everywhere in the oven. Turn the oven off after a while and wait until it cools down. Then just wipe the interior with a clean **cloth soaked with water and dish soap**. Rinse the soap residues with water and leave the oven open until it dries completely.
-* **Water mixed with vinegar** - light stains can be cleaned with the use of water mixed with some vinegar. Just wipe the oven with a cloth soaked with the mixture, or in case of heavier stains - use a sponge scrubber. After the cleaning rinse the oven with clear water and wipe it dry, using paper towel or a dry piece of cloth.
+* Dampf zur Ofenreinigung - diese Methode ist nur bei Konvektionsöfen möglich. Wie reinigt man den Ofen mit Dampf? Alles, was Sie brauchen, ist eine ofenfeste Schale und eine halbe Zitrone. Gießen Sie einfach etwas Wasser in die Schale und pressen Sie den Zitronensaft hinein. Stellen Sie die Temperatur auf 170°C ein. Das Gebläse wird den Dampf überall im Ofen verteilen. Schalten Sie den Ofen nach einer Weile aus und warten Sie, bis er abgekühlt ist. Dann wischen Sie das Innere des Ofens mit einem sauberen, mit Wasser und Spülmittel getränkten Tuch ab. Spülen Sie die Seifenreste mit Wasser ab und lassen Sie den Ofen offen, bis er vollständig getrocknet ist.
+* Mit Essig vermischtes Wasser - leichte Flecken können mit Wasser, das mit etwas Essig vermischt ist, gereinigt werden. Wischen Sie den Ofen einfach mit einem mit der Mischung getränkten Tuch ab, oder verwenden Sie bei stärkeren Flecken einen Schwammschrubber. Nach der Reinigung spülen Sie den Ofen mit klarem Wasser ab und wischen ihn mit einem Papiertuch oder einem trockenen Tuch trocken.
 
 {% fig %}
 ![Oven cleaners for light stains](/uploads/jak-czyscic-piekarnik-z-lekkich-zabrudzen-1.jpg "Oven cleaners for light stains")
 {% endfig %}
 
-### How to clean oven - old dirt
+### Wie man den Ofen reinigt - alter Schmutz
 
-**Which oven cleaner** will clean stubborn dirt? Removing burnt and baked food particles is time consuming. Even thorough scrubbing might not be effective, unless you use the right methods. Fortunately there are some **reliable home remedies**.They will save you a lot of time and energy and you will clean your oven in no time.
+Welcher Ofenreiniger reinigt hartnäckigen Schmutz? Das Entfernen von angebrannten und gebackenen Lebensmittelpartikeln ist zeitaufwändig. Selbst gründliches Schrubben ist möglicherweise nicht effektiv, wenn Sie nicht die richtigen Methoden anwenden. Zum Glück gibt es zuverlässige Hausmittel, mit denen Sie viel Zeit und Energie sparen und Ihren Ofen im Handumdrehen reinigen können.
 
 {:.distinction.distinction-information}
 
-The most commonly used oven cleaner is baking soda. This substance is a highly effective - along with the dirt, it also **removes the unpleasant smell** of burnt food. You can use baking soda in combination with other products.
+Der am häufigsten verwendete Ofenreiniger ist Backpulver. Diese Substanz ist ein hochwirksames Mittel - es entfernt neben dem Schmutz auch den unangenehmen Geruch verbrannter Lebensmittel. Sie können Backpulver in Kombination mit anderen Produkten verwenden.
 
-The most popular methods use mixtures of substances such as:
+Die beliebtesten Methoden verwenden Mischungen von Substanzen wie
 
 {:.list}
 
-* **Baking soda, dish detergent and water** - to prepare such a mixture, take half a glass of water, ¼ glass of baking soda and 1-2 teaspoons of dish soap. Mix it and place the substance onto every dirty spot in your oven. Leave if for a couple of minutes - the paste will **dissolve the dirt**. Next, clean the oven with a damp sponge, rinse it and leave until it dries completely.
-* **Baking soda, dish soap and vinegar** - mix those substances as follows: half a glass of soap, half a glass of vinegar and 5-10 tablespoons of baking soda. How to clean the oven with this method? Set the temperature to 50°C and turn the oven off once it warms up. Spread the paste in the oven and leave it overnight. Next day just clean it with warm water and leave it to dry.
-* **Baking soda, salt and hot water** - mix the soda and water 1:1 and add two teaspoons of salt. Place the paste onto every stained spot and leave it for 5 min to 12 hours. Clean the oven afterwards **using a sponge or a brush**. Rinse it with clean water and dry with a cloth or paper towel.
+* Backpulver, Spülmittel und Wasser - um eine solche Mischung herzustellen, nehmen Sie ein halbes Glas Wasser, ¼ ein Glas Backpulver und 1-2 Teelöffel Spülmittel. Mischen Sie es und geben Sie die Substanz auf jede schmutzige Stelle in Ihrem Ofen. Lassen Sie sie einige Minuten stehen - die Paste wird den Schmutz auflösen. Reinigen Sie dann den Ofen mit einem feuchten Schwamm, spülen Sie ihn ab und lassen Sie ihn stehen, bis er vollständig getrocknet ist.
+* Backpulver, Spülseife und Essig - mischen Sie diese Substanzen wie folgt: ein halbes Glas Seife, ein halbes Glas Essig und 5-10 Esslöffel Backpulver. Wie reinigt man den Backofen mit dieser Methode? Stellen Sie die Temperatur auf 50°C ein und schalten Sie den Ofen aus, sobald er aufgewärmt ist. Verteilen Sie die Paste im Ofen und lassen Sie sie über Nacht stehen. Am nächsten Tag reinigen Sie ihn einfach mit warmem Wasser und lassen ihn trocknen.
+* Backpulver, Salz und heißes Wasser - Soda und Wasser 1:1 mischen und zwei Teelöffel Salz hinzufügen. Legen Sie die Paste auf jede fleckige Stelle und lassen Sie sie 5 Minuten bis 12 Stunden stehen. Reinigen Sie den Ofen danach mit einem Schwamm oder einer Bürste. Spülen Sie ihn mit sauberem Wasser ab und trocknen Sie ihn mit einem Tuch oder Papiertuch.
 
 {% fig %}
 ![How to clean oven - old dirt](/uploads/jak-umyc-piekarnik-z-trwalych-zanieczyszczen.jpg "How to clean oven - old dirt")
 {% endfig %}
 
-## How to clean a self cleaning oven?
+## Wie reinigt man einen selbstreinigenden Ofen?
 
-Many modern ovens have the function of self-cleaning. There are two technologies that can be used for this purpose: catalytic and pyrolytic. **How to clean an oven** with such functions? Both of the methods involve burning the dirt. Pyrolytic ovens warm up to very high temperatures, usually 500°C. As a result, the food particles burn off and turn to ash. All that needs to be done afterwards is to **wipe the inside with a damp cloth**. Keep in mind that this type of oven cleaning requires completely emptying the oven. If left inside during cleaning, utensils such as baking trays would get completely destroyed.
+Viele moderne Öfen haben die Funktion der Selbstreinigung. Es gibt zwei Technologien, die zu diesem Zweck eingesetzt werden können: katalytisch und pyrolytisch. Wie reinigt man einen Ofen mit solchen Funktionen? Bei beiden Methoden wird der Schmutz verbrannt. Pyrolyseöfen erwärmen sich auf sehr hohe Temperaturen, in der Regel 500°C. Als Folge davon verbrennen die Lebensmittelpartikel und verwandeln sich in Asche. Danach genügt es, die Innenseite mit einem feuchten Tuch abzuwischen. Denken Sie daran, dass diese Art der Ofenreinigung eine vollständige Entleerung des Ofens erfordert. Wenn Utensilien wie Backbleche während der Reinigung im Inneren verbleiben, werden sie vollständig zerstört.
 
-Catalytic cleaning, on the other hand, happens with the use of the oven. Special catalytic liners absorb grease and dirt.
+Die katalytische Reinigung hingegen erfolgt bei der Benutzung des Backofens. Spezielle katalytische Auskleidungen nehmen Fett und Schmutz auf.
 
 {:.distinction.distinction-warning}
 
-If you have this type of oven, remember about **cleaning the liners regularly**. Do it delicately, as they are easy to damage. Do not let the grease to grow on them - if such layer gets too thick, you will have to replace the liners.
+Wenn Sie diese Art von Ofen besitzen, denken Sie daran, die Auskleidungen regelmäßig zu reinigen. Gehen Sie dabei vorsichtig vor, da sie leicht zu beschädigen sind. Lassen Sie das Fett nicht auf ihnen wachsen - wenn diese Schicht zu dick wird, müssen Sie die Auskleidungen ersetzen.
 
-## How to clean an oven - important elements
+## Wie man einen Ofen reinigt - wichtige Elemente
 
-**When you clean your oven**, remember about its each component. Pay special attention to rack, trays, shelves and the outside. It is best to soak **removable parts such as rack and trays** in a separate bowl with water and vinegar. Scrub them afterwards using a sponge scrubber and dish soap.
+Wenn Sie Ihren Ofen reinigen, denken Sie an die einzelnen Komponenten. Achten Sie besonders auf das Gestell, die Bleche, die Einlegeböden und die Außenseite. Am besten tränken Sie abnehmbare Teile wie Rost und Bleche in einer separaten Schüssel mit Wasser und Essig. Schrubben Sie sie anschließend mit einem Schwammschrubber und Spülseife.
 
-You should also clean the front of the oven. The easiest method is pouring some water mixed with vinegar into a spray bottle. **Spray all stains** with the substance and wipe the surface with a soft cloth. If possible, unscrew all of the knobs and clean them in a bowl filled with water.
+Sie sollten auch die Vorderseite des Ofens reinigen. Die einfachste Methode ist, etwas mit Essig vermischtes Wasser in eine Sprühflasche zu gießen. Besprühen Sie alle Flecken mit der Substanz und wischen Sie die Oberfläche mit einem weichen Tuch ab. Wenn möglich, schrauben Sie alle Knöpfe ab und reinigen Sie sie in einer mit Wasser gefüllten Schüssel.
 
-How to clean oven from the outside? **Remember about the glass**, which is the most important part. It’s the place where all the grease accumulates and dries up. Such a film is difficult to remove. The methods with baking soda mentioned above will surely clean the dirty glass. If it’s possible with your particular oven model, take out the glass to make the cleaning easier.
+Wie reinigt man den Ofen von aussen? Denken Sie an das Glas, das der wichtigste Teil ist. Es ist der Ort, an dem sich das gesamte Fett ansammelt und austrocknet. Ein solcher Film ist schwer zu entfernen. Die oben erwähnten Methoden mit Backpulver werden das verschmutzte Glas sicher reinigen. Wenn es mit Ihrem speziellen Ofenmodell möglich ist, nehmen Sie das Glas heraus, um die Reinigung zu erleichtern.
 
 {:.distinction.distinction-information}
 
-**If the stains are very difficult** to get rid of, you can try cleaning with petroleum jelly, which should soften the dirt. Just spread it on the glass and wait a couple of minutes. Then use glass cleaner.
+Wenn die Flecken sehr schwer zu entfernen sind, können Sie es mit Vaseline versuchen, die den Schmutz aufweichen soll. Tragen Sie es einfach auf das Glas auf und warten Sie ein paar Minuten. Verwenden Sie dann Glasreiniger.
 
-**Cleaning the oven** doesn’t have to be difficult. Clean it on a regular basis while the dirt is still fresh and easy to remove. If you left it uncleaned for a long time though - don’t panic. There are **home remedies** available, along with recipes for oven cleaners. They are cheap and eco-friendly, and they will help you to remove even the most stubborn dirt. It’s worth the effort, as clean oven is a guarantee that your food will always taste as it should.
+Die Reinigung des Ofens muss nicht schwierig sein. Reinigen Sie ihn regelmäßig, solange der Schmutz noch frisch und leicht zu entfernen ist. Wenn Sie den Ofen jedoch lange Zeit nicht gereinigt haben - keine Panik. Es gibt Hausmittel und Rezepte für Ofenreiniger. Sie sind billig und umweltfreundlich und helfen Ihnen, selbst den hartnäckigsten Schmutz zu entfernen. Die Mühe lohnt sich, denn ein sauberer Ofen ist eine Garantie dafür, dass Ihr Essen immer so schmeckt, wie es schmecken soll.
 
-## How to clean an oven - FAQ
+## Wie man einen Ofen reinigt - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-How to clean oven using home remedies?
+Wie kann der Ofen mit Hausmitteln gereinigt werden?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Baking soda is the best oven cleaner used in many home recipes. Just mix it with another substance that you can find in your kitchen, for instance with vinegar and dish soap. Such paste will dissolve any kind of dirt.
+Backpulver ist der beste Ofenreiniger, der in vielen Hausrezepten verwendet wird. Mischen Sie es einfach mit einer anderen Substanz, die Sie in Ihrer Küche finden können, zum Beispiel mit Essig und Spülmittel. Eine solche Paste löst jede Art von Schmutz auf.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to clean oven without damaging it?
+Wie kann man einen Ofen reinigen, ohne ihn zu beschädigen?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-In order not to damage your oven while cleaning, soak all the stains before removing them. It will remove the necessity to scrub the dirt - that could scratch delicate parts. It the dirt is hard to remove, use a brush with plastic bristles. Make sure to be careful with scrubbing.
+Um Ihren Ofen beim Reinigen nicht zu beschädigen, weichen Sie alle Flecken ein, bevor Sie sie entfernen. Dadurch entfällt die Notwendigkeit, den Schmutz - der empfindliche Teile zerkratzen könnte - zu schrubben. Wenn der Schmutz schwer zu entfernen ist, verwenden Sie eine Bürste mit Kunststoffborsten. Achten Sie beim Schrubben auf Vorsicht.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to clean a very dirty oven?
+Wie reinigt man einen sehr schmutzigen Ofen?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-You can cover particularly stubborn stains with a special baking soda paste. It should work even with the most filthy surfaces. To prepare the paste, mix the soda with warm water and some salt. Leave it overnight and the stains should soften.
+Besonders hartnäckige Flecken können Sie mit einer speziellen Backpulverpaste abdecken. Sie sollte auch bei sehr schmutzigen Oberflächen funktionieren. Zur Zubereitung der Paste wird das Soda mit warmem Wasser und etwas Salz gemischt. Lassen Sie sie über Nacht stehen, damit die Flecken weich werden.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to clean a convection oven?
+Wie reinigt man einen Umluftofen?
 {% endfaqQuestion %}
 
 {% faqAnswer %}  
-The best oven cleaner for convection ovens is steam. Pour water and lemon juice into a heat resistant dish and put it in the oven. Set the temperature to 170°C - the fan will spread the steam. After the oven cools down, wipe the surface with a soft cloth.
+Der beste Ofenreiniger für Konvektionsöfen ist Dampf. Gießen Sie Wasser und Zitronensaft in eine hitzebeständige Schale und stellen Sie sie in den Ofen. Stellen Sie die Temperatur auf 170°C ein - der Ventilator verteilt den Dampf. Nachdem der Ofen abgekühlt ist, wischen Sie die Oberfläche mit einem weichen Tuch ab.
 {% endfaqAnswer %}
 {% endfaqItem %}
