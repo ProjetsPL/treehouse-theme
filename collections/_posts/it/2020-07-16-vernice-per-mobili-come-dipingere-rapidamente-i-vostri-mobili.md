@@ -1,48 +1,48 @@
 ---
 layout: post
-date: 2019-12-18
+date: 2020-07-16
 toc: true
-title: Furniture paint - how to paint your furniture quickly?
-description: " Furniture paint is a good idea for a quick, inexpensive makeover. What
-  is the best furniture paint that will make the room look great? Learn some useful
-  tricks!"
+title: Vernice per mobili - come dipingere rapidamente i vostri mobili?
+description: La vernice per mobili è una buona idea per un rifacimento rapido ed economico.
+  Qual è la migliore vernice per mobili che renderà la stanza più bella? Imparate
+  alcuni trucchi utili!
 image: "/uploads/farba-do-mebli.jpg"
 promoted: false
-update_date: 2020-02-05
-intro: You don’t have to throw away your old furniture if its only flaw is being out-of-date.
-  If you just realized that your furnishing is boring, consider renovating it. Something
-  so simple as brand new colour will give the room a surprisingly fresh look. Furniture
-  paint might unearth the hidden potential of your old furniture. However one must
-  be careful to choose the right product. In this way you can be sure that the makeover
-  will be successful.
+update_date: 2020-07-16
+intro: Non devi buttare via i tuoi vecchi mobili se il suo unico difetto è quello
+  di essere obsoleti. Se vi siete appena resi conto che il vostro arredamento è noioso,
+  considerate la possibilità di rinnovarlo. Qualcosa di così semplice come un nuovo
+  colore darà all'ambiente un aspetto sorprendentemente fresco. La vernice dei mobili
+  potrebbe portare alla luce il potenziale nascosto dei vostri vecchi mobili. Tuttavia
+  bisogna fare attenzione a scegliere il prodotto giusto. In questo modo si può essere
+  sicuri che il rifacimento avrà successo.
 main_keywords:
-- furniture paint
-- chalk furniture paint
-- best furniture paint
-- how paint furniture
-- furniture paint sprayer
-- furniture paint spray
-- furniture painting ideas
-- how to paint wood furniture
-- how to paint laminate furniture
-published: false
+- vernice per mobili
+- vernice per mobili in gesso
+- migliore vernice per mobili
+- come dipingere i mobili
+- spruzzatore per mobili
+- vernice spray per mobili
+- idee per la pittura di mobili
+- come dipingere mobili in legno
+- come dipingere mobili in laminato
 
 ---
-## Types of furniture paint
+## Tipi di vernice per mobili
 
-There are a lot of types of furniture paint available. Such product is perfect for renewing furniture. However among **various types of paint**, not each of them is suitable for every surface. Deciding, which type is the best furniture paint for one’s particular needs, it’s good to consider the result you expect. There are various kinds of paint on the market.
-
-{:.list}
-
-* **Acrylic paint** - acrylic resin acts here as a binder, whereas water is the diluter. Because of that, this kind of furniture paint dries quickly and the smell is relatively weak. They give either satin, semi-gloss or high-gloss finish. The surface is quite **susceptible to physical damage**, however it is weatherproof. It UV light resistant, therefore its colour will not change in the future. Such furniture paint is good for painting objects covered with veneer.
-* **Oil paint (alkyd paint)** - its main ingredients are alkyd resin and oils, thanks to which the paint is **weatherproof**. Surfaces covered with oil furniture paint are resistant to physical damage, water and temperature.
-
-  **Its biggest drawback is the acrid smell of the fumes.**
+Ci sono molti tipi di vernici per mobili disponibili. Questo prodotto è perfetto per rinnovare i mobili. Tuttavia, tra i vari tipi di vernice, non tutti sono adatti per ogni superficie. Decidere quale tipo di vernice per mobili è la migliore per le proprie esigenze particolari, è bene considerare il risultato che ci si aspetta. Ci sono vari tipi di vernice sul mercato.
 
 {:.list}
 
-* **Chalk paint** - it is made of water, chalk powder and some pigment. Thanks to the simplicity of its composition you can easily prepare such paint at home. It provides a matte finish, dries quickly and does not smell. Chalk furniture paint is **ecological** and therefore suitable for children’s bedroom. It is not resistant against physical damage and weather, hence it should be coated with **additional layer of varnish or wax**. Chalk paint is perfect for furniture distressing techniques.
-* **Stain and varnish** - if you want to highlight the wood pattern, the most suitable products are varnish and stain. Stain might be coloured, but it doesn’t cover the natural pattern. Depending on the type of the product, varnishes and stains can give matt, semi-gloss or **high-gloss finish**. Water-based varnish does not smell and dries quickly, however it can be easily damaged. Alternatively you can use **polyurethane varnish**, but keep in mind that it might darken in time.
+* Vernice acrilica - la resina acrilica agisce qui come legante, mentre l'acqua è il diluitore. Per questo motivo, questo tipo di vernice per mobili si asciuga rapidamente e l'odore è relativamente debole. Danno una finitura satinata, semilucida o lucida. La superficie è abbastanza suscettibile ai danni fisici, tuttavia è resistente alle intemperie. È resistente ai raggi UV, quindi il suo colore non cambierà in futuro. La vernice per mobili di questo tipo è ottima per dipingere oggetti ricoperti di impiallacciatura.
+* Vernice ad olio (vernice alchidica) - i suoi ingredienti principali sono la resina alchidica e gli oli, grazie ai quali la vernice è resistente alle intemperie. Le superfici rivestite con vernice ad olio per mobili sono resistenti ai danni fisici, all'acqua e alla temperatura.
+
+  Il suo più grande svantaggio è l'odore acre dei fumi.
+
+{:.list}
+
+* Pittura a gesso - è fatta di acqua, polvere di gesso e un po' di pigmento. Grazie alla semplicità della sua composizione è possibile preparare facilmente tale vernice a casa. Fornisce una finitura opaca, si asciuga rapidamente e non puzza. La vernice per mobili in gesso è ecologica e quindi adatta alla camera da letto dei bambini. Non è resistente ai danni fisici e agli agenti atmosferici, quindi dovrebbe essere rivestita con uno strato supplementare di vernice o cera. La vernice di gesso è perfetta per le tecniche di arredamento angoscianti.
+* Mordente e vernice - se si vuole evidenziare il disegno del legno, i prodotti più adatti sono la vernice e il mordente. Le macchie possono essere colorate, ma non coprono il motivo naturale. A seconda del tipo di prodotto, le vernici e le macchie possono dare una finitura opaca, semilucida o lucida. La vernice a base di acqua non ha odore e si asciuga rapidamente, ma può essere facilmente danneggiata. In alternativa si può usare la vernice poliuretanica, ma tenete presente che potrebbe scurirsi col tempo.
 
 {% fig %}
 ![Types of furniture paint](/uploads/farby-do-mebli-rodzaje.jpg "Types of furniture paint")
@@ -50,28 +50,28 @@ There are a lot of types of furniture paint available. Such product is perfect f
 
 {:.list}
 
-* **Renovation paint** - such paints are produced specifically for the purpose of furniture renovation. They are suitable for wood, laminate and plywood, as well as ceramic tiles. This type of furniture paint is highly **resistant to any kind of damage**.  
+* Vernici per il restauro - queste vernici sono prodotte appositamente per il restauro di mobili. Sono adatte per legno, laminato e compensato, così come per le piastrelle in ceramica. Questo tipo di vernice per mobili è altamente resistente a qualsiasi tipo di danno.
 
 {:.distinction.distinction-warning}
-The biggest disadvantage of using them is a very long time to dry (even 12 hours). They should be applied at least twice.
+Il più grande svantaggio di utilizzarli è un tempo di asciugatura molto lungo (anche 12 ore). Dovrebbero essere applicate almeno due volte.
 
-* **Chalkboard paint** - surfaces painted with chalkboard paint are suitable for writing with chalk. They can be wiped with dry or wet cloths. They might be a good idea for painting **children’s furniture**. Table or closet door painted with it will make a great writing surface for a child.
+* Vernice per lavagna - le superfici verniciate con vernice per lavagna sono adatte per scrivere con il gesso. Possono essere strofinate con panni asciutti o bagnati. Potrebbero essere una buona idea per dipingere mobili per bambini. L'anta del tavolo o dell'armadio dipinta con questo colore sarà un'ottima superficie di scrittura per un bambino.
 
-## How to paint furniture - before you start
+## Come dipingere i mobili - prima di iniziare
 
-**Before starting the renovation**, one should prepare everything accordingly. Take out each drawer and unscrew every knob, handle and hinge. All surfaces should be clean and dry. They should be sanded - that will ensure that the paint has a proper grip. Use **sandpaper** or a sanding sponge, which is easier to use.
+Prima di iniziare la ristrutturazione, si dovrebbe preparare tutto di conseguenza. Estrarre ogni cassetto e svitare ogni pomello, maniglia e cerniera. Tutte le superfici devono essere pulite e asciutte. Dovrebbero essere carteggiate, in modo da garantire che la vernice abbia una presa adeguata. Utilizzare carta vetrata o una spugna abrasiva, che è più facile da usare.
 
 {:.distinction.distinction-information}
 
-Before covering the object with furniture paint, all surfaces should be checked for scratches and dents. Shallow scratches can be easily sanded. Deep indentations and holes should be filled with wood putty. Covering such defects with **furniture paint could highlight them.**
+Prima di ricoprire l'oggetto con vernice per mobili, tutte le superfici devono essere controllate per verificare la presenza di graffi e ammaccature. I graffi poco profondi possono essere facilmente levigati. Le rientranze profonde e i fori devono essere riempiti con stucco per legno. Coprire tali difetti con vernice per mobili potrebbe metterli in evidenza.
 
-If the surface is smooth, it should be dusted with a **damp cloth**. Some materials, especially solid wood, require using an undercoat. It should also be used under certain types of paint, such as **acrylic**.
+Se la superficie è liscia, deve essere spolverata con un panno umido. Alcuni materiali, specialmente il legno massiccio, richiedono l'uso di un sottosmalto. Dovrebbe essere usato anche sotto certi tipi di vernice, come l'acrilico.
 
-## Furniture paint techniques - quick renovation
+## Tecniche di verniciatura dei mobili - rinnovamento rapido
 
-To paint the furniture, use **short pile roller**. To access hard-to-reach places, you can use a small brush. To get satisfactory results and a long-lasting surface, make sure to cover each object with minimum two layers of paint. Wait for a suitable amount of time between painting each layer. You can additionally delicately **sand dried coating** before putting the next one - the paint will stick better.
+Per verniciare i mobili, utilizzare il rullo a palo corto. Per accedere ai punti difficili da raggiungere, si può usare un piccolo pennello. Per ottenere risultati soddisfacenti e una superficie di lunga durata, assicurarsi di coprire ogni oggetto con almeno due strati di vernice. Attendere un periodo di tempo adeguato tra una pittura e l'altra. Potete inoltre carteggiare delicatamente il rivestimento essiccato prima di applicare quello successivo - la vernice si attaccherà meglio.
 
-The lifespan of the result depends mainly on the used furniture paint, which should be selected specifically for the given purpose. Furniture such as cases, shelves, TV stands and dressers are hardly moved. Therefore you can choose less durable furniture paint for them, such as acrylic and chalk paint. If the renovated objects are going to stand in the garden, the kitchen or children’s room, it is worth to choose a product of a firmer finish. The best furniture paint in such cases is one that is **resistant against physical damage**.
+La durata del risultato dipende principalmente dalla vernice usata per i mobili, che dovrebbe essere selezionata appositamente per lo scopo prefissato. Mobili come casse, scaffali, supporti per la TV e cassettiere non vengono quasi mai mossi. Pertanto è possibile scegliere per loro una vernice per mobili meno resistente, come la vernice acrilica e il gesso. Se gli oggetti rinnovati devono stare in giardino, in cucina o nella stanza dei bambini, vale la pena scegliere un prodotto con una finitura più solida. La migliore vernice per mobili in questi casi è quella resistente ai danni fisici.
 
 {% fig %}
 ![How to paint furniture - before you start](/uploads/farba-do-mebli-dobry-sposob-na-metamorfoze.jpg "How to paint furniture - before you start")
@@ -79,60 +79,60 @@ The lifespan of the result depends mainly on the used furniture paint, which sho
 
 {:.distinction.distinction-warning}
 
-If the renovated object is going to stand in a children’s room, make sure that the product you are using is safe. Furniture covered with **strong smelling paint** should be thoroughly aired out before it can be placed in the room.
+Se l'oggetto ristrutturato deve stare in una stanza per bambini, assicuratevi che il prodotto che state usando sia sicuro. I mobili ricoperti di vernice dal forte odore devono essere accuratamente arieggiati prima di poter essere collocati nella stanza.
 
-Apart from using furniture paint, take care of the details as well. Damaged handles and knobs should be replaced with new ones. Well designed handles or knobs will improve the appearance of the object and will suit as an additional decoration. A good idea is placing **handles of colour contrasting with the rest of the furniture**. It will energise the whole room.
+Oltre all'uso di vernice per mobili, curate anche i dettagli. Le maniglie e i pomelli danneggiati devono essere sostituiti con altri nuovi. Maniglie o pomelli ben disegnati miglioreranno l'aspetto dell'oggetto e saranno adatti come decorazione aggiuntiva. Una buona idea è quella di posizionare maniglie di colore in contrasto con il resto dei mobili. Questo darà energia a tutta la stanza.
 
-While choosing the best furniture paint, one should think of the **the finish** that will be the most appropriate for the interior. Bright, glossy surfaces will make the room look bigger, whereas matte furniture is associated with elegance and simplicity.
+Mentre si sceglie la migliore vernice per i mobili, si dovrebbe pensare alla finitura che sarà la più appropriata per l'interno. Superfici lucide e brillanti faranno apparire la stanza più grande, mentre i mobili opachi sono associati all'eleganza e alla semplicità.
 
-If the object is made of solid wood, consider leaving it in its original colour. All that you need to do in such a case is varnishing the surface. For an interesting effect you can also **combine two different textures**. To do that, paint only a part of the object and varnish the rest, making the original wood pattern visible.
+Se l'oggetto è in legno massello, considerate la possibilità di lasciarlo nel suo colore originale. In questo caso basta solo verniciare la superficie. Per un effetto interessante si possono anche combinare due diverse texture. Per fare questo, dipingere solo una parte dell'oggetto e verniciare il resto, rendendo visibile il disegno originale del legno.
 
-## All-purpose furniture paint - white
+## Vernice per mobili multiuso - bianca
 
-Quite a number of apartments is furnished with old veneer furniture. It might be old-fashioned, however many items still have interesting shapes. The **usual colours** of such objects range from dark to orange brown. Such shades are heavily outdated, as they tend to overwhelm the whole interior. For this reason, when renovating your furniture, consider choosing bright colours. **White is the most versatile colour** - it’s always trendy. The benefit of choosing white for interior design is making the rooms look bigger.
+Un buon numero di appartamenti è arredato con mobili antichi impiallacciati. Potrebbe essere antiquato, ma molti oggetti hanno ancora forme interessanti. I colori abituali di tali oggetti vanno dal marrone scuro all'arancione. Tali tonalità sono fortemente superate, in quanto tendono a sopraffare l'intero interno. Per questo motivo, quando rinnovate i vostri mobili, considerate la possibilità di scegliere colori brillanti. Il bianco è il colore più versatile - è sempre di moda. Il vantaggio di scegliere il bianco per l'arredamento d'interni è quello di far sembrare gli ambienti più grandi.
 
 {% fig %}
 ![All-purpose furniture paint - white](/uploads/biala-farba-do-mebli-kolor-uniwersalny.jpg "All-purpose furniture paint - white")
 {% endfig %}
 
-Bright tones fit many designs, for instance currently dominating **modern decor style**. This type of interior design often combines whites and shades of grey.
+I toni brillanti si adattano a molti design, per esempio attualmente dominano lo stile dell'arredamento moderno. Questo tipo di design d'interni spesso combina i bianchi e le sfumature di grigio.
 
-If the **modern interior design** seems too bleak, you don’t have to give up on elegant whites. Perhaps you will get inspired by the French provence style, which is much cozier than the modern one. This type is perfect for renovated furniture. Distressing is common for this design - such an effect is easy to recreate with chalk furniture paint.
+Se l'arredamento moderno sembra troppo tetro, non bisogna rinunciare ai bianchi eleganti. Forse vi ispirerete allo stile francese provenzale, che è molto più accogliente di quello moderno. Questo tipo è perfetto per i mobili ristrutturati. L'angoscia è comune per questo design - un tale effetto è facile da ricreare con la vernice dei mobili in gesso.
 
-Keep in mind that even the **best furniture paint** will not be able to cover the whole surface with just one layer. If you paint dark furniture white, make sure to put at least three layers of the product. If you put less, the dark colour might break through the bright paint.
+Tenete presente che anche la migliore vernice per mobili non sarà in grado di coprire l'intera superficie con un solo strato. Se dipingete i mobili di colore bianco scuro, assicuratevi di mettere almeno tre strati del prodotto. Se si mette meno, il colore scuro potrebbe rompere la vernice brillante.
 
-If you opt for a **weathered look**, pick a dark colour as the base. The next layers should be brighter. When the paint is completely dry, gently sand the edges to bring out the dark colour.
+Se optate per un look invecchiato, scegliete un colore scuro come base. Gli strati successivi dovrebbero essere più luminosi. Quando la vernice è completamente asciutta, carteggiate delicatamente i bordi per far risaltare il colore scuro.
 
-**Painting old furniture** is a great way to refresh one’s space. When objects surrounding you become boring, furniture paint comes in handy. It will give your furniture a new look without the necessity to spend money on new objects. Such a solution is quick and relatively cheap.
+Dipingere vecchi mobili è un ottimo modo per rinfrescare il proprio spazio. Quando gli oggetti che ti circondano diventano noiosi, la vernice per mobili è utile. Dà ai vostri mobili un nuovo aspetto senza la necessità di spendere soldi per nuovi oggetti. Una soluzione di questo tipo è rapida e relativamente economica.
 
-## Furniture paint - FAQ
+## Vernice per mobili - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-Does the furniture always have to be sanded?
+I mobili devono essere sempre levigati?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Getting rid of the old layers of varnish or paint is necessary for every type of furniture. Only chalk furniture paint may be used without thorough sanding of the surface - but it still needs to be sanded on the surface. Otherwise the paint might not stick properly.
+Sbarazzarsi dei vecchi strati di vernice o vernice è necessario per ogni tipo di arredamento. Si può usare solo vernice per mobili in gesso senza levigare a fondo la superficie - ma deve comunque essere levigata in superficie. Altrimenti la vernice potrebbe non attaccarsi correttamente.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-Can I paint every type of furniture?
+Posso dipingere ogni tipo di mobile?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Irrespective of the type or the colour of the surface, there is a product for each of them. There is a great choice of furniture paint on the market - for every type of furniture. The only thing to keep in mind is the right preparation of the painted surface.
+Indipendentemente dal tipo o dal colore della superficie, esiste un prodotto per ciascuno di essi. C'è un'ampia scelta di vernici per mobili sul mercato - per ogni tipo di arredamento. L'unica cosa da tenere a mente è la giusta preparazione della superficie verniciata.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How long will the surface last?
+Quanto durerà la superficie?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Durability of the surface depends on the type of furniture paint and on how the object is used. For instance, chalk paint should not be used for kitchen furniture. If the paint is by nature less durable, it needs to be secured with an additional layer of varnish.
+La durata della superficie dipende dal tipo di vernice del mobile e da come l'oggetto viene utilizzato. Ad esempio, la vernice a gesso non dovrebbe essere usata per i mobili della cucina. Se la vernice è per natura meno resistente, deve essere fissata con uno strato supplementare di vernice.
 {% endfaqAnswer %}
 {% endfaqItem %}
