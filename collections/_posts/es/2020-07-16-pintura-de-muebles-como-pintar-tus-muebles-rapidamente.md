@@ -1,77 +1,76 @@
 ---
 layout: post
-date: 2019-12-18
+date: 2020-07-16
 toc: true
-title: Furniture paint - how to paint your furniture quickly?
-description: " Furniture paint is a good idea for a quick, inexpensive makeover. What
-  is the best furniture paint that will make the room look great? Learn some useful
-  tricks!"
+title: Pintura de muebles - ¿cómo pintar tus muebles rápidamente?
+description: La pintura de muebles es una buena idea para un cambio de imagen rápido
+  y barato. ¿Cuál es la mejor pintura para muebles que hará que la habitación se vea
+  bien? Aprende algunos trucos útiles!
 image: "/uploads/farba-do-mebli.jpg"
 promoted: false
-update_date: 2020-02-05
-intro: You don’t have to throw away your old furniture if its only flaw is being out-of-date.
-  If you just realized that your furnishing is boring, consider renovating it. Something
-  so simple as brand new colour will give the room a surprisingly fresh look. Furniture
-  paint might unearth the hidden potential of your old furniture. However one must
-  be careful to choose the right product. In this way you can be sure that the makeover
-  will be successful.
+update_date: 2020-07-16
+intro: No tienes que tirar tus viejos muebles si su único defecto es estar anticuados.
+  Si te acabas de dar cuenta de que tus muebles son aburridos, considera renovarlos.
+  Algo tan simple como un nuevo color le dará a la habitación un aspecto sorprendentemente
+  fresco. La pintura de los muebles podría desenterrar el potencial oculto de sus
+  viejos muebles. Sin embargo, uno debe ser cuidadoso para elegir el producto correcto.
+  De esta manera puede estar seguro de que el cambio de imagen será un éxito.
 main_keywords:
-- furniture paint
-- chalk furniture paint
-- best furniture paint
-- how paint furniture
-- furniture paint sprayer
-- furniture paint spray
-- furniture painting ideas
-- how to paint wood furniture
-- how to paint laminate furniture
-published: false
+- pintura de muebles
+- pintura de muebles de tiza
+- la mejor pintura para muebles
+- cómo pintar los muebles
+- rociador de pintura para muebles
+- spray de pintura para muebles
+- ideas para pintar muebles
+- cómo pintar muebles de madera
+- cómo pintar muebles laminados
 
 ---
-## Types of furniture paint
+## Los tipos de pintura de los muebles
 
-There are a lot of types of furniture paint available. Such product is perfect for renewing furniture. However among **various types of paint**, not each of them is suitable for every surface. Deciding, which type is the best furniture paint for one’s particular needs, it’s good to consider the result you expect. There are various kinds of paint on the market.
-
-{:.list}
-
-* **Acrylic paint** - acrylic resin acts here as a binder, whereas water is the diluter. Because of that, this kind of furniture paint dries quickly and the smell is relatively weak. They give either satin, semi-gloss or high-gloss finish. The surface is quite **susceptible to physical damage**, however it is weatherproof. It UV light resistant, therefore its colour will not change in the future. Such furniture paint is good for painting objects covered with veneer.
-* **Oil paint (alkyd paint)** - its main ingredients are alkyd resin and oils, thanks to which the paint is **weatherproof**. Surfaces covered with oil furniture paint are resistant to physical damage, water and temperature.
-
-  **Its biggest drawback is the acrid smell of the fumes.**
+Hay muchos tipos de pintura para muebles disponibles. Este producto es perfecto para renovar los muebles. Sin embargo, entre los diversos tipos de pintura, no todos son adecuados para todas las superficies. Al decidir qué tipo de pintura para muebles es la mejor para las necesidades particulares de uno, es bueno considerar el resultado que se espera. Hay varios tipos de pintura en el mercado.
 
 {:.list}
 
-* **Chalk paint** - it is made of water, chalk powder and some pigment. Thanks to the simplicity of its composition you can easily prepare such paint at home. It provides a matte finish, dries quickly and does not smell. Chalk furniture paint is **ecological** and therefore suitable for children’s bedroom. It is not resistant against physical damage and weather, hence it should be coated with **additional layer of varnish or wax**. Chalk paint is perfect for furniture distressing techniques.
-* **Stain and varnish** - if you want to highlight the wood pattern, the most suitable products are varnish and stain. Stain might be coloured, but it doesn’t cover the natural pattern. Depending on the type of the product, varnishes and stains can give matt, semi-gloss or **high-gloss finish**. Water-based varnish does not smell and dries quickly, however it can be easily damaged. Alternatively you can use **polyurethane varnish**, but keep in mind that it might darken in time.
+* Pintura acrílica - la resina acrílica actúa aquí como un aglutinante, mientras que el agua es el diluyente. Debido a eso, este tipo de pintura para muebles se seca rápidamente y el olor es relativamente débil. Dan un acabado satinado, semibrillante o de alto brillo. La superficie es bastante susceptible a los daños físicos, sin embargo es resistente a la intemperie. Es resistente a la luz UV, por lo que su color no cambiará en el futuro. Esta pintura para muebles es buena para pintar objetos cubiertos con chapa.
+* intura al óleo (pintura alquídica) - sus principales ingredientes son la resina alquídica y los aceites, gracias a los cuales la pintura es resistente a la intemperie. Las superficies cubiertas con pintura al óleo para muebles son resistentes a los daños físicos, al agua y a la temperatura.
 
-{% fig %}
+  Su mayor inconveniente es el olor acre de los vapores.
+
+{:.list}
+
+* Pintura de tiza - está hecha de agua, polvo de tiza y algún pigmento. Gracias a la simplicidad de su composición, puedes preparar fácilmente este tipo de pintura en casa. Proporciona un acabado mate, se seca rápidamente y no tiene olor. La pintura de tiza para muebles es ecológica y por lo tanto adecuada para el dormitorio de los niños. No es resistente a los daños físicos ni a la intemperie, por lo que debe ser recubierta con una capa adicional de barniz o cera. La pintura con tiza es perfecta para las técnicas de decoración de muebles.
+* Tintes y barnices - si quiere resaltar el patrón de la madera, los productos más adecuados son los barnices y los tintes. El tinte puede ser coloreado, pero no cubre el patrón natural. Dependiendo del tipo de producto, los barnices y tintes pueden dar un acabado mate, semibrillante o brillante. El barniz a base de agua no huele y se seca rápidamente, sin embargo puede ser fácilmente dañado. Alternativamente, puede usar barniz de poliuretano, pero tenga en cuenta que puede oscurecerse con el tiempo.
+
+{% fig %}.
 ![Types of furniture paint](/uploads/farby-do-mebli-rodzaje.jpg "Types of furniture paint")
 {% endfig %}
 
 {:.list}
 
-* **Renovation paint** - such paints are produced specifically for the purpose of furniture renovation. They are suitable for wood, laminate and plywood, as well as ceramic tiles. This type of furniture paint is highly **resistant to any kind of damage**.  
+* Pintura de renovación - tales pinturas se producen específicamente para la renovación de muebles. Son adecuadas para madera, laminado y contrachapado, así como para azulejos de cerámica. Este tipo de pintura para muebles es altamente resistente a cualquier tipo de daño.
 
 {:.distinction.distinction-warning}
-The biggest disadvantage of using them is a very long time to dry (even 12 hours). They should be applied at least twice.
+La mayor desventaja de usarlos es que tardan mucho tiempo en secarse (incluso 12 horas). Deberían aplicarse al menos dos veces.
 
-* **Chalkboard paint** - surfaces painted with chalkboard paint are suitable for writing with chalk. They can be wiped with dry or wet cloths. They might be a good idea for painting **children’s furniture**. Table or closet door painted with it will make a great writing surface for a child.
+* Pintura de pizarra - las superficies pintadas con pintura de pizarra son adecuadas para escribir con tiza. Se pueden limpiar con paños secos o húmedos. Pueden ser una buena idea para pintar los muebles de los niños. La puerta de la mesa o del armario pintada con ella será una gran superficie de escritura para un niño.
 
-## How to paint furniture - before you start
+## Cómo pintar los muebles - antes de empezar
 
-**Before starting the renovation**, one should prepare everything accordingly. Take out each drawer and unscrew every knob, handle and hinge. All surfaces should be clean and dry. They should be sanded - that will ensure that the paint has a proper grip. Use **sandpaper** or a sanding sponge, which is easier to use.
+Antes de comenzar la renovación, uno debe preparar todo en consecuencia. Saque cada cajón y desenrosque cada perilla, manija y bisagra. Todas las superficies deben estar limpias y secas. Deben ser lijadas - eso asegurará que la pintura tenga un agarre adecuado. Use papel de lija o una esponja de lijar, que es más fácil de usar.
 
 {:.distinction.distinction-information}
 
-Before covering the object with furniture paint, all surfaces should be checked for scratches and dents. Shallow scratches can be easily sanded. Deep indentations and holes should be filled with wood putty. Covering such defects with **furniture paint could highlight them.**
+Antes de cubrir el objeto con pintura para muebles, todas las superficies deben ser revisadas para ver si hay arañazos y abolladuras. Los arañazos poco profundos pueden ser fácilmente lijados. Las hendiduras y agujeros profundos deben ser rellenados con masilla de madera. Cubrir tales defectos con pintura para muebles podría resaltarlos.
 
-If the surface is smooth, it should be dusted with a **damp cloth**. Some materials, especially solid wood, require using an undercoat. It should also be used under certain types of paint, such as **acrylic**.
+Si la superficie es lisa, debe ser desempolvada con un paño húmedo. Algunos materiales, especialmente la madera maciza, requieren el uso de una capa de fondo. También debería usarse bajo ciertos tipos de pintura, como la acrílica.
 
-## Furniture paint techniques - quick renovation
+## Técnicas de pintura de muebles - renovación rápida
 
-To paint the furniture, use **short pile roller**. To access hard-to-reach places, you can use a small brush. To get satisfactory results and a long-lasting surface, make sure to cover each object with minimum two layers of paint. Wait for a suitable amount of time between painting each layer. You can additionally delicately **sand dried coating** before putting the next one - the paint will stick better.
+Para pintar los muebles, usa un rodillo de pelo corto. Para acceder a lugares de difícil acceso, puede usar un pequeño pincel. Para obtener resultados satisfactorios y una superficie duradera, asegúrese de cubrir cada objeto con un mínimo de dos capas de pintura. Espere un tiempo adecuado entre la pintura de cada capa. Además, puede lijar delicadamente la capa seca antes de poner la siguiente - la pintura se pegará mejor.
 
-The lifespan of the result depends mainly on the used furniture paint, which should be selected specifically for the given purpose. Furniture such as cases, shelves, TV stands and dressers are hardly moved. Therefore you can choose less durable furniture paint for them, such as acrylic and chalk paint. If the renovated objects are going to stand in the garden, the kitchen or children’s room, it is worth to choose a product of a firmer finish. The best furniture paint in such cases is one that is **resistant against physical damage**.
+La vida útil del resultado depende principalmente de la pintura usada en los muebles, que debe ser seleccionada específicamente para el propósito dado. Muebles como estantes, estantes, soportes de televisión y aparadores apenas se mueven. Por lo tanto, se puede elegir una pintura menos duradera para ellos, como la pintura acrílica y la pintura de tiza. Si los objetos renovados van a estar en el jardín, la cocina o la habitación de los niños, vale la pena elegir un producto de un acabado más firme. La mejor pintura para muebles en estos casos es la que es resistente a los daños físicos.
 
 {% fig %}
 ![How to paint furniture - before you start](/uploads/farba-do-mebli-dobry-sposob-na-metamorfoze.jpg "How to paint furniture - before you start")
@@ -79,60 +78,60 @@ The lifespan of the result depends mainly on the used furniture paint, which sho
 
 {:.distinction.distinction-warning}
 
-If the renovated object is going to stand in a children’s room, make sure that the product you are using is safe. Furniture covered with **strong smelling paint** should be thoroughly aired out before it can be placed in the room.
+Si el objeto renovado va a estar en una habitación infantil, asegúrese de que el producto que está usando es seguro. Los muebles cubiertos con pintura de olor fuerte deben ser aireados antes de que puedan ser colocados en la habitación.
 
-Apart from using furniture paint, take care of the details as well. Damaged handles and knobs should be replaced with new ones. Well designed handles or knobs will improve the appearance of the object and will suit as an additional decoration. A good idea is placing **handles of colour contrasting with the rest of the furniture**. It will energise the whole room.
+Aparte de usar pintura para muebles, cuide los detalles también. Los mangos y pomos dañados deben ser reemplazados por otros nuevos. Los mangos o pomos bien diseñados mejorarán la apariencia del objeto y servirán como decoración adicional. Una buena idea es colocar manijas de color que contrasten con el resto de los muebles. Esto dará energía a toda la habitación.
 
-While choosing the best furniture paint, one should think of the **the finish** that will be the most appropriate for the interior. Bright, glossy surfaces will make the room look bigger, whereas matte furniture is associated with elegance and simplicity.
+Al elegir la mejor pintura para los muebles, uno debe pensar en el acabado que será el más apropiado para el interior. Las superficies brillantes y lustrosas harán que la habitación parezca más grande, mientras que los muebles mates se asocian con la elegancia y la simplicidad.
 
-If the object is made of solid wood, consider leaving it in its original colour. All that you need to do in such a case is varnishing the surface. For an interesting effect you can also **combine two different textures**. To do that, paint only a part of the object and varnish the rest, making the original wood pattern visible.
+Si el objeto está hecho de madera maciza, considere dejarlo en su color original. Todo lo que necesitas hacer en tal caso es barnizar la superficie. Para lograr un efecto interesante, también puede combinar dos texturas diferentes. Para ello, pinte sólo una parte del objeto y barnice el resto, haciendo visible el patrón de madera original.
 
-## All-purpose furniture paint - white
+## Pintura para muebles de uso múltiple - blanca
 
-Quite a number of apartments is furnished with old veneer furniture. It might be old-fashioned, however many items still have interesting shapes. The **usual colours** of such objects range from dark to orange brown. Such shades are heavily outdated, as they tend to overwhelm the whole interior. For this reason, when renovating your furniture, consider choosing bright colours. **White is the most versatile colour** - it’s always trendy. The benefit of choosing white for interior design is making the rooms look bigger.
+Un buen número de apartamentos están amueblados con muebles antiguos de chapa. Puede que sea anticuado, pero muchos artículos todavía tienen formas interesantes. Los colores habituales de estos objetos van desde el marrón oscuro al marrón anaranjado. Estos tonos son muy anticuados, ya que tienden a abrumar todo el interior. Por esta razón, cuando renueve sus muebles, considere elegir colores brillantes. El blanco es el color más versátil, siempre está de moda. El beneficio de elegir el blanco para el diseño interior es hacer que las habitaciones parezcan más grandes.
 
 {% fig %}
 ![All-purpose furniture paint - white](/uploads/biala-farba-do-mebli-kolor-uniwersalny.jpg "All-purpose furniture paint - white")
 {% endfig %}
 
-Bright tones fit many designs, for instance currently dominating **modern decor style**. This type of interior design often combines whites and shades of grey.
+Los tonos brillantes encajan en muchos diseños, por ejemplo, actualmente dominan el estilo de la decoración moderna. Este tipo de diseño interior a menudo combina blancos y tonos de gris.
 
-If the **modern interior design** seems too bleak, you don’t have to give up on elegant whites. Perhaps you will get inspired by the French provence style, which is much cozier than the modern one. This type is perfect for renovated furniture. Distressing is common for this design - such an effect is easy to recreate with chalk furniture paint.
+Si el diseño interior moderno parece demasiado sombrío, no hay que renunciar a los blancos elegantes. Tal vez se inspire en el estilo francés de la Provenza, que es mucho más acogedor que el moderno. Este tipo es perfecto para los muebles renovados. Es común que este diseño sea angustioso - tal efecto es fácil de recrear con pintura de tiza para muebles.
 
-Keep in mind that even the **best furniture paint** will not be able to cover the whole surface with just one layer. If you paint dark furniture white, make sure to put at least three layers of the product. If you put less, the dark colour might break through the bright paint.
+Tenga en cuenta que incluso la mejor pintura para muebles no podrá cubrir toda la superficie con una sola capa. Si pintas los muebles oscuros de blanco, asegúrate de poner al menos tres capas del producto. Si pones menos, el color oscuro puede atravesar la pintura brillante.
 
-If you opt for a **weathered look**, pick a dark colour as the base. The next layers should be brighter. When the paint is completely dry, gently sand the edges to bring out the dark colour.
+Si opta por un aspecto envejecido, elija un color oscuro como base. Las siguientes capas deberían ser más brillantes. Cuando la pintura esté completamente seca, lije suavemente los bordes para resaltar el color oscuro.
 
-**Painting old furniture** is a great way to refresh one’s space. When objects surrounding you become boring, furniture paint comes in handy. It will give your furniture a new look without the necessity to spend money on new objects. Such a solution is quick and relatively cheap.
+Pintar los muebles viejos es una gran manera de refrescar el espacio. Cuando los objetos que te rodean se vuelven aburridos, la pintura de los muebles es muy útil. Le dará a tus muebles un nuevo aspecto sin necesidad de gastar dinero en nuevos objetos. Tal solución es rápida y relativamente barata.
 
-## Furniture paint - FAQ
+## Pintura para muebles - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-Does the furniture always have to be sanded?
+¿Los muebles siempre tienen que ser lijados?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Getting rid of the old layers of varnish or paint is necessary for every type of furniture. Only chalk furniture paint may be used without thorough sanding of the surface - but it still needs to be sanded on the surface. Otherwise the paint might not stick properly.
+Deshacerse de las viejas capas de barniz o pintura es necesario para todo tipo de muebles. Sólo se puede usar pintura de tiza para muebles sin lijar a fondo la superficie, pero aún así hay que lijar la superficie. De lo contrario, la pintura podría no adherirse correctamente.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-Can I paint every type of furniture?
+¿Puedo pintar todo tipo de muebles?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Irrespective of the type or the colour of the surface, there is a product for each of them. There is a great choice of furniture paint on the market - for every type of furniture. The only thing to keep in mind is the right preparation of the painted surface.
+Independientemente del tipo o el color de la superficie, hay un producto para cada uno de ellos. Hay una gran variedad de pintura para muebles en el mercado, para cada tipo de mueble. Lo único que hay que tener en cuenta es la correcta preparación de la superficie pintada.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How long will the surface last?
+¿Cuánto tiempo durará la superficie?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Durability of the surface depends on the type of furniture paint and on how the object is used. For instance, chalk paint should not be used for kitchen furniture. If the paint is by nature less durable, it needs to be secured with an additional layer of varnish.
+La durabilidad de la superficie depende del tipo de pintura del mueble y de cómo se utilice el objeto. Por ejemplo, la pintura de tiza no debe usarse para los muebles de cocina. Si la pintura es por naturaleza menos duradera, debe ser asegurada con una capa adicional de barniz.
 {% endfaqAnswer %}
 {% endfaqItem %}
