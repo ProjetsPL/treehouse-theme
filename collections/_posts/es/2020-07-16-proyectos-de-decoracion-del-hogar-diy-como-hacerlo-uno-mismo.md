@@ -1,95 +1,94 @@
 ---
 layout: post
-date: 2019-12-11
+date: 2020-07-16
 toc: true
-title: DIY home decor projects - how to do it yourself?
-description: DIY projects provide a lot of creative decorating ideas for your home.
-  Do it yourself decorations do not require any special skills. It is worth to make
-  them.
+title: Proyectos de decoración del hogar DIY - ¿cómo hacerlo uno mismo?
+description: Los proyectos de bricolaje brindan muchas ideas creativas de decoración
+  para su hogar. Hágalo usted mismo. Las decoraciones no requieren ninguna habilidad
+  especial. Vale la pena hacerlos.
 image: "/uploads/dekoracje-diy-do-domu-zrob-to-sam.jpg"
 promoted: false
-update_date: 2020-02-05
-intro: Decorating is the last stage of home renovation. Stylish decorations might
-  be costly, but don’t necessarily have to be. You can craft a lot of interesting
-  decorations yourself. DIY projects are not only incredibly cheap but also very impressive.
-  They are very easy to make and will give your interior uniqueness, adding a personal
-  touch. Crafting such decorations is a great opportunity to release your creative
-  skills and imagination. So do it yourself, pretend you are an artist and decorate
-  your place with your own pieces of art.
+update_date: 2020-07-16
+intro: La decoración es la última etapa de la renovación del hogar. Las decoraciones
+  elegantes pueden ser costosas, pero no necesariamente tienen que serlo. Puedes hacer
+  muchas decoraciones interesantes por ti mismo. Los proyectos de bricolaje no sólo
+  son increíblemente baratos, sino también muy impresionantes. Son muy fáciles de
+  hacer y le darán a su interior un toque personal. Hacer tales decoraciones es una
+  gran oportunidad para liberar tus habilidades creativas e imaginación. Así que hazlo
+  tú mismo, finge que eres un artista y decora tu casa con tus propias piezas de arte.
 main_keywords:
 - diy
-- diy projects
-- do it yourself
-- home decor ideas
-- decorating ideas
-- diy home decor
-- home decorating ideas
-- diy ideas
-- diy decor
-published: false
+- proyectos diy
+- Hazlo tú mismo.
+- ideas para la decoración del hogar
+- ideas de decoración
+- decoración del hogar diy
+- ideas para la decoración del hogar
+- ideas de diy
+- decoración de diy
 
 ---
-## Do it yourself! Home decor ideas for everyone
+## ¡Hazlo tú mismo! Ideas de decoración para todos
 
-You don’t need to have any special abilities to create some elegant and **charming decorations**. Such DIY projects usually do not require spending a lot of money. All needed materials are within your reach. Very few, if any things are required to buy - and usually they are cheap. Naturally, total expenses differ from project to project. There is, however, plenty of **DIY ideas** that do not require buying anything, because everything you need you can find in your own house.
+No es necesario tener habilidades especiales para crear algunas decoraciones elegantes y encantadoras. Tales proyectos de bricolaje generalmente no requieren gastar mucho dinero. Todos los materiales necesarios están a tu alcance. Muy pocos, si es que se requieren cosas para comprar - y generalmente son baratos. Naturalmente, los gastos totales difieren de un proyecto a otro. Sin embargo, hay muchas ideas de bricolaje que no requieren comprar nada, porque todo lo que necesitas lo puedes encontrar en tu propia casa.
 
 {:.distinction.distinction-information}
 
-**DIY projects** offer a lot of interesting interior design solutions. They often involve renovating old objects or creating brand new ones with the use of cheap materials. Individuals who seek for inexpensive ideas to furnish their households often collect old furniture. Then they **refurbish** them - by modifying, repainting or even combining several parts into one. Such unusual inventions result in unique **DIY decorations**, which combine remarkable style and functionality.
+Los proyectos de bricolaje ofrecen muchas soluciones interesantes de diseño interior. A menudo implican la renovación de objetos antiguos o la creación de otros nuevos con el uso de materiales baratos. Los individuos que buscan ideas baratas para amueblar sus hogares a menudo recogen muebles viejos. Luego los restauran, modificándolos, pintándolos o incluso combinando varias partes en una sola. Estos inventos inusuales dan como resultado decoraciones únicas de bricolaje, que combinan un estilo y una funcionalidad notables.
 
-## DIY - paper crafts
+## Bricolaje - artesanías de papel
 
-A great many of DIY projects can be made of **plain paper.** This cheap material is quite versatile and therefore highly popular amongst handicraft lovers. Paper can be used for practically anything - from painting to sculpting.
+Muchos de los proyectos de bricolaje pueden hacerse en papel normal. Este material barato es muy versátil y por lo tanto muy popular entre los amantes de la artesanía. El papel puede ser usado para prácticamente cualquier cosa, desde la pintura hasta la escultura.
 
 {% fig %}
 ![DIY - paper crafts](/uploads/diy-paper-crafts.jpg "DIY - paper crafts")
 {% endfig %}
 
-Some home decor ideas involving paper:
+Algunas ideas de decoración del hogar que involucran papel:
 
 {:.list}
 
-* **Lamp shades - they can be prepared with the use of origami techniques - there are many step-by-step instructions in the web. You can also cut some shapes out of paper and combine them into a ball using glue. Poking a pattern of holes in a solid paper lamp shade will result in a very interesting lighting in a room.**
-* **Decorative garlands** - paper chains are decorations suitable not only for Christmas and parties, as many might think. They can be utilized throughout the entire year. Just cut some interesting shapes out of coloured **construction paper**, attach them to a string and hang them anyplace you want. You can also use crêpe paper, which creates very aesthetic forms, for instance **flowers, pom poms and fringe.**
-* **3D paper sculpture - a very impressive and quite easy to make DIY project. To make it, you need some paper, scissors and glue. The paper needs to be folded in such a way so that a solid figure is made. Every such element is glued onto a wall, side by side. This way one can build fascinating structures, which will delight anyone.**
-* **Magazine collage - if you have a collection of old glossy magazines, you can reuse them to make a beautiful picture. Just cut out some photographs that interest you and arrange them into a scene or anything you like. Glue the pieces to a cardboard, frame the collage and hang it on a wall.**
+* Las pantallas de las lámparas - se pueden preparar con el uso de técnicas de origami - hay muchas instrucciones paso a paso en la web. También puedes cortar algunas formas de papel y combinarlas en una bola usando pegamento. Haciendo un patrón de agujeros en una pantalla de papel sólido resultará en una iluminación muy interesante en una habitación.
+* Guirnaldas decorativas - las cadenas de papel son adornos adecuados no sólo para la Navidad y las fiestas, como muchos podrían pensar. Pueden ser utilizadas durante todo el año. Sólo hay que cortar algunas formas interesantes de papel de construcción de colores, atarlas a una cuerda y colgarlas en cualquier lugar que desee. También puede usar papel crepé, que crea formas muy estéticas, por ejemplo flores, pompones y flecos.
+* Escultura de papel en 3D - un proyecto de bricolaje muy impresionante y bastante fácil de hacer. Para hacerla, necesitas papel, tijeras y pegamento. El papel necesita ser doblado de tal manera que se haga una figura sólida. Cada elemento se pega en una pared, uno al lado del otro. De esta manera se pueden construir estructuras fascinantes, que deleitarán a cualquiera.
+* Collage de revistas - si tienes una colección de viejas revistas brillantes, puedes reutilizarlas para hacer un hermoso cuadro. Recorta algunas fotografías que te interesen y colócalas en una escena o en lo que quieras. Pega las piezas a un cartón, enmarca el collage y cuélgalo en una pared.
 
-## DIY - atmospheric lighting in your house
+## DIY - iluminación atmosférica en tu casa
 
-Apart from the paper lampshades, there are many more DIY projects involving **atmospheric** **lighting in the room.** You can use anything - for instance old Christmas lights, which can be used as a year-long decoration. Some DIY ideas for Christmas lights are:
+Aparte de las pantallas de papel, hay muchos más proyectos de bricolaje que implican una iluminación atmosférica en la habitación. Puedes usar cualquier cosa, por ejemplo, viejas luces de Navidad, que pueden ser usadas como decoración durante todo el año. Algunas ideas de bricolaje para las luces de Navidad son:
 
 {:.list}
 
-* **Mason jar lantern - the lights put inside an old mason jar will result in a gorgeous lighting in the whole room at night. The more interesting shape of the jar, the more appealing the decoration will be. Instead of a jar you can also use a glass bottle.**
-* **DIY light up letters - all you need for such a decoration is a cardboard. Cut a shape of a letter out of it and pierce little holes along the edges (to do it, you can use a pen or a hole punch). Insert the lights in the holes. You can set up a whole phrase on the wall - for instance to light up your bedroom.**
-* **Hula hoop chandelier - if you have an old hoop lying around in your house, you can use it for a DIY chandelier. Just wrap it in a decorative tape and secure the lights around the edges. Fasten some strings around the circle - evenly placed and brought together in the middle, they will hold the whole construction.**
+* Linterna de tarro de albañil - las luces puestas dentro de un viejo tarro de albañil resultarán en una magnífica iluminación en toda la habitación por la noche. Cuanto más interesante sea la forma del tarro, más atractiva será la decoración. En lugar de un tarro también puedes usar una botella de vidrio.
+* El bricolaje ilumina las letras, todo lo que necesitas para tal decoración es un cartón. Corta la forma de una carta y haz pequeños agujeros en los bordes (para hacerlo, puedes usar un bolígrafo o un punzón). Introduce las luces en los agujeros. Puedes colocar una frase entera en la pared, por ejemplo para iluminar tu dormitorio.
+* Lámpara de hula hoop - si tienes un viejo aro en tu casa, puedes usarlo para una lámpara de hula hoop. Sólo tienes que envolverlo con una cinta decorativa y asegurar las luces en los bordes. Ata algunas cuerdas alrededor del círculo, colocadas uniformemente y unidas en el medio, sostendrán toda la construcción.
 
 {% fig %}
 ![DIY - atmospheric lighting in your house](/uploads/diy-atmospheric-lighting-in-your-house.jpg "DIY - atmospheric lighting in your house")
 {% endfig %}
 
-Mason jars are perfect for making lanterns and lamps. They can be used to prepare, for instance:
+Los frascos de los masones son perfectos para hacer linternas y lámparas. Se pueden usar para preparar, por ejemplo:
 
 {:.list}
 
-* **Patio floor lights - simply put a LED candle in an empty jar. Additionally, you can stick a colourful decorative paper napkin or colourful tissue to the walls of the jar. The light will illuminate the pattern and will cast a colourful glow onto the floor. You can put the lanterns on your balcony and patio, as well as along the path in your garden.**
-* **Lanterns** - another interesting idea is **“water lantern**”. Just pour some water into a jar and place a tealight onto the surface.
+* Luces del piso del patio, simplemente pon una vela LED en un frasco vacío. Además, puedes pegar una servilleta de papel decorativo o un pañuelo de colores en las paredes del tarro. La luz iluminará el patrón y proyectará un colorido resplandor en el suelo. Puedes poner las linternas en tu balcón y patio, así como a lo largo del camino en tu jardín.
+* Linternas - otra idea interesante es "linterna de agua". Sólo hay que verter un poco de agua en un tarro y colocar una candelita en la superficie.
 
-## Do it yourself - something out of nothing!
+## Hágalo usted mismo, ¡algo de la nada!
 
-**DIY decorations** can engage any kind of material that is within your reach. Just browse your tool closet or examine your sewing kit. An ordinary copper wire can be formed into any shape - for instance, you can make an **extraordinary sculpture** out of it. Use a small wooden board as a base, attaching the ends to it. If you wish for something more functional than just a sculpture - form the wire into a **jewellery stand shaped like a tree or a hand**.
+Los adornos de bricolaje pueden atraer cualquier tipo de material que esté a su alcance. Sólo tienes que echar un vistazo a tu armario de herramientas o examinar tu kit de costura. Un alambre de cobre ordinario puede ser formado en cualquier forma, por ejemplo, puedes hacer una escultura extraordinaria con él. Utiliza una pequeña tabla de madera como base, uniendo los extremos a ella. Si desea algo más funcional que una escultura, forme el alambre en un joyero con forma de árbol o de mano.
 
-String can be used as a decoration of many objects. Wrapping bottles, jars and **boxes in some twine** will completely change their appearance. You have completely free hand in DIY project of this type - you can combine twine with some other decorative items, such as dried flowers.
+Las cuerdas pueden ser usadas como decoración de muchos objetos. Envolver botellas, frascos y cajas en alguna cuerda cambiará completamente su apariencia. Puedes combinar el hilo con otros artículos decorativos, como flores secas.
 
-**Macrame** is yet another DIY technique that creatively uses strings. This type of art uses special knots to produce decorative fabrics. Objects that can be made with this method:
+El Macrame es otra técnica de bricolaje que utiliza cuerdas de forma creativa. Este tipo de arte utiliza nudos especiales para producir telas decorativas. Los objetos que se pueden hacer con este método:
 
 {:.list}
 
-* tapestries (wall hangings, decorative fabrics that can be hung on a wall or on a piece of furniture),
-* drink coasters,
-* plant hangers,
-* hanging pocket organisers,
-* decorative shopping bags.
+* tapices (colgantes de pared, telas decorativas que pueden ser colgadas en una pared o en un mueble),
+* posavasos para beber,
+* colgantes de plantas,
+* organizadores de bolsillo colgantes,
+* bolsas de compras decorativas.
 
 {% fig %}
 ![Do it yourself - something out of nothing](/uploads/do-it-yourself-something-out-of-nothing.jpg "Do it yourself - something out of nothing")
@@ -97,72 +96,72 @@ String can be used as a decoration of many objects. Wrapping bottles, jars and *
 
 {:.distinction.distinction-information}
 
-If you have a lot of **colourful buttons** at home, you can put them onto a wire or a string and make a hanging decoration. It will look great with some decorative ribbons attached. Buttons are also great when you want to make a small picture. Just sew them on a piece of fabric or **glue them onto a cardboard**, arranging them as you please.
+Si tienes muchos botones de colores en casa, puedes ponerlos en un alambre o una cuerda y hacer una decoración colgante. Quedará muy bien con algunas cintas decorativas atadas. Los botones también son geniales cuando quieres hacer un cuadro pequeño. Sólo cóselos en un trozo de tela o pégalos en un cartón, arreglándolos como quieras.
 
-## Don’t throw away - do it yourself!
+## No lo tires, ¡hazlo tú mismo!
 
-DIY makers often are supporters of movements such as upcycling - **transforming thrash and other used materials into art**. It’s not only ecological, but also highly economical. Giving a second life to objects which were meant to be thrown away is definitely worth the effort.
+Los fabricantes de bricolaje a menudo son partidarios de movimientos como el upcycling - transformar el thrash y otros materiales usados en arte. No sólo es ecológico, sino también muy económico. Dar una segunda vida a los objetos que estaban destinados a ser desechados definitivamente vale la pena el esfuerzo.
 
 {:.list.list-positive}
 
-* Instead of throwing away old **newspapers and magazines**, you can use them to prepare paper wicker. You can make impressive sculptures, **boxes**, vases and many other objects out of it.
-* You can repaint old tin cans or decorate them using **decoupage**. They can be used as decorative containers for pens or other small objects.
-* You don’t have to buy plastic containers to organise things. Use old cardboard shoe boxes for this purpose. Just paint the walls or **cover them with decorative paper**.
-* Do not throw away **burnt-out light bulbs**. They look great as small hanging decorations. After removing the filament you can fill the bulb with small objects, such as pebbles, flower petals, colourful beads etc. Attach the bulb to a piece of string and hang it wherever you please.
+* En lugar de tirar periódicos y revistas viejas, puedes usarlos para preparar mimbre de papel. Puedes hacer impresionantes esculturas, cajas, jarrones y muchos otros objetos con él.
+* Puedes repintar viejas latas de hojalata o decorarlas usando decoupage. Se pueden usar como recipientes decorativos para bolígrafos u otros objetos pequeños.
+* No tienes que comprar contenedores de plástico para organizar las cosas. Utiliza cajas de zapatos de cartón viejo para este propósito. Sólo pinta las paredes o cúbrelas con papel decorativo.
+* No tires las bombillas quemadas. Se ven muy bien como pequeños adornos colgantes. Después de quitar el filamento, puedes llenar la bombilla con pequeños objetos, como guijarros, pétalos de flores, cuentas de colores, etc. Ata la bombilla a un trozo de cuerda y cuélgala donde quieras.
 
-## Green DIY
+## Bricolaje verde
 
-Many claim that plants are absolutely necessary in any interior. To make the most of their decorative value, one should put them in aesthetically pleasing pots. Instead of buying boring, ordinary flowerpots, you can make them yourself. Such **handmade containers** will definitely give your place an original, fresh look.
+Muchos afirman que las plantas son absolutamente necesarias en cualquier interior. Para aprovechar al máximo su valor decorativo, uno debe ponerlas en macetas estéticamente agradables. En lugar de comprar aburridas macetas ordinarias, puedes hacerlas tú mismo. Tales recipientes hechos a mano definitivamente le darán a tu lugar un aspecto original y fresco.
 
 {% fig %}
 ![Green DIY](/uploads/green-diy.jpg "Green DIY")
 {% endfig %}
 
-There are a lot of **DIY projects** that you can use for decorating your plants. Take a look at the inspirations below:
+Hay muchos proyectos de bricolaje que puedes usar para decorar tus plantas. Echa un vistazo a las siguientes inspiraciones:
 
 {:.list}
 
-* **Tin cans - just paint the containers a suitable colour.**
-* **Unused cups and mugs - old dishes make great pots for succulents. Those types of plants will feel and look great in such a container.**
-* **Mason jars** - you can use them in your kitchen for planting herbs. There is no need to paint them - transparent jars filled with soil and plants will be great eyecatchers in the kitchen.
-* **Old toolbox - you can replace the usual flower box with an old wooden toolbox. It will look fantastic on a balcony, patio or in the garden.**
+* Latas de hojalata... sólo hay que pintar los contenedores de un color adecuado.
+* Tazas y jarras sin usar - los platos viejos son grandes ollas para las suculentas. Este tipo de plantas se sentirán y se verán muy bien en un contenedor así.
+* Tinajas de albañilería - puedes usarlas en tu cocina para plantar hierbas. No hay necesidad de pintarlos, los frascos transparentes llenos de tierra y plantas serán muy llamativos en la cocina.
+* Una vieja caja de herramientas - puedes reemplazar la caja de flores habitual por una vieja caja de herramientas de madera. Se verá fantástica en un balcón, patio o en el jardín.
 
-One plant decoration is quite popular recently. **Bottle gardens** are small terraria for plants, made of glass bottles or mason jars. The mini gardens are very easy to make. It’s definitely worth trying, as bottle gardens are very decorative and original. This DIY project has two varieties - open and closed. Depending on the version, one can use different types of plants. There are a lot of guides in the Web on how to make a bottle garden.
+La decoración de una planta es muy popular recientemente. Los jardines de botellas son pequeños terrarios para plantas, hechos de botellas de vidrio o jarras de albañilería. Los mini jardines son muy fáciles de hacer. Definitivamente vale la pena intentarlo, ya que los jardines en botella son muy decorativos y originales. Este proyecto de bricolaje tiene dos variedades: abierto y cerrado. Dependiendo de la versión, se pueden usar diferentes tipos de plantas. Hay muchas guías en la web sobre cómo hacer un jardín de botellas.
 
 {% fig %}
 ![Bottle gardens](/uploads/bottle-gardens.jpg "Bottle gardens")
 {% endfig %}
 
-**DIY home decor** is not a complicated matter. All you need is your own enthusiasm. The Internet is full of inspiring DIY ideas - adding your own imagination to them will result in unique and beautiful decorations. **DIY projects** are great if you want to get fabulous decorations for a low price. Making them is also a fantastic way to use your own creativity. Surely it will bring you a lot of satisfaction.
+La decoración del hogar DIY no es un asunto complicado. Todo lo que necesitas es tu propio entusiasmo. Internet está lleno de ideas inspiradoras para el bricolaje. Añadiendo tu propia imaginación a ellas se obtendrán decoraciones únicas y hermosas. Los proyectos de bricolaje son estupendos si quieres obtener fabulosas decoraciones a un precio bajo. Hacerlos es también una manera fantástica de usar tu propia creatividad. Seguramente te dará mucha satisfacción.
 
-## DIY home decor projects - FAQ
+## Proyectos de decoración del hogar DIY - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-DIY - what does it mean exactly?
+BRICOLAJE - ¿qué significa exactamente?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-DIY is a method for making various kinds of objects for your own purposes, without the need of help from professionals. Usually it involves a creative hobby, such as crocheting, painting or knitting. It is a great way to develop one’s creativity.
+El bricolaje es un método para hacer varios tipos de objetos para sus propios fines, sin necesidad de ayuda de profesionales. Normalmente implica un hobby creativo, como hacer ganchillo, pintar o tejer. Es una gran manera de desarrollar la creatividad de uno.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}   
+{% faqQuestion %}  
+¿Qué significa "DIY"?  
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+DIY es una abreviatura de la frase "Do It Yourself". El significado del término incluye hacer decoraciones, objetos comunes, piezas de ropa o incluso cosméticos. Cualquier cosa hecha en casa por un individuo puede ser etiquetada como "hágalo usted mismo".
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-What does “DIY” mean?
+¿Cómo decorar una habitación usando proyectos de bricolaje?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-DIY is an abbreviation for the phrase Do It Yourself. The meaning of the term includes making decorations, common objects, pieces of clothing or even cosmetics. Anything made at home by an individual might be labeled as “do it yourself”.
-{% endfaqAnswer %}
-{% endfaqItem %}
-
-{% faqItem %}
-{% faqQuestion %}
-How to decorate a room using DIY projects?
-{% endfaqQuestion %}
-
-{% faqAnswer %}
-Home decor ideas often involve DIY decorations. You can find plenty of inspirations on the Internet or in do it yourself related magazines. Make sure that your DIY decorations fit each other.
+Las ideas de decoración del hogar a menudo implican decoraciones de bricolaje. Puedes encontrar muchas inspiraciones en Internet o en revistas relacionadas con el bricolaje. Asegúrate de que tus decoraciones de bricolaje encajen entre sí.
 {% endfaqAnswer %}
 {% endfaqItem %}
