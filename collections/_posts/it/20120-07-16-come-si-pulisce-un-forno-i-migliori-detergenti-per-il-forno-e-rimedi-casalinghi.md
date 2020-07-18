@@ -1,142 +1,142 @@
 ---
 layout: post
-date: 2019-12-18
+date: 2020-07-16
 toc: true
-title: How to clean an oven? The best oven cleaners and home remedies
-description: How to clean oven effectively? It doesn’t have to be very complicated.
-  There are a lot of home remedies that will help you prepare the best oven cleaners.
+title: Come si pulisce un forno? I migliori detergenti per il forno e rimedi casalinghi
+description: Come pulire il forno in modo efficace? Non deve essere molto complicato.
+  Ci sono molti rimedi casalinghi che vi aiuteranno a preparare i migliori detergenti
+  per il forno.
 image: "/uploads/jak-wyczyscic-piekarnik-to-nie-takie-trudne.jpg"
 promoted: false
-update_date: 2020-02-05
-intro: Cleaning an oven is not quite the most pleasurable activity. For this reason
-  you are most likely want to “do it later” - which leads to even bigger mess in your
-  kitchen. The old dirt becomes more difficult to remove and you are getting more
-  and more frustrated. Fortunately there are many quick and easy methods to help you.
-  Thanks to the oven cleaners shown below you will finally stop wondering how to clean
-  your oven.
+update_date: 2020-07-16
+intro: Pulire un forno non è proprio l'attività più piacevole. Per questo motivo è
+  molto probabile che vogliate "farlo più tardi" - il che porta a un casino ancora
+  più grande nella vostra cucina. La vecchia sporcizia diventa sempre più difficile
+  da rimuovere e si diventa sempre più frustrati. Fortunatamente ci sono molti metodi
+  facili e veloci per aiutarvi. Grazie ai detergenti per il forno mostrati qui sotto
+  smetterete finalmente di chiedervi come pulire il vostro forno.
 main_keywords:
-- oven
-- oven cleaner
-- how to clean oven
-- self cleaning oven
-- natural oven cleaner
-- clean oven
-- how to clean oven racks
-- how to clean a gas oven
-- how to clean inside of oven
-- how to clean oven window
-published: false
+- forno
+- pulitore per forno
+- come pulire il forno
+- forno autopulente
+- detergente naturale per forni
+- forno pulito
+- come pulire i portafornelli
+- come pulire un forno a gas
+- come pulire l'interno del forno
+- come pulire la finestra del forno
 
 ---
-## How to clean oven? Oven cleaners and cleaning hacks
+## Come pulire il forno? Pulitori di forni e addetti alle pulizie
 
-If you don’t want to feel frustration every time you tidy your kitchen, you should **clean your oven** on a regular basis. It is best to wipe its insides every time after using it. In practice, however, such activities are postponed as much as possible, until the dirt becomes a serious obstacle.
+Se non volete sentire la frustrazione ogni volta che riordinate la vostra cucina, dovreste pulire il forno regolarmente. È meglio pulirne l'interno ogni volta dopo averlo usato. In pratica, però, tali attività sono rinviate il più possibile, fino a quando lo sporco non diventa un serio ostacolo.
 
 {:.distinction.distinction-warning}
 
-There are many **commercial oven cleaners** available to buy. However their components often are controversial. The ingredients of such products are usually chemicals that tend to release strong smell. What’s more, they might be dangerous in contact with skin.
+Ci sono molti detergenti per forni commerciali disponibili per l'acquisto. Tuttavia i loro componenti sono spesso controversi. Gli ingredienti di tali prodotti sono di solito sostanze chimiche che tendono a rilasciare un forte odore. Inoltre, potrebbero essere pericolosi a contatto con la pelle.
 
-So how to clean the oven? Fortunately there are plenty of natural oven cleaners that are **eco-friendly, safe and most importantly - effective**.
+Come si pulisce il forno? Fortunatamente ci sono molti detergenti naturali per il forno che sono ecologici, sicuri e, soprattutto, efficaci.
 
 {% fig %}
 ![How to clean oven? Oven cleaners and cleaning hacks](/uploads/czym-wyczyscic-piekarnik.jpg "How to clean oven? Oven cleaners and cleaning hacks")
 {% endfig %}
 
-### Oven cleaners for light stains
+### Detergenti da forno per macchie leggere
 
-If the oven is not very dirty, it should be quite easy to clean. The best **oven cleaners** that do not require any effort or scrubbing are:
+Se il forno non è molto sporco, dovrebbe essere abbastanza facile da pulire. I migliori detergenti per il forno che non richiedono alcuno sforzo o strofinamento sono:
 
 {:.list}
 
-* **Steam for oven cleaning** - this method is possible only in convection ovens. How to clean the oven with steam? All you need is an ovenproof dish and half a lemon. Just pour some water into the dish and squeeze the lemon juice into it. Set the temperature to 170°C. The fan will spread the steam everywhere in the oven. Turn the oven off after a while and wait until it cools down. Then just wipe the interior with a clean **cloth soaked with water and dish soap**. Rinse the soap residues with water and leave the oven open until it dries completely.
-* **Water mixed with vinegar** - light stains can be cleaned with the use of water mixed with some vinegar. Just wipe the oven with a cloth soaked with the mixture, or in case of heavier stains - use a sponge scrubber. After the cleaning rinse the oven with clear water and wipe it dry, using paper towel or a dry piece of cloth.
+* Vapore per la pulizia del forno - questo metodo è possibile solo nei forni a convezione. Come si pulisce il forno con il vapore? Tutto ciò che serve è una pirofila e mezzo limone. Basta versare un po' d'acqua nel piatto e spremere il succo di limone. Regolare la temperatura a 170°C. Il ventilatore diffonderà il vapore in tutto il forno. Spegnete il forno dopo un po' e aspettate che si raffreddi. Poi basta strofinare l'interno con un panno pulito imbevuto di acqua e sapone per piatti. Sciacquare i residui di sapone con acqua e lasciare il forno aperto fino a quando non si asciuga completamente.
+* Acqua mescolata con aceto - le macchie leggere possono essere pulite con l'uso di acqua mescolata con un po' di aceto. Basta pulire il forno con un panno imbevuto della miscela, o in caso di macchie più pesanti - utilizzare una spugna scrubber. Dopo la pulizia sciacquare il forno con acqua pulita e asciugarlo con un panno di carta o un panno asciutto.
 
 {% fig %}
 ![Oven cleaners for light stains](/uploads/jak-czyscic-piekarnik-z-lekkich-zabrudzen-1.jpg "Oven cleaners for light stains")
 {% endfig %}
 
-### How to clean oven - old dirt
+### Come pulire il forno - sporco vecchio
 
-**Which oven cleaner** will clean stubborn dirt? Removing burnt and baked food particles is time consuming. Even thorough scrubbing might not be effective, unless you use the right methods. Fortunately there are some **reliable home remedies**.They will save you a lot of time and energy and you will clean your oven in no time.
+Quale pulitore per forni pulisce lo sporco ostinato? La rimozione di particelle di cibo bruciato e cotto è un'operazione che richiede tempo. Anche una pulizia accurata potrebbe non essere efficace, a meno che non si utilizzino i metodi giusti. Fortunatamente ci sono alcuni rimedi casalinghi affidabili, che vi faranno risparmiare molto tempo ed energia e vi permetteranno di pulire il vostro forno in poco tempo.
 
 {:.distinction.distinction-information}
 
-The most commonly used oven cleaner is baking soda. This substance is a highly effective - along with the dirt, it also **removes the unpleasant smell** of burnt food. You can use baking soda in combination with other products.
+Il detergente per il forno più comunemente usato è il bicarbonato di sodio. Questa sostanza è una sostanza molto efficace - insieme alla sporcizia, rimuove anche l'odore sgradevole del cibo bruciato. È possibile utilizzare il bicarbonato di sodio in combinazione con altri prodotti.
 
-The most popular methods use mixtures of substances such as:
+I metodi più diffusi utilizzano miscele di sostanze come:
 
 {:.list}
 
-* **Baking soda, dish detergent and water** - to prepare such a mixture, take half a glass of water, ¼ glass of baking soda and 1-2 teaspoons of dish soap. Mix it and place the substance onto every dirty spot in your oven. Leave if for a couple of minutes - the paste will **dissolve the dirt**. Next, clean the oven with a damp sponge, rinse it and leave until it dries completely.
-* **Baking soda, dish soap and vinegar** - mix those substances as follows: half a glass of soap, half a glass of vinegar and 5-10 tablespoons of baking soda. How to clean the oven with this method? Set the temperature to 50°C and turn the oven off once it warms up. Spread the paste in the oven and leave it overnight. Next day just clean it with warm water and leave it to dry.
-* **Baking soda, salt and hot water** - mix the soda and water 1:1 and add two teaspoons of salt. Place the paste onto every stained spot and leave it for 5 min to 12 hours. Clean the oven afterwards **using a sponge or a brush**. Rinse it with clean water and dry with a cloth or paper towel.
+* Bicarbonato di sodio, detersivo per piatti e acqua - per preparare tale miscela, prendere mezzo bicchiere d'acqua, ¼ di bicarbonato di sodio e 1-2 cucchiaini di sapone per piatti. Mescolare e mettere la sostanza su ogni punto sporco del forno. Lasciare se per un paio di minuti - la pasta scioglierà la sporcizia. Quindi, pulire il forno con una spugna umida, sciacquare e lasciare fino a quando non si asciuga completamente.
+* Soda da forno, sapone per piatti e aceto - mescolare queste sostanze come segue: mezzo bicchiere di sapone, mezzo bicchiere di aceto e 5-10 cucchiai di bicarbonato di sodio. Come si pulisce il forno con questo metodo? Regolare la temperatura a 50°C e spegnere il forno una volta che si è riscaldato. Spalmate la pasta nel forno e lasciatela riposare per tutta la notte. Il giorno dopo basta pulirla con acqua calda e lasciarla asciugare.
+* Soda da forno, sale e acqua calda - mescolare la soda e l'acqua 1:1 e aggiungere due cucchiaini di sale. Mettere la pasta su ogni punto macchiato e lasciarla per 5 minuti a 12 ore. Pulire poi il forno con una spugna o una spazzola. Sciacquare con acqua pulita e asciugare con un panno o un tovagliolo di carta.
 
 {% fig %}
 ![How to clean oven - old dirt](/uploads/jak-umyc-piekarnik-z-trwalych-zanieczyszczen.jpg "How to clean oven - old dirt")
 {% endfig %}
 
-## How to clean a self cleaning oven?
+## Come si pulisce un forno autopulente?
 
-Many modern ovens have the function of self-cleaning. There are two technologies that can be used for this purpose: catalytic and pyrolytic. **How to clean an oven** with such functions? Both of the methods involve burning the dirt. Pyrolytic ovens warm up to very high temperatures, usually 500°C. As a result, the food particles burn off and turn to ash. All that needs to be done afterwards is to **wipe the inside with a damp cloth**. Keep in mind that this type of oven cleaning requires completely emptying the oven. If left inside during cleaning, utensils such as baking trays would get completely destroyed.
+Molti forni moderni hanno la funzione di autopulizia. Ci sono due tecnologie che possono essere utilizzate a questo scopo: catalitica e pirolitica. Come si pulisce un forno con tali funzioni? Entrambi i metodi prevedono la combustione dello sporco. I forni pirolitici riscaldano fino a temperature molto elevate, di solito 500°C. Di conseguenza, le particelle di cibo bruciano e si trasformano in cenere. Tutto ciò che si deve fare dopo è pulire l'interno con un panno umido. Tenete presente che questo tipo di pulizia del forno richiede lo svuotamento completo del forno. Se lasciato all'interno durante la pulizia, gli utensili come le teglie da forno verrebbero completamente distrutti.
 
-Catalytic cleaning, on the other hand, happens with the use of the oven. Special catalytic liners absorb grease and dirt.
+La pulizia catalitica, invece, avviene con l'uso del forno. Speciali rivestimenti catalitici assorbono grasso e sporco.
 
 {:.distinction.distinction-warning}
 
-If you have this type of oven, remember about **cleaning the liners regularly**. Do it delicately, as they are easy to damage. Do not let the grease to grow on them - if such layer gets too thick, you will have to replace the liners.
+Se avete questo tipo di forno, ricordatevi di pulire regolarmente le fodere. Fatelo con delicatezza, in quanto sono facili da danneggiare. Non lasciate che il grasso cresca su di esse - se tale strato diventa troppo spesso, dovrete sostituire le fodere.
 
-## How to clean an oven - important elements
+## Come pulire un forno - elementi importanti
 
-**When you clean your oven**, remember about its each component. Pay special attention to rack, trays, shelves and the outside. It is best to soak **removable parts such as rack and trays** in a separate bowl with water and vinegar. Scrub them afterwards using a sponge scrubber and dish soap.
+Quando pulite il vostro forno, ricordatevi di ogni suo componente. Fate particolare attenzione alle rastrelliere, alle teglie, alle mensole e all'esterno. È meglio immergere le parti rimovibili come la rastrelliera e le teglie in una ciotola separata con acqua e aceto. Successivamente, strofinateli con una spugna e sapone per piatti.
 
-You should also clean the front of the oven. The easiest method is pouring some water mixed with vinegar into a spray bottle. **Spray all stains** with the substance and wipe the surface with a soft cloth. If possible, unscrew all of the knobs and clean them in a bowl filled with water.
+Si dovrebbe anche pulire la parte anteriore del forno. Il metodo più semplice è versare un po' d'acqua mescolata con aceto in una bottiglia a spruzzo. Spruzzare tutte le macchie con la sostanza e pulire la superficie con un panno morbido. Se possibile, svitare tutte le manopole e pulirle in una ciotola piena d'acqua.
 
-How to clean oven from the outside? **Remember about the glass**, which is the most important part. It’s the place where all the grease accumulates and dries up. Such a film is difficult to remove. The methods with baking soda mentioned above will surely clean the dirty glass. If it’s possible with your particular oven model, take out the glass to make the cleaning easier.
+Come si pulisce il forno dall'esterno? Ricordate il vetro, che è la parte più importante. È il luogo dove tutto il grasso si accumula e si asciuga. Una pellicola di questo tipo è difficile da rimuovere. I metodi con il bicarbonato di sodio di cui sopra puliranno sicuramente il vetro sporco. Se è possibile con il vostro particolare modello di forno, togliete il vetro per facilitare la pulizia.
 
 {:.distinction.distinction-information}
 
-**If the stains are very difficult** to get rid of, you can try cleaning with petroleum jelly, which should soften the dirt. Just spread it on the glass and wait a couple of minutes. Then use glass cleaner.
+Se le macchie sono molto difficili da eliminare, si può provare a pulirle con la gelatina di petrolio, che dovrebbe ammorbidire lo sporco. Basta spalmarla sul vetro e aspettare un paio di minuti. Poi usate il detergente per vetri.
 
-**Cleaning the oven** doesn’t have to be difficult. Clean it on a regular basis while the dirt is still fresh and easy to remove. If you left it uncleaned for a long time though - don’t panic. There are **home remedies** available, along with recipes for oven cleaners. They are cheap and eco-friendly, and they will help you to remove even the most stubborn dirt. It’s worth the effort, as clean oven is a guarantee that your food will always taste as it should.
+La pulizia del forno non deve essere difficile. Pulitelo regolarmente mentre lo sporco è ancora fresco e facile da rimuovere. Se però lo lasciate sporco per molto tempo - non fatevi prendere dal panico. Ci sono rimedi casalinghi disponibili, insieme a ricette per la pulizia del forno. Sono economici ed ecologici, e vi aiuteranno a rimuovere anche lo sporco più ostinato. Ne vale la pena, perché un forno pulito è una garanzia che il vostro cibo avrà sempre il sapore giusto.
 
-## How to clean an oven - FAQ
+## Come pulire un forno - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-How to clean oven using home remedies?
+Come pulire il forno con i rimedi casalinghi?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Baking soda is the best oven cleaner used in many home recipes. Just mix it with another substance that you can find in your kitchen, for instance with vinegar and dish soap. Such paste will dissolve any kind of dirt.
+Il bicarbonato di sodio è il miglior detergente per il forno utilizzato in molte ricette casalinghe. Basta mescolarlo con un'altra sostanza che si può trovare in cucina, per esempio con aceto e sapone per piatti. Tale pasta scioglierà qualsiasi tipo di sporco.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to clean oven without damaging it?
+Come pulire il forno senza danneggiarlo?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-In order not to damage your oven while cleaning, soak all the stains before removing them. It will remove the necessity to scrub the dirt - that could scratch delicate parts. It the dirt is hard to remove, use a brush with plastic bristles. Make sure to be careful with scrubbing.
+Per non danneggiare il forno durante la pulizia, immergere tutte le macchie prima di rimuoverle. Eliminerà la necessità di strofinare la sporcizia - che potrebbe graffiare le parti delicate. Se lo sporco è difficile da rimuovere, usate una spazzola con setole di plastica. Assicuratevi di fare attenzione a strofinare con cura.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to clean a very dirty oven?
+Come pulire un forno molto sporco?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-You can cover particularly stubborn stains with a special baking soda paste. It should work even with the most filthy surfaces. To prepare the paste, mix the soda with warm water and some salt. Leave it overnight and the stains should soften.
+È possibile coprire le macchie particolarmente ostinate con una speciale pasta di bicarbonato di sodio. Dovrebbe funzionare anche con le superfici più sporche. Per preparare la pasta, mescolare la soda con acqua calda e un po' di sale. Lasciatela riposare per una notte e le macchie dovrebbero ammorbidirsi.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to clean a convection oven?
+Come si pulisce un forno a convezione?
 {% endfaqQuestion %}
 
 {% faqAnswer %}  
-The best oven cleaner for convection ovens is steam. Pour water and lemon juice into a heat resistant dish and put it in the oven. Set the temperature to 170°C - the fan will spread the steam. After the oven cools down, wipe the surface with a soft cloth.
+Il miglior detergente per forni a convezione è il vapore. Versare acqua e succo di limone in una pirofila resistente al calore e metterla in forno. Impostare la temperatura a 170°C - la ventola spargerà il vapore. Dopo che il forno si è raffreddato, strofinare la superficie con un panno morbido.
 {% endfaqAnswer %}
 {% endfaqItem %}
