@@ -1,142 +1,142 @@
 ---
 layout: post
-date: 2019-12-18
+date: 2020-07-16
 toc: true
-title: How to clean an oven? The best oven cleaners and home remedies
-description: How to clean oven effectively? It doesn’t have to be very complicated.
-  There are a lot of home remedies that will help you prepare the best oven cleaners.
+title: Comment nettoyer un four ? Les meilleurs nettoyants pour four et remèdes maison
+description: Comment nettoyer efficacement un four ? Ce n'est pas forcément très compliqué.
+  Il existe de nombreux remèdes maison qui vous aideront à préparer les meilleurs
+  nettoyants pour four.
 image: "/uploads/jak-wyczyscic-piekarnik-to-nie-takie-trudne.jpg"
 promoted: false
-update_date: 2020-02-05
-intro: Cleaning an oven is not quite the most pleasurable activity. For this reason
-  you are most likely want to “do it later” - which leads to even bigger mess in your
-  kitchen. The old dirt becomes more difficult to remove and you are getting more
-  and more frustrated. Fortunately there are many quick and easy methods to help you.
-  Thanks to the oven cleaners shown below you will finally stop wondering how to clean
-  your oven.
+update_date: 2020-07-16
+intro: Nettoyer un four n'est pas tout à fait l'activité la plus agréable. C'est pourquoi
+  vous voudrez probablement le faire "plus tard" - ce qui entraîne un désordre encore
+  plus grand dans votre cuisine. La vieille saleté devient plus difficile à enlever
+  et vous êtes de plus en plus frustré. Heureusement, il existe de nombreuses méthodes
+  rapides et faciles pour vous aider. Grâce aux nettoyants pour four présentés ci-dessous,
+  vous cesserez enfin de vous demander comment nettoyer votre four.
 main_keywords:
-- oven
-- oven cleaner
-- how to clean oven
-- self cleaning oven
-- natural oven cleaner
-- clean oven
-- how to clean oven racks
-- how to clean a gas oven
-- how to clean inside of oven
-- how to clean oven window
-published: false
+- four
+- nettoyant pour four
+- comment nettoyer le four
+- four autonettoyant
+- nettoyant naturel pour four
+- nettoyer le four
+- comment nettoyer les grilles de four
+- comment nettoyer un four à gaz
+- comment nettoyer l'intérieur du four
+- comment nettoyer la vitre du four
 
 ---
-## How to clean oven? Oven cleaners and cleaning hacks
+## Comment nettoyer le four ? Nettoyeurs de four et hacks de nettoyage
 
-If you don’t want to feel frustration every time you tidy your kitchen, you should **clean your oven** on a regular basis. It is best to wipe its insides every time after using it. In practice, however, such activities are postponed as much as possible, until the dirt becomes a serious obstacle.
+Si vous ne voulez pas ressentir de frustration chaque fois que vous rangez votre cuisine, vous devez nettoyer votre four régulièrement. Il est préférable d'en essuyer l'intérieur chaque fois que vous l'utilisez. Dans la pratique, cependant, ces activités sont reportées autant que possible, jusqu'à ce que la saleté devienne un obstacle sérieux.
 
 {:.distinction.distinction-warning}
 
-There are many **commercial oven cleaners** available to buy. However their components often are controversial. The ingredients of such products are usually chemicals that tend to release strong smell. What’s more, they might be dangerous in contact with skin.
+Il existe de nombreux nettoyeurs de fours commerciaux à acheter. Cependant, leurs composants sont souvent controversés. Les ingrédients de ces produits sont généralement des produits chimiques qui ont tendance à dégager une forte odeur. De plus, ils peuvent être dangereux au contact de la peau.
 
-So how to clean the oven? Fortunately there are plenty of natural oven cleaners that are **eco-friendly, safe and most importantly - effective**.
+Alors comment nettoyer le four ? Heureusement, il existe de nombreux nettoyants naturels pour four qui sont écologiques, sûrs et, surtout, efficaces.
 
 {% fig %}
 ![How to clean oven? Oven cleaners and cleaning hacks](/uploads/czym-wyczyscic-piekarnik.jpg "How to clean oven? Oven cleaners and cleaning hacks")
 {% endfig %}
 
-### Oven cleaners for light stains
+### Nettoyants pour four pour les taches légères
 
-If the oven is not very dirty, it should be quite easy to clean. The best **oven cleaners** that do not require any effort or scrubbing are:
+Si le four n'est pas très sale, il devrait être assez facile à nettoyer. Les meilleurs nettoyeurs de four qui ne nécessitent aucun effort ou frottement sont :
 
 {:.list}
 
-* **Steam for oven cleaning** - this method is possible only in convection ovens. How to clean the oven with steam? All you need is an ovenproof dish and half a lemon. Just pour some water into the dish and squeeze the lemon juice into it. Set the temperature to 170°C. The fan will spread the steam everywhere in the oven. Turn the oven off after a while and wait until it cools down. Then just wipe the interior with a clean **cloth soaked with water and dish soap**. Rinse the soap residues with water and leave the oven open until it dries completely.
-* **Water mixed with vinegar** - light stains can be cleaned with the use of water mixed with some vinegar. Just wipe the oven with a cloth soaked with the mixture, or in case of heavier stains - use a sponge scrubber. After the cleaning rinse the oven with clear water and wipe it dry, using paper towel or a dry piece of cloth.
+* Vapeur pour le nettoyage des fours - cette méthode n'est possible que dans les fours à convection. Comment nettoyer le four à la vapeur ? Il vous suffit d'un plat allant au four et d'un demi-citron. Il suffit de verser un peu d'eau dans le plat et d'y presser le jus de citron. Réglez la température à 170°C. Le ventilateur répandra la vapeur partout dans le four. Éteignez le four au bout d'un moment et attendez qu'il refroidisse. Il suffit ensuite d'essuyer l'intérieur avec un chiffon propre imbibé d'eau et de savon à vaisselle. Rincez les résidus de savon à l'eau et laissez le four ouvert jusqu'à ce qu'il soit complètement sec.
+* Eau mélangée à du vinaigre - les taches légères peuvent être nettoyées à l'aide d'eau mélangée à du vinaigre. Il suffit d'essuyer le four avec un chiffon imbibé de ce mélange ou, en cas de taches plus importantes, d'utiliser une éponge à récurer. Après le nettoyage, rincez le four à l'eau claire et essuyez-le avec un essuie-tout ou un chiffon sec.
 
 {% fig %}
 ![Oven cleaners for light stains](/uploads/jak-czyscic-piekarnik-z-lekkich-zabrudzen-1.jpg "Oven cleaners for light stains")
 {% endfig %}
 
-### How to clean oven - old dirt
+### Comment nettoyer un four - vieille saleté
 
-**Which oven cleaner** will clean stubborn dirt? Removing burnt and baked food particles is time consuming. Even thorough scrubbing might not be effective, unless you use the right methods. Fortunately there are some **reliable home remedies**.They will save you a lot of time and energy and you will clean your oven in no time.
+Quel nettoyant pour four permet de nettoyer les saletés tenaces ? L'élimination des particules d'aliments brûlés et cuits prend beaucoup de temps. Même un nettoyage en profondeur peut ne pas être efficace, à moins d'utiliser les bonnes méthodes. Heureusement, il existe des remèdes domestiques fiables qui vous feront gagner beaucoup de temps et d'énergie et vous permettront de nettoyer votre four en un rien de temps.
 
 {:.distinction.distinction-information}
 
-The most commonly used oven cleaner is baking soda. This substance is a highly effective - along with the dirt, it also **removes the unpleasant smell** of burnt food. You can use baking soda in combination with other products.
+Le nettoyant pour four le plus couramment utilisé est le bicarbonate de soude. Cette substance est très efficace - avec la saleté, elle élimine également l'odeur désagréable des aliments brûlés. Vous pouvez utiliser le bicarbonate de soude en combinaison avec d'autres produits.
 
-The most popular methods use mixtures of substances such as:
+Les méthodes les plus populaires utilisent des mélanges de substances telles que :
 
 {:.list}
 
-* **Baking soda, dish detergent and water** - to prepare such a mixture, take half a glass of water, ¼ glass of baking soda and 1-2 teaspoons of dish soap. Mix it and place the substance onto every dirty spot in your oven. Leave if for a couple of minutes - the paste will **dissolve the dirt**. Next, clean the oven with a damp sponge, rinse it and leave until it dries completely.
-* **Baking soda, dish soap and vinegar** - mix those substances as follows: half a glass of soap, half a glass of vinegar and 5-10 tablespoons of baking soda. How to clean the oven with this method? Set the temperature to 50°C and turn the oven off once it warms up. Spread the paste in the oven and leave it overnight. Next day just clean it with warm water and leave it to dry.
-* **Baking soda, salt and hot water** - mix the soda and water 1:1 and add two teaspoons of salt. Place the paste onto every stained spot and leave it for 5 min to 12 hours. Clean the oven afterwards **using a sponge or a brush**. Rinse it with clean water and dry with a cloth or paper towel.
+* Bicarbonate de soude, détergent pour la vaisselle et eau - pour préparer un tel mélange, prenez un demi-verre d'eau, ¼ un verre de bicarbonate de soude et 1 à 2 cuillères à café de détergent pour la vaisselle. Mélangez le tout et placez la substance sur chaque endroit sale de votre four. Laissez reposer quelques minutes - la pâte dissoudra la saleté. Ensuite, nettoyez le four avec une éponge humide, rincez-le et laissez-le sécher complètement.
+* Le bicarbonate de soude, le savon à vaisselle et le vinaigre - mélangez ces substances comme suit : un demi-verre de savon, un demi-verre de vinaigre et 5 à 10 cuillères à soupe de bicarbonate de soude. Comment nettoyer le four avec cette méthode ? Réglez la température à 50 °C et éteignez le four une fois qu'il s'est réchauffé. Étalez la pâte dans le four et laissez-la reposer toute la nuit. Le lendemain, il suffit de le nettoyer à l'eau chaude et de le laisser sécher.
+* Bicarbonate de soude, sel et eau chaude - mélangez le bicarbonate de soude et l'eau dans une proportion de 1:1 et ajoutez deux cuillères à café de sel. Déposez la pâte sur chaque tache et laissez-la agir pendant 5 minutes à 12 heures. Nettoyez ensuite le four à l'aide d'une éponge ou d'un pinceau. Rincez-le à l'eau claire et séchez-le avec un chiffon ou une serviette en papier.
 
 {% fig %}
 ![How to clean oven - old dirt](/uploads/jak-umyc-piekarnik-z-trwalych-zanieczyszczen.jpg "How to clean oven - old dirt")
 {% endfig %}
 
-## How to clean a self cleaning oven?
+## Comment nettoyer un four autonettoyant ?
 
-Many modern ovens have the function of self-cleaning. There are two technologies that can be used for this purpose: catalytic and pyrolytic. **How to clean an oven** with such functions? Both of the methods involve burning the dirt. Pyrolytic ovens warm up to very high temperatures, usually 500°C. As a result, the food particles burn off and turn to ash. All that needs to be done afterwards is to **wipe the inside with a damp cloth**. Keep in mind that this type of oven cleaning requires completely emptying the oven. If left inside during cleaning, utensils such as baking trays would get completely destroyed.
+De nombreux fours modernes ont une fonction d'autonettoyage. Deux technologies peuvent être utilisées à cette fin : la technologie catalytique et la technologie pyrolytique. Comment nettoyer un four ayant de telles fonctions ? Les deux méthodes consistent à brûler la saleté. Les fours pyrolytiques se réchauffent jusqu'à des températures très élevées, généralement 500°C. Par conséquent, les particules alimentaires brûlent et se transforment en cendres. Il suffit ensuite d'en essuyer l'intérieur avec un chiffon humide. N'oubliez pas que ce type de nettoyage nécessite de vider complètement le four. Si vous le laissez à l'intérieur pendant le nettoyage, les ustensiles tels que les plaques de cuisson seront complètement détruits.
 
-Catalytic cleaning, on the other hand, happens with the use of the oven. Special catalytic liners absorb grease and dirt.
+Le nettoyage catalytique, en revanche, se fait lors de l'utilisation du four. Des revêtements catalytiques spéciaux absorbent la graisse et la saleté.
 
 {:.distinction.distinction-warning}
 
-If you have this type of oven, remember about **cleaning the liners regularly**. Do it delicately, as they are easy to damage. Do not let the grease to grow on them - if such layer gets too thick, you will have to replace the liners.
+Si vous avez ce type de four, n'oubliez pas de nettoyer régulièrement les revêtements. Faites-le délicatement, car ils sont faciles à endommager. Ne laissez pas la graisse se développer sur eux. Si cette couche devient trop épaisse, vous devrez remplacer les revêtements.
 
-## How to clean an oven - important elements
+## Comment nettoyer un four - éléments importants
 
-**When you clean your oven**, remember about its each component. Pay special attention to rack, trays, shelves and the outside. It is best to soak **removable parts such as rack and trays** in a separate bowl with water and vinegar. Scrub them afterwards using a sponge scrubber and dish soap.
+Lorsque vous nettoyez votre four, n'oubliez pas ses différents composants. Portez une attention particulière à la grille, aux plateaux, aux étagères et à l'extérieur. Il est préférable de faire tremper les parties amovibles, telles que la grille et les plateaux, dans un bol séparé avec de l'eau et du vinaigre. Frottez-les ensuite à l'aide d'une éponge à récurer et de savon à vaisselle.
 
-You should also clean the front of the oven. The easiest method is pouring some water mixed with vinegar into a spray bottle. **Spray all stains** with the substance and wipe the surface with a soft cloth. If possible, unscrew all of the knobs and clean them in a bowl filled with water.
+Vous devez également nettoyer l'avant du four. La méthode la plus simple consiste à verser un peu d'eau mélangée à du vinaigre dans un vaporisateur. Vaporisez toutes les taches avec la substance et essuyez la surface avec un chiffon doux. Si possible, dévissez tous les boutons et nettoyez-les dans un bol rempli d'eau.
 
-How to clean oven from the outside? **Remember about the glass**, which is the most important part. It’s the place where all the grease accumulates and dries up. Such a film is difficult to remove. The methods with baking soda mentioned above will surely clean the dirty glass. If it’s possible with your particular oven model, take out the glass to make the cleaning easier.
+Comment nettoyer le four de l'extérieur ? N'oubliez pas le verre, qui est la partie la plus importante. C'est l'endroit où toute la graisse s'accumule et sèche. Un tel film est difficile à enlever. Les méthodes au bicarbonate de soude mentionnées ci-dessus nettoieront sûrement le verre sale. Si cela est possible avec votre modèle de four particulier, retirez le verre pour faciliter le nettoyage.
 
 {:.distinction.distinction-information}
 
-**If the stains are very difficult** to get rid of, you can try cleaning with petroleum jelly, which should soften the dirt. Just spread it on the glass and wait a couple of minutes. Then use glass cleaner.
+Si les taches sont très difficiles à éliminer, vous pouvez essayer de nettoyer avec de la vaseline, qui devrait ramollir la saleté. Il suffit de l'étaler sur le verre et d'attendre quelques minutes. Ensuite, utilisez du nettoyant pour vitres.
 
-**Cleaning the oven** doesn’t have to be difficult. Clean it on a regular basis while the dirt is still fresh and easy to remove. If you left it uncleaned for a long time though - don’t panic. There are **home remedies** available, along with recipes for oven cleaners. They are cheap and eco-friendly, and they will help you to remove even the most stubborn dirt. It’s worth the effort, as clean oven is a guarantee that your food will always taste as it should.
+Le nettoyage du four n'a pas besoin d'être difficile. Nettoyez-le régulièrement pendant que la saleté est encore fraîche et facile à enlever. Mais si vous le laissez longtemps sans le nettoyer, ne paniquez pas. Il existe des remèdes maison, ainsi que des recettes de nettoyants pour four. Ils sont bon marché et respectueux de l'environnement, et ils vous aideront à éliminer les saletés les plus tenaces. Cela en vaut la peine, car un four propre est la garantie que vos aliments auront toujours le goût qu'ils méritent.
 
-## How to clean an oven - FAQ
+## Comment nettoyer un four - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-How to clean oven using home remedies?
+Comment nettoyer le four à l'aide de remèdes maison ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Baking soda is the best oven cleaner used in many home recipes. Just mix it with another substance that you can find in your kitchen, for instance with vinegar and dish soap. Such paste will dissolve any kind of dirt.
+Le bicarbonate de soude est le meilleur nettoyant pour four utilisé dans de nombreuses recettes maison. Il suffit de le mélanger à une autre substance que vous pouvez trouver dans votre cuisine, par exemple avec du vinaigre et du liquide vaisselle. Une telle pâte dissout toutes sortes de saletés.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to clean oven without damaging it?
+Comment nettoyer le four sans l'endommager ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-In order not to damage your oven while cleaning, soak all the stains before removing them. It will remove the necessity to scrub the dirt - that could scratch delicate parts. It the dirt is hard to remove, use a brush with plastic bristles. Make sure to be careful with scrubbing.
+Afin de ne pas endommager votre four lors du nettoyage, faites tremper toutes les taches avant de les enlever. Il ne sera plus nécessaire de frotter la saleté, qui pourrait rayer les parties délicates. Si la saleté est difficile à enlever, utilisez une brosse avec des poils en plastique. Veillez à ne pas frotter trop fort.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to clean a very dirty oven?
+Comment nettoyer un four très sale ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-You can cover particularly stubborn stains with a special baking soda paste. It should work even with the most filthy surfaces. To prepare the paste, mix the soda with warm water and some salt. Leave it overnight and the stains should soften.
+Vous pouvez couvrir les taches particulièrement tenaces avec une pâte spéciale de bicarbonate de soude. Elle devrait fonctionner même avec les surfaces les plus sales. Pour préparer la pâte, mélangez le bicarbonate de soude avec de l'eau chaude et un peu de sel. Laissez reposer toute la nuit et les taches devraient s'atténuer.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to clean a convection oven?
+Comment nettoyer un four à convection ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}  
-The best oven cleaner for convection ovens is steam. Pour water and lemon juice into a heat resistant dish and put it in the oven. Set the temperature to 170°C - the fan will spread the steam. After the oven cools down, wipe the surface with a soft cloth.
+Le meilleur nettoyant pour four à convection est la vapeur. Versez de l'eau et du jus de citron dans un plat résistant à la chaleur et mettez-le dans le four. Réglez la température à 170°C - le ventilateur diffusera la vapeur. Une fois que le four a refroidi, essuyez la surface avec un chiffon doux.
 {% endfaqAnswer %}
 {% endfaqItem %}
