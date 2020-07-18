@@ -2,49 +2,49 @@
 layout: post
 date: 2020-01-08
 toc: true
-title: " A shrub for your garden - planting thuja trees"
-description: Evergreen plants are important part of every garden. What is the best
-  shrub to plant? Thuja might be a good choice. It can be planted either as a tree
-  or shrub.
+title: Un arbusto per il vostro giardino - piantare alberi di thuja
+description: Le piante sempreverdi sono una parte importante di ogni giardino. Qual
+  è il miglior arbusto da piantare? La thuja potrebbe essere una buona scelta. Può
+  essere piantata sia come albero che come arbusto.
 image: "/uploads/shrub-for-your-garden.jpg"
 promoted: false
 update_date: 2020-05-14
-intro: Thuja trees are quite popular plants growing in many gardens. They can be used
-  as windscreens, thick hedges and shrubs. Thuja is an evergreen, pollution- and heat-resistant
-  plant. It grows pretty quick and is quite resilient. If you are designing your own
-  garden, you should consider choosing such a plant, for instance thuja green giant.
-  You should learn how to take care of a thuja, so that it is always beautiful and
-  healthy.
+intro: Gli alberi di Thuja sono piante molto popolari che crescono in molti giardini.
+  Possono essere usati come parabrezza, siepi spesse e cespugli. La Thuja è una pianta
+  sempreverde, resistente all'inquinamento e al calore. Cresce abbastanza velocemente
+  ed è abbastanza resistente. Se state progettando il vostro giardino, dovreste considerare
+  la possibilità di scegliere una pianta di questo tipo, per esempio la thuja green
+  giant. Dovreste imparare a prendervi cura di una thuja, in modo che sia sempre bella
+  e sana.
 main_keywords:
-- shrub
-- thuja green giant
+- arbusto
+- thuja gigante verde
 - thuja
-- thuja tree
-- thuja trees
-- thuja gardens
-- how to plant shrub
-- planting thuja green giant
-- where to buy thuja
-published: false
+- albero di thuja
+- alberi di thuja
+- giardini thuja
+- come piantare un arbusto
+- piantagione di thuja gigante verde
+- dove acquistare thuja
 
 ---
-## Thuja trees - universal plants
+## Thuja alberi - piante universali
 
-**A thuja, or arborvitae** is a coniferous tree native to Asia and North America. Because of the versatility of those trees, they are used worldwide as garden plants. They can be planted in groups as well as a single, individual plant. Thuja has a lot of varieties which can be useful for various conditions. Such a wide choice provided by those plants is the main reason for their popularity among gardeners. **_Thuja occidentalis L._** is quite a popular variety.
+La thuja, o arborvitae, è un albero di conifere originario dell'Asia e del Nord America. A causa della versatilità di questi alberi, sono utilizzati in tutto il mondo come piante da giardino. Possono essere piantate in gruppi così come una singola pianta individuale. Thuja ha un sacco di varietà che possono essere utili per varie condizioni. Una scelta così ampia fornita da queste piante è la ragione principale della loro popolarità tra i giardinieri. Thuja occidentalis L. è una varietà molto popolare.
 
 {:.distinction.distinction-information}
-Many types of **thuja trees** are exceptionally resistant to any conditions. They are easy to take care of and most of the species are evergreen. A thuja tree can be grown in a flowerpot, hence **it can grow not only in the garden, but also on a balcony, a terrace or a patio**. Any shorter variety can be used as a shrub, for instance in a rock garden.
+Molti tipi di alberi di thuja sono eccezionalmente resistenti a qualsiasi condizione. Sono facili da curare e la maggior parte delle specie sono sempreverdi. Un albero di thuja può essere coltivato in un vaso da fiori, quindi può crescere non solo in giardino, ma anche su un balcone, una terrazza o un patio. Qualsiasi varietà più corta può essere utilizzata come arbusto, ad esempio in un giardino roccioso.
 
-Thuja trees are not very complicated to take care of. One should, however, learn a few basic facts, for instance when to plant a thuja, what type is the best for a shrub and how to take care of specific varieties, such as thuja green giant.
+Gli alberi di Thuja non sono molto complicati da curare. Si dovrebbe, tuttavia, imparare alcuni fatti fondamentali, per esempio quando piantare una thuja, quale tipo è il migliore per un arbusto e come prendersi cura di specifiche varietà, come la thuja gigante verde.
 
-### Which type of thuja should I choose?
+### Quale tipo di thuja dovrei scegliere?
 
-There are a few types of arborvitaes, and each of them differs by their specific requirements. Before choosing a particular one, one should consider which of them will suit their needs the best. The most common types of thujas are:
+Ci sono alcuni tipi di arborvitaes, e ognuno di essi si differenzia per le sue specifiche esigenze. Prima di scegliere un particolare tipo di arborvitaes, si dovrebbe considerare quale di essi si adatta meglio alle proprie esigenze. I tipi di thujas più comuni sono:
 
 {:.list}
 
-* **Eastern arborvitae** - also known as _thuja occidentalis_. This type of plants prefers alkaline, high Ph soils. Most of the varieties are frost resistant and immune to pollution, however **they should be shielded from cold wind and droughts**. This type of thuja grows well in sunny spots, however some varieties prefer shade. When purchasing such a shrub it is good to learn about its individual needs, for instance when is best to plant the thuja.
-* **Giant arborvitae** - the most popular variety of this type is thuja green giant. Its needles have dark green colour. The tree can grow very high, however there are also smaller, shrub varieties. Young seedlings are **vulnerable to cold temperatures**, therefore they need to be planted in warm and sunny spots. Giant thuja is more resistant to droughts than the eastern type.
+* Arborvitae orientale - noto anche come thuja occidentalis. Questo tipo di piante preferisce terreni alcalini, ad alto pH. La maggior parte delle varietà sono resistenti al gelo e immuni all'inquinamento, tuttavia dovrebbero essere protette dal vento freddo e dalla siccità. Questo tipo di thuja cresce bene nei luoghi soleggiati, tuttavia alcune varietà preferiscono l'ombra. Quando si acquista un arbusto di questo tipo è bene conoscere le sue esigenze individuali, per esempio quando è meglio piantare la thuja.
+* Arborvitae gigante - la varietà più popolare di questo tipo è la thuja gigante verde. I suoi aghi sono di colore verde scuro. L'albero può crescere molto alto, ma ci sono anche varietà arbustive più piccole. Le giovani piantine sono vulnerabili alle temperature fredde, quindi devono essere piantate in luoghi caldi e soleggiati. Il thuja gigante è più resistente alla siccità rispetto al tipo orientale.
 
 {% fig %}
 ![Giant arborvitae](/uploads/which-type-of-thuja-should-I-choose.jpg "Giant arborvitae")
@@ -52,117 +52,117 @@ There are a few types of arborvitaes, and each of them differs by their specific
 
 {:.list}
 
-* **Chinese thuja** - also called oriental arborvitae. This type is native to Asia. Because it is very vulnerable to cold temperatures, it is rarely chosen for colder regions. This kind of shrub grows quite well in warm zones. It requires warm and sunny spots. Its advantages are high resistance to droughts and good tolerance of different types of soil.
+* Thuja cinese - chiamato anche arborvitae orientale. Questo tipo è originario dell'Asia. Poiché è molto vulnerabile alle temperature fredde, raramente viene scelta per le regioni più fredde. Questo tipo di arbusto cresce abbastanza bene nelle zone calde. Richiede zone calde e soleggiate. I suoi vantaggi sono l'elevata resistenza alla siccità e la buona tolleranza dei diversi tipi di suolo.
 
-The best shrub to build hedges is eastern thuja.It does not grow too rapidly - about 30 centimetres a year. It develops few cones and has quite a regular shape. An oriental thuja, on the other hand, will not form a very high shrub (it reaches about 1 metre), therefore it’s perfect for a rock garden.
+Il miglior arbusto per costruire siepi è il thuja orientale, che non cresce troppo rapidamente - circa 30 centimetri all'anno. Sviluppa pochi coni e ha una forma abbastanza regolare. Una thuja orientale, invece, non forma un arbusto molto alto (raggiunge circa 1 metro), quindi è perfetta per un giardino roccioso.
 
-Planning a composition, it is best to choose plants of various sizes and shapes. One needs to take the conditions in their own garden into consideration, as well as the type of soil where the thujas are going to grow. If you are wondering if you can plant thuja green giant or use an oriental thuja for a shrub, it is best to ask the sales person in the flower shop.
+Pianificando una composizione, è meglio scegliere piante di varie dimensioni e forme. Bisogna tenere in considerazione le condizioni del proprio giardino e il tipo di terreno in cui cresceranno i thuja. Se vi state chiedendo se è possibile piantare un thuja gigante verde o utilizzare un thuja orientale per un arbusto, è meglio chiedere al commesso del negozio di fiori.
 
-### Thuja tree - how to pick the best seedlings
+### Albero di Thuja - come raccogliere le migliori piantine
 
 {:.distinction.distinction-warning}
-When purchasing a thuja, pay a special attention to the state of the seedlings. Do not buy withered or damaged ones, with broken roots or eaten by vermin.
+Quando si acquista un thuja, prestare particolare attenzione allo stato delle piantine. Non comprate quelle appassite o danneggiate, con radici rotte o mangiate dai parassiti.
 
-The best thuja for a shrub is **the short variety**, seeded in a container. Such plants are more expensive, however they have bigger chance to survive in a new environment. When buying a tree, examine closely the underneath of the pot:
+La migliore thuja per un arbusto è la varietà corta, seminata in un contenitore. Queste piante sono più costose, ma hanno maggiori possibilità di sopravvivere in un nuovo ambiente. Quando si acquista un albero, esaminare attentamente la parte inferiore del vaso:
 
 {:.list.list-negative}
 
-* If the roots break through, the plant has not been watered for a long time.
-* Do not buy a thuja if you noticed that some roots had been cut. It means that the plant was not grown in the pot, but it was potted quite recently.
+* Se le radici si rompono, la pianta non è stata annaffiata per molto tempo.
+* Non comprate un thuja se avete notato che alcune radici sono state tagliate. Significa che la pianta non è stata coltivata in vaso, ma è stata messa in vaso abbastanza recentemente.
 
 {% fig %}
 ![Thuja tree - how to pick the best seedlings](/uploads/thuja-tree-how-to-pick-the-best-seedlings.jpg "Thuja tree - how to pick the best seedlings")
 {% endfig %}
 
-If you decided to choose a **balled and burlapped** plant, pay close attention to the roots. The soil around them should be dense and not too dry. Do not purchase trees whose roots volume is unproportionally small to the volume of the rest of the plant. Such thujas are very likely to wither after planting them in your garden.
+Se avete deciso di scegliere una pianta a palla e di iuta, fate molta attenzione alle radici. Il terreno intorno ad esse deve essere denso e non troppo secco. Non acquistate alberi il cui volume delle radici sia sproporzionatamente piccolo rispetto al volume del resto della pianta. Tali thujas sono molto probabili che appassiscano dopo averli piantati nel vostro giardino.
 
-## When to plant thujas?
+## Quando piantare i tujas?
 
-Thuja trees that have been grown in containers can be planted all year long from early spring (mid-April) to late autumn. The best time to plant a thuja is early spring and late summer. **Planted in spring, a shrub has time to acclimate** and prepare for heat waves in summer. In contrast, if you plant your thuja in August or September, it will have time to get ready for winter. Do not plant your shrub later than six weeks before the first freezes. Otherwise, the plant might not take root.
+Gli alberi di Thuja che sono stati coltivati in container possono essere piantati tutto l'anno dall'inizio della primavera (metà aprile) fino all'autunno inoltrato. Il periodo migliore per piantare un thuja è l'inizio della primavera e la fine dell'estate. Piantato in primavera, un arbusto ha il tempo di acclimatarsi e di prepararsi alle ondate di caldo in estate. Al contrario, se piantate la vostra thuja in agosto o settembre, avrà il tempo di prepararsi per l'inverno. Non piantate il vostro cespuglio più tardi di sei settimane prima che il primo congeli. Altrimenti la pianta potrebbe non attecchire.
 
 {:.distinction.distinction-information}
-Balled and **burlapped thujas** should be planted in April or from mid-August to mid-September. Plant them immediately after the purchase, before the roots get dry.
+Le thujas in balle e iuta dovrebbero essere piantate in aprile o da metà agosto a metà settembre. Piantatele subito dopo l'acquisto, prima che le radici si secchino.
 
 {% fig %}
 ![When to plant thujas?](/uploads/when-to-plant-thujas.jpg "When to plant thujas?")
 {% endfig %}
 
-## Thuja tree - how to plant the shrub?
+## Thuja - come piantare l'arbusto?
 
-The soil in which the shrub will grow should be fertile, loose and damp. Barren, dry soils will cause the plants to wither, and their needles will become brown. One needs to pay attention to the needs of particular types of thujas - each variety needs a different land. You might also purchase a potting **soil mix prepared specifically for conifers**. You can also mix composted pine bark with peat moss.
+Il terreno in cui crescerà l'arbusto deve essere fertile, sciolto e umido. I terreni aridi e secchi causeranno l'appassimento delle piante e i loro aghi diventeranno marroni. Bisogna prestare attenzione alle esigenze di particolari tipi di thujas - ogni varietà ha bisogno di un terreno diverso. Si potrebbe anche acquistare un mix di terriccio preparato appositamente per le conifere. Si può anche mescolare la corteccia di pino composta con il muschio di torba.
 
-The spot for planting needs to be prepared accordingly. Get rid of all the weeds within 30-40 cm radius. For a hedgerow, weed out a 60 cm wide strip of land. Dig out a hole or multiple holes - they should be 2-3 times longer and wider that the root ball of your thuja.
+Il terreno da piantare deve essere preparato di conseguenza. Sbarazzatevi di tutte le erbacce nel raggio di 30-40 cm. Per una siepe, estirpare una striscia di terreno larga 60 cm. Scavate una o più buche - dovrebbero essere 2-3 volte più lunghe e più larghe della palla di radici del vostro thuja.
 
-### How far apart to plant thuja trees?
+### Quanto manca per piantare alberi di thuja?
 
-If you want a dense hedge, plant your thuja trees every 60 cm. If you plant them every 80 cm, they will form a row of trees. Make sure to keep a distance from the fence (around 50-60 cm). It will allow the plants to grow freely. Thuja green giant will form a high hedge which is quite a useful decoration for any garden. It protects your house from noise, wind and pollution.
+Se volete una siepe fitta, piantate i vostri alberi di thuja ogni 60 cm. Se li piantate ogni 80 cm, formeranno una fila di alberi. Assicuratevi di mantenere una distanza dalla recinzione (circa 50-60 cm). Questo permetterà alle piante di crescere liberamente. Thuja gigante verde formerà una siepe alta che è una decorazione molto utile per qualsiasi giardino. Protegge la vostra casa dal rumore, dal vento e dall'inquinamento.
 
-Fill the holes halfway with the soil mix (either purchased at store or the one you prepared yourself). Then all you need to do is:
+Riempite le buche a metà strada con la miscela di terra (acquistata in negozio o quella che avete preparato voi stessi). Poi tutto quello che dovete fare è:
 
 {:.list.list-positive}
 
-* Place the plant vertically and cover the roots with soil.
-* Fill the hole with water and once it soaks into the ground - refill it with soil.
-* **Even the surface** and water the plant again.
-* You can put a garden foil and tree bark on top of the ground - it will prevent the water from evaporating.
+* Posizionare la pianta in verticale e ricoprire le radici con terra.
+* Riempire il buco con acqua e una volta che si immerge nel terreno - riempirlo di terra.
+* Anche la superficie e annaffiare la pianta di nuovo.
+* È possibile mettere un foglio di alluminio da giardino e corteccia d'albero sulla parte superiore del terreno - impedirà l'evaporazione dell'acqua.
 
 {% fig %}
 ![How far apart to plant thuja trees?](/uploads/thuja-tree-how-to-plant-shrub.jpg "How far apart to plant thuja trees?")
 {% endfig %}
 
-## How to take care of thuja trees?
+## Come prendersi cura degli alberi di thuja?
 
-You need to take a proper care of your newly planted thuja trees, so that they grow well and do not wither. **Young thuja trees** don’t have roots long enough to draw water from the deeper ground. For this reason you need to care for them properly.
+Dovete prendervi cura dei vostri alberi di thuja appena piantati, in modo che crescano bene e non appassiscano. I giovani alberi di thuja non hanno radici abbastanza lunghe da poter attingere l'acqua dal terreno più profondo. Per questo motivo dovete prendervi cura di loro in modo adeguato.
 
-During the first weeks the plants should be **watered regularly** - mornings or evenings. If your shrub is exposed to heat waves and droughts, spray its needles with water. Do it before sunrise or after sunset, so the sun doesn’t burn the plant. In case of strong winds stake higher plants with bamboo or wooden sticks.
+Durante le prime settimane le piante devono essere annaffiate regolarmente - mattina o sera. Se il vostro arbusto è esposto a ondate di calore e siccità, spruzzatene gli aghi con acqua. Fatelo prima dell'alba o dopo il tramonto, in modo che il sole non bruci la pianta. In caso di forti venti puntate le piante più alte con bastoni di bambù o di legno.
 
-If you decide to plant thujas, it is worth to buy a mycorrhizal inoculant and apply it as soon as you plant the trees. Such procedure makes it easier for your plants to draw water and nutrients from the ground. It saves a lot of time and money spent on the plants later. One should start **feeding the plants** in spring and finish around mid-July.
+Se decidete di piantare dei tujas, vale la pena comprare un inoculante micorrizico e applicarlo non appena piantate gli alberi. Tale procedura rende più facile per le vostre piante attingere acqua e sostanze nutritive dal terreno. Si risparmia un sacco di tempo e denaro speso per le piante in seguito. Si dovrebbe iniziare a nutrire le piante in primavera e finire verso la metà di luglio.
 
-You can use **general-purpose fertiliser**, as well as plant food made specifically for conifers. From August to September you may use special autumn fertiliser which is low in nitrogen.
+Si può usare un fertilizzante generico, così come cibo per piante fatto appositamente per le conifere. Da agosto a settembre si può usare un concime speciale autunnale a basso contenuto di azoto.
 
 {:.distinction.distinction-information}
-You can prim your shrub from spring to mid-summer. It is especially important for hedges. The last trimming should be performed in August so that the branches don’t die during first freezings.
+Potete decorare il vostro arbusto dalla primavera alla metà dell'estate. È particolarmente importante per le siepi. L'ultima potatura dovrebbe essere effettuata in agosto, in modo che i rami non muoiano durante le prime gelate.
 
-Thuja trees usually are not difficult to take care of. For this reason gardeners choose this type of shrub for their gardens. Thuja green giant trees are perfect for hedges, but also for making compositions. You should take care of your thuja as soon as possible so it grows well and looks great for a long time.
+Gli alberi di tuia di solito non sono difficili da curare. Per questo motivo i giardinieri scelgono questo tipo di arbusto per i loro giardini. Gli alberi giganti verdi Thuja sono perfetti per le siepi, ma anche per realizzare composizioni. Dovreste prendervi cura del vostro thuja il più presto possibile, in modo che cresca bene e abbia un bell'aspetto per molto tempo.
 
-## A shrub for your garden - FAQ
+## Un cespuglio per il tuo giardino - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-When to plant thuja green giant?
+Quando piantare il gigante verde thuja?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The best time to plant thuja trees is between early spring and late autumn. The only exception is balled and burlapped plants - the latest time they can be planted is mid-August. Do not plant your trees later than 6 weeks before the first freezes.
+Il periodo migliore per piantare alberi di thuja è tra l'inizio della primavera e il tardo autunno. L'unica eccezione è rappresentata dalle piante a palla e dalla iuta - l'ultimo periodo in cui possono essere piantate è a metà agosto. Non piantate i vostri alberi più tardi di 6 settimane prima del primo gelo.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to plant thuja green giant?
+Come piantare thuja gigante verde?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Thuja trees should be planted in holes at least 2 times bigger than the root ball. The bottom of the hole should be layered with conifer soil. Plant the trees vertically and water them afterwards.
+Gli alberi di Thuja devono essere piantati in buche almeno 2 volte più grandi della zolla. Il fondo della buca deve essere stratificato con terreno di conifere. Piantate gli alberi in verticale e innaffiateli successivamente.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-Where to buy thuja tree?
+Dove comprare un albero di thuja?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Thuja trees can be bought at any florist shop. You can also purchase the shrub online or search for a nursery in your area.
+Gli alberi di Thuja possono essere acquistati in qualsiasi negozio di fiori. Potete anche acquistare l'arbusto online o cercare un vivaio nella vostra zona.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How fast do thuja green giants grow?
+A che velocità crescono i giganti verdi thuja?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Thuja green giant can grow around 1 metre per year. At this rate a small shrub becomes a tree very quick. Because of its fast growth, thuja green giant is perfect for planting a dense hedge.
+Il gigante verde Thuja può crescere di circa 1 metro all'anno. Di questo passo un piccolo arbusto diventa un albero molto rapidamente. Grazie alla sua rapida crescita, il thuja gigante verde è perfetto per piantare una siepe densa.
 {% endfaqAnswer %}
 {% endfaqItem %}
