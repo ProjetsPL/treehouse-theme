@@ -1,20 +1,23 @@
 ---
 layout: post
-date: 2020-01-08
+date: 2020-07-18
 toc: true
-title: Wood Panel Wall - Check Best Ideas on How to Paint Wood Paneling
-description: 'Want to refresh your home interior design? Even small changes can make
-  a difference! Learn how to easily paint wood paneling Find the best method! '
+title: Mur en panneaux de bois - Consultez les meilleures idées sur la manière de
+  peindre les panneaux de bois
+description: 'Vous voulez rafraîchir la décoration de votre maison ? Même de petits
+  changements peuvent faire la différence ! Apprenez à peindre facilement les lambris
+  en bois Trouvez la meilleure méthode ! '
 image: "/uploads/malowanie-boazerii-jak-pomalowac-boazerie-aby-dobrze-wygladala.jpg"
 promoted: true
-update_date: 2020-04-02
-intro: Wood paneling was a very popular interior design element of 1970s and 1980s.
-  It was cheap and relatively quick to instal. Such decoration still remains in many
-  apartments. Many homeowners decide to get rid of this element completely. There
-  is, however, another solution, not only quicker, but more importantly - less expensive.
-  Instead of removing the boards, you can simply change their colour. Painted paneling
-  looks quite impressive. It is a good way for a quick metamorphosis - all you need
-  is a good paint.
+update_date: 2020-07-18
+intro: Les lambris en bois étaient un élément de décoration intérieure très populaire
+  dans les années 1970 et 1980. Il était bon marché et relativement rapide à installer.
+  Une telle décoration est encore présente dans de nombreux appartements. De nombreux
+  propriétaires décident de se débarrasser complètement de cet élément. Il existe
+  cependant une autre solution, non seulement plus rapide, mais surtout moins coûteuse.
+  Au lieu d'enlever les planches, vous pouvez simplement changer leur couleur. Les
+  lambris peints sont assez impressionnants. C'est un bon moyen pour une métamorphose
+  rapide - tout ce dont vous avez besoin est une bonne peinture.
 main_keywords:
 - boiseries
 - panneau de bois
@@ -24,129 +27,128 @@ main_keywords:
 - panneaux peints
 - boiseries peintes
 - comment peindre les panneaux de bois
-published: false
 
 ---
-## Why painting a wood paneling?
+## Pourquoi peindre un panneau de bois ?
 
-Wood paneling was one of the **biggest trends of interior design** during the last century. Natural wood boards were installed on walls in halls, kitchens and living rooms. Nowadays, however, wood paneling is considered old-fashioned.
+Le lambris en bois a été l'une des plus grandes tendances de la décoration intérieure au cours du siècle dernier. Des planches de bois naturel ont été installées sur les murs des halls, des cuisines et des salles de séjour. De nos jours, cependant, les lambris en bois sont considérés comme démodés.
 
-Typical for such walls dark shades of brown are simply overwhelming and make an interior look smaller. Many homeowners remove those elements when **renovating a room**. It might be, however, a time consuming and costly task. The uncovered walls are often damaged, uneven and scratched and might require further, usually costly improvements. Are there any ways that will help you liquidate ugly wood wall? Of course - it's simpler than you think.
+Les teintes marron foncé typiques de ces murs sont tout simplement écrasantes et donnent un aspect plus petit à l'intérieur. De nombreux propriétaires suppriment ces éléments lorsqu'ils rénovent une pièce. Cela peut cependant être une tâche longue et coûteuse. Les murs non couverts sont souvent endommagés, inégaux et éraflés et peuvent nécessiter des améliorations supplémentaires, généralement coûteuses. Existe-t-il des moyens qui vous aideront à liquider les murs en bois laids ? Bien sûr, c'est plus simple que vous ne le pensez.
 
 {:.distinction.distinction-information}
 
-Wood paneling is **becoming popular again**. For this reason the boards are quite often left on walls and painted to new, brighter colours. The contemporary interior design styles favour such solution. Scandinavian style, for instance, combines natural materials and simplicity, so painted wooden boards will be perfect in this case.
+Les panneaux de bois redeviennent populaires. C'est pourquoi les panneaux sont souvent laissés sur les murs et peints de nouvelles couleurs plus vives. Les styles de décoration intérieure contemporains favorisent cette solution. Le style scandinave, par exemple, associe matériaux naturels et simplicité, de sorte que les planches de bois peintes seront parfaites dans ce cas.
 
-Painting wall paneling is very easy and quick to do. **Refreshed wall boards** in a new colour might be an interesting element in a contemporary apartment.
+Il est très facile et rapide de peindre les panneaux muraux. Des planches murales rafraîchies dans une nouvelle couleur pourraient être un élément intéressant dans un appartement contemporain.
 
-## Choosing the right paint for wood paneling
+## Choisir la bonne peinture pour les panneaux de bois
 
-The previous era favoured brown and dark coloured boards. The wood paneling was usually coated only with varnish or wood stain. Such **interior design** does not fit the contemporary standards. It is far too dark and too heavy, especially if boards cover not only walls but also the ceiling.
+L'époque précédente favorisait les planches de couleur marron et foncée. Les panneaux de bois étaient généralement recouverts uniquement de vernis ou de teinture pour bois. Ce type de décoration intérieure ne correspond pas aux normes contemporaines. Il est beaucoup trop sombre et trop lourd, surtout si les planches recouvrent non seulement les murs mais aussi le plafond.
 
-Having that in mind, **painting wood panels with a light paint** is a good idea to make the interior bigger and brighter.
+Dans cette optique, il est bon de peindre les panneaux de bois avec une peinture claire pour rendre l'intérieur plus grand et plus lumineux.
 
 {% fig %}
 ![Choosing the right paint for wood paneling](/uploads/odpowiednia-farba-do-boazerii-to-podstawa.jpg "Choosing the right paint for wood paneling")
 {% endfig %}
 
-To achieve the best results when renovating wood paneling, one should pick the right paint. Some of the available products that should work well for **painting wood wall paneling** are:
+Pour obtenir les meilleurs résultats lors de la rénovation de panneaux de bois, il faut choisir la bonne peinture. Voici quelques produits disponibles qui devraient bien fonctionner pour peindre les panneaux muraux en bois :
 
 {:.list.list-positive}
 
-* **Wood and metal acrylic paint** - it is thinned with water and therefore does not generate unpleasant smell. Such products are safe for health and dry pretty fast. The final layer is smooth and solid.
-* **Typical wood products** - varnish, wax and oil for wood is a good solution if you want to keep the natural looks of the wood. If you want the wood paneling to have a certain colour, use a coloured wood stain.
-* **Chalk paint** - products of this type dries very quick and are very safe to use. A big advantage is wide variety of pastel colours that will result in an interesting finish of the boards. Using chalk paint on wood paneling means covering the natural wood lines completely.
+* La peinture acrylique sur bois et métal - elle est diluée avec de l'eau et ne génère donc pas d'odeur désagréable. Ces produits sont sans danger pour la santé et sèchent assez rapidement. La couche finale est lisse et solide.
+* Produits typiques du bois - le vernis, la cire et l'huile pour bois sont une bonne solution si vous souhaitez conserver l'aspect naturel du bois. Si vous voulez que les panneaux de bois aient une certaine couleur, utilisez une teinture pour bois colorée.
+* Peinture à la craie - les produits de ce type sèchent très rapidement et sont très sûrs à utiliser. Un grand avantage est la grande variété de couleurs pastel qui donneront une finition intéressante aux panneaux. Utiliser de la peinture à la craie sur les panneaux de bois signifie couvrir complètement les lignes du bois naturel.
 
-## How to paint wood paneling? Step by step
+## Comment peindre les panneaux de bois ? Pas à pas
 
-**Painting wood paneling is not a complicated task.** You should finish the work by one afternoon. Such renovation usually does not take more than one weekend. Having chosen the right product for your wood panel wall, one should prepare accordingly. The result highly depends on the proper preparation. If you prepare everything properly, painting paneling will be less frustrating for you. You will also save your time.
+Peindre des panneaux de bois n'est pas une tâche compliquée. Vous devriez terminer le travail en un après-midi. Ce type de rénovation ne prend généralement pas plus d'un week-end. Une fois que vous avez choisi le bon produit pour votre mur en bois, vous devez vous préparer en conséquence. Le résultat dépend fortement de la bonne préparation. Si vous préparez tout correctement, la peinture des panneaux sera moins frustrante pour vous. Vous gagnerez également du temps.
 
 {% fig %}
 ![How to paint wood paneling? Step by step](/uploads/jak-pomalowac-boazerie-krok-po-kroku_1.jpg "How to paint wood paneling? Step by step")
 {% endfig %}
 
-### Preparing the surface
+### Préparer la surface
 
-Before you can **cover your wood paneling** with paint, you should pay attention to its surface. The boards shall be cleaned from dirt and dust. The old layers of paint and varnish must be thoroughly sanded - this way the fresh paint will stick better to the surface.
+Avant de recouvrir vos panneaux de bois de peinture, vous devez faire attention à leur surface. Les panneaux doivent être nettoyés de la saleté et de la poussière. Les anciennes couches de peinture et de vernis doivent être soigneusement poncées - de cette façon, la peinture fraîche adhérera mieux à la surface.
 
-**Sanding the old surface** is essential if you want to keep the natural look of the wood. If the old layers peel and fall off the surface, they need to be removed completely by thorough sanding. Otherwise just smoothening the boards is enough.
+Le ponçage de l'ancienne surface est essentiel si vous voulez conserver l'aspect naturel du bois. Si les anciennes couches se détachent et tombent de la surface, elles doivent être complètement enlevées par un ponçage minutieux. Sinon, il suffit de lisser les planches.
 
-To **smoothen or clean** the boards use coarse sanding paper. For large surfaces, it is good to use a disc grinder (polishing machine). Under no circumstance use wire brushes, as they could seriously damage the wooden surface of the boards.
+Pour lisser ou nettoyer les planches, utilisez un papier abrasif grossier. Pour les grandes surfaces, il est bon d'utiliser une ponceuse à disque (machine à polir). N'utilisez en aucun cas des brosses métalliques, car elles pourraient gravement endommager la surface en bois des planches.
 
-After finishing the sanding, the room should be thoroughly vacuumed. **Wipe the wood paneling with a damp cloth** to remove dust from them. Any dents and holes should be filled with wood adhesive.
+Après avoir terminé le ponçage, la pièce doit être soigneusement aspirée. Essuyez les panneaux de bois avec un chiffon humide pour en retirer la poussière. Les bosses et les trous éventuels doivent être comblés avec de la colle à bois.
 
-### Painting wood paneling - where to start?
+### Peindre des panneaux de bois - par où commencer ?
 
-One of the most important matters when **painting wood paneling** is following the paint manufacturer’s instructions. When using acrylic paint, it is advised to apply a wood primer beforehand. Such product **protects the wood paneling**, reduces the paint absorption and improves its adhesion to the surface. It is best to choose a product from the same manufacturer as the paint you are going to use for your wood paneling.
+L'un des points les plus importants lorsqu'on peint des panneaux de bois est de suivre les instructions du fabricant de peinture. Si vous utilisez de la peinture acrylique, il est conseillé d'appliquer au préalable une couche de fond pour bois. Ce produit protège les panneaux de bois, réduit l'absorption de la peinture et améliore son adhérence à la surface. Il est préférable de choisir un produit du même fabricant que la peinture que vous allez utiliser pour vos lambris en bois.
 
-You may start **painting the wood paneling** right after the primer dries.
+Vous pouvez commencer à peindre les panneaux de bois dès que l'apprêt a séché.
 
 {:.distinction.distinction-warning}
 
-If the boards are narrow, a small brush will suffice; to paint wider paneling, use a paint roller.
+Si les panneaux sont étroits, un petit pinceau suffira ; pour peindre des panneaux plus larges, utilisez un rouleau à peindre.
 
-**The paint dries quickly** - you can apply the next layers approximately after an hour. Wood paneling requires 2-3 layers of paint.
+La peinture sèche rapidement - vous pouvez appliquer les couches suivantes au bout d'une heure environ. Les lambris en bois nécessitent 2 à 3 couches de peinture.
 
-### How to paint wood paneling without sanding the surface?
+### Comment peindre des panneaux de bois sans en poncer la surface ?
 
-**Sanding the wood paneling** is time consuming and removing the old layers of paint or varnish might be quite difficult. It is possible, however, to paint wood paneling without the necessity of smoothing the boards. In such a case it is best to use chalk paint, as it sticks well to every type of surface. Such paint dries substantially quicker than other types - in most cases one can apply another layer after 20 minutes.
+Le ponçage des panneaux de bois prend du temps et il peut être assez difficile d'enlever les anciennes couches de peinture ou de vernis. Il est toutefois possible de peindre les panneaux de bois sans avoir à les lisser. Dans ce cas, il est préférable d'utiliser de la peinture à la craie, car elle adhère bien à tout type de surface. Cette peinture sèche beaucoup plus vite que les autres types de peinture - dans la plupart des cas, on peut appliquer une autre couche après 20 minutes.
 
 {:.distinction.distinction-information}
 
-Chalk paint used for wood paneling is useful if you plan to distress the wooden boards. After using the paint remember to cover your paneling with a protective layer of varnish or wax.
+La peinture à la craie utilisée pour les panneaux de bois est utile si vous prévoyez de les abîmer. Après avoir utilisé la peinture, n'oubliez pas de recouvrir vos lambris d'une couche protectrice de vernis ou de cire.
 
-## Painted wood paneling - white or colour?
+## Lambris en bois peint - blanc ou couleur ?
 
-The most popular choice for **restoring wood paneling** is white. Such colour fits plenty of styles, for instance scandinavian, minimalist or rustic. If you find white too cold, it is good to choose pastel colours, such as light blue, beige or cream.
+Le choix le plus populaire pour la restauration des boiseries est le blanc. Cette couleur convient à de nombreux styles, par exemple scandinave, minimaliste ou rustique. Si vous trouvez le blanc trop froid, il est bon de choisir des couleurs pastel, telles que le bleu clair, le beige ou le crème.
 
-Bright colours are perfect for enlightening a room and making it visually bigger. Such shades are the best choice for narrow hallways and foyers. This is where you can most often find wood paneling on the wall. Painting paneling gives a lot of possibilities in this case. The home interior design will look really good.
+Les couleurs vives sont parfaites pour éclairer une pièce et la rendre visuellement plus grande. Ces nuances sont le meilleur choix pour les couloirs et les foyers étroits. C'est là que l'on trouve le plus souvent des lambris en bois sur les murs. Les lambris peints offrent de nombreuses possibilités dans ce cas. L'aménagement intérieur de la maison sera très réussi.
 
 {% fig %}
 ![Painted wood paneling - white or colour?](/uploads/malowanie-boazerii-na-bialo-czy-na-kolor.jpg "Painted wood paneling - white or colour?")
 {% endfig %}
 
-**Strong colours** work best in spacious and well illuminated interiors. For such rooms you can use for instance dark blue or green colours. Choose them, however, very carefully, as it is easy to overwhelm the interior with too dark shades. If you decided to use a single colour it is a good idea to mix its various tones. It look particularly interesting with matte finishes.
+Les couleurs vives sont plus efficaces dans les intérieurs spacieux et bien éclairés. Pour ces pièces, vous pouvez par exemple utiliser des couleurs bleu foncé ou vert. Choisissez-les toutefois avec beaucoup de soin, car il est facile de submerger l'intérieur avec des teintes trop sombres. Si vous avez décidé d'utiliser une seule couleur, il est judicieux de mélanger ses différentes nuances. L'aspect est particulièrement intéressant avec des finitions mates.
 
-Painting wood paneling is not a difficult task, therefore it is worth trying. Such solution might be better than removing the old boards. A good paint will refresh your wood panel wall, making it a stylish home decoration. If you consider painting wood paneling, make sure you pick the right colour, which accentuates the whole interior.
+La peinture des boiseries n'est pas une tâche difficile, elle vaut donc la peine d'être essayée. Cette solution peut être meilleure que d'enlever les anciennes planches. Une bonne peinture rafraîchira votre mur de boiseries et en fera une décoration élégante. Si vous envisagez de peindre des panneaux de bois, assurez-vous de choisir la bonne couleur, qui accentue l'ensemble de l'intérieur.
 
-## Wood panel wall - FAQ
+## Mur en panneaux de bois - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-How to paint over wood paneling?
+Comment peindre sur des panneaux de bois ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-After choosing the right paint, prepare the surface by sanding or smoothing it. When painting, follow the paint manufacturer’s instructions carefully. Remember to keep all the surfaces clean and undusted.
+Après avoir choisi la bonne peinture, préparez la surface en la ponçant ou en la lissant. Lorsque vous peignez, suivez attentivement les instructions du fabricant de la peinture. N'oubliez pas de garder toutes les surfaces propres et non poussiéreuses.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to paint wood paneling with grooves?
+Comment peindre des panneaux de bois avec des rainures ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-If you want to hide the grooves on your wood paneling, you should fill them with joint compound. Then sand the surface until smooth and paint it. You might also leave the grooves and simply paint the planks to change their colour.
+Si vous voulez cacher les rainures de vos panneaux de bois, vous devez les remplir avec de la pâte à joint. Ensuite, poncez la surface jusqu'à ce qu'elle soit lisse et peignez-la. Vous pouvez également laisser les rainures et simplement peindre les planches pour changer leur couleur.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to make wood paneling look modern?
+Comment donner un aspect moderne aux panneaux de bois ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-If the paneling is dark, paint it in bright colours, for instance white. Seek inspiration in modern styles, such as scandinavian or minimalist.
+Si les lambris sont sombres, peignez-les de couleurs vives, par exemple en blanc. Cherchez l'inspiration dans des styles modernes, comme le scandinave ou le minimaliste.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to cover wood paneling?
+Comment recouvrir les panneaux de bois ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-To completely hide wood paneling, fill the grooves with joint compound and smoothen it once it’s dry. If done properly, painted wood paneling should look no different than a solid wall.
+Pour cacher complètement les lambris, remplissez les rainures avec de la pâte à joint et lissez-les une fois qu'elles sont sèches. S'ils sont bien faits, les lambris peints ne doivent pas être différents d'un mur massif.
 {% endfaqAnswer %}
 {% endfaqItem %}

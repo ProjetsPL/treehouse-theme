@@ -70,13 +70,7 @@ Pintar paneles de madera no es una tarea complicada. Deberías terminar el traba
 
 ### Preparando la superficie
 
-Antes de cubrir la madera, antes de cubrir los paneles de madera con pintura, debe prestar atención a su superficie. Los tableros se limpiarán de suciedad y polvo. Las viejas capas de pintura y barniz deben ser lijadas a fondo - de esta manera la pintura fresca se pegará mejor a la superficie.
-
-Lijar la superficie vieja es esencial si se quiere mantener el aspecto natural de la madera. Si las viejas capas se desprenden y caen de la superficie, deben ser eliminadas completamente mediante un lijado minucioso. De lo contrario, basta con alisar las tablas.
-
-Para alisar o limpiar las tablas, use papel de lija grueso. Para grandes superficies, es bueno usar una amoladora de disco (pulidora). Bajo ninguna circunstancia use cepillos de alambre, ya que podrían dañar seriamente la superficie de madera de las tablas.
-
-Después de terminar el lijado, la habitación debe ser aspirada a fondo. Limpie los tableros de madera con un paño húmedo para quitarles el polvo. Cualquier abolladura o agujero debe ser rellenado con adhesivo para madera. Si el panel de madera está pintado, debe prestar atención a su superficie. Los paneles deben ser limpiados de la suciedad y el polvo. Las viejas capas de pintura y barniz deben ser lijadas a fondo, así la pintura fresca se pegará mejor a la superficie.
+Antes de que puedas cubrir tus paneles de madera con pintura, debes prestar atención a su superficie. Las tablas se limpiarán de suciedad y polvo. Las viejas capas de pintura y barniz deben ser lijadas a fondo - de esta manera la pintura fresca se pegará mejor a la superficie.
 
 Lijar la superficie vieja es esencial si se quiere mantener el aspecto natural de la madera. Si las viejas capas se desprenden y caen de la superficie, deben ser eliminadas completamente mediante un lijado minucioso. De lo contrario, basta con alisar las tablas.
 
