@@ -1,18 +1,20 @@
 ---
 layout: post
-date: 2020-01-29
+date: 2020-07-18
 toc: true
-title: Pavement around your house. How to lay paving stones?
-description: You might wonder whether you should choose stone pavers for a pavement
-  around your house. Paving stones might be the right choice. They have many advantages.
+title: Gehsteig um Ihr Haus herum. Wie verlegt man Pflastersteine?
+description: Vielleicht fragen Sie sich, ob Sie für einen Gehweg um Ihr Haus herum
+  Steinpflaster wählen sollten. Pflastersteine könnten die richtige Wahl sein. Sie
+  haben viele Vorteile.
 image: "/uploads/ukladanie-kostki-brukowej.jpg"
 promoted: false
-update_date: 2020-02-05
-intro: If you are planning to make pathways or a patio around your house, you might
-  wonder what material you should choose. Making the right decision is not easy. The
-  main goal for paving is to enhance the looks of the area surrounding your house.
-  Many homeowners decide to lay paving stones. Paved pathways are quite durable and
-  cheap.
+update_date: 2020-07-18
+intro: Wenn Sie planen, Wege oder einen Innenhof um Ihr Haus herum anzulegen, fragen
+  Sie sich vielleicht, welches Material Sie wählen sollten. Es ist nicht leicht, die
+  richtige Entscheidung zu treffen. Das Hauptziel bei der Pflasterung ist es, das
+  Aussehen der Umgebung Ihres Hauses zu verbessern. Viele Hausbesitzer entscheiden
+  sich dafür, Pflastersteine zu verlegen. Gepflasterte Wege sind ziemlich haltbar
+  und billig.
 main_keywords:
 - Pflaster
 - Pflastersteine
@@ -22,113 +24,112 @@ main_keywords:
 - Pflasterplatten
 - wie man Pflastersteine verlegt
 - wie man Pflastersteine reinigt
-published: false
 
 ---
-## Paving stones - choosing the right material
+## Pflastersteine - Auswahl des richtigen Materials
 
-Before you start working on your paths and patio, you should choose the right material. You can get many different types of **paving slabs**. Choosing the right one you should pay attention to the material, it colour and general effect you expect from the pavement. The price of the material is a crucial aspect as well. Keep in mind that the prices differ, depending not only on the material but also on the size and thickness of stones. Manufacturers usually set the price by the weight, therefore make sure you know **how sufficient the material is**.
+Bevor Sie mit der Arbeit an Ihren Wegen und Terrassen beginnen, sollten Sie das richtige Material auswählen. Sie können viele verschiedene Arten von Pflastersteinen erhalten. Bei der Wahl der richtigen sollten Sie auf das Material, seine Farbe und die allgemeine Wirkung achten, die Sie von dem Pflaster erwarten. Auch der Preis des Materials ist ein entscheidender Aspekt. Denken Sie daran, dass die Preise nicht nur vom Material, sondern auch von der Größe und Dicke der Steine abhängen. Die Hersteller setzen den Preis in der Regel nach dem Gewicht fest, stellen Sie daher sicher, dass Sie wissen, wie ausreichend das Material ist.
 
 {:.distinction.distinction-information}
-If you want to hire a professional to lay the pavement for you, keep in mind that the price for the service includes various aspects. It is, for instance, important whether your stones have one colour or if you want to **arrange them in a pattern**. Preparing the terrain is also included in price.
+Wenn Sie einen Fachmann damit beauftragen möchten, den Belag für Sie zu verlegen, bedenken Sie, dass der Preis für die Dienstleistung verschiedene Aspekte umfasst. So ist es zum Beispiel wichtig, ob Ihre Steine eine Farbe haben oder ob Sie sie in einem Muster anordnen möchten. Auch die Vorbereitung des Geländes ist im Preis inbegriffen.
 
 {% fig %}
 ![Paving stones - choosing the right material](/uploads/jaka-jest-cena-kostki-brukowej.jpg "Paving stones - choosing the right material")
 {% endfig %}
 
-## Laying paving stones - quality and price
+## Verlegen von Pflastersteinen - Qualität und Preis
 
-Having decided on paving stones for your garden, you might wonder which slab is the best. The main points of interest are the **quality of the material**, aesthetics, price and practicality. All those aspects should be taken into consideration before purchasing the material.
+Wenn Sie sich für Pflastersteine für Ihren Garten entschieden haben, fragen Sie sich vielleicht, welche Platte die beste ist. Das Hauptinteresse gilt der Qualität des Materials, der Ästhetik, dem Preis und der Zweckmäßigkeit. All diese Aspekte sollten vor dem Kauf des Materials in Betracht gezogen werden.
 
-### Concrete paving slabs
+### Beton-Pflasterplatten
 
-Industrial paving stones are usually made of concrete. The material is concentrated and condensed, with addition of as little water as possible. Thanks to the addition of **colourful grit and pigmentation** the stones have various colours. Colourization might involve the whole paving stone or just its surface. The main advantages of concrete paving stones are:
+Industrielle Pflastersteine werden in der Regel aus Beton hergestellt. Das Material wird konzentriert und verdichtet, wobei so wenig Wasser wie möglich hinzugefügt wird. Dank der Zugabe von farbigem Splitt und Pigmentierung haben die Steine verschiedene Farben. Die Färbung kann den ganzen Pflasterstein oder nur seine Oberfläche betreffen. Die Hauptvorteile von Betonpflastersteinen sind
 
 {:.list.list-positive}
 
-* **Durability** - concrete stone rarely gets damaged, and manufacturers implement various methods of hardening the material.
-* **Frost resistance** - industrial paving stones can be characterised by low water absorption. Because of this feature water does not get inside the material and therefore frost cannot damage it.
-* **A lot of designs** - manufacturers offer paving stones in various shapes and colours. Such a wide selection makes it easier to fit the stones to the design of your house. In this regards, concrete paving slabs are better than natural stone pavers.
-* **Wide range of prices** - it’s the biggest advantage of material of this type. You will surely find the right product for yourself even if your budget is very limited. Cost of installing a concrete pavement by a professional is also much lower than it is with a granite stone.
+* Dauerhaftigkeit - Betonstein wird selten beschädigt, und die Hersteller setzen verschiedene Methoden zur Härtung des Materials ein.
+* Frostbeständigkeit - Industrielle Pflastersteine zeichnen sich durch eine geringe Wasseraufnahme aus. Aufgrund dieser Eigenschaft gelangt kein Wasser ins Innere des Materials, so dass Frost das Material nicht beschädigen kann.
+* Viele Designs - die Hersteller bieten Pflastersteine in verschiedenen Formen und Farben an. Eine so große Auswahl erleichtert die Anpassung der Steine an das Design Ihres Hauses. In dieser Hinsicht sind Betonpflasterplatten besser als Natursteinpflaster.
+* Große Preisspanne - das ist der größte Vorteil von Material dieser Art. Sie werden sicher das richtige Produkt für sich finden, auch wenn Ihr Budget sehr begrenzt ist. Die Kosten für den Einbau eines Betonpflasters durch einen Fachmann sind auch viel niedriger als bei einem Granitstein.
 
 {:.distinction.distinction-warning}
-The biggest disadvantage of concrete stone is its lower resistance in comparison with natural stone.
+Der größte Nachteil von Betonstein ist seine geringere Widerstandsfähigkeit im Vergleich zu Naturstein.
 
 {% fig %}
 ![Concrete paving slabs](/uploads/betonowa-kostka-brukowa.jpg "Concrete paving slabs")
 {% endfig %}
 
-### Natural paving stone
+### Naturpflasterstein
 
-Natural stone is a good alternative for concrete paving stones. The most popular choice in this category is **granite**. The price of this material is much higher that concrete. Nevertheless, granite is valued for its features, such as:
+Naturstein ist eine gute Alternative für Betonpflastersteine. Die beliebteste Wahl in dieser Kategorie ist Granit. Der Preis dieses Materials ist viel höher als der von Beton. Dennoch wird Granit wegen seiner Eigenschaften geschätzt, wie zum Beispiel
 
 {:.list.list-positive}
 
-* **Resistance to damage** - granite is resistant to crumbling, abrasion and discolouration. Once laid, this type of paving stone is going to last for a very long time.
-* **Resistance to fire and frost** - low temperatures are not dangerous for granite paving stones. They also cannot be destroyed by heat or fire.
-* **Natural material** - granite extraction is ecological and does not involve use of any chemicals.
-* **Stylish look** - natural stone is very elegant. It is a perfect solution for homeowners who want to combine the aesthetics and durability of granite. This material will suit most houses with classical design.
+* Widerstandsfähigkeit gegen Beschädigung - Granit ist widerstandsfähig gegen Bröckeln, Abrieb und Verfärbung. Einmal verlegt, wird diese Art von Pflasterstein sehr lange halten.
+* Beständigkeit gegen Feuer und Frost - niedrige Temperaturen sind für Granitpflastersteine nicht gefährlich. Sie können auch nicht durch Hitze oder Feuer zerstört werden.
+* Natürliches Material - die Gewinnung von Granit ist ökologisch und erfordert keine Verwendung von Chemikalien.
+* Elegantes Aussehen - Naturstein ist sehr elegant. Er ist eine perfekte Lösung für Hausbesitzer, die die Ästhetik und Haltbarkeit von Granit kombinieren möchten. Dieses Material passt zu den meisten Häusern mit klassischem Design.
 
 {:.distinction.distinction-warning}
-The biggest disadvantage of granite paving stones is their uneven surface, which is difficult to clear of snow.
+Der größte Nachteil von Granitpflastersteinen ist ihre unebene Oberfläche, die schwer von Schnee zu befreien ist.
 
 {% fig %}
 ![Natural paving stone](/uploads/kamienna-kostka-brukowa.jpg "Natural paving stone")
 {% endfig %}
 
-## How to lay paving stones? Step by step guide
+## Wie werden Pflastersteine verlegt? Schritt-für-Schritt-Anleitung
 
-A decision to **pave the paths yourself** is a great way to significantly reduce the costs. It is not as difficult as it seems. All you need is good preparation.
+Eine Entscheidung, die Wege selbst zu ebnen, ist eine gute Möglichkeit, die Kosten deutlich zu senken. Es ist nicht so schwierig, wie es scheint. Alles, was Sie brauchen, ist eine gute Vorbereitung.
 
 {:.list}
 
-1. If you decided to lay paving stones on your own, you might wonder what kind of material you should choose. While the price is important, it should not be the decisive factor. **Thickness of the paving stone** should be suited to the intended use of the pavement. You should also predict resistance of the material to mechanical damage. For instance, 4 centimetres thick paving stones are good for garden paths, whereas for a patio you should use material that is twice as thick.
+1. Wenn Sie sich entschieden haben, Pflastersteine selbst zu verlegen, fragen Sie sich vielleicht, welche Art von Material Sie wählen sollten. Der Preis ist zwar wichtig, aber er sollte nicht der entscheidende Faktor sein. Die Dicke des Pflastersteins sollte auf den Verwendungszweck des Pflastersteins abgestimmt sein. Sie sollten auch die Widerstandsfähigkeit des Materials gegen mechanische Beschädigungen vorhersehen. Beispielsweise eignen sich 4 Zentimeter dicke Pflastersteine gut für Gartenwege, während Sie für eine Terrasse doppelt so dickes Material verwenden sollten.
 
 {:.distinction.distinction-information}
-The paving slabs should also visually harmonise with the building.
+Die Pflasterplatten sollten auch optisch mit dem Gebäude harmonieren.
 
 {:.list}
 
-1. Before you start laying the paving stones, dig a depth across the area in which you are planning to lay the stones. The depth depends on the **intended use of the pavement**. For garden paths it is usually 15-20 cm. For a heavier use, the depth should be at least half a metre. Shape the bottom so that water can be carried away.
-2. Before laying the paving stones, you should **start from the edges**. For small paths you may use pavement kerbs or palisade. In spots at which vehicles are going to move, you should use large road kerbs. Place the elements on a layer of concrete. After it dries up, fill any spaces with sand.
+1. Bevor Sie mit dem Verlegen der Pflastersteine beginnen, graben Sie eine Tiefe über das Gebiet, in dem Sie die Steine verlegen wollen. Die Tiefe hängt von der beabsichtigten Nutzung des Pflasters ab. Bei Gartenwegen beträgt sie in der Regel 15-20 cm. Bei einer stärkeren Nutzung sollte die Tiefe mindestens einen halben Meter betragen. Formen Sie den Boden so, dass Wasser abtransportiert werden kann.
+2. Bevor Sie die Pflastersteine verlegen, sollten Sie von den Rändern ausgehen. Für kleine Wege können Sie Pflasterbordsteine oder Palisaden verwenden. An Stellen, an denen sich Fahrzeuge bewegen werden, sollten Sie große Straßenbordsteine verwenden. Legen Sie die Elemente auf eine Schicht Beton. Nach dem Trocknen füllen Sie die Zwischenräume mit Sand.
 
 {:.distinction.distinction-information}
-Make sure to **be very precise**, so that the kerbs are nice and even.
+Achten Sie darauf, sehr präzise zu sein, damit die Randsteine schön und eben sind.
 
 {:.list}
 
-1. Lay and compact aggregate, and then create a base using concrete and sand. Then you can start **laying the paving stones**. You can lay them alternately or in patterns. Make sure not to step on the base, you can, however, step on the laid slabs. Lay the stones as tight as possible and make sure to mix the elements, choosing them from different pallets. The paved stones need to be pressed. You can use a surface vibrator for this purpose.
+1. Verlegen und Verdichten von Zuschlagstoffen und anschließendes Herstellen einer Unterlage aus Beton und Sand. Dann können Sie mit dem Verlegen der Pflastersteine beginnen. Sie können sie abwechselnd oder in Mustern verlegen. Achten Sie darauf, nicht auf den Untergrund zu treten, Sie können jedoch auf die verlegten Platten treten. Verlegen Sie die Steine so fest wie möglich und achten Sie darauf, die Elemente zu mischen, indem Sie sie aus verschiedenen Paletten auswählen. Die gepflasterten Steine müssen gepresst werden. Zu diesem Zweck können Sie einen Flächenrüttler verwenden.
 
-You can lay paving stones by yourself or you can hire a professional to do it for you. One of the most important issues is **choosing the right material**. The price might be the decisive aspect, however you should also pay attention to the appearance and durability of the paving stones.
+Sie können Pflastersteine selbst verlegen oder einen Fachmann beauftragen, dies für Sie zu tun. Eine der wichtigsten Fragen ist die Wahl des richtigen Materials. Der Preis kann der entscheidende Aspekt sein, aber Sie sollten auch auf das Aussehen und die Haltbarkeit der Pflastersteine achten.
 
-## Pavement around your house - FAQ
+## Bürgersteig um Ihr Haus herum - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-What is pavement made of?
+Woraus besteht ein Pflaster?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Pavement stones are made either of concrete or of natural stones. Concrete is the most commonly used material, however natural granite paving stones are the most durable of all.
+Pflastersteine werden entweder aus Beton oder aus Natursteinen hergestellt. Beton ist das am häufigsten verwendete Material, doch sind Naturgranit-Pflastersteine das haltbarste von allen.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to clean paving stones?
+Wie reinigt man Pflastersteine?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-For light dirt you can use water with soap, brushing the area. If your paving stones are very dirty, pour a mix of water and vinegar onto them. The quickest way to clean your patio is using a pressure washer.
+Bei leichten Verschmutzungen können Sie Wasser mit Seife verwenden, indem Sie den Bereich bürsten. Wenn Ihre Pflastersteine sehr schmutzig sind, gießen Sie eine Mischung aus Wasser und Essig auf die Steine. Am schnellsten reinigen Sie Ihre Terrasse mit einem Hochdruckreiniger.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to cut paving stones?
+Wie schneidet man Pflastersteine?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The quickest way to cut a paver stone is using a circular saw or angle grinder. Brick splitter is easier to use. If you don’t have such equipment, you can just use a hammer and chisel.
+Der schnellste Weg, einen Pflasterstein zu schneiden, ist die Verwendung einer Kreissäge oder eines Winkelschleifers. Der Ziegelsteinspalter ist einfacher zu verwenden. Wenn Sie keine solche Ausrüstung haben, können Sie einfach einen Hammer und Meißel verwenden.
 {% endfaqAnswer %}
 {% endfaqItem %}
