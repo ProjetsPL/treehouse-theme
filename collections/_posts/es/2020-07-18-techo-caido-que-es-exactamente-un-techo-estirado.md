@@ -1,19 +1,18 @@
 ---
 layout: post
-date: 2020-01-27
+date: 2020-07-18
 toc: true
-title: Dropped ceiling - what exactly is a stretch ceiling?
-description: Dropped ceiling is quite a popular solution that can hide imperfections
-  of the main ceiling. If you are not convinced to plasterboard, consider stretch
-  ceiling.
+title: Techo caído - ¿Qué es exactamente un techo estirado?
+description: El techo caído es una solución muy popular que puede ocultar las imperfecciones
+  del techo principal. Si no te convence el cartón-yeso, considera el techo estirado.
 image: "/uploads/sufit-napinany.jpg"
 promoted: true
-update_date: 2020-02-03
-intro: Repairing an old, damaged ceiling might cost too much money and effort. In
-  such a case you might consider a dropped ceiling to conceal the imperfections. An
-  increasingly popular solution of this type is stretch ceiling. It is much more lightweight
-  than plasterboard. It also allows for a quicker installation. Fabric ceiling is
-  an alternative that is worth considering.
+update_date: 2020-07-18
+intro: Reparar un techo viejo y dañado podría costar demasiado dinero y esfuerzo.
+  En tal caso, podría considerar un techo caído para ocultar las imperfecciones. Una
+  solución de este tipo, cada vez más popular, es el techo estirado. Es mucho más
+  ligero que el cartón yeso. También permite una instalación más rápida. El techo
+  de tela es una alternativa que vale la pena considerar.
 main_keywords:
 - techo
 - techo caído
@@ -21,21 +20,20 @@ main_keywords:
 - techo de tela
 - Techo de PVC
 - cómo cubrir un techo con tela
-published: false
 
 ---
-## What is a stretch ceiling?
+## ¿Qué es un techo extensible?
 
-**Stretch ceiling** is a kind of dropped ceiling. This method is one of the oldest techniques in the category of **interior design**. Hanging a fabric under ceiling was popular in many countries throughout the centuries. Ancient Romans used silk, Egyptians - flax, while Armenians preferred cotton.
+El techo estirado es una especie de techo caído. Este método es una de las técnicas más antiguas en la categoría de diseño de interiores. Colgar una tela bajo el techo fue popular en muchos países a lo largo de los siglos. Los antiguos romanos usaban la seda, los egipcios el lino, mientras que los armenios preferían el algodón.
 
 {:.distinction.distinction-information}
-A perfectly even surface was achieved by hanging a wet cloth, which reduced its volume and stretched in the process of drying up.
+Una superficie perfectamente uniforme se logró colgando un paño húmedo, que redujo su volumen y se estiró en el proceso de secado.
 
-In time, stretch ceiling became a scarcity, to come back in the 20th century. Nowadays this type of dropped ceiling is made of PVC fabric. It is installed on special boards attached to the walls. There are many patterns which can be suited for a particular interior design. The most popular dropped ceilings of this type are:
+Con el tiempo, el techo estirado se convirtió en una escasez, para volver en el siglo XX. Hoy en día, este tipo de techo caído está hecho de tela de PVC. Se instala en tablas especiales fijadas a las paredes. Hay muchos patrones que pueden ser adecuados para un diseño interior particular. Los techos inclinados más populares de este tipo son:
 
 {:.list}
 
-* **3D stretch ceiling** - a 3D picture is printed onto the canvas, which creates an **illusion of depth**. The most common designs are pictures of water, space or the sky. Such solution is very impressive and it fits modern interior design.
+* Techo de estiramiento 3D - una imagen 3D es impresa en el lienzo, lo que crea una ilusión de profundidad. Los diseños más comunes son imágenes del agua, el espacio o el cielo. Esta solución es muy impresionante y se ajusta al diseño interior moderno.
 
 {% fig %}
 ![What is a stretch ceiling?](/uploads/sufit-3D.jpg "What is a stretch ceiling?")
@@ -43,89 +41,89 @@ In time, stretch ceiling became a scarcity, to come back in the 20th century. No
 
 {:.list}
 
-* **Mirror stretch ceiling** - glossy surface of the material reflects the light like a mirror. Such dropped ceilings might have any colour. It is most commonly used in **luxurious, royal interior designs**.
-* **Matt stretch ceiling** - made of a fabric that does not reflect light. Although there are many available colours, white is the most popular, as it fits most of interior designs.
+* Espejo estirar el techo - la superficie brillante del material refleja la luz como un espejo. Estos techos caídos pueden tener cualquier color. Es más comúnmente usado en lujosos diseños de interiores reales.
+* Techo elástico mate - hecho de un tejido que no refleja la luz. Aunque hay muchos colores disponibles, el blanco es el más popular, ya que se ajusta a la mayoría de los diseños interiores.
 
-## Why choosing a stretch ceiling?
+## ¿Por qué elegir un techo extensible?
 
-Dropped ceiling is a perfect solution for any place that requires hiding imperfections and damaged surface. Unaesthetic finish, external pipes - they can be easily covered with fabric.
+El techo caído es una solución perfecta para cualquier lugar que requiera ocultar las imperfecciones y la superficie dañada. Acabado antiestético, tuberías externas... pueden ser fácilmente cubiertas con tela.
 
 {:.distinction.distinction-warning}
-This method brings the ceiling to a lower level - therefore it cannot be employed in low ceiling rooms.
+Este método lleva el techo a un nivel más bajo, por lo que no puede ser empleado en habitaciones de techo bajo.
 
-They are perfect in traditional tenements and any other high ceiling rooms.
+Son perfectos en las viviendas tradicionales y en cualquier otra habitación de techo alto.
 
 {% fig %}
 ![Why choosing a stretch ceiling?](/uploads/kiedy-warto-wybrac-sufit-napinany.jpg "Why choosing a stretch ceiling?")
 {% endfig %}
 
-### Stretch ceiling - advantages
+### Techo extensible - ventajas
 
-Dropped ceiling made of cloth is very quick to install, which is the main strength of this solution. Other advantages of stretch ceilings are:
+El techo de tela es muy rápido de instalar, lo cual es la principal fortaleza de esta solución. Otras ventajas de los techos tensados son:
 
 {:.list.list-positive}
 
-* **Durability** - stretch ceilings are quite resistant to mechanical damage. Because of this it is one of the most durable designs. They might last even several dozens of years - manufacturers usually offer a 10-year warranty.
-* **Perfect finish** - a stretch ceiling creates a perfectly even surface. It is not possible with traditional finishes. Manufacturers offer a wide range of designs that can be also **customised**. One can choose a uniform surface or a 3D print with a chosen pattern. If you don’t want a smooth finish, you might to choose a fabric ceiling shaped in any form.
-* **Resistance** - fabrics used for stretch ceilings are humidity-, fire- and dust-resistant. If installed well, a dropped ceiling of this type is **waterproof**, therefore the cloth won’t let anything through in case of a leak from the upper level. As many manufacturers claim, depending on the construction, a stretch ceiling is able to hold up to 100 litres of water. Fabrics used in such constructions are **fireproof**.
-* **Acoustic insulation** - a dropped ceiling made of a perforated membrane is able to absorb noise from a room. It is particularly useful in big lecture halls, as well as in private apartments - especially in bedrooms.
-* **Easy to clean** - once installed, a stretch ceiling does not require any special attention. They can be vacuumed and the whole construction allows to take it off, for instance to clean piping system located over it.
+* Durabilidad: los techos extensibles son bastante resistentes a los daños mecánicos. Debido a esto es uno de los diseños más duraderos. Pueden durar incluso varias docenas de años - los fabricantes suelen ofrecer una garantía de 10 años.
+* Acabado perfecto - un techo extensible crea una superficie perfectamente uniforme. No es posible con los acabados tradicionales. Los fabricantes ofrecen una amplia gama de diseños que también pueden ser personalizados. Se puede elegir una superficie uniforme o una impresión en 3D con un patrón elegido. Si no quieres un acabado liso, puedes elegir un techo de tela con cualquier forma.
+* Resistencia: las telas utilizadas para los techos elásticos son resistentes a la humedad, al fuego y al polvo. Si se instala bien, un techo de este tipo es impermeable, por lo tanto la tela no dejará pasar nada en caso de una fuga del nivel superior. Como muchos fabricantes afirman, dependiendo de la construcción, un techo extensible es capaz de soportar hasta 100 litros de agua. Las telas usadas en tales construcciones son a prueba de fuego.
+* Aislamiento acústico - un techo caído hecho de una membrana perforada es capaz de absorber el ruido de una habitación. Es particularmente útil en grandes salas de conferencias, así como en apartamentos privados, especialmente en dormitorios.
+* Fácil de limpiar - una vez instalado, un techo extensible no requiere ninguna atención especial. Se puede aspirar y toda la construcción permite quitarlo, por ejemplo para limpiar el sistema de tuberías situado sobre él.
 
 {% fig %}
 ![Stretch ceiling - advantages](/uploads/sufit-napinany-zalety.jpg "Stretch ceiling - advantages")
 {% endfig %}
 
-### Stretch ceiling - disadvantages
+### Techo extensible - desventajas
 
-Apart from the advantages, every dropped ceiling made of fabric also has its weaknesses. They need to be taken into consideration to be conscious about the limits related to this method.
+Aparte de las ventajas, cada techo caído hecho de tela también tiene sus debilidades. Hay que tenerlas en cuenta para ser consciente de los límites relacionados con este método.
 
 {:.list.list-negative}
 
-* **Problem with sizing** - despite the fact that stretch ceilings are quite versatile, they are not suitable for every type of room. Fabric ceiling might be difficult to evenly fit in spaces of an unusual shape or if walls have many niches and recesses. Although the boards can be adjusted to such conditions, it might be quite costly. Another problem is the fact that maximum size of the cloth is 5 metres. Larger surfaces require using two separate fabrics, which don’t create a perfectly even surface.
-* **Lighting options** - power of lamps used for a stretch ceiling cannot be larger than 40 W. They also have to be protected from heating - high temperature could cause the fabric discolouration.
-* **High price** - the total price obviously depends on the size, chosen material and complexity of the room, however dropped ceiling of this type generally is quite costly. The costs rise along with the project customisation, particular print design and fitting the construction to unusual rooms.
+* Problema con el tamaño: a pesar de que los techos extensibles son bastante versátiles, no son adecuados para todo tipo de habitaciones. Los techos de tela pueden ser difíciles de encajar uniformemente en espacios de forma inusual o si las paredes tienen muchos nichos y huecos. Aunque las tablas pueden ajustarse a tales condiciones, puede ser bastante costoso. Otro problema es el hecho de que el tamaño máximo de la tela es de 5 metros. Las superficies más grandes requieren el uso de dos telas separadas, que no crean una superficie perfectamente uniforme.
+* Las opciones de iluminación - la potencia de las lámparas utilizadas para un techo extensible no puede ser mayor de 40 W. También tienen que ser protegidas del calentamiento - la alta temperatura podría causar la decoloración de la tela.
+* Precio elevado - el precio total depende obviamente del tamaño, el material elegido y la complejidad de la habitación, sin embargo, un techo estirado de este tipo generalmente es bastante costoso. Los costos aumentan junto con la personalización del proyecto, el diseño particular de la impresión y la adaptación de la construcción a habitaciones inusuales.
 
-**Stretched ceiling might be a better idea than a plasterboard.** Its installation is much quicker, requires less materials and less work. Contrary to plasterboard ceilings, solutions involving fabric require hiring a crew of specialists. The cloth is easy to damage during installation.
+Un techo estirado podría ser una mejor idea que una placa de yeso. Su instalación es mucho más rápida, requiere menos materiales y menos trabajo. A diferencia de los techos de yeso, las soluciones con tela requieren la contratación de un equipo de especialistas. La tela es fácil de dañar durante la instalación.
 
-## Stretch ceiling - how is it installed?
+## Techo estirado - ¿cómo se instala?
 
-Stretch ceilings do not require preparing the **main ceiling**. The only thing to be kept in mind is to make sure that nothing (e.g. dust or plaster) fall off it. Walls on which the boards are going to be installed need to be smoothed. The furniture might stay inside during the installation. The room should be warmed up. The minimal temperature is 18°C, while 40°C is the most optimal. If it’s a PVC ceiling, the material needs to be warmed up to 60-70°C before stretching out. **The cloth ceiling** does not require warming up.
+Los techos extensibles no requieren la preparación del techo principal. Lo único que hay que tener en cuenta es asegurarse de que no se caiga nada (por ejemplo, polvo o yeso) de él. Las paredes en las que se van a instalar las tablas deben ser alisadas. Los muebles pueden permanecer en el interior durante la instalación. La habitación debe ser calentada. La temperatura mínima es de 18°C, mientras que 40°C es la más óptima. Si se trata de un techo de PVC, el material debe calentarse hasta 60-70°C antes de estirarse. El techo de tela no necesita calentarse.
 
-Before the structure is installed, the fabric is attached to the corners of the construction with special fasteners. The ceiling is warmed up and attached to the boards installed on the walls. The heat causes the fabric to contract and stretch, creating a smooth and even surface. The last stage is hiding the slits between the boards and the walls.
+Antes de instalar la estructura, la tela se sujeta a las esquinas de la construcción con sujetadores especiales. El techo se calienta y se fija a las tablas instaladas en las paredes. El calor hace que la tela se contraiga y estire, creando una superficie lisa y uniforme. La última etapa consiste en ocultar las ranuras entre las tablas y las paredes.
 
 {% fig %}
 ![Stretch ceiling - how is it installed?](/uploads/sufit-napinany-jak-wyglada-montaz-1.jpg "Stretch ceiling - how is it installed?")
 {% endfig %}
 
-## What is the cost of a stretch ceiling
+## ¿Cuál es el costo de un techo extensible
 
-The price of a dropped ceiling of this type depends on many factors. The most important one is the area of the room. Another important issue is unusual shape of a room, any recesses or niches - all such difficulties contribute to the price growth. Price is also shaped by customisations - used material (PVC or polyester), **selected pattern**, custom print. Lighting is important as well - you can choose a LED strip or a traditional lamp, fit specifically for the purpose of such ceiling.
+El precio de un techo de este tipo depende de muchos factores. El más importante es el área de la habitación. Otra cuestión importante es la forma inusual de una habitación, cualquier hueco o nichos - todas estas dificultades contribuyen al crecimiento de los precios. El precio también está determinado por las personalizaciones - material usado (PVC o poliéster), patrón seleccionado, impresión personalizada. La iluminación también es importante - se puede elegir una tira de LED o una lámpara tradicional, adecuada específicamente para el propósito de dicho techo.
 
-All the mentioned aspects mean that the price of such a project is quite an individual issue. Manufacturers usually offer a basic price, however all individual additions raise the price.
+Todos los aspectos mencionados significan que el precio de un proyecto de este tipo es un asunto bastante individual. Los fabricantes suelen ofrecer un precio básico, sin embargo todas las adiciones individuales aumentan el precio.
 
 {:.distinction.distinction-information}
-**Stretch ceiling** is definitely more expensive than dropped ceiling made of plasterboard. Despite that fact you should consider choosing this solution, for instance because of its high durability.
+El techo estirado es definitivamente más caro que el techo caído hecho de yeso. A pesar de ello, deberías considerar la elección de esta solución, por ejemplo por su alta durabilidad.
 
-This type of dropped ceiling is quite different than traditional methods. Its biggest advantage is the fact that it is a great decoration. You can choose from a lot of pattern that will help you to create an impressive ceiling. Considering all the advantages, a stretch ceiling might be worth its price.
+Este tipo de techo falso es bastante diferente a los métodos tradicionales. Su mayor ventaja es el hecho de que es una gran decoración. Puedes elegir entre muchos patrones que te ayudarán a crear un techo impresionante. Teniendo en cuenta todas las ventajas, un techo estirado podría valer su precio.
 
 ## Dropped ceiling - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-How to drape a ceiling with fabric?
+¿Cómo cubrir un techo con tela?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-To decorate a ceiling, you need a large piece of cloth, staple gun, scissors, and a ladder. First staple the fabric to the centre of the ceiling and then attach the corners. Cut off any excess material.
+Para decorar un techo, se necesita un gran trozo de tela, una grapadora, unas tijeras y una escalera. Primero grapa la tela en el centro del techo y luego sujeta las esquinas. Corta cualquier exceso de material.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to hang fabric from ceiling?
+¿Cómo se cuelga la tela del techo?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-You might either attach the fabric to the lamp located in the centre of the room or just staple it to the ceiling. Several long strips of cloth are easier to attach than one large piece.
+Puedes unir la tela a la lámpara situada en el centro de la habitación o simplemente graparla al techo. Varias tiras largas de tela son más fáciles de sujetar que una pieza grande.
 {% endfaqAnswer %}
 {% endfaqItem %}
