@@ -1,152 +1,153 @@
 ---
 layout: post
-date: 2020-01-08
+date: 2020-07-18
 toc: true
-title: Wood Panel Wall - Check Best Ideas on How to Paint Wood Paneling
-description: 'Want to refresh your home interior design? Even small changes can make
-  a difference! Learn how to easily paint wood paneling Find the best method! '
+title: Holztafelwand - Prüfen Sie die besten Ideen zum Streichen von Holzverkleidungen
+description: 'Möchten Sie Ihre Inneneinrichtung auffrischen? Selbst kleine Änderungen
+  können einen Unterschied machen! Erfahren Sie, wie Sie Holzverkleidungen einfach
+  streichen können Finden Sie die beste Methode! '
 image: "/uploads/malowanie-boazerii-jak-pomalowac-boazerie-aby-dobrze-wygladala.jpg"
 promoted: true
-update_date: 2020-04-02
-intro: Wood paneling was a very popular interior design element of 1970s and 1980s.
-  It was cheap and relatively quick to instal. Such decoration still remains in many
-  apartments. Many homeowners decide to get rid of this element completely. There
-  is, however, another solution, not only quicker, but more importantly - less expensive.
-  Instead of removing the boards, you can simply change their colour. Painted paneling
-  looks quite impressive. It is a good way for a quick metamorphosis - all you need
-  is a good paint.
+update_date: 2020-07-18
+intro: Holzverkleidungen waren in den 1970er und 1980er Jahren ein sehr beliebtes
+  Element der Innenarchitektur. Es war billig und relativ schnell zu installieren.
+  Eine solche Dekoration ist noch immer in vielen Wohnungen erhalten. Viele Hausbesitzer
+  beschließen, dieses Element vollständig loszuwerden. Es gibt jedoch eine andere
+  Lösung, die nicht nur schneller, sondern vor allem kostengünstiger ist. Anstatt
+  die Bretter zu entfernen, können Sie einfach ihre Farbe ändern. Eine lackierte Verkleidung
+  sieht recht beeindruckend aus. Es ist eine gute Möglichkeit für eine schnelle Metamorphose
+  - alles, was Sie brauchen, ist eine gute Farbe.
 main_keywords:
-- wood paneling
-- wood panel
-- wood wall paneling
-- 'wood panel wall '
-- painting paneling
-- painted paneling
-- painted wood paneling
-- how to paint wood paneling
-published: false
+- Holzverkleidung
+- Holzplatte
+- Wandverkleidung aus Holz
+- 'Holztafel-Wand '
+- Gemälde-Täfelung
+- bemalte Vertäfelung
+- bemalte Holzverkleidung
+- wie man Holzverkleidungen streicht
 
 ---
-## Why painting a wood paneling?
+## Warum eine Holzvertäfelung streichen?
 
-Wood paneling was one of the **biggest trends of interior design** during the last century. Natural wood boards were installed on walls in halls, kitchens and living rooms. Nowadays, however, wood paneling is considered old-fashioned.
+Holzvertäfelungen waren im letzten Jahrhundert einer der größten Trends in der Innenarchitektur. Naturholzplatten wurden an Wänden in Fluren, Küchen und Wohnzimmern angebracht. Heutzutage gelten Holzvertäfelungen jedoch als altmodisch.
 
-Typical for such walls dark shades of brown are simply overwhelming and make an interior look smaller. Many homeowners remove those elements when **renovating a room**. It might be, however, a time consuming and costly task. The uncovered walls are often damaged, uneven and scratched and might require further, usually costly improvements. Are there any ways that will help you liquidate ugly wood wall? Of course - it's simpler than you think.
+Typisch für solche Wände sind dunkle Brauntöne, die einfach überwältigend sind und einen Innenraum kleiner erscheinen lassen. Viele Hausbesitzer entfernen diese Elemente bei der Renovierung eines Raumes. Dies kann jedoch eine zeitaufwändige und kostspielige Aufgabe sein. Die nicht verkleideten Wände sind oft beschädigt, uneben und zerkratzt und erfordern möglicherweise weitere, meist kostspielige Verbesserungen. Gibt es Möglichkeiten, die Ihnen helfen, hässliche Holzwände zu beseitigen? Natürlich - es ist einfacher, als Sie denken.
 
 {:.distinction.distinction-information}
 
-Wood paneling is **becoming popular again**. For this reason the boards are quite often left on walls and painted to new, brighter colours. The contemporary interior design styles favour such solution. Scandinavian style, for instance, combines natural materials and simplicity, so painted wooden boards will be perfect in this case.
+Holzverkleidungen werden wieder populär. Aus diesem Grund werden die Platten nicht selten an den Wänden belassen und in neuen, helleren Farben gestrichen. Der zeitgenössische Einrichtungsstil begünstigt eine solche Lösung. Der skandinavische Stil zum Beispiel kombiniert natürliche Materialien und Schlichtheit, so dass bemalte Holzplatten in diesem Fall perfekt sind.
 
-Painting wall paneling is very easy and quick to do. **Refreshed wall boards** in a new colour might be an interesting element in a contemporary apartment.
+Das Streichen von Wandverkleidungen ist sehr einfach und schnell zu bewerkstelligen. Erfrischte Wandverkleidungen in einer neuen Farbe könnten ein interessantes Element in einer zeitgenössischen Wohnung sein.
 
-## Choosing the right paint for wood paneling
+## Auswahl der richtigen Farbe für Holzverkleidungen
 
-The previous era favoured brown and dark coloured boards. The wood paneling was usually coated only with varnish or wood stain. Such **interior design** does not fit the contemporary standards. It is far too dark and too heavy, especially if boards cover not only walls but also the ceiling.
+Die vorangegangene Ära bevorzugte braune und dunkel gefärbte Bretter. Die Holzvertäfelung wurde meist nur mit Lack oder Holzbeize beschichtet. Eine solche Inneneinrichtung entspricht nicht den heutigen Standards. Sie ist viel zu dunkel und zu schwer, besonders wenn die Bretter nicht nur die Wände, sondern auch die Decke bedecken.
 
-Having that in mind, **painting wood panels with a light paint** is a good idea to make the interior bigger and brighter.
+Vor diesem Hintergrund ist die Bemalung der Holzpaneele mit einer hellen Farbe eine gute Idee, um den Innenraum größer und heller zu gestalten.
 
 {% fig %}
 ![Choosing the right paint for wood paneling](/uploads/odpowiednia-farba-do-boazerii-to-podstawa.jpg "Choosing the right paint for wood paneling")
 {% endfig %}
 
-To achieve the best results when renovating wood paneling, one should pick the right paint. Some of the available products that should work well for **painting wood wall paneling** are:
+Um bei der Renovierung von Holzverkleidungen die besten Ergebnisse zu erzielen, sollte man die richtige Farbe wählen. Einige der verfügbaren Produkte, die sich gut zum Streichen von Holzwandtäfelungen eignen sollten, sind
 
 {:.list.list-positive}
 
-* **Wood and metal acrylic paint** - it is thinned with water and therefore does not generate unpleasant smell. Such products are safe for health and dry pretty fast. The final layer is smooth and solid.
-* **Typical wood products** - varnish, wax and oil for wood is a good solution if you want to keep the natural looks of the wood. If you want the wood paneling to have a certain colour, use a coloured wood stain.
-* **Chalk paint** - products of this type dries very quick and are very safe to use. A big advantage is wide variety of pastel colours that will result in an interesting finish of the boards. Using chalk paint on wood paneling means covering the natural wood lines completely.
+* Holz- und Metall-Acrylfarbe - sie wird mit Wasser verdünnt und erzeugt daher keinen unangenehmen Geruch. Solche Produkte sind gesundheitlich unbedenklich und trocknen ziemlich schnell. Die Endschicht ist glatt und fest.
+* Typische Holzprodukte - Lack, Wachs und Öl für Holz ist eine gute Lösung, wenn Sie das natürliche Aussehen des Holzes erhalten wollen. Wenn Sie möchten, dass die Holzverkleidung eine bestimmte Farbe hat, verwenden Sie eine farbige Holzbeize.
+* Kreidefarbe - Produkte dieser Art trocknen sehr schnell und sind sehr sicher in der Anwendung. Ein großer Vorteil ist die große Vielfalt an Pastellfarben, die zu einer interessanten Oberfläche der Platten führt. Kreidefarbe auf Holzverkleidungen zu verwenden bedeutet, die natürlichen Holzlinien vollständig zu überdecken.
 
-## How to paint wood paneling? Step by step
+## Wie lackiert man Holzverkleidungen? Schritt für Schritt
 
-**Painting wood paneling is not a complicated task.** You should finish the work by one afternoon. Such renovation usually does not take more than one weekend. Having chosen the right product for your wood panel wall, one should prepare accordingly. The result highly depends on the proper preparation. If you prepare everything properly, painting paneling will be less frustrating for you. You will also save your time.
+Das Bemalen von Holzverkleidungen ist keine komplizierte Aufgabe. Sie sollten die Arbeit bis zu einem Nachmittag abgeschlossen haben. Eine solche Renovierung dauert in der Regel nicht länger als ein Wochenende. Nachdem man das richtige Produkt für Ihre Holzverkleidungswand gewählt hat, sollte man sich entsprechend vorbereiten. Das Ergebnis hängt stark von der richtigen Vorbereitung ab. Wenn Sie alles richtig vorbereiten, wird das Streichen der Vertäfelung weniger frustrierend für Sie sein. Sie werden auch Ihre Zeit sparen.
 
 {% fig %}
 ![How to paint wood paneling? Step by step](/uploads/jak-pomalowac-boazerie-krok-po-kroku_1.jpg "How to paint wood paneling? Step by step")
 {% endfig %}
 
-### Preparing the surface
+### Vorbereiten der Oberfläche
 
-Before you can **cover your wood paneling** with paint, you should pay attention to its surface. The boards shall be cleaned from dirt and dust. The old layers of paint and varnish must be thoroughly sanded - this way the fresh paint will stick better to the surface.
+Bevor Sie Ihre Holzverkleidung mit Farbe bedecken können, sollten Sie auf die Oberfläche achten. Die Platten sind von Schmutz und Staub zu reinigen. Die alten Farb- und Lackschichten müssen gründlich abgeschliffen werden - auf diese Weise haftet die frische Farbe besser an der Oberfläche.
 
-**Sanding the old surface** is essential if you want to keep the natural look of the wood. If the old layers peel and fall off the surface, they need to be removed completely by thorough sanding. Otherwise just smoothening the boards is enough.
+Das Abschleifen der alten Oberfläche ist unerlässlich, wenn Sie das natürliche Aussehen des Holzes erhalten wollen. Wenn die alten Schichten abblättern und von der Oberfläche abfallen, müssen sie durch gründliches Schleifen vollständig entfernt werden. Ansonsten genügt es, die Bretter einfach nur zu glätten.
 
-To **smoothen or clean** the boards use coarse sanding paper. For large surfaces, it is good to use a disc grinder (polishing machine). Under no circumstance use wire brushes, as they could seriously damage the wooden surface of the boards.
+Verwenden Sie zum Glätten oder Reinigen der Bretter grobes Schleifpapier. Bei großen Flächen ist es gut, einen Tellerschleifer (Poliermaschine) zu verwenden. Verwenden Sie auf keinen Fall Drahtbürsten, da diese die Holzoberfläche der Bretter ernsthaft beschädigen könnten.
 
-After finishing the sanding, the room should be thoroughly vacuumed. **Wipe the wood paneling with a damp cloth** to remove dust from them. Any dents and holes should be filled with wood adhesive.
+Nach Beendigung des Schleifvorgangs sollte der Raum gründlich abgesaugt werden. Wischen Sie die Holzverkleidungen mit einem feuchten Tuch ab, um sie von Staub zu befreien. Eventuelle Dellen und Löcher sollten mit Holzkleber ausgefüllt werden.
 
-### Painting wood paneling - where to start?
+### Holzverkleidungen streichen - wo soll man anfangen?
 
-One of the most important matters when **painting wood paneling** is following the paint manufacturer’s instructions. When using acrylic paint, it is advised to apply a wood primer beforehand. Such product **protects the wood paneling**, reduces the paint absorption and improves its adhesion to the surface. It is best to choose a product from the same manufacturer as the paint you are going to use for your wood paneling.
+Einer der wichtigsten Punkte beim Bemalen von Holzverkleidungen ist die Einhaltung der Anweisungen des Farbenherstellers. Bei der Verwendung von Acrylfarbe wird empfohlen, vorher eine Holzgrundierung aufzutragen. Ein solches Produkt schützt die Holzverkleidung, reduziert die Farbaufnahme und verbessert die Haftung auf der Oberfläche. Wählen Sie am besten ein Produkt desselben Herstellers wie die Farbe, die Sie für Ihre Holzverkleidung verwenden wollen.
 
-You may start **painting the wood paneling** right after the primer dries.
+Sie können gleich nach dem Trocknen der Grundierung mit dem Anstrich der Holzverkleidung beginnen.
 
 {:.distinction.distinction-warning}
 
-If the boards are narrow, a small brush will suffice; to paint wider paneling, use a paint roller.
+Wenn die Bretter schmal sind, reicht ein kleiner Pinsel aus; zum Streichen breiterer Bretter verwenden Sie einen Farbroller.
 
-**The paint dries quickly** - you can apply the next layers approximately after an hour. Wood paneling requires 2-3 layers of paint.
+Die Farbe trocknet schnell - die nächsten Schichten können Sie etwa nach einer Stunde auftragen. Für Holzverkleidungen sind 2-3 Farbschichten erforderlich.
 
-### How to paint wood paneling without sanding the surface?
+### Wie streicht man Holzverkleidungen, ohne die Oberfläche zu schleifen?
 
-**Sanding the wood paneling** is time consuming and removing the old layers of paint or varnish might be quite difficult. It is possible, however, to paint wood paneling without the necessity of smoothing the boards. In such a case it is best to use chalk paint, as it sticks well to every type of surface. Such paint dries substantially quicker than other types - in most cases one can apply another layer after 20 minutes.
+Das Schleifen der Holzverkleidung ist zeitaufwändig, und das Entfernen der alten Farb- oder Lackschichten könnte recht schwierig sein. Es ist jedoch möglich, Holzvertäfelungen zu streichen, ohne dass die Bretter geglättet werden müssen. In einem solchen Fall ist es am besten, Kreidefarbe zu verwenden, da sie auf jeder Art von Oberfläche gut haftet. Solche Farbe trocknet wesentlich schneller als andere Typen - in den meisten Fällen kann man nach 20 Minuten eine weitere Schicht auftragen.
 
 {:.distinction.distinction-information}
 
-Chalk paint used for wood paneling is useful if you plan to distress the wooden boards. After using the paint remember to cover your paneling with a protective layer of varnish or wax.
+Kreidefarbe, die für Holzverkleidungen verwendet wird, ist nützlich, wenn Sie planen, die Holzbretter zu beschädigen. Nach der Verwendung der Farbe denken Sie daran, Ihre Täfelung mit einer Schutzschicht aus Lack oder Wachs zu bedecken.
 
-## Painted wood paneling - white or colour?
+## Bemalte Holzverkleidung - weiß oder farbig?
 
-The most popular choice for **restoring wood paneling** is white. Such colour fits plenty of styles, for instance scandinavian, minimalist or rustic. If you find white too cold, it is good to choose pastel colours, such as light blue, beige or cream.
+Die beliebteste Wahl für die Restaurierung von Holzverkleidungen ist weiß. Diese Farbe passt zu vielen Stilen, zum Beispiel skandinavisch, minimalistisch oder rustikal. Wenn Ihnen Weiß zu kalt ist, ist es gut, Pastellfarben zu wählen, wie zum Beispiel Hellblau, Beige oder Creme.
 
-Bright colours are perfect for enlightening a room and making it visually bigger. Such shades are the best choice for narrow hallways and foyers. This is where you can most often find wood paneling on the wall. Painting paneling gives a lot of possibilities in this case. The home interior design will look really good.
+Helle Farben sind perfekt, um einen Raum zu erhellen und ihn optisch zu vergrößern. Solche Farbtöne sind die beste Wahl für enge Gänge und Foyers. Hier finden Sie am häufigsten Holzverkleidungen an der Wand. Täfelungen für Malerarbeiten bieten in diesem Fall viele Möglichkeiten. Die Inneneinrichtung des Hauses wird wirklich gut aussehen.
 
 {% fig %}
 ![Painted wood paneling - white or colour?](/uploads/malowanie-boazerii-na-bialo-czy-na-kolor.jpg "Painted wood paneling - white or colour?")
 {% endfig %}
 
-**Strong colours** work best in spacious and well illuminated interiors. For such rooms you can use for instance dark blue or green colours. Choose them, however, very carefully, as it is easy to overwhelm the interior with too dark shades. If you decided to use a single colour it is a good idea to mix its various tones. It look particularly interesting with matte finishes.
+Kräftige Farben wirken am besten in geräumigen und gut beleuchteten Innenräumen. Für solche Räume können Sie zum Beispiel dunkelblaue oder grüne Farben verwenden. Wählen Sie diese jedoch sehr sorgfältig aus, da es leicht möglich ist, den Innenraum mit zu dunklen Farbtönen zu überdecken. Wenn Sie sich für eine einzige Farbe entschieden haben, ist es eine gute Idee, die verschiedenen Farbtöne zu mischen. Besonders interessant sieht es bei matten Oberflächen aus.
 
-Painting wood paneling is not a difficult task, therefore it is worth trying. Such solution might be better than removing the old boards. A good paint will refresh your wood panel wall, making it a stylish home decoration. If you consider painting wood paneling, make sure you pick the right colour, which accentuates the whole interior.
+Das Bemalen von Holzverkleidungen ist keine schwierige Aufgabe, daher ist es einen Versuch wert. Eine solche Lösung könnte besser sein, als die alten Bretter zu entfernen. Ein guter Anstrich frischt Ihre Holzpaneelwand auf und macht sie zu einer stilvollen Heimdekoration. Wenn Sie erwägen, Holzverkleidungen zu streichen, achten Sie darauf, dass Sie die richtige Farbe wählen, die das gesamte Interieur akzentuiert.
 
 ## Wood panel wall - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-How to paint over wood paneling?
+Wie übermalt man Holzverkleidungen?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-After choosing the right paint, prepare the surface by sanding or smoothing it. When painting, follow the paint manufacturer’s instructions carefully. Remember to keep all the surfaces clean and undusted.
+Nachdem Sie die richtige Farbe gewählt haben, bereiten Sie die Oberfläche durch Schleifen oder Glätten vor. Befolgen Sie beim Malen sorgfältig die Anweisungen des Farbherstellers. Denken Sie daran, alle Oberflächen sauber und staubfrei zu halten.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to paint wood paneling with grooves?
+Wie lackiert man Holzverkleidungen mit Rillen?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-If you want to hide the grooves on your wood paneling, you should fill them with joint compound. Then sand the surface until smooth and paint it. You might also leave the grooves and simply paint the planks to change their colour.
+Wenn Sie die Fugen auf Ihrer Holzverkleidung verbergen wollen, sollten Sie diese mit Fugenmasse ausfüllen. Dann schleifen Sie die Oberfläche glatt und streichen sie an. Sie können auch die Rillen belassen und die Dielen einfach streichen, um ihre Farbe zu ändern.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to make wood paneling look modern?
+Wie kann man Holzverkleidungen modern aussehen lassen?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-If the paneling is dark, paint it in bright colours, for instance white. Seek inspiration in modern styles, such as scandinavian or minimalist.
+Wenn die Verkleidung dunkel ist, streichen Sie sie in hellen Farben, zum Beispiel weiß. Lassen Sie sich von modernen Stilen inspirieren, z. B. skandinavisch oder minimalistisch.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to cover wood paneling?
+Wie werden Holzverkleidungen abgedeckt?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-To completely hide wood paneling, fill the grooves with joint compound and smoothen it once it’s dry. If done properly, painted wood paneling should look no different than a solid wall.
+Um die Holzverkleidung vollständig zu verdecken, füllen Sie die Fugen mit Fugenmasse und glätten Sie sie nach dem Trocknen. Bei richtiger Ausführung sollte die gestrichene Holzverkleidung nicht anders aussehen als eine massive Wand.
 {% endfaqAnswer %}
 {% endfaqItem %}
