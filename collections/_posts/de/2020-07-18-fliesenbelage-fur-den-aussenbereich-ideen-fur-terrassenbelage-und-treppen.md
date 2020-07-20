@@ -1,17 +1,18 @@
 ---
 layout: post
-date: 2020-01-08
+date: 2020-07-18
 toc: true
-title: Outside Tile Flooring - Ideas for Patio Flooring and Stairs
-description: "Choosing outdoor tile flooring? \U0001F3E0 Check, what should you pay
-  attention to. ➡️ Learn, what type of outdoor tile is the best for patio and stairs."
+title: Fliesenbeläge für den Außenbereich - Ideen für Terrassenbeläge und Treppen
+description: "Sie entscheiden sich für einen Fliesenboden für den Außenbereich? \U0001F3E0
+  Prüfen Sie, worauf Sie achten sollten. ➡️ Informieren Sie sich, welche Art von Außenfliesen
+  sich am besten für Terrassen und Treppen eignet."
 image: "/uploads/plytki-na-schody-zewnetrzne-to-nie-taki-prosty-wybor-min-1.jpg"
-intro: Tile flooring is one of the most popular patio floor ideas. Appearance of the
-  tiles is usually the most important aspect for homeowners designing their flooring.
-  However it is worth paying attention to other issues, as they are as important as
-  the looks. Tile flooring should combine both pleasing aesthetics and good strength
-  so it can last for a long time.
-update_date: 2020-06-16
+intro: Der Fliesenboden ist eine der beliebtesten Ideen für Terrassenböden. Das Aussehen
+  der Fliesen ist normalerweise der wichtigste Aspekt für Hausbesitzer, die ihren
+  Bodenbelag gestalten. Es lohnt sich jedoch, auf andere Aspekte zu achten, da sie
+  ebenso wichtig sind wie das Aussehen. Ein Fliesenboden sollte sowohl eine ansprechende
+  Ästhetik als auch eine gute Festigkeit aufweisen, damit er lange halten kann.
+update_date: 2020-07-18
 promoted: false
 main_keywords:
 - Fliesenbelag
@@ -22,47 +23,46 @@ main_keywords:
 - Fliesen für den Außenbereich
 - wie man Fliesenbeläge verlegt
 - wie man Fliesenbeläge entfernt
-published: false
 
 ---
-## Outside steps tile flooring - which outdoor tiles are the best
+## Fliesenbelag für Außentreppen - welche Außenfliesen die besten sind
 
-Finishing outside stairs is an important aspect of house construction. There is no difference whether you finish patio stairs or steps leading to the main entrance. Both are representative elements of a house - therefore they should combine good appearance with proper functionality.
+Die Fertigstellung von Außentreppen ist ein wichtiger Aspekt des Hausbaus. Es macht keinen Unterschied, ob Sie Terrassentreppen oder Stufen, die zum Haupteingang führen, fertigstellen. Beide sind repräsentative Elemente eines Hauses - deshalb sollten sie gutes Aussehen mit richtiger Funktionalität verbinden.
 
-### Outside stairs - perfect tile flooring for your house
+### Außentreppen - der perfekte Fliesenboden für Ihr Haus
 
-Before choosing outdoor tiles for your stairs, take a look around and notice the rest of the elements of your house. Those are your markers - they should match the tile flooring and the steps. For your stairs you should choose materials that are similar to the columns on your porch, windowsills, plinths and quoins. You can also match the outside stairs with paths and patios around the building. Make sure that the tile flooring fits the general style of the house.
+Bevor Sie Außenfliesen für Ihre Treppe wählen, schauen Sie sich um und beachten Sie die übrigen Elemente Ihres Hauses. Das sind Ihre Markierungen - sie sollten zum Fliesenbelag und zu den Stufen passen. Für Ihre Treppe sollten Sie Materialien wählen, die den Säulen auf Ihrer Veranda, Fensterbänken, Sockeln und Sockeln ähneln. Sie können die Außentreppe auch mit den Wegen und Innenhöfen rund um das Gebäude kombinieren. Achten Sie darauf, dass der Fliesenboden zum allgemeinen Stil des Hauses passt.
 
 {:.distinction.distinction-information}
-Ceramic and sandstone tiles are perfect for traditional styles, such as rustic. For more elegant buildings granite tile flooring is better, as it highlights the style. If your house was designed in a modern style, porcelain tiles might be a good choice for their simplistic form.
+Keramik- und Sandsteinfliesen eignen sich perfekt für traditionelle Stile, wie zum Beispiel rustikal. Für elegantere Gebäude ist ein Granitfliesenboden besser geeignet, da er den Stil unterstreicht. Wenn Ihr Haus in einem modernen Stil gestaltet wurde, könnten Porzellanfliesen aufgrund ihrer schlichten Form eine gute Wahl sein.
 
-### Outdoor stairs tile flooring - the most important issues
+### Fliesenbeläge für Außentreppen - die wichtigsten Themen
 
-Apart from the appearance, outside floor tiling material should contain several features that decide on their durability. You should pay attention to aspects such as:
+Abgesehen vom Aussehen sollten Bodenfliesen für den Außenbereich mehrere Merkmale aufweisen, die über ihre Haltbarkeit entscheiden. Sie sollten unter anderem auf folgende Aspekte achten:
 
 {:.list.list-positive}
 
-* **Water absorption** - firm structure of the material ensures that a tile is not easily damaged. Floor tiling that quickly absorbs water tends to crack and break if placed outside. For this reason you should choose tiles of as low as possible water absorption rate.
-* **Slip resistance** - this parameter is marked by an “R” letter. Nonslippery tile flooring range from R9 to R13. Materials below R9 are slippery and they shouldn’t be used outside. For outside stairs, you should choose R11-R13 tiles. You can also purchase tiles with diagonal channels for additional protection from slipping.
-* **Frost resistance** - protection from low temperatures. Manufacturers mark it with a snowflake symbol.
-* **Abrasion resistance** - outside tile flooring is usually used quite intensely. The material should be resistant to abrasion. Tiles for outside steps should be classified as type 4 or 5.
-* **Hardness** - outside tile flooring should be resistant to mechanical damage. Tiles classified as 7 or 8 on the scale of hardness are the strongest. They are highly resistant to scratching and breaking.
+* Wasseraufnahme - die feste Struktur des Materials gewährleistet, dass eine Fliese nicht leicht beschädigt werden kann. Bodenfliesen, die schnell Wasser absorbieren, neigen zu Rissen und Brüchen, wenn sie im Freien verlegt werden. Aus diesem Grund sollten Sie Fliesen mit einer möglichst geringen Wasserabsorptionsrate wählen.
+* Rutschfestigkeit - dieser Parameter ist mit einem "R"-Buchstaben gekennzeichnet. Rutschhemmende Fliesenbeläge reichen von R9 bis R13. Materialien unter R9 sind rutschig und sollten im Außenbereich nicht verwendet werden. Für Außentreppen sollten Sie Fliesen mit R11-R13 wählen. Sie können auch Fliesen mit diagonalen Kanälen als zusätzlichen Schutz gegen Ausrutschen erwerben.
+* Frostbeständigkeit - Schutz vor niedrigen Temperaturen. Die Hersteller kennzeichnen sie mit einem Schneeflockensymbol.
+* Abriebfestigkeit - Fliesenbeläge für den Außenbereich werden in der Regel sehr intensiv genutzt. Das Material sollte abriebfest sein. Fliesen für Außentreppen sollten als Typ 4 oder 5 klassifiziert werden.
+* Härte - Fliesenböden für den Außenbereich sollten widerstandsfähig gegen mechanische Beschädigungen sein. Fliesen, die auf der Härteskala als 7 oder 8 klassifiziert werden, sind am härtesten. Sie sind sehr widerstandsfähig gegen Kratzer und Bruch.
 
 {% fig %}
 ![Outdoor stairs tile flooring - the most important issues](/uploads/plytki-schodowe-zewnetrzne-najwazniejsze-wlasciwosci.jpg "Outdoor stairs tile flooring - the most important issues")
 {% endfig %}
 
-## What outdoor stairs tile flooring is the best?
+## Welcher Fliesenboden für Außentreppen ist der beste?
 
-There are plenty of materials that can be used for tiling stairs. Particular products differ from each other by appearance, features and price. Before choosing the right tiles, one should take every aspect into consideration.
+Es gibt eine Vielzahl von Materialien, die für das Fliesen von Treppen verwendet werden können. Bestimmte Produkte unterscheiden sich voneinander durch Aussehen, Eigenschaften und Preis. Bevor man die richtigen Fliesen auswählt, sollte man jeden Aspekt in Betracht ziehen.
 
 {:.list}
 
-* **Ceramic tiles** - one of the most commonly chosen materials. Ceramic tiles are quite durable. They are highly resistant to abrasion and water absorption, and they can endure very low temperatures as well as extreme weather conditions. Unglazed ceramic tiles are good to use in places that are not very exposed, such as basement stairs. For tile flooring in front of the building, it is better to choose better looking glazed or porcelain tiles.
-* **Clinker** - such tiles are made of clay and sand. **Clinker tiles** are very attractive, as they resemble bricks. They are very good for rustic or industrial style. The method of their production is firing them in high temperature, which makes them very durable. Clinker is **resistant to frost and mechanical damage** and tiles made of this material are non-slippery. They can be used for outdoor tile flooring, as well as for facades.
+* Keramikfliesen - eines der am häufigsten gewählten Materialien. Keramische Fliesen sind recht langlebig. Sie sind sehr widerstandsfähig gegen Abrieb und Wasseraufnahme, und sie können sehr niedrige Temperaturen sowie extreme Witterungsbedingungen aushalten. Unglasierte Keramikfliesen sind an wenig exponierten Stellen, wie z.B. Kellertreppen, gut zu verwenden. Für Fliesenbeläge vor dem Gebäude ist es besser, besser aussehende glasierte oder Porzellanfliesen zu wählen.
+* Klinker - solche Fliesen werden aus Ton und Sand hergestellt. Klinkerfliesen sind sehr attraktiv, da sie Ziegelsteinen ähneln. Sie eignen sich sehr gut für rustikalen oder industriellen Stil. Die Methode ihrer Herstellung ist das Brennen bei hoher Temperatur, was sie sehr haltbar macht. Klinker ist widerstandsfähig gegen Frost und mechanische Beschädigungen, und Ziegel aus diesem Material sind rutschfest. Sie können sowohl für Fliesenbeläge im Außenbereich als auch für Fassaden verwendet werden.
 
 {:.distinction.distinction-warning}
-A big disadvantage of this material is its low resistance to dirt. For this reason clinker surfaces need to be cleaned regularly.
+Ein großer Nachteil dieses Materials ist sein geringer Widerstand gegen Schmutz. Aus diesem Grund müssen Klinkeroberflächen regelmäßig gereinigt werden.
 
 {% fig %}
 ![What outdoor stairs tile flooring is the best?](/uploads/jakie-plytki-na-schody-zewnetrzne-wybrac.jpg "What outdoor stairs tile flooring is the best?")
@@ -70,34 +70,36 @@ A big disadvantage of this material is its low resistance to dirt. For this reas
 
 {:.list}
 
-* **Granite** - one of the most durable materials for tile flooring. It is resistant to abrasion, moisture, dirt and low and high temperatures. Granite has many colours and is very elegant. It has many textures, therefore you can choose the right type for your purpose. Granite floor tiling is long lasting and very aesthetic.
-* **Sandstone** - tiles made of this material are far less resistant than granite. Pay attention to the hardness when choosing such product, as there are various types of sandstone. Some types easily absorb water and break quickly. Sandstone tile flooring for stairs are non-slippery.
-* **Travertine** - it is a naturally coarse material and the tiles made of it are anti-slippery. Travertine is not very durable, and it can be easily scratched. To prevent this, such tile flooring should be **coated with a layer of resin**.
-
-{:.distinction.distinction-information} Apart from tile flooring, you might consider using other materials for outdoor flooring. Paving stones are good alternative as they are cheaper than tiles and resistant to damage and abrasion. You shouldn’t, however, use paving stone flooring if there is other material on the patio or the path by the stairs. It would look unaesthetic.
-
-## How to install outdoor tiles on stairs?
-
-Laying floor tiles by yourself is not very difficult. It is important to choose tiles with the right qualities. If laid properly, the tiles will last for a long time without damage. When tiling the stairs, remember about a few issues:
-
-{:.list.list-positive}
-
-* Choose tiles that were **produced particularly for the purpose of covering steps**. Elements included in such sets are easier to install and the overall appearance of the stairs is better.
-* If you have to cut the tiles, cut only those that you plan to place on the edges of the stairs. Such procedure helps to **keep the symmetry** of the stairs and the cuts are less visible. The steps look more elegant.
-* Before beginning the process of laying tile floor make sure that the steps have correct slope. It is important that the water flows down - if it stayed on the surface, it would damage it. If you notice that the stairs do not have the proper slope, you need to fix it using spackling paste. **The correct stair slope is 1-2%**.
-* Make sure that the surface is **even and clean**. To increase the grip and lower the water absorption, prime the surface.
-* Before you can install the tiles, you should waterproof the stairs. To do this, cover them with two layers of sealing plaster.
-* The adhesive should be intended **specifically for tiles**. It should be frost- and water-resistant.
-* Start working from **the highest step** and proceed downwards. Begin with horizontal tiles and finish with the vertical layer.
-* You can **grout** the tiles after 2-3 days from laying them. Make sure the grout is of the same brand as the glue. Such products work better with each other than the ones from different brands.
-
-## Outdoor tile for stairs - what should you avoid?
-
-**The most common mistake** that you can make when choosing outdoor tile for stairs is paying attention only to how the tiles look. Aesthetics is, of course, an important aspect which affects the looks of the whole building. Do not forget, however, that a house entrance is the most used spot of its surroundings. That is why the durability of the outdoor tile is so important. **Another, equally significant issue is the practicality.** Avoid deeply carved patio tiles. They are much more prone to damage.
+* Granit - eines der haltbarsten Materialien für Fliesenbeläge. Er ist widerstandsfähig gegen Abrieb, Feuchtigkeit, Schmutz sowie niedrige und hohe Temperaturen. Granit hat viele Farben und ist sehr elegant. Er hat viele Texturen, daher können Sie den richtigen Typ für Ihren Zweck wählen. Granitbodenfliesen sind langlebig und sehr ästhetisch.
+* Sandstein - Fliesen aus diesem Material sind weit weniger widerstandsfähig als Granit. Achten Sie bei der Wahl eines solchen Produkts auf die Härte, da es verschiedene Sandsteinarten gibt. Einige Arten nehmen leicht Wasser auf und brechen schnell. Sandstein - Fliesenböden für Treppen sind rutschfest.
+* Travertin - es ist ein von Natur aus grobes Material und die daraus hergestellten Fliesen sind rutschfest. Travertin ist nicht sehr haltbar, und er kann leicht zerkratzt werden. Um dies zu verhindern, sollten solche Fliesenbeläge mit einer Harzschicht überzogen werden.
 
 {:.distinction.distinction-information}
 
-If ornamental outdoor tile is a must for you, choose patio tiles with an interesting colour pattern.
+Abgesehen von Fliesenfußböden können Sie auch andere Materialien für Bodenbeläge im Außenbereich verwenden. Pflastersteine sind eine gute Alternative, da sie billiger als Fliesen und widerstandsfähig gegen Beschädigung und Abrieb sind. Sie sollten jedoch keinen Pflastersteinbelag verwenden, wenn sich auf der Terrasse oder dem Weg bei der Treppe anderes Material befindet. Es würde unästhetisch aussehen.
+
+## Wie verlegt man Außenfliesen auf einer Treppe?
+
+Bodenfliesen selbst zu verlegen ist nicht sehr schwierig. Es ist wichtig, Fliesen mit den richtigen Eigenschaften auszuwählen. Wenn sie richtig verlegt werden, halten die Fliesen lange Zeit ohne Beschädigung. Denken Sie beim Fliesen der Treppe an ein paar Punkte:
+
+{:.list.list-positive}
+
+* Wählen Sie Fliesen, die speziell zum Zweck der Abdeckung von Stufen hergestellt wurden. Elemente, die in solchen Sets enthalten sind, sind einfacher zu verlegen und das Gesamterscheinungsbild der Treppe ist besser.
+* Wenn Sie die Fliesen zuschneiden müssen, schneiden Sie nur diejenigen zu, die Sie an den Treppenkanten anbringen möchten. Ein solches Verfahren hilft, die Symmetrie der Treppe zu erhalten, und die Schnitte sind weniger sichtbar. Die Stufen sehen eleganter aus.
+* Bevor Sie mit dem Verlegen des Fliesenbodens beginnen, vergewissern Sie sich, dass die Stufen die richtige Neigung haben. Es ist wichtig, dass das Wasser nach unten fließt - wenn es auf der Oberfläche stehen bliebe, würde es diese beschädigen. Wenn Sie feststellen, dass die Treppe nicht das richtige Gefälle hat, müssen Sie sie mit Spachtelmasse fixieren. Die korrekte Neigung der Treppe beträgt 1-2%.
+* Achten Sie darauf, dass die Oberfläche eben und sauber ist. Um die Griffigkeit zu erhöhen und die Wasseraufnahme zu verringern, grundieren Sie die Oberfläche.
+* Bevor Sie die Fliesen verlegen können, sollten Sie die Treppe wasserdicht machen. Decken Sie sie dazu mit zwei Schichten Dichtungsputz ab.
+* Der Kleber sollte speziell für Fliesen vorgesehen sein. Er sollte frost- und wasserbeständig sein.
+* Beginnen Sie mit der obersten Stufe und gehen Sie nach unten. Beginnen Sie mit den horizontalen Fliesen und beenden Sie mit der vertikalen Schicht.
+* Sie können die Fliesen nach 2-3 Tagen nach der Verlegung verfugen. Achten Sie darauf, dass der Fugenmörtel von der gleichen Marke wie der Kleber ist. Solche Produkte funktionieren besser miteinander als die von verschiedenen Marken.
+
+## Außenfliesen für Treppen - was sollten Sie vermeiden?
+
+Der häufigste Fehler, den man bei der Auswahl von Außenfliesen für Treppen machen kann, ist, nur darauf zu achten, wie die Fliesen aussehen. Die Ästhetik ist natürlich ein wichtiger Aspekt, der sich auf das Aussehen des gesamten Gebäudes auswirkt. Vergessen Sie jedoch nicht, dass der Hauseingang der meistgenutzte Ort der Umgebung ist. Deshalb ist die Haltbarkeit der Außenfliesen so wichtig. Ein weiterer, ebenso wichtiger Aspekt ist die praktische Anwendbarkeit. Vermeiden Sie tief eingeschnittene Terrassenfliesen. Sie sind viel anfälliger für Beschädigungen.
+
+{:.distinction.distinction-information}
+
+Wenn ornamentale Fliesen für den Außenbereich ein Muss für Sie sind, wählen Sie Terrassenfliesen mit einem interessanten Farbmuster.
 
 {% fig %}
 
@@ -105,46 +107,46 @@ If ornamental outdoor tile is a must for you, choose patio tiles with an interes
 
 {% endfig %}
 
-Choosing the right tile flooring for your stairs might be a tricky issue. You need to consider only a few aspects to make the purchase easier. Well chosen and laid floor tiling lasts for years, making the house look elegant and well-maintained. It is, therefore, worth spending some time to buy the right tiles for your house.
+Die Wahl des richtigen Fliesenbodens für Ihre Treppe könnte eine heikle Angelegenheit sein. Sie müssen nur einige wenige Aspekte berücksichtigen, um den Kauf zu erleichtern. Gut ausgewählte und verlegte Bodenfliesen halten jahrelang und lassen das Haus elegant und gepflegt aussehen. Es lohnt sich also, etwas Zeit aufzubringen, um die richtigen Fliesen für Ihr Haus zu kaufen.
 
-## Outside tile flooring - FAQ
+## Fliesenbelag im Außenbereich - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-How to install tile flooring?
+Wie werden Fliesenböden verlegt?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-After measuring the surface and establishing layout line for the tiles, spread mortar over around 1 meter square area. Lay the tiles starting from the first crossing of two layout lines and continue, applying small patches of mortar.
+Nach dem Ausmessen der Oberfläche und dem Festlegen der Grundrisslinie für die Fliesen wird der Mörtel auf einer Fläche von etwa 1 Meter Quadratmeter verteilt. Verlegen Sie die Fliesen beginnend mit der ersten Kreuzung von zwei Grundrisslinien und fahren Sie fort, indem Sie kleine Mörtelstellen auftragen.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to remove tile flooring?
+Wie entfernt man Fliesenbeläge?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-All you need is a hammer, hand-held chisel and a floor scraper. Break up the first tile and carefully remove the pieces using the chisel. Then pry off several other tiles - if the adhesive is soft enough, you can use the floor scraper to remove several tiles at once.
+Sie benötigen lediglich einen Hammer, einen handgeführten Meißel und einen Bodenschaber. Brechen Sie die erste Fliese auf und entfernen Sie die Stücke vorsichtig mit dem Meißel. Brechen Sie dann mehrere andere Fliesen ab - wenn der Kleber weich genug ist, können Sie mit dem Bodenschaber mehrere Fliesen auf einmal entfernen.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How much does it cost to install tile flooring?
+Wie viel kostet die Verlegung eines Fliesenbodens?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The cost depends on the type of tiles you install, the area you are going to tile and the price of additional materials. Ceramic and clinker tiles are the cheapest, whereas granite is more expensive but also more durable.
+Die Kosten hängen von der Art der Fliesen ab, die Sie verlegen, der Fläche, die Sie fliesen werden, und dem Preis für zusätzliche Materialien. Keramik- und Klinkerfliesen sind am billigsten, während Granit teurer, aber auch haltbarer ist.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to install vinyl tile flooring on concrete?
+Wie verlegt man einen Vinylfliesenboden auf Beton?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-If the concrete is dry and clean, make sure it is even, and smoothen it if needed. Then place the tiles according to the manufacturer’s recommendations. Some types of vinyl tiles can be laid without adhesive, while others require using this product.
+Wenn der Beton trocken und sauber ist, stellen Sie sicher, dass er eben ist, und glätten Sie ihn bei Bedarf. Verlegen Sie dann die Fliesen gemäß den Empfehlungen des Herstellers. Einige Arten von Vinylfliesen können ohne Klebstoff verlegt werden, während andere die Verwendung dieses Produkts erfordern.
 {% endfaqAnswer %}
 {% endfaqItem %}
