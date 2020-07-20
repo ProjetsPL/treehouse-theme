@@ -1,104 +1,105 @@
 ---
 layout: post
-date: 2020-01-08
+date: 2020-07-18
 toc: true
-title: Modern living room - how to furnish your living room?
-description: A modern living room is a dream of many homeowners. If you wonder how
-  to furnish your living room, you might inspire yourself with contemporary styles.
+title: Modernes Wohnzimmer - wie möbliert man sein Wohnzimmer?
+description: Ein modernes Wohnzimmer ist der Traum vieler Hausbesitzer. Wenn Sie sich
+  fragen, wie Sie Ihr Wohnzimmer einrichten sollen, könnten Sie sich von zeitgenössischen
+  Stilen inspirieren lassen.
 image: "/uploads/nowoczesny-salon-w-odpowiednim-stylu.jpg"
 promoted: true
-update_date: 2020-02-05
-intro: Living room is one of the most important rooms in every house. It is the area
-  where most social gatherings take place. Living room is usually also the room of
-  relaxation, therefore furnishing it might be quite a challenge. Its design should
-  be characterised by a certain level of coziness. Should it, however, impress your
-  guests, it also has to comply with the latest trends. A modern living room is a
-  combination of an aesthetically pleasing design and functionality.
+update_date: 2020-07-18
+intro: Das Wohnzimmer ist einer der wichtigsten Räume in jedem Haus. Es ist der Bereich,
+  in dem die meisten gesellschaftlichen Zusammenkünfte stattfinden. Das Wohnzimmer
+  ist in der Regel auch der Raum der Entspannung, daher kann die Einrichtung des Wohnzimmers
+  eine ziemliche Herausforderung darstellen. Seine Gestaltung sollte sich durch ein
+  gewisses Maß an Gemütlichkeit auszeichnen. Soll es aber Ihre Gäste beeindrucken,
+  muss es auch den neuesten Trends entsprechen. Ein moderner Wohnraum ist eine Kombination
+  aus ästhetischem Design und Funktionalität.
 main_keywords:
 - modernes Wohnzimmer
 - moderne Wohnzimmer-Ideen
 - Wohnzimmer modern
 - moderne Wohnzimmergestaltung
 - Wohnzimmer Ideen modern
-published: false
 
 ---
-## Modern living room ideas
+## Moderne Wohnzimmer-Ideen
 
-Living room is the most **representative part of every house** or apartment. Usually it is also a place in which one spends the most of the time. For this reason everyone who designs an interior of this type, should aim for a living room that is not only modern, but also comfortable. Wondering **how to furnish your modern living room**, one should consider the most popular styles and trends.
+Das Wohnzimmer ist der repräsentativste Teil jedes Hauses oder jeder Wohnung. In der Regel ist es auch der Ort, an dem man sich die meiste Zeit aufhält. Aus diesem Grund sollte jeder, der ein solches Interieur entwirft, ein Wohnzimmer anstreben, das nicht nur modern, sondern auch komfortabel ist. Wenn man sich fragt, wie man sein modernes Wohnzimmer einrichten soll, sollte man die beliebtesten Stile und Trends berücksichtigen.
 
-### Living room ideas - modern scandinavian style
+### Wohnzimmer-Ideen - moderner skandinavischer Stil
 
-One of the most popular styles for a contemporary modern living room is scandinavian. It can be characterised by a dose of minimalism and bright, spacious interiors. A **modern living room in scandinavian style** combines pure whites and natural materials.
+Einer der beliebtesten Stile für ein zeitgenössisches modernes Wohnzimmer ist der skandinavische. Er kann durch eine Dosis Minimalismus und helle, geräumige Innenräume charakterisiert werden. Ein modernes Wohnzimmer im skandinavischen Stil kombiniert reines Weiß und natürliche Materialien.
 
-Wooden furniture or decorations made of twine or stone are quite common for this design. In many aspects, this style is similar to modern rustic living room. Furniture is upholstered with materials such as linen or cotton. Leather furniture, on the other hand, is out of the question.
+Holzmöbel oder Dekorationen aus Garn oder Stein sind bei diesem Design recht häufig anzutreffen. In vielerlei Hinsicht ähnelt dieser Stil dem modernen rustikalen Wohnzimmer. Die Möbel sind mit Materialien wie Leinen oder Baumwolle gepolstert. Ledermöbel kommen dagegen nicht in Frage.
 
-**White and shades of grey are dominating colours in modern scandinavian design**. Designers often decide to expose one vivid colour, such as yellow or blue. Decorating a modern living room in scandinavian style it is good to choose one strong colour. It will highlight the interior without overwhelming it. The colour should be represented by accessories and decorations. Shades of one intense colour look very elegant against neutral backgrounds.
+Weiß und Grautöne sind die dominierenden Farben im modernen skandinavischen Design. Designer entscheiden sich oft dafür, eine lebendige Farbe, wie Gelb oder Blau, herauszustellen. Wenn man ein modernes Wohnzimmer im skandinavischen Stil dekoriert, ist es gut, eine starke Farbe zu wählen. Sie wird das Interieur hervorheben, ohne es zu überladen. Die Farbe sollte durch Accessoires und Dekorationen dargestellt werden. Nuancen einer intensiven Farbe wirken vor neutralen Hintergründen sehr elegant.
 
 {:.distinction.distinction-information}
-Scandinavian style can implement antiques, especially old wooden furniture. Having that in mind, **modern living room** does not necessarily mean buying new furniture. You might as well use the elements you already own, and only repaint them - for instance in white.
+Der skandinavische Stil kann Antiquitäten, insbesondere alte Holzmöbel, umsetzen. Vor diesem Hintergrund bedeutet ein modernes Wohnzimmer nicht unbedingt den Kauf neuer Möbel. Man kann auch die Elemente verwenden, die man bereits besitzt, und sie nur neu streichen - zum Beispiel in Weiß.
 
 {% fig %}
 ![Living room ideas - modern scandinavian style](/uploads/nowoczesny-salon-w-stylu-skandynawskim.jpg "Living room ideas - modern scandinavian style")
 {% endfig %}
 
-### Modern living room - minimalist design
+### Modernes Wohnzimmer - minimalistisches Design
 
-**Minimalist style** is quite similar to scandinavian. It is a very good alternative if the interior is small. Minimalist design might be a perfect solution for a modern living room with limited space.
+Der minimalistische Stil ist dem skandinavischen sehr ähnlich. Er ist eine sehr gute Alternative, wenn der Innenraum klein ist. Minimalistisches Design könnte eine perfekte Lösung für ein modernes Wohnzimmer mit wenig Platz sein.
 
-Minimalist interior design uses as little objects as possible. Aiming for simplicity, it rejects any unnecessary decorations. The most common forms in this style are simple geometrical shapes, such as rectangles and circles. Similar to **scandinavian style**, minimalism frees as much space as possible. You can safely get rid of drapes and curtains to let the light inside.
+Minimalistisches Innendesign verwendet so wenig Objekte wie möglich. Sie strebt nach Einfachheit und lehnt jede unnötige Dekoration ab. Die häufigsten Formen in diesem Stil sind einfache geometrische Formen, wie Rechtecke und Kreise. Ähnlich wie im skandinavischen Stil gibt der Minimalismus so viel Raum wie möglich frei. Vorhänge und Gardinen können Sie getrost loswerden, um das Licht ins Innere zu lassen.
 
 {:.distinction.distinction-warning}
-Designing a **modern living room** of this style, you should give up most of the ornaments and trinkets. It is best if most of the surfaces are left empty. You can leave a few decorations, however they should have as simple forms as possible.
+Bei der Gestaltung eines modernen Wohnzimmers in diesem Stil sollten Sie auf die meisten Verzierungen und Schmuckstücke verzichten. Am besten ist es, wenn die meisten Flächen leer bleiben. Sie können einige wenige Dekorationen stehen lassen, diese sollten jedoch möglichst einfache Formen haben.
 
-### Retro style for a living room - modern inspiration
+### Retro-Stil für ein Wohnzimmer - moderne Inspiration
 
-A modern living room does not necessarily mean a rejection of **classic decorations**. If a trendy yet classic interior design is your aim, consider retro style. In contrast with the styles mentioned above, retro is more liberal with its colour palette.
+Ein modernes Wohnzimmer bedeutet nicht unbedingt eine Ablehnung klassischer Dekorationen. Wenn Sie eine trendige und dennoch klassische Inneneinrichtung anstreben, sollten Sie den Retro-Stil in Betracht ziehen. Im Gegensatz zu den oben genannten Stilen ist der Retro-Stil mit seiner Farbpalette liberaler.
 
-**A modern retro living room** should employ decorations and accessories in strong and vivid colours. It is common for this style to combine contrasting shades, such as white and black or red and mint green. For balance, the background should be neutral. White or light brown walls will be perfect for this purpose.
+Ein modernes Retro-Wohnzimmer sollte Dekorationen und Accessoires in kräftigen und lebhaften Farben verwenden. Es ist üblich, dass dieser Stil kontrastierende Farbtöne wie Weiß und Schwarz oder Rot und Minzgrün kombiniert. Aus Gründen der Ausgewogenheit sollte der Hintergrund neutral sein. Weiße oder hellbraune Wände eignen sich perfekt für diesen Zweck.
 
 {:.distinction.distinction-information}
-**Retro style** combines different textures, such as wood, chrome metal, plastic and bricks. For decorations for such design, you can choose elements that you already own. Ornaments from the previous era are perfect additions for a retro modern living room.
+Der Retro-Stil kombiniert verschiedene Texturen, wie Holz, verchromtes Metall, Kunststoff und Ziegelsteine. Für Dekorationen für ein solches Design können Sie Elemente wählen, die Sie bereits besitzen. Ornamente aus der vorherigen Ära sind perfekte Ergänzungen für ein retro-modernes Wohnzimmer.
 
 {% fig %}
 ![Retro style for a living room - modern inspiration](/uploads/salon-nowoczesny-postaw-na-retro-1.jpg "Retro style for a living room - modern inspiration")
 {% endfig %}
 
-## How to furnish a modern living room?
+## Wie richtet man ein modernes Wohnzimmer ein?
 
-As a matter of fact, a particular style is not the most important part of a modern living room design. The most crucial element is choosing one of them and picking **suitable furniture** and decorations. You can combine different styles, one needs to do it carefully. Before deciding upon an element it is worth to think whether it fits the whole design.
+In der Tat ist ein bestimmter Stil nicht der wichtigste Teil eines modernen Wohnzimmers. Das wichtigste Element ist die Wahl eines davon und die Auswahl geeigneter Möbel und Dekorationen. Man kann verschiedene Stile kombinieren, man muss es sorgfältig tun. Bevor man sich für ein Element entscheidet, lohnt es sich zu überlegen, ob es zum gesamten Design passt.
 
-All **modern interiors** have certain common features. They should be kept in mind when planning each room of your house. A contemporary modern living room should have:
+Alle modernen Interieurs haben gewisse Gemeinsamkeiten. Sie sollten bei der Planung jedes einzelnen Raumes Ihres Hauses im Auge behalten werden. Ein zeitgenössisches modernes Wohnzimmer sollte haben:
 
 {:.list.list-positive}
 
-* **Good lighting** - every modern living room needs bright spaces. Let as much natural lighting into the room as possible. If the room is small, you can r**emove curtains and drapes**. Choose lamps that illuminate the whole interior - consider installing several types of lighting (for instance a ceiling lamp and wall lights).
-* **Open space** - do not overwhelm your room with too many objects. If the space is limited, consider choosing furniture with legs, which looks more lightweight. The **furnishing** should be simple, you can choose, however, one or two objects with an unusual form.
-* **Good additions** - all decorations should fit each other. Use ornaments with **moderation** - too many would create a sense of disarray, which is just the opposite of a modern design.
-* **Comfortable furniture** - regardless of the form, your furniture set should be comfortable. Multi-purpose furniture designed to save space is a good solution for every **modern living room**.
+* Gute Beleuchtung - jedes moderne Wohnzimmer braucht helle Räume. Lassen Sie so viel natürliches Licht wie möglich in den Raum. Wenn der Raum klein ist, können Sie Vorhänge und Gardinen entfernen. Wählen Sie Lampen, die das gesamte Interieur beleuchten - erwägen Sie die Installation mehrerer Beleuchtungsarten (z. B. eine Deckenlampe und Wandleuchten).
+* Offener Raum - überladen Sie Ihren Raum nicht mit zu vielen Gegenständen. Wenn der Raum begrenzt ist, sollten Sie Möbel mit Beinen wählen, die leichter aussehen. Die Einrichtung sollte einfach sein, Sie können jedoch ein oder zwei Objekte mit einer ungewöhnlichen Form wählen.
+* Gute Ergänzungen - alle Dekorationen sollten zueinander passen. Verwenden Sie Ornamente mit Mäßigung - zu viele würden ein Gefühl der Unordnung erzeugen, was genau das Gegenteil eines modernen Designs ist.
+* Bequeme Möbel - unabhängig von der Form sollte Ihr Möbelset bequem sein. Mehrzweckmöbel, die Platz sparen sollen, sind eine gute Lösung für jedes moderne Wohnzimmer.
 
-## Modern living room ideas for a limited space interior
+## Moderne Wohnzimmervorstellungen für einen begrenzten Innenraum
 
-Every modern living room should be **comfortable and trendy**. You can achieve this even with small spaces. A well designed room can combine aesthetics and functionality, as well as employ a good space organisation.
+Jedes moderne Wohnzimmer sollte komfortabel und trendy sein. Das lässt sich auch auf kleinem Raum erreichen. Ein gut gestalteter Raum kann Ästhetik und Funktionalität verbinden und eine gute Raumorganisation einsetzen.
 
-Contemporary trends are good for a limited space interiors. The mentioned before white colours fit any style and make interiors look bigger. The brighter a room is, the bigger it seems. It is a popular choice to combine functions of two rooms into one. This way one can **transform a modern living room** into a kitchen, dining room and bedroom. Removing division walls saves a lot of space as well, along with the right furniture.
+Zeitgemäße Trends sind gut für ein begrenztes Rauminterieur. Die oben erwähnten weißen Farben passen zu jedem Stil und lassen Innenräume größer wirken. Je heller ein Raum ist, desto größer wirkt er. Es ist eine beliebte Wahl, die Funktionen von zwei Räumen in einem zu kombinieren. Auf diese Weise kann man ein modernes Wohnzimmer in eine Küche, ein Esszimmer und ein Schlafzimmer verwandeln. Das Entfernen von Trennwänden spart neben den richtigen Möbeln auch viel Platz.
 
 {% fig %}
 ![Modern living room ideas for a limited space interior](/uploads/pomysl-na-nowoczesny-salon-o-niewielkiej-powierzchni.jpg "Modern living room ideas for a limited space interior")
 {% endfig %}
 
-The mentioned before **multifunctional furniture** can increase the comfort of a room. If you choose a sofa bed, you can combine a living room and a bedroom. A table that can be transformed into a desk is a good idea if you want a living room that is also a dining room and an office. Choosing the furniture it is good to pick glossy-surface materials that reflect light. Similar to mirrors, they make rooms look bigger.
+Die oben erwähnten multifunktionalen Möbel können den Komfort eines Raumes erhöhen. Wenn Sie sich für ein Schlafsofa entscheiden, können Sie ein Wohnzimmer und ein Schlafzimmer kombinieren. Ein Tisch, der in einen Schreibtisch verwandelt werden kann, ist eine gute Idee, wenn Sie ein Wohnzimmer wollen, das gleichzeitig Esszimmer und Büro ist. Bei der Wahl der Möbel ist es gut, Materialien mit glänzender Oberfläche zu wählen, die das Licht reflektieren. Ähnlich wie bei Spiegeln lassen sie Räume größer erscheinen.
 
-A modern living room does not have to be difficult to design. Thanks to contemporary technologies you can furnish even the smallest interiors. The tips listed above can help you to design a comfortable and unique living room. Make sure that your modern living room not only impresses guests, but is also space friendly for everyone.
+Ein modernes Wohnzimmer muss nicht schwer zu gestalten sein. Dank zeitgenössischer Technologien können Sie auch die kleinsten Innenräume einrichten. Die oben aufgeführten Tipps können Ihnen bei der Gestaltung eines komfortablen und einzigartigen Wohnzimmers helfen. Achten Sie darauf, dass Ihr modernes Wohnzimmer nicht nur die Gäste beeindruckt, sondern auch raumfreundlich für alle ist.
 
 ## Modern living room - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-How to decorate a modern living room?
+Wie schmückt man ein modernes Wohnzimmer?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The most important elements that make a modern living room are bright inside, simplicity and a limited number of decorations. Styles such as scandinavian and minimalist might be good sources of inspiration. Every room can be modern, all you need is a good design.
+Die wichtigsten Elemente, die ein modernes Wohnzimmer ausmachen, sind ein helles Inneres, Schlichtheit und eine begrenzte Anzahl von Dekorationen. Stile wie skandinavisch und minimalistisch könnten gute Inspirationsquellen sein. Jeder Raum kann modern sein, alles, was Sie brauchen, ist ein gutes Design.
 {% endfaqAnswer %}
 {% endfaqItem %}
