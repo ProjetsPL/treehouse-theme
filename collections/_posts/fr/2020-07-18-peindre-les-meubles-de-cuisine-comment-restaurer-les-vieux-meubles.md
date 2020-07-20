@@ -1,138 +1,139 @@
 ---
 layout: post
-date: 2020-01-08
+date: 2020-07-18
 toc: true
-title: Painting kitchen furniture - how to restore old furniture?
-description: Painting furniture is a good idea for a cheap metamorphosis. You don’t
-  have to throw away your old shelves. All you need is a good paint for kitchen furniture.
+title: Peindre les meubles de cuisine - comment restaurer les vieux meubles ?
+description: Peindre des meubles est une bonne idée pour une métamorphose bon marché.
+  Vous n'avez pas besoin de jeter vos vieilles étagères. Tout ce dont vous avez besoin,
+  c'est d'une bonne peinture pour les meubles de cuisine.
 image: "/uploads/malowanie-mebli-kuchennych-jak-odnowic-meble-kuchenne.jpg"
 promoted: false
-update_date: 2020-02-05
-intro: Kitchen renovation might be a costly project. Such a task is also very time-consuming.
-  Following the trend of DIY, many people decide to paint their kitchen furniture
-  instead of throwing it away. Such a solution is surely far less expensive than buying
-  completely new kitchen and dining furniture sets. It does not mean that the furniture
-  will look worse than the new one - on the contrary. If you are looking for kitchen
-  furniture ideas, painting it is a great idea for a quick and satisfying metamorphosis.
+update_date: 2020-07-18
+intro: La rénovation de la cuisine peut être un projet coûteux. Une telle tâche est
+  également très longue. Suivant la tendance du bricolage, de nombreuses personnes
+  décident de peindre leurs meubles de cuisine au lieu de les jeter. Une telle solution
+  est certainement beaucoup moins coûteuse que l'achat de meubles de cuisine et de
+  salle à manger entièrement neufs. Cela ne signifie pas que les meubles seront moins
+  beaux que les neufs, bien au contraire. Si vous cherchez des idées de meubles de
+  cuisine, les peindre est une excellente idée pour une métamorphose rapide et satisfaisante.
 main_keywords:
 - meubles de cuisine
 - peindre des meubles
 - peinture à la craie des meubles
 - peindre des meubles en stratifié
 - idées de meubles de cuisine
-published: false
 
 ---
-## How to restore old furniture in the kitchen?
+## Comment restaurer de vieux meubles dans la cuisine ?
 
-The popularity of **painting kitchen furniture** results probably from its cheap price. Another factor might be the impressive effect that one can achieve with paint. Painting an old chair, table or chest of drawers is nothing surprising nowadays. **Restoring kitchen furniture**, however, might be more problematic than it is with other objects.
+La popularité de la peinture des meubles de cuisine résulte probablement de son prix bon marché. Un autre facteur pourrait être l'effet impressionnant que l'on peut obtenir avec la peinture. De nos jours, peindre une vieille chaise, une table ou une commode n'a rien d'étonnant. La restauration des meubles de cuisine peut cependant s'avérer plus problématique que pour d'autres objets.
 
-Kitchen furniture, after all, is the most prone to damage in the whole household. Therefore one may wonder **how to restore kitchen furniture** and if it is even worth the effort. It is common that a **kitchen set** is still in good shape, however its colour lost its old sparkle. It might simply be out of fashion or just become boring.
+Après tout, ce sont les meubles de cuisine qui sont les plus susceptibles d'être endommagés dans toute la maison. On peut donc se demander comment restaurer les meubles de cuisine et si cela en vaut même la peine. Il est courant qu'un ensemble de cuisine soit encore en bon état, mais sa couleur a perdu son éclat d'antan. Il se peut qu'il soit tout simplement démodé ou qu'il devienne ennuyeux.
 
-Replacing such furniture with a new set might be pointless, as apart from the looks it is still functional. Having that in mind, **painting furniture** might be the best solution. A well chosen product will alter the appearance of the whole room, which usually is the main reason of a renovation.
+Il peut être inutile de remplacer ces meubles par un nouvel ensemble, car outre leur aspect, ils sont toujours fonctionnels. Dans cette optique, la peinture des meubles pourrait être la meilleure solution. Un produit bien choisi modifiera l'apparence de toute la pièce, ce qui est généralement la principale raison d'une rénovation.
 
 {:.distinction.distinction-information}
-Painting furniture is possible even when the surfaces are scratched and slightly damaged. The paint is able to hide most imperfections.
+Il est possible de peindre des meubles même si les surfaces sont rayées et légèrement endommagées. La peinture est capable de cacher la plupart des imperfections.
 
-## Choosing the right paint for kitchen furniture
+## Choisir la bonne peinture pour les meubles de cuisine
 
-Manufacturers provide a great variety of products that can be used to paint kitchen furniture. A good paint can cover the whole surface and hide small flaws. The most **popular paints** that can be used for kitchen furniture include:
+Les fabricants fournissent une grande variété de produits qui peuvent être utilisés pour peindre les meubles de cuisine. Une bonne peinture peut couvrir toute la surface et cacher les petits défauts. Parmi les peintures les plus populaires pouvant être utilisées pour les meubles de cuisine, citons
 
 {:.list.list-positive}
 
-* **Acrylic paint** - this type is the most universal of all. They are highly resistant to scratching and UV lighting - therefore they won’t turn yellow after some time. Paint of this type dries very fast and is odourless.
-* **Renovation paint** - it can be used both for wooden and ceramic surfaces. Such type of product is used for **kitchen furniture as well as for ceramic tiles**. The product is resistant to mechanical damage, high temperature and dirt.
-* **Chalk paint** - it is one of the most eco-friendly type of paint. Such products typically have a wide variety of pastel colours. Depending on the type, chalk paints can give matte or satin finish. They are perfect for creating an ombre effect. They are good for painting kitchen furniture, however they require adding a protective layer of varnish or wax. Without it they are prone to damage.
-* **Alkyd paints** - similar to acrylic, alkyd paints are resistant to mechanical damage. It is the cheapest alternative. The biggest disadvantage of this type of product is its unpleasant smell.
+* La peinture acrylique - ce type est le plus universel de tous. Elles sont très résistantes aux rayures et aux rayons UV - elles ne jauniront donc pas après un certain temps. Ce type de peinture sèche très rapidement et est inodore.
+* Peinture de rénovation - elle peut être utilisée pour les surfaces en bois et en céramique. Ce type de produit est utilisé pour les meubles de cuisine ainsi que pour les carreaux de céramique. Le produit est résistant aux dommages mécaniques, aux températures élevées et à la saleté.
+* Peinture à la craie - c'est l'un des types de peinture les plus écologiques. Ces produits présentent généralement une grande variété de couleurs pastel. Selon le type, les peintures à la craie peuvent donner une finition mate ou satinée. Elles sont parfaites pour créer un effet d'ombre. Elles sont bonnes pour peindre les meubles de cuisine, mais elles nécessitent l'ajout d'une couche protectrice de vernis ou de cire. Sans cela, elles risquent de s'abîmer.
+* Peintures à l'alkyde - comme l'acrylique, les peintures à l'alkyde résistent aux dommages mécaniques. C'est la solution la moins chère. Le plus grand inconvénient de ce type de produit est son odeur désagréable.
 
 {% fig %}
 ![Choosing the right paint for kitchen furniture](/uploads/wybor-farby-do-mebli-kuchennych.jpg "Choosing the right paint for kitchen furniture")
 {% endfig %}
 
-## Refurbishing kitchen furniture - step by step
+## Remise à neuf des meubles de cuisine - étape par étape
 
-**Painting kitchen furniture** is not a complicated task. Before starting the work, however, it is good to get the relevant knowledge. Doing that will result in a satisfying and long lasting effect.
+Peindre des meubles de cuisine n'est pas une tâche compliquée. Toutefois, avant de commencer le travail, il est bon d'acquérir les connaissances nécessaires. Cela permettra d'obtenir un effet satisfaisant et durable.
 
-### Preparation for painting
+### Préparation à la peinture
 
-Examine carefully each piece before even planning to **paint the kitchen furniture**.
+Examinez attentivement chaque pièce avant même de prévoir de peindre les meubles de la cuisine.
 
 {:.distinction.distinction-warning}
-Fill the holes and deep dents with a wood adhesive. Small scratches can be smoothed with sanding paper. Make sure that you sand the surface along the wood grain, otherwise they could be damaged. If the kitchen furniture is **covered with foil or veneer** that is damaged, remove it.
+Remplissez les trous et les bosses profondes avec une colle à bois. Les petites éraflures peuvent être lissées avec du papier abrasif. Veillez à poncer la surface en suivant le fil du bois, sinon vous risquez de les endommager. Si les meubles de cuisine sont recouverts de papier d'aluminium ou de placage endommagé, enlevez-les.
 
 {% fig %}
 ![Preparation for painting](/uploads/przygotowanie-do-malowania.jpg "Preparation for painting")
 {% endfig %}
 
-To make **painting kitchen furniture** more convenient, remove the front elements and take out all drawers. Wash the furniture with water and a detergent. Make sure to **degrease all surfaces**, wiping them with acetone or gasoline. Every handle and knob should be removed for painting.
+Pour rendre la peinture des meubles de cuisine plus pratique, retirez les éléments de façade et sortez tous les tiroirs. Lavez les meubles avec de l'eau et un détergent. Veillez à dégraisser toutes les surfaces, en les essuyant avec de l'acétone ou de l'essence. Toutes les poignées et tous les boutons doivent être retirés pour être peints.
 
-Sanding the kitchen furniture is an important step before starting to paint it. For this purpose use sanding paper or sponge. Sanding makes paint stick better to the surface. If your furniture is painted or varnished, 240 grit paper will suffice. If you’re **painting laminate furniture**, use 400 grit paper. Make sure to be very careful with sanding, as laminate is easy to damage.
+Le ponçage des meubles de cuisine est une étape importante avant de commencer à les peindre. Pour ce faire, utilisez du papier abrasif ou une éponge. Le ponçage permet à la peinture de mieux adhérer à la surface. Si vos meubles sont peints ou vernis, un papier de grain 240 suffira. Si vous peignez un meuble stratifié, utilisez du papier de grain 400. Soyez très prudent lors du ponçage, car le stratifié est facile à endommager.
 
-### Tools for restoring kitchen furniture
+### Outils pour la restauration des meubles de cuisine
 
 {:.distinction.distinction-information}
-**Painting kitchen furniture** requires using the right tools. They are a guarantee of a smooth and even surface.
+Pour peindre des meubles de cuisine, il faut utiliser les bons outils. Ils sont la garantie d'une surface lisse et uniforme.
 
-**Round or flat bristle paint brush** is suitable only for chalk paint. Using a brush for other types of paint might result in unaesthetic trails on the surface. It is therefore advised to use a wide paint roller to paint large surfaces such as fronts and sides. Foam and flock rollers are the best tools for **painting furniture**.
+Le pinceau à poils ronds ou plats ne convient que pour la peinture à la craie. L'utilisation d'un pinceau pour d'autres types de peinture peut entraîner des traces inesthétiques sur la surface. Il est donc conseillé d'utiliser un rouleau à peinture large pour peindre de grandes surfaces telles que les façades et les côtés. Les rouleaux en mousse et en floc sont les meilleurs outils pour peindre les meubles.
 
 {:.distinction.distinction-warning}
-Do not use sheepskin roller, as it leaves fibres and creates a rough texture on the painted surface. For the most even surface use a spray gun.
+N'utilisez pas de rouleau en peau de mouton, car il laisse des fibres et crée une texture rugueuse sur la surface peinte. Pour obtenir une surface plus uniforme, utilisez un pistolet à peinture.
 
 {% fig %}
 ![Tools for restoring kitchen furniture](/uploads/farby-do-mebli-kuchennych.jpg "Tools for restoring kitchen furniture")
 {% endfig %}
 
-### Painting kitchen furniture
+### Peindre des meubles de cuisine
 
-After proper preparation of your **kitchen furniture**, you can start painting it. Before covering the surface with paint, use the primer. The product should come from the same manufacturer as the paint you use. It is a guarantee that paint and primer work well with each other.
+Après avoir bien préparé vos meubles de cuisine, vous pouvez commencer à les peindre. Avant de recouvrir la surface de peinture, utilisez l'apprêt. Le produit doit provenir du même fabricant que la peinture que vous utilisez. C'est la garantie que la peinture et l'apprêt fonctionnent bien ensemble.
 
-After the primer dries, you can paint the furniture. Using previously mentioned **wide roller** is the most convenient. For small elements and hard to reach spaces use a small brush. Cover the surface with at least two layers. The time of drying and the number of layers depend mainly on the paint and its brand.
+Une fois que le primaire est sec, vous pouvez peindre les meubles. Le plus pratique est d'utiliser le rouleau large mentionné précédemment. Pour les petits éléments et les espaces difficiles à atteindre, utilisez un petit pinceau. Couvrez la surface avec au moins deux couches. Le temps de séchage et le nombre de couches dépendent principalement de la peinture et de sa marque.
 
 {:.distinction.distinction-information}
-A standard number is **two layers** of paint. It is best to apply the paint with a criss-cross method: paint the first layer horizontally, and the second - diagonally. If you see that two layers are not enough, apply more layers, until the paint covers the furniture completely.
+Un numéro standard est deux couches de peinture. Il est préférable d'appliquer la peinture selon une méthode croisée : peignez la première couche horizontalement, et la seconde - en diagonale. Si vous constatez que deux couches ne suffisent pas, appliquez d'autres couches, jusqu'à ce que la peinture recouvre complètement le meuble.
 
-Make sure that the layers are **as thin as possible**. This will result in an even and smooth surface. Remember that paint needs up to 20 days to fully cure. Before it happens, be careful not to damage the delicate surface. If you need to clean it, use a **soft cloth or a sponge**.
+Veillez à ce que les couches soient aussi fines que possible. Cela permettra d'obtenir une surface uniforme et lisse. N'oubliez pas que la peinture a besoin de 20 jours pour durcir complètement. Avant que cela n'arrive, veillez à ne pas endommager la surface délicate. Si vous devez la nettoyer, utilisez un chiffon doux ou une éponge.
 
-**Restoring kitchen furniture** does not have to be very expensive. **Painting furniture** is a simple solution for a quick and cheap renovation. A good **furniture paint**, right tools and correct preparation guarantee a satisfying result. Such an easy procedure is a good way to transform your kitchen while spending as little as possible.
+La restauration des meubles de cuisine ne doit pas nécessairement être très coûteuse. Peindre les meubles est une solution simple pour une rénovation rapide et peu coûteuse. Une bonne peinture pour meubles, de bons outils et une préparation correcte garantissent un résultat satisfaisant. Une procédure aussi simple est un bon moyen de transformer votre cuisine tout en dépensant le moins possible.
 
-## Painting kitchen furniture - FAQ
+## Peindre des meubles de cuisine - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-How to clean wood furniture before painting?
+Comment nettoyer les meubles en bois avant de les peindre ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Wash all surfaces with a detergent and degrease them. For this purpose you can use gasoline or acetone, however any degreaser you have will suffice.
+Lavez toutes les surfaces avec un détergent et dégraissez-les. Pour cela, vous pouvez utiliser de l'essence ou de l'acétone, mais le dégraissant que vous avez suffit.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to prepare furniture for painting?
+Comment préparer les meubles pour la peinture ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Remove any knobs and handles and fill any holes and dents with wood adhesive. Sand the surfaces so that the paint sticks better.
+Enlevez les boutons et les poignées et remplissez les trous et les bosses avec de la colle à bois. Poncez les surfaces afin que la peinture adhère mieux.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to remove wax from furniture before painting?
+Comment enlever la cire d'un meuble avant de le peindre ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-If the wax is soft (it come off when scratching the surface with a fingernail), it can be removed with mineral spirits. For harder and older surfaces, use a wax removal product.
+Si la cire est molle (elle se détache lorsqu'on gratte la surface avec un ongle), elle peut être enlevée avec de l'essence minérale. Pour les surfaces plus dures et plus anciennes, utilisez un produit pour enlever la cire.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to sand furniture for painting?
+Comment poncer des meubles pour les peindre ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Use a 240 sanding paper or sanding sponge. Be careful with laminate furniture - to sand it, use 400 grit and work delicately to not to damage the surface.
+Utilisez un papier abrasif 240 ou une éponge abrasive. Faites attention aux meubles stratifiés - pour les poncer, utilisez un grain 400 et travaillez délicatement pour ne pas endommager la surface.
 {% endfaqAnswer %}
 {% endfaqItem %}
