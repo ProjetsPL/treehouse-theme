@@ -1,104 +1,105 @@
 ---
 layout: post
-date: 2020-01-08
+date: 2020-07-18
 toc: true
-title: Modern living room - how to furnish your living room?
-description: A modern living room is a dream of many homeowners. If you wonder how
-  to furnish your living room, you might inspire yourself with contemporary styles.
+title: Salon moderne - comment meubler votre salon ?
+description: Une salle de séjour moderne est le rêve de nombreux propriétaires. Si
+  vous vous demandez comment meubler votre salon, vous pourriez vous inspirer de styles
+  contemporains.
 image: "/uploads/nowoczesny-salon-w-odpowiednim-stylu.jpg"
 promoted: true
-update_date: 2020-02-05
-intro: Living room is one of the most important rooms in every house. It is the area
-  where most social gatherings take place. Living room is usually also the room of
-  relaxation, therefore furnishing it might be quite a challenge. Its design should
-  be characterised by a certain level of coziness. Should it, however, impress your
-  guests, it also has to comply with the latest trends. A modern living room is a
-  combination of an aesthetically pleasing design and functionality.
+update_date: 2020-07-18
+intro: Le salon est l'une des pièces les plus importantes de chaque maison. C'est
+  l'endroit où se déroulent la plupart des réunions sociales. Le salon est généralement
+  aussi la pièce de détente, c'est pourquoi l'ameublement peut être un véritable défi.
+  Son aménagement doit être caractérisé par un certain niveau de confort. S'il doit
+  cependant impressionner vos invités, il doit également être conforme aux dernières
+  tendances. Un salon moderne est une combinaison d'un design esthétique et d'une
+  fonctionnalité.
 main_keywords:
 - salle de séjour moderne
 - des idées de salons modernes
 - salon moderne
 - un design moderne de la salle de séjour
 - living room ideas modern
-published: false
 
 ---
-## Modern living room ideas
+## Idées de salons modernes
 
-Living room is the most **representative part of every house** or apartment. Usually it is also a place in which one spends the most of the time. For this reason everyone who designs an interior of this type, should aim for a living room that is not only modern, but also comfortable. Wondering **how to furnish your modern living room**, one should consider the most popular styles and trends.
+Le salon est la partie la plus représentative de chaque maison ou appartement. C'est généralement aussi l'endroit où l'on passe le plus de temps. C'est pourquoi toute personne qui conçoit un intérieur de ce type doit viser un salon qui soit non seulement moderne, mais aussi confortable. Pour meubler un salon moderne, il faut tenir compte des styles et des tendances les plus populaires.
 
-### Living room ideas - modern scandinavian style
+### Idées de salon - style scandinave moderne
 
-One of the most popular styles for a contemporary modern living room is scandinavian. It can be characterised by a dose of minimalism and bright, spacious interiors. A **modern living room in scandinavian style** combines pure whites and natural materials.
+L'un des styles les plus populaires pour un salon moderne contemporain est le scandinave. Il peut se caractériser par une dose de minimalisme et des intérieurs clairs et spacieux. Un salon moderne de style scandinave combine des blancs purs et des matériaux naturels.
 
-Wooden furniture or decorations made of twine or stone are quite common for this design. In many aspects, this style is similar to modern rustic living room. Furniture is upholstered with materials such as linen or cotton. Leather furniture, on the other hand, is out of the question.
+Les meubles en bois ou les décorations en ficelle ou en pierre sont assez courants pour cette conception. À bien des égards, ce style est similaire à celui d'un salon moderne rustique. Les meubles sont rembourrés avec des matériaux tels que le lin ou le coton. Les meubles en cuir, en revanche, sont hors de question.
 
-**White and shades of grey are dominating colours in modern scandinavian design**. Designers often decide to expose one vivid colour, such as yellow or blue. Decorating a modern living room in scandinavian style it is good to choose one strong colour. It will highlight the interior without overwhelming it. The colour should be represented by accessories and decorations. Shades of one intense colour look very elegant against neutral backgrounds.
+Le blanc et les nuances de gris sont les couleurs dominantes du design scandinave moderne. Les designers décident souvent d'exposer une couleur vive, comme le jaune ou le bleu. Pour décorer un salon moderne dans le style scandinave, il est bon de choisir une couleur forte. Elle mettra en valeur l'intérieur sans le surcharger. La couleur doit être représentée par des accessoires et des décorations. Les nuances d'une couleur intense sont très élégantes sur un fond neutre.
 
 {:.distinction.distinction-information}
-Scandinavian style can implement antiques, especially old wooden furniture. Having that in mind, **modern living room** does not necessarily mean buying new furniture. You might as well use the elements you already own, and only repaint them - for instance in white.
+Le style scandinave peut mettre en œuvre des antiquités, en particulier de vieux meubles en bois. Dans cette optique, une salle de séjour moderne ne signifie pas nécessairement l'achat de nouveaux meubles. Autant utiliser les éléments que vous possédez déjà et ne les repeindre qu'en blanc, par exemple.
 
 {% fig %}
 ![Living room ideas - modern scandinavian style](/uploads/nowoczesny-salon-w-stylu-skandynawskim.jpg "Living room ideas - modern scandinavian style")
 {% endfig %}
 
-### Modern living room - minimalist design
+### Salon moderne - design minimaliste
 
-**Minimalist style** is quite similar to scandinavian. It is a very good alternative if the interior is small. Minimalist design might be a perfect solution for a modern living room with limited space.
+Le style minimaliste est assez semblable au style scandinave. C'est une très bonne alternative si l'intérieur est petit. Le design minimaliste pourrait être une solution parfaite pour une salle de séjour moderne avec un espace limité.
 
-Minimalist interior design uses as little objects as possible. Aiming for simplicity, it rejects any unnecessary decorations. The most common forms in this style are simple geometrical shapes, such as rectangles and circles. Similar to **scandinavian style**, minimalism frees as much space as possible. You can safely get rid of drapes and curtains to let the light inside.
+Le design minimaliste d'intérieur utilise le moins d'objets possible. Dans un souci de simplicité, il rejette toute décoration inutile. Les formes les plus courantes dans ce style sont des formes géométriques simples, telles que des rectangles et des cercles. À l'instar du style scandinave, le minimalisme libère le plus d'espace possible. Vous pouvez vous débarrasser en toute sécurité des rideaux et des tentures pour laisser entrer la lumière.
 
 {:.distinction.distinction-warning}
-Designing a **modern living room** of this style, you should give up most of the ornaments and trinkets. It is best if most of the surfaces are left empty. You can leave a few decorations, however they should have as simple forms as possible.
+En concevant un salon moderne de ce style, vous devriez renoncer à la plupart des ornements et des bibelots. Il est préférable de laisser la plupart des surfaces vides. Vous pouvez laisser quelques décorations, mais elles doivent avoir des formes aussi simples que possible.
 
-### Retro style for a living room - modern inspiration
+### Style rétro pour une salle de séjour - inspiration moderne
 
-A modern living room does not necessarily mean a rejection of **classic decorations**. If a trendy yet classic interior design is your aim, consider retro style. In contrast with the styles mentioned above, retro is more liberal with its colour palette.
+Un salon moderne ne signifie pas nécessairement un rejet des décorations classiques. Si vous recherchez une décoration intérieure à la fois classique et à la mode, envisagez un style rétro. Contrairement aux styles mentionnés ci-dessus, le style rétro est plus libéral avec sa palette de couleurs.
 
-**A modern retro living room** should employ decorations and accessories in strong and vivid colours. It is common for this style to combine contrasting shades, such as white and black or red and mint green. For balance, the background should be neutral. White or light brown walls will be perfect for this purpose.
+Un salon rétro moderne doit utiliser des décorations et des accessoires aux couleurs vives et fortes. Il est courant que ce style combine des nuances contrastées, comme le blanc et le noir ou le rouge et le vert menthe. Pour plus d'équilibre, l'arrière-plan doit être neutre. Des murs blancs ou marron clair seront parfaits à cet effet.
 
 {:.distinction.distinction-information}
-**Retro style** combines different textures, such as wood, chrome metal, plastic and bricks. For decorations for such design, you can choose elements that you already own. Ornaments from the previous era are perfect additions for a retro modern living room.
+Le style rétro combine différentes textures, telles que le bois, le métal chromé, le plastique et les briques. Pour les décorations de ce type de design, vous pouvez choisir des éléments que vous possédez déjà. Les ornements de l'époque précédente sont des ajouts parfaits pour une salle de séjour rétro moderne.
 
 {% fig %}
 ![Retro style for a living room - modern inspiration](/uploads/salon-nowoczesny-postaw-na-retro-1.jpg "Retro style for a living room - modern inspiration")
 {% endfig %}
 
-## How to furnish a modern living room?
+## Comment meubler une salle de séjour moderne ?
 
-As a matter of fact, a particular style is not the most important part of a modern living room design. The most crucial element is choosing one of them and picking **suitable furniture** and decorations. You can combine different styles, one needs to do it carefully. Before deciding upon an element it is worth to think whether it fits the whole design.
+En fait, un style particulier n'est pas la partie la plus importante de la conception d'un salon moderne. L'élément le plus crucial est de choisir l'un d'entre eux et de choisir des meubles et des décorations appropriés. Vous pouvez combiner différents styles, il faut le faire avec soin. Avant de choisir un élément, il convient de se demander s'il convient à l'ensemble du design.
 
-All **modern interiors** have certain common features. They should be kept in mind when planning each room of your house. A contemporary modern living room should have:
+Tous les intérieurs modernes ont certaines caractéristiques communes. Il convient de les garder à l'esprit lors de la planification de chaque pièce de votre maison. Une salle de séjour moderne doit avoir un style contemporain :
 
 {:.list.list-positive}
 
-* **Good lighting** - every modern living room needs bright spaces. Let as much natural lighting into the room as possible. If the room is small, you can r**emove curtains and drapes**. Choose lamps that illuminate the whole interior - consider installing several types of lighting (for instance a ceiling lamp and wall lights).
-* **Open space** - do not overwhelm your room with too many objects. If the space is limited, consider choosing furniture with legs, which looks more lightweight. The **furnishing** should be simple, you can choose, however, one or two objects with an unusual form.
-* **Good additions** - all decorations should fit each other. Use ornaments with **moderation** - too many would create a sense of disarray, which is just the opposite of a modern design.
-* **Comfortable furniture** - regardless of the form, your furniture set should be comfortable. Multi-purpose furniture designed to save space is a good solution for every **modern living room**.
+* Un bon éclairage - tout salon moderne a besoin d'espaces lumineux. Laissez entrer autant de lumière naturelle que possible dans la pièce. Si la pièce est petite, vous pouvez enlever les rideaux et les tentures. Choisissez des lampes qui éclairent tout l'intérieur - envisagez d'installer plusieurs types d'éclairage (par exemple un plafonnier et des appliques murales).
+* Espace ouvert - ne submergez pas votre chambre d'un trop grand nombre d'objets. Si l'espace est limité, envisagez de choisir des meubles avec des pieds, qui semblent plus légers. L'ameublement doit être simple, vous pouvez toutefois choisir un ou deux objets de forme inhabituelle.
+* De bons ajouts - toutes les décorations doivent s'accorder entre elles. Utilisez les ornements avec modération - trop d'ornements créeraient un sentiment de désarroi, ce qui est tout le contraire d'un design moderne.
+* Meubles confortables - quelle que soit leur forme, votre ensemble de meubles doit être confortable. Les meubles polyvalents conçus pour économiser de l'espace sont une bonne solution pour tout salon moderne.
 
-## Modern living room ideas for a limited space interior
+## Des idées de salon moderne pour un intérieur à espace limité
 
-Every modern living room should be **comfortable and trendy**. You can achieve this even with small spaces. A well designed room can combine aesthetics and functionality, as well as employ a good space organisation.
+Tout salon moderne doit être confortable et à la mode. Vous pouvez y parvenir même avec de petits espaces. Une pièce bien conçue peut combiner l'esthétique et la fonctionnalité, tout en employant une bonne organisation de l'espace.
 
-Contemporary trends are good for a limited space interiors. The mentioned before white colours fit any style and make interiors look bigger. The brighter a room is, the bigger it seems. It is a popular choice to combine functions of two rooms into one. This way one can **transform a modern living room** into a kitchen, dining room and bedroom. Removing division walls saves a lot of space as well, along with the right furniture.
+Les tendances contemporaines sont bonnes pour un intérieur à espace limité. Les couleurs blanches mentionnées plus haut s'adaptent à tous les styles et font paraître les intérieurs plus grands. Plus une pièce est lumineuse, plus elle semble grande. La combinaison des fonctions de deux pièces en une seule est un choix populaire. De cette façon, on peut transformer un salon moderne en une cuisine, une salle à manger et une chambre à coucher. La suppression des cloisons de séparation permet également d'économiser beaucoup d'espace et de disposer de meubles adaptés.
 
 {% fig %}
 ![Modern living room ideas for a limited space interior](/uploads/pomysl-na-nowoczesny-salon-o-niewielkiej-powierzchni.jpg "Modern living room ideas for a limited space interior")
 {% endfig %}
 
-The mentioned before **multifunctional furniture** can increase the comfort of a room. If you choose a sofa bed, you can combine a living room and a bedroom. A table that can be transformed into a desk is a good idea if you want a living room that is also a dining room and an office. Choosing the furniture it is good to pick glossy-surface materials that reflect light. Similar to mirrors, they make rooms look bigger.
+Le mobilier multifonctionnel mentionné plus haut peut accroître le confort d'une pièce. Si vous choisissez un canapé-lit, vous pouvez combiner une salle de séjour et une chambre à coucher. Une table qui peut se transformer en bureau est une bonne idée si vous voulez une salle de séjour qui est aussi une salle à manger et un bureau. Pour le choix des meubles, il est bon de choisir des matériaux à surface brillante qui reflètent la lumière. Semblables à des miroirs, ils font paraître les pièces plus grandes.
 
-A modern living room does not have to be difficult to design. Thanks to contemporary technologies you can furnish even the smallest interiors. The tips listed above can help you to design a comfortable and unique living room. Make sure that your modern living room not only impresses guests, but is also space friendly for everyone.
+Une salle de séjour moderne ne doit pas être difficile à concevoir. Grâce aux technologies contemporaines, vous pouvez meubler même les plus petits intérieurs. Les conseils énumérés ci-dessus peuvent vous aider à concevoir une salle de séjour confortable et unique. Assurez-vous que votre salon moderne n'impressionne pas seulement les clients, mais qu'il est aussi convivial pour tous.
 
-## Modern living room - FAQ
+## Salle de séjour moderne - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-How to decorate a modern living room?
+Comment décorer une salle de séjour moderne ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The most important elements that make a modern living room are bright inside, simplicity and a limited number of decorations. Styles such as scandinavian and minimalist might be good sources of inspiration. Every room can be modern, all you need is a good design.
+Les éléments les plus importants qui font un salon moderne sont la luminosité intérieure, la simplicité et un nombre limité de décorations. Des styles tels que le scandinave et le minimaliste peuvent être de bonnes sources d'inspiration. Chaque pièce peut être moderne, tout ce dont vous avez besoin est un bon design.
 {% endfaqAnswer %}
 {% endfaqItem %}
