@@ -1,152 +1,152 @@
 ---
 layout: post
-date: 2020-01-29
+date: 2020-07-18
 toc: true
-title: Underlay for plank flooring - which one is the best?
-description: Underlay for plank flooring - which one is the best? Flooring underlay
-  is very important. If you wonder what is the best laminate underlay, you should
-  consider several issues to help you make the best decision.
+title: Capa de base para el suelo de tablones, ¿cuál es la mejor?
+description: Capa de base para el suelo de tablones, ¿cuál es la mejor? La base para
+  el suelo es muy importante. Si te preguntas cuál es la mejor base de laminado, deberías
+  considerar varios temas para ayudarte a tomar la mejor decisión.
 image: "/uploads/podklad-pod-panele-jaki-podklad-pod-panele-bedzie-najlepszy.jpg"
 promoted: false
-update_date: 2020-02-05
-intro: If you have already decided on a vinyl plank flooring, you should probably
-  choose a good quality underlay. It is a crucial element that determines the durability
-  of your floor. The right underlay can minimize certain floor and room imperfections.
-  It is, therefore, good to spend some time to choose the correct floor underlayment.
-  It ensures lasting floor for years.
+update_date: 2020-07-18
+intro: Si ya te has decidido por un suelo de tablones de vinilo, probablemente deberías
+  elegir un subsuelo de buena calidad. Es un elemento crucial que determina la durabilidad
+  de su suelo. El subsuelo adecuado puede minimizar ciertas imperfecciones del suelo
+  y de la habitación. Por lo tanto, es bueno dedicar algún tiempo a elegir el subsuelo
+  correcto. Asegura la durabilidad del suelo durante años.
 main_keywords:
 - subsuelo de madera
 - la mejor base de laminado
 - la base acústica
 - cómo instalar la capa inferior
 - cómo colocar la capa inferior
-published: false
 
 ---
-## Is underlayment needed for vinyl flooring?
+## ¿Se necesita una base para el piso de vinilo?
 
-Some people believe that underlay is not necessary and that vinyl planks can be placed directly on the floor. Even though it is possible in some cases, **it is not advised to lay vinyl flooring without underlay**. What is underlayment? Without this element laminate flooring would be quickly destroyed, as the planks could get broken.
+Algunas personas creen que la base no es necesaria y que los tablones de vinilo pueden ser colocados directamente en el suelo. Aunque es posible en algunos casos, no se aconseja colocar el suelo de vinilo sin subsuelo. ¿Qué es un subsuelo? Sin este elemento el suelo laminado se destruiría rápidamente, ya que las tablas podrían romperse.
 
-**Floor underlay** plays an important role for a vinyl plank floor - it secures the floor. The most important functions of underlay are:
+La base del piso juega un papel importante para un piso de tablas de vinilo - asegura el piso. Las funciones más importantes de la base son:
 
 {:.list.list-positive}
 
-* **Cushioning** - a soft, elastic layer under the planks secures them so that they do **not bend under pressure**. The underlay absorbs energy from hits and heavy objects, protecting the floor from damage.
-* **Thermal insulation** - floor underlayment is a layer which separates the flooring from the subfloor. This way the cold air doesn’t reach the room. Such insulation reduces thermal loss which saves the costs of heating.
-* **Acoustic underlay** - underlay absorbs sounds from rooms under the floor. The layer can also muffle noises from inside the room where the planks are installed.
-* **Evening the surface** - a good underlay can cover minor imperfections of the floor. It fills small indentations and makes the planks more stable.
+* Acolchado - una capa suave y elástica bajo las tablas las asegura para que no se doblen bajo presión. La capa inferior absorbe la energía de los golpes y los objetos pesados, protegiendo el suelo de los daños.
+* Aislamiento térmico - el subsuelo es una capa que separa el suelo del subsuelo. De esta manera el aire frío no llega a la habitación. Este aislamiento reduce la pérdida térmica, lo que ahorra los costes de calefacción.
+* Subsuelo acústico - el subsuelo absorbe los sonidos de las habitaciones bajo el suelo. La capa también puede amortiguar los ruidos del interior de la habitación donde se instalan las tablas.
+* Nivelación de la superficie - una buena capa subyacente puede cubrir pequeñas imperfecciones del suelo. Rellena pequeñas hendiduras y hace que las tablas sean más estables.
 
-Keep in mind that most manufacturers of vinyl plank flooring require using underlay as a **warranty requirement**. If this condition is not fulfilled, you won’t be able to get a refund if the product you bought is faulty.
+Tengan en cuenta que la mayoría de los fabricantes de pisos de tablones de vinilo requieren el uso de un subsuelo como requisito de garantía. Si esta condición no se cumple, no podrá obtener un reembolso si el producto que compró es defectuoso.
 
-Regardless of the type of underlay, you should install it at 45 degrees angle. Using a vapour barrier is important, as it protects from moisture. **It should be laid in a straight line.** Then you can lay the underlay - make sure to cut it to fit the room.
+Independientemente del tipo de subsuelo, debe instalarlo en un ángulo de 45 grados. El uso de una barrera de vapor es importante, ya que protege de la humedad. Debe ser colocado en línea recta. Luego puede colocar la base, asegúrese de cortarla para que se ajuste a la habitación.
 
-## Types of laminate flooring underlay
+## Los tipos de subsuelo de los suelos laminados
 
-There are various types of underlay available. They differ from each other by **price, durability, material and intended purpose**. Type of the plank flooring doesn’t affect the type of underlay. You should consider, however, what are your own needs and expectations.
+Hay varios tipos de subsuelo disponibles. Se diferencian entre sí por el precio, la durabilidad, el material y la finalidad. El tipo de suelo de tablones no afecta al tipo de subsuelo. Sin embargo, debe considerar cuáles son sus propias necesidades y expectativas.
 
 {% fig %}
 ![Types of laminate flooring underlay](/uploads/podklad-pod-panele-podlogowe-rodzaje.jpg "Types of laminate flooring underlay")
 {% endfig %}
 
-### Natural flooring underlay
+### La capa inferior del suelo natural
 
-Natural underlayment is usually made of wood and similar materials. Such product are usually good acoustic insulators. The most common natural underlays are:
+El subsuelo natural suele estar hecho de madera y materiales similares. Estos productos suelen ser buenos aislantes acústicos. Las bases naturales más comunes son:
 
 {:.list}
 
-* **Cork underlay** - it is a good thermal and **acoustic insulator**. Usually they are sold in large sheets, 2 mm thick. Cork is quite a fragile material and therefore it shouldn’t be used under floors that are intensely used. The underfloor on which a cork underlay might be placed, should be perfectly even.
-* **Plywood** - this material protects from noise and thermal loss, although not as well as cork. It’s thicker, sold in 4-7 mm thick sheets. Because this type of undelay **absorbs water** easily, you should put an additional layer of vapour membrane over it.
-* **Corrugated fiberboard** - it is **one of the cheapest underlays**. It conducts warmth well, however does not isolate sounds. This type requires a perfectly even underfloor.
+* La base de corcho es un buen aislante térmico y acústico. Normalmente se venden en grandes láminas de 2 mm de espesor. El corcho es un material bastante frágil y por lo tanto no debería ser usado bajo suelos que son intensamente utilizados. El subsuelo sobre el que se puede colocar una capa de corcho debe ser perfectamente uniforme.
+* Contrachapado - este material protege del ruido y de la pérdida térmica, aunque no tan bien como el corcho. Es más grueso, se vende en láminas de 4-7 mm de espesor. Debido a que este tipo de madera absorbe fácilmente el agua, se debe poner una capa adicional de membrana de vapor sobre ella.
+* El cartón ondulado es una de las capas inferiores más baratas. Conduce bien el calor, sin embargo no aísla los sonidos. Este tipo requiere un subsuelo perfectamente uniforme.
 
 {% fig %}
 ![Natural flooring underlay](/uploads/tektura-karbowana-i-papier-falisty.jpg "Natural flooring underlay")
 {% endfig %}
 
-### Synthetic flooring underlay
+### Capa subyacente de suelo sintético
 
-**Synthetic underlay** has many advantages. One of its best features is the fact that it basically does not absorb water. It also corrects minor surface imperfections. Popular synthetic floor underlays are made of:
+La base sintética tiene muchas ventajas. Una de sus mejores características es el hecho de que básicamente no absorbe agua. También corrige pequeñas imperfecciones de la superficie. Los populares subsuelos sintéticos están hechos de..:
 
 {:.list}
 
-* **Foam** - it is the most commonly chosen underlay - mainly for its cheap price. It is waterproof, however it does not isolate from sounds.
+* La espuma - es la capa subyacente más comúnmente elegida - principalmente por su precio barato. Es impermeable, sin embargo no se aísla de los sonidos.
 
 {:.distinction.distinction-warning}
-It loses its shape relatively quickly and it cannot be used under wooden boards.
+Pierde su forma relativamente rápido y no puede ser usado bajo tablas de madera.
 
 {:.list}
 
-* **Polyethylene (PE)** - it can be used if the underfloor is uneven, as it can fix small imperfections, up to 4 milimetres. It is a good thermal and acoustic insulator.
-* **Polystyrene (XPS)** - such underlay muffles noises well. It is waterproof and very durable. It does not conduct heat, therefore it can be used on floors that are located over unheated rooms.
+* Polietileno (PE) - se puede utilizar si el suelo es desigual, ya que puede arreglar pequeñas imperfecciones, hasta 4 milímetros. Es un buen aislante térmico y acústico.
 
-## What is the best laminate underlay?
+  Poliestireno (XPS) - este subsuelo amortigua bien los ruidos. Es impermeable y muy duradero. No conduce el calor, por lo que puede ser usado en suelos que se encuentran sobre habitaciones sin calefacción.
 
-**No underlay is the best or universal**. Every type of product has different qualities that fit different needs. For this reason one needs to consider various aspects before choosing the right underlay.
+## ¿Cuál es la mejor capa subyacente de laminado?
 
-### Underlay for floor heating
+Ningún subsuelo es el mejor o el más universal. Cada tipo de producto tiene diferentes cualidades que se ajustan a diferentes necesidades. Por esta razón uno necesita considerar varios aspectos antes de elegir el subsuelo correcto.
 
-If you lay vinyl **plank flooring over floor heating**, you should choose an underlay without heat insulation properties. Wrong underlay could hinder the heat, cooling down the room. Therefore an underlay for floor with heating system should **conduct heat** well.
+### Subsuelo para la calefacción del suelo
+
+Si pones un suelo de tablas de vinilo sobre la calefacción del suelo, deberías elegir una capa inferior sin propiedades de aislamiento térmico. Un subsuelo equivocado podría dificultar el calor, enfriando la habitación. Por lo tanto, un subsuelo para el suelo con sistema de calefacción debe conducir bien el calor.
 
 {:.distinction.distinction-information}
-**Corrugated fiberboard** is one of the best underlay for vinyl plank flooring with floor heating.
+El cartón ondulado es una de las mejores bases para los suelos de tablas de vinilo con calefacción.
 
-Paper underlays are good heat conductors, however they do not isolate the room acoustically. If this is what you need the most, a good choice is underlay made of polystyrene (XPS). It does not conduct heat, but it has **special holes** that let the heat move through.
+Los subsuelos de papel son buenos conductores de calor, sin embargo no aíslan acústicamente la habitación. Si esto es lo que más necesita, una buena opción es la capa inferior de poliestireno (XPS). No conduce el calor, pero tiene agujeros especiales que permiten que el calor se mueva a través de ellos.
 
 {% fig %}
 ![Underlay for floor heating](/uploads/podklad-pod-panele-z-tektury-karbowanej.jpg "Underlay for floor heating")
 {% endfig %}
 
-### Underlayment for floor isolation
+### Subsuelo para el aislamiento del suelo
 
-If the room in which you decided to lay laminate boards is located over an unheated room or on the ground, the underlay should provide good **heat insulation**. It means that the material shouldn’t conduct temperature. The best underlays of this type are made of polyethylene and polystyrene.
+Si la habitación en la que decidió colocar los tableros de laminado se encuentra sobre una habitación sin calefacción o en el suelo, el subsuelo debe proporcionar un buen aislamiento térmico. Esto significa que el material no debe conducir la temperatura. Los mejores subsuelos de este tipo están hechos de polietileno y poliestireno.
 
 {:.distinction.distinction-information}
-If acoustic insulation is your priority, cork underlay is worth choosing. Depending on the thickness, it absorbs even up to **25% of sounds**. Polystyrene underlay is another good choice - it reduces sounds to 19 dB.
+Si el aislamiento acústico es su prioridad, vale la pena elegir la base de corcho. Dependiendo del grosor, absorbe hasta un 25% de los sonidos. La base de poliestireno es otra buena opción, reduce los sonidos a 19 dB.
 
-### Underlay for an extensively used floor
+### Subsuelo para un suelo de uso extensivo
 
-Not every type of underlay is suitable for a heavily used floor. Cork or foam might not be durable enough and they could get damaged very quickly. Therefore for rooms such as halls and living rooms it is good to choose an underlay which is **resistant to mechanical damage**.
+No todos los tipos de subsuelo son adecuados para un suelo muy usado. El corcho o la espuma podrían no ser lo suficientemente duraderos y podrían dañarse muy rápidamente. Por lo tanto, para habitaciones como pasillos y salas de estar es bueno elegir un subsuelo que sea resistente a los daños mecánicos.
 
-One of the most durable materials is polystyrene. Quartz underlay is probably the strongest, however it is quite expensive.
+Uno de los materiales más duraderos es el poliestireno. El subsuelo de cuarzo es probablemente el más fuerte, sin embargo es bastante caro.
 
-### Allergy-proof underlay
+### Capa de base a prueba de alergias
 
-If an **allergy sufferer** is going to live in the room with vinyl flooring, the material used for underlay needs a special attention.
+Si una persona alérgica va a vivir en una habitación con suelo de vinilo, el material utilizado para la base necesita una atención especial.
 
 {:.distinction.distinction-warning}
-An allergy-proof underlay for vinyl plank flooring must not release any dust - therefore using **plywood** in this case is not advised. Material of this type is quite dusty, which might be irritating or even dangerous for an allergy sufferer.
+Una base a prueba de alergias para el suelo de tablones de vinilo no debe liberar ningún polvo, por lo que no se aconseja el uso de madera contrachapada en este caso. El material de este tipo es bastante polvoriento, lo que puede ser irritante o incluso peligroso para un alérgico.
 
-The best natural material for this purpose is **cork underlay**. Its main advantages is resistance to moisture, as well as mould and fungi. Alternatively you can use a plastic material underlay which does not absorb water nor release any dust.
+El mejor material natural para este propósito es el subsuelo de corcho. Sus principales ventajas son la resistencia a la humedad, así como al moho y a los hongos. Alternativamente se puede usar un material plástico que no absorbe agua ni libera polvo.
 
-**Finishing your house might be quite a difficult process. Many homeowners ask specialists: what is the best laminate underlay? A good material is a guarantee that your vinyl plank floor is going to last long. It might also have some additional features. One should consider what criterion is the most important for them and use it to choose the right product. If you have a problem with making the decision, you should ask a salesperson to help you.**
+Terminar su casa puede ser un proceso bastante difícil. Muchos propietarios preguntan a los especialistas: ¿cuál es el mejor subsuelo de laminado? Un buen material es una garantía de que su piso de tablas de vinilo va a durar mucho tiempo. También puede tener algunas características adicionales. Uno debe considerar qué criterio es el más importante para ellos y usarlo para elegir el producto adecuado. Si tiene problemas para tomar la decisión, debería pedirle a un vendedor que le ayude.
 
-## Underlay for plank flooring - FAQ
+## Capa de base para el suelo de tablones - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-How to install underlay?
+¿Cómo instalar la capa inferior?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Any type of underlay should be installed at 45 degrees angle to the direction the plank boards are going to lay. Make sure to cut the underlay to perfectly fit it to the room.
+Cualquier tipo de subsuelo debe ser instalado en un ángulo de 45 grados con respecto a la dirección en la que se colocarán las tablas. Asegúrate de cortar el subsuelo para que se ajuste perfectamente a la habitación.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to lay underlay for underfloor heating?
+¿Cómo se coloca la capa inferior para la calefacción por suelo radiante?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Underlay for underfloor heating should be installed the same way as any other underlay. For this type, the vapour barrier is mandatory. The best laminate underlay for floor heating is polystyrene and corrugated fiber.
+El subsuelo para la calefacción por suelo radiante debe ser instalado de la misma manera que cualquier otro subsuelo. Para este tipo, la barrera de vapor es obligatoria. El mejor subsuelo laminado para la calefacción del suelo es el poliestireno y la fibra ondulada.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-What is the best underlay for laminate flooring?
+¿Cuál es la mejor base para el suelo laminado?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Any type of underlay is good and one should fit the right product to their particular needs. Underlay can serve many functions, such as acoustic or warmth isolation.
+Cualquier tipo de subsuelo es bueno y se debe ajustar el producto adecuado a sus necesidades particulares. La base puede servir para muchas funciones, como el aislamiento acústico o térmico.
 {% endfaqAnswer %}
 {% endfaqItem %}
