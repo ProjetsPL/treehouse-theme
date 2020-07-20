@@ -1,18 +1,20 @@
 ---
 layout: post
-date: 2020-01-29
+date: 2020-07-18
 toc: true
-title: Pavement around your house. How to lay paving stones?
-description: You might wonder whether you should choose stone pavers for a pavement
-  around your house. Paving stones might be the right choice. They have many advantages.
+title: Pavimento intorno alla casa. Come posare la pavimentazione?
+description: Ci si potrebbe chiedere se si debba scegliere una pavimentazione in pietra
+  per un marciapiede intorno alla casa. La pavimentazione in pietra potrebbe essere
+  la scelta giusta. Hanno molti vantaggi.
 image: "/uploads/ukladanie-kostki-brukowej.jpg"
 promoted: false
-update_date: 2020-02-05
-intro: If you are planning to make pathways or a patio around your house, you might
-  wonder what material you should choose. Making the right decision is not easy. The
-  main goal for paving is to enhance the looks of the area surrounding your house.
-  Many homeowners decide to lay paving stones. Paved pathways are quite durable and
-  cheap.
+update_date: 2020-07-18
+intro: Se avete in programma di realizzare dei percorsi o un patio intorno alla vostra
+  casa, potreste chiedervi quale materiale scegliere. Non è facile prendere la decisione
+  giusta. L'obiettivo principale della pavimentazione è quello di valorizzare l'aspetto
+  dell'area che circonda la vostra casa. Molti proprietari di case decidono di posare
+  le pietre per la pavimentazione. I sentieri lastricati sono abbastanza resistenti
+  ed economici.
 main_keywords:
 - marciapiede
 - pietre da pavimentazione
@@ -22,113 +24,112 @@ main_keywords:
 - lastre per pavimentazione
 - come posare le pietre da pavimentazione
 - come pulire le pietre da pavimentazione
-published: false
 
 ---
-## Paving stones - choosing the right material
+## Pietre da pavimentazione - scegliere il materiale giusto
 
-Before you start working on your paths and patio, you should choose the right material. You can get many different types of **paving slabs**. Choosing the right one you should pay attention to the material, it colour and general effect you expect from the pavement. The price of the material is a crucial aspect as well. Keep in mind that the prices differ, depending not only on the material but also on the size and thickness of stones. Manufacturers usually set the price by the weight, therefore make sure you know **how sufficient the material is**.
+Prima di iniziare a lavorare sui vostri percorsi e sul patio, dovreste scegliere il materiale giusto. È possibile ottenere molti tipi diversi di lastre di pavimentazione. Scegliendo quella giusta si dovrebbe prestare attenzione al materiale, al suo colore e all'effetto generale che ci si aspetta dalla pavimentazione. Anche il prezzo del materiale è un aspetto cruciale. Tenete presente che i prezzi variano a seconda non solo del materiale, ma anche delle dimensioni e dello spessore delle pietre. I produttori di solito fissano il prezzo in base al peso, quindi assicuratevi di sapere quanto è sufficiente il materiale.
 
 {:.distinction.distinction-information}
-If you want to hire a professional to lay the pavement for you, keep in mind that the price for the service includes various aspects. It is, for instance, important whether your stones have one colour or if you want to **arrange them in a pattern**. Preparing the terrain is also included in price.
+Se volete assumere un professionista per posare il pavimento per voi, tenete presente che il prezzo del servizio comprende vari aspetti. È importante, ad esempio, se le vostre pietre hanno un solo colore o se volete disporle secondo un modello. Anche la preparazione del terreno è inclusa nel prezzo.
 
 {% fig %}
 ![Paving stones - choosing the right material](/uploads/jaka-jest-cena-kostki-brukowej.jpg "Paving stones - choosing the right material")
 {% endfig %}
 
-## Laying paving stones - quality and price
+## Posa delle pavimentazioni - qualità e prezzo
 
-Having decided on paving stones for your garden, you might wonder which slab is the best. The main points of interest are the **quality of the material**, aesthetics, price and practicality. All those aspects should be taken into consideration before purchasing the material.
+Dopo aver deciso di pavimentare il vostro giardino, vi chiederete quale sia la lastra migliore. I principali punti di interesse sono la qualità del materiale, l'estetica, il prezzo e la praticità. Tutti questi aspetti dovrebbero essere presi in considerazione prima di acquistare il materiale.
 
-### Concrete paving slabs
+### Lastre di calcestruzzo
 
-Industrial paving stones are usually made of concrete. The material is concentrated and condensed, with addition of as little water as possible. Thanks to the addition of **colourful grit and pigmentation** the stones have various colours. Colourization might involve the whole paving stone or just its surface. The main advantages of concrete paving stones are:
+Le pavimentazioni industriali sono di solito realizzate in calcestruzzo. Il materiale è concentrato e condensato, con l'aggiunta di meno acqua possibile. Grazie all'aggiunta di graniglia colorata e pigmentazione le pietre hanno vari colori. La colorazione può interessare l'intera pavimentazione o solo la sua superficie. I principali vantaggi delle pietre da pavimentazione in calcestruzzo sono i seguenti:
 
 {:.list.list-positive}
 
-* **Durability** - concrete stone rarely gets damaged, and manufacturers implement various methods of hardening the material.
-* **Frost resistance** - industrial paving stones can be characterised by low water absorption. Because of this feature water does not get inside the material and therefore frost cannot damage it.
-* **A lot of designs** - manufacturers offer paving stones in various shapes and colours. Such a wide selection makes it easier to fit the stones to the design of your house. In this regards, concrete paving slabs are better than natural stone pavers.
-* **Wide range of prices** - it’s the biggest advantage of material of this type. You will surely find the right product for yourself even if your budget is very limited. Cost of installing a concrete pavement by a professional is also much lower than it is with a granite stone.
+* Durevolezza - la pietra di cemento raramente viene danneggiata, e i produttori implementano vari metodi di indurimento del materiale.
+* Resistenza al gelo - le pietre per pavimentazioni industriali possono essere caratterizzate da un basso assorbimento d'acqua. A causa di questa caratteristica l'acqua non entra nel materiale e quindi il gelo non può danneggiarlo.
+* Molti design - i produttori offrono pietre da pavimentazione in varie forme e colori. Una selezione così ampia rende più facile adattare le pietre al design della vostra casa. A questo proposito, le lastre di calcestruzzo sono migliori delle pavimentazioni in pietra naturale.
+* Ampia gamma di prezzi - è il più grande vantaggio di questo tipo di materiale. Troverete sicuramente il prodotto giusto per voi anche se il vostro budget è molto limitato. Anche i costi per la posa in opera di una pavimentazione in calcestruzzo da parte di un professionista sono molto più bassi rispetto a quelli di una pietra di granito.
 
 {:.distinction.distinction-warning}
-The biggest disadvantage of concrete stone is its lower resistance in comparison with natural stone.
+Lo svantaggio maggiore della pietra concreta è la sua minore resistenza rispetto alla pietra naturale.
 
 {% fig %}
 ![Concrete paving slabs](/uploads/betonowa-kostka-brukowa.jpg "Concrete paving slabs")
 {% endfig %}
 
-### Natural paving stone
+### Pietra naturale per pavimentazione
 
-Natural stone is a good alternative for concrete paving stones. The most popular choice in this category is **granite**. The price of this material is much higher that concrete. Nevertheless, granite is valued for its features, such as:
+La pietra naturale è una buona alternativa per la pavimentazione in calcestruzzo. La scelta più popolare in questa categoria è il granito. Il prezzo di questo materiale è molto più alto del calcestruzzo. Tuttavia, il granito è apprezzato per le sue caratteristiche, come ad esempio:
 
 {:.list.list-positive}
 
-* **Resistance to damage** - granite is resistant to crumbling, abrasion and discolouration. Once laid, this type of paving stone is going to last for a very long time.
-* **Resistance to fire and frost** - low temperatures are not dangerous for granite paving stones. They also cannot be destroyed by heat or fire.
-* **Natural material** - granite extraction is ecological and does not involve use of any chemicals.
-* **Stylish look** - natural stone is very elegant. It is a perfect solution for homeowners who want to combine the aesthetics and durability of granite. This material will suit most houses with classical design.
+* Resistenza ai danni - il granito è resistente allo sbriciolamento, all'abrasione e allo scolorimento. Una volta posato, questo tipo di pavimentazione durerà a lungo.
+* Resistenza al fuoco e al gelo - le basse temperature non sono pericolose per le pavimentazioni in granito. Inoltre, non possono essere distrutte dal calore o dal fuoco.
+* Materiale naturale - l'estrazione del granito è ecologica e non comporta l'uso di sostanze chimiche.
+* Look elegante - la pietra naturale è molto elegante. È una soluzione perfetta per i proprietari di case che vogliono combinare l'estetica e la durata del granito. Questo materiale si adatta alla maggior parte delle case con un design classico.
 
 {:.distinction.distinction-warning}
-The biggest disadvantage of granite paving stones is their uneven surface, which is difficult to clear of snow.
+Lo svantaggio maggiore delle pietre di pavimentazione in granito è la loro superficie irregolare, difficile da sgombrare dalla neve.
 
 {% fig %}
 ![Natural paving stone](/uploads/kamienna-kostka-brukowa.jpg "Natural paving stone")
 {% endfig %}
 
-## How to lay paving stones? Step by step guide
+## Come posare le pietre per la pavimentazione? Guida passo dopo passo
 
-A decision to **pave the paths yourself** is a great way to significantly reduce the costs. It is not as difficult as it seems. All you need is good preparation.
+La decisione di spianare la strada da soli è un ottimo modo per ridurre significativamente i costi. Non è così difficile come sembra. Tutto ciò che serve è una buona preparazione.
 
 {:.list}
 
-1. If you decided to lay paving stones on your own, you might wonder what kind of material you should choose. While the price is important, it should not be the decisive factor. **Thickness of the paving stone** should be suited to the intended use of the pavement. You should also predict resistance of the material to mechanical damage. For instance, 4 centimetres thick paving stones are good for garden paths, whereas for a patio you should use material that is twice as thick.
+1. Se avete deciso di posare le pietre per pavimentazione da soli, potreste chiedervi che tipo di materiale scegliere. Anche se il prezzo è importante, non dovrebbe essere il fattore decisivo. Lo spessore della pietra da pavimentazione deve essere adeguato all'uso previsto per la pavimentazione. Si dovrebbe anche prevedere la resistenza del materiale ai danni meccanici. Per esempio, le pietre di 4 centimetri di spessore sono buone per i sentieri del giardino, mentre per un patio si dovrebbe usare un materiale con uno spessore doppio.
 
 {:.distinction.distinction-information}
-The paving slabs should also visually harmonise with the building.
+Le lastre di pavimentazione devono anche armonizzarsi visivamente con l'edificio.
 
 {:.list}
 
-1. Before you start laying the paving stones, dig a depth across the area in which you are planning to lay the stones. The depth depends on the **intended use of the pavement**. For garden paths it is usually 15-20 cm. For a heavier use, the depth should be at least half a metre. Shape the bottom so that water can be carried away.
-2. Before laying the paving stones, you should **start from the edges**. For small paths you may use pavement kerbs or palisade. In spots at which vehicles are going to move, you should use large road kerbs. Place the elements on a layer of concrete. After it dries up, fill any spaces with sand.
+1. Prima di iniziare a posare le pietre di pavimentazione, scavare una profondità in tutta l'area in cui si prevede di posare le pietre. La profondità dipende dall'uso che si intende fare della pavimentazione. Per i sentieri del giardino è di solito di 15-20 cm. Per un uso più pesante, la profondità dovrebbe essere di almeno mezzo metro. Modellare il fondo in modo che l'acqua possa essere portata via.
+2. Prima di posare le pietre per la pavimentazione, si dovrebbe iniziare dai bordi. Per i piccoli sentieri si possono usare cordoli o palizzate. Nei punti in cui i veicoli si muovono, si dovrebbero usare cordoli stradali di grandi dimensioni. Posizionare gli elementi su uno strato di calcestruzzo. Dopo che si è asciugato, riempire gli spazi con la sabbia.
 
 {:.distinction.distinction-information}
-Make sure to **be very precise**, so that the kerbs are nice and even.
+Assicuratevi di essere molto precisi, in modo che i cordoli siano belli e regolari.
 
 {:.list}
 
-1. Lay and compact aggregate, and then create a base using concrete and sand. Then you can start **laying the paving stones**. You can lay them alternately or in patterns. Make sure not to step on the base, you can, however, step on the laid slabs. Lay the stones as tight as possible and make sure to mix the elements, choosing them from different pallets. The paved stones need to be pressed. You can use a surface vibrator for this purpose.
+1. Posare e compattare l'aggregato, quindi creare una base con calcestruzzo e sabbia. Poi si può iniziare a posare le pietre di pavimentazione. Si possono posare alternativamente o secondo schemi. Assicuratevi di non calpestare la base, potete comunque calpestare le lastre posate. Posate le pietre il più stretto possibile e assicuratevi di mescolare gli elementi, scegliendoli da diversi pallet. Le pietre pavimentate devono essere pressate. A tale scopo si può utilizzare un vibratore di superficie.
 
-You can lay paving stones by yourself or you can hire a professional to do it for you. One of the most important issues is **choosing the right material**. The price might be the decisive aspect, however you should also pay attention to the appearance and durability of the paving stones.
+Potete posare la pavimentazione da soli o assumere un professionista che lo faccia per voi. Una delle questioni più importanti è la scelta del materiale giusto. Il prezzo può essere l'aspetto decisivo, ma bisogna anche prestare attenzione all'aspetto e alla durata delle pietre da pavimentazione.
 
-## Pavement around your house - FAQ
+## Pavimento intorno alla casa - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-What is pavement made of?
+Di cosa è fatto il pavimento?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Pavement stones are made either of concrete or of natural stones. Concrete is the most commonly used material, however natural granite paving stones are the most durable of all.
+Le pietre per pavimentazione sono realizzate in calcestruzzo o in pietra naturale. Il calcestruzzo è il materiale più utilizzato, ma le pietre di pavimentazione in granito naturale sono le più durevoli.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to clean paving stones?
+Come si pulisce la pavimentazione?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-For light dirt you can use water with soap, brushing the area. If your paving stones are very dirty, pour a mix of water and vinegar onto them. The quickest way to clean your patio is using a pressure washer.
+Per lo sporco leggero si può usare acqua con sapone, spazzolando la zona. Se le pietre della pavimentazione sono molto sporche, versate su di esse un mix di acqua e aceto. Il modo più veloce per pulire il patio è usare un'idropulitrice.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to cut paving stones?
+Come si taglia la pavimentazione?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The quickest way to cut a paver stone is using a circular saw or angle grinder. Brick splitter is easier to use. If you don’t have such equipment, you can just use a hammer and chisel.
+Il modo più rapido per tagliare una pietra da lastricatore è l'utilizzo di una sega circolare o di una smerigliatrice angolare. Lo spaccalegna per mattoni è più facile da usare. Se non si dispone di tale attrezzatura, è sufficiente usare un martello e uno scalpello.
 {% endfaqAnswer %}
 {% endfaqItem %}
