@@ -1,19 +1,19 @@
 ---
 layout: post
-date: 2020-01-27
+date: 2020-07-18
 toc: true
-title: Dropped ceiling - what exactly is a stretch ceiling?
-description: Dropped ceiling is quite a popular solution that can hide imperfections
-  of the main ceiling. If you are not convinced to plasterboard, consider stretch
-  ceiling.
+title: Abgesenkte Decke - was genau ist eine Spanndecke?
+description: Die abgehängte Decke ist eine recht beliebte Lösung, die Unvollkommenheiten
+  der Hauptdecke verbergen kann. Wenn Sie nicht von Gipskartonplatten überzeugt sind,
+  sollten Sie eine Spanndecke in Betracht ziehen.
 image: "/uploads/sufit-napinany.jpg"
 promoted: true
-update_date: 2020-02-03
-intro: Repairing an old, damaged ceiling might cost too much money and effort. In
-  such a case you might consider a dropped ceiling to conceal the imperfections. An
-  increasingly popular solution of this type is stretch ceiling. It is much more lightweight
-  than plasterboard. It also allows for a quicker installation. Fabric ceiling is
-  an alternative that is worth considering.
+update_date: 2020-07-18
+intro: Die Reparatur einer alten, beschädigten Decke könnte zu viel Geld und Mühe
+  kosten. In einem solchen Fall könnten Sie eine heruntergefallene Decke in Betracht
+  ziehen, um die Unvollkommenheiten zu kaschieren. Eine immer beliebtere Lösung dieser
+  Art ist die Spanndecke. Sie ist viel leichter als Gipskartonplatten. Sie ermöglicht
+  auch eine schnellere Installation. Die Stoffdecke ist eine erwägenswerte Alternative.
 main_keywords:
 - Decke
 - abgehängte Decke
@@ -21,21 +21,20 @@ main_keywords:
 - Gewebedecke
 - PVC-Decke
 - wie man eine Decke mit Stoff drapiert
-published: false
 
 ---
-## What is a stretch ceiling?
+## Was ist eine Spanndecke?
 
-**Stretch ceiling** is a kind of dropped ceiling. This method is one of the oldest techniques in the category of **interior design**. Hanging a fabric under ceiling was popular in many countries throughout the centuries. Ancient Romans used silk, Egyptians - flax, while Armenians preferred cotton.
+Die Spanndecke ist eine Art abgehängte Decke. Diese Methode ist eine der ältesten Techniken in der Kategorie der Innenarchitektur. Das Aufhängen eines Stoffes unter der Decke war in vielen Ländern im Laufe der Jahrhunderte beliebt. Die alten Römer verwendeten Seide, die Ägypter - Flachs, während die Armenier Baumwolle bevorzugten.
 
 {:.distinction.distinction-information}
-A perfectly even surface was achieved by hanging a wet cloth, which reduced its volume and stretched in the process of drying up.
+Eine vollkommen gleichmäßige Oberfläche wurde durch Aufhängen eines nassen Tuches erreicht, das sein Volumen reduzierte und sich beim Austrocknen dehnte.
 
-In time, stretch ceiling became a scarcity, to come back in the 20th century. Nowadays this type of dropped ceiling is made of PVC fabric. It is installed on special boards attached to the walls. There are many patterns which can be suited for a particular interior design. The most popular dropped ceilings of this type are:
+Mit der Zeit wurde die Spanndecke zu einer Mangelware, die im 20. Heutzutage wird diese Art von Spanndecke aus PVC-Gewebe hergestellt. Sie wird auf speziellen, an den Wänden befestigten Brettern installiert. Es gibt viele Muster, die sich für eine bestimmte Inneneinrichtung eignen. Die beliebtesten dieser Art von abgehängten Decken sind:
 
 {:.list}
 
-* **3D stretch ceiling** - a 3D picture is printed onto the canvas, which creates an **illusion of depth**. The most common designs are pictures of water, space or the sky. Such solution is very impressive and it fits modern interior design.
+* 3D-Spanndecke - ein 3D-Bild wird auf die Leinwand gedruckt, was eine Illusion von Tiefe erzeugt. Die gängigsten Designs sind Bilder von Wasser, Raum oder Himmel. Eine solche Lösung ist sehr beeindruckend und passt zu moderner Innenarchitektur.
 
 {% fig %}
 ![What is a stretch ceiling?](/uploads/sufit-3D.jpg "What is a stretch ceiling?")
@@ -43,89 +42,89 @@ In time, stretch ceiling became a scarcity, to come back in the 20th century. No
 
 {:.list}
 
-* **Mirror stretch ceiling** - glossy surface of the material reflects the light like a mirror. Such dropped ceilings might have any colour. It is most commonly used in **luxurious, royal interior designs**.
-* **Matt stretch ceiling** - made of a fabric that does not reflect light. Although there are many available colours, white is the most popular, as it fits most of interior designs.
+* Mirror stretch ceiling - glänzende Oberfläche des Materials reflektiert das Licht wie ein Spiegel. Solche Spanndecken können jede beliebige Farbe haben. Am häufigsten wird sie in luxuriösen, königlichen Inneneinrichtungen verwendet.
+* Matte Spanndecke - hergestellt aus einem Stoff, der das Licht nicht reflektiert. Obwohl es viele verfügbare Farben gibt, ist Weiß die beliebteste, da es zu den meisten Inneneinrichtungen passt.
 
-## Why choosing a stretch ceiling?
+## Warum eine Spanndecke wählen?
 
-Dropped ceiling is a perfect solution for any place that requires hiding imperfections and damaged surface. Unaesthetic finish, external pipes - they can be easily covered with fabric.
+Die abgehängte Decke ist eine perfekte Lösung für jeden Ort, an dem Unvollkommenheiten und beschädigte Oberflächen verborgen werden müssen. Unästhetische Oberfläche, externe Rohre - sie können leicht mit Stoff abgedeckt werden.
 
 {:.distinction.distinction-warning}
-This method brings the ceiling to a lower level - therefore it cannot be employed in low ceiling rooms.
+Diese Methode bringt die Decke auf ein niedrigeres Niveau - sie kann daher nicht in Räumen mit niedriger Decke eingesetzt werden.
 
-They are perfect in traditional tenements and any other high ceiling rooms.
+Sie sind perfekt in traditionellen Mietskasernen und allen anderen Räumen mit hohen Decken.
 
 {% fig %}
 ![Why choosing a stretch ceiling?](/uploads/kiedy-warto-wybrac-sufit-napinany.jpg "Why choosing a stretch ceiling?")
 {% endfig %}
 
-### Stretch ceiling - advantages
+### Spanndecke - Vorteile
 
-Dropped ceiling made of cloth is very quick to install, which is the main strength of this solution. Other advantages of stretch ceilings are:
+Eine abgehängte Decke aus Stoff lässt sich sehr schnell installieren, was die Hauptstärke dieser Lösung ist. Weitere Vorteile von Spanndecken sind:
 
 {:.list.list-positive}
 
-* **Durability** - stretch ceilings are quite resistant to mechanical damage. Because of this it is one of the most durable designs. They might last even several dozens of years - manufacturers usually offer a 10-year warranty.
-* **Perfect finish** - a stretch ceiling creates a perfectly even surface. It is not possible with traditional finishes. Manufacturers offer a wide range of designs that can be also **customised**. One can choose a uniform surface or a 3D print with a chosen pattern. If you don’t want a smooth finish, you might to choose a fabric ceiling shaped in any form.
-* **Resistance** - fabrics used for stretch ceilings are humidity-, fire- and dust-resistant. If installed well, a dropped ceiling of this type is **waterproof**, therefore the cloth won’t let anything through in case of a leak from the upper level. As many manufacturers claim, depending on the construction, a stretch ceiling is able to hold up to 100 litres of water. Fabrics used in such constructions are **fireproof**.
-* **Acoustic insulation** - a dropped ceiling made of a perforated membrane is able to absorb noise from a room. It is particularly useful in big lecture halls, as well as in private apartments - especially in bedrooms.
-* **Easy to clean** - once installed, a stretch ceiling does not require any special attention. They can be vacuumed and the whole construction allows to take it off, for instance to clean piping system located over it.
+* Haltbarkeit - Spanndecken sind ziemlich widerstandsfähig gegen mechanische Beschädigungen. Aus diesem Grund ist sie eine der haltbarsten Konstruktionen. Sie können sogar mehrere Dutzend Jahre halten - die Hersteller bieten in der Regel eine 10-jährige Garantie.
+* Perfektes Finish - eine Spanndecke erzeugt eine perfekt ebene Oberfläche. Dies ist mit traditionellen Oberflächenbehandlungen nicht möglich. Die Hersteller bieten eine breite Palette von Designs an, die auch individuell gestaltet werden können. Man kann eine einheitliche Oberfläche oder einen 3D-Druck mit einem gewählten Muster wählen. Wenn Sie kein glattes Finish wünschen, können Sie eine Stoffdecke in beliebiger Form wählen.
+* Beständigkeit - Stoffe, die für Spanndecken verwendet werden, sind feuchtigkeits-, feuer- und staubbeständig. Bei guter Installation ist eine solche abgehängte Decke wasserdicht, daher lässt der Stoff im Falle eines Lecks in der oberen Ebene nichts durch. Wie viele Hersteller behaupten, kann eine Spanndecke, je nach Konstruktion, bis zu 100 Liter Wasser aufnehmen. Die in solchen Konstruktionen verwendeten Stoffe sind feuerfest.
+* Schalldämmung - eine abgehängte Decke aus einer perforierten Membran ist in der Lage, Lärm aus einem Raum zu absorbieren. Besonders nützlich ist sie in großen Hörsälen, aber auch in Privatwohnungen - vor allem in Schlafzimmern.
+* Leicht zu reinigen - einmal installiert, erfordert eine Spanndecke keine besondere Aufmerksamkeit. Sie kann abgesaugt werden, und die gesamte Konstruktion erlaubt es, sie abzunehmen, zum Beispiel um das darüber liegende Rohrsystem zu reinigen.
 
 {% fig %}
 ![Stretch ceiling - advantages](/uploads/sufit-napinany-zalety.jpg "Stretch ceiling - advantages")
 {% endfig %}
 
-### Stretch ceiling - disadvantages
+### Spanndecke - Nachteile
 
-Apart from the advantages, every dropped ceiling made of fabric also has its weaknesses. They need to be taken into consideration to be conscious about the limits related to this method.
+Abgesehen von den Vorteilen hat jede abgehängte Decke aus Stoff auch ihre Schwächen. Diese müssen berücksichtigt werden, um sich der Grenzen dieser Methode bewusst zu werden.
 
 {:.list.list-negative}
 
-* **Problem with sizing** - despite the fact that stretch ceilings are quite versatile, they are not suitable for every type of room. Fabric ceiling might be difficult to evenly fit in spaces of an unusual shape or if walls have many niches and recesses. Although the boards can be adjusted to such conditions, it might be quite costly. Another problem is the fact that maximum size of the cloth is 5 metres. Larger surfaces require using two separate fabrics, which don’t create a perfectly even surface.
-* **Lighting options** - power of lamps used for a stretch ceiling cannot be larger than 40 W. They also have to be protected from heating - high temperature could cause the fabric discolouration.
-* **High price** - the total price obviously depends on the size, chosen material and complexity of the room, however dropped ceiling of this type generally is quite costly. The costs rise along with the project customisation, particular print design and fitting the construction to unusual rooms.
+* Problem mit der Dimensionierung - obwohl Spanndecken recht vielseitig sind, eignen sie sich nicht für jeden Raumtyp. Es kann schwierig sein, Spanndecken gleichmäßig in Räume mit einer ungewöhnlichen Form oder wenn die Wände viele Nischen und Vertiefungen aufweisen, einzupassen. Obwohl die Spanndecken an solche Bedingungen angepasst werden können, kann dies recht kostspielig sein. Ein weiteres Problem ist die Tatsache, dass die maximale Größe des Tuches 5 Meter beträgt. Größere Flächen erfordern die Verwendung von zwei getrennten Tüchern, die keine vollkommen gleichmäßige Oberfläche erzeugen.
+* Beleuchtungsmöglichkeiten - die Leistung der Lampen, die für eine Spanndecke verwendet werden, darf nicht größer als 40 W sein. Sie müssen auch vor Erwärmung geschützt werden - hohe Temperaturen könnten eine Verfärbung des Gewebes verursachen.
+* Hoher Preis - der Gesamtpreis hängt natürlich von der Größe, dem gewählten Material und der Komplexität des Raumes ab, jedoch ist eine solche Spanndecke im Allgemeinen recht kostspielig. Die Kosten steigen mit der Projektanpassung, dem besonderen Druckdesign und der Anpassung der Konstruktion an ungewöhnliche Räume.
 
-**Stretched ceiling might be a better idea than a plasterboard.** Its installation is much quicker, requires less materials and less work. Contrary to plasterboard ceilings, solutions involving fabric require hiring a crew of specialists. The cloth is easy to damage during installation.
+Eine Spanndecke könnte eine bessere Idee sein als eine Gipskartonplatte. Ihre Installation ist viel schneller, erfordert weniger Material und weniger Arbeit. Im Gegensatz zu Gipskartondecken erfordern Lösungen mit Gewebe die Anstellung einer Mannschaft von Spezialisten. Der Stoff ist bei der Installation leicht zu beschädigen.
 
-## Stretch ceiling - how is it installed?
+## Spanndecke - wie wird sie installiert?
 
-Stretch ceilings do not require preparing the **main ceiling**. The only thing to be kept in mind is to make sure that nothing (e.g. dust or plaster) fall off it. Walls on which the boards are going to be installed need to be smoothed. The furniture might stay inside during the installation. The room should be warmed up. The minimal temperature is 18°C, while 40°C is the most optimal. If it’s a PVC ceiling, the material needs to be warmed up to 60-70°C before stretching out. **The cloth ceiling** does not require warming up.
+Bei Spanndecken ist es nicht erforderlich, die Hauptdecke vorzubereiten. Es muss nur darauf geachtet werden, dass nichts (z.B. Staub oder Putz) von ihr herunterfällt. Die Wände, an denen die Platten angebracht werden sollen, müssen geglättet werden. Die Möbel können während der Installation im Haus bleiben. Der Raum sollte aufgewärmt werden. Die minimale Temperatur beträgt 18°C, während 40°C am optimalsten ist. Wenn es sich um eine PVC-Decke handelt, muss das Material auf 60-70°C erwärmt werden, bevor es sich ausdehnt. Die Stoffdecke muss nicht erwärmt werden.
 
-Before the structure is installed, the fabric is attached to the corners of the construction with special fasteners. The ceiling is warmed up and attached to the boards installed on the walls. The heat causes the fabric to contract and stretch, creating a smooth and even surface. The last stage is hiding the slits between the boards and the walls.
+Bevor die Struktur installiert wird, wird das Gewebe mit speziellen Befestigungen an den Ecken der Konstruktion befestigt. Die Decke wird erwärmt und an den an den Wänden angebrachten Brettern befestigt. Durch die Wärme zieht sich der Stoff zusammen und dehnt sich aus, wodurch eine glatte und gleichmäßige Oberfläche entsteht. In der letzten Phase werden die Schlitze zwischen den Brettern und den Wänden versteckt.
 
 {% fig %}
 ![Stretch ceiling - how is it installed?](/uploads/sufit-napinany-jak-wyglada-montaz-1.jpg "Stretch ceiling - how is it installed?")
 {% endfig %}
 
-## What is the cost of a stretch ceiling
+## Wie hoch sind die Kosten für eine Spanndecke?
 
-The price of a dropped ceiling of this type depends on many factors. The most important one is the area of the room. Another important issue is unusual shape of a room, any recesses or niches - all such difficulties contribute to the price growth. Price is also shaped by customisations - used material (PVC or polyester), **selected pattern**, custom print. Lighting is important as well - you can choose a LED strip or a traditional lamp, fit specifically for the purpose of such ceiling.
+Der Preis für eine solche Senkung der Obergrenze hängt von vielen Faktoren ab. Der wichtigste Faktor ist die Fläche des Raumes. Eine weitere wichtige Frage ist die ungewöhnliche Form des Raumes, eventuelle Nischen oder Nischen - all diese Schwierigkeiten tragen zum Preisanstieg bei. Der Preis wird auch durch individuelle Anpassungen - verwendetes Material (PVC oder Polyester), ausgewähltes Muster, individueller Druck - beeinflusst. Auch die Beleuchtung ist wichtig - Sie können einen LED-Streifen oder eine traditionelle Lampe wählen, die speziell für den Zweck einer solchen Decke geeignet ist.
 
-All the mentioned aspects mean that the price of such a project is quite an individual issue. Manufacturers usually offer a basic price, however all individual additions raise the price.
+Alle genannten Aspekte bedeuten, dass der Preis für ein solches Projekt eine ganz individuelle Frage ist. Die Hersteller bieten gewöhnlich einen Grundpreis an, aber alle individuellen Ergänzungen erhöhen den Preis.
 
 {:.distinction.distinction-information}
-**Stretch ceiling** is definitely more expensive than dropped ceiling made of plasterboard. Despite that fact you should consider choosing this solution, for instance because of its high durability.
+Spanndecken sind definitiv teurer als abgehängte Decken aus Gipskartonplatten. Trotzdem sollten Sie die Wahl dieser Lösung in Betracht ziehen, zum Beispiel wegen ihrer hohen Haltbarkeit.
 
-This type of dropped ceiling is quite different than traditional methods. Its biggest advantage is the fact that it is a great decoration. You can choose from a lot of pattern that will help you to create an impressive ceiling. Considering all the advantages, a stretch ceiling might be worth its price.
+Diese Art der abgehängten Decke ist ganz anders als die traditionellen Methoden. Ihr größter Vorteil ist die Tatsache, dass sie eine großartige Dekoration darstellt. Sie können aus einer Vielzahl von Mustern wählen, die Ihnen helfen werden, eine beeindruckende Decke zu schaffen. Wenn man alle Vorteile in Betracht zieht, könnte eine Spanndecke ihren Preis wert sein.
 
-## Dropped ceiling - FAQ
+## Abgesenkte Decke - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-How to drape a ceiling with fabric?
+Wie drapiert man eine Decke mit Stoff?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-To decorate a ceiling, you need a large piece of cloth, staple gun, scissors, and a ladder. First staple the fabric to the centre of the ceiling and then attach the corners. Cut off any excess material.
+Um eine Decke zu dekorieren, benötigen Sie ein großes Stück Stoff, eine Heftpistole, eine Schere und eine Leiter. Heften Sie den Stoff zunächst in der Mitte der Decke fest und befestigen Sie dann die Ecken. Schneiden Sie überschüssiges Material ab.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to hang fabric from ceiling?
+Wie hängt man Stoff von der Decke?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-You might either attach the fabric to the lamp located in the centre of the room or just staple it to the ceiling. Several long strips of cloth are easier to attach than one large piece.
+Sie können den Stoff entweder an der Lampe in der Mitte des Raumes befestigen oder ihn einfach an die Decke heften. Mehrere lange Stoffstreifen sind einfacher zu befestigen als ein großes Stück.
 {% endfaqAnswer %}
 {% endfaqItem %}
