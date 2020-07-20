@@ -1,19 +1,20 @@
 ---
 layout: post
-date: 2020-01-08
+date: 2020-07-18
 toc: true
-title: DIY Furniture Made of Pallets. How to Make Pallet Furniture?
-description: Pallets are ➡️ the hottest design trend. It's a zero-waste, eco-friendly
-  and cheap furniture idea! ✔️ Find out how to make your own pallet furniture.
+title: Mobili fai da te realizzati in pallet. Come fare mobili per pallet?
+description: I pallet sono ➡️ il trend più caldo del design. È un'idea di arredamento
+  a zero sprechi, ecologica ed economica! ✔️ Scopri come realizzare il tuo arredamento
+  per pallet.
 image: "/uploads/modne-meble-ogrodowe-z-palet-jak-zrobic-meble-ogrodowe-z-palet.jpg"
 promoted: true
-update_date: 2020-06-05
-intro: Comfortable and functional furniture is an essential element if you want to
-  spend a pleasant time in your garden or on your patio. A new, good quality garden
-  furniture set might be quite costly. There are, however, much cheaper, original
-  solutions. An interesting and increasingly popular material used for furnishing
-  gardens are pallets. Pallet furniture is inexpensive, quite sturdy and extremely
-  easy to make.
+update_date: 2020-07-18
+intro: L'arredamento confortevole e funzionale è un elemento essenziale se si vuole
+  trascorrere un piacevole soggiorno in giardino o nel patio. Un nuovo set di mobili
+  da giardino di buona qualità potrebbe essere piuttosto costoso. Esistono, tuttavia,
+  soluzioni originali e molto più economiche. Un materiale interessante e sempre più
+  utilizzato per arredare i giardini è il pallet. I mobili per pallet sono economici,
+  abbastanza robusti ed estremamente facili da realizzare.
 main_keywords:
 - pallet
 - mobili per pallet
@@ -27,14 +28,13 @@ main_keywords:
 - progetti di pallet diy
 - dove prendere i pallet
 - idee di mobili per pallet
-published: false
 
 ---
-## DIY pallet furniture – why are they so popular?
+## Mobili per pallet fai da te - perché sono così popolari?
 
-An increasing number of people decide to **make** their own **pallet furniture**. What makes this solution so attractive is mostly its cheap price. The price of similar, store-bought furniture offered by manufacturers is usually quite high. But all you need to make interesting and unique pallet furniture is a little bit of creativity and a few pallets.
+Un numero crescente di persone decide di realizzare i propri mobili per pallet. Ciò che rende questa soluzione così attraente è soprattutto il suo prezzo a buon mercato. Il prezzo di mobili simili, acquistati nei negozi, offerti dai produttori è di solito piuttosto alto. Ma tutto ciò che serve per realizzare mobili pallet interessanti e unici è un po' di creatività e qualche pallet.
 
-According to the latest trends, **DIY furniture** is a stylish element of interior decoration. Recycling and upcycling is an important part of life for an increasing number of people. **Pallet furniture** is a realisation of both of those trends. There are many advantages of creating objects made of pallets. Most importantly, they are extremely cheap.
+Secondo le ultime tendenze, i mobili fai da te sono un elemento di stile nell'arredamento d'interni. Il riciclaggio e l'upcycling è una parte importante della vita per un numero crescente di persone. I mobili per pallet sono la realizzazione di entrambe queste tendenze. Ci sono molti vantaggi nel creare oggetti fatti di pallet. La cosa più importante è che sono estremamente economici.
 
 {% fig %}
 
@@ -42,19 +42,21 @@ According to the latest trends, **DIY furniture** is a stylish element of interi
 
 {% endfig %}
 
-{:.distinction.distinction-information} If you already own pallets that were used for materials storage, the cost of creating pallet furniture covers only several minor products. You can also **buy some pallets** for a low price in industrial areas, supermarkets or wholesalers.
+{:.distinction.distinction-information}
 
-## Why is it worth to make pallet furniture?
+Se possedete già dei pallet che sono stati utilizzati per lo stoccaggio di materiali, il costo della creazione di mobili per pallet copre solo alcuni prodotti minori. È possibile acquistare alcuni pallet a basso prezzo anche in aree industriali, supermercati o grossisti.
 
-Although pallets usually are not made of high quality wood, they are very sturdy and resistant to damage. Therefore pallet wood projects are strong and such furniture serves for a long time. The material is **lightweight and eco-friendly**. If designed well, pallet furniture can be elegant and quite stylish. A pallet **table or pallet bench** is a perfect complimentary element to scandinavian or minimalistic style.
+## Perché vale la pena di realizzare mobili per pallet?
+
+Anche se di solito i pallet non sono fatti di legno di alta qualità, sono molto robusti e resistenti ai danni. Pertanto i progetti in legno per pallet sono robusti e tali mobili servono per un lungo periodo di tempo. Il materiale è leggero ed ecologico. Se progettati bene, i mobili su pallet possono essere eleganti e abbastanza eleganti. Un tavolo o una panca di pallet è un perfetto complemento allo stile scandinavo o minimalista.
 
 {% fig %}
 ![DIY pallet furniture - how to make it?](/uploads/meble-ogrodowe-z-palet-jak-zrobic-je-samodzielnie.jpg "DIY pallet furnture - how to make it?")
 {% endfig %}
 
-## Pallet furniture for your garden - which pallets are the best?
+## Mobili per il vostro giardino - quali sono i pallet migliori?
 
-**Wooden pallets used in transport** are often left after building materials used for construction. If you bought them with materials for construction, they basically cost you nothing. You could also try to get some pallets in supermarkets, small shops or industrial areas. They aren’t very expensive. A good idea is to browse through auction websites, where one can buy pallets even cheaper than in a shop.
+I pallet di legno utilizzati per il trasporto vengono spesso lasciati dopo i materiali da costruzione utilizzati per la costruzione. Se li avete acquistati con materiali da costruzione, in pratica non vi costano nulla. Potreste anche provare a procurarvi dei pallet nei supermercati, nei piccoli negozi o nelle aree industriali. Non sono molto costosi. Una buona idea è quella di sfogliare i siti web delle aste, dove si possono acquistare pallet ancora più economici che in un negozio.
 
 {% fig %}
 
@@ -62,37 +64,36 @@ Although pallets usually are not made of high quality wood, they are very sturdy
 
 {% endfig %}
 
-
-Looking for **pallet ideas and** **DIY furniture projects**, consider the size of those elements. There are different types of pallets, each having various sizes. The most common types are:
+Alla ricerca di idee per pallet e progetti di mobili fai da te, considerate le dimensioni di questi elementi. Esistono diversi tipi di pallet, ognuno di varie dimensioni. I tipi più comuni sono:
 
 {:.list}
 
-* **EUR-pallet** - the most popular type. Their dimensions are 1200x800x144 mm. A single Euro-pallet weighs 25 kilograms.
-* **ISO pallet** - it’s a single-layer pallet. Its dimensions are 120x100x14,4 cm.
-* **½ pallet** - its dimensions are 800×600×144 mm. It is good for building small furniture pieces.
+* EUR-pallet - il tipo più popolare. Le loro dimensioni sono 1200x800x144 mm. Un singolo Euro-pallet pesa 25 kg.
+* Pallet ISO - è un pallet monostrato. Le sue dimensioni sono 120x100x14,4 cm.
+* ½ pallet - le sue dimensioni sono 800×600×144 mm. E' ottimo per la costruzione di piccoli mobili.
 
 {% fig %}
 ![Pallet furniture for your garden - which pallets are the best?](/uploads/meble-ogrodowe-z-palet-jakie-palety-wybrac.jpg "Pallet furniture for your garden - which pallets are the best?")
 {% endfig %}
 
-Because of their universal dimensions and exceptional sturdiness, Euro-pallets are the most popular choice for **pallet furniture**. They are made of impregnated and thermally processed wood. You can, however use any kind of wooden pallet for DIY pallet projects.
+Grazie alle loro dimensioni universali e all'eccezionale robustezza, gli europallet sono la scelta più popolare per i mobili per pallet. Sono realizzati in legno impregnato e lavorato termicamente. È possibile, tuttavia, utilizzare qualsiasi tipo di pallet in legno per progetti di pallet fai da te.
 
 {:.distinction.distinction-information}
-Make sure that **pallets** you choose are not damaged and prepare the correctly. If you pick pallets from various sources, remember to choose elements of the same type.
+Assicuratevi che i pallet scelti non siano danneggiati e preparateli correttamente. Se scegliete pallet di diversa provenienza, ricordatevi di scegliere elementi dello stesso tipo.
 
-## How to make pallet furniture?
+## Come realizzare mobili per pallet?
 
-Before starting your pallet wood project you should equip yourself with **right tools** and products. Apart from the pallets, you will also need:
+Prima di iniziare il vostro progetto di legno per pallet, dovreste dotarvi degli strumenti e dei prodotti giusti. Oltre ai pallet, ne avrete bisogno anche voi:
 
 {:.list.list-positive}
 
-* grinder tool with 80-100 grit sanding paper for the first sanding and grit 200 for smoothing the surface,
-* screw gun with screws,
-* wood adhesive for filling the holes in wood,
-* wood preserver,
-* wood paint (if you want the furniture to have a certain colour),
-* painting tools - brushes and rollers,
-* additional elements - wheels, glass tabletops, cushions, blankets, mattresses.
+* smerigliatrice con carta abrasiva a grana 80-100 per la prima carteggiatura e grana 200 per la levigatura della superficie,
+* pistola a vite con viti,
+* adesivo per legno per riempire i fori nel legno,
+* Conservatore del legno,
+* vernice per legno (se si desidera che i mobili abbiano un certo colore),
+* strumenti di verniciatura - pennelli e rulli,
+* elementi aggiuntivi - ruote, piani di vetro del tavolo, cuscini, coperte, materassi.
 
 {% fig %}
 
@@ -100,12 +101,12 @@ Before starting your pallet wood project you should equip yourself with **right 
 
 {% endfig %}
 
-### Pallet furniture - step by step
+### Mobili per pallet - passo dopo passo
 
-Before starting **making pallet furniture**, you need a proper design. Measure the place where the furniture is supposed to be placed. The size of your pallet furniture should match the size of a pallet accordingly, to avoid cutting.
+Prima di iniziare a produrre mobili per pallet, è necessario un design adeguato. Misurare il luogo in cui i mobili devono essere collocati. La dimensione dei vostri mobili a pallet dovrebbe corrispondere alle dimensioni di un pallet di conseguenza, per evitare di tagliarli.
 
 {:.distinction.distinction-warning}
-It is good if the size of the final piece is a multiple of a pallet’s length. This way, if you want to increase the length, you just add another piece to one side. A standard height of the **furniture** is usually a height of two pallets. To get a higher piece, just add another layer of pallet.
+È buono se la dimensione del pezzo finale è un multiplo della lunghezza di un pallet. In questo modo, se si vuole aumentare la lunghezza, basta aggiungere un altro pezzo da un lato. Un'altezza standard del mobile è di solito un'altezza di due pallet. Per ottenere un pezzo più alto, basta aggiungere un altro strato di pallet.
 
 {% fig %}
 
@@ -113,77 +114,77 @@ It is good if the size of the final piece is a multiple of a pallet’s length. 
 
 {% endfig %}
 
-Having prepared a detailed project which includes the number of pallets you are going to need, you need to prepare the pallets:
+Dopo aver preparato un progetto dettagliato che comprende il numero di pallet di cui avrete bisogno, dovete preparare i pallet:
 
 {:.list.list-positive}
 
-* Any damage should be repaired. **Remove rotten elements** and fill holes and dents with a wood adhesive.
-* Use the grinder tool to smoothen rough surface and **remove any splinters**. Grind the pallet thoroughly so that there are no sharp or rough elements. Fill any gaps with the mentioned adhesive. Remove or hammer any nails sticking out of the wood.
-* **Clean the pallets** from dust and apply the wood preserver to the surface. After it dries, you can cover the pallets with a varnish or paint.
+* Eventuali danni devono essere riparati. Rimuovere gli elementi marci e riempire i fori e le ammaccature con un adesivo per legno.
+* Utilizzare la smerigliatrice per lisciare la superficie ruvida e rimuovere eventuali schegge. Macinare accuratamente il pallet in modo che non ci siano elementi appuntiti o ruvidi. Riempire eventuali vuoti con l'adesivo menzionato. Rimuovere o martellare i chiodi che fuoriescono dal legno.
+* Pulire i pallet dalla polvere e applicare il preservante per legno sulla superficie. Dopo che si è asciugato, potete coprire i pallet con una vernice o una vernice.
 
 {% fig %}
 ![Pallet furniture - step by step](/uploads/meble-ogrodowe-z-palet-krok-po-kroku.jpg "Pallet furniture - step by step")
 {% endfig %}
 
-If the elements have dried, you can start linking them into one piece. To do this, use screws, angles and flat bars. Match the pieces in the least visible places, such as the bottom and sides of a pallet. You can add wheels to the tables so that they can be easily moved. You can also add **decorative elements** such as cushions and mattresses.
+Se gli elementi si sono asciugati, si può iniziare a collegarli in un unico pezzo. Per fare questo, utilizzare viti, angolari e barre piatte. Abbinare i pezzi nei punti meno visibili, come il fondo e i lati di un pallet. Potete aggiungere ruote ai tavoli in modo da poterli spostare facilmente. Potete anche aggiungere elementi decorativi come cuscini e materassi.
 
-## Pallet furniture ideas
+## Idee di mobili per pallet
 
-There are many **DIY pallet projects** that you can use for furnishing your garden. The most commonly made objects are pallet tables. They are very easy to make - all you need is placing one pallet on another and joining them with several screws. A good idea is adding a glass table top. Find other pallet furniture ideas below:
+Ci sono molti progetti di pallet fai da te che puoi utilizzare per arredare il tuo giardino. Gli oggetti più comunemente realizzati sono i tavoli a paletta. Sono molto facili da realizzare - tutto ciò che serve è posizionare un pallet su un altro e unirli con diverse viti. Una buona idea è quella di aggiungere un piano in vetro. Trovate altre idee di mobili su pallet qui sotto:
 
 {:.list}
 
-* **Lounge chair** - such project usually requires 2 pallets. You can customise the length of the seat and the angle of the back.
-* **Armchair** - 3 pallets will suffice in most cases. For this type of pallet wood projects it is a good idea to use smaller size pallets.
-* **Swing** - just build a seat of of pallets and attach it to an appropriate constructions, for instance between two trees.
-* **Flower bed** - you can make either a flower stand or a vertical garden. To make the latter, cover the invisible side of the pallet and its bottom with garden foil. Fill the spaces with soil and plant some flowers inside. When their roots grow large enough, you can position the pallet vertically.
+* Sedia a sdraio - un progetto di questo tipo di solito richiede 2 pallet. È possibile personalizzare la lunghezza della seduta e l'angolo dello schienale.
+* Poltrona - nella maggior parte dei casi sono sufficienti 3 pallet. Per questo tipo di progetti in legno per pallet è una buona idea utilizzare pallet di dimensioni più piccole.
+* Altalena - basta costruire un sedile di pallet e fissarlo ad una costruzione appropriata, per esempio tra due alberi.
+* Fioriera - si può realizzare sia una fioriera che un giardino verticale. Per fare quest'ultimo, coprire il lato invisibile del pallet e il suo fondo con un foglio da giardino. Riempite gli spazi con terra e piantate alcuni fiori all'interno. Quando le loro radici crescono abbastanza grandi, potete posizionare il pallet in verticale.
 
 {% fig %}
 ![Pallet furniture ideas](/uploads/Przykladowe meble z europalet.jpg "Pallet furniture ideas")
 {% endfig %}
 
-Those are only a few ideas for **pallet furniture** to use in your garden. You can find more inspirations on the Internet. There are many tutorials available with a step-by-step instruction.
+Queste sono solo alcune idee per l'arredamento dei pallet da utilizzare nel vostro giardino. Potete trovare altre ispirazioni su Internet. Sono disponibili molti tutorial con istruzioni passo-passo.
 
-### Pallet bench - DIY furniture
+### Banco pallet - Mobili fai da te
 
-A simple pallet bench is very easy to make. All you need is **three pallets**. Their size is not important - use the one that fits your own preferences. Cut one of the pallets in two along the boards. One piece will be the backrest and the boards from the other are going to be used for securing it in place.
+Un semplice bancale per pallet è molto facile da realizzare. Tutto ciò che serve sono tre pallet. Le loro dimensioni non sono importanti - usate quello che si adatta alle vostre preferenze. Tagliate uno dei pallet in due lungo le tavole. Un pezzo sarà lo schienale e le tavole dell'altro saranno utilizzate per fissarlo in posizione.
 
 {% fig %}
 ![Pallet bench - DIY furniture](/uploads/kanapa-z-palet-diy.jpg "Pallet bench - DIY furniture")
 {% endfig %}
 
-After grounding the surface and protecting it with preserver place one whole pallet on the other. Attach three boards to the backseat part. Cut the boards so they are equal in length. Then just attach the back to the seat. The **pallet bench** is more comfortable if you put a mattress of an appropriate length on the seat.
+Dopo aver messo a terra la superficie e averla protetta con il conservatore, posizionare un intero pallet sull'altro. Fissare tre tavole alla parte posteriore. Tagliare le tavole in modo che siano uguali in lunghezza. Poi basta attaccare lo schienale al sedile. La panca del pallet è più comoda se si mette un materasso di lunghezza adeguata sul sedile.
 
-**Garden pallet furniture** is a good solution for cheap and eco-friendly furnishing. It can be used in a garden, on a patio and on a balcony. Making pallet furniture is relatively easy, therefore it is worth to try to make them. Pallet furniture is a good idea for furnishing a stylish garden.
+I mobili da giardino a bancale sono una buona soluzione per un arredamento economico ed ecologico. Può essere utilizzato in giardino, nel patio e sul balcone. Realizzare mobili su pallet è relativamente facile, quindi vale la pena provare a realizzarli. I mobili su pallet sono una buona idea per arredare un giardino in stile.
 
-## DIY furniture made of pallets - FAQ
+## Mobili fai da te realizzati in pallet - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-Where to get pallets?
+Dove prendere i pallet?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-You can try getting some pallets for free or for cheap price in supermarkets, small shops and industrial areas. You can also browse the Internet where pallets are sold for a low price.
+Potete provare a procurarvi dei pallet gratuitamente o a basso prezzo nei supermercati, nei piccoli negozi e nelle aree industriali. Potete anche navigare su Internet dove i pallet sono venduti a basso prezzo.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to make pallet patio furniture?
+Come si realizzano i mobili da terrazza a pallet?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The easiest furniture to make for a patio is a small table. All you need is two pallets (or more if you want your table higher). Stack the pallets and join them with screws. To make the piece more functional, you can add wheels and a glass top.
+L'arredamento più semplice da realizzare per un patio è un tavolino. Tutto ciò di cui avete bisogno sono due pallet (o più se volete il vostro tavolo più alto). Accatastare i pallet e unirli con le viti. Per rendere il pezzo più funzionale, potete aggiungere delle ruote e un piano in vetro.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to price pallet furniture?
+Come si valuta il prezzo dei mobili per pallet?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Pricing a DIY furniture depends on various factors, such as the cost of materials you used, the time you spent on making a piece and the price on the market. When pricing your pallet furniture, you should consider all of those aspects.
+Il prezzo di un mobile fai da te dipende da vari fattori, come il costo dei materiali utilizzati, il tempo speso per la realizzazione di un pezzo e il prezzo sul mercato. Nel determinare il prezzo dei vostri mobili per pallet, dovreste considerare tutti questi aspetti.
 {% endfaqAnswer %}
 {% endfaqItem %}
