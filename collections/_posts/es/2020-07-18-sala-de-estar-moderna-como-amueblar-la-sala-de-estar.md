@@ -1,104 +1,103 @@
 ---
 layout: post
-date: 2020-01-08
+date: 2020-07-18
 toc: true
-title: Modern living room - how to furnish your living room?
-description: A modern living room is a dream of many homeowners. If you wonder how
-  to furnish your living room, you might inspire yourself with contemporary styles.
+title: Sala de estar moderna. ¿Cómo amueblar la sala de estar?
+description: Una sala de estar moderna es el sueño de muchos propietarios. Si te preguntas
+  cómo amueblar tu sala de estar, podrías inspirarte con estilos contemporáneos.
 image: "/uploads/nowoczesny-salon-w-odpowiednim-stylu.jpg"
 promoted: true
-update_date: 2020-02-05
-intro: Living room is one of the most important rooms in every house. It is the area
-  where most social gatherings take place. Living room is usually also the room of
-  relaxation, therefore furnishing it might be quite a challenge. Its design should
-  be characterised by a certain level of coziness. Should it, however, impress your
-  guests, it also has to comply with the latest trends. A modern living room is a
-  combination of an aesthetically pleasing design and functionality.
+update_date: 2020-07-18
+intro: La sala de estar es una de las habitaciones más importantes de cada casa. Es
+  el área donde se llevan a cabo la mayoría de las reuniones sociales. La sala de
+  estar suele ser también la sala de relajación, por lo que amueblarla puede ser todo
+  un reto. Su diseño debe caracterizarse por un cierto nivel de calidez. Sin embargo,
+  si impresiona a sus invitados, también tiene que cumplir con las últimas tendencias.
+  Una sala de estar moderna es una combinación de diseño estético y funcionalidad.
 main_keywords:
 - sala de estar moderna
 - las ideas de la sala de estar moderna
 - sala de estar moderna
 - el diseño de la sala de estar moderna
 - las ideas de la sala de estar modernas
-published: false
 
 ---
-## Modern living room ideas
+## Las ideas de la sala de estar moderna
 
-Living room is the most **representative part of every house** or apartment. Usually it is also a place in which one spends the most of the time. For this reason everyone who designs an interior of this type, should aim for a living room that is not only modern, but also comfortable. Wondering **how to furnish your modern living room**, one should consider the most popular styles and trends.
+La sala de estar es la parte más representativa de cada casa o apartamento. Normalmente es también un lugar en el que se pasa la mayor parte del tiempo. Por esta razón, todo aquel que diseñe un interior de este tipo, debe aspirar a una sala de estar que no sólo sea moderna, sino también confortable. Preguntándose cómo amueblar su sala de estar moderna, uno debe considerar los estilos y tendencias más populares.
 
-### Living room ideas - modern scandinavian style
+### Ideas para la sala de estar - estilo moderno escandinavo
 
-One of the most popular styles for a contemporary modern living room is scandinavian. It can be characterised by a dose of minimalism and bright, spacious interiors. A **modern living room in scandinavian style** combines pure whites and natural materials.
+Uno de los estilos más populares para un salón moderno contemporáneo es el escandinavo. Se puede caracterizar por una dosis de minimalismo e interiores luminosos y espaciosos. Una sala de estar moderna de estilo escandinavo combina blancos puros y materiales naturales.
 
-Wooden furniture or decorations made of twine or stone are quite common for this design. In many aspects, this style is similar to modern rustic living room. Furniture is upholstered with materials such as linen or cotton. Leather furniture, on the other hand, is out of the question.
+Muebles de madera o decoraciones hechas de hilo o piedra son bastante comunes para este diseño. En muchos aspectos, este estilo es similar a la sala de estar rústica moderna. Los muebles están tapizados con materiales como el lino o el algodón. Los muebles de cuero, por otro lado, están fuera de discusión.
 
-**White and shades of grey are dominating colours in modern scandinavian design**. Designers often decide to expose one vivid colour, such as yellow or blue. Decorating a modern living room in scandinavian style it is good to choose one strong colour. It will highlight the interior without overwhelming it. The colour should be represented by accessories and decorations. Shades of one intense colour look very elegant against neutral backgrounds.
+El blanco y los tonos de gris son los colores dominantes en el diseño escandinavo moderno. Los diseñadores a menudo deciden exponer un color vivo, como el amarillo o el azul. Decorar una sala de estar moderna en estilo escandinavo es bueno elegir un color fuerte. Resaltará el interior sin abrumarlo. El color debe ser representado por los accesorios y decoraciones. Los tonos de un color intenso se ven muy elegantes sobre fondos neutros.
 
 {:.distinction.distinction-information}
-Scandinavian style can implement antiques, especially old wooden furniture. Having that in mind, **modern living room** does not necessarily mean buying new furniture. You might as well use the elements you already own, and only repaint them - for instance in white.
+El estilo escandinavo puede implementar antigüedades, especialmente muebles viejos de madera. Teniendo eso en cuenta, una sala de estar moderna no significa necesariamente comprar muebles nuevos. También puede utilizar los elementos que ya posee, y sólo repintarlos - por ejemplo en blanco.
 
 {% fig %}
 ![Living room ideas - modern scandinavian style](/uploads/nowoczesny-salon-w-stylu-skandynawskim.jpg "Living room ideas - modern scandinavian style")
 {% endfig %}
 
-### Modern living room - minimalist design
+### Sala de estar moderna - diseño minimalista
 
-**Minimalist style** is quite similar to scandinavian. It is a very good alternative if the interior is small. Minimalist design might be a perfect solution for a modern living room with limited space.
+El estilo minimalista es bastante similar al escandinavo. Es una muy buena alternativa si el interior es pequeño. El diseño minimalista podría ser una solución perfecta para una sala de estar moderna con espacio limitado.
 
-Minimalist interior design uses as little objects as possible. Aiming for simplicity, it rejects any unnecessary decorations. The most common forms in this style are simple geometrical shapes, such as rectangles and circles. Similar to **scandinavian style**, minimalism frees as much space as possible. You can safely get rid of drapes and curtains to let the light inside.
+El diseño interior minimalista utiliza los objetos más pequeños posibles. Buscando la simplicidad, rechaza cualquier decoración innecesaria. Las formas más comunes en este estilo son formas geométricas simples, como rectángulos y círculos. Similar al estilo escandinavo, el minimalismo libera tanto espacio como sea posible. Puedes deshacerte de las cortinas para dejar entrar la luz.
 
 {:.distinction.distinction-warning}
-Designing a **modern living room** of this style, you should give up most of the ornaments and trinkets. It is best if most of the surfaces are left empty. You can leave a few decorations, however they should have as simple forms as possible.
+Diseñando una sala de estar moderna de este estilo, deberías renunciar a la mayoría de los adornos y baratijas. Es mejor si la mayoría de las superficies se dejan vacías. Puedes dejar algunos adornos, sin embargo deben tener formas tan simples como sea posible.
 
-### Retro style for a living room - modern inspiration
+### Estilo retro para una sala de estar - inspiración moderna
 
-A modern living room does not necessarily mean a rejection of **classic decorations**. If a trendy yet classic interior design is your aim, consider retro style. In contrast with the styles mentioned above, retro is more liberal with its colour palette.
+Una sala de estar moderna no significa necesariamente un rechazo de las decoraciones clásicas. Si su objetivo es un diseño interior moderno pero clásico, considere el estilo retro. En contraste con los estilos mencionados, lo retro es más liberal con su paleta de colores.
 
-**A modern retro living room** should employ decorations and accessories in strong and vivid colours. It is common for this style to combine contrasting shades, such as white and black or red and mint green. For balance, the background should be neutral. White or light brown walls will be perfect for this purpose.
+Una sala de estar moderna retro debe emplear decoraciones y accesorios en colores fuertes y vivos. Es común que este estilo combine tonos contrastantes, como el blanco y el negro o el rojo y el verde menta. Para el equilibrio, el fondo debe ser neutral. Las paredes blancas o marrón claro serán perfectas para este propósito.
 
 {:.distinction.distinction-information}
-**Retro style** combines different textures, such as wood, chrome metal, plastic and bricks. For decorations for such design, you can choose elements that you already own. Ornaments from the previous era are perfect additions for a retro modern living room.
+El estilo retro combina diferentes texturas, como madera, metal cromado, plástico y ladrillos. Para la decoración de este tipo de diseño, puedes elegir elementos que ya posees. Los adornos de la era anterior son complementos perfectos para una sala de estar retro moderna.
 
 {% fig %}
 ![Retro style for a living room - modern inspiration](/uploads/salon-nowoczesny-postaw-na-retro-1.jpg "Retro style for a living room - modern inspiration")
 {% endfig %}
 
-## How to furnish a modern living room?
+## ¿Cómo amueblar una sala de estar moderna?
 
-As a matter of fact, a particular style is not the most important part of a modern living room design. The most crucial element is choosing one of them and picking **suitable furniture** and decorations. You can combine different styles, one needs to do it carefully. Before deciding upon an element it is worth to think whether it fits the whole design.
+De hecho, un estilo particular no es la parte más importante del diseño de una sala de estar moderna. El elemento más crucial es elegir uno de ellos y escoger los muebles y decoraciones adecuados. Se pueden combinar diferentes estilos, hay que hacerlo con cuidado. Antes de decidir sobre un elemento vale la pena pensar si encaja en todo el diseño.
 
-All **modern interiors** have certain common features. They should be kept in mind when planning each room of your house. A contemporary modern living room should have:
+Todos los interiores modernos tienen ciertas características comunes. Deben ser tenidas en cuenta cuando se planifica cada habitación de la casa. Una sala de estar moderna y contemporánea debe tener:
 
 {:.list.list-positive}
 
-* **Good lighting** - every modern living room needs bright spaces. Let as much natural lighting into the room as possible. If the room is small, you can r**emove curtains and drapes**. Choose lamps that illuminate the whole interior - consider installing several types of lighting (for instance a ceiling lamp and wall lights).
-* **Open space** - do not overwhelm your room with too many objects. If the space is limited, consider choosing furniture with legs, which looks more lightweight. The **furnishing** should be simple, you can choose, however, one or two objects with an unusual form.
-* **Good additions** - all decorations should fit each other. Use ornaments with **moderation** - too many would create a sense of disarray, which is just the opposite of a modern design.
-* **Comfortable furniture** - regardless of the form, your furniture set should be comfortable. Multi-purpose furniture designed to save space is a good solution for every **modern living room**.
+* Buena iluminación - cada sala de estar moderna necesita espacios luminosos. Dejen entrar tanta luz natural como sea posible en la habitación. Si la habitación es pequeña, puedes quitar las cortinas y las cortinajes. Elija lámparas que iluminen todo el interior - considere la posibilidad de instalar varios tipos de iluminación (por ejemplo, una lámpara de techo y lámparas de pared).
+* Espacio abierto - no llene su habitación con demasiados objetos. Si el espacio es limitado, considere la posibilidad de elegir muebles con patas, que parecen más ligeros. El mobiliario debe ser simple, puede elegir, sin embargo, uno o dos objetos con una forma inusual.
+* Buenas adiciones - todas las decoraciones deben encajar entre sí. Usar los adornos con moderación - demasiados crearían una sensación de desorden, que es justo lo contrario de un diseño moderno.
+* Muebles cómodos - independientemente de la forma, su juego de muebles debe ser cómodo. Muebles multiusos diseñados para ahorrar espacio son una buena solución para cada sala de estar moderna.
 
-## Modern living room ideas for a limited space interior
+## Ideas modernas de sala de estar para un espacio interior limitado
 
-Every modern living room should be **comfortable and trendy**. You can achieve this even with small spaces. A well designed room can combine aesthetics and functionality, as well as employ a good space organisation.
+Cada sala de estar moderna debería ser cómoda y estar a la moda. Se puede lograr esto incluso con espacios pequeños. Una habitación bien diseñada puede combinar la estética y la funcionalidad, así como emplear una buena organización del espacio.
 
-Contemporary trends are good for a limited space interiors. The mentioned before white colours fit any style and make interiors look bigger. The brighter a room is, the bigger it seems. It is a popular choice to combine functions of two rooms into one. This way one can **transform a modern living room** into a kitchen, dining room and bedroom. Removing division walls saves a lot of space as well, along with the right furniture.
+Las tendencias contemporáneas son buenas para un espacio interior limitado. Los colores blancos mencionados anteriormente se adaptan a cualquier estilo y hacen que los interiores parezcan más grandes. Cuanto más brillante es una habitación, más grande parece. Es una elección popular para combinar las funciones de dos habitaciones en una sola. De esta manera se puede transformar una sala de estar moderna en una cocina, un comedor y un dormitorio. Eliminar las paredes divisorias también ahorra mucho espacio, junto con el mobiliario adecuado.
 
 {% fig %}
 ![Modern living room ideas for a limited space interior](/uploads/pomysl-na-nowoczesny-salon-o-niewielkiej-powierzchni.jpg "Modern living room ideas for a limited space interior")
 {% endfig %}
 
-The mentioned before **multifunctional furniture** can increase the comfort of a room. If you choose a sofa bed, you can combine a living room and a bedroom. A table that can be transformed into a desk is a good idea if you want a living room that is also a dining room and an office. Choosing the furniture it is good to pick glossy-surface materials that reflect light. Similar to mirrors, they make rooms look bigger.
+Los muebles multifuncionales mencionados anteriormente pueden aumentar el confort de una habitación. Si se elige un sofá cama, se puede combinar una sala de estar y un dormitorio. Una mesa que se puede transformar en un escritorio es una buena idea si quieres una sala de estar que también es un comedor y una oficina. Al elegir los muebles es bueno elegir materiales de superficie brillante que reflejen la luz. Como los espejos, hacen que las habitaciones parezcan más grandes.
 
-A modern living room does not have to be difficult to design. Thanks to contemporary technologies you can furnish even the smallest interiors. The tips listed above can help you to design a comfortable and unique living room. Make sure that your modern living room not only impresses guests, but is also space friendly for everyone.
+Una sala de estar moderna no tiene que ser difícil de diseñar. Gracias a las tecnologías contemporáneas puedes amueblar hasta los interiores más pequeños. Los consejos mencionados anteriormente pueden ayudarte a diseñar una sala de estar confortable y única. Asegúrese de que su sala de estar moderna no sólo impresiona a los huéspedes, sino que también es amigable con el espacio para todos.
 
 ## Modern living room - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-How to decorate a modern living room?
+¿Cómo decorar una sala de estar moderna?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The most important elements that make a modern living room are bright inside, simplicity and a limited number of decorations. Styles such as scandinavian and minimalist might be good sources of inspiration. Every room can be modern, all you need is a good design.
+Los elementos más importantes que hacen una sala de estar moderna son la luminosidad en el interior, la simplicidad y un número limitado de decoraciones. Estilos como el escandinavo y el minimalista pueden ser buenas fuentes de inspiración. Cada habitación puede ser moderna, todo lo que se necesita es un buen diseño.
 {% endfaqAnswer %}
 {% endfaqItem %}
