@@ -1,152 +1,153 @@
 ---
 layout: post
-date: 2020-01-29
+date: 2020-07-18
 toc: true
-title: Underlay for plank flooring - which one is the best?
-description: Underlay for plank flooring - which one is the best? Flooring underlay
-  is very important. If you wonder what is the best laminate underlay, you should
-  consider several issues to help you make the best decision.
+title: Sottofondo per la pavimentazione in tavolato - qual è il migliore?
+description: Sottofondo per la pavimentazione in tavolato - qual è il migliore? Il
+  sottofondo per pavimenti è molto importante. Se vi chiedete qual è il miglior sottofondo
+  in laminato, dovreste considerare diverse questioni per aiutarvi a prendere la decisione
+  migliore.
 image: "/uploads/podklad-pod-panele-jaki-podklad-pod-panele-bedzie-najlepszy.jpg"
 promoted: false
-update_date: 2020-02-05
-intro: If you have already decided on a vinyl plank flooring, you should probably
-  choose a good quality underlay. It is a crucial element that determines the durability
-  of your floor. The right underlay can minimize certain floor and room imperfections.
-  It is, therefore, good to spend some time to choose the correct floor underlayment.
-  It ensures lasting floor for years.
+update_date: 2020-07-18
+intro: Se avete già deciso per un pavimento in vinile, dovreste probabilmente scegliere
+  un sottofondo di buona qualità. È un elemento cruciale che determina la durata del
+  vostro pavimento. Il giusto sottofondo può ridurre al minimo alcune imperfezioni
+  del pavimento e della stanza. È quindi bene dedicare un po' di tempo alla scelta
+  del sottofondo corretto. Garantisce la durata del pavimento per anni.
 main_keywords:
 - sottostrato in legno
 - miglior sottofondo in laminato
 - sottofondo acustico
 - come installare il sottofondo
 - come stendere il sottofondo
-published: false
 
 ---
-## Is underlayment needed for vinyl flooring?
+## È necessario un sottofondo per i pavimenti in vinile?
 
-Some people believe that underlay is not necessary and that vinyl planks can be placed directly on the floor. Even though it is possible in some cases, **it is not advised to lay vinyl flooring without underlay**. What is underlayment? Without this element laminate flooring would be quickly destroyed, as the planks could get broken.
+Alcuni ritengono che il sottofondo non sia necessario e che le tavole di vinile possano essere posizionate direttamente sul pavimento. Anche se in alcuni casi è possibile, non è consigliabile posare il pavimento in vinile senza sottofondo. Che cos'è il sottofondo? Senza questo elemento il pavimento laminato verrebbe rapidamente distrutto, poiché le tavole potrebbero rompersi.
 
-**Floor underlay** plays an important role for a vinyl plank floor - it secures the floor. The most important functions of underlay are:
+Il sottostrato gioca un ruolo importante per un pavimento in vinile a listoni: assicura il pavimento. Le funzioni più importanti del sottofondo sono:
 
 {:.list.list-positive}
 
-* **Cushioning** - a soft, elastic layer under the planks secures them so that they do **not bend under pressure**. The underlay absorbs energy from hits and heavy objects, protecting the floor from damage.
-* **Thermal insulation** - floor underlayment is a layer which separates the flooring from the subfloor. This way the cold air doesn’t reach the room. Such insulation reduces thermal loss which saves the costs of heating.
-* **Acoustic underlay** - underlay absorbs sounds from rooms under the floor. The layer can also muffle noises from inside the room where the planks are installed.
-* **Evening the surface** - a good underlay can cover minor imperfections of the floor. It fills small indentations and makes the planks more stable.
+* Imbottitura - uno strato morbido ed elastico sotto le tavole le fissa in modo che non si pieghino sotto pressione. Il sottofondo assorbe l'energia dei colpi e degli oggetti pesanti, proteggendo il pavimento dai danni.
+* Isolamento termico - il sottofondo del pavimento è uno strato che separa il pavimento dal sottofondo. In questo modo l'aria fredda non raggiunge la stanza. Tale isolamento riduce le perdite termiche, risparmiando così i costi del riscaldamento.
+* Sottofondo acustico - il sottofondo assorbe i suoni dalle stanze sotto il pavimento. Lo strato può anche attutire i rumori provenienti dall'interno della stanza in cui sono installate le assi.
+* Uniformare la superficie - un buon sottofondo può coprire piccole imperfezioni del pavimento. Riempie piccole rientranze e rende le assi più stabili.
 
-Keep in mind that most manufacturers of vinyl plank flooring require using underlay as a **warranty requirement**. If this condition is not fulfilled, you won’t be able to get a refund if the product you bought is faulty.
+Tenete presente che la maggior parte dei produttori di pavimentazioni in legno vinilico richiedono l'uso del sottofondo come requisito di garanzia. Se questa condizione non è soddisfatta, non sarà possibile ottenere un rimborso se il prodotto acquistato è difettoso.
 
-Regardless of the type of underlay, you should install it at 45 degrees angle. Using a vapour barrier is important, as it protects from moisture. **It should be laid in a straight line.** Then you can lay the underlay - make sure to cut it to fit the room.
+Indipendentemente dal tipo di sottofondo, è necessario installarlo con un angolo di 45 gradi. L'utilizzo di una barriera al vapore è importante, in quanto protegge dall'umidità. Dovrebbe essere posato in linea retta. Poi potete posare il sottofondo - assicuratevi di tagliarlo per adattarlo alla stanza.
 
-## Types of laminate flooring underlay
+## Tipi di sottofondi in laminato
 
-There are various types of underlay available. They differ from each other by **price, durability, material and intended purpose**. Type of the plank flooring doesn’t affect the type of underlay. You should consider, however, what are your own needs and expectations.
+Sono disponibili vari tipi di sottofondi. Si differenziano tra loro per prezzo, durata, materiale e destinazione d'uso. Il tipo di pavimento in listoni non influisce sul tipo di sottofondo. Dovreste comunque considerare quali sono le vostre esigenze e aspettative.
 
 {% fig %}
 ![Types of laminate flooring underlay](/uploads/podklad-pod-panele-podlogowe-rodzaje.jpg "Types of laminate flooring underlay")
 {% endfig %}
 
-### Natural flooring underlay
+### Sottofondo naturale per pavimenti
 
-Natural underlayment is usually made of wood and similar materials. Such product are usually good acoustic insulators. The most common natural underlays are:
+Il sottofondo naturale è solitamente realizzato in legno e materiali simili. Tali prodotti sono di solito buoni isolanti acustici. I sottofondi naturali più comuni sono:
 
 {:.list}
 
-* **Cork underlay** - it is a good thermal and **acoustic insulator**. Usually they are sold in large sheets, 2 mm thick. Cork is quite a fragile material and therefore it shouldn’t be used under floors that are intensely used. The underfloor on which a cork underlay might be placed, should be perfectly even.
-* **Plywood** - this material protects from noise and thermal loss, although not as well as cork. It’s thicker, sold in 4-7 mm thick sheets. Because this type of undelay **absorbs water** easily, you should put an additional layer of vapour membrane over it.
-* **Corrugated fiberboard** - it is **one of the cheapest underlays**. It conducts warmth well, however does not isolate sounds. This type requires a perfectly even underfloor.
+* Sottostrato di sughero - è un buon isolante termico e acustico. Di solito sono venduti in grandi lastre di 2 mm di spessore. Il sughero è un materiale piuttosto fragile e quindi non dovrebbe essere usato sotto pavimenti che vengono utilizzati intensamente. Il sottofondo su cui potrebbe essere posato un sottofondo in sughero, dovrebbe essere perfettamente uniforme.
+* Compensato - questo materiale protegge dal rumore e dalla perdita termica, anche se non così bene come il sughero. È più spesso, venduto in fogli di 4-7 mm di spessore. Dato che questo tipo di disaccoppiamento assorbe facilmente l'acqua, si dovrebbe mettere uno strato aggiuntivo di membrana al vapore sopra di esso.
+* Cartone di fibra ondulato - è uno dei sottostrati più economici. Conduce bene il calore, ma non isola i suoni. Questo tipo richiede un sottopavimento perfettamente uniforme.
 
 {% fig %}
 ![Natural flooring underlay](/uploads/tektura-karbowana-i-papier-falisty.jpg "Natural flooring underlay")
 {% endfig %}
 
-### Synthetic flooring underlay
+### Sottofondo sintetico per pavimenti
 
-**Synthetic underlay** has many advantages. One of its best features is the fact that it basically does not absorb water. It also corrects minor surface imperfections. Popular synthetic floor underlays are made of:
+Il sottofondo sintetico ha molti vantaggi. Una delle sue caratteristiche migliori è il fatto che fondamentalmente non assorbe acqua. Corregge anche le piccole imperfezioni della superficie. I popolari sottofondi sintetici per pavimenti sono fatti di:
 
 {:.list}
 
-* **Foam** - it is the most commonly chosen underlay - mainly for its cheap price. It is waterproof, however it does not isolate from sounds.
+* La schiuma - è il sottostrato più comunemente scelto - soprattutto per il suo prezzo economico. È impermeabile, ma non isola dai suoni.
 
 {:.distinction.distinction-warning}
-It loses its shape relatively quickly and it cannot be used under wooden boards.
+Perde la sua forma relativamente rapidamente e non può essere utilizzato sotto le tavole di legno.
 
 {:.list}
 
-* **Polyethylene (PE)** - it can be used if the underfloor is uneven, as it can fix small imperfections, up to 4 milimetres. It is a good thermal and acoustic insulator.
-* **Polystyrene (XPS)** - such underlay muffles noises well. It is waterproof and very durable. It does not conduct heat, therefore it can be used on floors that are located over unheated rooms.
+* Polietilene (PE) - può essere utilizzato se il pavimento è irregolare, in quanto può correggere piccole imperfezioni, fino a 4 milimetri. È un buon isolante termico e acustico.
 
-## What is the best laminate underlay?
+  Polistirolo (XPS) - questo sottofondo fa un buon rumore di muffole. È impermeabile e molto resistente. Non conduce il calore, quindi può essere utilizzato su pavimenti che si trovano sopra locali non riscaldati.
 
-**No underlay is the best or universal**. Every type of product has different qualities that fit different needs. For this reason one needs to consider various aspects before choosing the right underlay.
+## Qual è il miglior sottofondo in laminato?
 
-### Underlay for floor heating
+Nessun sottofondo è il migliore o universale. Ogni tipo di prodotto ha qualità diverse che si adattano alle diverse esigenze. Per questo motivo è necessario considerare vari aspetti prima di scegliere il giusto sottofondo.
 
-If you lay vinyl **plank flooring over floor heating**, you should choose an underlay without heat insulation properties. Wrong underlay could hinder the heat, cooling down the room. Therefore an underlay for floor with heating system should **conduct heat** well.
+### Sottofondo per riscaldamento a pavimento
+
+Se si posa un pavimento in listoni di vinile sopra il riscaldamento a pavimento, si dovrebbe scegliere un sottofondo senza proprietà di isolamento termico. Un sottofondo sbagliato potrebbe ostacolare il calore, raffreddando la stanza. Pertanto un sottofondo per pavimento con sistema di riscaldamento dovrebbe condurre bene il calore.
 
 {:.distinction.distinction-information}
-**Corrugated fiberboard** is one of the best underlay for vinyl plank flooring with floor heating.
+Il cartone di fibra ondulato è uno dei migliori sottofondi per pavimenti in vinile con riscaldamento a pavimento.
 
-Paper underlays are good heat conductors, however they do not isolate the room acoustically. If this is what you need the most, a good choice is underlay made of polystyrene (XPS). It does not conduct heat, but it has **special holes** that let the heat move through.
+I sottofondi di carta sono buoni conduttori di calore, ma non isolano acusticamente la stanza. Se questo è ciò di cui avete più bisogno, una buona scelta è il sottofondo in polistirolo (XPS). Non conduce il calore, ma ha dei fori speciali che lasciano passare il calore.
 
 {% fig %}
 ![Underlay for floor heating](/uploads/podklad-pod-panele-z-tektury-karbowanej.jpg "Underlay for floor heating")
 {% endfig %}
 
-### Underlayment for floor isolation
+### Sottostrato per l'isolamento del pavimento
 
-If the room in which you decided to lay laminate boards is located over an unheated room or on the ground, the underlay should provide good **heat insulation**. It means that the material shouldn’t conduct temperature. The best underlays of this type are made of polyethylene and polystyrene.
+Se la stanza in cui avete deciso di posare le lastre di laminato si trova sopra una stanza non riscaldata o a terra, il sottofondo dovrebbe fornire un buon isolamento termico. Ciò significa che il materiale non dovrebbe condurre la temperatura. I migliori sottofondi di questo tipo sono realizzati in polietilene e polistirolo.
 
 {:.distinction.distinction-information}
-If acoustic insulation is your priority, cork underlay is worth choosing. Depending on the thickness, it absorbs even up to **25% of sounds**. Polystyrene underlay is another good choice - it reduces sounds to 19 dB.
+Se l'isolamento acustico è la vostra priorità, vale la pena scegliere il sottostrato di sughero. A seconda dello spessore, assorbe anche fino al 25% dei suoni. Il sottostrato in polistirolo è un'altra buona scelta - riduce i suoni a 19 dB.
 
-### Underlay for an extensively used floor
+### Sottofondo per un pavimento ampiamente utilizzato
 
-Not every type of underlay is suitable for a heavily used floor. Cork or foam might not be durable enough and they could get damaged very quickly. Therefore for rooms such as halls and living rooms it is good to choose an underlay which is **resistant to mechanical damage**.
+Non tutti i tipi di sottofondi sono adatti per un pavimento molto utilizzato. Il sughero o la schiuma potrebbero non essere abbastanza resistenti e potrebbero danneggiarsi molto rapidamente. Per questo motivo per ambienti come sale e salotti è bene scegliere un sottofondo resistente ai danni meccanici.
 
-One of the most durable materials is polystyrene. Quartz underlay is probably the strongest, however it is quite expensive.
+Uno dei materiali più resistenti è il polistirolo. Il sottostrato di quarzo è probabilmente il più resistente, tuttavia è abbastanza costoso.
 
-### Allergy-proof underlay
+### Sottofondo antiallergico
 
-If an **allergy sufferer** is going to live in the room with vinyl flooring, the material used for underlay needs a special attention.
+Se un soggetto allergico vive nella stanza con un pavimento in vinile, il materiale utilizzato per il sottofondo necessita di un'attenzione particolare.
 
 {:.distinction.distinction-warning}
-An allergy-proof underlay for vinyl plank flooring must not release any dust - therefore using **plywood** in this case is not advised. Material of this type is quite dusty, which might be irritating or even dangerous for an allergy sufferer.
+Un sottofondo antiallergico per pavimenti in legno vinilico non deve rilasciare polvere - pertanto l'uso del compensato in questo caso è sconsigliato. Il materiale di questo tipo è piuttosto polveroso, il che potrebbe essere irritante o addirittura pericoloso per chi soffre di allergia.
 
-The best natural material for this purpose is **cork underlay**. Its main advantages is resistance to moisture, as well as mould and fungi. Alternatively you can use a plastic material underlay which does not absorb water nor release any dust.
+Il miglior materiale naturale per questo scopo è il sottofondo in sughero. I suoi principali vantaggi sono la resistenza all'umidità, alla muffa e ai funghi. In alternativa è possibile utilizzare un sottostrato in materiale plastico che non assorbe acqua e non rilascia polvere.
 
-**Finishing your house might be quite a difficult process. Many homeowners ask specialists: what is the best laminate underlay? A good material is a guarantee that your vinyl plank floor is going to last long. It might also have some additional features. One should consider what criterion is the most important for them and use it to choose the right product. If you have a problem with making the decision, you should ask a salesperson to help you.**
+Finire la casa potrebbe essere un processo piuttosto difficile. Molti proprietari di case si chiedono agli specialisti: qual è il miglior sottofondo in laminato? Un buon materiale è la garanzia che il vostro pavimento in legno vinilico durerà a lungo. Potrebbe anche avere delle caratteristiche aggiuntive. Si dovrebbe considerare quale sia il criterio più importante per loro e usarlo per scegliere il prodotto giusto. Se avete un problema nel prendere la decisione, dovreste chiedere ad un venditore di aiutarvi.
 
-## Underlay for plank flooring - FAQ
+## Sottofondo per pavimentazione in tavolato - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-How to install underlay?
+Come installare il sottofondo?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Any type of underlay should be installed at 45 degrees angle to the direction the plank boards are going to lay. Make sure to cut the underlay to perfectly fit it to the room.
+Qualsiasi tipo di sottofondo deve essere installato con un angolo di 45 gradi rispetto alla direzione di posa delle tavole. Assicuratevi di tagliare il sottofondo per adattarlo perfettamente alla stanza.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to lay underlay for underfloor heating?
+Come si posa il sottofondo per il riscaldamento a pavimento?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Underlay for underfloor heating should be installed the same way as any other underlay. For this type, the vapour barrier is mandatory. The best laminate underlay for floor heating is polystyrene and corrugated fiber.
+Il sottofondo per il riscaldamento a pavimento deve essere installato come qualsiasi altro sottofondo. Per questo tipo, la barriera al vapore è obbligatoria. Il miglior sottofondo laminato per il riscaldamento a pavimento è il polistirolo e la fibra ondulata.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-What is the best underlay for laminate flooring?
+Qual è il miglior sottofondo per pavimenti in laminato?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Any type of underlay is good and one should fit the right product to their particular needs. Underlay can serve many functions, such as acoustic or warmth isolation.
+Qualsiasi tipo di sottofondo è buono e si dovrebbe adattare il prodotto giusto alle loro particolari esigenze. Il sottofondo può svolgere molte funzioni, come l'isolamento acustico o termico.
 {% endfaqAnswer %}
 {% endfaqItem %}
