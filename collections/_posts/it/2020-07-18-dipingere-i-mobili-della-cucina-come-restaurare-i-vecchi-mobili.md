@@ -1,138 +1,139 @@
 ---
 layout: post
-date: 2020-01-08
+date: 2020-07-18
 toc: true
-title: Painting kitchen furniture - how to restore old furniture?
-description: Painting furniture is a good idea for a cheap metamorphosis. You don’t
-  have to throw away your old shelves. All you need is a good paint for kitchen furniture.
+title: Dipingere i mobili della cucina - come restaurare i vecchi mobili?
+description: Dipingere mobili è una buona idea per una metamorfosi a buon mercato.
+  Non devi buttare via i tuoi vecchi scaffali. Tutto ciò che serve è una buona vernice
+  per i mobili della cucina.
 image: "/uploads/malowanie-mebli-kuchennych-jak-odnowic-meble-kuchenne.jpg"
 promoted: false
-update_date: 2020-02-05
-intro: Kitchen renovation might be a costly project. Such a task is also very time-consuming.
-  Following the trend of DIY, many people decide to paint their kitchen furniture
-  instead of throwing it away. Such a solution is surely far less expensive than buying
-  completely new kitchen and dining furniture sets. It does not mean that the furniture
-  will look worse than the new one - on the contrary. If you are looking for kitchen
-  furniture ideas, painting it is a great idea for a quick and satisfying metamorphosis.
+update_date: 2020-07-18
+intro: La ristrutturazione della cucina potrebbe essere un progetto costoso. Un compito
+  di questo tipo richiede anche molto tempo. Seguendo la tendenza del fai da te, molte
+  persone decidono di dipingere i mobili della cucina invece di buttarli via. Una
+  tale soluzione è sicuramente molto meno costoso rispetto all'acquisto di set di
+  mobili da cucina e da pranzo completamente nuovi. Ciò non significa che l'arredamento
+  sarà peggiore di quello nuovo - al contrario. Se siete alla ricerca di idee per
+  i mobili da cucina, dipingere è un'ottima idea per una metamorfosi rapida e soddisfacente.
 main_keywords:
 - mobili da cucina
 - dipingere mobili
 - mobili per la pittura a gesso
 - mobili in laminato verniciato
 - idee di mobili da cucina
-published: false
 
 ---
-## How to restore old furniture in the kitchen?
+## Come restaurare i vecchi mobili in cucina?
 
-The popularity of **painting kitchen furniture** results probably from its cheap price. Another factor might be the impressive effect that one can achieve with paint. Painting an old chair, table or chest of drawers is nothing surprising nowadays. **Restoring kitchen furniture**, however, might be more problematic than it is with other objects.
+La popolarità della pittura di mobili da cucina deriva probabilmente dal suo prezzo economico. Un altro fattore potrebbe essere l'effetto impressionante che si può ottenere con la pittura. Dipingere una vecchia sedia, un tavolo o una cassettiera non sorprende al giorno d'oggi. Il restauro dei mobili della cucina, tuttavia, potrebbe essere più problematico di quanto non lo sia con altri oggetti.
 
-Kitchen furniture, after all, is the most prone to damage in the whole household. Therefore one may wonder **how to restore kitchen furniture** and if it is even worth the effort. It is common that a **kitchen set** is still in good shape, however its colour lost its old sparkle. It might simply be out of fashion or just become boring.
+I mobili da cucina, dopo tutto, sono i più soggetti a danni in tutta la casa. Pertanto ci si può chiedere come restaurare i mobili della cucina e se ne vale la pena. È comune che un set da cucina sia ancora in buona forma, ma il suo colore ha perso il suo antico splendore. Potrebbe essere semplicemente passato di moda o diventare semplicemente noioso.
 
-Replacing such furniture with a new set might be pointless, as apart from the looks it is still functional. Having that in mind, **painting furniture** might be the best solution. A well chosen product will alter the appearance of the whole room, which usually is the main reason of a renovation.
+Sostituire questi mobili con un nuovo set potrebbe essere inutile, perché a parte l'aspetto è ancora funzionale. Avendo questo in mente, dipingere i mobili potrebbe essere la soluzione migliore. Un prodotto ben scelto altererà l'aspetto dell'intera stanza, che di solito è il motivo principale di una ristrutturazione.
 
 {:.distinction.distinction-information}
-Painting furniture is possible even when the surfaces are scratched and slightly damaged. The paint is able to hide most imperfections.
+La verniciatura dei mobili è possibile anche quando le superfici sono graffiate e leggermente danneggiate. La vernice è in grado di nascondere la maggior parte delle imperfezioni.
 
-## Choosing the right paint for kitchen furniture
+## La scelta della vernice giusta per i mobili della cucina
 
-Manufacturers provide a great variety of products that can be used to paint kitchen furniture. A good paint can cover the whole surface and hide small flaws. The most **popular paints** that can be used for kitchen furniture include:
+I produttori forniscono una grande varietà di prodotti che possono essere utilizzati per dipingere i mobili della cucina. Una buona vernice può coprire l'intera superficie e nascondere piccoli difetti. Le vernici più popolari che possono essere utilizzate per i mobili da cucina includono:
 
 {:.list.list-positive}
 
-* **Acrylic paint** - this type is the most universal of all. They are highly resistant to scratching and UV lighting - therefore they won’t turn yellow after some time. Paint of this type dries very fast and is odourless.
-* **Renovation paint** - it can be used both for wooden and ceramic surfaces. Such type of product is used for **kitchen furniture as well as for ceramic tiles**. The product is resistant to mechanical damage, high temperature and dirt.
-* **Chalk paint** - it is one of the most eco-friendly type of paint. Such products typically have a wide variety of pastel colours. Depending on the type, chalk paints can give matte or satin finish. They are perfect for creating an ombre effect. They are good for painting kitchen furniture, however they require adding a protective layer of varnish or wax. Without it they are prone to damage.
-* **Alkyd paints** - similar to acrylic, alkyd paints are resistant to mechanical damage. It is the cheapest alternative. The biggest disadvantage of this type of product is its unpleasant smell.
+* Vernice acrilica - questo tipo è il più universale di tutti. Sono altamente resistenti ai graffi e all'illuminazione UV - quindi non ingialliscono dopo un certo tempo. La vernice di questo tipo si asciuga molto velocemente ed è inodore.
+* Vernice da restauro - può essere utilizzata sia per superfici in legno che in ceramica. Questo tipo di prodotto viene utilizzato sia per i mobili da cucina che per le piastrelle di ceramica. Il prodotto è resistente ai danni meccanici, alle alte temperature e allo sporco.
+* Pittura al gesso - è uno dei tipi di vernice più ecologici. Questi prodotti hanno tipicamente una grande varietà di colori pastello. A seconda del tipo, le vernici a gesso possono dare una finitura opaca o satinata. Sono perfette per creare un effetto ombreggiato. Sono ottime per dipingere mobili da cucina, ma richiedono l'aggiunta di uno strato protettivo di vernice o cera. Senza di esso sono inclini a danneggiarsi.
+* Vernici alchidiche - simili all'acrilico, le vernici alchidiche sono resistenti ai danni meccanici. È l'alternativa più economica. Il più grande svantaggio di questo tipo di prodotto è il suo odore sgradevole.
 
 {% fig %}
 ![Choosing the right paint for kitchen furniture](/uploads/wybor-farby-do-mebli-kuchennych.jpg "Choosing the right paint for kitchen furniture")
 {% endfig %}
 
-## Refurbishing kitchen furniture - step by step
+## Ristrutturazione dei mobili da cucina - passo dopo passo
 
-**Painting kitchen furniture** is not a complicated task. Before starting the work, however, it is good to get the relevant knowledge. Doing that will result in a satisfying and long lasting effect.
+Dipingere i mobili della cucina non è un compito complicato. Prima di iniziare il lavoro, tuttavia, è bene acquisire le conoscenze necessarie. In questo modo si ottiene un effetto soddisfacente e di lunga durata.
 
-### Preparation for painting
+### Preparazione alla pittura
 
-Examine carefully each piece before even planning to **paint the kitchen furniture**.
+Esaminate attentamente ogni pezzo prima di pianificare di dipingere i mobili della cucina.
 
 {:.distinction.distinction-warning}
-Fill the holes and deep dents with a wood adhesive. Small scratches can be smoothed with sanding paper. Make sure that you sand the surface along the wood grain, otherwise they could be damaged. If the kitchen furniture is **covered with foil or veneer** that is damaged, remove it.
+Riempire i fori e le ammaccature profonde con un adesivo per legno. Piccoli graffi possono essere levigati con carta abrasiva. Assicuratevi di carteggiare la superficie lungo le venature del legno, altrimenti potrebbero essere danneggiate. Se i mobili della cucina sono coperti da una pellicola o da un'impiallacciatura danneggiata, rimuoverli.
 
 {% fig %}
 ![Preparation for painting](/uploads/przygotowanie-do-malowania.jpg "Preparation for painting")
 {% endfig %}
 
-To make **painting kitchen furniture** more convenient, remove the front elements and take out all drawers. Wash the furniture with water and a detergent. Make sure to **degrease all surfaces**, wiping them with acetone or gasoline. Every handle and knob should be removed for painting.
+Per rendere più comodo dipingere i mobili della cucina, rimuovere gli elementi frontali ed estrarre tutti i cassetti. Lavare i mobili con acqua e detersivo. Assicuratevi di sgrassare tutte le superfici, strofinandole con acetone o benzina. Ogni maniglia e pomello devono essere rimossi per la verniciatura.
 
-Sanding the kitchen furniture is an important step before starting to paint it. For this purpose use sanding paper or sponge. Sanding makes paint stick better to the surface. If your furniture is painted or varnished, 240 grit paper will suffice. If you’re **painting laminate furniture**, use 400 grit paper. Make sure to be very careful with sanding, as laminate is easy to damage.
+La levigatura dei mobili della cucina è un passo importante prima di iniziare a dipingerli. A questo scopo utilizzare carta abrasiva o spugna. La carteggiatura fa aderire meglio la vernice alla superficie. Se i mobili sono dipinti o verniciati, è sufficiente una grana di carta da 240. Se dipingete mobili in laminato, usate carta grana 400. Assicuratevi di fare molta attenzione alla carteggiatura, poiché il laminato è facile da danneggiare.
 
-### Tools for restoring kitchen furniture
+### Strumenti per il restauro dei mobili da cucina
 
 {:.distinction.distinction-information}
-**Painting kitchen furniture** requires using the right tools. They are a guarantee of a smooth and even surface.
+Dipingere i mobili della cucina richiede l'uso degli strumenti giusti. Essi sono la garanzia di una superficie liscia e uniforme.
 
-**Round or flat bristle paint brush** is suitable only for chalk paint. Using a brush for other types of paint might result in unaesthetic trails on the surface. It is therefore advised to use a wide paint roller to paint large surfaces such as fronts and sides. Foam and flock rollers are the best tools for **painting furniture**.
+Il pennello a setole rotonde o piatte è adatto solo per la pittura a gesso. L'uso di un pennello per altri tipi di pittura può causare tracce antiestetiche sulla superficie. Si consiglia quindi di utilizzare un rullo di vernice largo per dipingere grandi superfici come i frontali e i lati. I rulli di schiuma e flock sono gli strumenti migliori per dipingere mobili.
 
 {:.distinction.distinction-warning}
-Do not use sheepskin roller, as it leaves fibres and creates a rough texture on the painted surface. For the most even surface use a spray gun.
+Non utilizzare il rullo in pelle di pecora, in quanto lascia fibre e crea una struttura ruvida sulla superficie verniciata. Per la superficie più uniforme utilizzare una pistola a spruzzo.
 
 {% fig %}
 ![Tools for restoring kitchen furniture](/uploads/farby-do-mebli-kuchennych.jpg "Tools for restoring kitchen furniture")
 {% endfig %}
 
-### Painting kitchen furniture
+### Pittura di mobili da cucina
 
-After proper preparation of your **kitchen furniture**, you can start painting it. Before covering the surface with paint, use the primer. The product should come from the same manufacturer as the paint you use. It is a guarantee that paint and primer work well with each other.
+Dopo un'adeguata preparazione dei mobili della vostra cucina, potete iniziare a dipingerli. Prima di ricoprire la superficie con la vernice, utilizzare il primer. Il prodotto deve provenire dallo stesso produttore della vernice utilizzata. È una garanzia che la vernice e il primer funzionino bene tra loro.
 
-After the primer dries, you can paint the furniture. Using previously mentioned **wide roller** is the most convenient. For small elements and hard to reach spaces use a small brush. Cover the surface with at least two layers. The time of drying and the number of layers depend mainly on the paint and its brand.
+Dopo che il primer si è asciugato, potete dipingere i mobili. L'uso del rullo largo precedentemente menzionato è il più conveniente. Per elementi piccoli e spazi difficili da raggiungere utilizzare un piccolo pennello. Coprire la superficie con almeno due strati. Il tempo di asciugatura e il numero di strati dipendono principalmente dalla vernice e dalla sua marca.
 
 {:.distinction.distinction-information}
-A standard number is **two layers** of paint. It is best to apply the paint with a criss-cross method: paint the first layer horizontally, and the second - diagonally. If you see that two layers are not enough, apply more layers, until the paint covers the furniture completely.
+Un numero standard è costituito da due strati di vernice. È meglio applicare la vernice con un metodo incrociato: dipingere il primo strato orizzontalmente, e il secondo - diagonalmente. Se si vede che due strati non sono sufficienti, applicare più strati, fino a quando la vernice copre completamente i mobili.
 
-Make sure that the layers are **as thin as possible**. This will result in an even and smooth surface. Remember that paint needs up to 20 days to fully cure. Before it happens, be careful not to damage the delicate surface. If you need to clean it, use a **soft cloth or a sponge**.
+Assicurarsi che gli strati siano il più sottile possibile. In questo modo si otterrà una superficie uniforme e liscia. Ricordate che la vernice ha bisogno fino a 20 giorni per polimerizzare completamente. Prima che ciò accada, fate attenzione a non danneggiare la delicata superficie. Se avete bisogno di pulirla, utilizzate un panno morbido o una spugna.
 
-**Restoring kitchen furniture** does not have to be very expensive. **Painting furniture** is a simple solution for a quick and cheap renovation. A good **furniture paint**, right tools and correct preparation guarantee a satisfying result. Such an easy procedure is a good way to transform your kitchen while spending as little as possible.
+Il restauro dei mobili della cucina non deve essere per forza molto costoso. Dipingere i mobili è una soluzione semplice per una ristrutturazione rapida ed economica. Una buona verniciatura dei mobili, gli strumenti giusti e la corretta preparazione garantiscono un risultato soddisfacente. Una procedura così semplice è un buon modo per trasformare la vostra cucina spendendo il meno possibile.
 
-## Painting kitchen furniture - FAQ
+## Pittura di mobili da cucina - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-How to clean wood furniture before painting?
+Come pulire i mobili in legno prima di dipingere?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Wash all surfaces with a detergent and degrease them. For this purpose you can use gasoline or acetone, however any degreaser you have will suffice.
+Lavare tutte le superfici con un detergente e sgrassarle. A questo scopo si può usare benzina o acetone, ma è sufficiente un qualsiasi sgrassante.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to prepare furniture for painting?
+Come preparare i mobili per la pittura?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Remove any knobs and handles and fill any holes and dents with wood adhesive. Sand the surfaces so that the paint sticks better.
+Rimuovere le manopole e le maniglie e riempire i fori e le ammaccature con colla per legno. Carteggiare le superfici in modo che la vernice aderisca meglio.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to remove wax from furniture before painting?
+Come togliere la cera dai mobili prima di dipingere?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-If the wax is soft (it come off when scratching the surface with a fingernail), it can be removed with mineral spirits. For harder and older surfaces, use a wax removal product.
+Se la cera è morbida (si stacca quando si gratta la superficie con un'unghia), può essere rimossa con acqua distillata minerale. Per le superfici più dure e vecchie, utilizzare un prodotto per la rimozione della cera.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to sand furniture for painting?
+Come carteggiare i mobili per dipingere?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Use a 240 sanding paper or sanding sponge. Be careful with laminate furniture - to sand it, use 400 grit and work delicately to not to damage the surface.
+Utilizzare una carta abrasiva 240 o una spugna abrasiva. Fare attenzione ai mobili in laminato - per levigarli, usare grana 400 e lavorare delicatamente per non danneggiare la superficie.
 {% endfaqAnswer %}
 {% endfaqItem %}
