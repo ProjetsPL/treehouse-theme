@@ -1,19 +1,21 @@
 ---
 layout: post
-date: 2020-01-29
+date: 2020-07-18
 toc: true
-title: Underlay for plank flooring - which one is the best?
-description: Underlay for plank flooring - which one is the best? Flooring underlay
-  is very important. If you wonder what is the best laminate underlay, you should
-  consider several issues to help you make the best decision.
+title: Sous-couche pour plancher en planches - laquelle est la meilleure ?
+description: Sous-couche pour plancher en planches - laquelle est la meilleure ? La
+  sous-couche pour les planchers est très importante. Si vous vous demandez quelle
+  est la meilleure sous-couche de stratifié, vous devez examiner plusieurs questions
+  pour vous aider à prendre la meilleure décision.
 image: "/uploads/podklad-pod-panele-jaki-podklad-pod-panele-bedzie-najlepszy.jpg"
 promoted: false
-update_date: 2020-02-05
-intro: If you have already decided on a vinyl plank flooring, you should probably
-  choose a good quality underlay. It is a crucial element that determines the durability
-  of your floor. The right underlay can minimize certain floor and room imperfections.
-  It is, therefore, good to spend some time to choose the correct floor underlayment.
-  It ensures lasting floor for years.
+update_date: 2020-07-18
+intro: Si vous avez déjà opté pour un revêtement de sol en planches de vinyle, vous
+  devriez probablement choisir une sous-couche de bonne qualité. C'est un élément
+  crucial qui détermine la durabilité de votre sol. Une sous-couche de bonne qualité
+  peut minimiser certaines imperfections du sol et de la pièce. Il est donc bon de
+  prendre le temps de choisir la bonne sous-couche de sol. Elle garantit la durabilité
+  du sol pendant des années.
 main_keywords:
 - sous-couche de bois
 - meilleure sous-couche stratifiée
@@ -23,11 +25,11 @@ main_keywords:
 published: false
 
 ---
-## Is underlayment needed for vinyl flooring?
+## Une sous-couche est-elle nécessaire pour les revêtements de sol en vinyle ?
 
-Some people believe that underlay is not necessary and that vinyl planks can be placed directly on the floor. Even though it is possible in some cases, **it is not advised to lay vinyl flooring without underlay**. What is underlayment? Without this element laminate flooring would be quickly destroyed, as the planks could get broken.
+Certaines personnes pensent qu'une sous-couche n'est pas nécessaire et que les planches de vinyle peuvent être posées directement sur le sol. Même si cela est possible dans certains cas, il n'est pas conseillé de poser un revêtement de sol en vinyle sans sous-couche. Qu'est-ce qu'une sous-couche ? Sans cet élément, les revêtements de sol stratifiés seraient rapidement détruits, car les planches pourraient se casser.
 
-**Floor underlay** plays an important role for a vinyl plank floor - it secures the floor. The most important functions of underlay are:
+La sous-couche joue un rôle important pour un sol en planches de vinyle - elle sécurise le sol. Les fonctions les plus importantes de la sous-couche sont les suivantes :
 
 {:.list.list-positive}
 
