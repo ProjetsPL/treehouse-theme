@@ -22,7 +22,6 @@ main_keywords:
 - sous-couche acoustique
 - comment installer la sous-couche
 - comment s'y prendre
-published: false
 
 ---
 ## Une sous-couche est-elle nécessaire pour les revêtements de sol en vinyle ?
@@ -33,122 +32,123 @@ La sous-couche joue un rôle important pour un sol en planches de vinyle - elle 
 
 {:.list.list-positive}
 
-* **Cushioning** - a soft, elastic layer under the planks secures them so that they do **not bend under pressure**. The underlay absorbs energy from hits and heavy objects, protecting the floor from damage.
-* **Thermal insulation** - floor underlayment is a layer which separates the flooring from the subfloor. This way the cold air doesn’t reach the room. Such insulation reduces thermal loss which saves the costs of heating.
-* **Acoustic underlay** - underlay absorbs sounds from rooms under the floor. The layer can also muffle noises from inside the room where the planks are installed.
-* **Evening the surface** - a good underlay can cover minor imperfections of the floor. It fills small indentations and makes the planks more stable.
+* Amortissement - une couche souple et élastique sous les planches les maintient en place de manière à ce qu'elles ne se plient pas sous la pression. La sous-couche absorbe l'énergie des coups et des objets lourds, protégeant ainsi le plancher contre les dommages.
+* Isolation thermique - la sous-couche de sol est une couche qui sépare le revêtement de sol du sous-plancher. De cette façon, l'air froid n'atteint pas la pièce. Une telle isolation réduit les pertes thermiques, ce qui permet d'économiser les coûts de chauffage.
+* Sous-couche acoustique - la sous-couche absorbe les sons des pièces situées sous le plancher. La couche peut également étouffer les bruits provenant de l'intérieur de la pièce où les planches sont installées.
+* Uniformisation de la surface - une bonne sous-couche peut couvrir les petites imperfections du sol. Elle remplit les petites indentations et rend les planches plus stables.
 
-Keep in mind that most manufacturers of vinyl plank flooring require using underlay as a **warranty requirement**. If this condition is not fulfilled, you won’t be able to get a refund if the product you bought is faulty.
+N'oubliez pas que la plupart des fabricants de revêtements de sol en planches de vinyle exigent l'utilisation d'une sous-couche comme condition de garantie. Si cette condition n'est pas remplie, vous ne pourrez pas obtenir de remboursement si le produit que vous avez acheté est défectueux.
 
-Regardless of the type of underlay, you should install it at 45 degrees angle. Using a vapour barrier is important, as it protects from moisture. **It should be laid in a straight line.** Then you can lay the underlay - make sure to cut it to fit the room.
+Quel que soit le type de sous-couche, vous devez l'installer à un angle de 45 degrés. Il est important d'utiliser un pare-vapeur, car il protège de l'humidité. Elle doit être posée en ligne droite. Ensuite, vous pouvez poser la sous-couche - assurez-vous de la couper pour qu'elle s'adapte à la pièce.
 
-## Types of laminate flooring underlay
+## Types de sous-couches de revêtements de sol stratifiés
 
-There are various types of underlay available. They differ from each other by **price, durability, material and intended purpose**. Type of the plank flooring doesn’t affect the type of underlay. You should consider, however, what are your own needs and expectations.
+Il existe différents types de sous-couches. Elles se distinguent les unes des autres par leur prix, leur durabilité, leur matériau et leur destination. Le type de revêtement de sol en planches n'a pas d'incidence sur le type de sous-couche. Vous devez cependant tenir compte de vos propres besoins et attentes.
 
 {% fig %}
 ![Types of laminate flooring underlay](/uploads/podklad-pod-panele-podlogowe-rodzaje.jpg "Types of laminate flooring underlay")
 {% endfig %}
 
-### Natural flooring underlay
+### Sous-couche de sol naturelle
 
-Natural underlayment is usually made of wood and similar materials. Such product are usually good acoustic insulators. The most common natural underlays are:
+Les sous-couches naturelles sont généralement en bois et en matériaux similaires. Ces produits sont généralement de bons isolants acoustiques. Les sous-couches naturelles les plus courantes sont :
 
 {:.list}
 
-* **Cork underlay** - it is a good thermal and **acoustic insulator**. Usually they are sold in large sheets, 2 mm thick. Cork is quite a fragile material and therefore it shouldn’t be used under floors that are intensely used. The underfloor on which a cork underlay might be placed, should be perfectly even.
-* **Plywood** - this material protects from noise and thermal loss, although not as well as cork. It’s thicker, sold in 4-7 mm thick sheets. Because this type of undelay **absorbs water** easily, you should put an additional layer of vapour membrane over it.
-* **Corrugated fiberboard** - it is **one of the cheapest underlays**. It conducts warmth well, however does not isolate sounds. This type requires a perfectly even underfloor.
+* Sous-couche de liège - c'est un bon isolant thermique et acoustique. Ils sont généralement vendus en grandes feuilles de 2 mm d'épaisseur. Le liège est un matériau assez fragile et il ne doit donc pas être utilisé sous des sols très sollicités. Le sol sur lequel une sous-couche de liège peut être placée doit être parfaitement régulier.
+* Contreplaqué - ce matériau protège du bruit et des pertes thermiques, mais pas aussi bien que le liège. Il est plus épais, vendu en feuilles de 4 à 7 mm d'épaisseur. Comme ce type de contreplaqué absorbe facilement l'eau, vous devez le recouvrir d'une couche supplémentaire de membrane de vapeur.
+* Le carton ondulé - c'est l'une des sous-couches les moins chères. Il conduit bien la chaleur, mais n'isole pas des sons. Ce type de revêtement nécessite une sous-couche parfaitement plane.
 
 {% fig %}
 ![Natural flooring underlay](/uploads/tektura-karbowana-i-papier-falisty.jpg "Natural flooring underlay")
 {% endfig %}
 
-### Synthetic flooring underlay
+### Sous-couche de sol synthétique
 
-**Synthetic underlay** has many advantages. One of its best features is the fact that it basically does not absorb water. It also corrects minor surface imperfections. Popular synthetic floor underlays are made of:
+La sous-couche synthétique présente de nombreux avantages. L'une de ses meilleures caractéristiques est le fait qu'elle n'absorbe pratiquement pas l'eau. Elle corrige également les petites imperfections de surface. Les sous-couches de sol synthétiques les plus populaires sont faites de :
 
 {:.list}
 
-* **Foam** - it is the most commonly chosen underlay - mainly for its cheap price. It is waterproof, however it does not isolate from sounds.
+* La mousse - c'est la sous-couche la plus couramment choisie - principalement pour son prix bon marché. Elle est imperméable, mais n'isole pas des sons.
 
 {:.distinction.distinction-warning}
-It loses its shape relatively quickly and it cannot be used under wooden boards.
+Il perd sa forme relativement rapidement et ne peut pas être utilisé sous des planches de bois.
 
 {:.list}
 
-* **Polyethylene (PE)** - it can be used if the underfloor is uneven, as it can fix small imperfections, up to 4 milimetres. It is a good thermal and acoustic insulator.
-* **Polystyrene (XPS)** - such underlay muffles noises well. It is waterproof and very durable. It does not conduct heat, therefore it can be used on floors that are located over unheated rooms.
+* Polyéthylène (PE) - il peut être utilisé si le sol est inégal, car il peut fixer de petites imperfections, jusqu'à 4 millimètres. C'est un bon isolant thermique et acoustique.
 
-## What is the best laminate underlay?
+  Polystyrène (XPS) - cette sous-couche atténue bien les bruits. Il est imperméable et très durable. Il ne conduit pas la chaleur et peut donc être utilisé sur des sols situés au-dessus de pièces non chauffées.
 
-**No underlay is the best or universal**. Every type of product has different qualities that fit different needs. For this reason one needs to consider various aspects before choosing the right underlay.
+## Quelle est la meilleure sous-couche stratifiée ?
 
-### Underlay for floor heating
+Aucune sous-couche n'est la meilleure ou la plus universelle. Chaque type de produit a des qualités différentes qui répondent à des besoins différents. C'est pourquoi il convient de prendre en considération divers aspects avant de choisir la sous-couche adéquate.
 
-If you lay vinyl **plank flooring over floor heating**, you should choose an underlay without heat insulation properties. Wrong underlay could hinder the heat, cooling down the room. Therefore an underlay for floor with heating system should **conduct heat** well.
+### Sous-couche pour le chauffage par le sol
+
+Si vous posez un revêtement de sol en planches de vinyle sur un chauffage par le sol, vous devez choisir une sous-couche sans propriétés d'isolation thermique. Une mauvaise sous-couche pourrait entraver la chaleur et refroidir la pièce. C'est pourquoi une sous-couche pour sol avec système de chauffage doit bien conduire la chaleur.
 
 {:.distinction.distinction-information}
-**Corrugated fiberboard** is one of the best underlay for vinyl plank flooring with floor heating.
+Le carton ondulé est l'une des meilleures sous-couches pour les planches de vinyle avec chauffage par le sol.
 
-Paper underlays are good heat conductors, however they do not isolate the room acoustically. If this is what you need the most, a good choice is underlay made of polystyrene (XPS). It does not conduct heat, but it has **special holes** that let the heat move through.
+Les sous-couches en papier sont de bons conducteurs de chaleur, mais elles n'isolent pas la pièce sur le plan acoustique. Si c'est ce dont vous avez le plus besoin, un bon choix est une sous-couche en polystyrène (XPS). Elle ne conduit pas la chaleur, mais elle est dotée de trous spéciaux qui laissent passer la chaleur.
 
 {% fig %}
 ![Underlay for floor heating](/uploads/podklad-pod-panele-z-tektury-karbowanej.jpg "Underlay for floor heating")
 {% endfig %}
 
-### Underlayment for floor isolation
+### Sous-couche pour l'isolation des sols
 
-If the room in which you decided to lay laminate boards is located over an unheated room or on the ground, the underlay should provide good **heat insulation**. It means that the material shouldn’t conduct temperature. The best underlays of this type are made of polyethylene and polystyrene.
+Si la pièce dans laquelle vous avez décidé de poser des panneaux stratifiés est située au-dessus d'une pièce non chauffée ou sur le sol, la sous-couche doit assurer une bonne isolation thermique. Cela signifie que le matériau ne doit pas conduire la température. Les meilleures sous-couches de ce type sont faites de polyéthylène et de polystyrène.
 
 {:.distinction.distinction-information}
-If acoustic insulation is your priority, cork underlay is worth choosing. Depending on the thickness, it absorbs even up to **25% of sounds**. Polystyrene underlay is another good choice - it reduces sounds to 19 dB.
+Si l'isolation acoustique est votre priorité, la sous-couche en liège vaut la peine d'être choisie. Selon l'épaisseur, elle absorbe même jusqu'à 25 % des sons. La sous-couche en polystyrène est un autre bon choix : elle réduit les sons à 19 dB.
 
-### Underlay for an extensively used floor
+### Sous-couche pour un sol très utilisé
 
-Not every type of underlay is suitable for a heavily used floor. Cork or foam might not be durable enough and they could get damaged very quickly. Therefore for rooms such as halls and living rooms it is good to choose an underlay which is **resistant to mechanical damage**.
+Tous les types de sous-couches ne sont pas adaptés à un sol très utilisé. Le liège ou la mousse peuvent ne pas être assez durables et s'abîmer très rapidement. C'est pourquoi, pour les pièces telles que les halls et les salles de séjour, il est bon de choisir une sous-couche qui résiste aux dommages mécaniques.
 
-One of the most durable materials is polystyrene. Quartz underlay is probably the strongest, however it is quite expensive.
+L'un des matériaux les plus durables est le polystyrène. La sous-couche en quartz est probablement la plus solide, mais elle est assez coûteuse.
 
-### Allergy-proof underlay
+### Sous-couche antiallergique
 
-If an **allergy sufferer** is going to live in the room with vinyl flooring, the material used for underlay needs a special attention.
+Si une personne allergique va vivre dans une pièce avec un revêtement de sol en vinyle, le matériau utilisé pour la sous-couche doit faire l'objet d'une attention particulière.
 
 {:.distinction.distinction-warning}
-An allergy-proof underlay for vinyl plank flooring must not release any dust - therefore using **plywood** in this case is not advised. Material of this type is quite dusty, which might be irritating or even dangerous for an allergy sufferer.
+Une sous-couche antiallergique pour un revêtement de sol en planches de vinyle ne doit pas dégager de poussière - il est donc déconseillé d'utiliser du contreplaqué dans ce cas. Ce type de matériau est très poussiéreux, ce qui peut être irritant, voire dangereux pour une personne allergique.
 
-The best natural material for this purpose is **cork underlay**. Its main advantages is resistance to moisture, as well as mould and fungi. Alternatively you can use a plastic material underlay which does not absorb water nor release any dust.
+Le meilleur matériau naturel à cet effet est la sous-couche en liège. Ses principaux avantages sont la résistance à l'humidité, ainsi qu'aux moisissures et aux champignons. Vous pouvez également utiliser une sous-couche en matière plastique qui n'absorbe pas l'eau et ne dégage pas de poussière.
 
-**Finishing your house might be quite a difficult process. Many homeowners ask specialists: what is the best laminate underlay? A good material is a guarantee that your vinyl plank floor is going to last long. It might also have some additional features. One should consider what criterion is the most important for them and use it to choose the right product. If you have a problem with making the decision, you should ask a salesperson to help you.**
+La finition de votre maison peut être un processus assez difficile. De nombreux propriétaires demandent aux spécialistes : quelle est la meilleure sous-couche stratifiée ? Un bon matériau est la garantie que votre sol en planches de vinyle va durer longtemps. Il peut également présenter des caractéristiques supplémentaires. Il convient de se demander quel est le critère le plus important pour eux et de l'utiliser pour choisir le bon produit. Si vous avez du mal à prendre une décision, vous devriez demander à un vendeur de vous aider.
 
-## Underlay for plank flooring - FAQ
+## Sous-couche pour plancher en planches - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-How to install underlay?
+Comment installer une sous-couche ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Any type of underlay should be installed at 45 degrees angle to the direction the plank boards are going to lay. Make sure to cut the underlay to perfectly fit it to the room.
+Tout type de sous-couche doit être installé à un angle de 45 degrés par rapport à la direction dans laquelle les planches vont être posées. Veillez à couper la sous-couche pour qu'elle s'adapte parfaitement à la pièce.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to lay underlay for underfloor heating?
+Comment poser une sous-couche pour le chauffage par le sol ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Underlay for underfloor heating should be installed the same way as any other underlay. For this type, the vapour barrier is mandatory. The best laminate underlay for floor heating is polystyrene and corrugated fiber.
+La sous-couche pour le chauffage au sol doit être installée de la même manière que toute autre sous-couche. Pour ce type, le pare-vapeur est obligatoire. La meilleure sous-couche stratifiée pour le chauffage par le sol est le polystyrène et la fibre ondulée.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-What is the best underlay for laminate flooring?
+Quelle est la meilleure sous-couche pour les revêtements de sol stratifiés ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Any type of underlay is good and one should fit the right product to their particular needs. Underlay can serve many functions, such as acoustic or warmth isolation.
+Tout type de sous-couche est bon et il convient d'adapter le produit à ses besoins particuliers. Les sous-couches peuvent remplir de nombreuses fonctions, telles que l'isolation acoustique ou thermique.
 {% endfaqAnswer %}
 {% endfaqItem %}
