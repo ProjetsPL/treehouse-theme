@@ -2,10 +2,10 @@
 layout: post
 date: 2020-04-09
 main_keywords:
-- how to clean an iron
-- iron plate
-- cleaning iron plate
-- steam iron
+- cómo limpiar una plancha
+- placa de hierro
+- placa de hierro de limpieza
+- plancha de vapor
 toc: true
 promoted: false
 update_date: 2020-04-10

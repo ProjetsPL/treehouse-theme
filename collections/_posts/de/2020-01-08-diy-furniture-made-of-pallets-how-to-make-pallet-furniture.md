@@ -15,18 +15,18 @@ intro: Comfortable and functional furniture is an essential element if you want 
   gardens are pallets. Pallet furniture is inexpensive, quite sturdy and extremely
   easy to make.
 main_keywords:
-- pallets
-- pallet furniture
-- pallet ideas
-- wood pallet
-- pallet wood projects
-- diy furniture
-- pallet wood
-- pallet table
-- pallet bench
-- 'diy pallet projects '
-- where to get pallets
-- pallet furniture ideas
+- Paletten
+- Palettenmöbel
+- Paletten-Ideen
+- Holzpalette
+- Palettenholz-Projekte
+- Diy-Möbel
+- Palettenholz
+- Palettentisch
+- Palettenbank
+- diy palette projekte
+- wo man Paletten bekommt
+- Palettenmöbel-Ideen
 published: false
 
 ---

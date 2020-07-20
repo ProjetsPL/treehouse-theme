@@ -4,10 +4,10 @@ date: 2020-05-07
 main_keywords:
 - entresol
 - entresols
-- mazzanine
-- what is a mezzanine
-- mezzanine floor
-- mezzanine level
+- mazzanino
+- cos'è un soppalco
+- soppalco
+- livello mezzanino
 toc: true
 promoted: false
 update_date: 2020-05-07

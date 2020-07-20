@@ -2,10 +2,10 @@
 layout: post
 date: 2020-06-16
 main_keywords:
-- attic bathroom ideas
-- attic bathroom
-- small attic bathroom
-- attic bathrooms
+- idées de salles de bains de grenier
+- salle de bain du grenier
+- petite salle de bain au grenier
+- les salles de bains des greniers
 toc: true
 promoted: false
 update_date: 2020-06-16

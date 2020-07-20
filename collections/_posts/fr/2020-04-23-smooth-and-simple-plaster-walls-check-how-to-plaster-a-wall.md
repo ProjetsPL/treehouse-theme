@@ -2,12 +2,12 @@
 layout: post
 date: 2020-04-23
 main_keywords:
-- how to plaster a wall
-- plaster wall
-- wall plaster
-- finishing plaster
-- plaster finish
-- plaster walls
+- comment plâtrer un mur
+- mur de plâtre
+- plâtre mural
+- plâtre de finition
+- finition du plâtre
+- murs en plâtre
 toc: true
 promoted: false
 update_date: 2020-04-23

@@ -2,14 +2,14 @@
 layout: post
 date: 2020-06-26
 main_keywords:
-- TV wall
-- TV wall ideas
-- TV room ideas
-- TV wall design
-- hanging televisions
-- TV on wall idea
-- TV wall decor
-- TV wall design
+- TV-Wand
+- Ideen für TV-Wände
+- Ideen für Fernsehzimmer
+- TV-Wandgestaltung
+- hängende Fernseher
+- TV an der Wand Idee
+- TV-Wanddekoration
+- TV-Wandgestaltung
 toc: true
 promoted: false
 update_date: 2020-06-26

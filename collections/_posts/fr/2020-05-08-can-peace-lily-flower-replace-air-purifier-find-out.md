@@ -2,18 +2,18 @@
 layout: post
 date: 2020-05-08
 main_keywords:
-- peace lily
-- lily flower
-- lily plant
-- how to take care for a peace lily
+- lys de paix
+- fleur de lys
+- plante de lys
+- comment prendre soin d'un lys de paix
 - spathiphyllum
-- spathiphyllum care
-- spathiphyllum plant
-- how often to water peace lily
-- repotting peace lily
-- peace lily watering
-- how to take care for a peace lily indoors
-- how to care for Spathiphyllum
+- soins du spathiphyllum
+- plante spathiphyllum
+- combien de fois arroser le nénuphar de la paix
+- rempoter le lis de la paix
+- arrosage de nénuphars de la paix
+- comment prendre soin d'un lys de paix à l'intérieur
+- comment soigner le Spathiphyllum
 toc: true
 promoted: false
 update_date: 2020-05-08

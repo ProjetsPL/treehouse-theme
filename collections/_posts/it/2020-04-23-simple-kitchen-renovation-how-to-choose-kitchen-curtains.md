@@ -2,12 +2,12 @@
 layout: post
 date: 2020-04-23
 main_keywords:
-- kitchen curtains
-- curtains ideas
-- kitchen window curtains
-- kitchen curtains ideas
-- kitchen window ideas
-- kitchen curtains sets
+- tende da cucina
+- idee per le tende
+- tende della finestra della cucina
+- idee per le tende da cucina
+- idee per la finestra della cucina
+- set di tende da cucina
 toc: true
 promoted: false
 update_date: 2020-04-23

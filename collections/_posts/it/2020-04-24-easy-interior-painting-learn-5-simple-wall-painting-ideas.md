@@ -2,15 +2,15 @@
 layout: post
 date: 2020-04-24
 main_keywords:
-- paint
-- painting
-- painting walls
-- how to paint a wall
-- room painting ideas
-- interior painting
-- wall painting ideas
-- wall painting techniques
-- ceiling paint
+- vernice
+- pittura
+- pitturare i muri
+- come dipingere un muro
+- idee per la pittura in camera
+- pittura d'interni
+- idee per la pittura murale
+- tecniche di pittura murale
+- vernice per soffitto
 toc: true
 promoted: false
 update_date: 2020-04-24

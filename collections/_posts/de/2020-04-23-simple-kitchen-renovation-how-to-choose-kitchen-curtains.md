@@ -2,12 +2,12 @@
 layout: post
 date: 2020-04-23
 main_keywords:
-- kitchen curtains
-- curtains ideas
-- kitchen window curtains
-- kitchen curtains ideas
-- kitchen window ideas
-- kitchen curtains sets
+- Küchenvorhänge
+- Ideen für Gardinen
+- Küchenfenster-Vorhänge
+- Ideen für Küchenvorhänge
+- Ideen für Küchenfenster
+- Küchenvorhangsets
 toc: true
 promoted: false
 update_date: 2020-04-23

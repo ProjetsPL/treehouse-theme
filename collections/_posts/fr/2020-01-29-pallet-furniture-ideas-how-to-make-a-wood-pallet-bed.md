@@ -14,15 +14,15 @@ intro: Pallet furniture is a popular trend in home decoration. It is an interest
   easy DIY project involving pallets is a pallet bed. When done right, it might be
   very stylish and impressive.
 main_keywords:
-- pallet bed
-- pallet bed frame
-- diy pallet bed
-- pallet dog bed
-- wood pallet bed
-- pallet bed ideas
-- how to make a pallet bed
-- 'how to make a pallet bed frame '
-- how to make a pallet garden bed
+- lit de palette
+- cadre de lit de palette
+- lit de palette diy
+- lit pour chien de palette
+- lit de palettes en bois
+- idées de lits de palettes
+- comment faire un lit de palettes
+- comment fabriquer un cadre de lit de palette
+- comment faire un lit de jardin à palettes
 published: false
 
 ---

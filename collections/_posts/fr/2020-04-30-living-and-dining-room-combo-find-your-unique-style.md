@@ -2,19 +2,19 @@
 layout: post
 date: 2020-04-30
 main_keywords:
-- dining area
-- living room and dining room combo
-- living and dining room combo
-- living room with dining area
-- living room ideas
-- dining room ideas
-- dining room sets
-- open living room
-- open dining room
-- open floor plan
-- open concept floor plan
-- open concept house
-- dining room decorating ideas
+- la salle à manger
+- salon et salle à manger combinés
+- salon et salle à manger combinés
+- salle de séjour avec coin repas
+- idées de salon
+- idées de salle à manger
+- ensembles de salle à manger
+- salon ouvert
+- salle à manger ouverte
+- plan d'étage ouvert
+- plan d'étage du concept ouvert
+- maison ouverte
+- idées de décoration de la salle à manger
 toc: true
 promoted: false
 update_date: 2020-04-30

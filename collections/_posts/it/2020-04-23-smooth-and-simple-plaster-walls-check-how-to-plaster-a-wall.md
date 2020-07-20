@@ -2,12 +2,12 @@
 layout: post
 date: 2020-04-23
 main_keywords:
-- how to plaster a wall
-- plaster wall
-- wall plaster
-- finishing plaster
-- plaster finish
-- plaster walls
+- come intonacare un muro
+- parete in gesso
+- intonaco per pareti
+- intonaco di finitura
+- finitura in gesso
+- pareti in gesso
 toc: true
 promoted: false
 update_date: 2020-04-23

@@ -2,18 +2,18 @@
 layout: post
 date: 2020-04-09
 main_keywords:
-- curbless shower
-- wet room
-- barrier free shower
-- shower cabin
-- shower unit
-- walk-in shower
-- no curb shower
-- shower stall
-- how to build a shower
-- how to build a tile shower
-- how to build a shower curb
-- how much does a walk in shower cost
+- douche sans rideau
+- pièce humide
+- douche sans barrière
+- cabine de douche
+- unité de douche
+- douche de plain-pied
+- pas de douche sur le trottoir
+- cabine de douche
+- comment construire une douche
+- comment construire une douche carrelée
+- comment construire une bordure de douche
+- combien coûte une douche à pied
 toc: true
 promoted: false
 update_date: 2020-04-10

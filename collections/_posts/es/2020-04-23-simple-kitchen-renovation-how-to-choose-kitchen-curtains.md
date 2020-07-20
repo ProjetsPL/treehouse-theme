@@ -2,12 +2,12 @@
 layout: post
 date: 2020-04-23
 main_keywords:
-- kitchen curtains
-- curtains ideas
-- kitchen window curtains
-- kitchen curtains ideas
-- kitchen window ideas
-- kitchen curtains sets
+- cortinas de cocina
+- ideas de cortinas
+- cortinas de la ventana de la cocina
+- ideas para cortinas de cocina
+- ideas para las ventanas de la cocina
+- juegos de cortinas de cocina
 toc: true
 promoted: false
 update_date: 2020-04-23

@@ -2,14 +2,14 @@
 layout: post
 date: 2020-04-17
 main_keywords:
-- magnetic paint
-- chalkboard paint
-- magnetic chalkboard paint
-- chalk board paint
-- blackboard paint
-- magnet paint
-- how to make magnetic paint
-- how strong is magnetic paint
+- Magnetfarbe
+- Kreidefarbe
+- magnetische Kreidefarbe
+- Kreidetafel-Farbe
+- Tafelfarbe
+- Magnetfarbe
+- wie man magnetische Farbe herstellt
+- wie stark ist magnetische Farbe
 toc: true
 promoted: false
 update_date: 2020-04-17

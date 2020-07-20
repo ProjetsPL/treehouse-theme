@@ -2,17 +2,17 @@
 layout: post
 date: 2020-04-15
 main_keywords:
-- furniture repair
-- upcycled furniture
-- furniture refinishing
-- repurporsed furniture
-- upcycling furniture
-- old furniture
-- refurbished furniture
-- furniture reupholstering
-- refurbishing furniture
-- how to refurbish furniture
-- how to restore furniture
+- riparazione di mobili
+- mobili upcycled
+- rifinitura di mobili
+- Mobili riadattati
+- mobili per l'upcycling
+- mobili antichi
+- mobili ristrutturati
+- Riapplicazione di mobili
+- ristrutturazione di mobili
+- come rinnovare i mobili
+- come restaurare i mobili
 toc: true
 promoted: false
 update_date: 2020-04-15

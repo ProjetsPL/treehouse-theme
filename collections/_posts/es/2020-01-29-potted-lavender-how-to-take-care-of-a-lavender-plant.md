@@ -14,17 +14,17 @@ intro: Lavender - a unique plant with many useful traits. It resides in many gar
   your space is limited, potted lavender is a perfect solution for you. Learn how
   to properly take care of it.
 main_keywords:
-- lavender
-- lavender plant
-- lavender color
-- lavender flower
-- lavender flowers
-- lavender plants
-- lavender plant care
-- how to grow lavender
-- how to dry lavender
-- when does lavender bloom
-- when to plant lavender
+- lavanda
+- planta de lavanda
+- color lavanda
+- flor de lavanda
+- flores de lavanda
+- plantas de lavanda
+- cuidado de la planta de lavanda
+- cómo cultivar la lavanda
+- cómo secar la lavanda
+- ¿cuándo florece la lavanda
+- cuando plantar lavanda
 published: false
 
 ---

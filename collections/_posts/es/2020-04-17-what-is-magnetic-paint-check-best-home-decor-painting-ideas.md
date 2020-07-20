@@ -2,14 +2,14 @@
 layout: post
 date: 2020-04-17
 main_keywords:
-- magnetic paint
-- chalkboard paint
-- magnetic chalkboard paint
-- chalk board paint
-- blackboard paint
-- magnet paint
-- how to make magnetic paint
-- how strong is magnetic paint
+- pintura magnética
+- pintura de pizarra
+- pintura magnética para pizarras
+- pintura de pizarra de tiza
+- pintura de pizarra
+- pintura magnética
+- cómo hacer pintura magnética
+- lo fuerte que es la pintura magnética
 toc: true
 promoted: false
 update_date: 2020-04-17

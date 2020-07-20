@@ -2,19 +2,19 @@
 layout: post
 date: 2020-04-30
 main_keywords:
-- dining area
-- living room and dining room combo
-- living and dining room combo
-- living room with dining area
-- living room ideas
-- dining room ideas
-- dining room sets
-- open living room
-- open dining room
-- open floor plan
-- open concept floor plan
-- open concept house
-- dining room decorating ideas
+- comedor
+- combinación de sala de estar y comedor
+- combinación de sala de estar y comedor
+- sala de estar con comedor
+- ideas para la sala de estar
+- ideas para el comedor
+- juegos de comedor
+- sala de estar abierta
+- comedor abierto
+- plan de piso abierto
+- plan de piso de concepto abierto
+- casa de concepto abierto
+- ideas para la decoración del comedor
 toc: true
 promoted: false
 update_date: 2020-04-30

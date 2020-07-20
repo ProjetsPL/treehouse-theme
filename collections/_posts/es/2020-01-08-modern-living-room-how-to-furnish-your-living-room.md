@@ -15,11 +15,11 @@ intro: Living room is one of the most important rooms in every house. It is the 
   guests, it also has to comply with the latest trends. A modern living room is a
   combination of an aesthetically pleasing design and functionality.
 main_keywords:
-- modern living room
-- modern living room ideas
-- living room modern
-- modern living room design
-- living room ideas modern
+- sala de estar moderna
+- las ideas de la sala de estar moderna
+- sala de estar moderna
+- el diseño de la sala de estar moderna
+- las ideas de la sala de estar modernas
 published: false
 
 ---

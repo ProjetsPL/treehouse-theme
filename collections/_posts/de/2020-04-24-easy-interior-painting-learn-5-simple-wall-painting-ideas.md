@@ -2,15 +2,15 @@
 layout: post
 date: 2020-04-24
 main_keywords:
-- paint
-- painting
-- painting walls
-- how to paint a wall
-- room painting ideas
-- interior painting
-- wall painting ideas
-- wall painting techniques
-- ceiling paint
+- malen
+- Malerei
+- Wände streichen
+- wie man eine Wand streicht
+- Raummalerei-Ideen
+- Innenmalerei
+- Ideen für Wandmalerei
+- Techniken der Wandmalerei
+- Deckenfarbe
 toc: true
 promoted: false
 update_date: 2020-04-24

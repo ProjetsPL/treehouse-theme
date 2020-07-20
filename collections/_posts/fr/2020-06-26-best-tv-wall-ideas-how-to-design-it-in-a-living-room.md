@@ -2,14 +2,14 @@
 layout: post
 date: 2020-06-26
 main_keywords:
-- TV wall
-- TV wall ideas
-- TV room ideas
-- TV wall design
-- hanging televisions
-- TV on wall idea
-- TV wall decor
-- TV wall design
+- Mur de télévision
+- Idées de mur de télévision
+- Idées pour la salle de télévision
+- Design du mur de la télévision
+- les téléviseurs suspendus
+- L'idée de la télévision sur le mur
+- Décoration murale pour la télévision
+- Design du mur de la télévision
 toc: true
 promoted: false
 update_date: 2020-06-26

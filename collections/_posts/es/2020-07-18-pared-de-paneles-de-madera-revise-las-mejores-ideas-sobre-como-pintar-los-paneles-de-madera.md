@@ -18,14 +18,14 @@ intro: Los paneles de madera fueron un elemento de diseño interior muy popular 
   cambiar su color. Los paneles pintados se ven bastante impresionantes. Es una buena
   manera de una rápida metamorfosis - todo lo que necesitas es una buena pintura.
 main_keywords:
-- wood paneling
-- wood panel
-- wood wall paneling
-- 'wood panel wall '
-- painting paneling
-- painted paneling
-- painted wood paneling
-- how to paint wood paneling
+- paneles de madera
+- panel de madera
+- paneles de madera en las paredes
+- pared de paneles de madera
+- paneles de pintura
+- paneles pintados
+- paneles de madera pintados
+- cómo pintar paneles de madera
 - paneles de madera
 - panel de madera
 published: false

@@ -2,16 +2,16 @@
 layout: post
 date: 2020-04-16
 main_keywords:
-- how to paint a room
-- painting techniques
-- wall paint
-- wall painting
-- painting walls
-- painting tips
-- how to paint walls
-- painting a room
-- what color should i paint my room
-- how to start painting
+- comment peindre une pièce
+- les techniques de peinture
+- peinture murale
+- peinture murale
+- peindre les murs
+- conseils de peinture
+- comment peindre les murs
+- peindre une pièce
+- quelle couleur dois-je peindre ma chambre
+- comment commencer à peindre
 toc: true
 promoted: false
 update_date: 2020-04-16

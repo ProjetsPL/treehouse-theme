@@ -2,16 +2,16 @@
 layout: post
 date: 2020-06-05
 main_keywords:
-- anthurium
-- anthurium care
-- anthurium plant
-- flamingo flower
-- flamingo lily
-- flamingo plant
-- anthurium flower
-- anthurium plant care
-- laceleaf
-- how to take care of anthurium
+- Anthurium
+- Anthurium-Pflege
+- Anthurium-Pflanze
+- Flamingo-Blume
+- Flamingo-Lilie
+- Flamingo-Pflanze
+- Anthuriumblume
+- Anthurium-Pflanzenpflege
+- Spitzenblatt
+- wie man sich um Anthurium kümmert
 toc: true
 promoted: false
 update_date: 2020-06-05

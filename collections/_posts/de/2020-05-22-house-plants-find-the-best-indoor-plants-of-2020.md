@@ -2,21 +2,21 @@
 layout: post
 date: 2020-05-22
 main_keywords:
-- house plants
-- indoor plants
-- best indoor plants
-- houseplant
-- houseplants
-- best house plants
-- potted plants
-- potted flower
-- potted plant
-- easy house plants
-- types of indoor plants
-- indoor flowers
-- flowering house plants
-- small house plants
-- how to care for houseplants
+- Zimmerpflanzen
+- Zimmerpflanzen
+- beste Zimmerpflanzen
+- Zimmerpflanze
+- Zimmerpflanzen
+- beste Zimmerpflanzen
+- Topfpflanzen
+- Topfblume
+- Topfpflanze
+- einfache Zimmerpflanzen
+- Arten von Zimmerpflanzen
+- Zimmerblumen
+- blühende Zimmerpflanzen
+- kleine Zimmerpflanzen
+- wie man Zimmerpflanzen pflegt
 toc: true
 promoted: false
 update_date: 2020-06-12

@@ -2,19 +2,19 @@
 layout: post
 date: 2020-05-20
 main_keywords:
-- dogwood tree
-- flowering dogwood
-- pink dogwood
-- venus dogwood
-- types of dogwood trees
-- how to plant a dogwood tree
-- how fast do dogwood trees grow
-- cornelian cherry
-- cornelian cherry dogwood
-- cornelian cherry tree
+- Hartriegel-Baum
+- blühender Hartriegel
+- rosa Hartriegel
+- venus-hartriegel
+- Arten von Hartriegel-Bäumen
+- wie man einen Hartriegelbaum pflanzt
+- Wie schnell wachsen Hartriegel-Bäume?
+- Kornelkirsche
+- Hartriegel aus Kornelkirsche
+- Kornelkirschbaum
 - cornus mas
-- cornelian cherry fruit
-- cornus tree
+- Kornelkirsche
+- Maisbaum
 - cornus
 toc: true
 promoted: false

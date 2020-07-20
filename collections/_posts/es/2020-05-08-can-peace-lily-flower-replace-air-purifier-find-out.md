@@ -2,18 +2,18 @@
 layout: post
 date: 2020-05-08
 main_keywords:
-- peace lily
-- lily flower
-- lily plant
-- how to take care for a peace lily
+- lirio de la paz
+- flor de lirio
+- planta de lirio
+- cómo cuidar de un lirio de paz
 - spathiphyllum
-- spathiphyllum care
-- spathiphyllum plant
-- how often to water peace lily
-- repotting peace lily
-- peace lily watering
-- how to take care for a peace lily indoors
-- how to care for Spathiphyllum
+- cuidado de spathiphyllum
+- planta spathiphyllum
+- con qué frecuencia regar el lirio de la paz
+- replantar el lirio de la paz
+- lirio de la paz regando
+- cómo cuidar de un lirio de paz en el interior
+- cómo cuidar de Spathiphyllum
 toc: true
 promoted: false
 update_date: 2020-05-08

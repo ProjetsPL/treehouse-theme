@@ -2,25 +2,25 @@
 layout: post
 date: 2020-05-15
 main_keywords:
-- orchids
-- orchid care
-- orchid flower
-- how to care for orchids
-- how to repot an orchid
-- types of orchids
-- orchid flowers
-- how to care of orchids
-- orchid pot
-- how to water orchids
-- orchid roots
-- orchid care for beginners
-- how do you get an orchid to bloom again
-- how to revive an orchid
-- how long do orchid blooms last
-- how do you keep an orchid alive
-- why are my orchid leaves turning yellow
-- how often to water an orchid
-- how to prune orchid
+- Orchideen
+- Orchideenpflege
+- Orchideenblüte
+- wie man Orchideen pflegt
+- wie man eine Orchidee umtopft
+- Orchideenarten
+- Orchideenblüten
+- wie man Orchideen pflegt
+- Orchideentopf
+- wie man Orchideen gießt
+- Orchideenwurzeln
+- Orchideenpflege für Anfänger
+- Wie bringt man eine Orchidee wieder zum Blühen?
+- wie man eine Orchidee wiederbelebt
+- wie lange halten die Orchideenblüten
+- Wie hält man eine Orchidee am Leben?
+- Warum werden meine Orchideenblätter gelb?
+- wie oft eine Orchidee gegossen werden soll
+- wie man eine Orchidee beschneidet
 toc: true
 promoted: false
 update_date: 2020-05-15

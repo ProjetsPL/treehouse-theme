@@ -2,21 +2,21 @@
 layout: post
 date: 2020-05-22
 main_keywords:
-- house plants
-- indoor plants
-- best indoor plants
-- houseplant
-- houseplants
-- best house plants
-- potted plants
-- potted flower
-- potted plant
-- easy house plants
-- types of indoor plants
-- indoor flowers
-- flowering house plants
-- small house plants
-- how to care for houseplants
+- plantas de interior
+- plantas de interior
+- las mejores plantas de interior
+- planta de interior
+- plantas de interior
+- las mejores plantas de interior
+- plantas en maceta
+- flor en maceta
+- planta en maceta
+- plantas de casa fácil
+- tipos de plantas de interior
+- flores de interior
+- plantas de casa con flores
+- pequeñas plantas domésticas
+- cómo cuidar de las plantas de interior
 toc: true
 promoted: false
 update_date: 2020-06-12

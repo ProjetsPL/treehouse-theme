@@ -14,14 +14,14 @@ intro: Tile flooring is one of the most popular patio floor ideas. Appearance of
 update_date: 2020-06-16
 promoted: false
 main_keywords:
-- tile flooring
-- outdoor tile
-- outdoor flooring
-- patio tiles
-- patio flooring
-- outdoor tiles
-- how to install tile flooring
-- how to remove tile flooring
+- suelo de baldosas
+- baldosa de exterior
+- suelo de exterior
+- las baldosas del patio
+- el suelo del patio
+- baldosas de exterior
+- cómo instalar el suelo de baldosas
+- cómo quitar el suelo de baldosas
 published: false
 
 ---

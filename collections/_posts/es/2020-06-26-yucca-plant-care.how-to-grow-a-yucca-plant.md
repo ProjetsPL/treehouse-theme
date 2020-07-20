@@ -3,19 +3,19 @@ layout: post
 date: 2020-06-26
 main_keywords:
 - yucca
-- yucca plant
-- yucca root
-- yucca tree
-- yucca flower
-- what is yuca
-- yucca plants
-- yucca plant
-- yucca plant care
-- yucca plant indoor
+- planta de yuca
+- raíz de yuca
+- árbol de yuca
+- flor de yuca
+- qué es la yuca
+- plantas de yuca
+- planta de yuca
+- cuidado de la planta de yuca
+- planta de yuca de interior
 - yucca filamentosa
 - yucca gloriosa
-- what is yucca plant
-- how to care for a yucca plant
+- qué es la planta de yuca
+- cómo cuidar una planta de yuca
 toc: true
 promoted: false
 update_date: 2020-06-26

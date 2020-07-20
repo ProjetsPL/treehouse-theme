@@ -14,13 +14,13 @@ intro: An unaesthetic radiator is a problem of many, otherwise good-looking apar
   might be a brilliant idea. It hides the ugly device, keeping its functionality.
   What type of radiator cover is the best?
 main_keywords:
-- radiator cover
-- radiator heat cover
-- radiator cover ideas
-- heat radiator cover
-- how to build a radiator cover
-- how to make a radiator cover
-- how to cover a radiator
+- cache-radiateur
+- couverture thermique des radiateurs
+- idées de couvertures de radiateurs
+- couverture de radiateur de chaleur
+- comment construire une couverture de radiateur
+- comment fabriquer une couverture de radiateur
+- comment couvrir un radiateur
 published: false
 
 ---

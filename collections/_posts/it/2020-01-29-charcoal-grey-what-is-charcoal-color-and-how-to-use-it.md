@@ -16,12 +16,12 @@ intro: Charcoal is a versatile color that can be used for many purposes. It is u
   for walls, furniture, accessories and flooring. Charcoal color is a very popular
   color in 2020.
 main_keywords:
-- charcoal
-- charcoal color
-- charcoal grey
-- charcoal gray
-- what color is charcoal
-- what color goes with charcoal gray
+- carbone di legna
+- colore carbone di legna
+- grigio antracite
+- grigio carbone di legna
+- di che colore è il carbone di legna
+- che colore si abbina al grigio antracite
 published: false
 
 ---

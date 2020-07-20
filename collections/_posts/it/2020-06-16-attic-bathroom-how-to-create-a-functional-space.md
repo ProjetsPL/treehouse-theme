@@ -2,10 +2,10 @@
 layout: post
 date: 2020-06-16
 main_keywords:
-- attic bathroom ideas
-- attic bathroom
-- small attic bathroom
-- attic bathrooms
+- idee per il bagno in soffitta
+- bagno in soffitta
+- piccolo bagno in mansarda
+- bagni in soffitta
 toc: true
 promoted: false
 update_date: 2020-06-16

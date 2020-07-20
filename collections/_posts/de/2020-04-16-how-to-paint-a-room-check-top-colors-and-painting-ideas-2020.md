@@ -2,16 +2,16 @@
 layout: post
 date: 2020-04-16
 main_keywords:
-- how to paint a room
-- painting techniques
-- wall paint
-- wall painting
-- painting walls
-- painting tips
-- how to paint walls
-- painting a room
-- what color should i paint my room
-- how to start painting
+- wie man einen Raum streicht
+- Maltechniken
+- Wandfarbe
+- Wandmalerei
+- Wände streichen
+- Lackiertipps
+- wie man Wände streicht
+- einen Raum streichen
+- Welche Farbe soll ich mein Zimmer streichen?
+- wie man mit dem Malen beginnt
 toc: true
 promoted: false
 update_date: 2020-04-16

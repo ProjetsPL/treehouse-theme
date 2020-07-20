@@ -2,19 +2,19 @@
 layout: post
 date: 2020-05-20
 main_keywords:
-- dogwood tree
-- flowering dogwood
-- pink dogwood
-- venus dogwood
-- types of dogwood trees
-- how to plant a dogwood tree
-- how fast do dogwood trees grow
-- cornelian cherry
-- cornelian cherry dogwood
-- cornelian cherry tree
+- cornouiller
+- cornouiller en fleur
+- cornouiller rose
+- Vénus Dogwood
+- les types de cornouillers
+- comment planter un cornouiller
+- à quelle vitesse poussent les cornouillers
+- cerise de cornaline
+- cornouiller de cerisier de Cornouailles
+- cerisier cornaline
 - cornus mas
-- cornelian cherry fruit
-- cornus tree
+- cerise cornaline
+- arbre cornus
 - cornus
 toc: true
 promoted: false

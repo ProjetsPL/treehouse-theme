@@ -2,18 +2,18 @@
 layout: post
 date: 2020-05-08
 main_keywords:
-- peace lily
-- lily flower
-- lily plant
-- how to take care for a peace lily
+- giglio della pace
+- fiore di giglio
+- pianta di giglio
+- come prendersi cura di un giglio della pace
 - spathiphyllum
-- spathiphyllum care
-- spathiphyllum plant
-- how often to water peace lily
-- repotting peace lily
-- peace lily watering
-- how to take care for a peace lily indoors
-- how to care for Spathiphyllum
+- cura dello spathiphyllum
+- spathiphyllum pianta
+- quanto spesso innaffiare il giglio della pace
+- rinvasare il giglio della pace
+- annaffiatura delle ninfee della pace
+- come prendersi cura di un giglio della pace in casa
+- come prendersi cura dello Spathiphyllum
 toc: true
 promoted: false
 update_date: 2020-05-08

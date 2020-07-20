@@ -14,14 +14,14 @@ intro: Tile flooring is one of the most popular patio floor ideas. Appearance of
 update_date: 2020-06-16
 promoted: false
 main_keywords:
-- tile flooring
-- outdoor tile
-- outdoor flooring
-- patio tiles
-- patio flooring
-- outdoor tiles
-- how to install tile flooring
-- how to remove tile flooring
+- Fliesenbelag
+- Außenfliese
+- Bodenbelag im Freien
+- Terrassenfliesen
+- Terrassenbelag
+- Fliesen für den Außenbereich
+- wie man Fliesenbeläge verlegt
+- wie man Fliesenbeläge entfernt
 published: false
 
 ---

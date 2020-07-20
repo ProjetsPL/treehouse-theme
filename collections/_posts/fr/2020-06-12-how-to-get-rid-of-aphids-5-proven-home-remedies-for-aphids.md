@@ -2,15 +2,15 @@
 layout: post
 date: 2020-06-12
 main_keywords:
-- how to get rid of aphids
-- how to kill aphids
-- aphids on plants
-- what are aphids
-- killing aphids
-- yellow aphids
-- what do aphids look like
-- get rid of aphids
-- kill aphids
+- comment se débarrasser des pucerons
+- comment tuer les pucerons
+- pucerons sur les plantes
+- que sont les pucerons
+- tuer les pucerons
+- pucerons jaunes
+- à quoi ressemblent les pucerons
+- se débarrasser des pucerons
+- tuer les pucerons
 toc: true
 promoted: false
 update_date: 2020-06-12

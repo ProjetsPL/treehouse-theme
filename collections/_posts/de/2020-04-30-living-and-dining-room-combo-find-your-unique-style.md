@@ -2,19 +2,19 @@
 layout: post
 date: 2020-04-30
 main_keywords:
-- dining area
-- living room and dining room combo
-- living and dining room combo
-- living room with dining area
-- living room ideas
-- dining room ideas
-- dining room sets
-- open living room
-- open dining room
-- open floor plan
-- open concept floor plan
-- open concept house
-- dining room decorating ideas
+- Essbereich
+- Wohn- und Esszimmer-Kombination
+- Wohn- und Esszimmer-Kombination
+- Wohnzimmer mit Essbereich
+- Wohnzimmer-Ideen
+- Esszimmer-Ideen
+- Esszimmer-Sets
+- offenes Wohnzimmer
+- offener Speisesaal
+- offener Grundriss
+- offener Konzept-Grundriss
+- Haus der offenen Konzeption
+- Ideen zur Dekoration von Esszimmern
 toc: true
 promoted: false
 update_date: 2020-04-30

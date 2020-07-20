@@ -2,15 +2,15 @@
 layout: post
 date: 2020-04-24
 main_keywords:
-- paint
-- painting
-- painting walls
-- how to paint a wall
-- room painting ideas
-- interior painting
-- wall painting ideas
-- wall painting techniques
-- ceiling paint
+- peinture
+- peinture
+- peindre les murs
+- comment peindre un mur
+- idées de peinture en salle
+- peinture d'intérieur
+- idées de peinture murale
+- les techniques de peinture murale
+- peinture des plafonds
 toc: true
 promoted: false
 update_date: 2020-04-24

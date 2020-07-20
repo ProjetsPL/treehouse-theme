@@ -2,18 +2,18 @@
 layout: post
 date: 2020-05-08
 main_keywords:
-- peace lily
-- lily flower
-- lily plant
-- how to take care for a peace lily
-- spathiphyllum
-- spathiphyllum care
-- spathiphyllum plant
-- how often to water peace lily
-- repotting peace lily
-- peace lily watering
-- how to take care for a peace lily indoors
-- how to care for Spathiphyllum
+- Friedenslilie
+- Lilienblüte
+- Lilienpflanze
+- wie man sich um eine Friedenslilie kümmert
+- Spathiphyllum
+- Spathiphyllum-Pflege
+- Spathiphyllum-Pflanze
+- wie oft Friedenslilie gießen
+- Umtopfen der Friedenslilie
+- Friedenslilien-Tränken
+- wie man sich um eine Friedenslilie im Haus kümmert
+- wie man Spathiphyllum pflegt
 toc: true
 promoted: false
 update_date: 2020-05-08

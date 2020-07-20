@@ -2,18 +2,18 @@
 layout: post
 date: 2020-04-09
 main_keywords:
-- curbless shower
-- wet room
-- barrier free shower
-- shower cabin
-- shower unit
-- walk-in shower
-- no curb shower
-- shower stall
-- how to build a shower
-- how to build a tile shower
-- how to build a shower curb
-- how much does a walk in shower cost
+- doccia senza curvatura
+- camera umida
+- doccia senza barriere
+- cabina doccia
+- unità doccia
+- cabina doccia
+- nessuna doccia sul marciapiede
+- box doccia
+- come costruire una doccia
+- come costruire una doccia con piastrelle
+- come costruire un cordolo per la doccia
+- quanto costa una passeggiata sotto la doccia
 toc: true
 promoted: false
 update_date: 2020-04-10

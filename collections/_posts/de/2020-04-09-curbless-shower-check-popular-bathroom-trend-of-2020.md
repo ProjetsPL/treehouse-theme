@@ -2,18 +2,18 @@
 layout: post
 date: 2020-04-09
 main_keywords:
-- curbless shower
-- wet room
-- barrier free shower
-- shower cabin
-- shower unit
-- walk-in shower
-- no curb shower
-- shower stall
-- how to build a shower
-- how to build a tile shower
-- how to build a shower curb
-- how much does a walk in shower cost
+- curbless Dusche
+- Nassraum
+- barrierefreie Dusche
+- Duschkabine
+- Duscheinheit
+- begehbare Dusche
+- keine Bordsteindusche
+- Duschkabine
+- wie man eine Dusche baut
+- wie man eine geflieste Dusche baut
+- wie man einen Duschvorhang baut
+- wie viel kostet ein Duschgang
 toc: true
 promoted: false
 update_date: 2020-04-10

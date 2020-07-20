@@ -2,19 +2,19 @@
 layout: post
 date: 2020-04-30
 main_keywords:
-- dining area
-- living room and dining room combo
-- living and dining room combo
-- living room with dining area
-- living room ideas
-- dining room ideas
-- dining room sets
-- open living room
-- open dining room
-- open floor plan
-- open concept floor plan
+- zona pranzo
+- soggiorno e sala da pranzo combinati
+- soggiorno e sala da pranzo combinati
+- soggiorno con zona pranzo
+- idee per il soggiorno
+- idee per la sala da pranzo
+- set sala da pranzo
+- soggiorno aperto
+- sala da pranzo aperta
+- pianta aperta
+- planimetria a concetto aperto
 - open concept house
-- dining room decorating ideas
+- idee per l'arredamento della sala da pranzo
 toc: true
 promoted: false
 update_date: 2020-04-30

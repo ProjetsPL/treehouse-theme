@@ -2,12 +2,12 @@
 layout: post
 date: 2020-04-23
 main_keywords:
-- how to plaster a wall
-- plaster wall
-- wall plaster
-- finishing plaster
-- plaster finish
-- plaster walls
+- cómo enyesar una pared
+- pared de yeso
+- Yeso de la pared
+- Yeso de acabado
+- acabado de yeso
+- paredes de yeso
 toc: true
 promoted: false
 update_date: 2020-04-23

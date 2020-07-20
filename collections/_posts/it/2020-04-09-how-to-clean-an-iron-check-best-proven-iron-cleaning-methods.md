@@ -2,10 +2,10 @@
 layout: post
 date: 2020-04-09
 main_keywords:
-- how to clean an iron
-- iron plate
-- cleaning iron plate
-- steam iron
+- come pulire un ferro da stiro
+- piastra di ferro
+- pulizia piastra di ferro
+- ferro da stiro a vapore
 toc: true
 promoted: false
 update_date: 2020-04-10

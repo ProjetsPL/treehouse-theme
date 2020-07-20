@@ -2,11 +2,11 @@
 layout: post
 date: 2020-04-02
 main_keywords:
-- garden plants
-- balcony garden
-- balcony garden ideas
-- balcony flowers
-- balcony flowers ideas
+- plantas de jardín
+- balcón jardín
+- ideas para el jardín del balcón
+- flores de balcón
+- ideas de flores de balcón
 toc: true
 promoted: false
 update_date: 2020-04-24

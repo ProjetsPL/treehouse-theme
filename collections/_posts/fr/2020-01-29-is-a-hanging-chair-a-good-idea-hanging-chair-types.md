@@ -14,14 +14,14 @@ intro: Hanging chair is a comfortable piece of furniture that can be found in ma
   quickly relax the whole body. Hanging chair is also a highly aesthetic element.
   Is it suitable for every type of interior design?
 main_keywords:
-- hanging chair
-- 'hanging egg chair '
-- hanging hammock chair
-- hanging chair with stand
-- outdoor hanging chair
-- how to make a hanging chair
-- how to hang a hanging chair
-- how to install a hanging chair
+- fauteuil suspendu
+- chaise à œufs suspendus
+- chaise hamac suspendue
+- fauteuil suspendu avec support
+- fauteuil suspendu d'extérieur
+- comment fabriquer un fauteuil suspendu
+- comment accrocher un fauteuil suspendu
+- comment installer un fauteuil suspendu
 published: false
 
 ---

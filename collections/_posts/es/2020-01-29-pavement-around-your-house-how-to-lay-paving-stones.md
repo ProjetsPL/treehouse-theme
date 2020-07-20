@@ -14,14 +14,14 @@ intro: If you are planning to make pathways or a patio around your house, you mi
   Many homeowners decide to lay paving stones. Paved pathways are quite durable and
   cheap.
 main_keywords:
-- pavement
-- paving stones
-- paving
-- stone pavers
-- paving stone
-- paving slabs
-- how to lay paving stones
-- how to clean paving stones
+- pavimento
+- piedras de pavimentación
+- pavimento
+- adoquines de piedra
+- piedra de pavimentación
+- las losas de pavimentación
+- cómo colocar los adoquines
+- cómo limpiar los adoquines
 published: false
 
 ---

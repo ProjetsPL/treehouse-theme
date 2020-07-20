@@ -2,15 +2,15 @@
 layout: post
 date: 2020-06-12
 main_keywords:
-- how to get rid of aphids
-- how to kill aphids
-- aphids on plants
-- what are aphids
-- killing aphids
-- yellow aphids
-- what do aphids look like
-- get rid of aphids
-- kill aphids
+- come liberarsi degli afidi
+- come uccidere gli afidi
+- afidi sulle piante
+- cosa sono gli afidi
+- uccidere gli afidi
+- afidi gialli
+- che aspetto hanno gli afidi
+- sbarazzarsi degli afidi
+- uccidere gli afidi
 toc: true
 promoted: false
 update_date: 2020-06-12

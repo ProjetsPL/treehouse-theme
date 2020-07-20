@@ -2,12 +2,12 @@
 layout: post
 date: 2020-04-23
 main_keywords:
-- kitchen curtains
-- curtains ideas
-- kitchen window curtains
-- kitchen curtains ideas
-- kitchen window ideas
-- kitchen curtains sets
+- rideaux de cuisine
+- idées de rideaux
+- les rideaux des fenêtres de cuisine
+- idées de rideaux de cuisine
+- idées de vitrines de cuisine
+- ensembles de rideaux de cuisine
 toc: true
 promoted: false
 update_date: 2020-04-23

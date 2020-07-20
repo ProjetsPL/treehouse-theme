@@ -2,10 +2,10 @@
 layout: post
 date: 2020-04-09
 main_keywords:
-- how to clean an iron
-- iron plate
-- cleaning iron plate
-- steam iron
+- comment nettoyer un fer à repasser
+- plaque de fer
+- nettoyage de la plaque de fer
+- fer à vapeur
 toc: true
 promoted: false
 update_date: 2020-04-10

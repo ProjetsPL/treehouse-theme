@@ -16,14 +16,14 @@ intro: Wood paneling was a very popular interior design element of 1970s and 198
   looks quite impressive. It is a good way for a quick metamorphosis - all you need
   is a good paint.
 main_keywords:
-- wood paneling
-- wood panel
-- wood wall paneling
-- 'wood panel wall '
-- painting paneling
-- painted paneling
-- painted wood paneling
-- how to paint wood paneling
+- rivestimenti in legno
+- pannello di legno
+- rivestimenti in legno per pareti
+- parete in pannelli di legno
+- verniciatura di boiserie
+- boiserie verniciata
+- boiserie in legno verniciato
+- come verniciare i pannelli di legno
 published: false
 
 ---

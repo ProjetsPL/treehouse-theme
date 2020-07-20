@@ -2,20 +2,20 @@
 layout: post
 date: 2020-05-28
 main_keywords:
-- grey kitchen
-- grey kitchen ideas
-- grey and white kitchen
-- white and grey kitchen
-- gray kitchen cabinets
-- grey kitchen cabinets
-- grey cabinets
-- grey wood
-- gray cabinets
-- gray walls
-- gray kitchen ideas
-- gray and white kitchen
-- gray cabinets kitchen
-- grey kitchen walls
+- cocina gris
+- ideas de la cocina gris
+- cocina gris y blanca
+- cocina blanca y gris
+- gabinetes de cocina grises
+- gabinetes de cocina grises
+- gabinetes grises
+- madera gris
+- gabinetes grises
+- paredes grises
+- ideas de la cocina gris
+- cocina gris y blanca
+- gabinetes grises de cocina
+- paredes grises de la cocina
 toc: true
 promoted: false
 update_date: 2020-07-03

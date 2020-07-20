@@ -2,19 +2,19 @@
 layout: post
 date: 2020-05-20
 main_keywords:
-- dogwood tree
-- flowering dogwood
-- pink dogwood
-- venus dogwood
-- types of dogwood trees
-- how to plant a dogwood tree
-- how fast do dogwood trees grow
-- cornelian cherry
-- cornelian cherry dogwood
-- cornelian cherry tree
+- árbol de cornejo
+- cornejo en flor
+- perrito rosado
+- cornejo de venus
+- tipos de árboles de cornejo
+- cómo plantar un árbol de cornejo
+- qué tan rápido crecen los árboles de cornejo
+- cereza cornalina
+- cornejo de cerezo cornalina
+- cerezo cornalina
 - cornus mas
-- cornelian cherry fruit
-- cornus tree
+- fruta de la cereza cornalina
+- árbol de cornejo
 - cornus
 toc: true
 promoted: false

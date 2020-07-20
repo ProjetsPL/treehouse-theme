@@ -2,15 +2,15 @@
 layout: post
 date: 2020-06-12
 main_keywords:
-- how to get rid of aphids
-- how to kill aphids
-- aphids on plants
-- what are aphids
-- killing aphids
-- yellow aphids
-- what do aphids look like
-- get rid of aphids
-- kill aphids
+- wie man Blattläuse loswird
+- wie man Blattläuse tötet
+- Blattläuse auf Pflanzen
+- was sind Blattläuse
+- Töten von Blattläusen
+- Gelbe Blattläuse
+- wie sehen Blattläuse aus
+- Blattläuse loswerden
+- Blattläuse töten
 toc: true
 promoted: false
 update_date: 2020-06-12

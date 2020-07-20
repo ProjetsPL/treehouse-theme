@@ -2,15 +2,15 @@
 layout: post
 date: 2020-06-12
 main_keywords:
-- how to get rid of aphids
-- how to kill aphids
-- aphids on plants
-- what are aphids
-- killing aphids
-- yellow aphids
-- what do aphids look like
-- get rid of aphids
-- kill aphids
+- cómo deshacerse de los áfidos
+- cómo matar a los áfidos
+- áfidos en las plantas
+- qué son los áfidos
+- matando áfidos
+- pulgones amarillos
+- cómo son los áfidos
+- deshacerse de los áfidos
+- matar áfidos
 toc: true
 promoted: false
 update_date: 2020-06-12

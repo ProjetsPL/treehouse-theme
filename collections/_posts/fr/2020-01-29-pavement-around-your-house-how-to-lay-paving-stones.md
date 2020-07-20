@@ -14,14 +14,14 @@ intro: If you are planning to make pathways or a patio around your house, you mi
   Many homeowners decide to lay paving stones. Paved pathways are quite durable and
   cheap.
 main_keywords:
-- pavement
-- paving stones
-- paving
-- stone pavers
-- paving stone
-- paving slabs
-- how to lay paving stones
-- how to clean paving stones
+- trottoir
+- pavés
+- pavage
+- pavés de pierre
+- pavé
+- dalles de pavage
+- comment poser des pavés
+- comment nettoyer les pavés
 published: false
 
 ---

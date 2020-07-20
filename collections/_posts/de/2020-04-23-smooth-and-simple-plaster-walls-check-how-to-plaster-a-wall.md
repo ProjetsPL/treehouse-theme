@@ -2,12 +2,12 @@
 layout: post
 date: 2020-04-23
 main_keywords:
-- how to plaster a wall
-- plaster wall
-- wall plaster
-- finishing plaster
-- plaster finish
-- plaster walls
+- wie man eine Wand verputzt
+- Gipswand
+- Wandputz
+- Oberputz
+- Gips-Finish
+- Gipswände
 toc: true
 promoted: false
 update_date: 2020-04-23

@@ -2,15 +2,15 @@
 layout: post
 date: 2020-04-15
 main_keywords:
-- garden plants
-- garden design
-- small trees
-- garden shrubs
-- small tree
-- small flowering trees
-- miniature trees
-- small shade trees
-- garden trees
+- plantas de jardín
+- diseño del jardín
+- pequeños árboles
+- arbustos de jardín
+- pequeño árbol
+- pequeños árboles florecientes
+- árboles en miniatura
+- pequeños árboles de sombra
+- árboles de jardín
 toc: true
 promoted: false
 update_date: 2020-05-21

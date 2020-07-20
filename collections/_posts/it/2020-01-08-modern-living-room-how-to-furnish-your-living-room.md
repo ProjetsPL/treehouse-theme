@@ -15,11 +15,11 @@ intro: Living room is one of the most important rooms in every house. It is the 
   guests, it also has to comply with the latest trends. A modern living room is a
   combination of an aesthetically pleasing design and functionality.
 main_keywords:
-- modern living room
-- modern living room ideas
-- living room modern
-- modern living room design
-- living room ideas modern
+- soggiorno moderno
+- idee per il soggiorno moderno
+- soggiorno moderno
+- design moderno del soggiorno
+- soggiorno idee moderne
 published: false
 
 ---

@@ -2,10 +2,10 @@
 layout: post
 date: 2020-06-16
 main_keywords:
-- attic bathroom ideas
-- attic bathroom
-- small attic bathroom
-- attic bathrooms
+- Ideen für Dachbodenbadezimmer
+- Dachboden-Badezimmer
+- kleines Badezimmer auf dem Dachboden
+- Dachboden-Badezimmer
 toc: true
 promoted: false
 update_date: 2020-06-16

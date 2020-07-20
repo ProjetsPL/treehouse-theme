@@ -15,12 +15,12 @@ intro: Repairing an old, damaged ceiling might cost too much money and effort. I
   than plasterboard. It also allows for a quicker installation. Fabric ceiling is
   an alternative that is worth considering.
 main_keywords:
-- ceiling
-- dropped ceiling
-- stretch ceiling
-- fabric ceiling
-- PVC ceiling
-- how to drape a ceiling with fabric
+- Decke
+- abgehängte Decke
+- Spanndecke
+- Gewebedecke
+- PVC-Decke
+- wie man eine Decke mit Stoff drapiert
 published: false
 
 ---

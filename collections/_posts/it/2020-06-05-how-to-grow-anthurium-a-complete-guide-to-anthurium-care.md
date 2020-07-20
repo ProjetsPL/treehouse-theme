@@ -3,15 +3,15 @@ layout: post
 date: 2020-06-05
 main_keywords:
 - anthurium
-- anthurium care
-- anthurium plant
-- flamingo flower
-- flamingo lily
-- flamingo plant
-- anthurium flower
-- anthurium plant care
+- cura dell'anturio
+- pianta di anturio
+- fenicottero fiore
+- fenicottero giglio
+- impianto di fenicottero
+- fiore di anturio
+- cura delle piante di anturio
 - laceleaf
-- how to take care of anthurium
+- come prendersi cura dell'anturio
 toc: true
 promoted: false
 update_date: 2020-06-05

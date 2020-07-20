@@ -5,9 +5,9 @@ main_keywords:
 - entresol
 - entresols
 - mazzanine
-- what is a mezzanine
-- mezzanine floor
-- mezzanine level
+- qu'est-ce qu'une mezzanine
+- mezzanine
+- niveau mezzanine
 toc: true
 promoted: false
 update_date: 2020-05-07
