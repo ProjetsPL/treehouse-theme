@@ -1,17 +1,20 @@
 ---
 layout: post
-date: 2020-01-08
+date: 2020-07-18
 toc: true
-title: Outside Tile Flooring - Ideas for Patio Flooring and Stairs
-description: "Choosing outdoor tile flooring? \U0001F3E0 Check, what should you pay
-  attention to. ➡️ Learn, what type of outdoor tile is the best for patio and stairs."
+title: Revêtement de sol extérieur en carreaux - Idées pour le revêtement de terrasse
+  et les escaliers
+description: "Choisir un carrelage pour l'extérieur ? \U0001F3E0 Vérifiez ce à quoi
+  vous devez prêter attention. ➡️ Découvrez quel type de carrelage d'extérieur est
+  le meilleur pour le patio et les escaliers."
 image: "/uploads/plytki-na-schody-zewnetrzne-to-nie-taki-prosty-wybor-min-1.jpg"
-intro: Tile flooring is one of the most popular patio floor ideas. Appearance of the
-  tiles is usually the most important aspect for homeowners designing their flooring.
-  However it is worth paying attention to other issues, as they are as important as
-  the looks. Tile flooring should combine both pleasing aesthetics and good strength
-  so it can last for a long time.
-update_date: 2020-06-16
+intro: Le carrelage est l'une des idées les plus populaires pour les sols de patio.
+  L'apparence des carreaux est généralement l'aspect le plus important pour les propriétaires
+  qui conçoivent leur revêtement de sol. Toutefois, il convient de prêter attention
+  à d'autres aspects, car ils sont aussi importants que l'apparence. Les sols en carrelage
+  doivent combiner à la fois une esthétique agréable et une bonne résistance pour
+  pouvoir durer longtemps.
+update_date: 2020-07-18
 promoted: false
 main_keywords:
 - carrelage
@@ -22,47 +25,46 @@ main_keywords:
 - tuiles d'extérieur
 - comment poser un revêtement de sol carrelé
 - comment enlever le carrelage
-published: false
 
 ---
-## Outside steps tile flooring - which outdoor tiles are the best
+## Carrelage des escaliers extérieurs - quels sont les meilleurs carrelages pour l'extérieur
 
-Finishing outside stairs is an important aspect of house construction. There is no difference whether you finish patio stairs or steps leading to the main entrance. Both are representative elements of a house - therefore they should combine good appearance with proper functionality.
+La finition des escaliers extérieurs est un aspect important de la construction d'une maison. Il n'y a pas de différence entre les escaliers du patio et les marches menant à l'entrée principale. Les deux sont des éléments représentatifs d'une maison - ils doivent donc combiner une bonne apparence avec une fonctionnalité adéquate.
 
-### Outside stairs - perfect tile flooring for your house
+### Escaliers extérieurs - un carrelage parfait pour votre maison
 
-Before choosing outdoor tiles for your stairs, take a look around and notice the rest of the elements of your house. Those are your markers - they should match the tile flooring and the steps. For your stairs you should choose materials that are similar to the columns on your porch, windowsills, plinths and quoins. You can also match the outside stairs with paths and patios around the building. Make sure that the tile flooring fits the general style of the house.
+Avant de choisir des carreaux extérieurs pour vos escaliers, jetez un coup d'œil autour de vous et remarquez le reste des éléments de votre maison. Ce sont vos repères - ils doivent correspondre au carrelage et aux marches. Pour vos escaliers, vous devez choisir des matériaux similaires aux colonnes de votre porche, aux appuis de fenêtre, aux plinthes et aux angles d'attaque. Vous pouvez également faire correspondre les escaliers extérieurs avec les chemins et les patios qui entourent le bâtiment. Veillez à ce que le carrelage s'adapte au style général de la maison.
 
 {:.distinction.distinction-information}
-Ceramic and sandstone tiles are perfect for traditional styles, such as rustic. For more elegant buildings granite tile flooring is better, as it highlights the style. If your house was designed in a modern style, porcelain tiles might be a good choice for their simplistic form.
+Les carreaux de céramique et de grès sont parfaits pour les styles traditionnels, tels que le rustique. Pour les bâtiments plus élégants, le carrelage en granit est préférable, car il met en valeur le style. Si votre maison a été conçue dans un style moderne, les carreaux de porcelaine pourraient être un bon choix pour leur forme simpliste.
 
-### Outdoor stairs tile flooring - the most important issues
+### Le carrelage des escaliers extérieurs - les questions les plus importantes
 
-Apart from the appearance, outside floor tiling material should contain several features that decide on their durability. You should pay attention to aspects such as:
+Outre l'aspect, le revêtement de sol extérieur doit présenter plusieurs caractéristiques qui déterminent sa durabilité. Vous devez prêter attention à des aspects tels que :
 
 {:.list.list-positive}
 
-* **Water absorption** - firm structure of the material ensures that a tile is not easily damaged. Floor tiling that quickly absorbs water tends to crack and break if placed outside. For this reason you should choose tiles of as low as possible water absorption rate.
-* **Slip resistance** - this parameter is marked by an “R” letter. Nonslippery tile flooring range from R9 to R13. Materials below R9 are slippery and they shouldn’t be used outside. For outside stairs, you should choose R11-R13 tiles. You can also purchase tiles with diagonal channels for additional protection from slipping.
-* **Frost resistance** - protection from low temperatures. Manufacturers mark it with a snowflake symbol.
-* **Abrasion resistance** - outside tile flooring is usually used quite intensely. The material should be resistant to abrasion. Tiles for outside steps should be classified as type 4 or 5.
-* **Hardness** - outside tile flooring should be resistant to mechanical damage. Tiles classified as 7 or 8 on the scale of hardness are the strongest. They are highly resistant to scratching and breaking.
+* Absorption d'eau - la structure ferme du matériau garantit qu'un carreau ne s'abîme pas facilement. Un carrelage qui absorbe rapidement l'eau a tendance à se fissurer et à se casser s'il est placé à l'extérieur. C'est pourquoi vous devez choisir des carreaux dont le taux d'absorption d'eau est aussi faible que possible.
+* Résistance au glissement - ce paramètre est marqué par la lettre "R". Les carreaux de sol antidérapants vont de R9 à R13. Les matériaux inférieurs à R9 sont glissants et ne doivent pas être utilisés à l'extérieur. Pour les escaliers extérieurs, vous devez choisir des carreaux R11-R13. Vous pouvez également acheter des carreaux avec des rainures diagonales pour une protection supplémentaire contre le glissement.
+* Résistance au gel - protection contre les basses températures. Les fabricants le marquent d'un symbole de flocon de neige.
+* Résistance à l'abrasion - les revêtements de sol extérieurs en carreaux sont généralement utilisés de manière assez intensive. Le matériau doit être résistant à l'abrasion. Les carreaux pour les marches extérieures doivent être classés dans le type 4 ou 5.
+* Dureté - les revêtements de sol extérieurs en carreaux doivent résister aux dommages mécaniques. Les carreaux classés 7 ou 8 sur l'échelle de dureté sont les plus résistants. Ils sont très résistants aux rayures et à la rupture.
 
 {% fig %}
 ![Outdoor stairs tile flooring - the most important issues](/uploads/plytki-schodowe-zewnetrzne-najwazniejsze-wlasciwosci.jpg "Outdoor stairs tile flooring - the most important issues")
 {% endfig %}
 
-## What outdoor stairs tile flooring is the best?
+## Quel est le meilleur revêtement de sol pour les escaliers extérieurs ?
 
-There are plenty of materials that can be used for tiling stairs. Particular products differ from each other by appearance, features and price. Before choosing the right tiles, one should take every aspect into consideration.
+Il existe de nombreux matériaux qui peuvent être utilisés pour le carrelage des escaliers. Certains produits diffèrent les uns des autres par leur aspect, leurs caractéristiques et leur prix. Avant de choisir le bon carrelage, il convient de prendre en considération tous les aspects.
 
 {:.list}
 
-* **Ceramic tiles** - one of the most commonly chosen materials. Ceramic tiles are quite durable. They are highly resistant to abrasion and water absorption, and they can endure very low temperatures as well as extreme weather conditions. Unglazed ceramic tiles are good to use in places that are not very exposed, such as basement stairs. For tile flooring in front of the building, it is better to choose better looking glazed or porcelain tiles.
-* **Clinker** - such tiles are made of clay and sand. **Clinker tiles** are very attractive, as they resemble bricks. They are very good for rustic or industrial style. The method of their production is firing them in high temperature, which makes them very durable. Clinker is **resistant to frost and mechanical damage** and tiles made of this material are non-slippery. They can be used for outdoor tile flooring, as well as for facades.
+* Les carreaux de céramique - un des matériaux les plus couramment choisis. Les carreaux de céramique sont très durables. Ils sont très résistants à l'abrasion et à l'absorption d'eau, et peuvent supporter des températures très basses ainsi que des conditions climatiques extrêmes. Les carreaux de céramique non émaillés sont bons à utiliser dans les endroits peu exposés, comme les escaliers des sous-sols. Pour le carrelage devant le bâtiment, il est préférable de choisir des carreaux émaillés ou en porcelaine de meilleure qualité.
+* Clinker - ces carreaux sont faits d'argile et de sable. Les carreaux en clinker sont très attrayants, car ils ressemblent à des briques. Ils conviennent très bien à un style rustique ou industriel. Leur méthode de production consiste à les cuire à haute température, ce qui les rend très durables. Le clinker est résistant au gel et aux dommages mécaniques et les tuiles fabriquées dans ce matériau ne sont pas glissantes. Ils peuvent être utilisés pour les revêtements de sol extérieurs et les façades.
 
 {:.distinction.distinction-warning}
-A big disadvantage of this material is its low resistance to dirt. For this reason clinker surfaces need to be cleaned regularly.
+Un grand inconvénient de ce matériau est sa faible résistance à la saleté. C'est pourquoi les surfaces en clinker doivent être nettoyées régulièrement.
 
 {% fig %}
 ![What outdoor stairs tile flooring is the best?](/uploads/jakie-plytki-na-schody-zewnetrzne-wybrac.jpg "What outdoor stairs tile flooring is the best?")
@@ -70,34 +72,36 @@ A big disadvantage of this material is its low resistance to dirt. For this reas
 
 {:.list}
 
-* **Granite** - one of the most durable materials for tile flooring. It is resistant to abrasion, moisture, dirt and low and high temperatures. Granite has many colours and is very elegant. It has many textures, therefore you can choose the right type for your purpose. Granite floor tiling is long lasting and very aesthetic.
-* **Sandstone** - tiles made of this material are far less resistant than granite. Pay attention to the hardness when choosing such product, as there are various types of sandstone. Some types easily absorb water and break quickly. Sandstone tile flooring for stairs are non-slippery.
-* **Travertine** - it is a naturally coarse material and the tiles made of it are anti-slippery. Travertine is not very durable, and it can be easily scratched. To prevent this, such tile flooring should be **coated with a layer of resin**.
-
-{:.distinction.distinction-information} Apart from tile flooring, you might consider using other materials for outdoor flooring. Paving stones are good alternative as they are cheaper than tiles and resistant to damage and abrasion. You shouldn’t, however, use paving stone flooring if there is other material on the patio or the path by the stairs. It would look unaesthetic.
-
-## How to install outdoor tiles on stairs?
-
-Laying floor tiles by yourself is not very difficult. It is important to choose tiles with the right qualities. If laid properly, the tiles will last for a long time without damage. When tiling the stairs, remember about a few issues:
-
-{:.list.list-positive}
-
-* Choose tiles that were **produced particularly for the purpose of covering steps**. Elements included in such sets are easier to install and the overall appearance of the stairs is better.
-* If you have to cut the tiles, cut only those that you plan to place on the edges of the stairs. Such procedure helps to **keep the symmetry** of the stairs and the cuts are less visible. The steps look more elegant.
-* Before beginning the process of laying tile floor make sure that the steps have correct slope. It is important that the water flows down - if it stayed on the surface, it would damage it. If you notice that the stairs do not have the proper slope, you need to fix it using spackling paste. **The correct stair slope is 1-2%**.
-* Make sure that the surface is **even and clean**. To increase the grip and lower the water absorption, prime the surface.
-* Before you can install the tiles, you should waterproof the stairs. To do this, cover them with two layers of sealing plaster.
-* The adhesive should be intended **specifically for tiles**. It should be frost- and water-resistant.
-* Start working from **the highest step** and proceed downwards. Begin with horizontal tiles and finish with the vertical layer.
-* You can **grout** the tiles after 2-3 days from laying them. Make sure the grout is of the same brand as the glue. Such products work better with each other than the ones from different brands.
-
-## Outdoor tile for stairs - what should you avoid?
-
-**The most common mistake** that you can make when choosing outdoor tile for stairs is paying attention only to how the tiles look. Aesthetics is, of course, an important aspect which affects the looks of the whole building. Do not forget, however, that a house entrance is the most used spot of its surroundings. That is why the durability of the outdoor tile is so important. **Another, equally significant issue is the practicality.** Avoid deeply carved patio tiles. They are much more prone to damage.
+* Le granit - l'un des matériaux les plus durables pour les sols carrelés. Il est résistant à l'abrasion, à l'humidité, à la saleté et aux températures basses et élevées. Le granit a de nombreuses couleurs et est très élégant. Il présente de nombreuses textures, vous pouvez donc choisir le type de granit qui convient à votre usage. Le carrelage de sol en granit est durable et très esthétique.
+* Grès - les carreaux fabriqués dans ce matériau sont beaucoup moins résistants que le granit. Faites attention à la dureté lorsque vous choisissez un tel produit, car il existe différents types de grès. Certains types absorbent facilement l'eau et se cassent rapidement. Les dalles de grès pour les escaliers sont antidérapantes.
+* Travertin - c'est un matériau naturellement grossier et les dalles qui le composent sont antidérapantes. Le travertin n'est pas très durable et peut être facilement rayé. Pour l'éviter, il convient d'enduire les dalles d'une couche de résine.
 
 {:.distinction.distinction-information}
 
-If ornamental outdoor tile is a must for you, choose patio tiles with an interesting colour pattern.
+Outre le carrelage, vous pouvez envisager d'utiliser d'autres matériaux pour le revêtement de sol extérieur. Les pavés sont une bonne alternative car ils sont moins chers que les carreaux et résistent aux dommages et à l'abrasion. Vous ne devez toutefois pas utiliser de pavés si le patio ou le chemin d'accès à l'escalier est recouvert d'un autre matériau. Ce serait inesthétique.
+
+## Comment installer des dalles extérieures dans les escaliers ?
+
+Il n'est pas très difficile de poser des carreaux de sol soi-même. Il est important de choisir des carreaux de qualité. S'ils sont bien posés, les carreaux dureront longtemps sans s'abîmer. Lorsque vous carrelez les escaliers, n'oubliez pas quelques points :
+
+{:.list.list-positive}
+
+* Choisissez des carreaux qui ont été fabriqués spécialement pour couvrir les marches. Les éléments inclus dans ces ensembles sont plus faciles à installer et l'aspect général des escaliers est meilleur.
+* Si vous devez couper les carreaux, ne coupez que ceux que vous prévoyez de placer sur les bords de l'escalier. Cette procédure permet de conserver la symétrie de l'escalier et les coupes sont moins visibles. Les marches sont plus élégantes.
+* Avant de commencer la pose du carrelage, assurez-vous que les marches ont une pente correcte. Il est important que l'eau s'écoule vers le bas - si elle restait à la surface, elle l'endommagerait. Si vous constatez que l'escalier n'a pas la bonne pente, vous devez le fixer à l'aide d'une pâte à carreler. La pente correcte des escaliers est de 1 à 2 %.
+* Veillez à ce que la surface soit plane et propre. Pour augmenter l'adhérence et diminuer l'absorption d'eau, apprêter la surface.
+* Avant de pouvoir poser les dalles, vous devez imperméabiliser l'escalier. Pour ce faire, recouvrez-les de deux couches de plâtre d'étanchéité.
+* L'adhésif doit être spécialement conçu pour les carreaux. Elle doit être résistante au gel et à l'eau.
+* Commencez à travailler à partir de la marche la plus haute et descendez. Commencez par les carreaux horizontaux et terminez par la couche verticale.
+* Vous pouvez jointoyer les carreaux après 2 ou 3 jours de pose. Veillez à ce que le joint soit de la même marque que la colle. Ces produits fonctionnent mieux entre eux que ceux de marques différentes.
+
+## Carreau d'extérieur pour les escaliers - que faut-il éviter ?
+
+L'erreur la plus courante que vous pouvez commettre lorsque vous choisissez un carrelage d'extérieur pour un escalier est de ne prêter attention qu'à l'aspect du carrelage. L'esthétique est, bien sûr, un aspect important qui affecte l'aspect de l'ensemble du bâtiment. N'oubliez pas, cependant, que l'entrée d'une maison est l'endroit le plus utilisé de son environnement. C'est pourquoi la durabilité du carrelage extérieur est si importante. Une autre question tout aussi importante est celle de l'aspect pratique. Évitez les tuiles de patio profondément sculptées. Ils sont beaucoup plus susceptibles d'être endommagés.
+
+{:.distinction.distinction-information}
+
+Si le carrelage décoratif d'extérieur est un must pour vous, choisissez des carreaux de patio avec un motif de couleur intéressant.
 
 {% fig %}
 
@@ -105,46 +109,46 @@ If ornamental outdoor tile is a must for you, choose patio tiles with an interes
 
 {% endfig %}
 
-Choosing the right tile flooring for your stairs might be a tricky issue. You need to consider only a few aspects to make the purchase easier. Well chosen and laid floor tiling lasts for years, making the house look elegant and well-maintained. It is, therefore, worth spending some time to buy the right tiles for your house.
+Choisir le bon carrelage pour vos escaliers peut être une question délicate. Vous ne devez tenir compte que de quelques aspects pour faciliter l'achat. Un carrelage bien choisi et bien posé dure des années, ce qui donne à la maison un aspect élégant et bien entretenu. Il vaut donc la peine de consacrer un peu de temps à l'achat du carrelage approprié pour votre maison.
 
-## Outside tile flooring - FAQ
+## Revêtement de sol extérieur en carreaux - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-How to install tile flooring?
+Comment poser un revêtement de sol carrelé ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-After measuring the surface and establishing layout line for the tiles, spread mortar over around 1 meter square area. Lay the tiles starting from the first crossing of two layout lines and continue, applying small patches of mortar.
+Après avoir mesuré la surface et établi la ligne de disposition des carreaux, étalez le mortier sur environ 1 mètre carré. Posez les carreaux en commençant par le premier croisement de deux lignes de tracé et continuez en appliquant de petits morceaux de mortier.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to remove tile flooring?
+Comment enlever le carrelage ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-All you need is a hammer, hand-held chisel and a floor scraper. Break up the first tile and carefully remove the pieces using the chisel. Then pry off several other tiles - if the adhesive is soft enough, you can use the floor scraper to remove several tiles at once.
+Tout ce dont vous avez besoin est un marteau, un ciseau à main et un grattoir. Cassez le premier carreau et retirez soigneusement les morceaux à l'aide du ciseau. Si la colle est suffisamment souple, vous pouvez utiliser le grattoir pour enlever plusieurs carreaux à la fois.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How much does it cost to install tile flooring?
+Combien coûte la pose d'un revêtement de sol carrelé ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The cost depends on the type of tiles you install, the area you are going to tile and the price of additional materials. Ceramic and clinker tiles are the cheapest, whereas granite is more expensive but also more durable.
+Le coût dépend du type de carrelage que vous posez, de la surface que vous allez carreler et du prix des matériaux supplémentaires. Les carreaux en céramique et en clinker sont les moins chers, tandis que le granit est plus cher mais aussi plus durable.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to install vinyl tile flooring on concrete?
+Comment poser un revêtement de sol en carreaux de vinyle sur du béton ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-If the concrete is dry and clean, make sure it is even, and smoothen it if needed. Then place the tiles according to the manufacturer’s recommendations. Some types of vinyl tiles can be laid without adhesive, while others require using this product.
+Si le béton est sec et propre, veillez à ce qu'il soit uniforme et lissez-le si nécessaire. Ensuite, placez les dalles selon les recommandations du fabricant. Certains types de carreaux en vinyle peuvent être posés sans adhésif, tandis que d'autres nécessitent l'utilisation de ce produit.
 {% endfaqAnswer %}
 {% endfaqItem %}
