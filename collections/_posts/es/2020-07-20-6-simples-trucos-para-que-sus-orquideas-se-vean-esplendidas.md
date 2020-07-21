@@ -24,9 +24,10 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-20
-title: 6 simples trucos para que sus orquídeas se vean espléndidas!
-description: "Your beloved orchids don’t want to bloom? \U0001F33A Learn those 6 easy
-  methods to make them look beautiful again. ➡️ Find out how to care for orchids!"
+title: 6 simple tricks to make your orchids look great!
+description: "¿Tus amadas orquídeas no quieren florecer? \U0001F33A Aprende esos 6
+  fáciles métodos para hacerlas ver hermosas de nuevo. ➡️ ¡Descubre cómo cuidar de
+  las orquídeas!"
 intro: Your orchid doesn't bloom properly, and it lost its previous charm? This type
   of plants requires special treatment. You need to adjust the method of taking care
   of orchids to their needs, in accordance with the type of the species. Those simple
@@ -34,47 +35,47 @@ intro: Your orchid doesn't bloom properly, and it lost its previous charm? This 
   for orchids so that they always look stunning!
 image: "/uploads/storczyk-glowne-1.jpg"
 related_products: []
-published: false
 
 ---
-## Are there any orchid flower types that are easy to grow?
+## ¿Hay algún tipo de flor de orquídea que sea fácil de cultivar?
 
-Although an orchid can seem like a demanding plant, in fact, when you choose the right species, it is quite easy to grow. Therefore, one cannot speak of difficult or effortless species, although it is true – some of them require more time to take care of.
+Aunque una orquídea puede parecer una planta exigente, de hecho, cuando se elige la especie adecuada, es bastante fácil de cultivar. Por lo tanto, no se puede hablar de especies difíciles o sin esfuerzo, aunque es cierto, algunas de ellas requieren más tiempo para su cuidado.
 
-### What is the best type of orchid to care for beginners?
+### ¿Cuál es el mejor tipo de orquídea para cuidar a los principiantes?
 
-If you want to start your adventure with orchids, you should probably pick one of the most popular basic species such as **Phalaenopsis** or **Dendrobium**. Each of them requires an individual way of treatment, fit for their particular needs.
+Si quieres empezar tu aventura con orquídeas, probablemente deberías elegir una de las especies básicas más populares como Phalaenopsis o Dendrobium. Cada una de ellas requiere una forma individual de tratamiento, adecuada a sus necesidades particulares.
 
-If you have decided on one type of an orchid, you can pick either ones developing singular flowers or the ones growing **in large bunches**. An example of the latter might be an orchid called **Bletilla striata**.
+Si se ha decidido por un tipo de orquídea, puede elegir las que desarrollan flores singulares o las que crecen en grandes racimos. Un ejemplo de esto último podría ser una orquídea llamada Bletilla striata.
 
 {% fig %}
 ![Are there any orchid flower types that are easy to grow?](/uploads/obuwik-pospolity.jpg "Are there any orchid flower types that are easy to grow?")
 {% endfig %}
 
-There is also another quite interesting orchid, called **lady's slipper**. It's one of the most popular species, as it's easy to care and it **looks unusual**. If you want this species to become a unique decoration in your garden, plant it in shade, most preferably among ferns and perennials.
+También hay otra orquídea bastante interesante, llamada zapatilla de dama. Es una de las especies más populares, ya que es fácil de cuidar y tiene un aspecto inusual. Si quiere que esta especie se convierta en una decoración única en su jardín, plántela a la sombra, preferiblemente entre helechos y plantas perennes.
 
 {% fig %}
 ![What is the best type of orchid to care for beginners?](/uploads/obuwik-pospolity-2.jpg "What is the best type of orchid to care for beginners?")
 {% endfig %}
 
 {:.distinction.distinction-information}
-Lady's slippers can grow in the sun as well, but they need the right type of soil. It should be rich in humus, so that it keeps humidity in summer but does not accumulate water in winter.
+Las zapatillas de la señora también pueden crecer al sol, pero necesitan el tipo de suelo adecuado. Debe ser rico en humus, para que mantenga la humedad en verano pero no acumule agua en invierno.
 
-## How to care for orchids at home?
+## ¿Cómo cuidar de las orquídeas en casa?
 
-Orchid care at home might be a real challenge for the owner. If you want to achieve a **properly blooming** and well growing plant, you should pay attention to several crucial elements. What are the most important issues in this case?
-
-{:.list.list-positive}
-
-* **The right type of soil** – potted orchid flowers require a special type of soil. It should be highly absorbent as well as provide enough air for the roots. The best choice, in this case, is purchasing a special orchid potting mix. You can also prepare your own mixture.
-  {:.distinction.distinction-information}
-
-To make your own orchid potting mix, you can combine composted pine bark, moss, peat and some mulch. Your flowers will grow really well in such a mixture.
+El cuidado de las orquídeas en casa puede ser un verdadero desafío para el propietario. Si quiere lograr una planta que florezca y crezca bien, debe prestar atención a varios elementos cruciales. ¿Cuáles son los más importantes en este caso?
 
 {:.list.list-positive}
 
-* **Regular watering** – orchids watering looks unusual because this type of ornamental plant is prone to root decay. So how to water orchids properly? You can **place a container with water behind the pot** – the plant will take the water from the air whenever needed. If you want to water an orchid flower directly, remember to avoid submerging the roots.
-* **The pot placement** – the spot at which you place your orchid flower is crucial for its blooming and growth. Orchids are very delicate and they do not like draughts. For this reason you should put them somewhere where there's no wind. Additionally, orchid flowers should be placed in a **slightly shaded spot**, as too much sun might hinder their growth.
+* El tipo de suelo adecuado - las flores de orquídea en maceta requieren un tipo de suelo especial. Debe ser altamente absorbente y proporcionar suficiente aire para las raíces. La mejor opción, en este caso, es comprar una mezcla especial de orquídeas en maceta. También puede preparar su propia mezcla.
+
+{:.distinction.distinction-information}
+
+Para hacer tu propia mezcla de orquídeas, puedes combinar corteza de pino compostada, musgo, turba y algo de mantillo. Tus flores crecerán muy bien en esa mezcla.
+
+{:.list.list-positive}
+
+* Riego regular - el riego de las orquídeas parece inusual porque este tipo de planta ornamental es propensa a la descomposición de la raíz. Entonces, ¿cómo regar las orquídeas correctamente? Puede colocar un recipiente con agua detrás de la maceta - la planta tomará el agua del aire cuando sea necesario. Si desea regar una flor de orquídea directamente, recuerde que debe evitar sumergir las raíces.
+* La colocación de la maceta - el lugar en el que se coloca la flor de la orquídea es crucial para su florecimiento y crecimiento. Las orquídeas son muy delicadas y no les gustan las corrientes de aire. Por esta razón debes ponerlas en un lugar donde no haya viento. Además, las flores de las orquídeas deben colocarse en un lugar ligeramente sombreado, ya que demasiado sol podría impedir su crecimiento.
 
 {% fig %}
 ![How to care for orchids at home?](/uploads/storczyk-w-domu.jpg "How to care for orchids at home?")
@@ -82,108 +83,108 @@ To make your own orchid potting mix, you can combine composted pine bark, moss, 
 
 {:.list.list-positive}
 
-* **Correct repotting** – every potted plant requires repotting from time to time. When and how to repot an orchid? You should change your orchid's container when it grew too large or when the soil became too soft. Usually, this type of plant requires the procedure every 2 or 3 years. When repotting, pay attention to the size of the container so that the roots do not rot.
+* Replantado correcto - cada planta en maceta requiere ser replantada de vez en cuando. ¿Cuándo y cómo replantar una orquídea? Debe cambiar el contenedor de su orquídea cuando crezca demasiado o cuando la tierra se ablande demasiado. Por lo general, este tipo de planta requiere el procedimiento cada 2 o 3 años. Cuando replantee, preste atención al tamaño del contenedor para que las raíces no se pudran.
 
-## Garden orchids – when and how to transplant them?
+## Orquídeas de jardín, ¿cuándo y cómo transplantarlas?
 
-Orchid flowers that grow in your garden can be transplanted only in the **early spring**. It's very important, as it's the time the plant grows new shoots. When it happens, you can divide the orchid flowers. To do this, separate the plant so that you get at least one bud and a healthy root per one new plant. Otherwise, the orchid flower will not bloom. What's more, you can add some soil from the previous place onto the new spot. This way the orchids will surely bloom with beautiful flowers in your garden.
+Las flores de orquídea que crecen en su jardín sólo pueden ser transplantadas a principios de la primavera. Es muy importante, ya que es el momento en el que la planta crece nuevos brotes. Cuando esto sucede, puedes dividir las flores de la orquídea. Para ello, separa la planta de modo que obtengas al menos un brote y una raíz sana por cada nueva planta. De lo contrario, la flor de la orquídea no florecerá. Es más, puedes agregar un poco de tierra del lugar anterior en el nuevo lugar. De esta manera las orquídeas seguramente florecerán con hermosas flores en su jardín.
 
 {:.distinction.distinction-warning}
-Some garden orchid owners decide to propagate them by planting the small seeds near the parental plants. It is, however, not a very good method – in most cases it is not effective at all.
+Algunos propietarios de orquídeas de jardín deciden propagarlas plantando las pequeñas semillas cerca de las plantas parentales. Sin embargo, no es un método muy bueno, en la mayoría de los casos no es efectivo en absoluto.
 
 {% fig %}
 ![Garden orchids – when and how to transplant them?](/uploads/jak-przesadzac-storczyki.jpg "Garden orchids – when and how to transplant them?")
 {% endfig %}
 
-## Why does my orchid not bloom? Learn 3 most common reasons
+## ¿Por qué mi orquídea no florece? Aprenda las 3 razones más comunes
 
-Orchids are demanding plants, therefore they might not bloom properly if they are not taken care of. **Your orchid doesn't bloom?** Use the tricks listed below and learn how to revive an orchid.
+Las orquídeas son plantas exigentes, por lo que podrían no florecer adecuadamente si no se las cuida. ¿Su orquídea no florece? Utilice los trucos que se enumeran a continuación y aprenda a revivir una orquídea.
 
-### Improperly pruned orchids
+### Orquídeas mal podadas
 
-One of the reasons why an orchid doesn't bloom is the **wrong way of trimming** the plant or not doing it at all. Flowers that finished blossoming should be cut off, snipping them above the third bud. It can result in **rich blooming.** Some species, however, do not like trimming, which might lead to hindering the blooming process.
+Una de las razones por las que una orquídea no florece es la forma incorrecta de recortar la planta o no hacerlo en absoluto. Las flores que terminaron de florecer deben ser cortadas, recortandolas por encima del tercer brote. Puede resultar en un florecimiento rico. Sin embargo, a algunas especies no les gusta el recorte, lo que puede dificultar el proceso de floración.
 
 {:.distinction.distinction-information}
-An orchid species that should not be trimmed is Phalaneopsis – so called moth orchid. In this case you should wait for the flowers to die back and then safely remove them.
+Una especie de orquídea que no debe ser recortada es la Phalaneopsis, llamada orquídea polilla. En este caso se debe esperar a que las flores mueran de nuevo y luego retirarlas de forma segura.
 
 {% fig %}
 ![Improperly pruned orchids](/uploads/zle-podcinane-storczyki.jpg "Improperly pruned orchids")
 {% endfig %}
 
-### Too low temperature
+### Temperatura demasiado baja...
 
-An important factor that influences orchids blooming is **temperature and lighting** that they are kept in. Orchids grow best in warm temperatures – for this reason they should grow in temperature no lower that **22°C (71 F)**. Improper temperature not only hinders blooming but also may make it grow slower and cause the leaves to grow smaller.
+Un factor importante que influye en el florecimiento de las orquídeas es la temperatura y la iluminación en la que se mantienen. Las orquídeas crecen mejor en temperaturas cálidas, por esta razón deben crecer a una temperatura no inferior a 22°C. La temperatura inadecuada no sólo impide el florecimiento, sino que también puede hacer que crezca más lentamente y que las hojas se vuelvan más pequeñas.
 
 {:.distinction.distinction-warning}
-Some species are adapted to extremely low temperatures in winter. For instance Dendrobium Mobile blooms in temperatures between 5 and 10 Celsius degrees (41 and 50 F) and might grow slow if it's placed in a too warm room.
+Algunas especies están adaptadas a temperaturas extremadamente bajas en invierno. Por ejemplo, el Dendrobium Mobile florece a temperaturas de entre 5 y 10 grados centígrados (41 y 50 F) y puede crecer lentamente si se lo coloca en una habitación demasiado caliente.
 
-### Wrong orchid fertilizer
+### Fertilizante de orquídeas equivocado
 
-Another reason for poor blooming of your orchids is **wrong plant food**. Orchids should be fed with special mixes, as ornamental plants need fertilizer to be diluted with water. The quantity of the substance is also very important. To little might lead to important nutrients deficit, while too much can cause roots overgrowth. **Fertilize your orchids with a small dose of the substance, 2-3 times per week.**
+Otra razón para el mal florecimiento de sus orquídeas es la mala alimentación de las plantas. Las orquídeas deben ser alimentadas con mezclas especiales, ya que las plantas ornamentales necesitan fertilizante para ser diluidas con agua. La cantidad de la sustancia es también muy importante. Poca cantidad puede llevar a un importante déficit de nutrientes, mientras que demasiada puede causar el sobrecrecimiento de las raíces. Fertilice sus orquídeas con una pequeña dosis de la sustancia, 2-3 veces por semana.
 
 {:.distinction.distinction-information}
-When the plant is hibernating, do not use fertilizer at all. When the orchid is blooming, use it more frequently.
+Cuando la planta está hibernando, no utilice ningún tipo de fertilizante. Cuando la orquídea está floreciendo, úsela con más frecuencia.
 
 {% fig %}
 ![Wrong orchid fertilizer](/uploads/zle-dbrany-nawoz.jpg "Wrong orchid fertilizer")
 {% endfig %}
 
-## How much does an orchid cost?
+## ¿Cuánto cuesta una orquídea?
 
-The price of an orchid depends mostly on its type. The main difference is between potted orchids and garden orchids planted in soil.
+El precio de una orquídea depende principalmente de su tipo. La principal diferencia es entre las orquídeas en maceta y las orquídeas de jardín plantadas en el suelo.
 
 {% fig %}
 ![How much does an orchid cost?](/uploads/storczyk-cena-rosliny.jpg "How much does an orchid cost?")
 {% endfig %}
 
-The differences in price also depend on the **type of the plant**. The rarer and more demanding an orchid is, the more expensive it gets. The price also depends on where you buy the flower. Plants sold in flower shops and specialist florist stores are more expensive than the ones you can find in supermarkets.
+Las diferencias de precio también dependen del tipo de planta. Cuanto más rara y exigente es una orquídea, más cara se vuelve. El precio también depende de dónde se compra la flor. Las plantas que se venden en florerías y floristerías especializadas son más caras que las que se pueden encontrar en los supermercados.
 
 {% faqItem %}
 {% faqQuestion %}
-How long do orchid blooms last?
+¿Cuánto tiempo duran las floraciones de las orquídeas?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The period of blooming depends mostly on species. There are types that bloom all year long, while the others bloom periodically. To make your plant bloom longer, make sure to take a proper care of it.
+El período de floración depende principalmente de las especies. Hay tipos que florecen todo el año, mientras que los otros florecen periódicamente. Para hacer que su planta florezca más tiempo, asegúrese de cuidarla adecuadamente.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How do you keep an orchid alive?
+¿Cómo se mantiene viva una orquídea?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Make sure that your orchid grows in the right type of soil and that you water it regularly. Orchids also like high humidity. If you provide your orchid all it needs, it will look beautiful for a long time.
+Asegúrese de que su orquídea crezca en el tipo de suelo adecuado y que la riegue regularmente. A las orquídeas también les gusta la alta humedad. Si le da a su orquídea todo lo que necesita, se verá hermosa por mucho tiempo.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-Why are my orchid leaves turning yellow?
+¿Por qué mis hojas de orquídea se están volviendo amarillas?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Yellow leaves of an orchid might be caused by various factors, for instance too much light. If the leaves of your orchid are turning yellow, inspect the plant closely. Make sure that there are no pests and that the roots are not standing in water.
+Las hojas amarillas de una orquídea pueden ser causadas por varios factores, por ejemplo, demasiada luz. Si las hojas de su orquídea se están volviendo amarillas, inspeccione la planta de cerca. Asegúrese de que no hay plagas y que las raíces no están en el agua.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How often to water an orchid?
+¿Con qué frecuencia hay que regar una orquídea?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Typically, you should water your orchid once a week. Remember not to leave the roots in water, as they might rot. Orchids take water from air, so you might also place a container with water near the pot.
+Normalmente, deberías regar tu orquídea una vez a la semana. Recuerde no dejar las raíces en el agua, ya que podrían pudrirse. Las orquídeas toman agua del aire, así que también puede colocar un recipiente con agua cerca de la maceta.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to prune orchid?
+¿Cómo podar la orquídea?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Prune the orchid right above the third bud. Most species require trimming the flowers when they finish blooming. Pay attention to the type of the orchid you own, as some types do not like pruning at all.
+Pode la orquídea justo encima del tercer brote. La mayoría de las especies requieren recortar las flores cuando terminan de florecer. Preste atención al tipo de orquídea que posee, ya que a algunos tipos no les gusta nada la poda.
 {% endfaqAnswer %}
 {% endfaqItem %}
