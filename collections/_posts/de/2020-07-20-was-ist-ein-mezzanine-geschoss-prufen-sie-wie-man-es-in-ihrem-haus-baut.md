@@ -12,127 +12,128 @@ toc: true
 promoted: false
 update_date: 2020-07-20
 title: Was ist ein Mezzanine-Geschoss? Prüfen Sie, wie man es in Ihrem Haus baut
-description: "Looking for interior design ideas? \U0001F4A1 How about a mezzanine
-  floor? Learn all about entresols and add space to your interior. ➡️ Make your home
-  spectacular!"
-intro: Dreaming of an elegant, stylish home design? Mezzanine level is a perfect way
-  to fully use the potential of your interior. Creating an entresol, you might gain
-  a completely new room and use it according to your needs. Consider building a mezzanine
-  - make an additional space in your home and enjoy the spectacular results.
+description: "Auf der Suche nach Ideen für die Innenarchitektur? \U0001F4A1 Wie wäre
+  es mit einem Zwischengeschoss? Erfahren Sie alles über Zwischengeschosse und erweitern
+  Sie Ihr Interieur. ➡️ Machen Sie Ihr Zuhause spektakulär!"
+intro: Träumen Sie von einem eleganten, stilvollen Wohndesign? Die Zwischengeschossebene
+  ist eine perfekte Möglichkeit, das Potenzial Ihrer Einrichtung voll auszuschöpfen.
+  Wenn Sie ein Zwischengeschoss schaffen, können Sie einen völlig neuen Raum gewinnen
+  und ihn nach Ihren Bedürfnissen nutzen. Erwägen Sie den Bau eines Zwischengeschosses
+  - schaffen Sie einen zusätzlichen Raum in Ihrem Haus und genießen Sie die spektakulären
+  Ergebnisse.
 image: "/uploads/antresola-1.jpg"
 related_products: []
-published: false
 
 ---
-## What is a mezzanine? Can I employ it in my house?
+## Was ist ein Mezzanin? Kann ich es in meinem Haus verwenden?
 
-Mezzanine is an intermediate level built in between two floors of a building, usually on the ground level. It might consist of **one or several rooms**. It is mostly used in large industrial buildings, shopping centers and restaurants, although it might also be built in a private house. A mezzanine might serve as a **home office** or **a bedroom**. 
+Mezzanin ist ein Zwischengeschoss, das zwischen zwei Stockwerken eines Gebäudes, in der Regel im Erdgeschoss, eingebaut wird. Es kann aus einem oder mehreren Räumen bestehen. Es wird meist in großen Industriegebäuden, Einkaufszentren und Restaurants verwendet, kann aber auch in einem Privathaus gebaut werden. Ein Mezzanin kann als Heimbüro oder Schlafzimmer dienen.
 
-### Entresol in your house – what should you pay attention to?
+### Entresol in Ihrem Haus - was sollten Sie beachten?
 
-A mezzanine floor at home is a **very practical and functional solution**. Without keeping certain safety measures it might be, however, dangerous for people living in the house. Before designing a mezzanine, first pay attention to the entrance. Stairs are important – whether winding or straight, a sturdy banister is a must, to ensure stability and protection from slipping.
+Ein Zwischengeschoss zu Hause ist eine sehr praktische und funktionelle Lösung. Ohne die Einhaltung bestimmter Sicherheitsmaßnahmen könnte es jedoch für die im Haus lebenden Menschen gefährlich sein. Bevor Sie ein Zwischengeschoss entwerfen, achten Sie zunächst auf den Eingang. Treppen sind wichtig - ob gewunden oder gerade, ein stabiles Geländer ist ein Muss, um Stabilität und Rutschsicherheit zu gewährleisten.
 
 {:.distinction.distinction-information}
-If the mezzanine will not be used by children, you might install a ladder instead of a staircase. Remember that it has to be stable.
+Wenn das Zwischengeschoss nicht von Kindern genutzt werden soll, können Sie anstelle einer Treppe eine Leiter installieren. Denken Sie daran, dass es stabil sein muss.
 
-Another important aspect is **railing**. You might use traditional or modern glass rails. This way you can create a room resembling a balcony. Another, much safer (especially for children) solution is fencing the mezzanine with a pony wall.
+Ein weiterer wichtiger Aspekt ist das Geländer. Sie können traditionelle oder moderne Glasgeländer verwenden. Auf diese Weise können Sie einen Raum schaffen, der einem Balkon ähnelt. Eine andere, viel sicherere Lösung (besonders für Kinder) ist die Umzäunung des Zwischengeschosses mit einer Pony-Mauer.
 
-**A mezzanine floor also needs to be illuminated – it needs a separate set of lights**. The type of lighting is irrelevant and it depends solely on the home owners' preference, as well as on the purpose of the mezzanine. You might use a standard hanging lamp, wall lights or floor lamp.
+Auch ein Zwischengeschoss muss beleuchtet werden - es benötigt ein separates Beleuchtungssystem. Die Art der Beleuchtung ist irrelevant und hängt ausschließlich von den Präferenzen der Hausbesitzer sowie vom Zweck des Zwischengeschosses ab. Sie können eine normale Hängelampe, Wandleuchten oder Stehleuchte verwenden.
 
 {% fig %}
 ![How high should a mezzanine be?](/uploads/antresola-w-domu-kiedy-mozna-zdecydowac-sie-na-antresole.jpg "How high should a mezzanine be?")
 {% endfig %}
 
-### How high should a mezzanine be?
+### Wie hoch sollte ein Mezzanin sein?
 
-A mezzanine at home is a great way to spare some space, especially if the apartment is small. Keep in mind that a **mezzanine makes sense only in high ceiling homes**. It is great in old buildings such as tenements. If the interior is short, like, for instance block apartments, a mezzanine will only overwhelm it.
+Ein Zwischengeschoss zu Hause ist eine gute Möglichkeit, etwas Platz zu sparen, besonders wenn die Wohnung klein ist. Bedenken Sie, dass ein Mezzanin nur in Wohnungen mit hohen Decken sinnvoll ist. In alten Gebäuden wie Mietskasernen ist es großartig. Wenn der Innenraum kurz ist, wie zum Beispiel bei Blockwohnungen, wird ein Mezzanin ihn nur überfordern.
 
 {:.distinction.distinction-information}
-To get a comfortable space both over and under the mezzanine, the apartment's height should be at least 4.2 meters.
+Um sowohl über als auch unter dem Zwischengeschoss einen bequemen Platz zu erhalten, sollte die Höhe der Wohnung mindestens 4,2 Meter betragen.
 
-In a lower ceiling room, you might build a **mezzanine bedroom**. In this case the mezzanine height might be 1.2 meters. Such an entresol can be built in a room that is about 3.5 meters tall. A minimal safe height for a room with a mezzanine is 2.6 meters.
+In einem Raum mit niedrigerer Decke könnten Sie ein Schlafzimmer im Zwischengeschoss bauen. In diesem Fall könnte die Höhe des Zwischengeschosses 1,2 Meter betragen. Ein solches Zwischengeschoss kann in einem Raum gebaut werden, der etwa 3,5 Meter hoch ist. Eine minimale sichere Höhe für einen Raum mit einem Zwischengeschoss beträgt 2,6 Meter.
 
 {% fig %}
 ![How to build a mezzanine? A step by step guide](/uploads/antresola-w-domu-kiedy-mozna-zdecydowac-sie-na-antresole-1.jpg "How to build a mezzanine? A step by step guide")
 {% endfig %}
 
-## How to build a mezzanine? A step by step guide
+## Wie baut man ein Mezzanin? Eine Schritt-für-Schritt-Anleitung
 
-You should start building a mezzanine from designing a good project. Because such a construction is specified in the building code, it is a good idea to **ask a professional for help**. This way you can be sure that your project is congruous with the law. To design the mezzanine, take appropriate measurements in the room in which it is going to be built.
+Man sollte mit dem Bau eines Zwischengeschosses beginnen, indem man ein gutes Projekt entwirft. Da eine solche Konstruktion im Baugesetzbuch festgelegt ist, ist es eine gute Idee, einen Fachmann um Hilfe zu bitten. Auf diese Weise können Sie sicher sein, dass Ihr Projekt gesetzeskonform ist. Um das Zwischengeschoss zu entwerfen, nehmen Sie entsprechende Messungen in dem Raum vor, in dem es gebaut werden soll.
 
 {:.distinction.distinction-information}
-When doing a project, take the electrics into consideration. Make sure to include a power socket and a good lighting in the mezzanine.
+Wenn Sie ein Projekt durchführen, berücksichtigen Sie die Elektrik. Achten Sie darauf, dass im Zwischengeschoss eine Steckdose und eine gute Beleuchtung vorhanden sind.
 
-Another step is purchasing all the necessary materials. **A mezzanine floor is typically made of wood, so you might, for instance, visit a lumber mill**. Show your project to the employees, and they will know what exactly you expect.
+Ein weiterer Schritt ist der Einkauf aller notwendigen Materialien. Ein Zwischengeschoss besteht in der Regel aus Holz, so dass Sie z.B. ein Sägewerk besuchen können. Zeigen Sie den Mitarbeitern Ihr Projekt, und sie werden wissen, was genau Sie erwarten.
 
-The most important part of **building a mezzanine** floor is drilling holes and installing the beams that hold the whole construction. You can do it yourself, based on building guides. If you want to **be absolutely sure that the mezzanine is 100 percent safe** **and well constructed**, commission a specialist to do it for you. A professional will prepare and attach the beams to the wall, as well as secure the whole construction. The beams should be finished off and then plastered.
+Der wichtigste Teil beim Bau eines Zwischengeschosses ist das Bohren von Löchern und die Installation der Balken, die die gesamte Konstruktion tragen. Das können Sie selbst tun, anhand von Bauanleitungen. Wenn Sie absolut sicher sein wollen, dass das Zwischengeschoss zu 100 Prozent sicher und gut konstruiert ist, beauftragen Sie einen Spezialisten, dies für Sie zu tun. Ein Fachmann wird die Balken vorbereiten und an der Wand befestigen sowie die gesamte Konstruktion sichern. Die Balken sollten fertiggestellt und dann verputzt werden.
 
 {% fig %}
 ![How to build a mezzanine? A step by step guide](/uploads/drilling.jpg "How to build a mezzanine? A step by step guide")
 {% endfig %}
 
-The final step is **securing the floor** to the beams and fitting a staircase or a ladder.
+Der letzte Schritt ist die Befestigung des Bodens an den Balken und das Anbringen einer Treppe oder einer Leiter.
 
 {:.distinction.distinction-warning}
-Remember to leave small spaces between the floor panels. Humidity in the room changes constantly, causing the wood to expand or shrink in volume. The spaces help with the proper ventilation.
+Denken Sie daran, kleine Zwischenräume zwischen den Bodenplatten zu lassen. Die Feuchtigkeit im Raum ändert sich ständig, wodurch sich das Holz im Volumen ausdehnt oder schrumpft. Die Zwischenräume helfen bei der richtigen Belüftung.
 
-## Room with mezzanine – design ideas
+## Raum mit Mezzanin - Gestaltungsideen
 
-**A mezzanine might be used in many ways**. It's a very universal type of a room, so you can fit it to your own needs. It **might be a bedroom**, **a home library** or **a relax zone**. Find some interesting ideas for mezzanine rooms below.
+Ein Mezzanin kann auf viele Arten genutzt werden. Es ist ein sehr universeller Raumtyp, so dass man ihn an seine eigenen Bedürfnisse anpassen kann. Es kann ein Schlafzimmer, eine Hausbibliothek oder eine Entspannungszone sein. Unten finden Sie einige interessante Ideen für Mezzanine-Räume.
 
-### Mezzanine in a living room – a relaxing place after a long day
+### Zwischengeschoss in einem Wohnzimmer - ein Ort der Entspannung nach einem langen Tag
 
-The most popular combination is definitely a **mezzanine floor in a living room**. It increases functionality of the room, and makes high ceiling interiors more cozy. A mezzanine in a one-room apartment is a good method to s**eparate a bedroom from the living area**. This way you can have two interiors in one room – a large living room and a small, cozy bedroom.
+Die beliebteste Kombination ist sicherlich ein Zwischengeschoss in einem Wohnzimmer. Es erhöht die Funktionalität des Raumes und macht die Innenräume mit hohen Decken gemütlicher. Ein Zwischengeschoss in einer Einzimmerwohnung ist eine gute Methode, um ein Schlafzimmer vom Wohnbereich zu trennen. Auf diese Weise können Sie zwei Innenräume in einem Raum haben - ein großes Wohnzimmer und ein kleines, gemütliches Schlafzimmer.
 
-### Mezzanine in a bedroom – make your room more functional
+### Mezzanin im Schlafzimmer - machen Sie Ihr Zimmer funktioneller
 
-**A mezzanine does not have to be just a bedroom** – it might actually be built in the bedroom! This solution gives you additional space, which could be used in many ways. One of the ideas that can be appreciated especially by ladies is creating a **walk-in closet on a mezzanine floor**. It's a perfect solution if you have a lot of clothes that cannot fit in small wardrobes.
+Ein Mezzanin muss nicht nur ein Schlafzimmer sein - es könnte tatsächlich im Schlafzimmer gebaut werden! Diese Lösung bietet Ihnen zusätzlichen Raum, der auf vielfältige Weise genutzt werden könnte. Eine der Ideen, die besonders von Damen geschätzt werden kann, ist die Einrichtung eines begehbaren Kleiderschranks auf einem Zwischengeschoss. Das ist eine perfekte Lösung, wenn Sie viele Kleider haben, die nicht in kleine Schränke passen.
 
-If a walk-in closet is not so tempting solution, you might create a small study room in a mezzanine, for work, studying or developing your hobbies.
+Wenn ein begehbarer Kleiderschrank keine so verlockende Lösung ist, können Sie einen kleinen Arbeitsraum im Zwischengeschoss einrichten, zum Arbeiten, Studieren oder zur Entwicklung Ihrer Hobbys.
 
-### Mezzanine in a children's room – a secret base for your youngster
+### Zwischengeschoss in einem Kinderzimmer - ein geheimer Stützpunkt für Ihr Kind
 
-**A mezzanine in a children's room** is becoming an increasingly popular solution, which is perfect for a room of this type. Parents decide to build an entresol to spare a lot of space, which is important especially if the room is occupied by more than one child.
+Ein Zwischengeschoss in einem Kinderzimmer wird eine immer beliebtere Lösung, die sich perfekt für einen Raum dieser Art eignet. Eltern entscheiden sich für den Bau eines Zwischenstocks, um viel Platz zu sparen, was vor allem dann wichtig ist, wenn der Raum von mehr als einem Kind belegt ist.
 
 {% fig %}
 ![Mezzanine in a children's room – a secret base for your youngster](/uploads/antresola-w-domu-kiedy-mozna-zdecydowac-sie-na-antresole-2.jpg "Mezzanine in a children's room – a secret base for your youngster")
 {% endfig %}
 
-**There are several uses for a mezzanine floor in a children's room**. If it's a place for sleeping, the room has more space for a study desk. What's more, a mezzanine, similar to a bunk bed, is something truly special for a child. It's a perfect spot for playing, where small adventurers can allow their imagination run wild.
+Ein Zwischengeschoss in einem Kinderzimmer kann auf verschiedene Weise genutzt werden. Wenn es sich um einen Schlafplatz handelt, hat der Raum mehr Platz für einen Arbeitstisch. Außerdem ist ein Zwischengeschoss, ähnlich wie ein Etagenbett, für ein Kind etwas ganz Besonderes. Es ist ein perfekter Ort zum Spielen, wo kleine Abenteurer ihrer Fantasie freien Lauf lassen können.
 
-## Disadvantages of a mezzanine floor
+## Nachteile eines Mezzanine-Geschosses
 
-Although a mezzanine level **looks interesting in a house**, it is also quite a demanding solution. Many homeowners who decide to build an entresol, ignore important issues and possible problems that should be kept in mind.
+Obwohl ein Zwischengeschoss in einem Haus interessant aussieht, ist es auch eine recht anspruchsvolle Lösung. Viele Hausbesitzer, die sich für den Bau eines Zwischengeschosses entscheiden, ignorieren wichtige Fragen und mögliche Probleme, die im Auge behalten werden sollten.
 
-One of the biggest issues is **heating of a house with a mezzanine floor**. Warm air flows upwards, which causes the necessity to turn up the heating. Only this way the temperature on the lower level, where one spends significantly more time, will be optimal. Also, because the heat accumulates not on, but under the ceiling, using the mezzanine in winter might be problematic – the air up there might be simply too hot and dry. 
+Eines der größten Probleme ist die Heizung eines Hauses mit einem Zwischengeschoss. Warme Luft strömt nach oben, was die Notwendigkeit verursacht, die Heizung aufzudrehen. Nur auf diese Weise wird die Temperatur auf der unteren Ebene, wo man wesentlich mehr Zeit verbringt, optimal sein. Auch weil sich die Wärme nicht auf, sondern unter der Decke staut, könnte die Nutzung des Zwischengeschosses im Winter problematisch sein - die Luft dort oben könnte einfach zu heiß und trocken sein.
 
-**Keeping the same temperature level in the room and in the mezzanine floor is practically impossible**. For this reason one of the interiors will always be too cold or too hot.
+Es ist praktisch unmöglich, im Raum und im Zwischengeschoss das gleiche Temperaturniveau zu halten. Aus diesem Grund wird einer der Innenräume immer zu kalt oder zu warm sein.
 
 {% fig %}
 ![Disadvantages of a mezzanine floor](/uploads/czy-antresola-ma-jakies-wady.jpg "Disadvantages of a mezzanine floor")
 {% endfig %}
 
-Another problem might be caused by the **unusual construction of a mezzanine** floor. Being an open space, it is not fully enclosed, therefore it does not isolate sounds. Music, TV sound or conversations can be heard around the house, which might disturb the peace and privacy.
+Ein weiteres Problem könnte durch die ungewöhnliche Konstruktion eines Zwischengeschosses verursacht werden. Da es sich um einen offenen Raum handelt, ist er nicht vollständig geschlossen und isoliert daher keine Geräusche. Rund um das Haus sind Musik, Fernsehton oder Gespräche zu hören, was die Ruhe und Privatsphäre stören könnte.
 
-Despite several cons, a mezzanine floor is a **very good solution** that might make your home far more functional.
+Trotz einiger Nachteile ist ein Zwischengeschoss eine sehr gute Lösung, die Ihr Zuhause wesentlich funktioneller machen könnte.
 
 {% faqItem %}
 {% faqQuestion %}
-What is a mezzanine?
+Was ist ein Mezzanin?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-A mezzanine, also known as entresol, is a special floor level built in a room. It might consist of one or several interiors. It's typically used in private houses and also in industrial halls and shopping centers.
+Ein Mezzanin, auch bekannt als entresol, ist eine spezielle Bodenebene, die in einen Raum eingebaut ist. Es kann aus einem oder mehreren Innenräumen bestehen. Es wird typischerweise in Privathäusern und auch in Industriehallen und Einkaufszentren verwendet.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to build a mezzanine floor?
+Wie baut man ein Hochparterre?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Building a mezzanine level is a time consuming, but quite simple process. You might build it yourself or ask a professional to do it for you. Remember that an entresol construction should follow the rules specified by building code so make sure that it is absolutely safe.
+Der Bau einer Zwischengeschossebene ist ein zeitaufwändiger, aber recht einfacher Prozess. Sie können es selbst bauen oder einen Fachmann bitten, es für Sie zu erledigen. Denken Sie daran, dass eine Zwischengeschosskonstruktion den durch die Bauvorschriften vorgegebenen Regeln folgen sollte, stellen Sie also sicher, dass sie absolut sicher ist.
 {% endfaqAnswer %}
 
 {% endfaqItem %}
