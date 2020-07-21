@@ -17,155 +17,155 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-21
-title: Lockenlose Dusche - Überprüfen Sie den Trend der beliebtesten Badezimmer im Jahr 2020
-description: "Thinking about a curbless shower? \U0001F6BF  This unusual bathroom
-  design is becoming a new trend in 2020. ➡️ Find out whether a barrier free shower
-  is for you!"
-intro: In times of minimalistic designs, everyone aims to spare as much space as possible.
-  It might be quite a difficult task, especially if one has little space at their
-  disposal. It is one of the most common problems with bathrooms. Fortunately, interior
-  designers are constantly introducing new trends and solutions. The most popular
-  current trend is a curbless shower in a bathroom. The idea of a wet room allows
-  you to utilize a bathroom space to the maximum. What’s more, the aesthetics of such
-  a solution are beyond one’s imagination.
+title: Lockenlose Dusche - Überprüfen Sie den Trend der beliebtesten Badezimmer im
+  Jahr 2020
+description: "Denken Sie über eine krümmungsfreie Dusche nach? \U0001F6BF Dieses ungewöhnliche
+  Badezimmerdesign wird im Jahr 2020 zu einem neuen Trend. ➡️ Finden Sie heraus, ob
+  eine barrierefreie Dusche das Richtige für Sie ist!"
+intro: In Zeiten minimalistischer Entwürfe ist jeder bestrebt, so viel Platz wie möglich
+  zu sparen. Das kann eine recht schwierige Aufgabe sein, vor allem, wenn man wenig
+  Platz zur Verfügung hat. Es ist eines der häufigsten Probleme bei Badezimmern. Glücklicherweise
+  führen Innenarchitekten ständig neue Trends und Lösungen ein. Der beliebteste aktuelle
+  Trend ist eine krümmungsfreie Dusche im Badezimmer. Die Idee einer Nasszelle ermöglicht
+  es Ihnen, den Raum im Badezimmer maximal zu nutzen. Darüber hinaus übersteigt die
+  Ästhetik einer solchen Lösung die Vorstellungskraft.
 image: "/uploads/sidekix-media-g51F6-zyu-unsplash.jpg"
 related_products: []
-published: false
 
 ---
-## Curbless shower - how does it work?
+## Krümmungsfreie Dusche - wie funktioniert sie?
 
-A curbless shower is exactly what the name suggests. The base on which shower doors or shower curtains usually rest, is removed.
+Eine krümmungsfreie Dusche ist genau das, was der Name vermuten lässt. Der Sockel, auf dem Duschtüren oder Duschvorhänge normalerweise ruhen, wird entfernt.
 
-What’s left in the bathroom is only a **shower stall** and shower head. Thanks to this, the room gains a new, lightweight look. Due to the lack of a big white base the only barrier is a glass wall, usually completely transparent. Every other element that is in the bathroom becomes more accentuated.
+Was im Badezimmer übrig bleibt, ist nur noch eine Duschkabine und ein Duschkopf. Dadurch erhält der Raum ein neues, leichtes Aussehen. Aufgrund des Fehlens eines großen weißen Sockels ist die einzige Barriere eine Glaswand, die normalerweise völlig transparent ist. Jedes andere Element, das sich im Badezimmer befindet, wird stärker akzentuiert.
 
-Obviously, if one desires to implement such a concept at their place, certain preparations are needed. Therefore one should make a plan to figure out **how to make a curbless shower** in their bathroom. What are the most important issues to keep in mind?
+Es liegt auf der Hand, dass gewisse Vorbereitungen getroffen werden müssen, wenn man ein solches Konzept an ihrem Ort umsetzen will. Deshalb sollte man einen Plan erstellen, um herauszufinden, wie man eine bordsteinlose Dusche in ihrem Badezimmer realisieren kann. Was sind die wichtigsten Punkte, die man im Auge behalten sollte?
 
 {:.list}
 
-* **Width of the floor (ceiling**) - it dictates the type of th drain that needs to be installed. It is easier if the bathroom is designed during the stage of constructing the building.
-* **Floor shape** - it needs to be appropriate so that water can flow down freely.
-* **Expenses** - a curbless shower requires the right structure of the whole room. The cost of adjusting it varies depending on individual factors.
+* Breite des Fußbodens (Decke) - sie bestimmt die Art des zu installierenden Abflusses. Es ist einfacher, wenn das Badezimmer bereits während der Bauphase des Gebäudes entworfen wird.
+* Form des Fußbodens - er muss so beschaffen sein, dass das Wasser ungehindert nach unten fließen kann.
+* Kosten - eine bürstenlose Dusche erfordert die richtige Struktur des gesamten Raumes. Die Kosten für ihre Anpassung hängen von individuellen Faktoren ab.
 
 {% fig %}
 ![Curbless shower - how does it work?](/uploads/prysznic-bez-brodzika-na czym-to-w-ogole-polega.jpg "Curbless shower - how does it work?")
 {% endfig %}
 
-A curbless shower is without any doubt a very attractive solution. For this reason many homeowners opt for it. It is good to learn all the details of constructing such a unit in one’s bathroom.
+Eine bürstenlose Dusche ist zweifellos eine sehr attraktive Lösung. Aus diesem Grund entscheiden sich viele Hausbesitzer für sie. Es ist gut, alle Details für den Bau einer solchen Einheit im eigenen Badezimmer zu lernen.
 
-## A curbless shower - modern minimalism
+## Eine kringellose Dusche - moderner Minimalismus
 
-A barrier free shower is the most subtle part of a bathroom. The only thing that might catch one’s eye is the shower head. The interior gets its space back.
+Eine barrierefreie Dusche ist der subtilste Teil eines Badezimmers. Das Einzige, was einem ins Auge fallen könnte, ist der Duschkopf. Der Innenraum bekommt seinen Raum zurück.
 
-A wet room design is the easiest to make if it’s planned beforehand - best during the stage of constructing the whole building. A **curbless shower** poses a great opportunity to pay attention to certain individual elements of the decor. It is a solution that responds to the minimalistic designs. One of the rules for this style is hiding unnecessary elements that might be distracting. Bathrooms with a curbless shower are exceptionally **elegant and stylish**.
+Eine Nassraumgestaltung ist am einfachsten, wenn sie im Voraus geplant wird - am besten während der Bauphase des gesamten Gebäudes. Eine bürstenlose Dusche bietet eine gute Gelegenheit, auf bestimmte Einzelelemente der Einrichtung zu achten. Es ist eine Lösung, die auf die minimalistischen Entwürfe reagiert. Eine der Regeln für diesen Stil ist das Verstecken unnötiger Elemente, die ablenken könnten. Badezimmer mit einer bordsteinlosen Dusche sind außergewöhnlich elegant und stilvoll.
 
 {:.distinction.distinction-information}
 
-A curbless shower is a particularly attractive option for small bathrooms. Such interiors have so limited space that every centimeter counts. Glass, transparent walls “unblock” the whole room.
+Eine bordsteinlose Dusche ist eine besonders attraktive Option für kleine Badezimmer. Solche Innenräume haben so wenig Platz, dass jeder Zentimeter zählt. Gläserne, transparente Wände "entblocken" den ganzen Raum.
 
-One might achieve even better results using just one wall or a nook. There are many possibilities - it’s a great opportunity to **design a small bathroom** in an interesting way. What are the other advantages of a curbless shower?
+Mit nur einer Wand oder einer Ecke könnte man noch bessere Ergebnisse erzielen. Es gibt viele Möglichkeiten - es ist eine große Chance, ein kleines Bad interessant zu gestalten. Was sind die anderen Vorteile einer bordsteinlosen Dusche?
 
 {:.list.list-positive}
 
-* **Easy cleaning** - both shower door and floor that build a curbless shower are very easy to keep clean. There are less nooks and crannies in which scale and dirt might accumulate.
-* **Option to customize the size of the stall** - a curbless shower cabin might have any size, therefore interior design is easier to adjust. One might design a shower of an unusual shape and size.
-* **Lower costs** - if a curbless shower has been planned before designing the bathroom, it is not an expensive project. In such a case the costs involve mostly buying a glass wall and several additional elements.
-* **No threshold** - a curbless shower is a great solution for elderly, people using a wheelchair and children. There is no barrier between the base and the bathroom, therefore there is no risk of accidental tripping and losing balance. A wheelchair also can enter such a cabin without any difficulties. It is a huge improvement which makes one more independent.
+* Einfache Reinigung - sowohl die Duschtür als auch der Boden, die eine bordsteinkantenlose Dusche bilden, sind sehr leicht sauber zu halten. Es gibt weniger Ecken und Winkel, in denen sich Kalk und Schmutz ansammeln können.
+* Möglichkeit, die Größe der Kabine individuell anzupassen - eine bordsteinlose Duschkabine kann jede beliebige Größe haben, daher lässt sich die Inneneinrichtung leichter anpassen. Man könnte eine Dusche mit einer ungewöhnlichen Form und Größe entwerfen.
+* Geringere Kosten - wenn eine bordsteinlose Dusche vor dem Entwurf des Badezimmers geplant wurde, ist es kein teures Projekt. In einem solchen Fall sind die Kosten meist mit dem Kauf einer Glaswand und mehrerer zusätzlicher Elemente verbunden.
+* Keine Schwelle - eine bordsteinlose Dusche ist eine großartige Lösung für ältere Menschen, Rollstuhlfahrer und Kinder. Es gibt keine Barriere zwischen dem Sockel und dem Badezimmer, daher besteht keine Gefahr, versehentlich zu stolpern und das Gleichgewicht zu verlieren. Auch ein Rollstuhl kann eine solche Kabine ohne Schwierigkeiten betreten. Es ist eine enorme Verbesserung, die einen unabhängiger macht.
 
 {% fig %}
 ![A curbless shower - modern minimalism](/uploads/prysznic-bez-brodzika-nie-dla-kazdego.jpg "A curbless shower - modern minimalism")
 {% endfig %}
 
-## Curbless shower - not for everyone
+## Krümmungsfreie Dusche - nicht für jedermann
 
-Although a wet room is a highly advantageous solution, unfortunately it also has some disadvantages. For this reason not everyone can use it. If a curbless shower is to be constructed in an **already finished bathroom**, it might be quite problematic. In this case it will not be a cheap solution. Designing such a shower means a complete makeover of a room.
+Obwohl eine Nasszelle eine sehr vorteilhafte Lösung ist, hat sie leider auch einige Nachteile. Aus diesem Grund kann sie nicht jeder nutzen. Wenn in einem bereits fertiggestellten Bad eine bordsteinkantenlose Dusche gebaut werden soll, kann dies recht problematisch sein. In diesem Fall wird es keine billige Lösung sein. Der Bau einer solchen Dusche bedeutet eine komplette Umgestaltung eines Raumes.
 
 {:.distinction.distinction-warning}
-A curbless shower requires an appropriate drain, hidden in the floor. The floor itself should slope so that the water does not flood the bathroom. This requires removing old tiles and creating the floor anew. It also might turn out that the ceiling is too thin - in which case a curbless shower is simply not possible to construct.
+Eine bordsteinlose Dusche erfordert einen geeigneten, im Boden versteckten Abfluss. Der Fußboden selbst sollte geneigt sein, damit das Wasser das Badezimmer nicht überflutet. Dazu müssen alte Fliesen entfernt und der Fußboden neu verlegt werden. Es könnte sich auch herausstellen, dass die Decke zu dünn ist - in diesem Fall ist eine bordsteinkantenlose Dusche einfach nicht zu konstruieren.
 
-## How to make a curbless shower?
+## Wie macht man eine bürstenlose Dusche?
 
-As already mentioned, a barrier free shower is easy to make if it is designed along with the plan of the whole house. It is best to plan carefully at which spot the shower is going to stand. If the bathroom is small, use any available **niches and corners**.
-
-{:.distinction.distinction-information}
-If the room is more spacious, consider choosing a bigger rectangular shower unit. Other elements that are very important are properly fitted tiles and drains.
-
-### What tiles are best for a curbless shower?
-
-A barrier free shower requires a carefully designed floor. Choosing the right tiles is a highly important matter. They must be the **non-slip type**. Only then the shower cabin can be safe. Choose the one with R10-R13 rating.
+Wie bereits erwähnt, ist eine barrierefreie Dusche leicht herzustellen, wenn sie zusammen mit dem Plan des gesamten Hauses entworfen wird. Am besten ist es, sorgfältig zu planen, an welcher Stelle die Dusche stehen soll. Wenn das Badezimmer klein ist, nutzen Sie alle verfügbaren Nischen und Ecken.
 
 {:.distinction.distinction-information}
-Because the floor must have a slope, the tiles should be able to conceal it. It is very likely that the tiles are going to be cut in order to fit them. For this reason make sure to carefully measure everything.
+Wenn der Raum geräumiger ist, erwägen Sie die Wahl einer größeren rechteckigen Duscheinheit. Andere Elemente, die sehr wichtig sind, sind ordnungsgemäß angebrachte Fliesen und Abflüsse.
+
+### Welche Fliesen eignen sich am besten für eine bordsteinlose Dusche?
+
+Eine barrierefreie Dusche erfordert einen sorgfältig gestalteten Boden. Die Wahl der richtigen Fliesen ist eine äußerst wichtige Angelegenheit. Sie müssen vom rutschfesten Typ sein. Nur dann kann die Duschkabine sicher sein. Wählen Sie diejenige mit der Klassifizierung R10-R13.
+
+{:.distinction.distinction-information}
+Da der Boden eine Neigung haben muss, sollten die Fliesen diese verdecken können. Es ist sehr wahrscheinlich, dass die Fliesen zurechtgeschnitten werden, um sie anzupassen. Aus diesem Grund sollten Sie alles sorgfältig ausmessen.
 
 {% fig %}
 ![What tiles are best for a curbless shower?](/uploads/jakie-plytki-sie-sprawdza-pod-prysznic-bez-brodzika.jpg "What tiles are best for a curbless shower?")
 {% endfig %}
 
-Apart from the tiles, you also need to choose the right type of grout. It should be waterproof and easy to clean. This will make the curbless shower sturdy for years. The most recommended product is an **epoxy grout**. It is waterproof, flexible and doesn’t crumble after drying up.
+Abgesehen von den Fliesen müssen Sie auch den richtigen Fugenmörteltyp auswählen. Er sollte wasserdicht und leicht zu reinigen sein. Dadurch wird die bordsteinlose Dusche über Jahre hinweg stabil bleiben. Das am meisten empfohlene Produkt ist ein Epoxidfugenmörtel. Er ist wasserdicht, flexibel und bröckelt nach dem Austrocknen nicht.
 
-Before laying the tiles, one needs to take care of floor **waterproofing**. This way the bathroom and the rooms below are secured from water. Traditional methods use waterproofing flashing mortar - they are the most popular.
+Bevor man die Fliesen verlegt, muss man sich um die Bodenabdichtung kümmern. Auf diese Weise werden das Badezimmer und die darunter liegenden Räume vor Wasser geschützt. Traditionelle Methoden verwenden wasserabdichtenden Abdeckmörtel - sie sind die beliebtesten.
 
 {:.distinction.distinction-information}
-You can also use a product called liquid foil, which contains synthetic resin. It is a substantially faster method. To apply the substance, one might simply use a brush or a pallet knife.
+Sie können auch ein Produkt namens Flüssigfolie verwenden, das Kunstharz enthält. Dies ist eine wesentlich schnellere Methode. Um die Substanz aufzutragen, kann man einfach einen Pinsel oder ein Palettenmesser verwenden.
 
-### Curbless shower - choosing the right drain
+### Krümmungsfreie Dusche - Auswahl des richtigen Abflusses
 
-Yet another important issue that a curbless shower poses is choosing the right drain. There are several possibilities in this matter - the choice is between a wall drain or a floor drain. One must also decide between a trench (linear) drain and a point drain.
+Eine weitere wichtige Frage, die sich bei einer Dusche ohne Krümmung stellt, ist die Wahl des richtigen Abflusses. Hier gibt es mehrere Möglichkeiten - man hat die Wahl zwischen einem Wandablauf oder einem Bodenablauf. Man muss sich auch zwischen einem Grabenablauf (linear) und einem Punktablauf entscheiden.
 
-The most inconspicuous solution is a **wall drain**. Users of floor drains subconsciously omit standing on them, which might make using the shower less comfortable. There is no such problem with a wall drain. It can be also concealed under a tile in the same color as the wall or floor.
+Die unauffälligste Lösung ist ein Wandablauf. Benutzer von Bodenabläufen verzichten unbewusst darauf, auf ihnen zu stehen, was die Benutzung der Dusche weniger komfortabel machen könnte. Bei einem Wandablauf gibt es dieses Problem nicht. Er kann auch unter einer Fliese in der Farbe der Wand oder des Bodens verborgen werden.
 
-**Floor drains** are definitely more popular. Here, the choice is between a trench drain and a point drain. Regardless of which one is going to be installed, drain needs to be more efficient than shower head. This way one can be sure that water is going to be drained effectively. A linear drain for a curbless shower usually has a large surface, therefore water flows quickly and more evenly. The major downside is that this type of drain is more expensive than the others.
+Bodenabflüsse sind definitiv beliebter. Hier hat man die Wahl zwischen einem Grabenablauf und einem Punktablauf. Unabhängig davon, welcher davon installiert wird, muss der Ablauf effizienter sein als ein Duschkopf. Auf diese Weise kann man sicher sein, dass das Wasser effektiv abgeleitet wird. Ein linearer Ablauf für eine bordsteinlose Dusche hat normalerweise eine große Oberfläche, daher fließt das Wasser schnell und gleichmäßiger. Der größte Nachteil ist, dass diese Art von Abfluss teurer ist als die anderen.
 
 {% fig %}
 ![Curbless shower - choosing the right drain](/uploads/kabiny-prysznicowe-bez-brodzika-ktora-jest-najlepsza.jpg "Curbless shower - choosing the right drain")
 {% endfig %}
 
-### A curbless shower - which one is the best?
+### Eine kringellose Dusche - welche ist die beste?
 
-The biggest advantage of a curbless shower is the fact that it can take any shape. Depending on the available floor space and type of the room, a shower cabin might be triangular, square or rectangular. The choice is also in type of the door - hinged, sliding or folding. There is also another particularly interesting solution - **a walk-in shower**. In this case only one glass panel is fixed into place, as a protection from water. This way the room seems even more spacious - especially if the glass is completely transparent. All types of shower **doors are made of hardened glass** - either transparent or opaque.
+Der größte Vorteil einer bordsteinlosen Dusche ist die Tatsache, dass sie jede Form annehmen kann. Je nach der verfügbaren Bodenfläche und der Art des Raumes kann eine Duschkabine dreieckig, quadratisch oder rechteckig sein. Die Wahl besteht auch in der Art der Tür - aufklappbar, verschiebbar oder faltbar. Es gibt noch eine weitere besonders interessante Lösung - eine begehbare Dusche. In diesem Fall wird nur eine Glasscheibe zum Schutz vor Wasser angebracht. Auf diese Weise wirkt der Raum noch geräumiger - vor allem, wenn das Glas vollständig transparent ist. Alle Arten von Duschtüren bestehen aus gehärtetem Glas - entweder durchsichtig oder undurchsichtig.
 
-## How about a doorless shower?
+## Wie wäre es mit einer Dusche ohne Tür?
 
-A doorless shower with no walls is quite a bold solution. In this case the shower area consists of a drain and a shower head only. There is no door or any additional glass panel. If there is a nook in the bathroom, it is a good idea to use it for this purpose. This way the shower has a wall, **partially separating** it from the rest of the bathroom. Many homeowners choose an open space wet room. The main advantage here are lower costs - buying a shower stall is unnecessary. It is also a good solution for a small bathroom - a glass wall takes some space after all. The best type of douche in this case is a rainshower.
+Eine türlose Dusche ohne Wände ist eine recht kühne Lösung. In diesem Fall besteht der Duschbereich nur aus einem Abfluss und einem Duschkopf. Es gibt weder eine Tür noch eine zusätzliche Glasscheibe. Wenn es im Badezimmer eine Ecke gibt, ist es eine gute Idee, diese für diesen Zweck zu nutzen. Auf diese Weise hat die Dusche eine Wand, die sie teilweise vom Rest des Badezimmers trennt. Viele Hausbesitzer wählen eine Nasszelle mit offenem Raum. Der Hauptvorteil hier sind niedrigere Kosten - der Kauf einer Duschkabine ist unnötig. Es ist auch eine gute Lösung für ein kleines Badezimmer - eine Glaswand nimmt schließlich etwas Platz weg. Die beste Art der Duschkabine ist in diesem Fall eine Regendusche.
 
-A curbless shower is a great idea both for small and large bathrooms. It unblocks a lot of space and contributes to a modern, minimalistic look. When planning this type of shower, pay attention to every detail, from the drain to the type of door. A curbless shower is a practical and visually pleasing bathroom addition!
+Eine bürstenlose Dusche ist sowohl für kleine als auch für große Badezimmer eine gute Idee. Sie gibt viel Platz frei und trägt zu einem modernen, minimalistischen Aussehen bei. Achten Sie bei der Planung dieser Art von Dusche auf jedes Detail, vom Abfluss bis zur Art der Tür. Eine Dusche ohne Krümmung ist eine praktische und optisch ansprechende Ergänzung des Badezimmers!
 
 {% faqItem %}
 {% faqQuestion %}
-How to build a shower with no curb?
+Wie baut man eine Dusche ohne Bordstein?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The easiest way to build a curbless shower is to plan it at the stage of building a house. Think where the unit is going to be placed, what kind of drain you need and which shower head will fit. To make sure that a curbless shower works properly, refer to the help of a specialist.
+Der einfachste Weg, eine bordsteinlose Dusche zu bauen, ist, sie bereits beim Bau eines Hauses zu planen. Überlegen Sie sich, wo die Einheit platziert werden soll, welche Art von Abfluss Sie benötigen und welcher Duschkopf passen wird. Um sicherzustellen, dass eine bordsteinlose Dusche richtig funktioniert, wenden Sie sich an einen Fachmann.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to build a tile shower?
+Wie baut man eine geflieste Dusche?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The key for a tile shower with no curb is choosing the right tiles. They should be non-slippery - only then can the place be safe. The tiles should be cut to fit the floor. Remember that a curbless shower floor needs to slope to the drain.
+Der Schlüssel für eine Dusche mit Fliesen ohne Bordstein ist die Wahl der richtigen Fliesen. Sie sollten rutschfest sein - nur dann kann der Ort sicher sein. Die Fliesen sollten so zugeschnitten sein, dass sie zum Boden passen. Denken Sie daran, dass ein Duschboden ohne Bordstein zum Abfluss hin abfallen muss.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to build a shower curb?
+Wie baut man einen Duschvorhang?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Start from forming a curb made of the same material as the floor. Then lay a waterproof liner on it, then lath and mortar. The last step is tiling the curb along with the shower floor.
+Beginnen Sie mit der Bildung eines Bordsteins aus dem gleichen Material wie der Boden. Legen Sie dann eine wasserdichte Auskleidung darauf, dann Latte und Mörtel. Als letzter Schritt wird der Bordstein zusammen mit dem Duschboden gefliest.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How much does a walk-in shower cost?
+Wie viel kostet eine begehbare Dusche?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The price varies depending on many individual factors. The cheapest solution is to plan this type of a curbless shower along with building the house. The costs rise if the house already exists and the room needs adjusting - which often means a complete makeover.
+Der Preis hängt von vielen individuellen Faktoren ab. Die billigste Lösung ist es, diese Art einer bordsteinlosen Dusche zusammen mit dem Bau des Hauses zu planen. Die Kosten steigen, wenn das Haus bereits existiert und der Raum angepasst werden muss - was oft eine komplette Neugestaltung bedeutet.
 {% endfaqAnswer %}
 {% endfaqItem %}
