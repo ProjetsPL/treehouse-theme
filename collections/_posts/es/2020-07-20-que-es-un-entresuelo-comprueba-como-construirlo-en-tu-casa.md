@@ -11,128 +11,128 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-20
-title: ¿Qué es un entresuelo? Comprueba cómo construirlo en tu casa
-description: "Looking for interior design ideas? \U0001F4A1 How about a mezzanine
-  floor? Learn all about entresols and add space to your interior. ➡️ Make your home
-  spectacular!"
-intro: Dreaming of an elegant, stylish home design? Mezzanine level is a perfect way
-  to fully use the potential of your interior. Creating an entresol, you might gain
-  a completely new room and use it according to your needs. Consider building a mezzanine
-  - make an additional space in your home and enjoy the spectacular results.
+title: "¿Qué es un entresuelo? Comprueba cómo construirlo en tu casa"
+description: "¿Buscando ideas de diseño interior? \U0001F4A1 ¿Qué tal un entrepiso?
+  Aprenda todo sobre entresuelos y añada espacio a su interior. ➡️ ¡Haz que tu casa
+  sea espectacular!"
+intro: "¿Soñando con un diseño de hogar elegante y con estilo? El entrepiso es una
+  forma perfecta de aprovechar al máximo el potencial de su interior. Creando un entresuelo,
+  podrías ganar una habitación completamente nueva y usarla según tus necesidades.
+  Considera la posibilidad de construir un entresuelo: haz un espacio adicional en
+  tu casa y disfruta de los espectaculares resultados."
 image: "/uploads/antresola-1.jpg"
 related_products: []
-published: false
 
 ---
-## What is a mezzanine? Can I employ it in my house?
+## ¿Qué es un entresuelo? ¿Puedo emplearlo en mi casa?
 
-Mezzanine is an intermediate level built in between two floors of a building, usually on the ground level. It might consist of **one or several rooms**. It is mostly used in large industrial buildings, shopping centers and restaurants, although it might also be built in a private house. A mezzanine might serve as a **home office** or **a bedroom**. 
+El entresuelo es un nivel intermedio construido entre dos plantas de un edificio, normalmente en la planta baja. Puede consistir en una o varias habitaciones. Se utiliza principalmente en grandes edificios industriales, centros comerciales y restaurantes, aunque también puede ser construido en una casa privada. Un entresuelo puede servir como oficina en casa o como dormitorio.
 
-### Entresol in your house – what should you pay attention to?
+### Entresol en tu casa - ¿a qué deberías prestar atención?
 
-A mezzanine floor at home is a **very practical and functional solution**. Without keeping certain safety measures it might be, however, dangerous for people living in the house. Before designing a mezzanine, first pay attention to the entrance. Stairs are important – whether winding or straight, a sturdy banister is a must, to ensure stability and protection from slipping.
+Un entresuelo en casa es una solución muy práctica y funcional. Sin mantener ciertas medidas de seguridad puede ser, sin embargo, peligroso para las personas que viven en la casa. Antes de diseñar un entresuelo, primero hay que prestar atención a la entrada. Las escaleras son importantes - ya sean sinuosas o rectas, una barandilla resistente es una necesidad, para asegurar la estabilidad y la protección contra el deslizamiento.
 
 {:.distinction.distinction-information}
-If the mezzanine will not be used by children, you might install a ladder instead of a staircase. Remember that it has to be stable.
+Si el entresuelo no es utilizado por los niños, puede instalar una escalera en lugar de una escalera. Recuerde que tiene que ser estable.
 
-Another important aspect is **railing**. You might use traditional or modern glass rails. This way you can create a room resembling a balcony. Another, much safer (especially for children) solution is fencing the mezzanine with a pony wall.
+Otro aspecto importante es la barandilla. Puedes usar rieles de vidrio tradicionales o modernos. De esta manera puedes crear una habitación que se asemeje a un balcón. Otra solución mucho más segura (especialmente para los niños) es cercar el entresuelo con una pared de pony.
 
-**A mezzanine floor also needs to be illuminated – it needs a separate set of lights**. The type of lighting is irrelevant and it depends solely on the home owners' preference, as well as on the purpose of the mezzanine. You might use a standard hanging lamp, wall lights or floor lamp.
+Un entrepiso también necesita ser iluminado - necesita un juego de luces separado. El tipo de iluminación es irrelevante y depende únicamente de la preferencia de los propietarios de la casa, así como de la finalidad del entresuelo. Se puede utilizar una lámpara colgante estándar, luces de pared o de piso.
 
 {% fig %}
 ![How high should a mezzanine be?](/uploads/antresola-w-domu-kiedy-mozna-zdecydowac-sie-na-antresole.jpg "How high should a mezzanine be?")
 {% endfig %}
 
-### How high should a mezzanine be?
+### ¿Qué altura debe tener un entresuelo?
 
-A mezzanine at home is a great way to spare some space, especially if the apartment is small. Keep in mind that a **mezzanine makes sense only in high ceiling homes**. It is great in old buildings such as tenements. If the interior is short, like, for instance block apartments, a mezzanine will only overwhelm it.
+Un entresuelo en casa es una gran manera de ahorrar espacio, especialmente si el apartamento es pequeño. Tengan en cuenta que un entresuelo sólo tiene sentido en casas con techos altos. Es genial en edificios antiguos como las casas de vecindad. Si el interior es corto, como, por ejemplo, los apartamentos de un bloque, un entresuelo sólo lo abrumará.
 
 {:.distinction.distinction-information}
-To get a comfortable space both over and under the mezzanine, the apartment's height should be at least 4.2 meters.
+Para conseguir un espacio cómodo tanto encima como debajo del entresuelo, la altura del apartamento debe ser de al menos 4,2 metros.
 
-In a lower ceiling room, you might build a **mezzanine bedroom**. In this case the mezzanine height might be 1.2 meters. Such an entresol can be built in a room that is about 3.5 meters tall. A minimal safe height for a room with a mezzanine is 2.6 meters.
+En una habitación de techo bajo, podrías construir un dormitorio en el entresuelo. En este caso la altura del entrepiso podría ser de 1,2 metros. Tal entresuelo puede ser construido en una habitación de unos 3,5 metros de altura. La altura mínima de seguridad para una habitación con entrepiso es de 2,6 metros.
 
 {% fig %}
 ![How to build a mezzanine? A step by step guide](/uploads/antresola-w-domu-kiedy-mozna-zdecydowac-sie-na-antresole-1.jpg "How to build a mezzanine? A step by step guide")
 {% endfig %}
 
-## How to build a mezzanine? A step by step guide
+## ¿Cómo se construye un entresuelo? Una guía paso a paso
 
-You should start building a mezzanine from designing a good project. Because such a construction is specified in the building code, it is a good idea to **ask a professional for help**. This way you can be sure that your project is congruous with the law. To design the mezzanine, take appropriate measurements in the room in which it is going to be built.
+Deberías empezar a construir un entresuelo a partir del diseño de un buen proyecto. Debido a que tal construcción está especificada en el código de construcción, es una buena idea pedir ayuda a un profesional. De esta manera puedes estar seguro de que tu proyecto es congruente con la ley. Para diseñar el entresuelo, tome las medidas apropiadas en la habitación en la que se va a construir.
 
 {:.distinction.distinction-information}
-When doing a project, take the electrics into consideration. Make sure to include a power socket and a good lighting in the mezzanine.
+Cuando se hace un proyecto, hay que tener en cuenta la electricidad. Asegúrate de incluir un enchufe y una buena iluminación en el entresuelo.
 
-Another step is purchasing all the necessary materials. **A mezzanine floor is typically made of wood, so you might, for instance, visit a lumber mill**. Show your project to the employees, and they will know what exactly you expect.
+Otro paso es comprar todos los materiales necesarios. Un entrepiso es típicamente de madera, así que podrías, por ejemplo, visitar un aserradero. Muestra tu proyecto a los empleados, y ellos sabrán exactamente lo que esperas.
 
-The most important part of **building a mezzanine** floor is drilling holes and installing the beams that hold the whole construction. You can do it yourself, based on building guides. If you want to **be absolutely sure that the mezzanine is 100 percent safe** **and well constructed**, commission a specialist to do it for you. A professional will prepare and attach the beams to the wall, as well as secure the whole construction. The beams should be finished off and then plastered.
+La parte más importante de la construcción de un entresuelo es la perforación de agujeros y la instalación de las vigas que sostienen toda la construcción. Puedes hacerlo tú mismo, basándote en las guías de construcción. Si quieres estar absolutamente seguro de que el entresuelo es 100% seguro y está bien construido, encarga a un especialista que lo haga por ti. Un profesional preparará y fijará las vigas a la pared, así como asegurará toda la construcción. Las vigas deben ser terminadas y luego enyesadas.
 
 {% fig %}
 ![How to build a mezzanine? A step by step guide](/uploads/drilling.jpg "How to build a mezzanine? A step by step guide")
 {% endfig %}
 
-The final step is **securing the floor** to the beams and fitting a staircase or a ladder.
+El último escalón es asegurar el suelo a las vigas y colocar una escalera o una escalera de mano.
 
 {:.distinction.distinction-warning}
-Remember to leave small spaces between the floor panels. Humidity in the room changes constantly, causing the wood to expand or shrink in volume. The spaces help with the proper ventilation.
+Recuerda dejar pequeños espacios entre los paneles del suelo. La humedad en la habitación cambia constantemente, causando que la madera se expanda o se reduzca en volumen. Los espacios ayudan a la correcta ventilación.
 
-## Room with mezzanine – design ideas
+## Habitación con entrepiso - ideas de diseño
 
-**A mezzanine might be used in many ways**. It's a very universal type of a room, so you can fit it to your own needs. It **might be a bedroom**, **a home library** or **a relax zone**. Find some interesting ideas for mezzanine rooms below.
+Un entresuelo puede ser usado de muchas maneras. Es un tipo de habitación muy universal, así que puedes adaptarla a tus propias necesidades. Puede ser un dormitorio, una biblioteca casera o una zona de relax. A continuación encontrará algunas ideas interesantes para las habitaciones del entresuelo.
 
-### Mezzanine in a living room – a relaxing place after a long day
+### Mezzanine en una sala de estar - un lugar relajante después de un largo día
 
-The most popular combination is definitely a **mezzanine floor in a living room**. It increases functionality of the room, and makes high ceiling interiors more cozy. A mezzanine in a one-room apartment is a good method to s**eparate a bedroom from the living area**. This way you can have two interiors in one room – a large living room and a small, cozy bedroom.
+La combinación más popular es definitivamente un entrepiso en una sala de estar. Aumenta la funcionalidad de la habitación y hace más acogedores los interiores de techos altos. Un entresuelo en un apartamento de una habitación es un buen método para separar un dormitorio de la sala de estar. De esta manera puedes tener dos interiores en una habitación - una gran sala de estar y un pequeño y acogedor dormitorio.
 
-### Mezzanine in a bedroom – make your room more functional
+### Mezzanine en un dormitorio - hacer que su habitación sea más funcional
 
-**A mezzanine does not have to be just a bedroom** – it might actually be built in the bedroom! This solution gives you additional space, which could be used in many ways. One of the ideas that can be appreciated especially by ladies is creating a **walk-in closet on a mezzanine floor**. It's a perfect solution if you have a lot of clothes that cannot fit in small wardrobes.
+Un entresuelo no tiene que ser sólo un dormitorio, ¡podría estar construido en el dormitorio! Esta solución le da espacio adicional, que podría ser utilizado de muchas maneras. Una de las ideas que puede ser apreciada especialmente por las damas es crear un vestidor en un entrepiso. Es una solución perfecta si tienes mucha ropa que no cabe en armarios pequeños.
 
-If a walk-in closet is not so tempting solution, you might create a small study room in a mezzanine, for work, studying or developing your hobbies.
+Si un vestidor no es una solución tan tentadora, puedes crear una pequeña sala de estudio en un entresuelo, para trabajar, estudiar o desarrollar tus aficiones.
 
-### Mezzanine in a children's room – a secret base for your youngster
+### Entrepiso en un cuarto de niños - una base secreta para su hijo
 
-**A mezzanine in a children's room** is becoming an increasingly popular solution, which is perfect for a room of this type. Parents decide to build an entresol to spare a lot of space, which is important especially if the room is occupied by more than one child.
+Un entresuelo en una habitación infantil se está convirtiendo en una solución cada vez más popular, que es perfecta para una habitación de este tipo. Los padres deciden construir un entresuelo para ahorrar mucho espacio, lo que es importante sobre todo si la habitación está ocupada por más de un niño.
 
 {% fig %}
 ![Mezzanine in a children's room – a secret base for your youngster](/uploads/antresola-w-domu-kiedy-mozna-zdecydowac-sie-na-antresole-2.jpg "Mezzanine in a children's room – a secret base for your youngster")
 {% endfig %}
 
-**There are several uses for a mezzanine floor in a children's room**. If it's a place for sleeping, the room has more space for a study desk. What's more, a mezzanine, similar to a bunk bed, is something truly special for a child. It's a perfect spot for playing, where small adventurers can allow their imagination run wild.
+Hay varios usos para un entresuelo en una habitación de niños. Si es un lugar para dormir, la habitación tiene más espacio para un escritorio de estudio. Es más, un entresuelo, similar a una litera, es algo realmente especial para un niño. Es un lugar perfecto para jugar, donde los pequeños aventureros pueden dejar volar su imaginación.
 
-## Disadvantages of a mezzanine floor
+## Desventajas de un entresuelo
 
-Although a mezzanine level **looks interesting in a house**, it is also quite a demanding solution. Many homeowners who decide to build an entresol, ignore important issues and possible problems that should be kept in mind.
+Aunque un entresuelo parece interesante en una casa, también es una solución bastante exigente. Muchos propietarios que deciden construir un entresuelo, ignoran cuestiones importantes y posibles problemas que deben tenerse en cuenta.
 
-One of the biggest issues is **heating of a house with a mezzanine floor**. Warm air flows upwards, which causes the necessity to turn up the heating. Only this way the temperature on the lower level, where one spends significantly more time, will be optimal. Also, because the heat accumulates not on, but under the ceiling, using the mezzanine in winter might be problematic – the air up there might be simply too hot and dry. 
+Uno de los mayores problemas es la calefacción de una casa con un entresuelo. El aire caliente fluye hacia arriba, lo que provoca la necesidad de subir la calefacción. Sólo de esta manera la temperatura en el nivel inferior, donde uno pasa mucho más tiempo, será óptima. Además, debido a que el calor no se acumula en el techo, sino debajo de él, utilizar el entresuelo en invierno podría ser problemático, ya que el aire de arriba podría ser simplemente demasiado caliente y seco.
 
-**Keeping the same temperature level in the room and in the mezzanine floor is practically impossible**. For this reason one of the interiors will always be too cold or too hot.
+Mantener el mismo nivel de temperatura en la habitación y en el entresuelo es prácticamente imposible. Por esta razón, uno de los interiores siempre será demasiado frío o demasiado caliente.
 
 {% fig %}
 ![Disadvantages of a mezzanine floor](/uploads/czy-antresola-ma-jakies-wady.jpg "Disadvantages of a mezzanine floor")
 {% endfig %}
 
-Another problem might be caused by the **unusual construction of a mezzanine** floor. Being an open space, it is not fully enclosed, therefore it does not isolate sounds. Music, TV sound or conversations can be heard around the house, which might disturb the peace and privacy.
+Otro problema podría ser causado por la inusual construcción de un entresuelo. Al ser un espacio abierto, no está completamente cerrado, por lo tanto no aísla los sonidos. La música, el sonido de la televisión o las conversaciones pueden ser escuchadas alrededor de la casa, lo que podría perturbar la paz y la privacidad.
 
-Despite several cons, a mezzanine floor is a **very good solution** that might make your home far more functional.
+A pesar de varios inconvenientes, un entresuelo es una muy buena solución que puede hacer que su casa sea mucho más funcional.
 
 {% faqItem %}
 {% faqQuestion %}
-What is a mezzanine?
+¿Qué es un entresuelo?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-A mezzanine, also known as entresol, is a special floor level built in a room. It might consist of one or several interiors. It's typically used in private houses and also in industrial halls and shopping centers.
+Un entresuelo, también conocido como entresuelo, es un nivel de piso especial construido en una habitación. Puede consistir en uno o varios interiores. Se usa típicamente en casas privadas y también en naves industriales y centros comerciales.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to build a mezzanine floor?
+¿Cómo se construye un entresuelo?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Building a mezzanine level is a time consuming, but quite simple process. You might build it yourself or ask a professional to do it for you. Remember that an entresol construction should follow the rules specified by building code so make sure that it is absolutely safe.
+La construcción de un entrepiso es un proceso largo, pero bastante simple. Puedes construirlo tú mismo o pedirle a un profesional que lo haga por ti. Recuerda que una construcción de entresuelo debe seguir las reglas especificadas por el código de construcción, así que asegúrate de que es absolutamente seguro.
 {% endfaqAnswer %}
 
 {% endfaqItem %}
