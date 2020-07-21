@@ -95,14 +95,6 @@ sections:
   templates:
   - blog-post
 - type: directory
-  path: collections/_posts/de
-  label: Posty
-  create: all
-  match: "**/*"
-  new_doc_ext: md
-  templates:
-  - blog-post
-- type: directory
   path: de/recenzje
   label: Rankingi
   create: all

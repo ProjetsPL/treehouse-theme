@@ -21,58 +21,59 @@ toc: true
 promoted: false
 update_date: 2020-07-19
 title: Zimmerpflanzen - Finden Sie die besten Zimmerpflanzen des Jahres 2020
-description: "Are you a plant lover? Do you grow indoor plants? \U0001F331 These fascinating
-  species will amaze you. ➡️ Take a look at the most popular house plants."
-intro: Do you grow potted plants at home? There are certain species that not only
-  look beautiful, but they are also very easy to grow. Learn what species you should
-  add to your green collection and find out how to take care of them. Check what are
-  the most popular house plants of 2020.
+description: "Sind Sie ein Pflanzenliebhaber? Züchten Sie Zimmerpflanzen? \U0001F331
+  Diese faszinierenden Arten werden Sie erstaunen. ➡️ Werfen Sie einen Blick auf die
+  beliebtesten Zimmerpflanzen."
+intro: Züchten Sie zu Hause Topfpflanzen? Es gibt bestimmte Arten, die nicht nur schön
+  aussehen, sondern auch sehr einfach zu züchten sind. Erfahren Sie, welche Arten
+  Sie in Ihre grüne Sammlung aufnehmen sollten, und finden Sie heraus, wie Sie sie
+  pflegen können. Sehen Sie nach, was die beliebtesten Zimmerpflanzen des Jahres 2020
+  sind.
 image: "/uploads/jak-pielegnowac-rosliny-doniczkowe.jpg"
 related_products: []
-published: false
 
 ---
-## House plants – what should you know about them?
+## Zimmerpflanzen - was sollten Sie über sie wissen?
 
-Potted plants have many names – house plants, indoor flowers and so on. They are grown in soil placed in various containers. **House plants are an easy way to introduce the natural environment into closed interiors,** which affects the decor and the mood of anyone staying in there. They also allow to maintain contact with nature, especially in winter.
+Topfpflanzen haben viele Namen - Zimmerpflanzen, Zimmerblumen und so weiter. Sie werden in Erde angebaut, die in verschiedene Behälter gefüllt wird. Zimmerpflanzen sind eine einfache Art und Weise, die natürliche Umgebung in geschlossene Innenräume zu bringen, was sich auf die Einrichtung und die Stimmung eines jeden, der sich dort aufhält, auswirkt. Sie ermöglichen es auch, den Kontakt mit der Natur aufrechtzuerhalten, besonders im Winter.
 
-**House plants can be perennials or annuals**. They usually form traditional flowers with petals or develop vines. They can also take forms of miniature trees.
+Zimmerpflanzen können mehrjährig oder einjährig sein. Sie bilden gewöhnlich traditionelle Blumen mit Blütenblättern oder entwickeln Ranken. Sie können auch die Form von Miniaturbäumen annehmen.
 
-Plants chosen to be grown in pots usually have high aesthetic value, displaying interesting colors, shapes or **unusual way of blooming**. The wide variety of plants of this type makes it easier to pick the one that matches your individual taste.
+Pflanzen, die für den Topfanbau ausgewählt wurden, haben gewöhnlich einen hohen ästhetischen Wert, da sie interessante Farben, Formen oder eine ungewöhnliche Art der Blüte aufweisen. Die große Vielfalt an Pflanzen dieser Art erleichtert es, diejenige auszuwählen, die Ihrem individuellen Geschmack entspricht.
 
 {% fig %}
 ![House plants – what should you know about them?](/uploads/kwiaty-doniczkowe-co-warto-wiedziec.jpg "House plants – what should you know about them?")
 {% endfig %}
 
-## How to take care of house plants?
+## Wie pflegt man Zimmerpflanzen?
 
-As every type of house plant is different, they have various needs. For this reason when you choose particular types of potted plants, make sure to provide the **best conditions to them, for their proper growth and blooming**. There are some general rules that can help you take care of your indoor plants.
+Da jede Art von Zimmerpflanze anders ist, haben sie unterschiedliche Bedürfnisse. Achten Sie deshalb bei der Auswahl bestimmter Topfpflanzentypen darauf, dass Sie ihnen die besten Bedingungen für ihr richtiges Wachstum und ihre Blüte bieten. Es gibt einige allgemeine Regeln, die Ihnen bei der Pflege Ihrer Zimmerpflanzen helfen können.
 
 {% fig %}
 ![How to take care of house plants?](/uploads/rosliny-doniczkowe.jpg "How to take care of house plants?")
 {% endfig %}
 
-One of the most basic rules of plants care is **regular watering.** It's important to water the plants according to the needs of particular species. Most of the potted plants require **intense watering in spring**, as it's the time when they **bloom**.
+Eine der grundlegendsten Regeln der Pflanzenpflege ist regelmässiges Giessen. Es ist wichtig, die Pflanzen entsprechend den Bedürfnissen der einzelnen Arten zu gießen. Die meisten Topfpflanzen müssen im Frühling intensiv gegossen werden, da es die Zeit ist, in der sie blühen.
 
-Spring is the season when potted plants require the most attention. **March and April is the best time for fertilizing.** It will help your plants to bloom and enliven the already existing shoots and roots. Spring is also a good time for repotting too large house plants into bigger containers – or **dividing them into smaller parts**.
+Der Frühling ist die Jahreszeit, in der Topfpflanzen die meiste Aufmerksamkeit benötigen. März und April ist die beste Zeit für die Düngung. Sie hilft Ihren Pflanzen beim Blühen und belebt die bereits vorhandenen Triebe und Wurzeln. Der Frühling ist auch eine gute Zeit, um zu grosse Zimmerpflanzen in grössere Gefässe umzutopfen - oder sie in kleinere Teile zu teilen.
 
-You should keep the **the house plants leaves clean** throughout the whole year. Sprinkle their surface with clean water weekly, especially in winter when the air is more dry due to central heating.
+Sie sollten die Blätter der Zimmerpflanzen das ganze Jahr über sauber halten. Besprühen Sie ihre Oberfläche wöchentlich mit sauberem Wasser, vor allem im Winter, wenn die Luft wegen der Zentralheizung trockener ist.
 
 {:.distinction.distinction-information}
-Keep your plants in good condition in the autumn as well. It's the best time to prepare them for their winter rest. Avoid fertilizing the house plants in autumn – you should wait until spring.
+Halten Sie Ihre Pflanzen auch im Herbst in gutem Zustand. Es ist die beste Zeit, um sie auf ihre Winterruhe vorzubereiten. Vermeiden Sie es, die Zimmerpflanzen im Herbst zu düngen - Sie sollten bis zum Frühjahr warten.
 
-## What house plants are worth having?
+## Welche Zimmerpflanzen sind es wert, dass man sie hat?
 
-**The best potted plants** that you can grow in your household are the ones that do not require too much attention and everyday care. This is an easy way to make your house plants a **magnificent** **decoration**, while putting as little effort as possible or in case you forget to water them.
+Die besten Topfpflanzen, die Sie in Ihrem Haushalt züchten können, sind diejenigen, die nicht allzu viel Aufmerksamkeit und tägliche Pflege benötigen. Dies ist eine einfache Möglichkeit, Ihre Zimmerpflanzen mit möglichst wenig Aufwand zu einer prächtigen Dekoration zu machen, oder falls Sie vergessen haben, sie zu gießen.
 
-Before making a decision which indoor plants to choose, pay attention not only to their appearance, but also to their practical properties that you could use. See the most **popular house plants** that are absolute must-haves in 2020:
+Bevor Sie sich für eine Zimmerpflanze entscheiden, achten Sie nicht nur auf ihr Aussehen, sondern auch auf ihre praktischen Eigenschaften, die Sie nutzen könnten. Sehen Sie sich die beliebtesten Zimmerpflanzen an, die im Jahr 2020 ein absolutes Muss sind:
 
 {:.list.list-positive}
 
-* **Geranium** – it is one of the most popular ornamental flowers. It is a house plant, although your put it outside. It is typically grown **on balconies and windowsills**. Geraniums are not only aesthetically-pleasing, as they bloom in beautiful, intense colors, but also have a lot of practical uses. The essential oil that can be found in the leaves is used for therapeutic massages, inhalations and baths. It has **antibacterial and anti-inflammatory** properties.
+* Geranie - sie ist eine der beliebtesten Zierblumen. Sie ist eine Zimmerpflanze, auch wenn man sie nach draußen stellt. Sie wird typischerweise auf Balkonen und Fensterbänken angebaut. Geranien sind nicht nur ästhetisch ansprechend, da sie in schönen, intensiven Farben blühen, sondern haben auch viele praktische Verwendungsmöglichkeiten. Das ätherische Öl, das in den Blättern zu finden ist, wird für therapeutische Massagen, Inhalationen und Bäder verwendet. Es hat antibakterielle und entzündungshemmende Eigenschaften.
 
 {:.distinction.distinction-information}
-You can also use a geranium in the kitchen – for instance adding its chopped leaves to tea or to meals and desserts.
+Sie können eine Geranie auch in der Küche verwenden - zum Beispiel ihre gehackten Blätter zum Tee oder zu Mahlzeiten und Desserts hinzufügen.
 
 {% fig %}
 
@@ -88,7 +89,7 @@ You can also use a geranium in the kitchen – for instance adding its chopped l
 
 {:.list.list-positive}
 
-* **Dracaena** – a very popular houseplant. It requires minimal attention and care, therefore it's recommended for those who **don't have time for taking care of plants everyday.** It's a perfect potted plant for busy or forgetful homeowners. Being neglected is not an issue for it, contrary to other indoor plants.
+* Dracaena - eine sehr beliebte Zimmerpflanze. Sie erfordert nur minimale Aufmerksamkeit und Pflege, deshalb wird sie für diejenigen empfohlen, die keine Zeit haben, sich täglich um die Pflanzen zu kümmern. Sie ist eine perfekte Topfpflanze für vielbeschäftigte oder vergessliche Hausbesitzer. Vernachlässigt zu werden, ist für sie kein Thema, im Gegensatz zu anderen Zimmerpflanzen.
 
 {% fig %}
 
@@ -98,7 +99,7 @@ You can also use a geranium in the kitchen – for instance adding its chopped l
 
 {:.list.list-positive}
 
-* **Fern** – a very common in the past, nowadays fern has been forgotten a little. Now it comes back. This popular house plant has a soothing effect for a human organism, thanks to its intense green color. In addition, its leaves work as a natural air purifier. This potted plant **neutralizes signals emitted from electronical devices** that are in the room. It's an ideal indoor plant for a living room or an office.
+* Farn - früher sehr verbreitet, heute ist der Farn etwas in Vergessenheit geraten. Jetzt kommt er wieder zurück. Diese beliebte Zimmerpflanze hat dank ihrer intensiven grünen Farbe eine beruhigende Wirkung auf den menschlichen Organismus. Darüber hinaus wirken seine Blätter als natürlicher Luftreiniger. Diese Topfpflanze neutralisiert Signale, die von elektronischen Geräten, die sich im Raum befinden, ausgesendet werden. Sie ist eine ideale Zimmerpflanze für ein Wohnzimmer oder ein Büro.
 
 {% fig %}
 ![Fern](/uploads/paproc-roslina-doniczkowa.jpg "Fern")
@@ -106,7 +107,7 @@ You can also use a geranium in the kitchen – for instance adding its chopped l
 
 {:.list.list-positive}
 
-* **Peace lily** – a unique houseplant that can act as **an air purifier replacement**. The plant filters air naturally, absorbing harmful toxins from the air. Peace lilies are perfect indoor plants. They are highly recommended for people suffering from respiratory issues such as asthma.
+* Friedenslilie - eine einzigartige Zimmerpflanze, die als Ersatz für einen Luftreiniger dienen kann. Die Pflanze filtert die Luft auf natürliche Weise und absorbiert schädliche Giftstoffe aus der Luft. Die Friedenslilie ist eine perfekte Zimmerpflanze. Sie sind sehr empfehlenswert für Menschen, die an Atemwegserkrankungen wie Asthma leiden.
 
 {% fig %}
 
@@ -116,7 +117,7 @@ You can also use a geranium in the kitchen – for instance adding its chopped l
 
 {:.list.list-positive}
 
-* **Aloe vera** – it's an indoor plant, often praised for its many uses. Aloe vera juice is **rich in vitamins and minerals**, and it has healing properties. **Fresh aloe juice helps with swelling, bug bites, as well as acne**. Thanks to its anti-inflammatory properties, it also aids gastrointestinal system treatment. It's an indoor plant definitely worth having in every household.
+* Aloe Vera - es ist eine Zimmerpflanze, die oft für ihre vielen Verwendungsmöglichkeiten gelobt wird. Aloe Vera-Saft ist reich an Vitaminen und Mineralien, und er hat heilende Eigenschaften. Frischer Aloe Vera-Saft hilft bei Schwellungen, Insektenstichen und Akne. Dank seiner entzündungshemmenden Eigenschaften hilft er auch bei der Behandlung des Magen-Darm-Systems. Es ist eine Zimmerpflanze, die es definitiv wert ist, in jedem Haushalt zu haben.
 
 {% fig %}
 
@@ -124,42 +125,42 @@ You can also use a geranium in the kitchen – for instance adding its chopped l
 
 {% endfig %}
 
-## House plants that are always trendy
+## Zimmerpflanzen, die immer im Trend liegen
 
-There are certain potted plants that **have been highly popular** for many seasons and it doesn't look like the trend is going to end. What house plants should one choose to **create a** **stylish and elegant interior**? Find some suggestions below.
+Es gibt bestimmte Topfpflanzen, die seit vielen Jahreszeiten sehr beliebt sind, und es sieht nicht so aus, als würde der Trend enden. Welche Zimmerpflanzen sollte man wählen, um eine stilvolle und elegante Einrichtung zu schaffen? Unten finden Sie einige Vorschläge.
 
-### Monstera – turn your house into a jungle
+### Monstera - verwandeln Sie Ihr Haus in einen Dschungel
 
-Monstera is one of the most popular and at the same time **the most impressive potted plants**. Using it, you can create your own exotic garden in your house.
+Monstera ist eine der beliebtesten und zugleich beeindruckendsten Topfpflanzen. Mit ihr können Sie Ihren eigenen exotischen Garten in Ihrem Haus anlegen.
 
-Monstera is a perfect **potted plant** for everyone. It not only looks very interesting, but it is also very easy to take care of. Monstera is an ideal addition to current trends. If you're planning to create your own urban jungle, consider adding a monstera to your collection.
+Monstera ist eine perfekte Topfpflanze für jedermann. Sie sieht nicht nur sehr interessant aus, sondern ist auch sehr pflegeleicht. Monstera ist eine ideale Ergänzung zu den aktuellen Trends. Wenn Sie planen, Ihren eigenen Großstadtdschungel zu schaffen, sollten Sie in Erwägung ziehen, eine Monstera zu Ihrer Sammlung hinzuzufügen.
 
 {% fig %}
 ![Monstera – turn your house into jungle](/uploads/monstera-kwiat-dla-milosnikow-egzotyki.jpg "Monstera – turn your house into jungle")
 {% endfig %}
 
-### Potted cactus – natural minimalism in your interior
+### Topfkaktus - natürlicher Minimalismus in Ihrem Interieur
 
-Cactus is a very popular and **timeless ornamental indoor plant**. Its most interesting feature is the fact that it's entirely covered with spikes.
+Der Kaktus ist eine sehr beliebte und zeitlose Zierpflanze für Innenräume. Ihr interessantestes Merkmal ist die Tatsache, dass sie vollständig mit Stacheln bedeckt ist.
 
 {% fig %}
 ![Potted cactus – natural minimalism in your interior](/uploads/kaktus-doniczkowy.jpg "Potted cactus – natural minimalism in your interior")
 {% endfig %}
 
-A cactus is a plant naturally growing on hot and dry deserts, therefore it requires **minimal effort**. For this reason cacti are perfect for anyone who cannot really take care of plants or often **forgets about watering them**. Because of their great ability to adapt to any conditions, homeowners often choose them to be their house plants.
+Ein Kaktus ist eine Pflanze, die von Natur aus in heißen und trockenen Wüsten wächst und daher nur minimalen Aufwand erfordert. Aus diesem Grund sind Kakteen perfekt für alle, die sich nicht wirklich um die Pflanzen kümmern können oder oft vergessen, sie zu gießen. Wegen ihrer großen Anpassungsfähigkeit an alle Bedingungen wählen Hausbesitzer sie oft als ihre Zimmerpflanzen.
 
-**There are many types of cacti to choose from**. There is always at least a dozen of the most popular ones in a typical gardening shop. You will surely find the one that suits you perfectly.
+Es gibt viele Kakteenarten, aus denen man wählen kann. In einem typischen Gartenbaubetrieb gibt es immer mindestens ein Dutzend der beliebtesten Kakteen. Sie werden sicher diejenige finden, die perfekt zu Ihnen passt.
 
 {:.distinction.distinction-information}
-Cacti can survive being neglected very well. For this reason they are ideal for people who are not capable of taking care of plants but they still want to have them in their house.
+Kakteen können sehr gut überleben, wenn sie vernachlässigt werden. Deshalb sind sie ideal für Menschen, die nicht in der Lage sind, sich um Pflanzen zu kümmern, die sie aber trotzdem in ihrem Haus haben möchten.
 
-### Orchids... potted plants that delight everyone
+### Orchideen... Topfpflanzen, die jeden erfreuen
 
-**Orchids** are exceptionally beautiful plants that are perfect for the role of potted plants. It's a very popular and praised species among house plants lovers, and they are decorations in many homes. Those universal plants look trendy in any interior, during any season.
+Orchideen sind außergewöhnlich schöne Pflanzen, die sich perfekt für die Rolle der Topfpflanzen eignen. Sie ist eine unter Hauspflanzenliebhabern sehr beliebte und gepriesene Art, und sie sind in vielen Häusern eine Dekoration. Diese universellen Pflanzen sehen in jedem Interieur, zu jeder Jahreszeit trendy aus.
 
-There are several types of orchids with different **petal colors**. The most popular colors are white, pink, purple and blue.
+Es gibt mehrere Arten von Orchideen mit verschiedenen Blütenblattfarben. Die beliebtesten Farben sind weiß, rosa, violett und blau.
 
-Growing orchids is not very complicated, although it **requires following a few rules.** By putting enough effort, the owner can enjoy its beauty for many years.
+Das Züchten von Orchideen ist nicht sehr kompliziert, obwohl es die Einhaltung einiger Regeln erfordert. Wenn sich der Besitzer genügend Mühe gibt, kann er sich viele Jahre lang an der Schönheit der Orchidee erfreuen.
 
 {% fig %}
 ![Orchids... potted plants that delight everyone](/uploads/orchidea.jpg "Orchids... potted plants that delight everyone")
@@ -167,32 +168,32 @@ Growing orchids is not very complicated, although it **requires following a few 
 
 {% faqItem %}
 {% faqQuestion %}
-Where to buy houseplants?
+Wo kann man Zimmerpflanzen kaufen?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-If you are looking for new house plants, try visiting a gardening shop. You can find high quality plant for your home there. Alternatively, supermarkets often offer cheap potted plants, so keep an eye for them while doing grocery shopping.
+Wenn Sie auf der Suche nach neuen Zimmerpflanzen sind, versuchen Sie, ein Gartengeschäft zu besuchen. Dort können Sie hochwertige Pflanzen für Ihr Zuhause finden. Alternativ bieten Supermärkte oft billige Topfpflanzen an. Achten Sie also beim Einkaufen auf diese Pflanzen.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How often to water houseplants?
+Wie oft sollen die Zimmerpflanzen gegossen werden?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-You should adjust watering your plants to their individual needs, as each species requires a different kind of care. Most plants need watering once or twice a week. Keep in mind that in winter the air is more dry, so make sure to water them more often.
+Sie sollten die Bewässerung Ihrer Pflanzen an ihre individuellen Bedürfnisse anpassen, da jede Art eine andere Art der Pflege erfordert. Die meisten Pflanzen müssen ein- oder zweimal pro Woche gegossen werden. Denken Sie daran, dass die Luft im Winter trockener ist, gießen Sie sie also öfter.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How cold is too cold for houseplants?
+Wie kalt ist zu kalt für Zimmerpflanzen?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
 
-Any temperature lower than 15 Celsius degrees (60 F) might be harmful for indoor plants. Most house plants are native to tropical climates, therefore room temperature is best for them. The cold might damage delicate potted plants.
+Jede Temperatur unter 15 Grad Celsius (60 F) kann für Zimmerpflanzen schädlich sein. Die meisten Zimmerpflanzen sind in tropischen Klimazonen beheimatet, daher ist Raumtemperatur für sie am besten geeignet. Die Kälte kann empfindlichen Topfpflanzen schaden.
 
 {% endfaqAnswer %}
 
@@ -200,10 +201,10 @@ Any temperature lower than 15 Celsius degrees (60 F) might be harmful for indoor
 
 {% faqItem %}
 {% faqQuestion %}
-What are the best houseplants for low light?
+Was sind die besten Zimmerpflanzen für schlechtes Licht?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-If your room is dark, search for plants that natively grow in the lower parts of forests. You might choose peace lily or any type of fern. Other species to consider are dracaena, snake plant and zamioculcas - they are very good for bedrooms.
+Wenn Ihr Zimmer dunkel ist, suchen Sie nach Pflanzen, die in den unteren Teilen der Wälder heimisch sind. Sie können sich für die Friedenslilie oder jede Art von Farn entscheiden. Andere Arten, die Sie in Betracht ziehen sollten, sind Dracaena, Schlangenpflanzen und Zamioculcas - sie eignen sich sehr gut für Schlafzimmer.
 {% endfaqAnswer %}
 {% endfaqItem %}
