@@ -3,18 +3,19 @@ layout: post
 date: 2020-07-21
 toc: true
 title: Holzkohlegrau - Sehen Sie sich den neuesten Trend in der Wohnkultur 2020 an
-description: "Dreaming of a classy color to make your interior look stylish? \U0001F3D8️
-  Charcoal grey is the latest trend in interior design! \U0001F449 Learn the secret
-  to its popularity!"
+description: "Träumen Sie von einer edlen Farbe, um Ihr Interieur stilvoll zu gestalten?
+  \U0001F3D8️ Holzkohlengrau ist der neueste Trend in der Innenarchitektur! \U0001F449
+  Erfahren Sie das Geheimnis seiner Beliebtheit!"
 image: "/uploads/moda-na-antracyt.png"
 promoted: false
 update_date: 2020-07-21
-intro: Charcoal is a versatile color that can be used for many purposes. It is usually
-  described as a mix of grey with a trace of black or navy blue. Very often mistaken
-  for graphite, in reality it is a completely different, unique shade. Charcoal can
-  be used as a neutral background color, as well as a strong accent, it's perfect
-  for walls, furniture, accessories and flooring. Charcoal color is a very popular
-  color in 2020.
+intro: Holzkohle ist eine vielseitige Farbe, die für viele Zwecke verwendet werden
+  kann. Sie wird gewöhnlich als eine Mischung aus Grau mit einer Spur von Schwarz
+  oder Marineblau beschrieben. Sehr oft wird sie mit Graphit verwechselt, in Wirklichkeit
+  handelt es sich um einen völlig anderen, einzigartigen Farbton. Holzkohle kann sowohl
+  als neutrale Hintergrundfarbe als auch als starker Akzent verwendet werden, sie
+  eignet sich perfekt für Wände, Möbel, Accessoires und Bodenbeläge. Kohlefarbe ist
+  eine sehr beliebte Farbe im Jahr 2020.
 main_keywords:
 - Holzkohle
 - Kohlefarbe
@@ -22,46 +23,45 @@ main_keywords:
 - kohlegrau
 - welche Farbe ist Holzkohle
 - welche Farbe zu Anthrazit passt
-published: false
 
 ---
-## Charcoal - what color is it, exactly?
+## Holzkohle - welche Farbe hat sie genau?
 
-**Charcoal color** is sometimes called graphite or anthracite color. For some people it's a dusky shade associated with **coal made of wood** or hard, mined coal and other sedimentary rocks. In HEX color code charcoal is known as #364135, in RAL - 7016. Charcoal is a **unique mixture** of grey and black.
+Kohlefarbe wird manchmal als Graphit- oder Anthrazitfarbe bezeichnet. Für einige Leute ist es ein dämmriger Farbton, der mit Kohle aus Holz oder harter, abgebauter Kohle und anderen Sedimentgesteinen assoziiert wird. Im HEX-Farbcode ist Holzkohle als #364135 bekannt, in RAL - 7016. Holzkohle ist eine einzigartige Mischung aus Grau und Schwarz.
 
-Charcoal is a very intriguing color. Why is it so popular? It is very close to black, however it is noticeably brighter. It's one of the darkest tones of gray - and this feature makes it special.
+Holzkohle ist eine sehr faszinierende Farbe. Warum ist sie so beliebt? Sie kommt dem Schwarz sehr nahe, ist aber deutlich heller. Sie ist einer der dunkelsten Grautöne - und diese Eigenschaft macht sie zu etwas Besonderem.
 
-## Charcoal – a suitable color for home decor?
+## Holzkohle - eine geeignete Farbe für die Wohnungseinrichtung?
 
-Charcoal is a color that works perfectly in home interiors. This is the reason why this particular shade of gray gained so much popularity in the recent years. Nonetheless, it's a difficult color to use.Combining **charcoal with other home decor elements** should be done very carefully and skillfully. It's very easy to overwhelm the room with too much of this dark shade. Charcoal works best in spacious and well illuminated interiors. If the room is quite small, however, it does not mean that you should avoid the color. In this case it is better to use charcoal accessories rather than paint the walls.
+Holzkohle ist eine Farbe, die in Innenräumen perfekt funktioniert. Dies ist der Grund, warum dieser besondere Grauton in den letzten Jahren so viel Popularität gewonnen hat. Nichtsdestotrotz ist diese Farbe schwierig zu verwenden. Die Kombination von Holzkohle mit anderen Elementen der Inneneinrichtung sollte sehr sorgfältig und gekonnt erfolgen. Es ist sehr leicht, den Raum mit zu viel von diesem dunklen Farbton zu überladen. Holzkohle funktioniert am besten in geräumigen und gut beleuchteten Innenräumen. Wenn der Raum recht klein ist, bedeutet das jedoch nicht, dass man die Farbe meiden sollte. In diesem Fall ist es besser, Holzkohlezubehör zu verwenden, als die Wände zu streichen.
 
-If your home is spacious but you have no idea how to use charcoal - refer to the help of a specialist. Contact a competent person, explain them what exactly you expect and **wait for a project fitted for your needs.** This solution is becoming increasingly popular among those who want to use charcoal color in their homes.
+Wenn Ihr Haus geräumig ist, Sie aber keine Ahnung haben, wie man Holzkohle verwendet - lassen Sie sich von einem Fachmann helfen. Wenden Sie sich an eine kompetente Person, erklären Sie ihr, was genau Sie erwarten und warten Sie auf ein Projekt, das Ihren Bedürfnissen entspricht. Diese Lösung wird immer beliebter bei denjenigen, die Holzkohlefarbe in ihrer Wohnung verwenden wollen.
 
 {% fig %}
 ![Charcoal - what color is it, exactly?](/uploads/antracyt-co-to-za-kolor.jpg "Charcoal - what color is it, exactly?")
 {% endfig %}
 
-## What style works best with charcoal color?
+## Welcher Stil funktioniert am besten mit Kohlefarbe?
 
-As mentioned before, charcoal is quite a universal shade. For this reason it can be easily suited to basically any interior design. It fits modern styles, such as **scandinavian, industrial and minimalistic**. If combined well, charcoal can make a room look special and unique, accentuating particular elements.
+Wie bereits erwähnt, ist Holzkohle ein recht universeller Farbton. Aus diesem Grund kann sie sich leicht an praktisch jede Inneneinrichtung anpassen. Sie passt zu modernen Stilen wie skandinavisch, industriell und minimalistisch. Wenn sie gut kombiniert wird, kann Holzkohle einen Raum besonders und einzigartig aussehen lassen und bestimmte Elemente hervorheben.
 
-## Charcoal walls - a good idea?
+## Mauern aus Holzkohle - eine gute Idee?
 
-Charcoal is a color that looks perfect on walls - both in a house and in a small apartment. The only thing is to use it carefully and tastefully.
+Holzkohle ist eine Farbe, die an Wänden perfekt aussieht - sowohl in einem Haus als auch in einer kleinen Wohnung. Das Einzige, was man tun muss, ist, sie sorgfältig und geschmackvoll zu verwenden.
 
-Charcoal was rarely used as a wall color in the past. The dark shade could have seemed not very interesting and too strong. If used well, however, charcoal can be perfect for any type of interior.
+In der Vergangenheit wurde Holzkohle nur selten als Wandfarbe verwendet. Der dunkle Farbton hätte nicht sehr interessant und zu stark erscheinen können. Wenn sie jedoch gut verwendet wird, kann Holzkohle perfekt zu jeder Art von Einrichtung passen.
 
 {:.distinction.distinction-information}
-It’s a highly adaptable color, which can be used in any modern style rooms - in kitchens, bathrooms, bedrooms and offices.
+Es handelt sich um eine äußerst anpassungsfähige Farbe, die in allen Räumen im modernen Stil verwendet werden kann - in Küchen, Badezimmern, Schlafzimmern und Büros.
 
 {% fig %}
 ![Charcoal walls - a good idea?](/uploads/antracyt-na-scianach-czy-to-dobry-pomysl.jpg "Charcoal walls - a good idea?")
 {% endfig %}
 
-Charcoal works best as a wall colour in spacious and bright interiors. Such a room should be well illuminated with lots of natural light. The best rooms in which you can use charcoal paint are located on **eastern, south-eastern and western side** of a building. You shouldn’t color northern rooms with charcoal paint - they might look too dark and cold in such arrangements. In such cases it is better to combine the shade with brighter ones.
+Holzkohle eignet sich am besten als Wandfarbe in geräumigen und hellen Innenräumen. Ein solcher Raum sollte gut beleuchtet sein und viel natürliches Licht haben. Die besten Räume, in denen Sie Holzkohlefarbe verwenden können, befinden sich an der Ost-, Südost- und Westseite eines Gebäudes. Nördliche Räume sollten Sie nicht mit Kohlefarbe ausmalen - sie könnten in solchen Anordnungen zu dunkel und kalt aussehen. In solchen Fällen ist es besser, den Farbton mit helleren Farbtönen zu kombinieren.
 
 {:.distinction.distinction-warning}
-If the room is very small, you shouldn’t paint the walls charcoal. Such a dark shade would overwhelm the already small space. A better idea is to paint the walls in different, brighter color that makes the room look bigger. You can use charcoal accessories instead - as accent elements.
+Wenn der Raum sehr klein ist, sollten Sie die Wände nicht mit Holzkohle streichen. Ein solch dunkler Farbton würde den ohnehin schon kleinen Raum überfordern. Eine bessere Idee ist es, die Wände in einer anderen, helleren Farbe zu streichen, die den Raum größer erscheinen lässt. Sie können stattdessen Holzkohlezubehör verwenden - als Akzentelemente.
 
 {% fig %}
 ![Charcoal walls - a good idea? 1](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-1.jpg "Charcoal walls - a good idea? 1")
@@ -71,37 +71,37 @@ If the room is very small, you shouldn’t paint the walls charcoal. Such a dark
 ![Charcoal walls - a good idea? 2](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-2.jpg "Charcoal walls - a good idea? 2")
 {% endfig %}
 
-### Charcoal walls - how to cover them to avoid surprises?
+### Holzkohlewände - wie man sie verkleidet, um Überraschungen zu vermeiden?
 
-Thinking of charcoal color walls, you’re probably imagining a charcoal paint. If you decide to use such a product, choose a **semi-gloss finish** for the best results. Feeling anxious that the color could overwhelm the room? You can always decide to paint only one accent wall in the dark shade and the rest in a brighter color (e.g. white).
+Wenn Sie an kohlefarbene Wände denken, stellen Sie sich wahrscheinlich eine Kohlefarbe vor. Wenn Sie sich für ein solches Produkt entscheiden, wählen Sie für die besten Ergebnisse eine halbglänzende Oberfläche. Befürchten Sie, dass die Farbe den Raum überwältigen könnte? Sie können sich immer dafür entscheiden, nur eine Akzentwand im dunklen Farbton zu streichen und den Rest in einer helleren Farbe (z.B. Weiß).
 
 {% fig %}
 ![Charcoal walls - how to cover them to avoid surprises?](/uploads/kolor-antracytowy-jak-pokryc-sciany.jpg "Charcoal walls - how to cover them to avoid surprises?")
 {% endfig %}
 
-Although wallpapers still seem out-fashioned, you should consider choosing this type of product to cover your walls. Wallpapers are becoming trendy again and manufacturers offer a lot of interesting designs, also charcoal. A good product with a nice texture might be a nice decoration for your room.
+Obwohl Tapeten nach wie vor unmodern erscheinen, sollten Sie in Erwägung ziehen, diese Art von Produkt zur Verkleidung Ihrer Wände zu wählen. Tapeten liegen wieder im Trend, und die Hersteller bieten viele interessante Designs an, auch Holzkohle. Ein gutes Produkt mit einer schönen Textur könnte eine schöne Dekoration für Ihr Zimmer sein.
 
 {:.distinction.distinction-information}
-Instead of using an ordinary paint, you could use a chalkboard paint in charcoal color. Thanks to this solution you can write on walls with chalk, which might be useful in places such as kitchen, office and children’s room.
+Statt einer gewöhnlichen Farbe können Sie auch eine Kreidekreidefarbe in Holzkohlefarbe verwenden. Dank dieser Lösung können Sie mit Kreide auf Wände schreiben, was an Orten wie Küche, Büro und Kinderzimmer nützlich sein könnte.
 
-### Accessories for dark walls
+### Zubehör für dunkle Wände
 
-If the walls are painted charcoal, it is best to choose furniture and decorations in contrasting colors. The safest complimentary colors are white, beige, and also strong black. Charcoal also works well with light brown - therefore it is good to choose accessories in the color of natural wood. It is a particularly good solution for an interior in **scandinavian style**, which favours natural textures.
+Wenn die Wände mit Holzkohle gestrichen sind, ist es am besten, Möbel und Dekorationen in Kontrastfarben zu wählen. Die sichersten Komplementärfarben sind Weiß, Beige und auch kräftiges Schwarz. Holzkohle funktioniert auch gut mit hellem Braun - daher ist es gut, Accessoires in der Farbe von Naturholz zu wählen. Es ist eine besonders gute Lösung für ein Interieur im skandinavischen Stil, das natürliche Texturen bevorzugt.
 
 {:.distinction.distinction-information}
-A highly intriguing idea for a living room with charcoal walls is a sofa in a strong color, for instance blue or yellow. It makes the room look more vivid, and **charcoal walls bring out the strong color of the sofa**.
+Eine hochinteressante Idee für ein Wohnzimmer mit Holzkohlewänden ist ein Sofa in einer kräftigen Farbe, zum Beispiel blau oder gelb. Dadurch wirkt der Raum lebendiger, und die Kohlewände bringen die kräftige Farbe des Sofas zur Geltung.
 
 {% fig %}
 ![Accessories for dark walls](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-3.jpg "Accessories for dark walls")
 {% endfig %}
 
-### Charcoal as an accent on a bright wall
+### Holzkohle als Akzent an einer hellen Wand
 
-Charcoal is not always a suitable color for a wall. It does not mean that you have to abandon the idea of using it in your interior design. Luckily for you - charcoal is a perfect **accent color.**
+Holzkohle ist nicht immer eine geeignete Farbe für eine Wand. Das bedeutet aber nicht, dass Sie die Idee aufgeben müssen, sie in Ihrer Inneneinrichtung zu verwenden. Zum Glück für Sie - Holzkohle ist eine perfekte Akzentfarbe.
 
-If the interior is bright, choose dark **charcoal gray accessories** - for instance curtains and cushions. For small furniture pieces - pick charcoal chairs, coffee tables and lamps.
+Wenn das Interieur hell ist, wählen Sie dunkle anthrazitfarbene Accessoires - zum Beispiel Vorhänge und Kissen. Für kleine Möbelstücke - wählen Sie anthrazitfarbene Stühle, Couchtische und Lampen.
 
-{:.distinction.distinction-information} Elements such as dark grey doors, radiators and windows are perfect for accentuating the room design. They make it look more vivid and give it a unique character.
+{:.distinction.distinction-information} Elemente wie dunkelgraue Türen, Heizkörper und Fenster eignen sich hervorragend, um die Raumgestaltung zu akzentuieren. Sie lassen den Raum lebendiger wirken und verleihen ihm einen einzigartigen Charakter.
 
 {% fig %}
 ![Charcoal as an accent on a bright wall](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-1-1.jpg "Charcoal as an accent on a bright wall")
@@ -111,14 +111,14 @@ If the interior is bright, choose dark **charcoal gray accessories** - for insta
 ![Charcoal as an accent on a bright wall 1](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-7-1.jpg "Charcoal as an accent on a bright wall 1")
 {% endfig %}
 
-## Charcoal furniture - home decor trend of 2020
+## Holzkohlemöbel - Wohnkulturtrend 2020
 
-Charcoal furniture is one of the most popular interior design trends in 2020. If you are planning a renovation and looking for an inspiration - we might be able to help you.
+Holzkohlemöbel sind einer der beliebtesten Inneneinrichtungstrends im Jahr 2020. Wenn Sie eine Renovierung planen und eine Inspiration suchen - wir können Ihnen vielleicht helfen.
 
-If you think that covering your walls with charcoal paint is rather too much, you could decide to buy furniture in that color. They might be a great accent for an interior. Because **charcoal grey is a strong color**, you should choose furniture of simple, not very decorative design. Geometrical forms are the best in this case.
+Wenn Sie der Meinung sind, dass die Verkleidung Ihrer Wände mit Holzkohlefarbe etwas zu viel ist, könnten Sie sich entscheiden, Möbel in dieser Farbe zu kaufen. Sie könnten ein toller Akzent für ein Interieur sein. Da Holzkohlegrau eine kräftige Farbe ist, sollten Sie Möbel von einfachem, nicht sehr dekorativem Design wählen. Geometrische Formen sind in diesem Fall die besten.
 
 {:.distinction.distinction-information}
-Charcoal furniture looks best on light, neutral backgrounds. Such an arrangement highlights the strong color, which is already a decorative element.
+Holzkohlemöbel sehen auf hellen, neutralen Hintergründen am besten aus. Eine solche Anordnung unterstreicht die starke Farbe, die bereits ein dekoratives Element ist.
 
 {% fig %}
 ![Charcoal furniture - home decor trend of 2020](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-7.jpg "Charcoal furniture - home decor trend of 2020")
@@ -132,25 +132,25 @@ Charcoal furniture looks best on light, neutral backgrounds. Such an arrangement
 ![Charcoal furniture - home decor trend of 2020 2](/uploads/meble-w-kolorze-antracytu.jpg "Charcoal furniture - home decor trend of 2020 2")
 {% endfig %}
 
-### What are the rules when fitting charcoal furniture?
+### Was sind die Regeln für die Montage von Holzkohlemöbeln?
 
-Although, as it has been said, charcoal is a universal color, there are some rules that one should refer to.
+Obwohl Holzkohle, wie bereits gesagt wurde, eine universelle Farbe ist, gibt es einige Regeln, auf die man sich beziehen sollte.
 
-For the shared parts of a house you could choose a mid-century modern charcoal sofa. When choosing furniture, especially charcoal colored, pick smooth and simple textures. Consider matching contrasting colors, for instance a charcoal sofa and white armchairs. Charcoal grey is also a **perfect color for modern kitchens**. Dark grey cabinets matched with light accessories are always a good choice. You might also opt for dark tabletops contrasting with white cupboards.
+Für die gemeinsamen Teile eines Hauses könnte man ein modernes Holzkohlesofa aus der Mitte des Jahrhunderts wählen. Wählen Sie bei der Wahl der Möbel, insbesondere bei anthrazitfarbenen Möbeln, glatte und einfache Texturen. Denken Sie daran, kontrastierende Farben zu kombinieren, zum Beispiel ein Holzkohlesofa und weiße Sessel. Holzkohlegrau ist auch eine perfekte Farbe für moderne Küchen. Dunkelgraue Schränke in Kombination mit hellem Zubehör sind immer eine gute Wahl. Sie können sich auch für dunkle Tischplatten entscheiden, die mit weißen Schränken kontrastieren.
 
 {% fig %}
 ![Charcoal - what accessories?](/uploads/antracyt-jakie-dodatki.jpg "Charcoal - what accessories?")
 {% endfig %}
 
-## Charcoal living room? Don’t shy away from bold solutions!
+## Wohnzimmer mit Holzkohle? Scheuen Sie nicht vor mutigen Lösungen zurück!
 
-A charcoal living room, according to many experts in interior design, is a fantastic solution for everyone who is not scared of bold decisions.
+Ein Wohnzimmer aus Holzkohle ist nach Meinung vieler Experten für Innenarchitektur eine fantastische Lösung für alle, die keine Angst vor mutigen Entscheidungen haben.
 
-A color like this works great in big spaces, and there are practically endless possibilities to use it. How to use charcoal in a living room? Find the most interesting solutions below!
+Eine Farbe wie diese funktioniert großartig in großen Räumen, und es gibt praktisch endlose Möglichkeiten, sie einzusetzen. Wie verwendet man Holzkohle in einem Wohnzimmer? Finden Sie unten die interessantesten Lösungen!
 
-### Charcoal to accentuate sofa and armchairs
+### Holzkohle zur Akzentuierung von Sofa und Sesseln
 
-A focal point of a typical living room is the part where sofa or armchairs stand - or, in many cases, both. Those elements look fantastic in charcoal.
+Ein Brennpunkt eines typischen Wohnzimmers ist der Teil, in dem Sofa oder Sessel stehen - oder in vielen Fällen beides. Diese Elemente sehen in Holzkohle fantastisch aus.
 
 {% fig %}
 ![Charcoal to accentuate sofa and armchairs](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-7-4.jpg "Charcoal to accentuate sofa and armchairs")
@@ -160,46 +160,46 @@ A focal point of a typical living room is the part where sofa or armchairs stand
 ![Charcoal to accentuate sofa and armchairs 1](/uploads/sofa-i-fotele-antracyt-doskonale-podkresli-ich-urok.jpg "Charcoal to accentuate sofa and armchairs 1")
 {% endfig %}
 
-In this case choosing such a color may serve two purposes. First, it is introducing elegance and making the interior look more classy. The other function is simply keeping the furniture clean. It is much easier with a dark coloured sofa than with, for instance, a white one.
+In diesem Fall kann die Wahl einer solchen Farbe zwei Zwecken dienen. Erstens führt sie Eleganz ein und lässt das Interieur stilvoller erscheinen. Die andere Funktion besteht einfach darin, die Möbel sauber zu halten. Mit einem Sofa in dunkler Farbe ist es viel einfacher als zum Beispiel mit einem weißen Sofa.
 
-### Charcoal grey coffee tables
+### Holzkohlengraue Couchtische
 
-Coffee tables are making a big comeback in our homes. They are becoming increasingly popular - especially the charcoal ones.
+Kaffeetische erleben bei uns zu Hause ein großes Comeback. Sie erfreuen sich immer größerer Beliebtheit - vor allem die Holzkohle-Couchtische.
 
-Not only classic, round coffee tables are getting attention. **Furniture of unusual shapes is trending in recent months.** A triangular table is one of the most interesting solutions - they look great in every living room, regardless of the style.
+Nicht nur die klassischen, runden Couchtische erregen Aufmerksamkeit. Möbel mit ungewöhnlichen Formen liegen in den letzten Monaten im Trend. Ein dreieckiger Tisch ist eine der interessantesten Lösungen - sie machen in jedem Wohnzimmer, unabhängig vom Stil, eine gute Figur.
 
 {:.distinction.distinction-information}
-Apart from classic tables with wooden legs in natural color, metal (golden or silver colored) bases are gaining popularity. Such an accessory looks much better in a modern than a classic interior - you should keep that in mind when furnishing your home.
+Neben den klassischen Tischen mit naturfarbenen Holzbeinen erfreuen sich Metallgestelle (gold- oder silberfarben) zunehmender Beliebtheit. Ein solches Accessoire sieht in einer modernen als in einer klassischen Einrichtung viel besser aus - das sollten Sie bei der Einrichtung Ihres Heims bedenken.
 
 {% fig %}
 ![Charcoal grey coffee tables](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-1-1-1.jpg "Charcoal grey coffee tables")
 {% endfig %}
 
-## A cozy charcoal bedroom
+## Ein gemütliches Schlafzimmer in Holzkohle
 
-You might wonder whether a charcoal bedroom is a good idea. One might think that a dark color is too dark for a space which main purpose is rest and relaxation. Similar to every other case - moderation and applying some rules are the most important. You don’t have to design the whole room in one color. Pick only individual elements.
+Sie fragen sich vielleicht, ob ein Holzkohlezimmer eine gute Idee ist. Man könnte meinen, dass eine dunkle Farbe zu dunkel ist für einen Raum, dessen Hauptzweck Ruhe und Entspannung ist. Ähnlich wie in jedem anderen Fall - Mäßigung und die Anwendung einiger Regeln sind das Wichtigste. Man muss nicht den ganzen Raum in einer Farbe gestalten. Man muss nur einzelne Elemente auswählen.
 
 {% fig %}
 ![A cozy charcoal bedroom](/uploads/przytulna-sypialnia-w-kolorze-antracytowym.jpg "A cozy charcoal bedroom")
 {% endfig %}
 
-### Charcoal - perfect for an upholstered bed
+### Holzkohle - perfekt für ein gepolstertes Bett
 
-Dreaming of an elegant, stylish bedroom? No problem - just pick a charcoal colored bed.
+Träumen Sie von einem eleganten, stilvollen Schlafzimmer? Kein Problem - wählen Sie einfach ein anthrazitfarbenes Bett.
 
-**Upholstered furniture, similar to many other trends in 2020 - are coming back.** Beds in this style can be found in almost every furniture shop. Furthermore, charcoal is the real top trend of the latest season, and probably will be for a few next ones. Do you want to accentuate the elegance of your bedroom even more? Try an upholstered headboard - your bedroom will look exceptionally classy.
+Polstermöbel - ähnlich wie viele andere Trends im Jahr 2020 - kommen wieder. Betten in diesem Stil sind in fast jedem Möbelgeschäft zu finden. Darüber hinaus ist Holzkohle der eigentliche Top-Trend der letzten Saison und wird wahrscheinlich auch in der nächsten Saison noch für einige wenige zu finden sein. Wollen Sie die Eleganz Ihres Schlafzimmers noch mehr betonen? Versuchen Sie es mit einem gepolsterten Kopfteil - Ihr Schlafzimmer wird außergewöhnlich edel aussehen.
 
 {% fig %}
 ![Charcoal - perfect for an upholstered bed](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-1-2.jpg "Charcoal - perfect for an upholstered bed")
 {% endfig %}
 
-### Charcoal pillowcases and sheets
+### Kissenbezüge und Bettlaken aus Holzkohle
 
-If you like **strong colors** but you do not want them to dominate your whole room, just pick the right accessories for your bedroom! You can, for instance, choose **charcoal pillowcases** or the whole **charcoal** **bed sheet set**, especially if your bedroom is bright-colored. Charcoal elements make the interior look more elegant and luxorious.
+Wenn Sie starke Farben mögen, aber nicht wollen, dass sie Ihr ganzes Zimmer dominieren, wählen Sie einfach die richtigen Accessoires für Ihr Schlafzimmer! Sie können z.B. Holzkohle-Kissenbezüge oder das ganze Holzkohle-Bettwäscheset wählen, besonders wenn Ihr Schlafzimmer in hellen Farben gehalten ist. Holzkohle-Elemente lassen das Interieur eleganter und luxuriöser wirken.
 
-## A charcoal colored bathroom
+## Ein anthrazitfarbenes BadezimmerEin anthrazitfarbenes Badezimmer
 
-Charcoal grey is a perfect color for designing a modern bathroom. There are many uses for this shade - a good idea is to pick **charcoal tiles**. If your bathroom is small, you can add white tiles here and there to break the unified, dark color. Grey walls can be perfectly complemented with white elements, such as sink, toilet and bathtub.
+Holzkohlengrau ist eine perfekte Farbe für die Gestaltung eines modernen Badezimmers. Es gibt viele Verwendungsmöglichkeiten für diesen Farbton - eine gute Idee ist es, Holzkohlefliesen zu wählen. Wenn Ihr Badezimmer klein ist, können Sie hier und da weiße Fliesen hinzufügen, um die einheitliche, dunkle Farbe zu brechen. Graue Wände können perfekt mit weißen Elementen, wie Waschbecken, Toilette und Badewanne, ergänzt werden.
 
 {% fig %}
 ![Charcoal colored bathroom](/uploads/antracyt-czyli-pomysl-na-wystroj-lazienki.jpg "Charcoal colored bathroom")
@@ -210,11 +210,11 @@ Charcoal grey is a perfect color for designing a modern bathroom. There are many
 {% endfig %}
 
 {:.distinction.distinction-information}
-Quite a contrary solution is choosing charcoal elements and white walls. Both of the mentioned solutions can be used to create a modern and elegant interior with a unique character.
+Eine ziemlich konträre Lösung ist die Wahl von Holzkohle-Elementen und weißen Wänden. Mit beiden genannten Lösungen lässt sich ein modernes und elegantes Interieur mit einem einzigartigen Charakter schaffen.
 
-## A dark charcoal kitchen? A great idea!
+## Eine dunkle Holzkohleküche? Eine tolle Idee!
 
-Many homeowners might think that a charcoal kitchen is not a good idea. It is, however, a highly recommended solution, especially if you have a lot of free space.
+Viele Hausbesitzer könnten denken, dass eine Holzkohleküche keine gute Idee ist. Sie ist jedoch eine sehr empfehlenswerte Lösung, vor allem, wenn Sie viel Freiraum haben.
 
 {% fig %}
 ![A dark charcoal kitchen? A great idea!](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-kuchnia.jpg "A dark charcoal kitchen? A great idea!")
@@ -224,15 +224,15 @@ Many homeowners might think that a charcoal kitchen is not a good idea. It is, h
 ![A dark charcoal kitchen? A great idea! 1](/uploads/ciemna-kuchnia-w-kolorze-antracytowym-to-dobry-pomysl-1.jpg "A dark charcoal kitchen? A great idea! 1")
 {% endfig %}
 
-**What works best in a charcoal kitchen?** Most of all - furniture. You do not necessarily have to choose dark cabinets. Charcoal accessories, such as chairs or lamps will be enough. They look perfect with white tiled walls - a stylish and trendy solution.
+Was funktioniert am besten in einer Holzkohleküche? Vor allem - Möbel. Sie müssen nicht unbedingt dunkle Schränke wählen. Holzkohlezubehör wie Stühle oder Lampen reicht aus. Sie sehen mit weiß gefliesten Wänden perfekt aus - eine stilvolle und trendige Lösung.
 
 {% fig %}
 ![A dark charcoal kitchen? A great idea! 2](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-kuchnia 1.jpg "A dark charcoal kitchen? A great idea! 2")
 {% endfig %}
 
-## Charcoal grey for a children's room? Only in a good combination!
+## Holzkohlegrau für ein Kinderzimmer? Nur in einer guten Kombination!
 
-Are you looking for ideas to furnish your child’s room? Although charcoal is very versatile, it is definitely not suitable for a toddler’s room. **It is simply too dark and difficult to integrate into this type of interior.** If you are not afraid of risks, choose delicate pastels and bright colors, and match them with charcoal accesories. You can ask a specialist to prepare a project based on your preferences.
+Suchen Sie nach Ideen für die Einrichtung des Kinderzimmers? Obwohl Holzkohle sehr vielseitig einsetzbar ist, eignet sie sich definitiv nicht für ein Kleinkinderzimmer. Es ist einfach zu dunkel und schwierig, sich in diese Art von Einrichtung zu integrieren. Wenn Sie das Risiko nicht scheuen, wählen Sie zarte Pastelltöne und helle Farben und kombinieren Sie sie mit Kohleaccessoires. Sie können einen Spezialisten bitten, ein Projekt nach Ihren Wünschen vorzubereiten.
 
 {% fig %}
 ![Charcoal grey - do not use for a children’s room](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-pokoj-dziecka.jpg "Charcoal grey - do not use for a children’s room")
@@ -246,44 +246,44 @@ Are you looking for ideas to furnish your child’s room? Although charcoal is v
 ![Charcoal grey - do not use for a children’s room 2](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-pokoj-dziecka-1.jpg "Charcoal grey - do not use for a children’s room 2")
 {% endfig %}
 
-**Charcoal is an increasingly popular color - not without a reason**. You should consider using it in your home interior design. The fact that it is so dark and overwhelming might be discouraging. Nevertheless, if used skillfully, charcoal grey can be combined with other home decor elements to create a modern, stylish and original appearance.
+Holzkohle ist eine immer beliebtere Farbe - nicht ohne Grund. Sie sollten erwägen, sie in Ihrer Inneneinrichtung zu verwenden. Die Tatsache, dass sie so dunkel und überwältigend ist, könnte entmutigend sein. Dennoch kann Holzkohlegrau bei geschicktem Einsatz mit anderen Einrichtungselementen kombiniert werden, um ein modernes, stilvolles und originelles Erscheinungsbild zu schaffen.
 
-## Charcoal grey - FAQ
+## Holzkohle grau - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-What color is charcoal?
+Welche Farbe hat Holzkohle?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Charcoal grey is a very dark shade of grey - almost black but still lighter. The name of the color comes from charcoal - material made of wood burnt in a high temperature with low access to oxygen.
+Holzkohlengrau ist ein sehr dunkler Grauton - fast schwarz, aber immer noch heller. Der Name der Farbe stammt von Holzkohle - ein Material aus Holz, das bei hoher Temperatur mit geringem Zugang zu Sauerstoff verbrannt wird.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-What color goes with charcoal gray?
+Welche Farbe passt zu Holzkohlegrau?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Charcoal grey works best with contrasting colors, such as white and bright grey. It can also be a background for strong colors, such as blue, yellow or green.
+Kohlegrau funktioniert am besten mit kontrastierenden Farben, wie Weiß und hellem Grau. Es kann auch ein Hintergrund für starke Farben wie Blau, Gelb oder Grün sein.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-Charcoal grey - where to use it?
+Holzkohlegrau - wo soll sie eingesetzt werden?
 {% endfaqQuestion %}
 
-{% faqAnswer %} Charcoal is a color that works great in any home interior, and, in some cases, in an office. If you decide to use it in a small kitchen, bathroom or living room, remember about certain rules which will make your room look more consistent.
+{% faqAnswer %} Holzkohle ist eine Farbe, die in jedem Haus und in einigen Fällen auch im Büro hervorragend funktioniert. Wenn Sie sich entscheiden, sie in einer kleinen Küche, einem Badezimmer oder Wohnzimmer zu verwenden, denken Sie an bestimmte Regeln, die Ihr Zimmer einheitlicher aussehen lassen.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-Charcoal grey - how to choose a charcoal paint?
+Holzkohlegrau - wie wählt man eine Holzkohlefarbe aus?
 {% endfaqQuestion %}
 
-{% faqAnswer %} Make sure to choose the right product designed for the surface you are going to paint. Water-based charcoal paint is recommended, for its satin finish. Satin charcoal walls look “lighter” and very elegant.
+{% faqAnswer %} Achten Sie darauf, dass Sie das richtige Produkt wählen, das für die Oberfläche, die Sie lackieren wollen, entwickelt wurde. Wir empfehlen Holzkohlefarbe auf Wasserbasis, da sie eine satinierte Oberfläche aufweist. Satinierte Holzkohlewände sehen "leichter" und sehr elegant aus.
 {% endfaqAnswer %}
 {% endfaqItem %}
