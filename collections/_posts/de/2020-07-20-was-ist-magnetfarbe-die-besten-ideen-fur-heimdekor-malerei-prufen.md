@@ -14,118 +14,118 @@ toc: true
 promoted: false
 update_date: 2020-07-20
 title: Was ist Magnetfarbe? Die besten Ideen für Heimdekor-Malerei prüfen
-description: "Looking for an easy idea to make your interior more interesting? \U0001F3A8
-  Try magnetic paint and create a functional and stylish space. \U0001F449 Learn how
-  it works!"
-intro: Bored with the old, classic look of your interior? Planning to refresh you
-  home decor? Magnetic paint is a trending solution in the recent years. Using it
-  you can transform a dull kitchen, living room or children's room and give it a completely
-  new look. Try chalkboard paint and enjoy magnificent results!
+description: "Suchen Sie nach einer einfachen Idee, um Ihr Interieur interessanter
+  zu gestalten? \U0001F3A8 Versuchen Sie es mit Magnetfarbe und schaffen Sie einen
+  funktionellen und stilvollen Raum. \U0001F449 Erfahren Sie, wie es funktioniert!"
+intro: Langweilt Sie das alte, klassische Aussehen Ihres Interieurs? Planen Sie, Ihre
+  Inneneinrichtung aufzufrischen? Magnetische Farbe ist eine Trendlösung in den letzten
+  Jahren. Mit ihr können Sie eine langweilige Küche, ein Wohnzimmer oder ein Kinderzimmer
+  verwandeln und ihm ein völlig neues Aussehen verleihen. Probieren Sie Kreidefarbe
+  aus und genießen Sie großartige Ergebnisse!
 image: "/uploads/farba-tablicowa.jpg"
 related_products: []
-published: false
 
 ---
-## How to use magnetic paint?
+## Wie verwendet man Magnetfarbe?
 
-Magnetic paint is a fantastic product that has many practical applications. **It might be used to paint plaster, mortar, wood and metal**. It cannot, however, be used outside. Magnetic paint is meant to be used inside, therefore you might apply it on walls in **any interior of your house**. A worth noting fact is that magnetic paint is completely safe and it doesn't contain any harmful chemicals.
+Magnetfarbe ist ein fantastisches Produkt, das viele praktische Anwendungen hat. Sie kann zum Streichen von Putz, Mörtel, Holz und Metall verwendet werden. Sie kann jedoch nicht im Freien verwendet werden. Magnetische Farbe ist für den Innenbereich bestimmt, daher können Sie sie auf Wände in jedem beliebigen Innenraum Ihres Hauses auftragen. Eine bemerkenswerte Tatsache ist, dass Magnetfarbe völlig sicher ist und keine schädlichen Chemikalien enthält.
 
-**Magnetic paint** owes its magnetic properties to iron filings - one of its ingredients. A wall covered with such a paint might be used as a magnetic board. Using magnets, you might attach **pictures, photos** and notes to you wall.
+Die magnetische Farbe verdankt ihre magnetischen Eigenschaften den Eisenspänen - einer ihrer Bestandteile. Eine Wand, die mit einer solchen Farbe bedeckt ist, kann als Magnettafel verwendet werden. Mit Hilfe von Magneten können Sie Bilder, Fotos und Notizen an Ihrer Wand befestigen.
 
-## Magnetic paint - available colors
+## Magnetische Farbe - verfügbare Farben
 
-Magnetic paint is available in **various colors** to choose from. Black, grey and graphite of different shades are the most popular ones. It doesn't mean that you have to completely change the colors of your house. Magnetic paint is typically used to paint just one or two walls in a room - not the entire interior.
+Die Magnetfarbe ist in verschiedenen Farben erhältlich, aus denen Sie wählen können. Schwarz, Grau und Graphit in verschiedenen Farbtönen sind die beliebtesten. Das bedeutet nicht, dass Sie die Farben Ihres Hauses komplett ändern müssen. Magnetische Farbe wird normalerweise verwendet, um nur eine oder zwei Wände in einem Raum zu streichen - nicht die gesamte Inneneinrichtung.
 
 {% fig %}
 ![Magnetic paint - available colors](/uploads/czym-jest-farba-magnetyczna-i-jak-mozna-ja-wykorzystac.jpeg "Magnetic paint - available colors")
 {% endfig %}
 
-For some time now manufacturers offer magnetic paint in light grey color that is similar to off-white. If you'd rather have a **magnetic wall in a bright color**, this might be the right product for you.
+Seit einiger Zeit bieten die Hersteller Magnetfarbe in hellgrauer Farbe an, die einem gebrochenen Weiß ähnlich ist. Wenn Sie lieber eine Magnetwand in einer hellen Farbe haben möchten, könnte dies das richtige Produkt für Sie sein.
 
-## How to cover walls with magnetic paint?
+## Wie kann man Wände mit Magnetfarbe verkleiden?
 
-Painting with magnetic paint is quite different than using usual product. **Improperly applied or accidentally spilled magnetic paint** might leave marks that are difficult to remove. For this reason make sure to secure the room before you start painting.
+Das Malen mit Magnetfarbe ist ganz anders als das Malen mit herkömmlichen Produkten. Unsachgemäß aufgetragene oder versehentlich verschüttete Magnetfarbe kann Spuren hinterlassen, die schwer zu entfernen sind. Sichern Sie deshalb den Raum ab, bevor Sie mit dem Malen beginnen.
 
-Before applying the paint you should prepare and clean the painted surface. It must be dry and smooth. If you want to apply magnetic paint to a surface that is slick or shiny, you should **sand it**. Wooden surfaces require using a primer before applying the paint.
+Bevor Sie die Farbe auftragen, sollten Sie die bemalte Oberfläche vorbereiten und reinigen. Sie muss trocken und glatt sein. Wenn Sie Magnetfarbe auf eine glatte oder glänzende Oberfläche auftragen möchten, sollten Sie diese abschleifen. Holzoberflächen müssen vor dem Auftragen der Farbe mit einer Grundierung versehen werden.
 
 {:.distinction.distinction-information}
-To achieve successful and aesthetic results, start painting from mixing the paint, using a wooden stick. This way you can be sure that the iron filings will be applied to the surface with a brush and that they won't stay at the bottom of the can.
+Um erfolgreiche und ästhetische Ergebnisse zu erzielen, beginnen Sie mit dem Malen, indem Sie die Farbe mit einem Holzstab mischen. Auf diese Weise können Sie sicher sein, dass die Eisenspäne mit einem Pinsel auf die Oberfläche aufgetragen werden und nicht am Boden der Dose bleiben.
 
-Cover the wall thoroughly with a **layer of magnetic paint**. Adding more layers results in better magnetic properties - apply at least 3 of them. Remember to keep equal time gaps between adding each layer.
+Decken Sie die Wand gründlich mit einer Schicht Magnetfarbe ab. Das Hinzufügen weiterer Schichten führt zu besseren magnetischen Eigenschaften - tragen Sie mindestens 3 davon auf. Denken Sie daran, zwischen dem Auftragen jeder Schicht gleiche Zeitabstände einzuhalten.
 
 {% fig %}
 ![How to cover walls with chalkboard paint?](/uploads/jak-poprawnie-malowac-farba-magnetyczna.jpg "How to cover walls with chalkboard paint?")
 {% endfig %}
 
-You are free to choose any painting technique. DIY magnetic boards can take any shape, regardless of the surface. It all depends on your own preferences. By using just one type of magnetic paint, you might create a traditional, rectangular board or pick other shapes, for instance a house, a teddy bear or a princess castle - those forms are perfect for a children's room.
+Sie sind frei in der Wahl der Maltechnik. DIY-Magnettafeln können jede Form annehmen, unabhängig von der Oberfläche. Es hängt alles von Ihren eigenen Vorlieben ab. Mit nur einer Art Magnetfarbe können Sie ein traditionelles, rechteckiges Brett gestalten oder andere Formen wählen, zum Beispiel ein Haus, einen Teddybär oder ein Prinzessinnenschloss - diese Formen eignen sich perfekt für ein Kinderzimmer.
 
 {:.distinction.distinction-information}
-If you aim at a particular, more complicated shape, it is a good idea to use a stencil. This way painting is easier and the walls are protected against accidental splashing.
+Wenn Sie eine bestimmte, kompliziertere Form anstreben, ist es eine gute Idee, eine Schablone zu verwenden. Auf diese Weise wird das Malen einfacher und die Wände werden vor versehentlichem Spritzen geschützt.
 
-If the wall is going to be touched frequently and the magnets are going to be often moved around, consider **coating it with a layer of varnish**. You might choose either shiny or matt coating. It is an effective way to protect the wall against scratches and dirt - perfect for **kitchen** or **children's room**.
+Wenn die Wand häufig berührt wird und die Magnete oft bewegt werden, sollten Sie eine Lackschicht auf die Wand auftragen. Sie können entweder eine glänzende oder eine matte Beschichtung wählen. Sie ist eine wirksame Methode, um die Wand vor Kratzern und Schmutz zu schützen - perfekt für Küche oder Kinderzimmer.
 
-## Magnetic chalkboard paint - ideal for children's room
+## Magnetische Kreidefarbe - ideal für das Kinderzimmer
 
-Magnetic chalkboard paint is a product of a wider use. As the name indicates - **"chalkboard paint"** can be used as a chalkboard - apart from magnetic properties one might also write on it with chalk. That's exactly how it works.
+Magnetische Kreidekreidefarbe ist ein Produkt einer breiteren Verwendung. Wie der Name schon sagt - "Kreidekreidefarbe" kann als Kreidetafel verwendet werden - kann man neben den magnetischen Eigenschaften auch mit Kreide darauf schreiben. Genau so funktioniert es.
 
-What is more, **magnetic chalkboard paint** allows you to write or draw with chalk, and wipe the surface afterwards. A wall covered with chalkboard paint may be wiped with a piece of cloth, dry or dampened with water.
+Außerdem kann man mit magnetischer Kreidefarbe mit Kreide schreiben oder zeichnen und die Oberfläche anschließend abwischen. Eine mit Kreidekreidefarbe bedeckte Wand kann mit einem Tuch abgewischt werden, trocken oder mit Wasser befeuchtet.
 
 {:.distinction.distinction-warning}
-Careful! Do not use detergents to wipe surface covered with magnetic chalkboard paint. It might damage the paint and, in some cases, the wall.
+Vorsicht! Verwenden Sie keine Reinigungsmittel, um mit magnetischer Kreidekreidefarbe bedeckte Oberflächen abzuwischen. Es könnte die Farbe und in einigen Fällen auch die Wand beschädigen.
 
-Magnetic chakboard paint is a popular solution for a **children's room**. It is not a secret that children love drawing on walls. Usually it ends up with walls renovation or redecoration. In this case it is not necessary! Magnetic chalkboard paint allows your **toddler to be creative in a specially designated place**. A wall painted with a chalkboard paint is a fantastic idea for a children's room. It can make studying much more pleasant. Small artist will appreciate the opportunity to express themselves anywhere, even on walls.
+Magnetische Kreidetafelfarbe ist eine beliebte Lösung für ein Kinderzimmer. Es ist kein Geheimnis, dass Kinder gerne an Wänden malen. Meistens enden sie mit einer Renovierung oder Neugestaltung der Wände. In diesem Fall ist es nicht notwendig! Mit magnetischer Kreidetafelfarbe kann Ihr Kleinkind an einem speziell dafür vorgesehenen Ort kreativ sein. Eine mit einer Kreidefarbe bemalte Wand ist eine fantastische Idee für ein Kinderzimmer. Sie kann das Lernen viel angenehmer machen. Kleine Künstler werden die Möglichkeit zu schätzen wissen, sich überall auszudrücken, sogar an Wänden.
 
 {% fig %}
 ![Magnetic chalkboard paint - ideal for children's room](/uploads/idealna-do-pokoju dziecięcego-farba-tablicowa-magnetyczna.jpg "Magnetic chalkboard paint - ideal for children's room")
 {% endfig %}
 
-### Where else can you use chalkboard paint?
+### Wo kann man noch Kreidefarbe verwenden?
 
-Chalkboard paint is a product of practically endless ways to use it. Due to the fact that **chalkboard paint can cover any surface that is inside of a building**, you might use it anywhere, for any purpose.
+Kreidekreidefarbe ist ein Produkt von praktisch unendlich vielen Verwendungsmöglichkeiten. Da Kreidekreidefarbe jede Oberfläche innerhalb eines Gebäudes bedecken kann, können Sie sie überall und für jeden Zweck verwenden.
 
-Using **chalkboard paint in the kitchen** is quite a popular solution. A part of (or whole) wall covered with chalkboard paint is a great spot to make shopping lists or noting recipes for favourite dishes.
+Die Verwendung von Kreidefarbe in der Küche ist eine recht beliebte Lösung. Ein Teil (oder die ganze) Wand mit Kreidefarbe bedeckt ist ein großartiger Ort, um Einkaufslisten zu erstellen oder Rezepte für Lieblingsgerichte zu notieren.
 
-Chalkboard paint could also be used in a **living room or in the hall**. You might use it to collect visitors' signatures or simply to make a to-do list.
+Kreidefarbe könnte auch in einem Wohnzimmer oder im Flur verwendet werden. Sie können sie zum Sammeln von Unterschriften von Besuchern oder einfach zum Erstellen einer Aufgabenliste verwenden.
 
-A wall covered with chalkboard paint in a **bedroom** or an **office** can be used for private notes.
+Eine mit Kreidefarbe bemalte Wand in einem Schlafzimmer oder Büro kann für private Notizen verwendet werden.
 
-Apart from walls, you might use chalkboard paint also to cover objects. You might use it to paint wooden boxes or doors to cabinets to easily label them.
+Abgesehen von Wänden können Sie Kreidefarbe auch zum Abdecken von Gegenständen verwenden. Sie können damit auch Holzkisten oder Türen von Schränken bemalen, um diese leicht zu beschriften.
 
-### Magnetic chalkboard paint - colors
+### Magnetische Kreidekreidefarbe - Farben
 
-Magnetic chalkboard paint is used for attaching notes and drawings to it, as well as for writing and drawing on it. For this reason it is sold in two colors - black and grey.
+Magnetische Kreidekreidefarbe wird zum Befestigen von Notizen und Zeichnungen sowie zum Schreiben und Zeichnen auf der Tafel verwendet. Aus diesem Grund wird sie in zwei Farben verkauft - schwarz und grau.
 
 {:.distinction.distinction-information}
-Initially, the only option was black magnetic chalkboard paint. Grey chalkboard paint appeared later.
+Ursprünglich war die einzige Option schwarze magnetische Kreidekreidefarbe. Später erschien graue Kreidekreidefarbe.
 
-An interesting fact is that magnetic chalkboard paint, covered with other type of paint keeps its magnetic properties. If you do it, it cannot be used for writing with chalk anymore. For this reason you shouldn't coat chalkboard paint with anything.
+Eine interessante Tatsache ist, dass magnetische Kreidekreidefarbe, die mit einer anderen Art von Farbe bedeckt ist, ihre magnetischen Eigenschaften behält. Wenn man sie verwendet, kann sie nicht mehr zum Schreiben mit Kreide verwendet werden. Aus diesem Grund sollten Sie Kreidekreidefarbe mit nichts beschichten.
 
 {% faqItem %}
 {% faqQuestion %}
-How to use magnetic paint?
+Wie verwendet man Magnetfarbe?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Painting with magnetic paint is quite different from using ordinary paint. Make sure to mix it thoroughly before starting, as it contains iron filings. Then use it similar as normal paint.
+Das Malen mit Magnetfarbe unterscheidet sich deutlich von der Verwendung gewöhnlicher Farbe. Achten Sie darauf, sie vor Beginn gründlich zu mischen, da sie Eisenspäne enthält. Verwenden Sie sie dann ähnlich wie normale Farbe.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to make magnetic paint wall?
+Wie macht man eine magnetische Farbwand?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Choose the color of your magnetic paint and prepare the room. Mix the product well and cover the wall. If you want a colorful magnetic wall, you might cover magnetic paint with a layer of ordinary paint - the wall will keep its magnetic properties.
+Wählen Sie die Farbe Ihrer Magnetfarbe und bereiten Sie den Raum vor. Mischen Sie das Produkt gut durch und decken Sie die Wand ab. Wenn Sie eine farbenfrohe Magnetwand wünschen, können Sie die Magnetfarbe mit einer Schicht gewöhnlicher Farbe überziehen - die Wand behält dann ihre magnetischen Eigenschaften.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How strong is magnetic paint?
+Wie stark ist die magnetische Farbe?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Most of magnetic paint products have medium magnetic strength. The strength depends on the content percentage of magnetic ingredients (iron filings).
+Die meisten magnetischen Farbprodukte haben eine mittlere Magnetstärke. Die Stärke hängt vom prozentualen Anteil der magnetischen Bestandteile (Eisenspäne) ab.
 {% endfaqAnswer %}
 {% endfaqItem %}
