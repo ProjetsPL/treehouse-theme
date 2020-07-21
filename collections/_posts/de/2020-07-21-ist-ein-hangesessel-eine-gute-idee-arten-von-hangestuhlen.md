@@ -3,16 +3,16 @@ layout: post
 date: 2020-07-21
 toc: true
 title: Ist ein Hängesessel eine gute Idee? Arten von Hängestühlen
-description: Hanging chair is a popular piece of furniture. It fits almost any interior
-  design. This comfortable element is appreciated both by children and adults.
+description: Der Hängestuhl ist ein beliebtes Möbelstück. Er passt zu fast jeder Inneneinrichtung.
+  Dieses bequeme Element wird sowohl von Kindern als auch von Erwachsenen geschätzt.
 image: "/uploads/fotel-wiszacy.jpg"
 promoted: false
 update_date: 2020-07-21
-intro: Hanging chair is a comfortable piece of furniture that can be found in many
-  apartments. It is mostly associated with a teenager’s or children’s room, however
-  it is also appreciated among adults. It’s not surprising - rocking movement can
-  quickly relax the whole body. Hanging chair is also a highly aesthetic element.
-  Is it suitable for every type of interior design?
+intro: Der Hängestuhl ist ein bequemes Möbelstück, das in vielen Wohnungen zu finden
+  ist. Meistens wird er mit einem Teenager- oder Kinderzimmer in Verbindung gebracht,
+  aber er wird auch von Erwachsenen geschätzt. Es ist nicht überraschend - eine Schaukelbewegung
+  kann den ganzen Körper schnell entspannen. Der Hängestuhl ist auch ein sehr ästhetisches
+  Element. Ist er für jede Art von Inneneinrichtung geeignet?
 main_keywords:
 - Hängesessel
 - Hänge-Ei-Stuhl
@@ -22,110 +22,109 @@ main_keywords:
 - wie man einen Hängestuhl herstellt
 - wie man einen Hängestuhl aufhängt
 - wie man einen Hängestuhl installiert
-published: false
 
 ---
-## Hanging chair - comfort in your home
+## Hängesessel - Komfort in Ihrem Zuhause
 
-First hanging chairs were constructed in the 60s. The most popular model from that period is the famous **Bubble Chair**, designed in 1968 by a Finnish creator. The seat is perfectly round and made of transparent material. The chair is hung from the ceiling on a metal chain, so that it resembles a floating bubble.
+Die ersten Hängesessel wurden in den 60er Jahren konstruiert. Das beliebteste Modell aus dieser Zeit ist der berühmte Bubble Chair, der 1968 von einem finnischen Schöpfer entworfen wurde. Die Sitzfläche ist vollkommen rund und aus transparentem Material gefertigt. Der Stuhl wird an einer Metallkette von der Decke abgehängt, so dass er einer schwebenden Blase ähnelt.
 
-Hanging chairs are more popular than ever, with a lot of different shapes and materials. They have many advantages. **Gentle rocking** is a great way to relax. It scientifically proven that rocking motion relaxes muscles, helps to fall asleep and stimulates deep sleep. Hanging chairs are very comfortable and they are equipped with soft cushions and mattresses. An evening spent in such a chair with a book or a cup of tea is an ideal way to relax after a long, stressful day.
+Hängesessel sind beliebter denn je, mit vielen verschiedenen Formen und Materialien. Sie haben viele Vorteile. Sanftes Schaukeln ist eine gute Möglichkeit zum Entspannen. Es ist wissenschaftlich erwiesen, dass die Schaukelbewegung die Muskeln entspannt, das Einschlafen erleichtert und den Tiefschlaf anregt. Hängesessel sind sehr bequem, und sie sind mit weichen Kissen und Matratzen ausgestattet. Ein Abend in einem solchen Stuhl mit einem Buch oder einer Tasse Tee ist eine ideale Möglichkeit, sich nach einem langen, stressigen Tag zu entspannen.
 
-Hanging chair is a perfect decoration element for any type of interior design. This type of furniture can be characterised by a wide variety of shapes. Colour and material can be suited to an interior design - the choice is wide. A hanging chair is a perfect element for rooms in scandinavian and minimalist style.
+Hängesessel sind ein perfektes Dekorationselement für jede Art von Inneneinrichtung. Diese Art von Möbeln kann sich durch eine große Vielfalt an Formen auszeichnen. Farbe und Material können an eine Inneneinrichtung angepasst werden - die Auswahl ist groß. Ein Hängestuhl ist ein perfektes Element für Räume in skandinavischem und minimalistischem Stil.
 
-## What is the best hanging chair?
+## Was ist der beste hängende Stuhl?
 
-There are many types of **hanging chairs**. Designers constantly create new forms. As a result one can fit the hanging chair style to the interior design at their place. You can choose from simple and minimalistic, as well as ornamental and decorative shapes.
+Es gibt viele Arten von Hängestühlen. Designer entwerfen ständig neue Formen. Dadurch kann man den Hängestuhlstil an die Inneneinrichtung an ihrem Platz anpassen. Man kann zwischen einfachen und minimalistischen, aber auch ornamentalen und dekorativen Formen wählen.
 
-### Choosing a hanging chair - types
+### Auswahl eines Hängestuhls - Typen
 
-The main difference between furniture of this type is in appearance and construction. Not every hanging chair is suitable for every room. When choosing the right object, consider your own needs and the purpose of the chair. Most furniture shops offer products such as:
+Der Hauptunterschied zwischen Möbeln dieser Art liegt im Aussehen und in der Konstruktion. Nicht jeder Hängesessel ist für jeden Raum geeignet. Berücksichtigen Sie bei der Wahl des richtigen Objekts Ihre eigenen Bedürfnisse und den Zweck des Stuhls. Die meisten Möbelgeschäfte bieten solche Produkte an:
 
 {:.list.list-positive}
 
-* **Ceiling hanging chair** - it is the most appealing type. The seat hangs on a rope attached to a hook fixed to a ceiling. This type allows full range of movement for a user. There are wider and narrower models, you can choose the one that fits your particular needs.
-* **Hanging chair with stand** - this type is more mobile. The seat hangs from a stand placed on the floor. It is much smaller than the version attached to a ceiling. It is a big advantage in places of limited space. A hanging chair of this type offers a smaller range of movement. The mobility allows to put it on a balcony or in summer - on a patio.
-* **Brazilian hammock chair** - it’s a type of hammock. Its advantage is the fact that it perfectly fits any body shape. It is also much cheaper than the previous models. The hanging chair of this type might be removed if needed. It can be easily stored in a wardrobe, not taking too much space.
+* Hängender Deckenstuhl - er ist der attraktivste Typ. Der Sitz hängt an einem Seil, das an einem an der Decke befestigten Haken hängt. Dieser Typ ermöglicht dem Benutzer den vollen Bewegungsspielraum. Es gibt breitere und schmalere Modelle, Sie können das Modell wählen, das Ihren speziellen Bedürfnissen entspricht.
+* Hängesessel mit Ständer - dieser Typ ist mobiler. Der Sitz hängt an einem Ständer, der auf dem Boden steht. Er ist viel kleiner als die an der Decke befestigte Version. Das ist ein großer Vorteil an Orten mit begrenztem Platzangebot. Ein Hängestuhl dieses Typs bietet einen kleineren Bewegungsbereich. Die Beweglichkeit erlaubt es, ihn auf einen Balkon oder im Sommer - auf eine Terrasse zu stellen.
+* Brasilianischer Hängestuhl - es ist eine Art Hängematte. Sein Vorteil ist die Tatsache, dass er sich jeder Körperform perfekt anpasst. Sie ist auch viel billiger als die vorherigen Modelle. Der Hängestuhl dieses Typs kann bei Bedarf entfernt werden. Er kann leicht in einem Kleiderschrank verstaut werden und nimmt nicht zu viel Platz ein.
 
 {:.distinction.distinction-information}
-If you decided to buy a hanging chair, pay attention to its shape. There are many designs available. Some are completely round, similar to the Bubble Chair. The most commonly chosen type is hanging egg chair with elongated back rest. There are also two-person versions, with wide seats. Make sure consider the amount of space you can dedicate for this piece of furniture.
+Wenn Sie sich entschieden haben, einen Hängestuhl zu kaufen, achten Sie auf seine Form. Es sind viele Designs erhältlich. Einige sind völlig rund, ähnlich wie der Bubble Chair. Der am häufigsten gewählte Typ ist der Hängesessel mit verlängerter Rückenlehne. Es gibt auch Versionen für zwei Personen, mit breiten Sitzen. Überlegen Sie sich unbedingt, wie viel Platz Sie für dieses Möbelstück einplanen können.
 
 {% fig %}
 ![Choosing a hanging chair - types](/uploads/fotel-wiszacy-do-pokoju.jpg "Choosing a hanging chair - types")
 {% endfig %}
 
-### Hanging chair materials
+### Materialien für Hängesessel
 
-The shape is not the only criterion that you should pay attention to. A **hanging chair** might be made of various materials. The original Bubble Chair is made of acrylic, stainless steel frame and leather cushion. The most commonly used materials are:
+Die Form ist nicht das einzige Kriterium, auf das Sie achten sollten. Ein Hängestuhl kann aus verschiedenen Materialien hergestellt werden. Der originale Bubble Chair besteht aus Acryl, Edelstahlrahmen und Lederkissen. Die am häufigsten verwendeten Materialien sind:
 
 {:.list.list-positive}
 
-* **Rattan** - rattan constructions are very decorative. It’s a **durable and eco-friendly** material, although it is not resistant to water. For this reason weaved furniture should not be placed outside. You can coat the pieces with varnish.
-* **Technorattan** - a technorattan hanging chair is as decorative as natural rattan furniture. Its main advantage is **durability and resistance** to weather conditions.
-* **Wood** - material of this type is heavier than the others. It is perfect for those who value natural materials.
-* **Plastic** - plastic hanging chairs have the widest variety of designs. Plastic is lightweight and **relatively durable**. One should be careful not to scratch it, as any mark is very noticeable and hard to remove. Hanging chair made of plastic is easy to clean.
-* **Fabric** - fabric is most commonly used for hammocks production. They are **lightweight, breathable** and easy to fold. The most popular fabrics are cotton and linen. There is also a similar solution - a hanging chair made of twine.
-* **Metal** - a metal hanging chair i made of a durable net. The most common metal used for this purpose is aluminium.
+* Rattan - Konstruktionen aus Rattan sind sehr dekorativ. Es ist ein haltbares und umweltfreundliches Material, obwohl es nicht wasserbeständig ist. Aus diesem Grund sollten geflochtene Möbel nicht im Freien aufgestellt werden. Sie können die Stücke mit Lack beschichten.
+* echnorattan - ein Technorattan-Hängesessel ist genauso dekorativ wie natürliche Rattanmöbel. Sein Hauptvorteil ist die Haltbarkeit und die Beständigkeit gegen Witterungseinflüsse.
+* Holz - Material dieser Art ist schwerer als die anderen. Es ist perfekt für diejenigen, die natürliche Materialien schätzen.
+* Kunststoff - Hängesessel aus Kunststoff haben die größte Designvielfalt. Kunststoff ist leicht und relativ haltbar. Man sollte darauf achten, ihn nicht zu zerkratzen, da jeder Fleck sehr auffällig und schwer zu entfernen ist. Hängesessel aus Kunststoff sind leicht zu reinigen.
+* Stoff - Stoff wird am häufigsten für die Herstellung von Hängematten verwendet. Sie sind leicht, atmungsaktiv und leicht zu falten. Die beliebtesten Stoffe sind Baumwolle und Leinen. Es gibt auch eine ähnliche Lösung - einen Hängestuhl aus Garn.
+* Metall - ein Hängestuhl aus Metall, der aus einem haltbaren Netz hergestellt wird. Das am häufigsten für diesen Zweck verwendete Metall ist Aluminium.
 
-The choice of material depends on the purpose of your hanging chair. If you are going to place the object outside, choose a material that is resistant to weather conditions. You should also consider the general design of your room. The popular scandinavian style uses wood, fabric and **weaved hanging chairs**. Natural rattan chairs are good elements for rustic style. Contemporary and minimalist style can be perfectly complemented with plastic or metal hanging chair with a simple, geometric shape.
+Die Wahl des Materials hängt vom Zweck Ihres Hängestuhls ab. Wenn Sie das Objekt im Freien aufstellen wollen, wählen Sie ein Material, das gegen Witterungseinflüsse beständig ist. Sie sollten auch die allgemeine Gestaltung Ihres Raumes berücksichtigen. Der beliebte skandinavische Stil verwendet Holz, Stoff und geflochtene Hängesessel. Natürliche Rattanstühle sind gute Elemente für den rustikalen Stil. Der zeitgenössische und minimalistische Stil kann perfekt mit Hängestühlen aus Kunststoff oder Metall mit einer einfachen, geometrischen Form ergänzt werden.
 
-## Where to place a hanging chair?
+## Wohin mit einem Hängestuhl?
 
-If you decided to purchase a hanging chair, make sure that you have enough space in the house. If it’s a ceiling hanging chair, position it in a spacious room so that the **movements are not blocked**. The chair should be placed far from the windows and other objects. If it’s too close, there is a risk of breaking the window when swinging on the chair. You could also accidentally hit the sharp edges of furniture.
+Wenn Sie sich für den Kauf eines Hängesessels entschieden haben, stellen Sie sicher, dass Sie genügend Platz im Haus haben. Wenn es sich um einen Hängestuhl handelt, stellen Sie ihn in einem geräumigen Raum auf, damit die Bewegungen nicht blockiert werden. Der Stuhl sollte weit weg von den Fenstern und anderen Gegenständen aufgestellt werden. Wenn er zu nahe ist, besteht die Gefahr, dass das Fenster zerbricht, wenn Sie den Stuhl schwingen. Sie könnten auch versehentlich die scharfen Kanten von Möbeln treffen.
 
-A hanging chair with stand takes significantly less space. Because of its construction the movements are limited, therefore there is no risk of damaging the furniture. You can place it **closer to the walls** and furniture. A big advantage is the fact that it can be moved at any time.
+Ein Hängestuhl mit Ständer benötigt deutlich weniger Platz. Aufgrund seiner Konstruktion sind die Bewegungen begrenzt, daher besteht keine Gefahr, die Möbel zu beschädigen. Sie können den Stuhl näher an die Wände und Möbel stellen. Ein großer Vorteil ist die Tatsache, dass er jederzeit verschoben werden kann.
 
 {:.distinction.distinction-warning}
-If you are planning to place a hanging chair in a children's room, pay special attention to safety. The best location for an object of this type is the middle of the room. Place the seat relatively low over the floor.
+Wenn Sie planen, einen Hängestuhl in einem Kinderzimmer aufzustellen, achten Sie besonders auf die Sicherheit. Der beste Standort für ein solches Objekt ist die Mitte des Raumes. Platzieren Sie den Sitz relativ niedrig über dem Boden.
 
 {% fig %}
 ![Where to place a hanging chair?](/uploads/gdzie-umiescic-fotel-wiszacy.jpg "Where to place a hanging chair?")
 {% endfig %}
 
-## How to attach a hanging chair?
+## Wie befestigt man einen Hängestuhl?
 
-A hanging chair with stand does not to be installed in any special way - just put it wherever you want. If it’s a ceiling hanging chair, make sure to install it properly. It needs to be done carefully, otherwise the construction might collapse.
+Ein Hängestuhl mit Ständer ist in keiner besonderen Weise zu installieren - stellen Sie ihn einfach dahin, wo Sie wollen. Wenn es sich um einen an der Decke hängenden Stuhl handelt, stellen Sie sicher, dass er richtig installiert wird. Es muss sorgfältig gemacht werden, sonst könnte die Konstruktion zusammenbrechen.
 
 {:.distinction.distinction-warning}
-Be careful if your ceiling is very old or in poor condition. Before buying a hanging chair, **check the ceiling** to make sure that it can hold such weight. It is a good idea to ask a specialist to assess the situation. In some cases it might be safer to choose a hanging chair with stand.
+Seien Sie vorsichtig, wenn Ihre Decke sehr alt oder in schlechtem Zustand ist. Bevor Sie einen Hängestuhl kaufen, überprüfen Sie die Decke, um sicherzustellen, dass sie dieses Gewicht aushält. Es ist eine gute Idee, einen Spezialisten zu bitten, die Situation zu beurteilen. In manchen Fällen kann es sicherer sein, einen Hängestuhl mit Ständer zu wählen.
 
-To attach the chair to the ceiling, you need to prepare a few accessories. Make sure you have chemical anchor, an eye screw or a wall plug and a snap ring. You will also need a drill, a hammer, an adjustable spanner and a screwdriver.
+Um den Stuhl an der Decke zu befestigen, müssen Sie einige Zubehörteile vorbereiten. Stellen Sie sicher, dass Sie eine chemische Verankerung, eine Ösenschraube oder einen Dübel und einen Sprengring haben. Außerdem benötigen Sie eine Bohrmaschine, einen Hammer, einen verstellbaren Schraubenschlüssel und einen Schraubendreher.
 
-After figuring out where you want the chair to be placed, use a pencil to mark the spot for drilling. The hole should be drilled **at an angle of 30 degrees**. If you hit a reinforcing bar, move the spot by a couple of centimetres. Widen the drilled hole using a larger bit and vacuum it. Squeeze the chemical anchor into it and insert the eye screw or wall plug into it. Screw it tightly. The next step is hanging snap rings and chain.
+Nachdem Sie herausgefunden haben, wo der Stuhl platziert werden soll, markieren Sie mit einem Bleistift die Stelle, an der gebohrt werden soll. Das Loch sollte in einem Winkel von 30 Grad gebohrt werden. Wenn Sie einen Verstärkungsstab treffen, verschieben Sie die Stelle um ein paar Zentimeter. Erweitern Sie das gebohrte Loch mit einem größeren Bohrer und saugen Sie es ab. Drücken Sie den chemischen Dübel hinein und setzen Sie die Ösenschraube oder den Dübel ein. Schrauben Sie ihn fest. Im nächsten Schritt werden Sprengringe und Kette aufgehängt.
 
 {:.distinction.distinction-information}
-**You must test the durability of the construction.** To do it, take the chain in both of your hands and hang on it for a while, ideally with another person. The structure should hold weight of two people. After the test, tighten the plug. If everything is fine, you can install the seat.
+Sie müssen die Dauerhaftigkeit der Konstruktion prüfen. Nehmen Sie dazu die Kette in beide Hände und lassen Sie sie eine Weile hängen, am besten mit einer anderen Person. Die Konstruktion sollte das Gewicht von zwei Personen tragen. Nach dem Test ziehen Sie den Stecker fest. Wenn alles in Ordnung ist, können Sie den Sitz einbauen.
 
-A hanging chair is a great addition to any house. It’s a modern interior design element which will impress your guests. There are many colours and designs to choose from. Such a piece of furniture placed in a bedroom or living room is a great way to relax. A hanging chair will surely fit any interior.
+Ein Hängestuhl ist eine großartige Ergänzung für jedes Haus. Er ist ein modernes Einrichtungselement, das Ihre Gäste beeindrucken wird. Es stehen viele Farben und Designs zur Auswahl. Ein solches Möbelstück, das in einem Schlaf- oder Wohnzimmer steht, ist eine großartige Möglichkeit, sich zu entspannen. Ein Hängesessel passt sicherlich in jede Einrichtung.
 
-## Langing chair - FAQ
+## Hängender Stuhl - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-How to make a hanging chair?
+Wie macht man einen Hängestuhl?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Brazilian hammock chair is a relatively easy hanging chair to make. All you need is a sturdy piece of cloth, strong rope, a broomstick and hanging elements. Attach the rope to the cloth and to the stick, and then to the chain and hook. You can find a detailed tutorial on the Internet.
+Der brasilianische Hängemattenstuhl ist ein relativ leicht herzustellender Hängesessel. Alles, was Sie brauchen, ist ein robustes Stück Stoff, ein starkes Seil, einen Besenstiel und Hängeelemente. Befestigen Sie das Seil am Tuch und am Stock, dann an der Kette und am Haken. Ein ausführliches Tutorial finden Sie im Internet.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to hang a hanging chair?
+Wie hängt man einen Hängestuhl auf?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-If you want to attach a hanging chair to the ceiling, test the ceiling first. If it is safe, drill a hole in a desired place and use chemical anchor to attach an eye screw or wall plug to the ceiling. Attach the rest of the elements and test the construction - if it can hold two people, attach the hanging chair.
+Wenn Sie einen Hängestuhl an der Decke befestigen möchten, testen Sie zuerst die Decke. Wenn es sicher ist, bohren Sie ein Loch an der gewünschten Stelle und verwenden Sie einen chemischen Dübel, um eine Ösenschraube oder einen Dübel an der Decke zu befestigen. Befestigen Sie die restlichen Elemente und testen Sie die Konstruktion - wenn sie zwei Personen halten kann, befestigen Sie den Hängestuhl.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to install a hanging chair?
+Wie installiert man einen Hängestuhl?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-There are two ways to install a hanging chair, depending on its type. The first one requires minimal effort - the chair just needs to be hung on its stand. The other type needs to be hung from the ceiling.
+Es gibt zwei Möglichkeiten, einen Hängestuhl zu installieren, abhängig von seinem Typ. Die erste erfordert nur minimalen Kraftaufwand - der Stuhl muss nur an seinem Ständer aufgehängt werden. Der andere Typ muss an der Decke aufgehängt werden.
 {% endfaqAnswer %}
 {% endfaqItem %}
