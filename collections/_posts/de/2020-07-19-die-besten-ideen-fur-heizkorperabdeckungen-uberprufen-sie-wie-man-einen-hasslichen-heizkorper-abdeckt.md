@@ -24,33 +24,32 @@ main_keywords:
 - wie man eine Heizkörperabdeckung baut
 - wie man eine Heizkörperabdeckung herstellt
 - wie man einen Heizkörper abdeckt
-published: false
 
 ---
-## What is a radiator cover?
+## Was ist eine Heizkörperabdeckung?
 
-A radiator cover is an attachment which can **increase aesthetics of the heat exchanger.** It is typically used with older models like steel column radiators. Using a radiator cover usually does not influence heating efficiency. In many cases it can be used as an **extension for the windowsill**. This way the element gains a new functionality.
+Eine Heizkörperabdeckung ist eine Befestigung, die die Ästhetik des Wärmetauschers erhöhen kann. Sie wird typischerweise bei älteren Modellen, wie z.B. Säulenheizkörpern aus Stahl, verwendet. Die Verwendung einer Heizkörperabdeckung hat in der Regel keinen Einfluss auf die Heizeffizienz. In vielen Fällen kann sie als Verlängerung für die Fensterbank verwendet werden. Auf diese Weise erhält das Element eine neue Funktionalität.
 
-{:.distinction.distinction-information} 
+{:.distinction.distinction-information}
 
-For this reason a radiator cover is an increasingly popular solution used by many homeowners to match the device with an **interior design**. It also allows to spare money that would have been spent for a new decorative radiator.
+Aus diesem Grund ist eine Heizkörperabdeckung eine immer beliebtere Lösung, die von vielen Hausbesitzern verwendet wird, um das Gerät an die Inneneinrichtung anzupassen. Sie ermöglicht es auch, Geld zu sparen, das für einen neuen dekorativen Heizkörper ausgegeben worden wäre.
 
-Hiding an ugly element is not the only function of a **radiator cover**. If designed well, it can become an additional shelf, as well as  a protection for little children’s hands. If you want to install a radiator cover in a children’s room, it is best to choose a colourful one, for instance with favourite animals or cartoon characters.
+Das Verstecken eines hässlichen Elements ist nicht die einzige Funktion einer Heizkörperabdeckung. Wenn sie gut gestaltet ist, kann sie zu einer zusätzlichen Ablage werden, aber auch zum Schutz der Hände kleiner Kinder. Wenn Sie eine Heizkörperverkleidung in einem Kinderzimmer anbringen möchten, wählen Sie am besten eine farbenfrohe, zum Beispiel mit Lieblingstieren oder Zeichentrickfiguren.
 
 {% fig %}
 ![Is a radiator cover worth it?](/uploads/czy-zabudowa-grzejnika-sie-oplaca.jpg "Is a radiator cover worth it?")
 {% endfig %}
 
-## Is a radiator cover worth it?
+## Lohnt sich eine Heizkörperabdeckung?
 
-Most of heating devices experts probably would say that using a radiator cover is a waste of energy. On the other hand, supporters of such solution claim that **it has many advantages**. Before you decide which is best for you, it is good to learn arguments from both sides. It will help you decide whether you need a radiator cover or not.
+Die meisten Experten für Heizgeräte würden wahrscheinlich sagen, dass die Verwendung einer Heizkörperabdeckung eine Energieverschwendung ist. Auf der anderen Seite behaupten die Befürworter einer solchen Lösung, dass sie viele Vorteile hat. Bevor Sie entscheiden, was für Sie am besten ist, ist es gut, Argumente von beiden Seiten zu lernen. Das wird Ihnen bei der Entscheidung helfen, ob Sie eine Heizkörperabdeckung benötigen oder nicht.
 
-### Radiator cover - advantages
+### Heizkörperabdeckung - Vorteile
 
-Using a radiator cover has many advantages. The most important and crucial benefit of covering your radiator is **increasing its aesthetic value**. It is the main reason why many homeowners decide to employ such elements in their apartments. A radiator cover is a decorative element that can be suited to your home design.
+Die Verwendung einer Heizkörperabdeckung hat viele Vorteile. Der wichtigste und entscheidende Vorteil einer Heizkörperverkleidung ist die Erhöhung des ästhetischen Wertes Ihres Heizkörpers. Dies ist der Hauptgrund, warum viele Hausbesitzer sich dafür entscheiden, solche Elemente in ihren Wohnungen einzusetzen. Eine Heizkörperverkleidung ist ein dekoratives Element, das sich an das Design Ihrer Wohnung anpassen kann.
 
 {:.distinction.distinction-information}
-Manufacturers offer a lot of solutions and if your requirements do not meet the standards, you can always customise the project. In this situation, you can choose what material the radiator cover should be made of and adapt the appearance of the structure to your own preferences.
+Die Hersteller bieten eine Vielzahl von Lösungen an, und wenn Ihre Anforderungen nicht den Standards entsprechen, können Sie das Projekt jederzeit anpassen. In diesem Fall können Sie wählen, aus welchem Material die Heizkörperabdeckung bestehen soll, und das Erscheinungsbild der Struktur an Ihre eigenen Wünsche anpassen.
 
 {% fig %}
 
@@ -58,33 +57,33 @@ Manufacturers offer a lot of solutions and if your requirements do not meet the 
 
 {% endfig %}
 
-You can reduce the cost of a radiator cover by crafting it yourself. It is not as difficult as it seems and designing such a project is very satisfying. Whether you make it or purchase it, a **radiator cover** is usually very easy to install.
+Sie können die Kosten für eine Heizkörperabdeckung reduzieren, indem Sie sie selbst herstellen. Es ist nicht so schwierig, wie es scheint, und die Gestaltung eines solchen Projekts ist sehr zufriedenstellend. Unabhängig davon, ob Sie es anfertigen oder kaufen, ist eine Heizkörperverkleidung in der Regel sehr einfach zu installieren.
 
-An additional advantage of covering your radiator is the **double functionality** of the element. Apart from being a decoration, the cover might also become a storage unit. You can also choose a cover that resembles a dresser. You might make a bedside table in a bedroom, and if the radiator stands by the window - a seat or a bench. If there are children in the house, the radiator cover is also a protection against burning their hands. Such a solution is often used in kindergartens.
+Ein zusätzlicher Vorteil einer Heizkörperverkleidung ist die doppelte Funktionalität des Elements. Abgesehen davon, dass sie eine Dekoration ist, kann die Abdeckung auch zu einer Aufbewahrungseinheit werden. Sie können auch eine Abdeckung wählen, die einer Kommode ähnelt. Sie können in einem Schlafzimmer einen Nachttisch und - wenn der Heizkörper am Fenster steht - einen Sitz oder eine Bank einrichten. Wenn sich Kinder im Haus aufhalten, ist die Heizkörperabdeckung auch ein Schutz gegen das Verbrennen ihrer Hände. Eine solche Lösung wird oft in Kindergärten verwendet.
 
 {:.distinction.distinction-information}
-A **radiator cover** is a far cheaper and much simpler solution than a complete replacement of your radiator. Renovating the installation might be time-consuming. Also, new decorative radiators are much more expensive than ordinary devices.
+Eine Heizkörperabdeckung ist eine viel billigere und viel einfachere Lösung als ein kompletter Austausch Ihres Heizkörpers. Eine Renovierung der Anlage kann zeitaufwändig sein. Außerdem sind neue dekorative Heizkörper viel teurer als gewöhnliche Geräte.
 
 {% fig %}
 ![Radiator cover - advantages](/uploads/oslona-na-grzejnik-zalety.jpg "Radiator cover - advantages")
 {% endfig %}
 
-### Radiator cover - disadvantages
+### Heizkörperabdeckung - Nachteile
 
-The biggest disadvantage of using a radiator cover is **decreasing the device heating efficiency.** Regardless of the design of the decorative element, using it always means decreasing the heating power.
+Der größte Nachteil der Verwendung einer Heizkörperabdeckung ist die Verringerung der Heizeffizienz des Geräts. Unabhängig von der Gestaltung des Dekorelements bedeutet seine Verwendung immer eine Verringerung der Heizleistung.
 
 {:.distinction.distinction-warning}
-The screen blocks out the device, therefore it is more difficult for the heat to reach the room. It might be the cause of **decreasing the temperature in the room**. For this reason you might have to turn up the heating, which might lead to an increase in heating bills that anyone would prefer to avoid.
+Der Bildschirm blockiert das Gerät, daher ist es für die Wärme schwieriger, den Raum zu erreichen. Dies könnte die Ursache für eine Senkung der Raumtemperatur sein. Aus diesem Grund müssen Sie möglicherweise die Heizung aufdrehen, was zu einer Erhöhung der Heizkosten führen kann, die jeder lieber vermeiden würde.
 
-A similar situation might occur if your heater has a thermostat. The temperature behind the cover is higher than in the room - which causes the thermostat to cut off the warm water inside the device. Having that in mind, remember about **proper ventilation** when designing a radiator cover. Under no circumstance cover the radiator completely.
+Eine ähnliche Situation könnte auftreten, wenn Ihre Heizung mit einem Thermostat ausgestattet ist. Die Temperatur hinter der Abdeckung ist höher als im Raum - was dazu führt, dass der Thermostat das warme Wasser im Inneren des Geräts abschaltet. Denken Sie deshalb bei der Gestaltung einer Heizkörperabdeckung an die richtige Belüftung. Decken Sie den Heizkörper unter keinen Umständen vollständig ab.
 
-## What radiator cover is the best?
+## Welche Heizkörperabdeckung ist die beste?
 
-Manufacturers offer a lot of various solutions. Choose one that matches your own needs and the design of your room. There are many types of covers - the most common materials are:
+Die Hersteller bieten eine Menge verschiedener Lösungen an. Wählen Sie eine, die Ihren eigenen Bedürfnissen und dem Design Ihres Raumes entspricht. Es gibt viele Arten von Abdeckungen - die gängigsten Materialien sind:
 
 {:.list.list-positive}
 
-* **Wood** - it is one of the best looking materials. Covers in form of a seat or a bench are typically made of wood. Wooden radiator covers **might be much more expensive than other materials**.
+* Holz - es ist eines der am besten aussehenden Materialien. Bezüge in Form eines Sitzes oder einer Bank werden typischerweise aus Holz hergestellt. Heizkörperabdeckungen aus Holz sind unter Umständen viel teurer als andere Materialien.
 
 {% fig %}
 ![What radiator cover is the best?](/uploads/jaka-oslona-na-kaloryfer-jest-najlepsza.jpg "What radiator cover is the best?")
@@ -92,68 +91,68 @@ Manufacturers offer a lot of various solutions. Choose one that matches your own
 
 {:.list.list-positive}
 
-* **PCV** - this material is one of the cheapest. Its main advantages are the light weight and flexibility when it comes to cutting patterns. There are **many manufacturers producing boards made of this material** - you can purchase one in a chosen pattern.
-* **MDF** - radiator covers made of MDF boards are quite durable. Manufacturers offer a lot of shapes and designs.
-* **Glass** - this material is very aesthetic, however it might be very prone to damage. It is also quite heavy.
-* **Metal** - the most commonly used metals are steel and aluminium. A metal radiator cover is very durable and conducts heat well. Keep in mind that this type does not protect from burns.
+* PCV - dieses Material ist eines der billigsten. Seine Hauptvorteile sind das geringe Gewicht und die Flexibilität, wenn es um Schnittmuster geht. Es gibt viele Hersteller, die Platten aus diesem Material herstellen - Sie können eine in einem gewählten Muster kaufen.
+* MDF - Heizkörperabdeckungen aus MDF-Platten sind ziemlich haltbar. Die Hersteller bieten eine Vielzahl von Formen und Designs an.
+* Glas - dieses Material ist sehr ästhetisch, aber es kann sehr anfällig für Beschädigungen sein. Es ist auch ziemlich schwer.
+* Metall - die am häufigsten verwendeten Metalle sind Stahl und Aluminium. Eine Heizkörperabdeckung aus Metall ist sehr haltbar und leitet die Wärme gut ab. Denken Sie daran, dass diese Art nicht vor Verbrennungen schützt.
 
 {:.distinction.distinction-warning}
-Each type of material used for a radiator cover should be **resistant to high temperatures**. On no account use materials that are easy to burn or that have been painted with a substance emanating fumes.
+Jede Art von Material, das für eine Heizkörperabdeckung verwendet wird, sollte gegen hohe Temperaturen beständig sein. Verwenden Sie auf keinen Fall Materialien, die leicht zu verbrennen sind oder die mit einer Substanz gestrichen wurden, die Dämpfe ausstößt.
 
-Radiator covers have various types of construction. **A hanging model** is the most popular - it is attached either directly to the heater or to the wall behind it. This type is also easiest to clean. There are also covers **standing on the floor**, in form of a chest or a shelf. They are more expensive, however also more elegant. You can also tailor them to fit other furniture pieces in the room.
+Heizkörperabdeckungen haben verschiedene Konstruktionstypen. Am beliebtesten ist ein hängendes Modell - es wird entweder direkt am Heizkörper oder an der dahinter liegenden Wand befestigt. Dieser Typ ist auch am einfachsten zu reinigen. Es gibt auch Abdeckungen, die auf dem Boden stehen, in Form einer Truhe oder eines Regals. Sie sind teurer, aber auch eleganter. Man kann sie auch auf andere Möbelstücke im Raum zuschneiden.
 
-## DIY radiator cover
+## DIY-Heizkörperabdeckung
 
-There are many products of this type available on the market. You can choose from various sizes and different prices. Regardless, you might consider making such an element by yourself. It not very difficult, you just need to remember about a good design that will not disturb the functioning of the device.
+Es sind viele Produkte dieser Art auf dem Markt erhältlich. Sie können zwischen verschiedenen Größen und unterschiedlichen Preisen wählen. Unabhängig davon könnten Sie in Erwägung ziehen, ein solches Element selbst herzustellen. Das ist nicht sehr schwierig, Sie müssen nur an ein gutes Design denken, das die Funktion des Gerätes nicht stört.
 
-Before doing anything, you should think of the suitable material. If you use plywood for a radiator cover, you can cut interesting shapes in the front wall. If the heater is located under a window, you might consider **making a cover out of vertical boards**. You could also place the boards horizontally, using a strong construction to hold them.
+Bevor Sie irgendetwas machen, sollten Sie an das geeignete Material denken. Wenn Sie Sperrholz für eine Heizkörperabdeckung verwenden, können Sie interessante Formen in die Stirnwand schneiden. Wenn sich der Heizkörper unter einem Fenster befindet, können Sie eine Abdeckung aus senkrechten Brettern anfertigen. Sie könnten die Bretter auch horizontal platzieren und dabei eine stabile Konstruktion verwenden, um sie zu halten.
 
 {:.distinction.distinction-information}
-If your budget is low, a good idea is to use boards from old pallets. It is not only cheap but also eco-friendly. Painting the boards in light shades adds to the elegance of the whole construction and fits modern styles.
+Wenn Ihr Budget gering ist, ist es eine gute Idee, Bretter von alten Paletten zu verwenden. Das ist nicht nur billig, sondern auch umweltfreundlich. Eine Bemalung der Bretter in hellen Farbtönen trägt zur Eleganz der gesamten Konstruktion bei und passt zu modernen Stilen.
 
 {% fig %}
 ![DIY radiator cover](/uploads/diy-wlasnorecznie-wykonana-oslona-na-kaloryfer.jpg "DIY radiator cover")
 {% endfig %}
 
-An interesting solution involves using **an openwork board**, for instance made of PCV and attaching it to a wooden construction made of wooden boards. Painted in the same colour as the board, such radiator cover is a very aesthetically pleasing decoration.
+Eine interessante Lösung besteht darin, ein durchbrochenes Brett, zum Beispiel aus PCV, zu verwenden und es an einer Holzkonstruktion aus Holzbrettern zu befestigen. Eine solche Heizkörperabdeckung, die in der gleichen Farbe wie die Platte lackiert wird, ist eine sehr ästhetisch ansprechende Dekoration.
 
 {% fig %}
 ![DIY radiator cover](/uploads/diy-wlasnorecznie-wykonana-oslona-na-kaloryfer2.jpg "DIY radiator cover")
 {% endfig %}
 
 {:.distinction.distinction-warning}
-Keep in mind that if you are not so sure that you are able to craft such an element, making a cover by yourself is not worth it. It might end up in a huge disappointment. Moreover, a **poorly designed element might disrupt functionality of your radiator**. If you have a particular, custom project in mind, pay someone to make it for you. This way you will avoid disappointment and make sure that your radiator cover is elegant.
+Denken Sie daran, dass es sich nicht lohnt, ein solches Element selbst herzustellen, wenn Sie sich nicht so sicher sind, dass Sie in der Lage sind, ein solches Element herzustellen. Es könnte in einer großen Enttäuschung enden. Außerdem könnte ein schlecht gestaltetes Element die Funktionalität Ihres Heizkörpers stören. Wenn Sie ein bestimmtes, individuelles Projekt im Sinn haben, bezahlen Sie jemanden, der es für Sie anfertigt. Auf diese Weise vermeiden Sie Enttäuschungen und sorgen dafür, dass Ihre Heizkörperabdeckung elegant ist.
 
-A radiator cover is a good solution if you want to hide a not very attractive heater. The element might change the look of your interior, increasing its aesthetic value. Before choosing such a decoration for your home, you should consider all its advantages and disadvantages. A good design is crucial in this case, as it minimizes the risk of losing the functionality of the device.
+Eine Heizkörperabdeckung ist eine gute Lösung, wenn Sie einen nicht sehr attraktiven Heizkörper verstecken wollen. Das Element kann das Aussehen Ihres Innenraums verändern und seinen ästhetischen Wert erhöhen. Bevor Sie eine solche Dekoration für Ihr Heim wählen, sollten Sie alle Vor- und Nachteile abwägen. Ein gutes Design ist in diesem Fall von entscheidender Bedeutung, da es das Risiko minimiert, die Funktionalität des Gerätes zu verlieren.
 
-## Radiator cover - FAQ
+## Heizkörper-Abdeckung - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-How to build a radiator cover?
+Wie baut man eine Heizkörperabdeckung?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-There are many DIY ideas on how to build a radiator cover - one of them involves using an openwork board and attaching it to a wooden construction. You can use the web to search for more radiator cover ideas. Use them only when you are absolutely sure that you are able to do it.
+Es gibt viele Heimwerker-Ideen, wie man eine Heizkörperabdeckung baut - eine davon besteht darin, ein durchbrochenes Brett zu verwenden und es an einer Holzkonstruktion zu befestigen. Sie können im Internet nach weiteren Ideen für Heizkörperverkleidungen suchen. Verwenden Sie diese nur, wenn Sie absolut sicher sind, dass Sie dazu in der Lage sind.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to make a radiator cover that is eco-friendly?
+Wie kann man eine Heizkörperabdeckung herstellen, die umweltfreundlich ist?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-A good budget and eco-friendly radiator cover idea is using boards from an old pallet. You can attach them either vertically or horizontally, using a special construction to hold the boards.
+Eine gute budget- und umweltfreundliche Idee für Kühlerabdeckungen ist die Verwendung von Brettern aus einer alten Palette. Sie können sie entweder vertikal oder horizontal befestigen, wobei eine spezielle Konstruktion zum Halten der Bretter verwendet wird.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to cover a radiator?
+Wie wird ein Heizkörper abgedeckt?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The best idea is to buy a cover from a manufacturer. There are many types of covers available. If you have some crafting skills, you might make a cover yourself.
+Die beste Idee ist es, eine Hülle von einem Hersteller zu kaufen. Es sind viele Arten von Abdeckungen erhältlich. Wenn Sie über einige handwerkliche Fähigkeiten verfügen, können Sie vielleicht selbst eine Hülle anfertigen.
 {% endfaqAnswer %}
 {% endfaqItem %}
