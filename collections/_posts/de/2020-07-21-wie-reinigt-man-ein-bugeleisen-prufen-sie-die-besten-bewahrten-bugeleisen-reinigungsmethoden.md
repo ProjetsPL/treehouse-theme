@@ -10,159 +10,160 @@ toc: true
 promoted: false
 update_date: 2020-07-21
 title: Wie reinigt man ein Bügeleisen? Prüfen Sie die besten bewährten Bügeleisen-Reinigungsmethoden
-description: Dirty iron plate makes ironing difficult? Are you afraid that it might
-  ruin your clothes? ➡️ Learn how to clean an iron - effectively and with no effort!
-intro: Have you ever discovered a stain on your clothes when ironing? Or perhaps you
-  were infuriated because your old, burnt iron had ruined your favourite piece of
-  garment. Such situations are a result of dirt that accumulates on the device. If
-  you dream of fresh, clean clothes, first you need to take care of your iron. Learn
-  how to clean an iron and get rid of the dirt on your appliance.
+description: Schmutzige Eisenplatte macht das Bügeln schwierig? Haben Sie Angst, dass
+  sie Ihre Kleidung ruinieren könnte? ➡️ Lernen Sie, wie Sie ein Bügeleisen reinigen
+  können - effektiv und ohne Anstrengung!
+intro: Haben Sie schon einmal beim Bügeln einen Fleck auf Ihrer Kleidung entdeckt?
+  Oder vielleicht waren Sie verärgert, weil Ihr altes, verbranntes Bügeleisen Ihr
+  Lieblingskleidungsstück ruiniert hatte. Solche Situationen sind eine Folge von Schmutz,
+  der sich auf dem Gerät ansammelt. Wenn Sie von frischen, sauberen Kleidungsstücken
+  träumen, müssen Sie sich zuerst um Ihr Bügeleisen kümmern. Lernen Sie, wie Sie ein
+  Bügeleisen reinigen und den Schmutz auf Ihrem Gerät loswerden können.
 image: "/uploads/jak-wyczyscic-zelazko-skuteczne -sposoby-na-czyszczenie-zelazka.jpg"
 related_products: []
-published: false
 
 ---
-## Why is it so important to clean an iron plate?
+## Warum ist es so wichtig, eine Eisenplatte zu reinigen?
 
-Regular iron plate cleaning is a highly important matter, as it helps to keep the device in good shape. This way **your clothes can always look neat and clean.** But systematic cleaning of the iron plate might be just not enough.
+Die regelmäßige Reinigung der Eisenplatten ist sehr wichtig, da sie dazu beiträgt, das Gerät in gutem Zustand zu halten. Auf diese Weise kann Ihre Kleidung immer ordentlich und sauber aussehen. Aber eine systematische Reinigung der Bügelplatte reicht unter Umständen einfach nicht aus.
 
-To make an iron work better, one should:
+Damit ein Bügeleisen besser funktioniert, sollte man es tun:
 
 {:.list.list-positive}
 
-* follow the manufacturer's instructions and recommendations,
-* wipe the iron plate right before using it,
-* iron delicate fabrics through a cotton cloth,
-* start **cleaning iron plate** only after it cools off,
-* remove any lefover water from the container every time after ironing,
-* descale the device regularly,
-* avoid rubbing the iron plate against sharp surfaces,
-* avoid using strong chemicals intended for metals.
+* Befolgen Sie die Anweisungen und Empfehlungen des Herstellers,
+* Wischen Sie die Eisenplatte unmittelbar vor der Verwendung ab,
+* empfindliche Stoffe durch ein Baumwolltuch bügeln,
+* mit der Reinigung der Eisenplatte erst dann beginnen, wenn sie abgekühlt ist,
+* Entfernen Sie nach jedem Bügeln das überschüssige Wasser aus dem Behälter,
+* entkalken Sie das Gerät regelmäßig,
+* Vermeiden Sie das Reiben der Eisenplatte an scharfen Oberflächen,
+* vermeiden Sie die Verwendung starker Chemikalien, die für Metalle bestimmt sind.
 
-Dirt might accumulate on the device for various reasons. One of them is dust settling on the iron plate. A growing **layer of dust creates a sticky surface and adheres to the appliance**. When heated, the dirty residue remains on the ironed clothes.
+Aus verschiedenen Gründen kann sich Schmutz auf dem Gerät ansammeln. Einer davon ist Staub, der sich auf der Eisenplatte absetzt. Eine wachsende Staubschicht erzeugt eine klebrige Oberfläche und haftet am Gerät. Beim Erwärmen bleibt der Schmutzrückstand auf der gebügelten Kleidung zurück.
 
 {% fig %}
 ![Why is it so important to clean an iron plate?](/uploads/dlaczego-regularne-czyszczenie-zelazka-jest-wazne.jpg "Why is it so important to clean an iron plate?")
 {% endfig %}
 
-Other factor that might have an adverse impact is setting the temperature too high. As a result, the **burnt iron leaves black marks on clothes that are difficult to wash off**. The dirt accumulates inside of the device as well. Hard water that is poured into the water container might cause lime scale buildup. For this reason anyone who wonders how to clean an iron whould remember to clean it inside as well.
+Ein weiterer Faktor, der sich nachteilig auswirken könnte, ist die Einstellung einer zu hohen Temperatur. Als Folge davon hinterlässt das verbrannte Bügeleisen schwarze Flecken auf der Kleidung, die schwer abzuwaschen sind. Der Schmutz sammelt sich auch im Inneren des Gerätes an. Hartes Wasser, das in den Wasserbehälter gegossen wird, kann Kalkablagerungen verursachen. Aus diesem Grund sollte jeder, der sich fragt, wie man ein Bügeleisen reinigt, daran denken, es auch innen zu reinigen.
 
 {:.distinction.distinction-information}
-For ironing to be effective and unproblematic, just **cleaning iron plate** is not enough. The surface on which the clothes are ironed is equally important. The most convenient and also the safest solution is simply an ironing board. In case you do not own an object of this type (e.g. because of lack of space), you might use a towel placed onto a smooth and hard surface.
+Damit Bügeln effektiv und unproblematisch ist, reicht es nicht aus, nur die Eisenplatte zu reinigen. Die Oberfläche, auf der die Wäsche gebügelt wird, ist ebenso wichtig. Die bequemste und auch die sicherste Lösung ist einfach ein Bügelbrett. Falls Sie einen solchen Gegenstand nicht besitzen (z.B. aus Platzmangel), können Sie ein Handtuch verwenden, das auf eine glatte und harte Oberfläche gelegt wird.
 
-## How to clean an iron? 5 DIY tricks to clean a steam iron
+## Wie reinigt man ein Bügeleisen? 5 DIY-Tricks zum Reinigen eines Dampfbügeleisens
 
-One of the most popular methods to **clean an iron** is using a mixture of vinegar and baking soda. Such cleaning solution in form of **paste is perfect for getting rid of difficult stains on an iron**. Prepare the mixture in proportion 2:1 - mix two parts of soda with one part of vinegar. Be careful not to mix the solution too quickly. The ingredients react with each other and they might grow very rapidly, forming a lot of foam.
+Eine der beliebtesten Methoden zur Reinigung eines Bügeleisens ist die Verwendung einer Mischung aus Essig und Backpulver. Eine solche Reinigungslösung in Form einer Paste ist perfekt, um schwierige Flecken auf einem Bügeleisen zu entfernen. Bereiten Sie die Mischung im Verhältnis 2:1 vor - mischen Sie zwei Teile Soda mit einem Teil Essig. Achten Sie darauf, die Lösung nicht zu schnell zu mischen. Die Bestandteile reagieren miteinander, und sie können sehr schnell wachsen und viel Schaum bilden.
 
 {:.distinction.distinction-warning}
-Although this method is highly effective, it cannot be used with a teflon iron plate. The mixture of those two ingredients is harmful to teflon surfaces.
+Obwohl diese Methode sehr effektiv ist, kann sie nicht mit einer Teflon-Eisenplatte verwendet werden. Die Mischung dieser beiden Bestandteile ist schädlich für Teflonoberflächen.
 
-### Toothpaste to clean a burnt iron plate
+### Zahnpasta zum Reinigen einer verbrannten Eisenplatte
 
-How to clean an iron plate made of aluminium? Toothpaste is a perfect remedy for it. Just use some mint toothpaste, spreading it all over the plate with a soft cloth or a toothbrush. **Rub the iron plate delicately** until the burn marks dissapear. Then clean the surface off the paste, paying attetion to the steam holes in the device.
+Wie reinigt man eine Eisenplatte aus Aluminium? Zahnpasta ist ein perfektes Mittel dagegen. Benutzen Sie einfach etwas Pfefferminzzahnpasta und verteilen Sie sie mit einem weichen Tuch oder einer Zahnbürste auf der gesamten Platte. Reiben Sie die Eisenplatte vorsichtig ab, bis die Brandflecken verschwunden sind. Reinigen Sie dann die Oberfläche von der Paste und achten Sie dabei auf die Dampflöcher im Gerät.
 
 {% fig %}
 ![Toothpaste to clean a burnt iron plate](/uploads/sprawdz-jak-dziala-pasta-do-zebow-na-przypalone-zelazko.jpg "Toothpaste to clean a burnt iron plate")
 {% endfig %}
 
-### Paracetamol - not that obvious but highly effective method to clean an iron
+### Paracetamol - keine so offensichtliche, aber hochwirksame Methode zur Reinigung eines Bügeleisens
 
-There are methods on **how to clean an iron** that might be less popular - but they are equally powerful as the others. One of them is using paracetamol. The biggest advantage is the fact that it can be used on any type of surface. Just heat up the iron and press a paracetamol tablet against the surface. To easily get rid of the black marks, **rub it with circular movements against the soleplate**.
+Es gibt Methoden, wie man ein Bügeleisen reinigen kann, die vielleicht weniger beliebt sind - aber sie sind genauso wirkungsvoll wie die anderen. Eine davon ist die Verwendung von Paracetamol. Der größte Vorteil ist die Tatsache, dass es auf jeder Art von Oberfläche verwendet werden kann. Man braucht das Bügeleisen nur zu erhitzen und eine Paracetamol-Tablette gegen die Oberfläche zu drücken. Um die schwarzen Flecken leicht zu entfernen, reibt man sie mit kreisenden Bewegungen gegen die Sohle.
 
 {:.distinction.distinction-information}
-Wait until the iron plate cools off and finish the cleaning using a wet cloth.
+Warten Sie, bis die Eisenplatte abgekühlt ist, und beenden Sie die Reinigung mit einem feuchten Tuch.
 
-### How to clean an iron using lemon juice
+### Wie man ein Bügeleisen mit Zitronensaft reinigt
 
-Lemon juice is an effective agent that dissolves even the most stubborn dirts that sticks to the surface of the device. It is one of the fastest methods to **clean iron plate**. It might be used with any surface, also **ceramic and teflon**. Just soak a soft cloth with some lemon juice. Then rub the burnt surface until the black marks dissapear. You can get similar results when ironing a fluffy towel soaked with lemon juice.
+Zitronensaft ist ein wirksames Mittel, das selbst hartnäckigste Verschmutzungen, die an der Oberfläche des Geräts haften bleiben, auflöst. Es ist eine der schnellsten Methoden zur Reinigung von Eisenplatten. Es kann mit jeder Oberfläche verwendet werden, auch mit Keramik und Teflon. Tränken Sie einfach ein weiches Tuch mit etwas Zitronensaft. Reiben Sie dann die verbrannte Oberfläche ab, bis die schwarzen Flecken verschwinden. Sie können ähnliche Ergebnisse erzielen, wenn Sie ein flauschiges, mit Zitronensaft getränktes Handtuch bügeln.
 
 {% fig %}
 ![How to clean an iron using lemon juice](/uploads/jak-wyczyscic-zelazko-sokiem-z-cytryny.jpg "How to clean an iron using lemon juice")
 {% endfig %}
 
-### A burnt iron plate? Just use cooking salt
+### Eine verbrannte Eisenplatte? Verwenden Sie einfach Kochsalz
 
-Salt is a good way to clean any type of iron. Place a piece of parchment paper or newspaper on an even, flat surface. Then pour some salt on it and press a hot iron. Rub it against the salted surface - the dirt is going to dissapear after a few minutes.
+Salz ist ein gutes Mittel, um jede Art von Eisen zu reinigen. Legen Sie ein Stück Pergamentpapier oder Zeitung auf eine ebene, flache Oberfläche. Gießen Sie dann etwas Salz darauf und drücken Sie ein heißes Bügeleisen. Reiben Sie es gegen die gesalzene Oberfläche - der Schmutz wird sich nach einigen Minuten auflösen.
 
-## How to clean an iron with a ceramic plate?
+## Wie reinigt man ein Bügeleisen mit einer Keramikplatte?
 
-A ceramic iron plate is very delicate, therefore it needs special treatment.
+Eine keramische Eisenplatte ist sehr empfindlich, weshalb sie einer besonderen Behandlung bedarf.
 
-Small stains can be removed with acidic solutions such as vinegar or lemon juice. If the iron is badly burnt, they might be ineffective. How to clean an iron in such case? Just use a raw wooden board. Heat up the device and rub the board against the surface, using appropriate force.
+Kleine Flecken können mit sauren Lösungen wie Essig oder Zitronensaft entfernt werden. Wenn das Eisen stark verbrannt ist, können sie unwirksam sein. Wie reinigt man ein Bügeleisen in einem solchen Fall? Verwenden Sie einfach ein rohes Holzbrett. Erhitzen Sie das Gerät und reiben Sie das Brett mit angemessener Kraft gegen die Oberfläche.
 
 {:.distinction.distinction-warning}
-Be careful not to press too strong when ironing. It might damage the fragile iron plate. You might also try to use a special brush for ceramic surfaces. Keep in mind that it is a risky method and you should be careful.
+Achten Sie darauf, beim Bügeln nicht zu stark zu drücken. Es könnte die zerbrechliche Eisenplatte beschädigen. Sie können auch versuchen, eine spezielle Bürste für Keramikoberflächen zu verwenden. Denken Sie daran, dass dies eine riskante Methode ist und Sie vorsichtig sein sollten.
 
-## How to clean a iron with a teflon-coated plate?
+## Wie reinigt man ein Bügeleisen mit einer teflonbeschichteten Platte?
 
-Another fragile type of irons are the ones with a teflon-coated plates. They are very prone to scratches, therefore one should use such a device carefully.
+Eine weitere zerbrechliche Art von Bügeleisen sind die mit teflonbeschichteten Platten. Sie sind sehr kratzempfindlich, deshalb sollte man mit einem solchen Gerät vorsichtig umgehen.
 
-**How to clean an iron** so that the process is safe for the surface? If the plate is burnt, you might try rubbing it with a soft cloth dampened with vinegar. Because teflon is a very delicate surface, cleaning iron plate requires extra patience.
+Wie reinigt man ein Bügeleisen so, dass der Prozess für die Oberfläche sicher ist? Wenn die Platte verbrannt ist, kann man versuchen, sie mit einem weichen, mit Essig befeuchteten Tuch abzureiben. Da Teflon eine sehr empfindliche Oberfläche ist, erfordert das Reinigen einer Eisenplatte zusätzliche Geduld.
 
-Mistakes that one should avoid when **cleaning iron plate with a fragile coating**:
+Fehler, die man bei der Reinigung von Eisenplatten mit einer zerbrechlichen Beschichtung vermeiden sollte:
 
 {:.list.list-positive}
 
-* quick, rapid rubbing against the surface,
-* cleaning iron plate with a wire brush,
-* using baking soda or salt,
-* using chemicals meant for other types of surfaces.
+* schnelles, schnelles Reiben an der Oberfläche,
+* Reinigung der Eisenplatte mit einer Drahtbürste,
+* unter Verwendung von Backpulver oder Salz,
+* Verwendung von Chemikalien, die für andere Arten von Oberflächen bestimmt sind.
 
-## How to clean a steam iron safely
+## Wie man ein Dampfbügeleisen sicher reinigt
 
-Everyday cleaning of a steam iron should be performed very carefully so that the device is not damaged.
+Die tägliche Reinigung eines Dampfbügeleisens sollte sehr sorgfältig durchgeführt werden, damit das Gerät nicht beschädigt wird.
 
-A steam iron is quite different than the rest of the appliances of this type. It uses hot steam that is distributed through specially designed steam holes. In traditional irons steam is used only as an addition. Because a steam iron works differently than other devices, it needs to be cleaned differently as well. How to clean an iron of this type so that it's safe?
+Ein Dampfbügeleisen ist ganz anders als die übrigen Geräte dieser Art. Es verwendet heißen Dampf, der durch speziell dafür vorgesehene Dampflöcher verteilt wird. Bei herkömmlichen Bügeleisen wird Dampf nur als Zusatz verwendet. Da ein Dampfbügeleisen anders funktioniert als andere Geräte, muss es auch anders gereinigt werden. Wie reinigt man ein Bügeleisen dieses Typs, damit es sicher ist?
 
 {% fig %}
 ![How to clean a steam iron safely](/uploads/sposob-na-bezpieczne-czyszczenie-zelazka-parowego.jpg "How to clean a steam iron safely")
 {% endfig %}
 
-Similar to every other iron, a steam iron needs to be wiped every time before using it. Otherwise dust might cause the iron plate to burn. For regular cleaning, it is good to use a cream cleaner, specifically designed for this type of devices. It should be spread onto the surface with a clean, soft cloth.
+Wie jedes andere Bügeleisen auch, muss ein Dampfbügeleisen vor jedem Gebrauch abgewischt werden. Anderenfalls könnte die Eisenplatte durch Staub verbrennen. Für die regelmäßige Reinigung ist es gut, einen Cremereiniger zu verwenden, der speziell für diese Art von Geräten entwickelt wurde. Sie sollte mit einem sauberen, weichen Tuch auf die Oberfläche aufgetragen werden.
 
-If the device gets burnt, the best remedy in such case is vinegar. Soak a cloth with a hot solution made of half glass of vinegar and two tablspoons of baking soda. Rub it delicately until the marks are gone - it's a very quick method.
+Wenn das Gerät verbrannt ist, ist Essig das beste Mittel in einem solchen Fall. Weichen Sie ein Tuch mit einer heißen Lösung aus einem halben Glas Essig und zwei Esslöffeln Backpulver ein. Reiben Sie es vorsichtig, bis die Flecken verschwunden sind - es ist eine sehr schnelle Methode.
 
-## How to clean an iron with a scale buildup?
+## Wie reinigt man ein Bügeleisen mit Kesselsteinablagerungen?
 
-Descaling an iron is a very important part of the device maintenace. It should be repeated regularly, at least once in two months. Cleaning iron this way can make it last much longer without any malfunction.
+Die Entzunderung eines Bügeleisens ist ein sehr wichtiger Bestandteil der Gerätewartung. Sie sollte regelmäßig wiederholt werden, mindestens einmal in zwei Monaten. Wenn Sie das Bügeleisen auf diese Weise reinigen, kann es viel länger halten, ohne dass es zu Fehlfunktionen kommt.
 
-If you're wondering how to clean an iron and get rid of limescale - there are several methods to choose from. The easiest way is to buy a descaler. Pouring this strong chemical into the device gets rid of the scale in no time.
-
-{:.distinction.distinction-information}
-Descaler is a very cheap product. It is completely safe for irons so there is no worry that it could damage your device.
-
-Another, even less costly method to clean an iron with a scale buildup is a solution of vinegar with water. Pour it into the water tank and start ironing a cloth until the scale falls off. When ironing, you will smell a characteristic scent of vinegar.
-
-One more, very popular and cheap way to clean an iron off scale is using a citric acid solution. To make it, mix a glass of water with three tablespoons of acid. Similar to the previous method, turn on the iron and start irining a cloth. The scale should fall out of the steam holes.
+Wenn Sie sich fragen, wie Sie ein Bügeleisen reinigen und von Kalk befreien können - es gibt mehrere Methoden, aus denen Sie wählen können. Die einfachste Methode ist der Kauf eines Entkalkers. Wenn Sie diese starke Chemikalie in das Gerät gießen, wird der Kalk im Handumdrehen entfernt.
 
 {:.distinction.distinction-information}
-There are irons that have a special function called _calc-clean_ or _self-clean_. It notifies the user when the device needs to be cleaned. It is typically signalled by a special light.
+Entkalker ist ein sehr billiges Produkt. Es ist völlig sicher für Bügeleisen, so dass Sie keine Sorge haben müssen, dass es Ihr Gerät beschädigen könnte.
+
+Eine andere, noch weniger kostspielige Methode zur Reinigung eines Bügeleisens mit Kesselsteinablagerungen ist eine Essiglösung mit Wasser. Gießen Sie diese in den Wassertank und beginnen Sie mit einem Tuch zu bügeln, bis der Kesselstein abfällt. Beim Bügeln werden Sie einen charakteristischen Essigduft riechen.
+
+Eine weitere, sehr beliebte und billige Möglichkeit, ein Bügeleisen von Kesselstein zu befreien, ist die Verwendung einer Zitronensäurelösung. Um sie herzustellen, mischen Sie ein Glas Wasser mit drei Esslöffeln Säure. Ähnlich wie bei der vorherigen Methode schalten Sie das Bügeleisen ein und beginnen mit dem Bügeln eines Tuches. Der Zunder sollte aus den Dampflöchern herausfallen.
+
+{:.distinction.distinction-information}
+Es gibt Bügeleisen, die eine spezielle Funktion namens calc-clean oder selbstreinigend haben. Es benachrichtigt den Benutzer, wenn das Gerät gereinigt werden muss. Dies wird normalerweise durch ein spezielles Licht signalisiert.
 
 {% faqItem %}
 {% faqQuestion %}
-How to clean an iron that has been burnt?
+Wie reinigt man ein verbranntes Bügeleisen?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-First, choose the right method for cleaning an iron plate. One of the most popular remedies that is safe for any kind of device is ironing a cloth soaked with lemon juice. This way you can quickly get rid of the black marks.
+Wählen Sie zunächst die richtige Methode zur Reinigung einer Eisenplatte. Eines der beliebtesten Mittel, das für jede Art von Gerät sicher ist, ist das Bügeln eines mit Zitronensaft getränkten Tuches. Auf diese Weise können Sie die schwarzen Flecken schnell loswerden.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-What should I use to clean iron plate?
+Was sollte ich zum Reinigen von Eisenplatten verwenden?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Use a soft, damp cloth every time before using the iron to get rid of dust. You might also use an earbud to clean the steamholes. Cleaning iron plate is important, as it prevents the device malfunction.
+Benutzen Sie jedes Mal ein weiches, feuchtes Tuch, bevor Sie das Bügeleisen benutzen, um Staub loszuwerden. Sie können auch einen Ohrstöpsel verwenden, um die Dampflöcher zu reinigen. Die Reinigung der Bügeleisenplatte ist wichtig, da sie eine Fehlfunktion des Geräts verhindert.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to clean an iron with teflon-coating?
+Wie reinigt man ein Bügeleisen mit Teflonbeschichtung?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The best method for cleaning iron plate made of teflon is wiping the surface with a cloth soaked with vinegar. Avoid using force, as it could damage the delicate surface. Do it regularly so that the iron plate is always ready to use.
+Die beste Methode zur Reinigung von Eisenplatten aus Teflon ist das Abwischen der Oberfläche mit einem mit Essig getränkten Tuch. Vermeiden Sie Gewaltanwendung, da sie die empfindliche Oberfläche beschädigen könnte. Machen Sie dies regelmäßig, damit die Eisenplatte immer einsatzbereit ist.
 {% endfaqAnswer %} {% endfaqItem %}
