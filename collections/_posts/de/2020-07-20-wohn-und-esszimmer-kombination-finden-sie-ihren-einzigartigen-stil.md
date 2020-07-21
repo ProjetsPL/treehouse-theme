@@ -19,34 +19,34 @@ toc: true
 promoted: false
 update_date: 2020-07-20
 title: Wohn- und Esszimmer-Kombination - Finden Sie Ihren einzigartigen Stil
-description: "Looking for living room ideas? \U0001F6CB️ How about an open living
-  room with dining area? \U0001F449 Come and take a look at the trendiest dining and
-  living room designs!"
-intro: Creating a living room and dining room combo is a popular interior design.
-  Open floor plan is a perfect solution both for small and large homes. While many
-  consider implementing such an innovative design, separating living and dining area
-  in one room might be tricky. Wondering if an open living room is for you? Take a
-  look and inspire yourself with functional and trendy designs below. Find a perfect
-  one that matches your individual taste!
+description: "Auf der Suche nach Wohnzimmer-Ideen? \U0001F6CB️ Wie wäre es mit einem
+  offenen Wohnzimmer mit Essbereich? \U0001F449 Kommen Sie und schauen Sie sich die
+  trendigsten Ess- und Wohnzimmerentwürfe an!"
+intro: Die Schaffung einer Wohn- und Esszimmer-Kombination ist eine beliebte Inneneinrichtung.
+  Ein offener Grundriss ist eine perfekte Lösung sowohl für kleine als auch für große
+  Häuser. Während viele die Umsetzung eines solch innovativen Designs in Erwägung
+  ziehen, könnte die Trennung von Wohn- und Essbereich in einem Raum schwierig sein.
+  Sie fragen sich, ob ein offenes Wohnzimmer das Richtige für Sie ist? Schauen Sie
+  sich um und lassen Sie sich von den funktionellen und trendigen Designs unten inspirieren.
+  Finden Sie ein perfektes Design, das Ihrem individuellen Geschmack entspricht!
 image: "/uploads/31597166847_efe76fb982_k.jpg"
 related_products: []
-published: false
 
 ---
-## Living room and dining room combo – two spaces in one interior
+## Wohn- und Esszimmer-Kombination - zwei Räume in einem Innenraum
 
-An open living room with dining area is a fantastic solution that appeared in many homes. What's quite interesting, a **living and dining room combo is great for a small apartment, as well as for a large, open concept house.** Living room ideas that implement dining area should be, however, well planned. Although combining those two functionalities seems easy, it is not always so simple.
+Ein offenes Wohnzimmer mit Essbereich ist eine fantastische Lösung, die in vielen Häusern zum Einsatz kam. Was recht interessant ist, eine Wohn- und Esszimmerkombination ist sowohl für eine kleine Wohnung als auch für ein großes, offenes Haus geeignet. Wohnraumideen, die den Essbereich umsetzen, sollten jedoch gut geplant sein. Obwohl die Kombination dieser beiden Funktionalitäten einfach erscheint, ist sie nicht immer so einfach.
 
 {:.distinction.distinction-information}
-Even the tiniest details affect the final result. The most important factor is a good living room idea and specification of the style that the design shall involve.
+Selbst kleinste Details beeinflussen das Endergebnis. Der wichtigste Faktor ist eine gute Wohnzimmervorstellung und die Festlegung des Stils, den das Design beinhalten soll.
 
-## Open living room with dining area for vast spaces
+## Offenes Wohnzimmer mit Essbereich für große Räume
 
-Large spaces are great for designing a living room with dining area – perfect for big **family meetings, eating and relaxing together**. No experience is so bonding for relationships as simply spending time together. It's a huge motivation to make this space pleasant for everyone.
+Große Räume eignen sich hervorragend für die Gestaltung eines Wohnzimmers mit Essbereich - perfekt für große Familientreffen, gemeinsames Essen und Entspannen. Keine Erfahrung ist für Beziehungen so verbindend wie einfach Zeit miteinander zu verbringen. Es ist eine große Motivation, diesen Raum für alle angenehm zu gestalten.
 
-A large open living room with dining area offers **practically endless possibilities** for many fantastic designs. You might, for instance, choose a big table or a huge sofa, where the whole family could gather to watch tv series after sharing a dinner.
+Ein großes offenes Wohnzimmer mit Essbereich bietet praktisch unendliche Möglichkeiten für viele fantastische Designs. Sie könnten sich zum Beispiel für einen großen Tisch oder ein riesiges Sofa entscheiden, wo sich die ganze Familie nach einem gemeinsamen Abendessen zum Fernsehen versammeln kann.
 
-A big living room and dining room combo might be arranged in one style, although **certain minor details might stand out**. Picking various shades of one color is always a good idea. Living area might be lighter, contrasting with the dining room – or other way round.
+Eine große Wohn- und Esszimmer-Kombination könnte in einem Stil eingerichtet werden, auch wenn einige kleinere Details auffallen könnten. Es ist immer eine gute Idee, verschiedene Schattierungen einer Farbe zu wählen. Der Wohnbereich könnte heller sein und mit dem Esszimmer kontrastieren - oder umgekehrt.
 
 {% fig %}
 ![Open living room with dining area for vast spaces](/uploads/salon-z-jadalnia-duza-przestrzen-2-1.jpg "Open living room with dining area for vast spaces")
@@ -72,12 +72,12 @@ A big living room and dining room combo might be arranged in one style, although
 ![Open living room with dining area for vast spaces](/uploads/salon-z-jadalnia-minimalistyczny.jpg "Open living room with dining area for vast spaces")
 {% endfig %}
 
-## Open living room ideas – small interiors
+## Offene Wohnzimmer-Ideen - kleine Innenräume
 
-Apartments available on the market often have up to 40-60 square meters. Such a small space creates a necessity of designing a **living room and dining room combo**. A kitchen is very often added to an open floor plan as well. Such a space usually contains around 20 square meters, which needs to be carefully designed so that the interior keeps its harmony, while each area is functionally divided.
+Die auf dem Markt verfügbaren Wohnungen haben oft bis zu 40-60 Quadratmeter. Ein so kleiner Raum schafft die Notwendigkeit, eine Kombination aus Wohn- und Esszimmer zu gestalten. Sehr oft wird einem offenen Grundriss auch eine Küche hinzugefügt. Ein solcher Raum umfasst in der Regel etwa 20 Quadratmeter, die sorgfältig so gestaltet werden müssen, dass das Innere seine Harmonie behält, während jeder Bereich funktional aufgeteilt ist.
 
 {:.distinction.distinction-information}
-A good method for dividing a kitchen from the living room is creating a dining area in between. It's a simple solution that always works.
+Eine gute Methode, eine Küche vom Wohnzimmer zu trennen, ist die Schaffung eines Essbereichs dazwischen. Es ist eine einfache Lösung, die immer funktioniert.
 
 {% fig %}
 ![Small interiors open living room ideas](/uploads/salon-z-jadalnia-nowoczesny 3-1.jpg "Small interiors open living room ideas")
@@ -103,14 +103,14 @@ A good method for dividing a kitchen from the living room is creating a dining a
 ![Small interiors open living room ideas](/uploads/salon-z-jadalnia-minimalistyczny (3).jpg "Small interiors open living room ideas")
 {% endfig %}
 
-## Modern open floor plan – a practical interior design
+## Moderner offener Grundriss - eine praktische Inneneinrichtung
 
-A modern living room stands for a **practical minimalism**. Such interior does not contain any unnecessary objects, which makes it more functional.
+Ein modernes Wohnzimmer steht für einen praktischen Minimalismus. Ein solches Interieur enthält keine unnötigen Gegenstände, was es funktioneller macht.
 
-If the room contains any niches, it is good to take them into consideration when reviewing your living room arrangement ideas. You might, for instance, easily fit a table or a sofa in it.
+Wenn der Raum Nischen enthält, ist es gut, diese bei der Überprüfung Ihrer Wohnraum-Einrichtungsideen zu berücksichtigen. Sie könnten z.B. leicht einen Tisch oder ein Sofa darin unterbringen.
 
 {:.distinction.distinction-information}
-Remember that minimalist interiors use bright colors. Pastels, greys and whites are great for this style. They can make your living and dining room combo look spacious and bright. Additional advantage is that you might use various accessories to easily change the character of the room at any moment.
+Denken Sie daran, dass minimalistische Innenräume helle Farben verwenden. Pastelltöne, Grau- und Weißtöne eignen sich hervorragend für diesen Stil. Sie können Ihre Wohn- und Esszimmerkombination geräumig und hell erscheinen lassen. Ein weiterer Vorteil ist, dass Sie verschiedene Accessoires verwenden können, um den Charakter des Raumes jederzeit leicht zu verändern.
 
 {% fig %}
 ![Modern open floor plan - a practical interior design](/uploads/salon-z-jadalnia-nowoczesny.jpg "Modern open floor plan - a practical interior design")
@@ -132,12 +132,12 @@ Remember that minimalist interiors use bright colors. Pastels, greys and whites 
 ![Modern open floor plan - a practical interior design](/uploads/32707286918_c2aec8ddf8_c.jpg "Modern open floor plan - a practical interior design")
 {% endfig %}
 
-## English style living room with dining area
+## Wohnzimmer im englischen Stil mit Essbereich
 
-Are you looking for **elegant and unusual living room ideas**? Consider traditional English style. A living room in this style employs massive furniture combined with ornate decorations and fabrics.
+Sind Sie auf der Suche nach eleganten und ungewöhnlichen Wohnraumideen? Erwägen Sie den traditionellen englischen Stil. Ein Wohnzimmer in diesem Stil besteht aus massiven Möbeln, kombiniert mit kunstvollen Dekorationen und Stoffen.
 
 {:.distinction.distinction-warning}
-A living room and dining room combo in this style is perfect for vast spaces, where large furniture doesn't overwhelm the interior. English style, however, is rather unsuitable for small homes.
+Eine Wohn- und Esszimmer-Kombination in diesem Stil eignet sich perfekt für große Räume, in denen große Möbel das Interieur nicht überfordern. Der englische Stil ist jedoch für kleine Wohnungen eher ungeeignet.
 
 {% fig %}
 ![English style living room with dining area](/uploads/salon-z-jadalnia-styl angielski.jpg "English style living room with dining area")
@@ -151,11 +151,11 @@ A living room and dining room combo in this style is perfect for vast spaces, wh
 ![English style living room with dining area](/uploads/salon-z-jadalnia-styl-angielski-1.jpg "English style living room with dining area")
 {% endfig %}
 
-## Dining room ideas – return of vintage and retro styles
+## Speisesaal-Ideen - Rückkehr von Vintage- und Retro-Stilen
 
-Vintage style is making a comeback in the recent years. Retro interiors are always charming and also might be quite surprising. If you dream of an open living room in such style, think about **matching some contrasts**. Unusual living room ideas might make them very attractive and unique.
+Der Vintage-Stil erlebt in den letzten Jahren ein Comeback. Retro-Interieurs sind immer charmant und könnten auch recht überraschend sein. Wenn Sie von einem offenen Wohnzimmer in einem solchen Stil träumen, denken Sie darüber nach, einige Kontraste aufeinander abzustimmen. Ungewöhnliche Wohnzimmer-Ideen könnten sie sehr attraktiv und einzigartig machen.
 
-**Retro style employs highly saturated colors** – so do not be afraid of them. Red, strong pink, dark blue and bottle green – pick a color that you like the most and create a unique living room with dining area.
+Der Retro-Stil verwendet hochgesättigte Farben - haben Sie also keine Angst davor. Rot, kräftiges Pink, Dunkelblau und Flaschengrün - wählen Sie eine Farbe, die Ihnen am besten gefällt, und schaffen Sie ein einzigartiges Wohnzimmer mit Essbereich.
 
 {% fig %}
 ![Dining room ideas – return of vintage and retro styles](/uploads/salon-z-jadalnia-vintage retro.jpg "Dining room ideas – return of vintage and retro styles")
@@ -165,25 +165,25 @@ Vintage style is making a comeback in the recent years. Retro interiors are alwa
 ![Dining room ideas – return of vintage and retro styles](/uploads/salon-z-jadalnia-vintage-retro-1.jpg "Dining room ideas – return of vintage and retro styles")
 {% endfig %}
 
-**A living room with dining area is a place in which one spends a lot of time** – in the morning before work drinking coffee or in the afternoon, getting relaxed after a long day. Regardless of the style you choose – **create an arrangement that will make you feel good.**
+Ein Wohnzimmer mit Essbereich ist ein Ort, an dem man viel Zeit verbringt - morgens vor der Arbeit beim Kaffeetrinken oder nachmittags, um sich nach einem langen Tag zu entspannen. Unabhängig davon, welchen Stil Sie wählen - schaffen Sie ein Arrangement, in dem Sie sich wohl fühlen.
 
 {% faqItem %}
 {% faqQuestion %}
-How to furnish a large living room and dining room combo?
+Wie möbliert man eine große Wohn- und Esszimmerkombination?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-There are many ways in which you might furnish a big living room. You can choose a medium table of any shape, as well as make a separate resting area. If you want the space to look even bigger, try placing the table by the window or the balcony.
+Es gibt viele Möglichkeiten, wie Sie ein großes Wohnzimmer einrichten können. Sie können einen mittelgroßen Tisch in beliebiger Form wählen, aber auch einen separaten Ruhebereich einrichten. Wenn der Raum noch größer aussehen soll, versuchen Sie, den Tisch am Fenster oder am Balkon aufzustellen.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-What are the best small open living room ideas?
+Was sind die besten Ideen für ein kleines offenes Wohnzimmer?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Try combining the kitchen island with a dining table. You might also choose a table fit to the wall by one side, which spares a lot of space so you can put a bigger sofa in the room.
+Versuchen Sie, die Kücheninsel mit einem Esstisch zu kombinieren. Sie könnten auch einen Tisch wählen, der an einer Seite an die Wand passt, was viel Platz spart, so dass Sie ein größeres Sofa in den Raum stellen können.
 {% endfaqAnswer %}
 
 {% endfaqItem %}
