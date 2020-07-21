@@ -20,152 +20,155 @@ toc: true
 promoted: false
 update_date: 2020-07-19
 title: Erfahren Sie, warum Sie einen Hartriegelbaum in Ihrem Garten pflanzen sollten
-description: "Dogwood tree has many useful properties. \U0001F33F Why is it beneficial
-  to have it in your garden?  ➡️ Learn how to use a dogwood tree in your kitchen!"
-intro: Dogwood has many useful qualities. This unusual ornamental plant not only looks
-  fantastic in your garden but might also contribute to improving your health. Certain
-  species of dogwood bear quite a tasty fruit of beneficial properties. Learn why
-  you should consider planting a dogwood tree in your garden and how to use it in
-  the kitchen.
+description: "Der Hartriegelbaum hat viele nützliche Eigenschaften. \U0001F33F Warum
+  ist es vorteilhaft, ihn in Ihrem Garten zu haben?  ➡️ Lernen Sie, wie Sie einen
+  Hartriegelbaum in Ihrer Küche verwenden können!"
+intro: Hartriegel hat viele nützliche Eigenschaften. Diese ungewöhnliche Zierpflanze
+  sieht nicht nur in Ihrem Garten fantastisch aus, sondern könnte auch zur Verbesserung
+  Ihrer Gesundheit beitragen. Bestimmte Hartriegelarten tragen recht schmackhafte
+  Früchte mit nützlichen Eigenschaften. Erfahren Sie, warum Sie erwägen sollten, einen
+  Hartriegelbaum in Ihrem Garten zu pflanzen, und wie Sie ihn in der Küche verwenden
+  können.
 image: "/uploads/dlaczeg-warto-sadzic-deren-jadalny-w-ogrodzie.jpg"
 related_products: []
-published: false
 
 ---
-## What is a dogwood tree?
+## Was ist ein Hartriegelbaum?
 
-Dogwood is a name of over 40 species of plants belonging to _Cornus_ family. One of the popular types (esp. in central and southern Europe) of this plant is called cornelian cherry (**_Cornus mas L._**_),_ a tree that can reach even 10 meters of height. It is mostly cultivated in Europe and Asia. Certain species of dogwood can be planted in gardens, others grow only in woods. _Cornus mas_ is valued for its **sweet-and-sour fruit,** rich in polyphenols and **vitamin C**. Bark of dogwood trees has anti-septic qualities.
+Hartriegel ist der Name von über 40 Pflanzenarten, die zur Familie der Cornus-Pflanzen gehören. Eine der populären Arten (vor allem in Mittel- und Südeuropa) dieser Pflanze wird als Kornelkirsche (Cornus mas L.) bezeichnet, ein Baum, der sogar 10 Meter hoch werden kann. Sie wird vor allem in Europa und Asien angebaut. Bestimmte Hartriegelarten können in Gärten gepflanzt werden, andere wachsen nur in Wäldern. Cornus mas wird wegen seiner süßsäuerlichen Früchte geschätzt, die reich an Polyphenolen und Vitamin C sind. Die Rinde des Hartriegels hat antiseptische Eigenschaften.
 
-What makes cornelian cherry different from other species, is the fact that it is easy to grow, and it has **many uses**. Cornelian cherry dogwood is not only a beautiful ornamental tree, but it is also beneficial for human health. What's more, it's a plant of little requirements – therefore it's perfect for anyone too busy to take care of their garden.
+Was die Kornelkirsche von anderen Arten unterscheidet, ist die Tatsache, dass sie leicht anzubauen ist und viele Verwendungsmöglichkeiten hat. Hartriegel aus Kornelkirsche ist nicht nur ein schöner Zierbaum, sondern er ist auch für die menschliche Gesundheit von Vorteil. Darüber hinaus ist er eine Pflanze mit geringen Ansprüchen - daher eignet er sich perfekt für alle, die zu beschäftigt sind, um sich um ihren Garten zu kümmern.
 
 {% fig %}
 ![What is a dogwood tree?](/uploads/deren-jadalny-w-ogrodzie.jpg "What is a dogwood tree?")
 {% endfig %}
 
-## What types of dogwood trees are best to grow in the garden?
+## Welche Arten von Hartriegel-Bäumen eignen sich am besten für den Garten?
 
-As already mentioned, **cornelian cherry**, also known by its scientific name as _Cornus mas_ is a popular species, commonly grown in gardens in south and central Europe, as well as in western Asia. The plant owes its popularity to its many qualities, that can be used in the garden and beyond. A characteristic feature of a cornelian cherry dogwood are its **small, red, round-shaped fruits.** Their red shade can enliven the garden in summer and in winter.
+Wie bereits erwähnt, ist die Kornelkirsche, die auch unter ihrem wissenschaftlichen Namen Cornus mas bekannt ist, eine beliebte Art, die häufig in Gärten in Süd- und Mitteleuropa sowie in Westasien angebaut wird. Die Pflanze verdankt ihre Popularität ihren vielen Eigenschaften, die im Garten und darüber hinaus genutzt werden können. Ein charakteristisches Merkmal des Hartriegels der Kornelkirsche sind seine kleinen, roten, rundlichen Früchte. Ihr roter Farbton kann den Garten im Sommer und im Winter beleben.
 
 {% fig %}
 ![What types of dogwood trees are best to grow in the garden?](/uploads/deren-jadalny-gatunki.jpg "What types of dogwood trees are best to grow in the garden?")
 {% endfig %}
 
-There are many types of dogwood trees, including also ornamental plants which might be beautiful decorations in a garden. The most popular and interesting species are **Siberian dogwood** (**_Cornus alba_**) – which can grow up to 3 meters tall, **Japanese dogwood** (kousa dogwood) with its original shape, or very tall **Himalayan flowering dogwood**, resistant to low temperatures and difficult conditions.
+Es gibt viele Arten von Hartriegel-Bäumen, darunter auch Zierpflanzen, die eine schöne Dekoration in einem Garten sein können. Die beliebtesten und interessantesten Arten sind der Sibirische Hartriegel (Cornus alba) - der bis zu 3 Meter hoch werden kann, der Japanische Hartriegel (Kousa-Hartriegel) mit seiner ursprünglichen Form oder der sehr hohe Himalaya-Blütenhartriegel, der resistent gegen niedrige Temperaturen und schwierige Bedingungen ist.
 
 {% fig %}
 ![Dogwood tree – flowers](/uploads/deren-bialy.jpg "Dogwood tree – flowers")
 {% endfig %}
 
-## How to plant a cornelian cherry dogwood tree?
+## Wie pflanzt man einen Hartriegelbaum aus Kornelkirsche?
 
-If you're wondering how to plant a dogwood tree in your garden, just buy a seedling in a garden shop. Before planting it, make sure to **trim all shoots growing right above the ground** and any roots that are too long – by 1/3 of their length. A dogwood tree typically reaches up to 6-8 meters of height, forming either a tree or a large bush. For this reason you should **provide the plant enough space for growing**.
+Wenn Sie sich fragen, wie Sie einen Hartriegelbaum in Ihrem Garten pflanzen können, kaufen Sie einfach einen Setzling in einem Gartengeschäft. Bevor Sie ihn pflanzen, stellen Sie sicher, dass Sie alle Triebe, die direkt über dem Boden wachsen, und alle zu langen Wurzeln um 1/3 ihrer Länge kürzen. Ein Hartriegelbaum erreicht normalerweise eine Höhe von bis zu 6-8 Metern und bildet entweder einen Baum oder einen großen Strauch. Aus diesem Grund sollten Sie der Pflanze genügend Platz zum Wachsen geben.
 
 {% fig %}
 ![How to plant a cornelian cherry dogwood tree?](/uploads/kwitnacy-deren-jadalny-w-ogrodzie.jpg "How to plant a cornelian cherry dogwood tree?")
 {% endfig %}
 
 {:.distinction.distinction-information}
-Wondering how fast do dogwood trees grow? The growth rate is quite slow during the first 2 years. The first results become noticeable approximately 3 years after planting the seedling.
+Sie fragen sich, wie schnell Hartriegel-Bäume wachsen? Die Wachstumsrate ist in den ersten 2 Jahren recht langsam. Die ersten Ergebnisse machen sich etwa 3 Jahre nach der Pflanzung des Setzlings bemerkbar.
 
-## Cornelian cherry tree – how to take care for it?
+## Der Kornelkirschbaum - wie pflegt man ihn?
 
-_Cornus mas_ is quite easy to cultivate. Nevertheless, you should **follow certain rules** to allow the tree for a proper growth and make it a real decoration in your garden.
+Cornus mas ist recht einfach zu kultivieren. Dennoch sollten Sie bestimmte Regeln beachten, damit der Baum richtig wachsen kann und zu einer echten Zierde in Ihrem Garten wird.
 
-Two of the major issues are the **placement of the dogwood tree** and its growth in **the right type of soil**. A dogwood tree should grow either in full sun or in half shade. The best type of soil for this type of plant is calcareous or slightly acidic and damp ground. A **cornelian cherry doesn't tolerate standing water**. For this reason avoid planting it in impermeable grounds.
+Zwei der wichtigsten Punkte sind die Platzierung des Hartriegelbaums und sein Wachstum in der richtigen Bodenart. Ein Hartriegelbaum sollte entweder in voller Sonne oder im Halbschatten wachsen. Die beste Bodenart für diesen Pflanzentyp ist kalkhaltiger oder leicht saurer und feuchter Boden. Eine Kornelkirsche verträgt kein stehendes Wasser. Vermeiden Sie deshalb die Pflanzung auf undurchlässigem Boden.
 
-If you want a cornelian cherry to grow well and healthily, take a good care of it. Two most important aspects of it are regular **watering and fertilizing**. Although a dogwood tree is quite resistant to droughts, they influence fruition process. Make sure to water the plant regularly and provide all the nutrients it needs. The plant is not very demanding. All you have to do is **fertilize the dogwood tree once a year at the beginning of spring**, for the proper growth and nourishment.
+Wenn Sie wollen, dass eine Kornelkirsche gut und gesund wächst, sollten Sie sie gut pflegen. Die zwei wichtigsten Aspekte sind regelmässiges Giessen und Düngen. Obwohl ein Hartriegelbaum ziemlich widerstandsfähig gegen Trockenheit ist, beeinflussen sie den Fruchtbarkeitsprozess. Achten Sie darauf, die Pflanze regelmäßig zu gießen und ihr alle Nährstoffe zu geben, die sie benötigt. Die Pflanze ist nicht sehr anspruchsvoll. Alles, was Sie tun müssen, ist, den Hartriegelbaum einmal im Jahr zu Beginn des Frühlings zu düngen, damit er richtig wächst und Nährstoffe erhält.
 
 {:.distinction.distinction-warning}
-A cornelian cherry does not need trimming. Any mechanical damage of the plant negatively affects its fruition.
+Eine Kornelkirsche muss nicht beschnitten werden. Jede mechanische Beschädigung der Pflanze wirkt sich negativ auf ihre Fruchtbarkeit aus.
 
-## How to use cornus mas in the kitchen? Cornelian cherry fruit properties
+## Wie verwendet man Cornus mas in der Küche? Eigenschaften der Kornelkirsche
 
-A dogwood tree is not only a **magnificent decoration** in your garden. Its edible species might become real celebrities of every kitchen. Learn several practical uses of a cornelian cherry fruit.
+Ein Hartriegelbaum ist nicht nur eine prächtige Dekoration in Ihrem Garten. Seine essbaren Arten können zu einer echten Berühmtheit in jeder Küche werden. Lernen Sie verschiedene praktische Anwendungen einer Kornelkirschenfrucht kennen.
 
-### What are the benefits of cornelian cherry fruits?
+### Was sind die Vorteile der Früchte der Kornelkirsche?
 
-Cornelian cherry fruits are a good source of many vitamins and minerals, therefore they have **health-promoting**, or even healing properties. Eating cornelian cherry fruits influences:
+Die Früchte der Kornelkirsche sind eine gute Quelle für viele Vitamine und Mineralien, daher haben sie gesundheitsfördernde oder sogar heilende Eigenschaften. Der Verzehr von Kornelkirschfrüchten beeinflusst die Gesundheit:
 
 {:.list}
-* **Immunity** – a dogwood tree contains **high doses of the vitamin C,** which can be found in the fruit. For this reason it can be used as a natural **remedy for infections and common cold**.
-* **Cancer prevention** – because cornelian cherry fruits are the source of flavonoids which combat toxins in the organism, they might be used as a cancer prevention tool. Cornelian cherry fruits are great for **reducing oxidative stress**.
+
+* Immunität - ein Hartriegelbaum enthält hohe Dosen des Vitamin C, das in der Frucht zu finden ist. Aus diesem Grund kann er als natürliches Heilmittel bei Infektionen und Erkältungen eingesetzt werden.
+* Krebsprävention - da die Früchte der Kornelkirsche die Quelle von Flavonoiden sind, die Giftstoffe im Organismus bekämpfen, könnten sie als Mittel zur Krebsprävention eingesetzt werden. Die Früchte der Kornelkirsche eignen sich hervorragend zur Reduzierung von oxidativem Stress.
 
 {% fig %}
 ![What are the benefits of cornelian cherry fruits?](/uploads/deren-jadalny-owoce.jpg "What are the benefits of cornelian cherry fruits?")
 {% endfig %}
 
 {:.list}
-* **Stomach issues** – a dogwood tree is also a perfect natural remedy for diarrheas and gripes. It is caused by the high content of tannins in the fruit, substances of **binding properties**. However, if you suffer from stomach ulcer, you should avoid eating the fruits.
-* **Urinary tract conditions** – cornelian cherry fruit in liquid form (e.g. as juice) has diuretic properties. Moreover, the vitamin C contained within is an **anti-inflammatory agent**. For this reason you may drink cornelian cherry fruit juice or tea as a remedy for bladder problems.
-* **Anaemia** – due to high levels of iron, cornelian cherry fruit is a good preventive agent against anaemia. It's also good for treating eating disorders caused by anaemia.
 
-### Cornelian cherry liqueur for cold... and more!
+* Magenprobleme - ein Hartriegelbaum ist auch ein perfektes natürliches Heilmittel gegen Durchfall und Grippe. Er wird durch den hohen Gehalt an Gerbstoffen in der Frucht verursacht, Substanzen mit bindenden Eigenschaften. Wenn Sie jedoch an einem Magengeschwür leiden, sollten Sie den Verzehr der Früchte vermeiden.
+* Erkrankungen der Harnwege - die Früchte der Kornelkirsche in flüssiger Form (z.B. als Saft) haben harntreibende Eigenschaften. Zudem ist das darin enthaltene Vitamin C ein entzündungshemmendes Mittel. Aus diesem Grund können Sie Kornelkirsche Fruchtsaft oder Tee als Heilmittel bei Blasenbeschwerden trinken.
+* Anämie - aufgrund des hohen Eisengehaltes ist die Kornelkirsche ein gutes Mittel zur Vorbeugung von Anämie. Sie eignet sich auch gut zur Behandlung von Essstörungen, die durch Anämie verursacht werden.
 
-A cornelian cherry liqueur is a natural remedy for common cold due to the high content of vitamin C in the fruits. **The liqueur treats infections that cause fever.** Nevertheless, you should be cautious with this form of treatment and learn all about it – before you even decide to prepare the drink.
+### Kornelkirschlikör zum Erkalten... und mehr!
+
+Ein Kornelkirschlikör ist aufgrund des hohen Gehalts an Vitamin C in den Früchten ein natürliches Mittel gegen Erkältung. Der Likör behandelt Infektionen, die Fieber verursachen. Trotzdem sollten Sie mit dieser Form der Behandlung vorsichtig sein und alles darüber erfahren - bevor Sie sich überhaupt entscheiden, das Getränk zuzubereiten.
 
 {:.distinction.distinction-information}
 
-The liqueur's value lies not only in its health benefits, but also in the taste. You can consume it either as is, or as an addition to other drinks. It tastes very good with tea.
+Der Wert des Likörs liegt nicht nur in seinem gesundheitlichen Nutzen, sondern auch im Geschmack. Sie können ihn entweder so konsumieren, wie er ist, oder als Zusatz zu anderen Getränken. Er schmeckt sehr gut mit Tee.
 
-To prepare a cornelian cherry liqueur, mix one kilogram of fruits with 5 tablespoons of dried blueberries and pour a lot of spirit. Place the jar with the liqueur in a warm spot and shake it every 2-3 days. After 5 weeks separate the spirit from the fruits and put it into the fridge. Then pour sugar over the fruits and wait until it dissolves completely.
+Für die Zubereitung eines Kornelkirschlikörs mischt man ein Kilogramm Früchte mit 5 Esslöffeln getrockneten Heidelbeeren und giesst viel Alkohol dazu. Stellen Sie das Glas mit dem Likör an einen warmen Ort und schütteln Sie es alle 2-3 Tage. Nach 5 Wochen den Alkohol von den Früchten trennen und in den Kühlschrank stellen. Gießen Sie dann Zucker über die Früchte und warten Sie, bis sich der Likör vollständig aufgelöst hat.
 
 {% fig %}
 ![Cornelian cherry liqueur for cold... and more!](/uploads/nalewka-z-derenia.jpg "Cornelian cherry liqueur for cold... and more!")
 {% endfig %}
 
-Mix the syrup from sugar and fruits with the spirit, which will begin the clarification process. The last step is filtering the cornelian cherry liqueur by pouring it through a piece of fabric (e.g. a gauze). You can store the liqueur in a cold place even for several years. Remember that such homemade liqueur is for personal use only.
+Mischen Sie den Sirup aus Zucker und Früchten mit dem Alkohol, wodurch der Klärungsprozess beginnt. Als letzter Schritt wird der Kornelkirschlikör gefiltert, indem er durch ein Stück Stoff (z.B. eine Gaze) gegossen wird. Sie können den Likör auch mehrere Jahre an einem kalten Ort lagern. Denken Sie daran, dass ein solcher selbstgemachter Likör nur für den persönlichen Gebrauch bestimmt ist.
 
-### How to make tasty cornelian cherry preserves?
+### Wie macht man schmackhafte Kornelkirschkonserven?
 
-**Cornelian cherry jam** is a perfect bread spread and dessert topping. It has a delicious sweet-and-sour taste that adds a character to meals. What's more, its **rich** **nutritional values** make the cornelian cherry jam not only a tasty but also a healthy food.
+Kornelkirschkonfitüre ist ein perfekter Brotaufstrich und Dessertbelag. Sie hat einen köstlichen süß-säuerlichen Geschmack, der den Speisen einen Charakter verleiht. Darüber hinaus machen ihre reichen Nährwerte die Kornelkirschkonfitüre nicht nur zu einem schmackhaften, sondern auch zu einem gesunden Lebensmittel.
 
 {:.distinction.distinction-warning}
-Cornelian cherry reserves as well as fresh fruits are harmful for anyone suffering from stomach ulcer.
+Die Reserven der Kornelkirsche sowie frische Früchte sind schädlich für jeden, der an einem Magengeschwür leidet.
 
-To prepare **cornelian cherry jam**, first rinse, peel and pit the fruits. Then prepare a syrup by boiling water and sugar in the proportion 0.5 liter of water and 2 kilograms of sugar. Pour the fruits into the syrup and leave them to soak for 24 hours. Then bring them to boil using medium heat. Pour the hot cornelian cherry jam into jars and close them tightly.
+Zur Zubereitung von Kornelkirschenkonfitüre werden die Früchte zuerst gespült, geschält und entkernt. Dann wird ein Sirup aus kochendem Wasser und Zucker im Verhältnis 0,5 Liter Wasser und 2 Kilogramm Zucker zubereitet. Gießen Sie die Früchte in den Sirup und lassen Sie sie 24 Stunden lang einweichen. Dann werden sie bei mittlerer Hitze zum Kochen gebracht. Gießen Sie die heiße Kornelkirschkonfitüre in Gläser und verschließen Sie diese fest.
 
 {% fig %}
 ![How to make tasty cornelian cherry preserves?](/uploads/dzem-deren-jadalny.jpg "How to make tasty cornelian cherry preserves?")
 {% endfig %}
 
-Cornelian cherry is long-known to natural medicine. It can be used both for healing and in the kitchen, therefore it's a plant that is often cultivated in many parts of the world.
+Die Kornelkirsche ist der Naturmedizin seit langem bekannt. Sie kann sowohl zur Heilung als auch in der Küche verwendet werden, daher ist sie eine Pflanze, die in vielen Teilen der Welt oft angebaut wird.
 
 {% faqItem %}
 {% faqQuestion %}
-When to plant dogwood trees?
+Wann sollten Hartriegel-Bäume gepflanzt werden?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Dogwood tree seedlings can be planted during the whole season, although the best time to do it is spring or fall. Make sure to plant the seedling in the right type of soil – calcareous or slightly acidic. Dogwood trees need a lot of space to grow, as they reach up to 5-10 meters.
+Setzlinge des Hartriegelbaums können während der ganzen Saison gepflanzt werden, obwohl die beste Zeit dafür Frühling oder Herbst ist. Achten Sie darauf, dass der Setzling in der richtigen Bodenart - kalkhaltig oder leicht sauer - gepflanzt wird. Hartriegel-Bäume brauchen viel Platz zum Wachsen, da sie bis zu 5-10 Meter hoch werden.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-When do dogwood trees bloom?
+Wann blühen Hartriegel-Bäume?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Depending on the weather conditions, a dogwood tree blooms from February to April in moderate climates. One bud develops 15-20 little flowers. They are frost resistant.
+Je nach Wetterlage blüht ein Hartriegelbaum von Februar bis April in gemäßigten Klimazonen. Eine Knospe entwickelt 15-20 kleine Blüten. Sie sind frostbeständig.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to trim dogwood tree?
+Wie wird der Hartriegelbaum beschnitten?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Although dogwood trees rarely require pruning, if needed, do it in late autumn or in winter. Use a pruning saw or shears and cut right at the base of the branch. Do not cut in the collar area, as it may lead to an infection.
+Obwohl Hartriegelbäume nur selten beschnitten werden müssen, sollten sie, wenn nötig, im Spätherbst oder im Winter beschnitten werden. Verwenden Sie eine Baumsäge oder eine Schere und schneiden Sie direkt an der Basis des Astes. Nicht im Kragenbereich schneiden, da dies zu einer Infektion führen kann.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How big does a dogwood tree get?
+Wie gross wird ein Hartriegelbaum?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Depending on the particular species, dogwood trees can reach up to 10 meters of height. The seedlings grow slow during the first 2 years. The changes become significant in the third year.
+Abhängig von der jeweiligen Art können Hartriegel-Bäume bis zu 10 Meter hoch werden. Die Setzlinge wachsen in den ersten 2 Jahren langsam. Im dritten Jahr werden die Veränderungen signifikant.
 {% endfaqAnswer %}
 {% endfaqItem %}
