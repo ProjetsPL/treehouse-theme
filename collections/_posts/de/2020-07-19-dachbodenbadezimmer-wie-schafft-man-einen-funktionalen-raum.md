@@ -21,7 +21,6 @@ intro: Ein Badezimmer ist ein ziemlich schwierig zu gestaltender Raum. Außerdem
   Sie vorbereitet.
 image: "/uploads/lazienka-na-poddaszu-jak-stworzyc-funkcjonalne-pomieszczenie.jpg"
 related_products: []
-published: false
 
 ---
 ## Dachbodenbadezimmer - welche Herausforderungen bringt es mit sich?
