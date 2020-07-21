@@ -15,157 +15,157 @@ toc: true
 promoted: false
 update_date: 2020-07-20
 title: Leichte Innenbemalung? Lernen Sie 5 einfache Ideen für Wandmalerei
-description: "Wondering how to paint a wall? \U0001F3E0 Never done that before? \U0001F449
-  Check out this simple guide and discover fail-proof wall painting techniques - see
-  how easy it is!"
-intro: Wall painting is a process that requires a lot of patience and commitment.
-  Are you not sure where to begin? Perhaps you have some trouble with smudges and
-  paint dripping from the walls? Learn some simple tricks and discover the secret
-  to an effortless renovation and simple room painting ideas! Check how to paint a
-  wall and get rid of unattractive smudges and other annoying issues.
+description: "Sie fragen sich, wie man eine Wand streicht? \U0001F3E0 Haben Sie das
+  noch nie gemacht? \U0001F449 Schauen Sie sich diesen einfachen Leitfaden an und
+  entdecken Sie ausfallsichere Wandmaltechniken - sehen Sie, wie einfach es ist!"
+intro: Wandmalerei ist ein Prozess, der viel Geduld und Engagement erfordert. Sind
+  Sie sich nicht sicher, wo Sie anfangen sollen? Vielleicht haben Sie Probleme mit
+  Flecken und Farbe, die von den Wänden tropfen? Lernen Sie ein paar einfache Tricks
+  und entdecken Sie das Geheimnis einer mühelosen Renovierung und einfacher Raummalerei-Ideen!
+  Überprüfen Sie, wie man eine Wand streicht und unschöne Flecken und andere lästige
+  Probleme beseitigt.
 image: "/uploads/glowne-malowanie2.jpg"
 related_products: []
-published: false
 
 ---
-## What should you know about wall painting?
+## Was sollten Sie über Wandmalerei wissen?
 
-Painting walls means **covering the surface with a painting material** in a chosen color. Paint can be used to cover walls, but also **ceilings**. Wall painting is one of the most common activities performed during a room makeover - in addition to plastering and wallpapering. To paint a room, you might use common **acrylic paint** or choose **latex paint** that forms a special layer with "breathable" properties.
+Wände streichen bedeutet, die Oberfläche mit einem Malmaterial in einer gewählten Farbe zu bedecken. Mit Farbe können Wände, aber auch Decken bemalt werden. Das Bemalen von Wänden ist - neben dem Verputzen und Tapezieren - eine der häufigsten Tätigkeiten bei der Umgestaltung eines Raumes. Um einen Raum zu streichen, können Sie gewöhnliche Acrylfarbe verwenden oder Latexfarbe wählen, die eine spezielle Schicht mit "atmungsaktiven" Eigenschaften bildet.
 
-## 5 wall painting techniques and tips to help you with interior painting
+## 5 Wandmaltechniken und Tipps, die Ihnen bei der Innenbemalung helfen
 
-Painting walls does not necessarily mean that you have to be a professional. All you need to do is use some tips and wall painting techniques recommended by specialists. This way painting walls will be easier and less intimidating.
+Das Streichen von Wänden bedeutet nicht unbedingt, dass man ein Profi sein muss. Alles, was Sie tun müssen, ist, einige Tipps und von Spezialisten empfohlene Wandmaltechniken zu verwenden. Auf diese Weise wird das Bemalen von Wänden einfacher und weniger einschüchternd sein.
 
-### **Painting walls - how to begin?**
+### Wände streichen - wie beginnen?
 
-Start painting your walls from **mixing the paint thoroughly**. Then, using a roller or a brush, paint over the surface along any boards and corners, covering all smaller surfaces. The last step is painting all the remaining larger spaces.
+Beginnen Sie mit dem Streichen Ihrer Wände, indem Sie die Farbe gründlich mischen. Dann streichen Sie mit einer Rolle oder einem Pinsel über die Oberfläche entlang der Bretter und Ecken und decken Sie alle kleineren Flächen ab. Der letzte Schritt ist das Streichen aller verbleibenden größeren Flächen.
 
-It is important to **move a brush or a roller in the right direction**. Apply the paint from bottom to top, and then, along the same line from top to bottom. Remember to apply several layers of paint, distributing it **evenly**. This method ensures that the wall color looks solid.
+Es ist wichtig, einen Pinsel oder eine Rolle in die richtige Richtung zu bewegen. Tragen Sie die Farbe von unten nach oben und dann entlang der gleichen Linie von oben nach unten auf. Denken Sie daran, mehrere Farbschichten aufzutragen und die Farbe gleichmäßig zu verteilen. Diese Methode stellt sicher, dass die Wandfarbe einfarbig aussieht.
 
-### **Brush or roller? Wall painting techniques**
+### Pinsel oder Rolle? Techniken der Wandmalerei
 
-If you paint large surfaces, the most universal and **convenient tool** is simply a **traditional roller**. It helps to distribute paint evenly and with the same intensity at every spot. There are three types of paint rollers with varios naps:
+Wenn Sie große Flächen malen, ist das universellste und bequemste Werkzeug einfach ein traditioneller Roller. Er hilft, die Farbe an jeder Stelle gleichmäßig und mit gleicher Intensität zu verteilen. Es gibt drei Arten von Farbrollern mit verschiedenen Noppen:
 
 {:.list}
 
-* short nap roller - from 6 to 10 mm (ca. 1/4 to 3/8 inch) length,
-* medium nap roller - from 13 to 15 mm (ca. 1/2 to 2/3 inch) length,
-* long nap roller - from 19 to 30 mm (ca. 3/4 to 1 inch) length.
+* kurze Noppenwalze - von 6 bis 10 mm (ca. 1/4 bis 3/8 Zoll) Länge,
+* mittlere Noppenwalze - von 13 bis 15 mm (ca. 1/2 bis 2/3 Zoll) Länge,
+* lange Noppenwalze - von 19 bis 30 mm (ca. 3/4 bis 1 Zoll) Länge.
 
-The first type is perfect for painting smooth textures. The medium nap should be used for wallpapers and plaster, while the long nap is for rough surfaces.
+Der erste Typ eignet sich perfekt zum Malen glatter Texturen. Der mittlere Strich sollte für Tapeten und Putz verwendet werden, während der lange Strich für raue Oberflächen geeignet ist.
 
 {:.distinction.distinction-information}
-Apart from the nap length, the quality and cover material is also important. Before purchasing a roller make sure that it doesn't loose fibers - they might stick to the painted surface.
+Neben der Noppenlänge ist auch die Qualität und das Bezugsmaterial wichtig. Vergewissern Sie sich vor dem Kauf einer Walze, dass sie keine Fasern verliert - sie könnten an der lackierten Oberfläche haften bleiben.
 
-Painting walls in narrow, hard to reach spaces? A brush is a perfect tool for that. To avoid dripping, dip the brush more often, carrying less paint every time.
+Wände in engen, schwer zugänglichen Räumen streichen? Ein Pinsel ist dafür ein perfektes Werkzeug. Um Tropfenbildung zu vermeiden, tauchen Sie den Pinsel öfter ein und tragen Sie jedes Mal weniger Farbe mit sich herum.
 
 {% fig %}
 ![Brush or roller? Wall painting techniques](/uploads/wskazowki-malowanie-glowne.jpg "Brush or roller? Wall painting techniques")
 {% endfig %}
 
-### **Painting walls vs. room humidity**
+### Streichen von Wänden vs. Raumfeuchtigkeit
 
-The best temperature for interior painting is **5 to 25 Celsius degrees** (41 to 77 F). The most suitable humidity level for painting is below 80%. Too high temperature and excessive dryness might cause issues, especially if you're painting walls with water soluble paint. Such a product **dries much quicker than traditional paint**. Wall painting should be performed at the right pace, otherwise the paint will leave smudges on the surface.
+Die beste Temperatur für Innenanstriche liegt bei 5 bis 25 Grad Celsius (41 bis 77 F). Die für das Streichen am besten geeignete Luftfeuchtigkeit liegt unter 80%. Zu hohe Temperaturen und übermäßige Trockenheit können Probleme verursachen, insbesondere wenn Sie Wände mit wasserlöslicher Farbe streichen. Ein solches Produkt trocknet viel schneller als herkömmliche Farbe. Das Streichen von Wänden sollte im richtigen Tempo erfolgen, da die Farbe sonst Flecken auf der Oberfläche hinterlässt.
 
 {:.distinction.distinction-information}
-If the humidity level is too low or the temperature is too high, you might dilute the paint. This makes applying the first layer far easier. Make sure to follow the manufacturer's instructions printed on the container.
+Wenn die Luftfeuchtigkeit zu niedrig oder die Temperatur zu hoch ist, können Sie die Farbe verdünnen. Dies erleichtert das Auftragen der ersten Schicht erheblich. Beachten Sie unbedingt die auf dem Behälter aufgedruckten Anweisungen des Herstellers.
 
-### **How to avoid smudges? "Wet on wet" wall painting techniques**
+### Wie können Verschmutzungen vermieden werden? "Nass-in-Nass"-Wandmaltechniken
 
-To make the surface look uniform and avoid smears and smudges, join the painted fragments using "wet on wet" technique. **How to paint a wall using this method?**
+Um die Oberfläche einheitlich aussehen zu lassen und Verschmierungen und Flecken zu vermeiden, fügen Sie die gemalten Fragmente mit der "Nass-in-Nass"-Technik zusammen. Wie bemalt man eine Wand mit dieser Methode?
 
-It is a technique recommended by professionals. It involves **applying the paint with overlapping strokes**. The easiest way to achieve this effect is painting walls in a "V" shape. First, paint the external lines and then start filling the space between them. Thanks to this method, the product is evenly distributed on the wall.
+Es handelt sich um eine von Fachleuten empfohlene Technik. Dabei wird die Farbe mit überlappenden Strichen aufgetragen. Der einfachste Weg, diesen Effekt zu erzielen, ist das Bemalen von Wänden in einer "V"-Form. Malen Sie zuerst die äußeren Linien und beginnen Sie dann, den Raum zwischen ihnen auszufüllen. Dank dieser Methode wird das Produkt gleichmässig auf der Wand verteilt.
 
-With at least two people painting the walls, the risk of smudges is much smaller. To make the surface even more uniform, give up using a brush and pick a roller, which is easier to use.
+Wenn mindestens zwei Personen die Wände streichen, ist das Risiko von Flecken viel geringer. Um die Oberfläche noch gleichmäßiger zu machen, verzichten Sie auf den Einsatz eines Pinsels und nehmen Sie eine Rolle, die einfacher zu verwenden ist.
 
 {% fig %}
 ![How to avoid smudges? "Wet on wet" wall painting techniques](/uploads/walek-1.jpg 'How to avoid smudges? "Wet on wet" wall painting techniques')
 {% endfig %}
 
-### **What to do with the tools after you finish painting?**
+### Was macht man mit den Werkzeugen, wenn man mit dem Malen fertig ist?
 
-If you have already finished painting the walls, **take care of the tools** and other products you have been using. On the other hand, if you're just taking a break and plan to continue painting the next day, put the dirty brushes and the roller in an airtight plastic bag.
+Wenn Sie die Wände bereits fertig gestrichen haben, kümmern Sie sich um die Werkzeuge und andere Produkte, die Sie benutzt haben. Wenn Sie hingegen nur eine Pause machen und planen, am nächsten Tag weiter zu streichen, stecken Sie die schmutzigen Pinsel und die Rolle in einen luftdichten Plastikbeutel.
 
-Remember to **clean every tool thoroughly** after finishing painting. Close the paint containers, otherwise they will dry and you will not be able to use them again.
+Denken Sie daran, jedes Werkzeug nach Beendigung des Lackierens gründlich zu reinigen. Schließen Sie die Farbbehälter, sonst trocknen sie aus und Sie können sie nicht mehr benutzen.
 
-## Quick room painting ideas - painting walls with a paint sprayer
+## Schnelle Raummalerei-Ideen - Wände mit einem Farbsprayer streichen
 
-Painting walls with a paint sprayer involves using a special unit that **spreads the paint on the surface under high pressure**. It is a very interesting and unusual method for interior painting, although it might be problematic for some people.
+Bei der Wandbemalung mit einem Farbspritzgerät wird ein Spezialgerät eingesetzt, das die Farbe unter hohem Druck auf die Oberfläche verteilt. Es ist eine sehr interessante und ungewöhnliche Methode für die Innenbemalung, obwohl sie für manche Menschen problematisch sein könnte.
 
-Before using the sprayer, you should prepare it - pour the paint into it in the proper amount. Make sure to test it before applying the paint on the wall. It's important to keep the right pressure level (around 3 bars) as you work, as well as maintain a proper distance (15-20 cm/6-7 inches). Otherwise, the paint might cover the walls unevenly, causing unaesthetic-looking smudges.
+Bevor Sie das Sprühgerät benutzen, sollten Sie es vorbereiten - gießen Sie die Farbe in der richtigen Menge hinein. Testen Sie es unbedingt, bevor Sie die Farbe auf die Wand auftragen. Es ist wichtig, während des Arbeitsvorgangs den richtigen Druck (etwa 3 bar) sowie einen angemessenen Abstand (15-20 cm/6-7 Inch) einzuhalten. Andernfalls könnte die Farbe die Wände ungleichmäßig bedecken, was zu unästhetisch aussehenden Flecken führen könnte.
 
 {:.distinction.distinction-information}
-Painting walls with a sprayer typically requires only one layer of paint - with this method it is sufficient enough. After you finish working, clean the sprayer thoroughly using water and solvent.
+Das Streichen von Wänden mit einem Sprühgerät erfordert in der Regel nur eine Farbschicht - bei dieser Methode reicht es aus. Reinigen Sie das Sprühgerät nach Beendigung der Arbeit gründlich mit Wasser und Lösungsmittel.
 
-## How to paint a ceiling?
+## Wie malt man eine Decke?
 
-If you're planning to paint the whole room, the best method is to **start from the ceiling**. To do this, use a roller with a long handle to apply the ceiling paint. It is a definitely easier method to cover the ceiling quickly.
+Wenn Sie vorhaben, den ganzen Raum zu streichen, ist es am besten, von der Decke aus zu beginnen. Verwenden Sie dazu eine Rolle mit einem langen Stiel, um die Deckenfarbe aufzutragen. Es ist definitiv eine einfachere Methode, um die Decke schnell abzudecken.
 
 {% fig %}
 ![How to paint a ceiling?](/uploads/jak-malowac-sufit.jpg "How to paint a ceiling?")
 {% endfig %}
 
-Start by applying the paint right by the window, gradually leading the roller towards the middle of the ceiling. As you paint the ceiling by the window, **drag the paint in the same direction as the sunrays go**. This way you can minimize smudges.
+Beginnen Sie damit, die Farbe direkt am Fenster aufzutragen und führen Sie die Rolle allmählich zur Mitte der Decke. Wenn Sie die Decke am Fenster malen, ziehen Sie die Farbe in die gleiche Richtung wie die Sonnenstrahlen. Auf diese Weise können Sie Verwischungen minimieren.
 
-Looking for room painting ideas? The most popular ceiling paint color is **white in various shades and temperatures**. It makes the room look bright and it's not tiring. In some interiors, such as bedrooms the ceiling paint color is the same as the walls. This way the room looks darker, which might improve sleep quality.
+Suchen Sie nach Ideen zur Raumbemalung? Die beliebteste Deckenmalfarbe ist Weiß in verschiedenen Schattierungen und Temperaturen. Sie lässt den Raum hell erscheinen und ist nicht ermüdend. In einigen Innenräumen, wie z.B. in Schlafzimmern, ist die Farbe der Deckenfarbe die gleiche wie die der Wände. Auf diese Weise sieht der Raum dunkler aus, was die Schlafqualität verbessern könnte.
 
 {:.distinction.distinction-information}
-To make the room seem bigger, drag the color of the ceiling paint onto the side walls. A small white stripe at the top of the wall will create an optical illusion, making the room seem bigger.
+Um den Raum größer erscheinen zu lassen, ziehen Sie die Farbe der Deckenfarbe auf die Seitenwände. Ein kleiner weißer Streifen an der Oberseite der Wand erzeugt eine optische Täuschung, die den Raum größer erscheinen lässt.
 
-## Wall painting - price
+## Wandmalerei - Preis
 
-The price of painting a room by a specialist painter varies, **depending on different factors**. The major element influencing the expenses is the type of the wall paint. There are many various paints on the market, so you might decide between cheap, medium or expensive products. You should also purchase other materials, such as primer.
+Der Preis für das Streichen eines Zimmers durch einen spezialisierten Maler hängt von verschiedenen Faktoren ab. Das wichtigste Element, das die Kosten beeinflusst, ist die Art der Wandfarbe. Es gibt viele verschiedene Farben auf dem Markt, so dass Sie sich zwischen billigen, mittleren oder teuren Produkten entscheiden können. Sie sollten auch andere Materialien, wie zum Beispiel Grundierung, kaufen.
 
 {% fig %}
 ![Wall painting - price](/uploads/pedzel-1.jpg "Wall painting - price")
 {% endfig %}
 
-The total cost of painting a room also depends on the tools you use. If you paint walls for the first time ever, you should equip yourself with appropriate accessories. It increases the cost of the renovation. If you take a good care of your brushes and rollers, all the tools can be reused.
+Die Gesamtkosten für das Streichen eines Raumes hängen auch von den Werkzeugen ab, die Sie verwenden. Wenn Sie zum ersten Mal Wände streichen, sollten Sie sich mit entsprechendem Zubehör ausstatten. Das erhöht die Kosten für die Renovierung. Wenn Sie Ihre Pinsel und Rollen gut pflegen, können Sie alle Werkzeuge wiederverwenden.
 
-## Washing walls before painting - why is it so important?
+## Wände vor dem Streichen waschen - warum ist das so wichtig?
 
-**Dirt on walls has a negative impact on the paint adhesiveness**, therefore it is crucial to wash them before painting. It should become a routine when preparing the walls before a room makeover. In some cases washing the walls is absolutely necessary if you want to achieve long-lasting and really fresh results.
+Schmutz an Wänden wirkt sich negativ auf die Haftfähigkeit der Farbe aus, daher ist es wichtig, sie vor dem Streichen zu waschen. Es sollte zur Routine bei der Vorbereitung der Wände vor einer Raumrenovierung werden. In einigen Fällen ist das Waschen der Wände absolut notwendig, wenn Sie ein lang anhaltendes und wirklich frisches Ergebnis erzielen wollen.
 
-### When is it necessary to clean walls?
+### Wann ist es notwendig, Wände zu reinigen?
 
-It is advised to clean walls before painting especially if there are **greasy stains** on the surface. It occurs most often in the kitchen, as the oil you use for cooking easily **spreads onto the walls**. Wall washing is also suggested before painting a children's room - children like to touch walls with their hands, which are not always clean.
+Es ist ratsam, die Wände vor dem Streichen zu reinigen, insbesondere wenn sich fettige Flecken auf der Oberfläche befinden. Am häufigsten tritt sie in der Küche auf, da sich das Öl, das Sie zum Kochen verwenden, leicht auf den Wänden verteilt. Auch vor dem Streichen eines Kinderzimmers wird empfohlen, die Wände zu waschen - Kinder berühren die Wände gerne mit den Händen, die nicht immer sauber sind.
 
-**Washing walls before painting prevents the paint from peeling off.** You should also do it if you notice the following:
+Das Waschen der Wände vor dem Streichen verhindert das Abblättern der Farbe. Sie sollten dies auch tun, wenn Ihnen Folgendes auffällt:
 
 {:.list.list-negative}
 
-* fungus and mold,
-* yellow stains and marks from cigarette smoke,
-* stains from various liquid substances, e.g.: disinfectants, air fresheners or perfumes,
-* other visible dirt, e.g.: crayons and mud.
+* Pilze und Schimmelpilze,
+* gelbe Flecken und Spuren von Zigarettenrauch,
+* Flecken von verschiedenen flüssigen Substanzen, z.B.: Desinfektionsmittel, Lufterfrischer oder Parfüms,
+* andere sichtbare Verschmutzungen, z.B.: Buntstifte und Schlamm.
 
-### How to wash walls before painting?
+### Wie wäscht man Wände vor dem Streichen?
 
-Choose **wall cleaning products** according to how heavily the wall is stained and to the type of the stain. If it's only a light dirt, a solution of warm water and detergent (e.g. dish soap) should be effective enough.
+Wählen Sie Wandreinigungsprodukte je nach der Stärke der Verschmutzung und der Art des Flecks aus. Wenn es sich nur um einen leichten Schmutz handelt, sollte eine Lösung aus warmem Wasser und Reinigungsmittel (z.B. Spülseife) ausreichend wirksam sein.
 
 {% fig %}
 ![How to wash walls before painting?](/uploads/czyszczenie.jpg "How to wash walls before painting?")
 {% endfig %}
 
-Such a solution might be not enough for large and very greasy stains or for mold and fungi. In this case **washing walls with sugar soap before wall painting** might be quite effective. To do it, dilute the right amount of soap in water, as stated in the instruction. Then clean the walls using a sponge. After you're finished, rinse the surface with clean water to avoid a soapy residue.
+Eine solche Lösung könnte bei großen und sehr fettigen Flecken oder bei Schimmel und Pilzen nicht ausreichen. In diesem Fall kann das Waschen der Wände mit Zuckerseife vor der Wandmalerei recht effektiv sein. Verdünnen Sie dazu die richtige Menge Seife in Wasser, wie in der Anleitung angegeben. Reinigen Sie dann die Wände mit einem Schwamm. Wenn Sie fertig sind, spülen Sie die Oberfläche mit sauberem Wasser ab, um einen Seifenrückstand zu vermeiden.
 
 {% faqItem %}
 {% faqQuestion %}
-How much does wall painting cost?
+Wie viel kostet die Wandmalerei?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The price depends on the size of the surface you want to paint and on the cost of materials. You might ask a professional to do it for you, although the price will be higher. Painting walls by yourself is much cheaper.
+Der Preis hängt von der Größe der Oberfläche ab, die Sie bemalen möchten, sowie von den Materialkosten. Sie können einen Fachmann bitten, dies für Sie zu erledigen, obwohl der Preis höher sein wird. Wände selbst zu streichen ist viel billiger.
 {% endfaqAnswer %}
 
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to paint a wall in my room?
+Wie male ich eine Wand in meinem Zimmer an?
 {% endfaqQuestion %}
 
-{% faqAnswer %} Start from securing the room and remove furniture and other objects from it. Prepare the wall - clean it and make sure the surface is even. After applying the primer, you can start painting - for best results, use a paint roller.
+{% faqAnswer %} Beginnen Sie mit der Sicherung des Raumes und entfernen Sie Möbel und andere Gegenstände aus dem Raum. Bereiten Sie die Wand vor - reinigen Sie sie und stellen Sie sicher, dass die Oberfläche eben ist. Nachdem Sie die Grundierung aufgetragen haben, können Sie mit dem Streichen beginnen - für beste Ergebnisse verwenden Sie einen Farbroller.
 {% endfaqAnswer %}
 
 {% endfaqItem %}
