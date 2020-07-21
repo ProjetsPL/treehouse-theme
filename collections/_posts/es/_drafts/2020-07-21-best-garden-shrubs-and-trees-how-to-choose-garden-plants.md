@@ -14,7 +14,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-21
-title: Best Garden Shrubs and Trees. How to Choose Garden Plants?
+title: Los mejores arbustos y árboles de jardín. ¿Cómo elegir las plantas de jardín?
 description: "A good garden design requires beautiful plants. \U0001F331 Wondering
   what garden plants you should choose? Check popular garden shrubs and miniature
   trees!"

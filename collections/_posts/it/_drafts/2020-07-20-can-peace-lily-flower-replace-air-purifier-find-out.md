@@ -17,7 +17,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-20
-title: Can Peace Lily Flower Replace Air Purifier? Find Out!
+title: Il fiore di giglio della pace può sostituire il purificatore d'aria? Scoprilo!
 description: "Concerned about air quality at your home? \U0001F331A peace lily is
   a unique plant acting as a natural air purifier. Could it actually replace the machine?
   \U0001F449 Find out!"

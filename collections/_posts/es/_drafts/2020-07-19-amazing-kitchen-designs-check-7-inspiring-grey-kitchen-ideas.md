@@ -19,7 +19,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-19
-title: Amazing Kitchen Designs – Check 7 Inspiring Grey Kitchen Ideas
+title: Increíbles diseños de cocina - compruebe 7 ideas inspiradoras de cocina gris
 description: "Grey kitchen is a classic, but it doesn't have to be boring! \U0001F4A1
   Looking for grey kitchen ideas? ➡️ Check the best gray kitchen cabinets designs."
 intro: Various shades of grey have dominated the interior design sector in the recent

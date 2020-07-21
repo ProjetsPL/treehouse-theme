@@ -2,7 +2,7 @@
 layout: post
 date: 2020-07-21
 toc: true
-title: Is a hanging chair a good idea? Hanging chair types
+title: Une chaise suspendue est-elle une bonne idée ? Types de chaises suspendues
 description: Hanging chair is a popular piece of furniture. It fits almost any interior
   design. This comfortable element is appreciated both by children and adults.
 image: "/uploads/fotel-wiszacy.jpg"

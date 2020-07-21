@@ -11,7 +11,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-20
-title: Smooth and Simple Plaster Walls. Check How to Plaster a Wall
+title: Murs en plâtre lisses et simples. Consultez la section Comment enduire un mur
 description: "Want to learn a secret to perfectly smooth plaster walls? \U0001F481‍♂️
   It's easier than you think! \U0001F449 Check how to plaster a wall, even if you
   are not a professional!"

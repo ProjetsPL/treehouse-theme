@@ -15,7 +15,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-20
-title: How to Paint a Room? Check Top Colors and Painting Ideas 2020
+title: Comment peindre une pièce ? Consultez la rubrique Couleurs et idées de peinture 2020
 description: "Planning a little makeover? \U0001F3A8 No idea how to paint the room?
   \U0001F449 Check what colors are the best. Give your interior a new look with those
   painting techniques!"

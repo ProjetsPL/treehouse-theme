@@ -2,7 +2,7 @@
 layout: post
 date: 2020-07-21
 toc: true
-title: Charcoal Grey - Check Out the Latest Trend in Home Decor 2020
+title: Grigio antracite - Scopri l'ultima tendenza dell'Home Decor 2020
 description: "Dreaming of a classy color to make your interior look stylish? \U0001F3D8️
   Charcoal grey is the latest trend in interior design! \U0001F449 Learn the secret
   to its popularity!"

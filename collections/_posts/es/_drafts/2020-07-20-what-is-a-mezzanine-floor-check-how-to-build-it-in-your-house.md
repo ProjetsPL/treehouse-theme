@@ -11,7 +11,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-20
-title: What is a Mezzanine Floor? Check How to Build It in Your House
+title: ¿Qué es un entresuelo? Comprueba cómo construirlo en tu casa
 description: "Looking for interior design ideas? \U0001F4A1 How about a mezzanine
   floor? Learn all about entresols and add space to your interior. ➡️ Make your home
   spectacular!"

@@ -23,7 +23,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-20
-title: Small Bathroom? Inspire Yourself with 9 Best Bathroom Trends
+title: ¿Baño pequeño? Inspírese con las 9 mejores tendencias de baño
 description: "Owning a tiny bathroom? \U0001F6C1 It can be stylish too - a good design
   is all you need. ➡️ Take a look and get inspired by those 9 brilliant small bathroom
   ideas! "

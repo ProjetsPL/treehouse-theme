@@ -15,7 +15,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-19
-title: How to Grow Anthurium? A Complete Guide to Anthurium Care
+title: Come coltivare l'Anthurium? Una guida completa alla cura dell'Anthurium
 description: "Anthurium is an unusual plant with interesting flowers. \U0001F33A What
   does anthurium care should look like? \U0001F4A7 Learn how to make it look perfect!"
 intro: Anthurium, or flamingo flower is a popular potted plant of a great aesthetic

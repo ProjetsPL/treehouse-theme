@@ -24,7 +24,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-20
-title: 6 Simple Tricks to Make Your Orchids Look Splendid!
+title: 6 simples trucos para que sus orquídeas se vean espléndidas!
 description: "Your beloved orchids don’t want to bloom? \U0001F33A Learn those 6 easy
   methods to make them look beautiful again. ➡️ Find out how to care for orchids!"
 intro: Your orchid doesn't bloom properly, and it lost its previous charm? This type

@@ -19,7 +19,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-19
-title: Yucca Plant Care. How to Grow a Yucca Plant?
+title: Cuidado de la planta de yuca. ¿Cómo cultivar una planta de yuca?
 description: "Do you like beautifully blooming plants? \U0001F331 Yucca is a perfect
   plant for you. ✔️ Check how to care for it so that it grows healthy."
 intro: Yucca is one of the most attractive plants that often appears in gardens. Its

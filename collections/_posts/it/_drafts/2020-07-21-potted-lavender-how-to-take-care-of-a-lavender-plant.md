@@ -2,7 +2,7 @@
 layout: post
 date: 2020-07-21
 toc: true
-title: Potted Lavender. How to Take Care of a Lavender Plant?
+title: Lavanda in vaso. Come prendersi cura di una pianta di lavanda?
 description: "Lavender is quite a popular plant. \U0001F3E1 Garden is not required
   – potted lavender often appears on balconies. ➡️ Learn more about this unique plant!"
 image: "/uploads/lawenda-w-doniczce.jpg"

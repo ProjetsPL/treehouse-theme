@@ -17,7 +17,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-21
-title: Curbless Shower - Check Popular Bathroom Trend of 2020
+title: Douche sans ride - Vérifier la tendance populaire des salles de bain en 2020
 description: "Thinking about a curbless shower? \U0001F6BF  This unusual bathroom
   design is becoming a new trend in 2020. ➡️ Find out whether a barrier free shower
   is for you!"

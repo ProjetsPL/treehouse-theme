@@ -2,7 +2,7 @@
 layout: post
 date: 2020-07-21
 toc: true
-title: TreeHouse Is First Retailer To Sell Tesla Home Battery
+title: TreeHouse est le premier détaillant à vendre des batteries Tesla Home
 description: Tesla has chosen TreeHouse as the first retailer authorized to sell the
   Tesla home battery, the Powerwall.
 image: "/uploads/tesla-890x399.jpg"

@@ -20,7 +20,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-19
-title: 5 Teen Bedroom Ideas. How to Decorate a Teen Room?
+title: 5 idées de chambres d'adolescents. Comment décorer une chambre d'adolescent ?
 description: "No idea how to decorate your child's room? \U0001F469‍\U0001F466 Learn
   the most interesting room ideas for teens. ➡️ Inspire yourself and surprise your
   teen!"

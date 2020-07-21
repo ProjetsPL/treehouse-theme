@@ -14,7 +14,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-20
-title: Easy Interior Painting? Learn 5 Simple Wall Painting Ideas
+title: Pittura interna facile? Imparare 5 semplici idee di pittura murale
 description: "Wondering how to paint a wall? \U0001F3E0 Never done that before? \U0001F449
   Check out this simple guide and discover fail-proof wall painting techniques - see
   how easy it is!"

@@ -10,7 +10,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-21
-title: Balcony Garden Ideas - Check What Plants Are Best For Balconies
+title: Ideas para el jardín del balcón - Comprueba qué plantas son las mejores para los balcones
 description: "Which balcony garden plants to choose so that they grow beautifully?
   \U0001F33A This might be a tricky issue. Learn what balcony flowers are best for
   your home!"

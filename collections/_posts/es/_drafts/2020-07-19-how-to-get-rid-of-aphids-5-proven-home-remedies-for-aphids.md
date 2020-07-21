@@ -14,7 +14,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-19
-title: How To Get Rid of Aphids? 5 Proven Home Remedies for Aphids
+title: ¿Cómo deshacerse de los áfidos? 5 remedios caseros probados para los áfidos
 description: "Insects are ruining your plants? \U0001F997 Learn the most effective
   methods and remedies to get rid of aphids. ✅ Free your garden!"
 intro: A beautiful garden is your dream but pests are ruining your plants? Are you

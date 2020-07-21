@@ -15,7 +15,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-20
-title: How to Plant Grass Seed? Learn the Secret to a Perfect Lawn
+title: Come piantare il seme d'erba? Imparare il segreto per un prato perfetto
 description: "A lush, green lawn is your dream goal? You have no idea how to achieve
   it? \U0001F331 Learn how to plant grass seed and make your lawn a real gem!"
 intro: Dreaming of a beautiful, green lawn? The right grass seed and proper maintenace

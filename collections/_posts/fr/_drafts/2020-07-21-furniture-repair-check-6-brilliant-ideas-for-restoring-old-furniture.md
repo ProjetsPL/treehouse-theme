@@ -16,7 +16,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-21
-title: 'Furniture Repair - Check 6 Brilliant Ideas Restoring Old Furniture '
+title: 'Réparation de meubles - Cochez 6 idées brillantes pour restaurer de vieux meubles '
 description: "Feeling the need for a change in your house? \U0001F3E0 Don’t spend
   fortune, upcycled furniture is as good as new! \U0001F6CB️ Furniture repair is very
   easy - check it out!"

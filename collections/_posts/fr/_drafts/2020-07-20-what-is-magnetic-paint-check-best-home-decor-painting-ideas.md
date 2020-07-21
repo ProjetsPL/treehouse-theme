@@ -13,7 +13,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-20
-title: What is Magnetic Paint? Check Best Home Decor Painting Ideas
+title: Qu'est-ce que la peinture magnétique ? Consultez les meilleures idées de peinture pour la décoration de la maison
 description: "Looking for an easy idea to make your interior more interesting? \U0001F3A8
   Try magnetic paint and create a functional and stylish space. \U0001F449 Learn how
   it works!"

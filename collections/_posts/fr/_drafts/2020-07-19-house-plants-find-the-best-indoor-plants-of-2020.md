@@ -20,7 +20,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-19
-title: House plants – Find the Best Indoor Plants of 2020
+title: Plantes d'intérieur - Trouvez les meilleures plantes d'intérieur de 2020
 description: "Are you a plant lover? Do you grow indoor plants? \U0001F331 These fascinating
   species will amaze you. ➡️ Take a look at the most popular house plants."
 intro: Do you grow potted plants at home? There are certain species that not only

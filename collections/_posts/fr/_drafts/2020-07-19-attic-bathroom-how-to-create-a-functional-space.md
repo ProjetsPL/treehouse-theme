@@ -9,7 +9,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-19
-title: Attic Bathroom – How to Create a Functional Space?
+title: Salle de bains du grenier - Comment créer un espace fonctionnel ?
 description: "Dreaming of a beautiful attic bathroom? \U0001F6C0\U0001F3FC Take a
   look at the most interesting ideas. ➡️ Check some stylish and functional designs."
 intro: A bathroom is quite a difficult to design space. What's more, a room with a

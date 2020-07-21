@@ -13,7 +13,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-19
-title: Best TV Wall Ideas – How to Design It in a Living Room?
+title: Meilleures idées de mur de télévision - Comment le concevoir dans un salon ?
 description: "Dreaming of a TV wall? \U0001F4FA Learn how to design it properly. ➡️
   Inspire yourself with the most interesting solutions and transform your living room."
 intro: A TV is the most basic equipment in almost every home. You can arrange it traditionally

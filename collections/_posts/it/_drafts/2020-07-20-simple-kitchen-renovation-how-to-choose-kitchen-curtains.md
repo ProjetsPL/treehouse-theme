@@ -11,7 +11,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-20
-title: 'Simple Kitchen Renovation: How to Choose Kitchen Curtains?'
+title: 'Ristrutturazione cucina semplice: Come scegliere le tende da cucina?'
 description: "Looking for a cheap idea for kitchen renovation? ✔️ Learn a ridiculously
   simple trick - kitchen curtains! \U0001F449 Discover the most exciting kitchen window
   ideas!"

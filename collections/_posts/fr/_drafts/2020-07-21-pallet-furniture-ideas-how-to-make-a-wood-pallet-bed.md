@@ -2,7 +2,7 @@
 layout: post
 date: 2020-07-21
 toc: true
-title: Pallet furniture ideas. How to make a wood pallet bed?
+title: Idées de meubles à palettes. Comment fabriquer un lit de palette en bois ?
 description: DIY pallet furniture is a popular trend. It is not only eco-friendly,
   but also cheap furniture idea. Quite an interesting solution is a wood pallet bed.
 image: "/uploads/nowoczesne-lozko-z-palet.jpg"

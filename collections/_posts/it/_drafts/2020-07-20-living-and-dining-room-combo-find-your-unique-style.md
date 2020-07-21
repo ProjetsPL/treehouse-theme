@@ -18,7 +18,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-20
-title: Living and Dining Room Combo - Find Your Unique Style
+title: Soggiorno e sala da pranzo combinati - Trova il tuo stile unico
 description: "Looking for living room ideas? \U0001F6CB️ How about an open living
   room with dining area? \U0001F449 Come and take a look at the trendiest dining and
   living room designs!"

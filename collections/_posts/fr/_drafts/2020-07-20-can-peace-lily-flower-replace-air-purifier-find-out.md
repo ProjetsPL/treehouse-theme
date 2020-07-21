@@ -17,7 +17,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-20
-title: Can Peace Lily Flower Replace Air Purifier? Find Out!
+title: Le lis de la paix peut-il remplacer le purificateur d'air ? Découvrez-le !
 description: "Concerned about air quality at your home? \U0001F331A peace lily is
   a unique plant acting as a natural air purifier. Could it actually replace the machine?
   \U0001F449 Find out!"

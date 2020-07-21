@@ -19,7 +19,7 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-19
-title: Learn Why You Should Plant a Dogwood Tree in Your Garden
+title: Scopri perché dovresti piantare un corniolo nel tuo giardino
 description: "Dogwood tree has many useful properties. \U0001F33F Why is it beneficial
   to have it in your garden?  ➡️ Learn how to use a dogwood tree in your kitchen!"
 intro: Dogwood has many useful qualities. This unusual ornamental plant not only looks
