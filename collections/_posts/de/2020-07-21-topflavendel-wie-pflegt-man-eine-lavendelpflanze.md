@@ -3,16 +3,17 @@ layout: post
 date: 2020-07-21
 toc: true
 title: Topflavendel. Wie pflegt man eine Lavendelpflanze?
-description: "Lavender is quite a popular plant. \U0001F3E1 Garden is not required
-  – potted lavender often appears on balconies. ➡️ Learn more about this unique plant!"
+description: "Lavendel ist eine recht beliebte Pflanze. \U0001F3E1 Garten ist nicht
+  erforderlich - Topflavendel erscheint oft auf Balkonen. ➡️ Erfahren Sie mehr über
+  diese einzigartige Pflanze!"
 image: "/uploads/lawenda-w-doniczce.jpg"
 promoted: false
 update_date: 2020-07-21
-intro: Lavender - a unique plant with many useful traits. It resides in many gardens.
-  Lavender is valued for its beautiful colours and characteristic fragrance. It’s
-  also not very complicated to grow. You don't even have to be a garden owner. If
-  your space is limited, potted lavender is a perfect solution for you. Learn how
-  to properly take care of it.
+intro: Lavendel - eine einzigartige Pflanze mit vielen nützlichen Eigenschaften. Er
+  ist in vielen Gärten zu finden. Lavendel wird wegen seiner schönen Farben und seines
+  charakteristischen Duftes geschätzt. Er ist auch nicht sehr kompliziert anzubauen.
+  Man muss nicht einmal ein Gartenbesitzer sein. Wenn Ihr Platz begrenzt ist, ist
+  Topflavendel eine perfekte Lösung für Sie. Lernen Sie, wie man ihn richtig pflegt.
 main_keywords:
 - Lavendel
 - Lavendelpflanze
@@ -25,18 +26,17 @@ main_keywords:
 - wie man Lavendel trocknet
 - wann blüht der Lavendel
 - wann Lavendel gepflanzt werden sollte
-published: false
 
 ---
-## What are the characteristics of lavender?
+## Was sind die Merkmale des Lavendels?
 
-Lavender is a shrub belonging to lamiaceae, mint family. It is both decorative and cultivated plant. Lavender typically reaches half a metre, however there are also higher species. Its characteristic feature is **purple, sometimes blue flowers**, growing vertically. They release a slightly camphoric scent. Lavender is valued for its health benefits. The plant is also used in perfume industry and for culinary purposes.
+Lavendel ist ein Strauch, der zu den Lamiaceae, der Familie der Minzegewächse, gehört. Er ist sowohl Zier- als auch Kulturpflanze. Lavendel wird typischerweise einen halben Meter hoch, es gibt jedoch auch höhere Arten. Sein charakteristisches Merkmal sind violette, manchmal blaue Blüten, die vertikal wachsen. Sie verströmen einen leicht kampferähnlichen Duft. Lavendel wird wegen seiner gesundheitlichen Vorteile geschätzt. Die Pflanze wird auch in der Parfümindustrie und für kulinarische Zwecke verwendet.
 
-The valuable parts are flowers, usually in **dried form**. They are also used for essential oil production. It has antiseptic purposes.
+Die wertvollen Teile sind Blüten, meist in getrockneter Form. Sie werden auch zur Herstellung von ätherischen Ölen verwendet. Er hat antiseptische Zwecke.
 
-Lavender has many other purposes that might be appreciated by every woman. In the age of natural cosmetics lavender becomes more and more appreciated. It **hinders skin sebum production**, therefore it is perfect for **oily and combination skin**. It's a great help for acne and pimples, as well as skin discoloration.
+Lavendel hat viele andere Zwecke, die von jeder Frau geschätzt werden könnten. Im Zeitalter der Naturkosmetik wird Lavendel immer mehr geschätzt. Er hemmt die Talgproduktion der Haut, daher ist er perfekt für fettige und Mischhaut geeignet. Er ist eine große Hilfe bei Akne und Pickeln, sowie bei Hautverfärbungen.
 
-If you grow lavender in your garden or in pots on the balcony, you can make your own skin products.
+Wenn Sie Lavendel in Ihrem Garten oder in Töpfen auf dem Balkon anbauen, können Sie Ihre eigenen Hautprodukte herstellen.
 
 {% fig %}
 
@@ -45,9 +45,9 @@ If you grow lavender in your garden or in pots on the balcony, you can make your
 {% endfig %}
 
 {:.distinction.distinction-information}
-Lavender has a **soothing effect on human nervous system**. It is also a good stimulant in case of mental fatigue. Drunk as a herbal tea or added to various dishes, lavender stimulates digestive system and relaxes muscles. It also soothes pain.
+Lavendel hat eine beruhigende Wirkung auf das menschliche Nervensystem. Er ist auch ein gutes Stimulans bei geistiger Ermüdung. Als Kräutertee getrunken oder zu verschiedenen Gerichten hinzugefügt, regt Lavendel die Verdauung an und entspannt die Muskeln. Er wirkt auch schmerzlindernd.
 
-Considering those features, as well as its beautiful form, lavender is worth having at your home. You can grow it in your garden, on a balcony or in the kitchen. Lavender in a pot is not too difficult to grow. You only need to remember about a few principles to make your plant healthy and good looking.
+In Anbetracht dieser Eigenschaften sowie seiner schönen Form lohnt es sich, Lavendel bei sich zu Hause zu haben. Sie können ihn in Ihrem Garten, auf dem Balkon oder in der Küche anbauen. Lavendel in einem Topf ist nicht allzu schwierig anzubauen. Sie müssen sich nur ein paar Grundsätze merken, damit Ihre Pflanze gesund und schön aussieht.
 
 {% fig %}
 
@@ -55,9 +55,9 @@ Considering those features, as well as its beautiful form, lavender is worth hav
 
 {% endfig %}
 
-## Lavender in a pot – what should you know about it?
+## Lavendel im Topf - was sollten Sie darüber wissen?
 
-Lavender in a pot is perfect for anyone who wants to enjoy this plant on their balcony. **You can decide to buy a seedling or seed it yourself.** The latter method requires significantly more attention, as the seeds need to undergo stratification. It is nothing else than **cooling the seeds**, which should last approximately three weeks.
+Lavendel im Topf ist perfekt für jeden, der diese Pflanze auf seinem Balkon genießen möchte. Sie können entscheiden, ob Sie einen Setzling kaufen oder selbst säen wollen. Letztere Methode erfordert wesentlich mehr Aufmerksamkeit, da die Samen einer Schichtung unterzogen werden müssen. Es handelt sich um nichts anderes, als die Samen zu kühlen, was etwa drei Wochen dauern sollte.
 
 {% fig %}
 
@@ -65,86 +65,86 @@ Lavender in a pot is perfect for anyone who wants to enjoy this plant on their b
 
 {% endfig %}
 
-The best time for lavender seeds stratification is February. How to do it? Prepare a small container and fill it with soil. Plant the seeds and put the container in a room in which the temperature remains around 0°C (32 F) – for instance basement. You can also **cool the lavender seeds in the fridge** – it's a definitely more convenient method. This way you don't have to worry about ground frosts.
+Die beste Zeit für die Schichtung von Lavendelsamen ist Februar. Wie macht man das? Bereiten Sie einen kleinen Behälter vor und füllen Sie ihn mit Erde. Pflanzen Sie die Samen und stellen Sie den Behälter in einen Raum, in dem die Temperatur um 0°C (32 F) bleibt - zum Beispiel in einen Keller. Sie können die Lavendelsamen auch im Kühlschrank kühlen - das ist definitiv eine bequemere Methode. Auf diese Weise müssen Sie sich keine Sorgen über Bodenfröste machen.
 
-**Growing a lavender plant at home** is not a very difficult task. The plant does not need too much attention. Well planted, lavender will serve as a decoration for many years. There are many lavender species, and most of them **can be potted**. Plants that are not resistant to frost are perfect for this purpose.
+Eine Lavendelpflanze zu Hause zu züchten, ist keine sehr schwierige Aufgabe. Die Pflanze braucht nicht allzu viel Aufmerksamkeit. Gut gepflanzt wird Lavendel viele Jahre lang als Dekoration dienen. Es gibt viele Lavendelarten, und die meisten von ihnen können eingetopft werden. Pflanzen, die nicht frostresistent sind, eignen sich perfekt für diesen Zweck.
 
 {% fig %}
 ![Lavender in a pot](/uploads/lawenda-w-doniczce-co-warto-o-niej-wiedziec.jpg "Lavender in a pot")
 {% endfig %}
 
-### Growing lavender at home – species
+### Wachsender Lavendel zu Hause - Arten
 
-One of the most common types of lavender is English lavender. It is highly resistant to low temperatures and frost. Most of lavender plants are suitable to grow in a pot, especially those that won’t survive in low temperatures. When choosing a plant, remember that various types reach **different heights**. There are around 30 different species of lavender.
+Eine der verbreitetsten Lavendelarten ist der englische Lavendel. Er ist sehr widerstandsfähig gegen niedrige Temperaturen und Frost. Die meisten Lavendelpflanzen eignen sich zum Wachsen in einem Topf, insbesondere solche, die bei niedrigen Temperaturen nicht überleben. Denken Sie bei der Auswahl einer Pflanze daran, dass verschiedene Arten unterschiedliche Höhen erreichen. Es gibt etwa 30 verschiedene Lavendelarten.
 
-The most popular types are:
+Die beliebtesten Arten sind:
 
 {:.list.list-positive}
 
-* **English lavender**  – also known as true lavender. It is frost resistant, therefore it can survive difficult conditions of cold climates. It can reach up to 1 metre. English lavender flowers have various colours - from white to dark purple.
-* **French lavender**  – the species is less resistant to low temperatures. It can survive up to -7 Celsius degrees, therefore in cold regions it is an annual plant. French lavender flowers are more impressive than English lavender. The petals of the flowers stick out, resembling butterfly wings. Because of a high amount of oils the plant is not used for cooking.
-* **Spanish lavender**  – known also as a different type of French lavender. Flowers are white, purple or blue. The plant is not edible. It is vulnerable to low temperatures therefore in cold regions it is grown in pots.
-* **Broadleaved lavender**  – similar to English lavender, this species can survive very low temperatures. It has a heavier scent, its flowers are used in production of a strong essential oil.
-* **Lavender x intermedia**  – it’s a hybrid between English lavender and broadleaved lavender. Its leaves have a beautiful silvery-green colour. The flowers are purple. The plant can grow up to 60 cm.
+* Englischer Lavendel - auch bekannt als echter Lavendel. Er ist frostbeständig, daher kann er schwierige Bedingungen in kalten Klimazonen überstehen. Er kann bis zu 1 Meter hoch werden. Die Blüten des englischen Lavendels haben verschiedene Farben - von weiß bis dunkelviolett.
+* Französischer Lavendel - die Art ist weniger resistent gegen niedrige Temperaturen. Er kann bis zu -7 Grad Celsius überleben, daher ist er in kalten Regionen eine einjährige Pflanze. Die Blüten des französischen Lavendels sind beeindruckender als die des englischen Lavendels. Die Blütenblätter der Blüten ragen heraus und ähneln Schmetterlingsflügeln. Wegen des hohen Anteils an Ölen wird die Pflanze nicht zum Kochen verwendet.
+* Spanischer Lavendel - auch bekannt als eine andere Art des französischen Lavendels. Die Blüten sind weiß, violett oder blau. Die Pflanze ist nicht essbar. Da sie anfällig für niedrige Temperaturen ist, wird sie in kalten Regionen in Töpfen angebaut.
+* Breitblättriger Lavendel - ähnlich wie der englische Lavendel kann diese Art sehr niedrige Temperaturen überleben. Er hat einen stärkeren Duft, seine Blüten werden zur Herstellung eines starken ätherischen Öls verwendet.
+* Lavendel x intermedia - es ist eine Hybride zwischen englischem Lavendel und breitblättrigem Lavendel. Seine Blätter haben eine schöne silber-grüne Farbe. Die Blüten sind violett. Die Pflanze kann bis zu 60 cm hoch werden.
 
 {:.distinction.distinction-information}
 
-Lavender blooms between June and September. The blooming times might vary – it depends on various factors. Most of the species have evergreen leaves.
+Lavendel blüht zwischen Juni und September. Die Blütezeiten können variieren - es hängt von verschiedenen Faktoren ab. Die meisten Arten haben immergrüne Blätter.
 
-### How to plant a lavender in a pot?
+### Wie pflanzt man einen Lavendel in einen Topf?
 
-Regardless of the type of your plant, all species have similar requirements. Potted lavender needs more attention than the one growing directly in soil, as it has less space to grow.
+Unabhängig von der Art Ihrer Pflanze haben alle Arten ähnliche Anforderungen. Topflavendel braucht mehr Aufmerksamkeit als der direkt in der Erde wachsende Lavendel, da er weniger Platz zum Wachsen hat.
 
-Lavender plant should grow in a big container. It is advised to use ceramic pots, as they **allow water to naturally evaporate**. With plastic containers there is risk that water will stay inside. Make sure to put a drainage layer at the bottom of the planter, along with drain holes. Lavender does not tolerate excessive wetness. The best soil for a lavender plant is dry, lightweight, **rich in calcium and alkaline or neutral**. You can use universal potting soil mixed with sand in 1:1 proportions or buy a special lavender soil in a flower shop. After planting a new plant cover its roots with additional layer of soil.
+Die Lavendelpflanze sollte in einem großen Topf wachsen. Es ist ratsam, Keramiktöpfe zu verwenden, da sie eine natürliche Verdunstung des Wassers ermöglichen. Bei Plastikbehältern besteht die Gefahr, dass Wasser im Inneren bleibt. Achten Sie darauf, am Boden des Pflanzgefäßes eine Drainageschicht und Abflusslöcher anzubringen. Lavendel verträgt keine übermäßige Nässe. Die beste Erde für eine Lavendelpflanze ist trocken, leicht, reich an Kalzium und alkalisch oder neutral. Sie können universelle Blumenerde im Verhältnis 1:1 mit Sand gemischt verwenden oder im Blumenladen eine spezielle Lavendererde kaufen. Nach dem Pflanzen einer neuen Pflanze bedecken Sie deren Wurzeln mit einer zusätzlichen Erdschicht.
 
 {% fig %}
 ![How to plant lavender in a pot?](/uploads/lawenda-w-doniczce-jak-ja-posadzic.jpg "How to plant lavender in a pot?")
 {% endfig %}
 
-Lavender in a pot grows best in sunny spots - choose windows facing south and west. The plant likes wind, so don’t worry if the place is draughty. In summer you can place the pot on a balcony or on a patio.
+Lavendel im Topf wächst am besten an sonnigen Plätzen - wählen Sie Fenster nach Süden und Westen. Die Pflanze mag Wind, machen Sie sich also keine Sorgen, wenn der Platz zugig ist. Im Sommer können Sie den Topf auf einen Balkon oder auf eine Terrasse stellen.
 
 {:.distinction.distinction-information}
-You can also try to seed the plant. The seeds need to be **stratified** first (for around two months). To do this, you might mix them with sand, put them in a fridge, and plant them in spring. The young plants bloom after a year. Their colours might differ from the parent plant.
+Sie können auch versuchen, die Pflanze zu säen. Die Samen müssen zuerst geschichtet werden (etwa zwei Monate lang). Dazu kann man sie mit Sand mischen, in den Kühlschrank stellen und im Frühling pflanzen. Die jungen Pflanzen blühen nach einem Jahr. Ihre Farbe kann sich von der der Mutterpflanze unterscheiden.
 
-## Lavender plant care guide
+## Leitfaden zur Pflege von Lavendelpflanzen
 
-Lavender is a plant that **does not like to stand in shade**. Excessive wetness is also not good for it. Water it 1-2 times a week. Make sure not to overwater the lavender, or it might stop growing. It is better to leave the soil to dry a little instead - although do not let it dry completely. Fertilise the soil every two weeks from April to July. A liquid fertilizer is best for this purpose.
+Lavendel ist eine Pflanze, die nicht gerne im Schatten steht. Übermäßige Nässe ist auch nicht gut für sie. Gießen Sie ihn 1-2 Mal pro Woche. Achten Sie darauf, den Lavendel nicht zu stark zu gießen, da er sonst aufhören könnte zu wachsen. Es ist besser, die Erde stattdessen ein wenig trocknen zu lassen - aber lassen Sie sie nicht vollständig trocknen. Düngen Sie den Boden von April bis Juli alle zwei Wochen. Dazu eignet sich am besten ein Flüssigdünger.
 
-Lavender needs pruning. Do it approximately twice a year to keep the good look of the plant. Such procedure also prolongs blooming time. While you can cut up to half the length, it is best to **cut back 2/3 of a branch**.
+Lavendel muss beschnitten werden. Tun Sie dies etwa zweimal im Jahr, um das gute Aussehen der Pflanze zu erhalten. Ein solches Verfahren verlängert auch die Blütezeit. Während Sie bis zur Hälfte der Länge schneiden können, ist es am besten, 2/3 eines Zweiges zurückzuschneiden.
 
-Lavender also needs to hibernate. For this purpose move the plant to a room with lower temperature. Don’t forget to water it, otherwise the plant will die. Lavender is not very popular among vermins – its strong smell works as a natural repellent. The plant can be transplanted into a new spot after it stops blooming.
+Lavendel muss auch überwintert werden. Bringen Sie zu diesem Zweck die Pflanze in einen Raum mit niedrigerer Temperatur. Vergessen Sie nicht, sie zu gießen, sonst stirbt die Pflanze ab. Lavendel ist unter Schädlingen nicht sehr beliebt - sein starker Geruch wirkt als natürliches Abwehrmittel. Wenn die Pflanze nicht mehr blüht, kann sie an eine neue Stelle umgepflanzt werden.
 
 {:.distinction.distinction-warning}
-The only disease that may attack a lavender plant is **botrytis** (a type of fungus). It will occur if the plant is overwatered. To prevent it, don’t let the roots soak too much. Pour the water out of the saucer immediately, so that it is not sucked back into the soil.
+Die einzige Krankheit, die eine Lavendelpflanze befallen kann, ist die Botrytis (eine Pilzart). Sie tritt auf, wenn die Pflanze überwässert wird. Um dies zu verhindern, sollten die Wurzeln nicht zu stark durchfeuchtet werden. Gießen Sie das Wasser sofort aus der Untertasse aus, damit es nicht in den Boden zurückgesaugt wird.
 
-## Lavender at home – example arrangements
+## Lavendel zu Hause - Beispiel Arrangements
 
-You can plant a lavender individually or in groups – just make sure your container is large enough. The plant looks very good and therefore is a decoration itself. You can also combine it with other species. Choose plants of similar requirements.
+Sie können einen Lavendel einzeln oder in Gruppen pflanzen - stellen Sie nur sicher, dass Ihr Behälter groß genug ist. Die Pflanze sieht sehr gut aus und ist daher selbst eine Dekoration. Sie können sie auch mit anderen Arten kombinieren. Wählen Sie Pflanzen mit ähnlichen Ansprüchen.
 
-Species that can grow with lavender in one pot are:
+Arten, die mit Lavendel in einem Topf wachsen können, sind:
 
 {:.list.list-positive}
 
-* sages,
-* calendulae,
-* tickseeds,
-* pinks.
+* Weisen,
+* Kalender,
+* Zeckenkörner,
+* rosa.
 
 {% fig %}
 ![Lavender at home - example arrangements](/uploads/lawenda-na-balkonie-i-w-domu.jpg "Lavender at home - example arrangements")
 {% endfig %}
 
-Lavender should be combined with flowers of delicate colours that won’t overwhelm it. A good idea is to make a **composition with Herbes de Provence**. It is a perfect arrangement for the kitchen – it can serve both as decoration and indoor herb garden.
+Lavendel sollte mit Blüten in zarten Farben kombiniert werden, die ihn nicht überwältigen. Eine gute Idee ist es, eine Komposition mit Herbes de Provence zu machen. Es ist ein perfektes Arrangement für die Küche - es kann sowohl als Dekoration als auch als Kräutergarten im Haus dienen.
 
-Lavender fits best in rustic style interior designs. Choose interesting containers for it - for instance colourful ceramic pots. You can also use metal buckets or even an old watering can.
+Lavendel passt am besten zu rustikalen Inneneinrichtungen. Wählen Sie dafür interessante Gefäße - zum Beispiel bunte Keramiktöpfe. Sie können auch Metalleimer oder sogar eine alte Gießkanne verwenden.
 
-## How can you use lavender?
+## Wie kann man Lavendel verwenden?
 
-Lavender has a lot of properties. For this reason the plant is definitely worth having. There are many ways in which you can use lavender flowers. See those listed below:
+Lavendel hat viele Eigenschaften. Aus diesem Grund ist die Pflanze definitiv wertvoll. Es gibt viele Möglichkeiten, wie man Lavendelblüten verwenden kann. Siehe die unten aufgeführten:
 
 {:.list.list-positive}
 
-* **Insect repellent** - insects hate the strong scent of lavender. You can put dried flowers in small cotton or linen packets and hang them wherever it’s needed, for instance in a **bedroom**. It is also a good remedy for moths - just put one of the packets somewhere in your wardrobe.
+* Insektenschutzmittel - Insekten hassen den starken Lavendelduft. Sie können Trockenblumen in kleine Baumwoll- oder Leinensäckchen stecken und sie dort aufhängen, wo sie gebraucht werden, zum Beispiel im Schlafzimmer. Es ist auch ein gutes Mittel gegen Motten - legen Sie einfach eines der Päckchen irgendwo in Ihren Kleiderschrank.
 
 {% fig %}
 ![How can you use lavender?](/uploads/lawenda-praktyczne-zastosowania.jpg "How can you use lavender?")
@@ -152,57 +152,57 @@ Lavender has a lot of properties. For this reason the plant is definitely worth 
 
 {:.list.list-positive}
 
-* **Headache remedy** – lavender aroma is **soothing and relaxing**. You can put some freshly cut lavender flowers in a vase in your bedroom. You can also put a packet with dried flowers under your pillow - it will help you fall asleep.
-* **Seasoning** – lavender sometimes is included in a popular seasoning mix - Herbes de Provence. You can use the plant to season many dishes, especially poultry. Be careful though – lavender has a strong aroma. If you overuse it, it will kill the taste of the whole dish. You can also add flowers to desserts and ice cream.
-* **Lavender sugar** – it is very easy to prepare. Just mix some sugar with lavender flowers - fresh or dried, and put it in an airtight container for several weeks. After this time sieve the sugar to separate it from the flowers. It’s **perfect for coffee, tea, cakes and cookies**.
-* **Lavender decorations** – cut and dried lavender branches are great decoration elements. You can use them to decorate candles or just bunch them and put in a vase.
+* Mittel gegen Kopfschmerzen - Lavendelaroma wirkt beruhigend und entspannend. Sie können einige frisch geschnittene Lavendelblüten in eine Vase in Ihrem Schlafzimmer stellen. Sie können auch ein Päckchen mit getrockneten Blumen unter Ihr Kopfkissen legen - das hilft Ihnen beim Einschlafen.
+* Würzen - Lavendel ist manchmal in einer beliebten Würzmischung enthalten - Herbes de Provence. Sie können die Pflanze zum Würzen vieler Gerichte verwenden, insbesondere zum Würzen von Geflügel. Seien Sie jedoch vorsichtig - Lavendel hat ein starkes Aroma. Wenn Sie ihn zu oft verwenden, tötet er den Geschmack des ganzen Gerichts ab. Sie können Blumen auch zu Desserts und Eiscreme hinzufügen.
+* Lavendelzucker - er ist sehr einfach zuzubereiten. Mischen Sie einfach etwas Zucker mit Lavendelblüten - frisch oder getrocknet - und legen Sie ihn für mehrere Wochen in einen luftdichten Behälter. Nach dieser Zeit wird der Zucker gesiebt, um ihn von den Blüten zu trennen. Er eignet sich perfekt für Kaffee, Tee, Kuchen und Kekse.
+* Lavendeldekorationen - geschnittene und getrocknete Lavendelzweige sind tolle Dekorationselemente. Man kann sie zur Dekoration von Kerzen verwenden oder sie einfach bündeln und in eine Vase stellen.
 
-Those are only a few uses of lavender. There are obviously more ideas – just use some inspiration and your own creativity. Make use not only of lavender’s appearance, but also of its healing and cosmetic properties.
+Das sind nur einige wenige Verwendungen von Lavendel. Es gibt offensichtlich mehr Ideen - nutzen Sie einfach etwas Inspiration und Ihre eigene Kreativität. Nutzen Sie nicht nur das Aussehen des Lavendels, sondern auch seine heilenden und kosmetischen Eigenschaften.
 
 {% fig %}
 ![How can you use lavender?](/uploads/lawenda-praktyczne-zastosowania2.jpg "How can you use lavender?")
 {% endfig %}
 
-Lavender is a remarkable plant, definitely worth keeping in your garden or at your house. There are many species to choose with different appearances. The plant needs only a little attention, which is not much in comparison with the amount of the benefits it provides. Lavender in a pot is a great idea for a decoration of any interior design.
+Lavendel ist eine bemerkenswerte Pflanze, die es definitiv wert ist, in Ihrem Garten oder in Ihrem Haus gehalten zu werden. Es gibt viele Arten mit unterschiedlichem Erscheinungsbild zur Auswahl. Die Pflanze braucht nur wenig Aufmerksamkeit, was im Vergleich zur Menge der Vorteile, die sie bietet, nicht viel ist. Lavendel im Topf ist eine großartige Idee für die Dekoration jeder Inneneinrichtung.
 
-## Potted lavender – FAQ
+## Topflavendel – FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-How to grow lavender?
+Wie baut man Lavendel an?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-You might grow lavender in your garden, or, if you do not own one, in a container. Lavender is not difficult to grow, although the plant in a pot requires more attention.
+Vielleicht bauen Sie Lavendel in Ihrem Garten oder, falls Sie keinen besitzen, in einem Container an. Lavendel ist nicht schwer zu züchten, obwohl die Pflanze in einem Topf mehr Aufmerksamkeit erfordert.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to dry lavender?
+Wie trocknet man Lavendel?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Cut several branches and tie it in a bunch with a piece of twig. Hang it in a dry and warm place.
+Schneiden Sie mehrere Zweige ab und binden Sie sie mit einem Zweigstück zu einem Bündel zusammen. Hängen Sie es an einem trockenen und warmen Ort auf.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-When does lavender bloom?
+Wann blüht der Lavendel?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Lavender blooms between June and late September. The time might differ, depending on weather conditions.
+Lavendel blüht zwischen Juni und Ende September. Die Zeit kann je nach Wetterbedingungen unterschiedlich sein.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-When to plant lavender?
+Wann soll Lavendel gepflanzt werden?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-You can plant lavender throughout the whole season, since the beginning of April until the end of September. You can transplant lavender after the flowers stop blooming, on early spring or early autumn.
+Sie können die ganze Saison über Lavendel pflanzen, von Anfang April bis Ende September. Sie können Lavendel umpflanzen, nachdem die Blüten nicht mehr blühen, im frühen Frühjahr oder frühen Herbst.
 {% endfaqAnswer %}
 {% endfaqItem %}
