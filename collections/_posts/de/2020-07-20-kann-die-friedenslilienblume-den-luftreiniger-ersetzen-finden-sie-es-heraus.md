@@ -18,61 +18,60 @@ toc: true
 promoted: false
 update_date: 2020-07-20
 title: Kann die Friedenslilienblume den Luftreiniger ersetzen? Finden Sie es heraus!
-description: "Concerned about air quality at your home? \U0001F331A peace lily is
-  a unique plant acting as a natural air purifier. Could it actually replace the machine?
-  \U0001F449 Find out!"
-intro: Clean air at home contributes to your good mood. That's the reason why air
-  purifiers are becoming increasingly popular. However such a machine might be quite
-  an investment. There is, however a natural way to clean the air. Peace lily is a
-  plant which not only looks beautiful but also can purify the air in a room. Choose
-  natural methods and improve the air quality so that it's clean and healthy for everyone
-  in your house.
+description: "Sind Sie besorgt über die Luftqualität in Ihrem Haus? \U0001F331A Die
+  Friedenslilie ist eine einzigartige Pflanze, die als natürlicher Luftreiniger wirkt.
+  Könnte sie tatsächlich die Maschine ersetzen? \U0001F449 Finden Sie es heraus!"
+intro: Saubere Luft zu Hause trägt zu Ihrer guten Laune bei. Das ist der Grund, warum
+  Luftreiniger immer beliebter werden. Eine solche Maschine kann jedoch eine ziemliche
+  Investition sein. Es gibt jedoch einen natürlichen Weg, die Luft zu reinigen. Die
+  Friedenslilie ist eine Pflanze, die nicht nur schön aussieht, sondern auch die Luft
+  in einem Raum reinigen kann. Wählen Sie natürliche Methoden und verbessern Sie die
+  Luftqualität, so dass sie sauber und gesund für alle in Ihrem Haus ist.
 image: "/uploads/skrzydlokwiat-glowne-1.jpg"
 related_products: []
-published: false
 
 ---
-## What is a peace lily and what are its features?
+## Was ist eine Friedenslilie und was sind ihre Merkmale?
 
-A **peace lily** is a decorative plant from the family of **Araceae**. In contrast with other decorative plants, peace lily not only looks unusual, but also it comes with **health benefits**. Peace lily is a natural air purifier. The most popular type of lily plant is **_Spathiphyllum floribundum_** with its white flowers. They are a decoration in many living rooms.
+Die Friedenslilie ist eine Zierpflanze aus der Familie der Araceae. Im Gegensatz zu anderen Zierpflanzen sieht die Friedenslilie nicht nur ungewöhnlich aus, sondern bringt auch gesundheitliche Vorteile mit sich. Die Friedenslilie ist ein natürlicher Luftreiniger. Die beliebteste Lilienpflanze ist die Spathiphyllum floribundum mit ihren weißen Blüten. Sie sind eine Dekoration in vielen Wohnzimmern.
 
 {% fig %}
 ![What is a peace lily and what are its features?](/uploads/skrzydlokwiat-nie-kwitnie.jpg "What is a peace lily and what are its features?")
 {% endfig %}
 
-## Why can a peace lily replace an air purifier?
+## Warum kann eine Friedenslilie einen Luftreiniger ersetzen?
 
-Unusual **features of a lily flower** have been checked and confirmed by **NASA** who runs detailed tests. As they have shown, a peace lily plant **can neutralize up to five dangerous chemicals** that can be found in households, such as:
+Ungewöhnliche Merkmale einer Lilienblüte wurden von der NASA überprüft und bestätigt, die detaillierte Tests durchführt. Wie sie gezeigt haben, kann eine Friedenslilienpflanze bis zu fünf gefährliche Chemikalien neutralisieren, die z.B. in Haushalten zu finden sind:
 
 {:.list.list-negative}
 
-* **xylene** – used in the varnish industry,
-* **benzene** – used for glue, paint and plastic production,
-* **formaldehyde** – used as a preservative in cleaning and washing products like soaps and shampoos,
-* **carbon monoxide** – a toxic, odorless gas that is lethal for your organism,
-* **trichloroethane** – present in various thinners.
+* Xylol - wird in der Lackindustrie verwendet,
+* Benzol - wird für die Herstellung von Klebstoffen, Farben und Kunststoffen verwendet,
+* Formaldehyd - wird als Konservierungsmittel in Reinigungs- und Waschmitteln wie Seifen und Shampoos verwendet,
+* Kohlenmonoxid - ein giftiges, geruchloses Gas, das für Ihren Organismus tödlich ist,
+* Trichlorethan - in verschiedenen Verdünnungen vorhanden.
 
-Those chemicals are very dangerous for health as they are cancerogenic, they influence respiratory and vascular systems and internal organs.
+Diese Chemikalien sind sehr gefährlich für die Gesundheit, da sie krebserregend sind und Atemwegs- und Gefäßsysteme sowie innere Organe beeinflussen.
 
 {:.distinction.distinction-information}
-A peace lily is a perfect plant for a living room and bedroom. Due to its qualities it is also great for an office and rooms with a lot of electronics.
+Eine Friedenslilie ist eine perfekte Pflanze für Wohn- und Schlafzimmer. Aufgrund ihrer Eigenschaften eignet sie sich auch hervorragend für ein Büro und Räume mit viel Elektronik.
 
 {% fig %}
 ![Why can a peace lily replace an air purifier?](/uploads/interior-2598110_1280.jpg "Why can a peace lily replace an air purifier?")
 {% endfig %}
 
-## Peace lily – natural air purifier and humidifier
+## Friedenslilie - natürlicher Luftreiniger und Luftbefeuchter
 
-**Another important feature of a peace lily is its ability to humidify the room.** For this reason it is a good idea to have it in your home, especially in winter, when the air is very dry. A lily plant is also a great microbes and fungal spores absorber. Therefore, it is ideal for allergy sufferers and people who have trouble with breathing. According to the research, the **long period of flowering** positively influences the atmosphere of the room and affects the mood, helping to relax.
+Ein weiteres wichtiges Merkmal einer Friedenslilie ist ihre Fähigkeit, den Raum zu befeuchten. Aus diesem Grund ist es eine gute Idee, sie bei sich zu Hause zu haben, besonders im Winter, wenn die Luft sehr trocken ist. Eine Lilienpflanze ist auch ein hervorragender Absorber von Mikroben und Pilzsporen. Daher ist sie ideal für Allergiker und Menschen, die Probleme mit der Atmung haben. Nach den Untersuchungen beeinflusst die lange Blütezeit die Raumatmosphäre positiv und wirkt sich auf die Stimmung aus, was zur Entspannung beiträgt.
 
 {:.distinction.distinction-warning}
-Despite all the benefits of the peace lily, it might be poisonous for household pets. If you own a pet and decided to buy a lily plant, observe the health of the animal in during the first days after the purchase. If necessary, remove the plant from your home.
+Trotz aller Vorteile der Friedenslilie könnte sie für Haustiere giftig sein. Wenn Sie ein Haustier besitzen und sich für den Kauf einer Lilienpflanze entschieden haben, beobachten Sie die Gesundheit des Tieres in den ersten Tagen nach dem Kauf. Falls nötig, entfernen Sie die Pflanze aus Ihrer Wohnung.
 
-## Types of peace lily you can grow at home
+## Arten von Friedenslilien, die man zu Hause züchten kann
 
-Although the most popular type of peace lily is **_Spathiphyllum floribundum_** also known as snow flower, there are also other 48 species of this kind. What other types of lily flower can you grow at home?
+Obwohl die beliebteste Art der Friedenslilie Spathiphyllum floribundum, auch als Schneeblume bekannt, ist, gibt es noch weitere 48 Arten dieser Art. Welche anderen Arten von Lilienblüten können Sie zu Hause züchten?
 
-The most significant is definitely **white sails, or _Spathiphyllum wallisii_**. This plant has been created for indoors cultivation only so it's perfect for home. White sails is distributed in five varieties of different volume and height. They are: Yess, Clevelandi, Euro Giant, Sensacion and Mauna Loa.
+Die bedeutendste ist sicherlich die Weiße Segellilie oder Spathiphyllum wallisii. Diese Pflanze wurde nur für den Anbau in Innenräumen geschaffen, so dass sie perfekt für zu Hause geeignet ist. Weiße Segel gibt es in fünf Sorten mit unterschiedlichem Volumen und Höhe. Sie sind: Yess, Clevelandi, Euro Giant, Sensacion und Mauna Loa.
 
 {% fig %}
 ![Types of peace lily you can grow at home](/uploads/skrzydlokwiat-odmiany.jpg "Types of peace lily you can grow at home")
@@ -82,67 +81,67 @@ The most significant is definitely **white sails, or _Spathiphyllum wallisii_**.
 ![Types of peace lily you can grow at home 2](/uploads/skrzydlokwiat-odmiany2.jpg "Types of peace lily you can grow at home 2")
 {% endfig %}
 
-## How to care for a peace lily?
+## Wie pflegt man eine Friedenslilie?
 
-Arecae are not difficult plants to grow at home. Peace lily is one of the least complicated varieties. The most important aspect of taking care of it is doing it systematically, which prolongs its lifespan and makes it bloom more often.
+Auerhähne sind nicht schwer zu Hause anzubauen. Die Friedenslilie ist eine der am wenigsten komplizierten Sorten. Das Wichtigste bei der Pflege ist, sie systematisch zu pflegen, was ihre Lebensdauer verlängert und sie öfter blühen lässt.
 
-**A spathiphyllum plant bloom when humidity is high**, as they help to maintain its level. Therefore the most important aspect of taking care for a peace lily is watering it. You should not only water the soil but also sprinkle the leaves.
+Eine Spathiphyllum-Pflanze blüht bei hoher Luftfeuchtigkeit, da sie dazu beiträgt, ihr Niveau zu halten. Der wichtigste Aspekt bei der Pflege einer Friedenslilie ist daher das Gießen. Man sollte nicht nur die Erde wässern, sondern auch die Blätter bestreuen.
 
-Wondering where you should place the pot with your peace lily? Choose a spot with little access to light. Temperature is also important  – lily plants grow best in **18-22 Celsius degrees (64-71 F)**.
+Sie fragen sich, wo Sie den Topf mit Ihrer Friedenslilie hinstellen sollen? Wählen Sie einen Platz mit wenig Zugang zu Licht. Auch die Temperatur ist wichtig - die Lilienpflanzen wachsen am besten bei 18-22 Grad Celsius (64-71 F).
 
-**A** **proper plant cultivation** also regards regular feeding when the plant blooms. A peace lily blooms exceptionally long, even a few months per year. Also, remember about repotting the peace lily every spring.
+Zu einer richtigen Pflanzenzucht gehört auch eine regelmäßige Fütterung, wenn die Pflanze blüht. Eine Friedenslilie blüht außergewöhnlich lange, sogar einige Monate im Jahr. Denken Sie auch daran, die Friedenslilie jedes Frühjahr umzutopfen.
 
 {:.distinction.distinction-information}
-When feeding your peace lily, pay attention to the color of its leaves. If it's an intense green, it means that the plant has been overfed.
+Wenn Sie Ihre Friedenslilie füttern, achten Sie auf die Farbe ihrer Blätter. Wenn sie intensiv grün ist, bedeutet das, dass die Pflanze überfüttert wurde.
 
 {% fig %}
 ![How to care for a peace lily?](/uploads/skrzydlokwiat-pielegnacja.jpg "How to care for a peace lily?")
 {% endfig %}
 
-## How much does a peace lily cost?
+## Wie viel kostet eine Friedenslilie?
 
-Peace lily is not a very expensive plant and its **price usually isn't high**. It mostly depends on where it's bought and how developed the plant is. The ones you can find in gardening and flower shops are typically more expensive than the one from a supermarket, however they have better quality.
+Die Friedenslilie ist keine sehr teure Pflanze und ihr Preis ist normalerweise nicht hoch. Es hängt vor allem davon ab, wo sie gekauft wird und wie entwickelt die Pflanze ist. Diejenigen, die man in Garten- und Blumenläden findet, sind normalerweise teurer als die aus dem Supermarkt, haben aber eine bessere Qualität.
 
 {% fig %}
 ![How much does a peace lily cost?](/uploads/skrzydlokwiat-jako-oczyszczacz-powietrza.jpg "How much does a peace lily cost?")
 {% endfig %}
 
-## Why does my peace lily not bloom? Learn 4 most common reasons
+## Warum blüht meine Friedenslilie nicht? Lernen Sie die 4 häufigsten Gründe kennen
 
-Your peace lily never blooms? Find out how to resolve this problem. Sometimes you just need to **alter a minor detail** to initiate blooming. Find four most common **mistakes done when growing a Spathiphyllum**.
+Ihre Friedenslilie blüht nie? Finden Sie heraus, wie Sie dieses Problem lösen können. Manchmal müssen Sie nur ein kleines Detail ändern, um die Blüte einzuleiten. Finden Sie die vier häufigsten Fehler, die beim Züchten einer Spathiphyllum gemacht werden.
 
-### Not enough sunlight
+### Nicht genug Sonnenlicht
 
-Although peace lily, in contrast to most household plants, requires **little sunlight,** a complete lack of sun might disturb its blooming process. The best remedy is moving the plant to a spot where the light is dispersed most of the day, for instance is a bedroom behind the curtain.
+Obwohl die Friedenslilie, im Gegensatz zu den meisten Hauspflanzen, wenig Sonnenlicht benötigt, könnte ein völliger Sonnenmangel ihren Blühprozess stören. Die beste Abhilfe ist es, die Pflanze an einen Ort zu bringen, an dem das Licht den größten Teil des Tages gestreut wird, zum Beispiel in ein Schlafzimmer hinter dem Vorhang.
 
 {% fig %}
 ![Not enough sunlight](/uploads/bledy-w-hodowli-skrzydlokwiatu.jpg "Not enough sunlight")
 {% endfig %}
 
-### Size of the pot is not proportional to size of the plant
+### Die Größe des Topfes ist nicht proportional zur Größe der Pflanze
 
-Potting and repotting of peace lily is also very important. The belief that a plant potted in a larger box grows better is wrong. **Putting lily plants in too large pots might cause a problem with their blooming.** Therefore, you should choose a box that is perfectly proportional to the plant you are going to transplant.
+Das Eintopfen und Umtopfen der Friedenslilie ist ebenfalls sehr wichtig. Der Glaube, dass eine Pflanze, die in einen größeren Kasten getopft wird, besser wächst, ist falsch. Das Umtopfen von Lilienpflanzen in zu große Töpfe könnte ein Problem mit ihrer Blüte verursachen. Deshalb sollten Sie einen Kasten wählen, der perfekt proportional zu der Pflanze ist, die Sie umpflanzen wollen.
 
 {:.distinction.distinction-information}
-You shouldn't transplant peace lilies too often, as it also disturbs their blooming and growth. Having that in mind, repotting should be done only when it's absolutely necessary, e.g. when the pot is too small or it has been damaged.
+Man sollte Friedenslilien nicht zu oft transplantieren, da dies auch ihre Blüte und ihr Wachstum stört. Vor diesem Hintergrund sollte man nur dann umtopfen, wenn es absolut notwendig ist, z.B. wenn der Topf zu klein ist oder beschädigt wurde.
 
 {% fig %}
 ![Size of the pot is not proportional to size of the plant](/uploads/zle-dobrany-nawoz.jpg "Size of the pot is not proportional to size of the plant")
 {% endfig %}
 
-### Wrong fertilizer
+### Falscher Dünger
 
-One of the reasons for the lack of blooming might be wrong fertilizer. When choosing a particular organic, pay attention to its consistency and concentration. **A good fertilizer mixture for peace lily is liquid**, and it should be applied once per two weeks, along with watering.
+Einer der Gründe für das Ausbleiben der Blüte könnte ein falscher Dünger sein. Achten Sie bei der Auswahl eines bestimmten organischen Düngers auf dessen Konsistenz und Konzentration. Eine gute Düngermischung für die Friedenslilie ist flüssig, und sie sollte einmal alle zwei Wochen zusammen mit dem Gießen ausgebracht werden.
 
 {% fig %}
 ![Wrong fertilizer](/uploads/skrzydlokwiat-uprawa.jpg "Wrong fertilizer")
 {% endfig %}
 
-### Too much water
+### Zu viel Wasser
 
-**Peace lily watering plays a very important role for its blooming and proper growth**. You should provide enough water and keep doing it regularly. Pay special attention to the quality and temperature of the water – hard or too cold water affects the peace lily's blooming. For the best growth, water your plant with cooled down boiled water or with tap water that has stood for more than an hour.
+Das Gießen der Friedenslilie spielt eine sehr wichtige Rolle für ihre Blüte und ihr richtiges Wachstum. Sie sollten für genügend Wasser sorgen und dies regelmäßig tun. Achten Sie besonders auf die Qualität und Temperatur des Wassers - hartes oder zu kaltes Wasser beeinträchtigt die Blüte der Friedenslilie. Für ein optimales Wachstum gießen Sie Ihre Pflanze mit abgekühltem, abgekochtem Wasser oder mit Leitungswasser, das länger als eine Stunde gestanden hat.
 
-**Peace lily is a household plant** that doesn't require too much work, and with little effort it might be a perfect decoration for many years. Its also beneficial for health as it can clean air. It's a plant definitely worth having in your home.
+Die Friedenslilie ist eine Hauspflanze, die nicht allzu viel Arbeit erfordert, und mit wenig Aufwand könnte sie viele Jahre lang eine perfekte Dekoration sein. Sie ist auch vorteilhaft für die Gesundheit, da sie die Luft reinigen kann. Es ist eine Pflanze, die es auf jeden Fall wert ist, sie in Ihrem Haus zu haben.
 
 {% fig %}
 ![Too much water](/uploads/zbyt-czeste-podlewanie-skrzydlokwiatu.jpg "Too much water")
@@ -150,20 +149,20 @@ One of the reasons for the lack of blooming might be wrong fertilizer. When choo
 
 {% faqItem %}
 {% faqQuestion %}
-How to care for Spathiphyllum?
+Wie pflegt man Spathiphyllum?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The most important aspect of taking care for a peace lily is its regular watering. Make sure to water the soil as well as sprinkle the leaves. Also, choose the right type of fertilizer and place the plant in a spot with access to scattered sunlight.
+Der wichtigste Aspekt bei der Pflege einer Friedenslilie ist ihre regelmäßige Bewässerung. Achten Sie darauf, sowohl den Boden zu wässern als auch die Blätter zu bestreuen. Wählen Sie auch die richtige Art von Dünger und stellen Sie die Pflanze an einen Ort mit Zugang zu gestreutem Sonnenlicht.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How often to water peace lily?
+Wie oft die Friedenslilie gießen?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Water your peace lily regularly – in winter once or twice a week, in summer even 3-4 times per week. If you have overwatered it, you might try repotting the peace lily and prepare a proper drainage (in form of a layer of sand or stones).
+Gießen Sie Ihre Friedenslilie regelmäßig - im Winter ein- bis zweimal pro Woche, im Sommer sogar 3-4 Mal pro Woche. Wenn Sie sie überwässert haben, können Sie versuchen, die Friedenslilie umzutopfen und eine geeignete Drainage (in Form einer Sand- oder Steinschicht) vorzubereiten.
 {% endfaqAnswer %}
 {% endfaqItem %}
