@@ -20,45 +20,46 @@ toc: true
 promoted: false
 update_date: 2020-07-19
 title: Yucca-Pflanzenpflege. Wie züchtet man eine Yucca-Pflanze?
-description: "Do you like beautifully blooming plants? \U0001F331 Yucca is a perfect
-  plant for you. ✔️ Check how to care for it so that it grows healthy."
-intro: Yucca is one of the most attractive plants that often appears in gardens. Its
-  large, snow-white flowers can amaze even the pickiest gardener. It requires a lot
-  of sun, but that's no problem in an open space. How to grow this plant? Before you
-  decide to buy a yucca plant – learn the most crucial details about it.
+description: "Mögen Sie schön blühende Pflanzen? \U0001F331 Yucca ist eine perfekte
+  Pflanze für Sie. ✔️ Prüfen Sie, wie Sie sie pflegen müssen, damit sie gesund wächst."
+intro: Yucca ist eine der attraktivsten Pflanzen, die häufig in Gärten vorkommt. Ihre
+  großen, schneeweißen Blüten können selbst den wählerischsten Gärtner in Erstaunen
+  versetzen. Sie braucht viel Sonne, aber das ist in einem offenen Raum kein Problem.
+  Wie züchtet man diese Pflanze? Bevor Sie sich für den Kauf einer Yucca-Pflanze entscheiden
+  - erfahren Sie die wichtigsten Details über diese Pflanze.
 image: "/uploads/juka-wymagania-i-pielegnacja-jak-uprawiac-juke-ogrodowa.jpg"
 related_products: []
-published: false
 
 ---
-## Yucca plant – what kind of plant is it?
+## Yucca-Pflanze - was für eine Pflanze ist das?
 
-**Yucca** is a species of plants from the **_Asparagaceae_** family_,_ which originates in both Americas. It's evergreen and grows up to 2 meters tall. White **yucca flowers** are bell-shaped, and they appear in the summer, from June to August. One of the most popular subspecies is **_Yucca filamentosa,_** also known as **Adam's needle**. The plant likes a lot of sun and warmth.
+Yucca ist eine Pflanzenart aus der Familie der Asparagaceae, die ihren Ursprung in beiden Amerikas hat. Sie ist immergrün und wird bis zu 2 Meter hoch. Weiße Yucca-Blüten sind glockenförmig, und sie erscheinen im Sommer, von Juni bis August. Eine der populärsten Unterarten ist Yucca filamentosa, auch als Adams Nadel bekannt. Die Pflanze mag viel Sonne und Wärme.
 
 {% fig %}
 ![Yucca plant – what kind of plant is it?](/uploads/juka-wymagania-i-pielegnacja-jak-uprawiac-juke-ogrodowa-2.jpg "Yucca plant – what kind of plant is it?")
 {% endfig %}
 
-## What types of a yucca plant are there?
+## Welche Arten von Yucca-Pflanzen gibt es?
 
-Yucca plants are represented by **many** **various types** that can be characterised by different heights, leaf colors and various degree of resistance to weather conditions. **One of the most popular species, often cultivated in European gardens is the already mentioned Adam's needle.** It not only looks beautiful but also is resistant to low temperatures, characteristic for most European countries.
+Yucca-Pflanzen sind durch viele verschiedene Typen vertreten, die sich durch unterschiedliche Höhen, Blattfarben und einen unterschiedlichen Grad an Widerstandsfähigkeit gegenüber Witterungseinflüssen auszeichnen. Eine der beliebtesten Arten, die oft in europäischen Gärten kultiviert wird, ist die bereits erwähnte Adamsnadel. Sie sieht nicht nur schön aus, sondern ist auch beständig gegen niedrige Temperaturen, was für die meisten europäischen Länder charakteristisch ist.
 
 {% fig %}
 ![What types of a yucca plant are there?](/uploads/juka-wymagania-i-pielegnacja-jak-uprawiac-juke-ogrodowa-3.jpg "What types of a yucca plant are there?")
 {% endfig %}
 
-### 4 most popular types of yucca plant for gardens
+### Die 4 beliebtesten Arten von Yucca-Pflanzen für Gärten
 
-Apart from the popular _yucca filamentosa,_ there are also four other yucca plants that are often grown in gardens. They are:
+Neben der beliebten Yucca filamentosa gibt es noch vier weitere Yucca-Pflanzen, die häufig in Gärten angebaut werden. Das sind sie:
 
 {:.list.list-positive}
-* **Color Guard** – a type with pinkish leaves.
-* **Yucca gloriosa variegata** – a yucca plant with unusual green-blue leaves and white undertones.
-* **Ivory Towers** – a species with white-edged leaves.
-* **Bright Edge** – a short brush with yellow-green leaves.
+
+* Color Guard - ein Typ mit rosafarbenen Blättern.
+* Yucca gloriosa variegata - eine Yucca-Pflanze mit ungewöhnlich grün-blauen Blättern und weißem Unterton.
+* Ivory Towers - eine Art mit weißrandigen Blättern.
+* Bright Edge - ein kurzer Pinsel mit gelbgrünen Blättern.
 
 {:.distinction.distinction-information}
-An interesting fact is that despite various colors of the leaves, all yucca plants have the same white large flowers.
+Eine interessante Tatsache ist, dass trotz unterschiedlicher Blattfarben alle Yucca-Pflanzen die gleichen weißen, großen Blüten haben.
 
 {% fig %}
 ![4 most popular types of yucca plant for gardens](/uploads/juka-wymagania-i-pielegnacja-jak-uprawiac-juke-ogrodowa-5.jpg "4 most popular types of yucca plant for gardens")
@@ -68,90 +69,91 @@ An interesting fact is that despite various colors of the leaves, all yucca plan
 ![Yucca plant species](/uploads/juka-wymagania-i-pielegnacja-jak-uprawiac-juke-ogrodowa-7.jpg "Yucca plant species")
 {% endfig %}
 
-## Yucca – planting tips
+## Yucca - Pflanztipps
 
-**Yucca plants are typically planted into the ground from previously grown seedlings.** It is generally advised to do it in spring, but the decisive factor is the temperature outside.
+Yucca-Pflanzen werden typischerweise aus zuvor angebauten Setzlingen in den Boden gepflanzt. Es wird im Allgemeinen empfohlen, dies im Frühjahr zu tun, aber der entscheidende Faktor ist die Außentemperatur.
 
 {:.distinction.distinction-warning}
-If you have small seedlings that are not well developed yet – refrain from planting them in the early spring. Low temperatures might negatively affect them, and the yucca will not take root.
+Wenn Sie kleine Sämlinge haben, die noch nicht gut entwickelt sind - pflanzen Sie sie nicht im zeitigen Frühjahr. Niedrige Temperaturen könnten sie negativ beeinflussen, und die Yucca wird keine Wurzeln schlagen.
 
-A yucca should be **planted in a spot with high sun exposure** in the garden. A completely open space, however, is not recommended. Because yuccas grow quite tall, they are vulnerable to strong winds that might easily break them.
+Eine Yucca sollte an einem Ort mit hoher Sonneneinstrahlung im Garten gepflanzt werden. Ein völlig offener Platz ist jedoch nicht zu empfehlen. Da Yuccas recht hoch wachsen, sind sie anfällig für starke Winde, die sie leicht zerbrechen könnten.
 
 {% fig %}
 ![Yucca – planting and care](/uploads/juka-wymagania-i-pielegnacja-jak-uprawiac-juke-ogrodowa-4.jpg "Yucca – planting and care")
 {% endfig %}
 
-A yucca plant **grows perfectly in various types of soil** – e.g. in rich and sandy grounds. It doesn't like high humidity and clay soils.
+Eine Yucca-Pflanze wächst perfekt auf verschiedenen Bodentypen - z.B. auf reichen und sandigen Böden. Hohe Feuchtigkeit und lehmige Böden mag sie nicht.
 
 {% fig %}
 ![Best conditions for a yucca plant](/uploads/juka-wymagania-i-pielegnacja-jak-uprawiac-juke-ogrodowa-8.jpg "Best conditions for a yucca plant")
 {% endfig %}
 
-## Yucca plant – care and blooming
+## Yucca-Pflanze - Pflege und Blüte
 
-If you expect your yucca tree to bloom shortly after planting it, unfortunately you are going to be disappointed. Yucca plants **start developing flowers after 2-3 years** – if they are properly taken care of. The already mentioned sun exposure and warmth are essential. If there are low temperatures during a season – the blooming process is threatened.
+Wenn Sie erwarten, dass Ihr Yucca-Baum kurz nach der Pflanzung blüht, werden Sie leider enttäuscht werden. Yucca-Pflanzen beginnen nach 2-3 Jahren zu blühen - wenn man sich richtig um sie kümmert. Die bereits erwähnte Sonneneinstrahlung und Wärme sind unerlässlich. Wenn während einer Saison niedrige Temperaturen herrschen, ist der Blühvorgang gefährdet.
 
 {% fig %}
 ![Yucca plant – care and blooming](/uploads/juka-wymagania-i-pielegnacja-jak-uprawiac-juke-ogrodowa-9.jpg "Yucca plant – care and blooming")
 {% endfig %}
 
-A proper growth of a yucca plant depends greatly also on **the nutrients provided to it – in low doses.** Typically, one needs to feed a yucca plant twice per season.
+Ein richtiges Wachstum einer Yucca-Pflanze hängt auch stark von den Nährstoffen ab, die ihr - in niedrigen Dosen - zugeführt werden. Normalerweise muss man eine Yucca-Pflanze zweimal pro Saison ernähren.
 
 {:.distinction.distinction-warning}
-Remember that a yucca plant doesn't like humidity – do not water it too often. Overwatering might lead to a disease manifested by marks on the leaves and lack of blooming.
+Denken Sie daran, dass eine Yucca-Pflanze keine Feuchtigkeit mag - gießen Sie sie nicht zu oft. Überwässern kann zu einer Krankheit führen, die sich durch Flecken auf den Blättern und fehlende Blüte äußert.
 
-## How to overwinter a yucca plant?
+## Wie überwintert man eine Yucca-Pflanze?
 
-The way a yucca plant is kept during winter affects its further condition and blooming. Although the most popular **_Yucca filamentosa_** _–_ Adam's needle is frost-resistant, you should not leave it exposed to low temperatures.
+Die Art und Weise, wie eine Yucca-Pflanze im Winter gehalten wird, beeinflusst ihren weiteren Zustand und ihre Blüte. Obwohl die beliebteste Yucca filamentosa - Adamsnadel frostbeständig ist, sollten Sie sie nicht niedrigen Temperaturen aussetzen.
 
-Securing a yucca before winter involves **tying the leaves and covering them with a cloth which protects the plant against frost.**
+Um eine Yucca vor dem Winter zu sichern, müssen die Blätter abgebunden und mit einem Tuch abgedeckt werden, das die Pflanze vor Frost schützt.
 
 {% fig %}
 ![How to overwinter a yucca plant?](/uploads/juka-wymagania-i-pielegnacja-jak-uprawiac-juke-ogrodowa-10.jpg "How to overwinter a yucca plant?")
 {% endfig %}
 
 {:.distinction.distinction-information}
-For the cover you can use cardboard, spruce branches or straw. Secured this way, a yucca plant can survive the cold season without the risk of developing diseases.
+Für den Umschlag können Sie Karton, Fichtenzweige oder Stroh verwenden. Auf diese Weise gesichert kann eine Yucca-Pflanze die kalte Jahreszeit überstehen, ohne Gefahr zu laufen, Krankheiten zu entwickeln.
 
-**You can uncover your yucca at the same time when new plants are put in the ground.** The best period for that is between March and April, or earlier, if the temperatures are high enough.
+Sie können Ihre Yucca gleichzeitig freilegen, wenn neue Pflanzen in die Erde gesetzt werden. Die beste Zeit dafür ist zwischen März und April, oder früher, wenn die Temperaturen hoch genug sind.
 
-## Can you grow a yucca plant indoors?
+## Kann man eine Yucca-Pflanze drinnen anbauen?
 
-Similar to some other garden plants, yuccas can be **cultivated indoors.** In this case, you cannot forget to provide the proper conditions to the plant – a lot of sunlight and not too frequent watering. A perfect spot for a yucca plant should be not too far from windows or balcony door, where there is enough natural light.
+Ähnlich wie einige andere Gartenpflanzen können Yuccas im Haus kultiviert werden. In diesem Fall darf man nicht vergessen, die richtigen Bedingungen für die Pflanze zu schaffen - viel Sonnenlicht und nicht zu häufiges Gießen. Ein perfekter Standort für eine Yucca-Pflanze sollte nicht zu weit von Fenstern oder Balkontüren entfernt sein, wo genügend natürliches Licht vorhanden ist.
 
 {% fig %}
 ![Can you grow a yucca plant indoors?](/uploads/juka-wymagania-i-pielegnacja-jak-uprawiac-juke-ogrodowa-6.jpg "Can you grow a yucca plant indoors?")
 {% endfig %}
 
-## Why does my yucca plant not bloom?
+## Warum blüht meine Yucca-Pflanze nicht?
 
-There are many possible reasons why a yucca plant doesn't bloom. Finding out which one is your concern will help you take care of the plant and help it develop **beautiful white flowers**. The most common reasons for the lack of blooming are:
+Es gibt viele mögliche Gründe, warum eine Yucca-Pflanze nicht blüht. Wenn Sie herausfinden, welcher davon Ihr Anliegen ist, können Sie sich um die Pflanze kümmern und ihr helfen, schöne weiße Blüten zu entwickeln. Die häufigsten Gründe für das Ausbleiben der Blüte sind:
 
 {:.list.list-negative}
-* insufficient sunlight exposure,
-* excessive dampness of soil or too frequent watering,
-* wrong way of feeding the plant with minerals or too frequent fertilizing,
-* planting the yucca in clay soil,
-* too low temperature due to planting the yucca too early,
-* improper overwintering,
-* exposure to strong winds.
+
+* unzureichende Sonneneinstrahlung,
+* übermäßige Feuchtigkeit des Bodens oder zu häufige Bewässerung,
+* falsche Art, die Pflanze mit Mineralien zu füttern, oder zu häufiges Düngen,
+* Pflanzung der Yucca in Lehmboden,
+* zu niedrige Temperatur durch zu frühes Einpflanzen der Yucca,
+* unsachgemäße Überwinterung,
+* Exposition gegenüber starken Winden.
 
 {% faqItem %}
 {% faqQuestion %}
-What is a yucca plant?
+Was ist eine Yucca-Pflanze?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Yucca plant is a name of shrubs and trees in the family of Asparagaceae. They are evergreen perennials, valued by gardeners for their unusual leaves of various colors and beautiful white flowers.
+Yucca-Pflanze ist ein Name für Sträucher und Bäume aus der Familie der Asparagaceae. Sie sind immergrüne Stauden, die von Gärtnern wegen ihrer ungewöhnlichen Blätter in verschiedenen Farben und ihrer schönen weißen Blüten geschätzt werden.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to care for a yucca plant?
+Wie pflegt man eine Yucca-Pflanze?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-One of the most important factors in yucca plant care is the sufficient sunlight exposure. Make sure that the spot in which the plant grows has enough access to the sun. Do not overwater the yucca, as it doesn't like humidity. Yucca grows well in rich or sandy soils, but not in the ones with high clay content.
+Einer der wichtigsten Faktoren bei der Pflege von Yucca-Pflanzen ist die ausreichende Sonneneinstrahlung. Stellen Sie sicher, dass die Stelle, an der die Pflanze wächst, genügend Zugang zur Sonne hat. Überwässern Sie die Yucca nicht, denn sie mag keine Feuchtigkeit. Die Yucca wächst gut auf reichen oder sandigen Böden, aber nicht auf Böden mit hohem Tongehalt.
 {% endfaqAnswer %}
 {% endfaqItem %}
