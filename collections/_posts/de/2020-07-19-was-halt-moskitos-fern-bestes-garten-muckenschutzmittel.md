@@ -22,130 +22,130 @@ toc: true
 promoted: false
 update_date: 2020-07-19
 title: Was hält Moskitos fern? Bestes Garten-Mückenschutzmittel
-description: "Mosquitoes keep disturbing your garden relaxation? \U0001F99F Learn
-  how to get rid of them! ➡️ Check what is the best mosquito repellent and enjoy the
-  summer."
-intro: Are you dreaming to spend a pleasant summer evening in your garden? Perhaps
-  you are worried that mosquitoes will disturb your peace? Learn how to fight them
-  off – easily and effectively! Check what are the best and cheapest mosquito repellents
-  and enjoy the summer in its full glory, spending the time outside without any limitations.
+description: "Stören Moskitos immer wieder die Entspannung in Ihrem Garten? \U0001F99F
+  Erfahren Sie, wie Sie sie loswerden können! ➡️ Finden Sie heraus, welches das beste
+  Mückenschutzmittel ist, und genießen Sie den Sommer."
+intro: Träumen Sie davon, einen angenehmen Sommerabend in Ihrem Garten zu verbringen?
+  Vielleicht machen Sie sich Sorgen, dass Moskitos Ihre Ruhe stören? Lernen Sie, wie
+  Sie sie bekämpfen können - einfach und effektiv! Prüfen Sie, welches die besten
+  und billigsten Mückenschutzmittel sind, und genießen Sie den Sommer in seiner vollen
+  Pracht, indem Sie die Zeit im Freien ohne Einschränkungen verbringen.
 image: "/uploads/komary-glowne-jpg.jpg"
 related_products: []
-published: false
 
 ---
-## Can a natural mosquito repellent replace store-bought products?
+## Kann ein natürliches Mückenschutzmittel gekaufte Produkte ersetzen?
 
-Natural mosquito control methods might be as effective as some store-bought products. The only thing that needs to be kept in mind is the **right preparation and proper usage** of such remedies. The most popular method is using essential oils for mosquito repellent, whose strong scent scare the insects away. They are for instance:
+Natürliche Mückenbekämpfungsmethoden könnten ebenso wirksam sein wie einige im Laden gekaufte Produkte. Das Einzige, was man im Auge behalten muss, ist die richtige Zubereitung und der richtige Gebrauch solcher Mittel. Die beliebteste Methode ist die Verwendung ätherischer Öle zur Mückenabwehr, deren starker Duft die Insekten verscheucht. Das sind sie zum Beispiel:
 
 {:.list.list-positive}
 
-* lemon grass oil – it also repels flies and gnats,
-* clove oil,
-* patchouli oil,
-* eucalyptus oil, especially the one made from lemon-scented gum (_Corymbia citriodora_).
+* Zitronengrasöl - es wehrt auch Fliegen und Mücken ab,
+* Nelkenöl,
+* Patchouli-Öl,
+* Eukalyptusöl, insbesondere das aus zitronenduftendem Gummi (Corymbia citriodora) hergestellte.
 
-You can easily prepare a homemade **mosquito repellent spray** with **essential oils**, which is a natural equivalent of store-bought chemical products. To make a homemade mosquito repellent you need: a mixture of essential oils that have insect repellent qualities and **base oil** (i.e. vegetable oil, for instance the one you typically use in the kitchen: sunflower, almond or grapeseed oil).
+Sie können leicht ein hausgemachtes Mückenspray mit ätherischen Ölen zubereiten, das ein natürliches Äquivalent zu gekauften chemischen Produkten ist. Um ein hausgemachtes Mückenschutzmittel herzustellen, benötigen Sie: eine Mischung aus ätherischen Ölen, die insektenabweisende Eigenschaften haben, und Basisöl (d.h. Pflanzenöl, z.B. dasjenige, das Sie normalerweise in der Küche verwenden: Sonnenblumen-, Mandel- oder Traubenkernöl).
 
-A **homemade mosquito repellent** is very easy to make. All you need to do is combine essential oils of your choice with the base oil in the right proportion and mix them well. For 100 ml of your base oil you should use no more than 10 ml of essential oil (keep that in mind especially when using several various essential oils).
+Ein hausgemachtes Mückenschutzmittel ist sehr einfach herzustellen. Sie brauchen nur die ätherischen Öle Ihrer Wahl im richtigen Verhältnis mit dem Basisöl zu kombinieren und gut zu vermischen. Für 100 ml Ihres Basisöls sollten Sie nicht mehr als 10 ml ätherisches Öl verwenden (denken Sie daran, besonders wenn Sie mehrere verschiedene ätherische Öle verwenden).
 
-Keep the mixture in **dark glass containers**, for instance in small bottles.
+Bewahren Sie die Mischung in dunklen Glasbehältern, zum Beispiel in kleinen Flaschen, auf.
 
 {:.distinction.distinction-warning}
-For the best effectiveness, apply your homemade mosquito repellent every 2 hours onto spots that are the most vulnerable to bites.
+Um die beste Wirksamkeit zu erzielen, tragen Sie Ihr selbstgemachtes Mückenschutzmittel alle 2 Stunden auf die Stellen auf, die am anfälligsten für Stiche sind.
 
 {% fig %}
 ![Can a natural mosquito repellent replace store-bought products?](/uploads/domowe-sposoby-na-komary.jpg "Can a natural mosquito repellent replace store-bought products?")
 {% endfig %}
 
-## What are the most effective mosquito repellent plants?
+## Was sind die wirksamsten mückenabweisenden Pflanzen?
 
-There are certain plant species that act as **natural mosquito repellents**. They are mostly flowers, trees and shrubs with strong scents. Fragrant plants and herbs are very unpleasant for mosquitoes, therefore they are great if you want to **protect your garden from those insects**.
+Es gibt bestimmte Pflanzenarten, die als natürliches Mückenschutzmittel wirken. Es handelt sich meist um Blumen, Bäume und Sträucher mit starkem Duft. Duftende Pflanzen und Kräuter sind für Mücken sehr unangenehm, deshalb sind sie großartig, wenn Sie Ihren Garten vor diesen Insekten schützen wollen.
 
-A plant known as **_Plectranthus glabratus_** or Swedish ivy is an ornamental plant with long, loose leaves. It's a great natural mosquito repellent. It looks best in a hanging pot, therefore it can be grown on balconies and patios.
+Eine als Plectranthus glabratus oder Schwedischer Efeu bekannte Pflanze ist eine Zierpflanze mit langen, lockeren Blättern. Sie ist ein großartiges natürliches Mückenschutzmittel. Am besten sieht sie in einem hängenden Topf aus, daher kann sie auf Balkonen und Terrassen gezüchtet werden.
 
-Other popular ornamental mosquito repellent plants are **geraniums**. It's a perfect species for rock gardens, slopes and flowerbeds.
+Andere beliebte, mückenabwehrende Zierpflanzen sind Geranien. Es ist eine perfekte Art für Steingärten, Hänge und Blumenbeete.
 
 {% fig %}
 ![What are the most effective mosquito repellent plants?](/uploads/rosliny-odstraszajace-komary.jpg "What are the most effective mosquito repellent plants?")
 {% endfig %}
 
-Not only flowering perennials repel mosquitoes. Another brilliant method for natural mosquito control is planting certain species of **trees and shrubs**. One of the most hated trees among mosquitoes is staghorn sumac. The tree can help you get rid of mosquitoes from your garden. It takes very little space and requires minimal effort, so it's a plant that anyone can manage – even if you barely started your gardening adventure.
+Nicht nur blühende Stauden stoßen Moskitos ab. Eine weitere brillante Methode zur natürlichen Mückenbekämpfung ist die Anpflanzung bestimmter Baum- und Straucharten. Einer der meistgehassten Bäume unter den Stechmücken ist der Hirschhornsumach. Der Baum kann Ihnen helfen, die Mücken aus Ihrem Garten zu vertreiben. Er nimmt sehr wenig Platz ein und erfordert nur minimalen Aufwand, so dass es sich um eine Pflanze handelt, die jeder bewältigen kann - auch wenn Sie Ihr Gartenabenteuer gerade erst begonnen haben.
 
 {:.distinction.distinction-information}
-Dissecta is an interesting variety of this species, and it also acts as a mosquito repellent. It's characteristic feature is the wide crown. The tree grows up to four meters tall and even six meters wide. The leaves of a dissecta turn orange in autumn, which makes the tree even more ornamental.
+Dissecta ist eine interessante Varietät dieser Art, und sie wirkt auch als Mückenschutzmittel. Ihr charakteristisches Merkmal ist die breite Krone. Der Baum wird bis zu vier Meter hoch und sogar sechs Meter breit. Die Blätter einer Dissecta färben sich im Herbst orange, was den Baum noch ornamentaler macht.
 
 {% fig %}
 ![Best mosquito repellent plants](/uploads/dissecta-przeciwko-komarom.jpg "Best mosquito repellent plants")
 {% endfig %}
 
-## What keeps mosquitoes away? Learn 3 proven mosquito repellents for your garden
+## Was hält Stechmücken fern? Lernen Sie 3 bewährte Mückenschutzmittel für Ihren Garten
 
-Sprinkling your clothes or **spraying your body with special mosquito repellent solutions is effective but short-lasting**. This process typically has to be repeated several times a day. What are the best methods to keep the mosquitoes out of your garden and stop them from ruining your evenings? Check our suggestions that will help you win the battle with mosquitoes.
+Die Besprühung Ihrer Kleidung oder Ihres Körpers mit speziellen mückenabweisenden Lösungen ist wirksam, aber kurzlebig. Dieser Vorgang muss normalerweise mehrmals am Tag wiederholt werden. Was sind die besten Methoden, um die Moskitos aus Ihrem Garten fernzuhalten und zu verhindern, dass sie Ihre Abende ruinieren? Lesen Sie unsere Vorschläge, die Ihnen helfen werden, den Kampf gegen die Mücken zu gewinnen.
 
-### Essential oils and mosquito repellent sprays
+### Ätherische Öle und mückenabwehrende Sprays
 
-The most popular method for fighting mosquitoes is using various mosquito sprays, essentail oils or a mosquito repellent candle. **You can combine all those methods, which will make them more effective.** You should, however, keep in mind that those remedies only hold back and repel the insects, instead of fully eliminating the problem.
+Die beliebteste Methode zur Mückenbekämpfung ist die Verwendung verschiedener Mückensprays, ätherischer Öle oder einer mückenabweisenden Kerze. Sie können alle diese Methoden kombinieren, wodurch sie wirksamer werden. Sie sollten jedoch bedenken, dass diese Mittel die Insekten nur zurückhalten und abwehren, anstatt das Problem vollständig zu beseitigen.
 
-**Incense sticks, candles and torches,** although effective, they are very limited timewise. Such products protect against the insects only when you are staying right by the source. The further you are from the mosquito repellent candle or stick, the more you are vulnerable to bites. For this reason, even **if you decided to burn an incense stick, do not forget to use a repellent oil or spray as well.**
+Räucherstäbchen, Kerzen und Fackeln sind zwar wirksam, aber zeitlich sehr begrenzt. Solche Produkte schützen nur dann vor den Insekten, wenn man sich direkt an der Quelle aufhält. Je weiter man sich von der mückenabwehrenden Kerze oder dem Räucherstäbchen entfernt, desto anfälliger ist man für Stiche. Aus diesem Grund sollten Sie, auch wenn Sie sich entschieden haben, einen Räucherstäbchen zu verbrennen, nicht vergessen, auch ein Öl oder Spray mit Mückenschutzmittel zu verwenden.
 
 {% fig %}
 ![Essential oils and mosquito repellent sprays](/uploads/kadzidlo-na-komary.jpg "Essential oils and mosquito repellent sprays")
 {% endfig %}
 
-### Outdoor lighting – an effective mosquito repellent
+### Außenbeleuchtung - ein wirksames Mückenschutzmittel
 
-One of the most popular mosquito repellents for gardens involves installing a **special type of lighting**. There are certain outdoor lamps that help you combat the insects. It does not only repel, but also **completely eliminates the flying insects**.
+Eines der beliebtesten Mückenschutzmittel für Gärten ist die Installation einer speziellen Art von Beleuchtung. Es gibt bestimmte Außenlampen, die Ihnen helfen, die Insekten zu bekämpfen. Sie wehren die fliegenden Insekten nicht nur ab, sondern eliminieren sie auch vollständig.
 
 {% fig %}
 ![Outdoor lighting – an effective mosquito repellent](/uploads/skuteczne-sposoby-na-komary.jpg "Outdoor lighting – an effective mosquito repellent")
 {% endfig %}
 
-**A lamp of this type emits subtle ultraviolet lighting**, which pulls the insects regardless of the season. One of the most common types of lamps are the ones that eliminate the mosquitoes by electrocuting them. Another method makes the insects stick to the lamp and the device sucks them inside. **The method of luring the mosquitoes remains the same in both devices, while the way they are eliminated is different.**
+Eine solche Lampe strahlt ein subtiles ultraviolettes Licht aus, das die Insekten unabhängig von der Jahreszeit anlockt. Eine der gängigsten Arten von Lampen sind diejenigen, die die Mücken durch Stromschlag beseitigen. Eine andere Methode bringt die Insekten dazu, an der Lampe zu haften, und das Gerät saugt sie nach innen. Die Methode, die Mücken anzulocken, bleibt bei beiden Geräten gleich, während die Art und Weise, wie die Mücken eliminiert werden, unterschiedlich ist.
 
 {:.distinction.distinction-information}
-A great advantage of such a lamp is the fact that it doesn't affect people standing nearby. For this reason it's a perfect solution for allergy sufferers, who cannot use popular mosquito repellent sprays.
+Ein großer Vorteil einer solchen Lampe ist die Tatsache, dass sie keine in der Nähe stehenden Personen beeinträchtigt. Aus diesem Grund ist sie eine perfekte Lösung für Allergiker, die die gängigen Mückenschutzsprays nicht verwenden können.
 
-## Garden spraying – a sure mosquito control method
+## Gartenspritzen - eine sichere Methode zur Moskitokontrolle
 
-The last step in the fight with mosquitoes is **spraying your garden**. By using the right type of mosquito repellent, you can scare away and eliminate the insects dwelling in your garden.
-
-{:.distinction.distinction-information}
-If you want to get rid of several types of insects, you can mix two different mosquito repellent sprays. Remember to keep the proportions in balance.
-
-Garden mosquito spray is nothing else than a **concentrated insect repellent**, mixed a moment before using it. Apply it mostly in dark, damp spots and on tall grasses. Due to the fact that mosquitoes are less active in the morning and in the late evening, the spray might help you decrease their population or completely hinder their reproduction. The larger area you spray, the more effective the method is. Nevertheless, **use the spray responsibly**, remembering about the right proportions. A chemical mosquito repellent is a sure way to win the fight with those insects.
-
-## What about mosquitoes by the water?
-
-To prevent mosquitoes reproduction in your garden, you need to make sure that the water in the reservoir is constantly moving. It's very important because **fresh, standing water is a place where the insects lay eggs.** You can produce water movement very easily, for instance by adding fountains, streams or a cascade to your pond. It's an easy way to prevent the mosquitoes from reproducing, by stopping them from laying eggs.
-
-Because **mosquitoes typically choose foul, dense and shallow water bodies**, you should take care of the water plants and clean the pond regularly.
+Der letzte Schritt im Kampf gegen Moskitos ist das Besprühen Ihres Gartens. Durch die Verwendung des richtigen Mückenschutzmittels können Sie die Insekten, die in Ihrem Garten leben, verscheuchen und beseitigen.
 
 {:.distinction.distinction-information}
-Some fish and frog species feed on insect larvae. Keeping them in your garden pond might prevent mosquitoes from reproducing.
+Wenn Sie mehrere Insektenarten loswerden möchten, können Sie zwei verschiedene Mückenschutzsprays mischen. Denken Sie daran, die Proportionen im Gleichgewicht zu halten.
+
+Garten-Mückenspray ist nichts anderes als ein konzentriertes Insektenschutzmittel, das einen Moment vor der Anwendung gemischt wird. Tragen Sie es meist an dunklen, feuchten Stellen und auf hohen Gräsern auf. Da Stechmücken morgens und am späten Abend weniger aktiv sind, kann das Spray dazu beitragen, ihre Population zu verringern oder ihre Fortpflanzung völlig zu behindern. Je grösser die besprühte Fläche ist, desto wirksamer ist die Methode. Trotzdem sollten Sie das Spray verantwortungsvoll anwenden und auf die richtigen Proportionen achten. Ein chemisches Mückenschutzmittel ist ein sicherer Weg, den Kampf gegen diese Insekten zu gewinnen.
+
+## Was ist mit Moskitos am Wasser?
+
+Um die Vermehrung von Stechmücken in Ihrem Garten zu verhindern, müssen Sie dafür sorgen, dass das Wasser im Reservoir ständig in Bewegung ist. Das ist sehr wichtig, denn frisches, stehendes Wasser ist ein Ort, an dem die Insekten Eier legen. Sie können sehr leicht Wasserbewegung erzeugen, indem Sie z.B. Fontänen, Bäche oder eine Kaskade in Ihren Teich setzen. Es ist eine einfache Möglichkeit, die Mücken an der Fortpflanzung zu hindern, indem man sie an der Eiablage hindert.
+
+Da Stechmücken in der Regel faule, dichte und flache Gewässer wählen, sollten Sie sich um die Wasserpflanzen kümmern und den Teich regelmäßig reinigen.
+
+{:.distinction.distinction-information}
+Einige Fisch- und Froscharten ernähren sich von Insektenlarven. Wenn Sie sie in Ihrem Gartenteich halten, kann dies die Vermehrung von Moskitos verhindern.
 
 {% fig %}
 ![What about mosquitoes by the water?](/uploads/a-co-na-komary-nad-woda.jpg "What about mosquitoes by the water?")
 {% endfig %}
 
-Do you want to enjoy a peaceful time in your own garden? Make sure to use appropriate mosquito repellent immediately afer you notice first insects. This way you can avoid a mosquito invasion.
+Wollen Sie eine friedliche Zeit in Ihrem eigenen Garten verbringen? Achten Sie darauf, dass Sie sofort, wenn Sie die ersten Insekten bemerken, ein geeignetes Mückenschutzmittel verwenden. Auf diese Weise können Sie eine Mückeninvasion vermeiden.
 
 {% faqItem %}
 {% faqQuestion %}
-What is a natural mosquito repellent?
+Was ist ein natürliches Mückenschutzmittel?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Certain plants release scents that repel mosquitoes. Plectranthus, geranium or a dissecta are great natural mosquito repellents. Plant them in various spots in your garden, most importantly close by the place where you usually spend time.
+Bestimmte Pflanzen setzen Düfte frei, die Moskitos abstoßen. Plectranthus, Geranie oder eine Dissecta sind große natürliche Mückenabwehrmittel. Pflanzen Sie sie an verschiedenen Stellen in Ihrem Garten, vor allem in der Nähe des Ortes, an dem Sie sich normalerweise aufhalten.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-What essential oils are good for mosquito repellent?
+Welche ätherischen Öle sind gut für Mückenschutzmittel?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Lemon grass oil, patchouli oil, clove oil and eucalyptus oil are great mosquito repellents. It is a good idea to mix them all, along with some base vegetable oil. You can apply such mixture to your skin every time you need to go out. Remember to reapply it every two hours if you are outside for a longer time.
+Zitronengrasöl, Patchouliöl, Nelkenöl und Eukalyptusöl sind hervorragende Mückenschutzmittel. Es ist eine gute Idee, sie alle zu mischen, zusammen mit etwas basischem Pflanzenöl. Sie können eine solche Mischung jedes Mal, wenn Sie ausgehen müssen, auf Ihre Haut auftragen. Vergessen Sie nicht, sie alle zwei Stunden erneut aufzutragen, wenn Sie sich für längere Zeit im Freien aufhalten.
 {% endfaqAnswer %}
 {% endfaqItem %}
