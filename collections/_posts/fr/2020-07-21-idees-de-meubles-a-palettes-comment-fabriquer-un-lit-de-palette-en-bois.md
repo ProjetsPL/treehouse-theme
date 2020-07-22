@@ -3,16 +3,18 @@ layout: post
 date: 2020-07-21
 toc: true
 title: Idées de meubles à palettes. Comment fabriquer un lit de palette en bois ?
-description: DIY pallet furniture is a popular trend. It is not only eco-friendly,
-  but also cheap furniture idea. Quite an interesting solution is a wood pallet bed.
+description: Les meubles à palettes de bricolage sont une tendance populaire. C'est
+  une idée de meuble non seulement écologique, mais aussi bon marché. Une solution
+  assez intéressante est un lit à palettes en bois.
 image: "/uploads/nowoczesne-lozko-z-palet.jpg"
 promoted: false
 update_date: 2020-07-21
-intro: Pallet furniture is a popular trend in home decoration. It is an interesting,
-  inexpensive solution. A big advantage of pallet furniture is the option to adjust
-  the size and shape to one’s own needs. Pallet elements fit most styles. Quite an
-  easy DIY project involving pallets is a pallet bed. When done right, it might be
-  very stylish and impressive.
+intro: Les meubles sur palettes sont une tendance populaire dans la décoration de
+  la maison. C'est une solution intéressante et peu coûteuse. Un grand avantage des
+  meubles sur palettes est la possibilité d'adapter la taille et la forme à ses propres
+  besoins. Les éléments de palette s'adaptent à la plupart des styles. Un lit à palettes
+  est un projet de bricolage assez facile impliquant des palettes. Bien fait, il peut
+  être très élégant et impressionnant.
 main_keywords:
 - lit de palette
 - cadre de lit de palette
@@ -23,136 +25,135 @@ main_keywords:
 - comment faire un lit de palettes
 - comment fabriquer un cadre de lit de palette
 - comment faire un lit de jardin à palettes
-published: false
 
 ---
-## Pallet - an idea for cheap furniture
+## La palette - une idée pour des meubles bon marché
 
-Up until recently pallets were only used for product transportation. Nowadays pallets are commonly used for building various **home decoration** objects or even whole furniture sets. This solution fits trends of upcycling and zero-waste, which only contributes to its popularity.
+Jusqu'à récemment, les palettes n'étaient utilisées que pour le transport des produits. Aujourd'hui, les palettes sont couramment utilisées pour la construction de divers objets de décoration intérieure ou même de meubles entiers. Cette solution s'inscrit dans les tendances de recyclage et de zéro déchet, ce qui ne fait que contribuer à sa popularité.
 
 {:.distinction.distinction-information}
-The main reason for which many homeowners decide to build their own pallet furniture sets is the **low price**. Objects such as pallet bed are a great solution if the budget is low.
+La raison principale pour laquelle de nombreux propriétaires décident de construire leurs propres ensembles de meubles à palettes est le prix bas. Les objets tels que les lits-palettes sont une excellente solution si le budget est faible.
 
-It is surely advantageous for those furnishing their **first apartment** or renovating it for renting purposes. Pallet furniture are extremely easy to make and they do not require using any special tools. All one needs are several pallets, sanding paper or a grinder and products for wood protection. If the pallet bed or other furniture piece is going to have a particular colour, a good paint is also going to be needed.
+C'est certainement avantageux pour ceux qui meublent leur premier appartement ou le rénovent à des fins de location. Les meubles à palettes sont extrêmement faciles à fabriquer et ne nécessitent aucun outil particulier. Il suffit d'avoir plusieurs palettes, du papier abrasif ou une meuleuse et des produits pour la protection du bois. Si le lit de la palette ou un autre meuble doit avoir une couleur particulière, il faut également une bonne peinture.
 
-Pallet is a common material that one can obtain for a low price or even for free. Ask at your local supermarket or a hardware shop whether they don’t have some spare pallets. You can also buy those elements directly in the factory or on online auction. They are not very expensive.
+La palette est un matériau courant que l'on peut obtenir à bas prix, voire gratuitement. Demandez à votre supermarché local ou à une quincaillerie s'ils n'ont pas de palettes de rechange. Vous pouvez également acheter ces éléments directement à l'usine ou aux enchères en ligne. Ils ne sont pas très chers.
 
 {:.distinction.distinction-warning}
-When buying a pallet, remember to check its condition. A **pallet bed** made of damaged and chipped pallets is not very aesthetically pleasing.
+Lorsque vous achetez une palette, n'oubliez pas de vérifier son état. Un fond de palette constitué de palettes endommagées et ébréchées n'est pas très esthétique.
 
-## DIY pallet bed - step by step
+## Lit-palette de bricolage - pas à pas
 
-A wood pallet bed is one of the most commonly assembled pallet furniture. It is not very difficult to make - you just need the right materials. It might be a good idea to prepare a **thorough project** before starting to assemble the parts. It might help to visualise how the complete piece should look, influencing the final outcome.
+Un lit à palettes en bois est l'un des meubles à palettes les plus souvent assemblés. Il n'est pas très difficile à fabriquer - il suffit d'utiliser les bons matériaux. Il peut être judicieux de préparer un projet complet avant de commencer à assembler les pièces. Il peut être utile de visualiser l'aspect de la pièce complète, ce qui influencera le résultat final.
 
 {% fig %}
 ![DIY pallet bed - step by step](/uploads/lozko-na-paletach-jak-go-zrobic-krok-po-kroku.jpg "DIY pallet bed - step by step")
 {% endfig %}
 
-### What is needed for a pallet bed
+### Ce qu'il faut pour un lit de palettes
 
-Before beginning your work on a pallet bed, you should collect all needed materials. The most important elements are, obviously, pallets. The most popular pallet is **Euro-pallet** (also called EUR-pallet or EPAL pallet) with standard size 120x80 cm. Nevertheless, you can use pallets of different size. Plan the dimensions accordingly, to fit the mattress.
+Avant de commencer votre travail sur un lit de palettes, vous devez rassembler tous les matériaux nécessaires. Les éléments les plus importants sont, bien évidemment, les palettes. La palette la plus populaire est l'Euro-palette (également appelée palette EUR ou palette EPAL) de taille standard 120x80 cm. Néanmoins, vous pouvez utiliser des palettes de taille différente. Planifiez les dimensions en conséquence, pour qu'elles s'adaptent au matelas.
 
 {:.distinction.distinction-information}
-Keep in mind that the pallet bed should be a little wider than the bedding, as it might move around when sleeping on it. A typical EUR-pallet weighs around 20 kg and can hold up to 1000 kg. You can choose lighter elements with a lower load limit - they will work for a pallet bed as well.
+Gardez à l'esprit que le lit-palette doit être un peu plus large que la literie, car il peut bouger lorsqu'on dort dessus. Une palette EUR typique pèse environ 20 kg et peut supporter jusqu'à 1000 kg. Vous pouvez choisir des éléments plus légers avec une limite de charge plus basse - ils fonctionneront également pour un lit-palette.
 
-The number of pallets depends on your individual project. For a basic, one-person bed you need a minimum of three pallets. **Double bed** needs around six elements per one layer. Carefully plan how many layers you want and adjust the number of pallets you need. If you want to include a headboard in your project, you will need more pallets (depending on what the piece looks like).
+Le nombre de palettes dépend de votre projet individuel. Pour un lit de base pour une personne, vous avez besoin d'un minimum de trois palettes. Un lit double nécessite environ six éléments par couche. Planifiez soigneusement le nombre de couches que vous souhaitez et ajustez le nombre de palettes dont vous avez besoin. Si vous souhaitez inclure une tête de lit dans votre projet, vous aurez besoin de plus de palettes (en fonction de l'aspect de la pièce).
 
-Except from the pallets, you will also need:
+En dehors des palettes, vous aurez également besoin de
 
 {:.list.list-positive}
 
-* a grinder tool,
-* metal flat bars and long screws,
-* wood protection - wood stain or a primer,
-* paint - if the pallet bed is going to have a colour,
-* paint brushes and rollers.
+* un outil de broyage,
+* des plats métalliques et de longues vis,
+* protection du bois - teinture pour bois ou apprêt,
+* la peinture - si le lit de la palette doit avoir une couleur,
+* des pinceaux et des rouleaux de peinture.
 
-If you do not own a grinder and you cannot rent it, you might want to use **sanding paper or sponge**. Manual sanding takes considerably more time, however it might be more economic. It would make no sense to buy a new grinder only to sand your pallet bed.
+Si vous ne possédez pas de meuleuse et que vous ne pouvez pas la louer, vous pouvez utiliser du papier abrasif ou une éponge. Le ponçage manuel prend beaucoup plus de temps, mais il peut être plus économique. Il serait insensé d'acheter une nouvelle meuleuse uniquement pour poncer votre fond de palette.
 
-### How to build a pallet bed?
+### Comment construire un lit de palettes ?
 
-Start your project from cleaning it. It is particularly important if the pallets you own were used for storage. First, **clean them** from dirt such as dust and mud. Then thoroughly sand all of the surfaces. If you use a grinder, start using a 60 grit paper, if sanding paper or sponge - 80. For the second smoothing, use a 120 grit. Wet the surface afterwards using a damp sponge. When it dries, the wood fibres will rise. The last sanding requires a 240 grit. After the surface is smoothed, dust it with a damp cloth.
+Commencez votre projet en le nettoyant. Il est particulièrement important si les palettes que vous possédez ont été utilisées pour le stockage. Commencez par les nettoyer de la saleté, comme la poussière et la boue. Ensuite, poncez soigneusement toutes les surfaces. Si vous utilisez une meuleuse, commencez par utiliser un papier de grain 60, si vous poncez avec du papier ou une éponge - 80. Pour le deuxième lissage, utilisez un papier de 120. Mouillez ensuite la surface à l'aide d'une éponge humide. Lorsqu'elle sèche, les fibres de bois se soulèvent. Le dernier ponçage nécessite un papier de grain 240. Une fois la surface lissée, dépoussiérez avec un chiffon humide.
 
-The next step involves joining the elements. Use metal **flat bars and screws** for this purpose. Lay the pallets on the floor, and join them. It is irrelevant at what spot you link the pallets. You can place the screws at the bottom (if you decide to do it, secure them with an additional layer of felt, to prevent scratching the floor). You might also place them on sides or on top - you decide whether they are visible or not.
+L'étape suivante consiste à assembler les éléments. Utilisez pour cela des méplats métalliques et des vis. Posez les palettes sur le sol et assemblez-les. L'endroit où les palettes sont reliées n'a aucune importance. Vous pouvez placer les vis en bas (si vous décidez de le faire, fixez-les avec une couche supplémentaire de feutre, pour éviter de rayer le sol). Vous pouvez également les placer sur les côtés ou sur le dessus - à vous de décider si elles sont visibles ou non.
 
 {:.distinction.distinction-information}
-When planning a wood pallet bed, think of additional elements, such as **headboard or legs**. If they are included in your plan, now it’s time to build them and attach to the bed.
+Lorsque vous planifiez un lit à palettes en bois, pensez à des éléments supplémentaires, comme la tête de lit ou les pieds. S'ils sont inclus dans votre plan, il est maintenant temps de les construire et de les fixer au lit.
 
-The last stage involves painting the newly designed piece. If you want to keep the natural wood pattern, just cover the surface with wood stain or varnish. You might also decide to give your bed a colour - in such case just use good paint in a chosen colour. You might also use a **coloured wood stain**, which will create an interesting effect.
+La dernière étape consiste à peindre la pièce nouvellement conçue. Si vous voulez conserver le motif naturel du bois, il suffit de couvrir la surface avec une teinture ou un vernis pour bois. Vous pouvez également décider de donner une couleur à votre lit. Dans ce cas, utilisez simplement une bonne peinture dans la couleur choisie. Vous pouvez également utiliser une teinture pour bois colorée, qui créera un effet intéressant.
 
 {% fig %}
 ![How to build a pallet bed?](/uploads/jak-wykonac-lozko-z-palet.jpg "How to build a pallet bed?")
 {% endfig %}
 
-## Pallet bed - what mattress is best?
+## Lit à palettes - quel est le meilleur matelas ?
 
-A wood pallet bed is just a platform on which a mattress lays. How **comfortable** is a bed depends on a good mattress. It should be suited to your individual needs. One’s sleeping position, weight and the number of people sleeping on a bed - those are are factors that should be considered when buying a mattress. The size is also a very important issue - you should fit the pallet bed to the mattress, not vice versa.
+Un lit-palette en bois n'est qu'une plate-forme sur laquelle repose un matelas. Le confort d'un lit dépend d'un bon matelas. Il doit être adapté à vos besoins individuels. La position de sommeil, le poids et le nombre de personnes qui dorment sur le lit sont des facteurs à prendre en compte lors de l'achat d'un matelas. La taille est également une question très importante - vous devez adapter le lit à palette au matelas, et non l'inverse.
 
-If the pallet bed is going to stand in a guest room, it is best to choose a universal product. You might choose, for instance, a **foam mattress** that fits any body shape.
+Si le lit-palette doit être placé dans une chambre d'amis, il est préférable de choisir un produit universel. Vous pouvez choisir, par exemple, un matelas en mousse qui s'adapte à toutes les formes de corps.
 
-## Pallet furniture - ideas
+## Meubles à palettes - idées
 
-Wood pallet bed is only one of many ideas for pallet furniture. There are many interesting solutions that one can use. They are worth trying, as they are simple and easy to make.
+Le lit à palettes en bois n'est qu'une des nombreuses idées de meubles à palettes. Il existe de nombreuses solutions intéressantes que l'on peut utiliser. Elles valent la peine d'être essayées, car elles sont simples et faciles à réaliser.
 
-Objects that you might make are for instance:
+Les objets que vous pourriez fabriquer sont par exemple :
 
 {:.list.list-positive}
 
-* pallet swing for your garden.
-* flower bed.
-* coffee table.
+* balançoire à palettes pour votre jardin.
+* lit de fleurs.
+* table basse.
 
-### Pallet dog bed
+### Litière pour chien de palette
 
-Your pets can also use pallet furniture. To make a bed for them, you might build a big box, using pallet boards. You can go even simpler - just smooth the surface of a pallet and put a cushion or a mattress on it.
+Vos animaux domestiques peuvent également utiliser des meubles à palettes. Pour leur faire un lit, vous pouvez construire une grande boîte en utilisant des planches à palettes. Vous pouvez faire encore plus simple : il suffit de lisser la surface d'une palette et d'y poser un coussin ou un matelas.
 
 {:.distinction.distinction-information}
-When you create pallet furniture, think of the multifunctionality. You might add elements such as wheels, or in case of tables - glass tops. Construction of Euro-pallets allows to create **drawers**, which are useful for storing additional items.
+Lorsque vous créez des meubles à palettes, pensez à la multifonctionnalité. Vous pouvez ajouter des éléments tels que des roues ou, dans le cas des tables, des plateaux en verre. La construction d'euro-palettes permet de créer des tiroirs, qui sont utiles pour stocker des objets supplémentaires.
 
 {% fig %}
 ![Pallet furniture - ideas](/uploads/inne-pomysly-na-meble-z-palet.jpg "Pallet furniture - ideas")
 {% endfig %}
 
-Pallet furniture is an easy and cheap way to furnish your house. Pallet bed might be a better alternative than buying a new piece. Consider making such an object yourself - it is not very difficult, and you can find many tutorials on the Internet. If you don't have enough time or don’t feel confident enough to make a piece such as a pallet bed, you might also buy one. DIY lovers and crafters often offer their works for sale.
+Les meubles sur palettes sont un moyen facile et bon marché de meubler votre maison. Le lit à palettes peut être une meilleure alternative que l'achat d'une nouvelle pièce. Envisagez de fabriquer vous-même un tel objet - ce n'est pas très difficile, et vous pouvez trouver de nombreux tutoriels sur Internet. Si vous n'avez pas assez de temps ou si vous ne vous sentez pas assez sûr de vous pour fabriquer une pièce telle qu'un lit à palettes, vous pouvez également en acheter un. Les bricoleurs et les artisans proposent souvent leurs œuvres à la vente.
 
 ## FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-How to make a pallet bed?
+Comment faire un lit de palettes ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Start from creating a project in which you plan the whole construction. Consider aspects such as the size of your pallet bed, the number of pallets and additional features such as legs and headboard.
+Commencez par créer un projet dans lequel vous planifiez l'ensemble de la construction. Tenez compte d'aspects tels que la taille de votre lit à palettes, le nombre de palettes et les caractéristiques supplémentaires telles que les pieds et la tête de lit.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to make a pallet bed frame?
+Comment fabriquer un cadre de lit de palette ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The simplest wood pallet bed frame involves joining four pallets aligned in pairs. You might make it higher by adding another layer of pallets.
+Le cadre de lit de palettes en bois le plus simple consiste à réunir quatre palettes alignées par paires. Vous pouvez le rendre plus haut en ajoutant une autre couche de palettes.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to make a pallet garden bed?
+Comment faire un lit de jardin à palettes ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-You might simply use the pallet boards to create a flower box. Another method involves sealing the gaps in the pallet from the bottom and planting the flowers in the holes.
+Vous pouvez simplement utiliser les palettes pour créer une boîte à fleurs. Une autre méthode consiste à boucher les trous de la palette par le bas et à planter les fleurs dans les trous.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to make a pallet bed with lights?
+Comment faire un lit à palettes avec des lumières ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-If you want lights for your pallet bed, hide them in the headboard. It is best to use LED lights, as they are small and lightweight. You might also illuminate the bed base, putting string lights in the gaps.
+Si vous voulez des lumières pour votre lit à palettes, cachez-les dans la tête de lit. Il est préférable d'utiliser des lampes LED, car elles sont petites et légères. Vous pouvez également éclairer le pied du lit en plaçant des guirlandes lumineuses dans les espaces vides.
 {% endfaqAnswer %}
 {% endfaqItem %}
