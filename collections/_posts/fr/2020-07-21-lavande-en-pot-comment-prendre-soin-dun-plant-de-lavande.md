@@ -3,16 +3,18 @@ layout: post
 date: 2020-07-21
 toc: true
 title: Lavande en pot. Comment prendre soin d'un plant de lavande ?
-description: "Lavender is quite a popular plant. \U0001F3E1 Garden is not required
-  – potted lavender often appears on balconies. ➡️ Learn more about this unique plant!"
+description: "La lavande est une plante assez populaire. \U0001F3E1 Le jardin n'est
+  pas obligatoire - la lavande en pot apparaît souvent sur les balcons. ➡️ En savoir
+  plus sur cette plante unique !"
 image: "/uploads/lawenda-w-doniczce.jpg"
 promoted: false
 update_date: 2020-07-21
-intro: Lavender - a unique plant with many useful traits. It resides in many gardens.
-  Lavender is valued for its beautiful colours and characteristic fragrance. It’s
-  also not very complicated to grow. You don't even have to be a garden owner. If
-  your space is limited, potted lavender is a perfect solution for you. Learn how
-  to properly take care of it.
+intro: La lavande - une plante unique qui possède de nombreuses caractéristiques utiles.
+  Elle est présente dans de nombreux jardins. La lavande est appréciée pour ses belles
+  couleurs et son parfum caractéristique. Elle n'est pas non plus très compliquée
+  à cultiver. Il n'est même pas nécessaire d'être propriétaire d'un jardin. Si votre
+  espace est limité, la lavande en pot est une solution parfaite pour vous. Apprenez
+  à en prendre soin de manière appropriée.
 main_keywords:
 - lavande
 - plante de lavande
@@ -25,18 +27,17 @@ main_keywords:
 - comment faire sécher la lavande
 - Quand la lavande fleurit-elle ?
 - quand planter la lavande
-published: false
 
 ---
-## What are the characteristics of lavender?
+## Quelles sont les caractéristiques de la lavande ?
 
-Lavender is a shrub belonging to lamiaceae, mint family. It is both decorative and cultivated plant. Lavender typically reaches half a metre, however there are also higher species. Its characteristic feature is **purple, sometimes blue flowers**, growing vertically. They release a slightly camphoric scent. Lavender is valued for its health benefits. The plant is also used in perfume industry and for culinary purposes.
+La lavande est un arbuste appartenant aux lamiacées, famille de la menthe. C'est une plante à la fois décorative et cultivée. La lavande atteint généralement un demi-mètre, mais il existe aussi des espèces plus hautes. Elle se caractérise par des fleurs violettes, parfois bleues, qui poussent verticalement. Elles dégagent une odeur légèrement camphrée. La lavande est appréciée pour ses bienfaits sur la santé. La plante est également utilisée dans l'industrie de la parfumerie et à des fins culinaires.
 
-The valuable parts are flowers, usually in **dried form**. They are also used for essential oil production. It has antiseptic purposes.
+Les parties les plus précieuses sont les fleurs, généralement sous forme séchée. Elles sont également utilisées pour la production d'huiles essentielles. Elle a des propriétés antiseptiques.
 
-Lavender has many other purposes that might be appreciated by every woman. In the age of natural cosmetics lavender becomes more and more appreciated. It **hinders skin sebum production**, therefore it is perfect for **oily and combination skin**. It's a great help for acne and pimples, as well as skin discoloration.
+La lavande a de nombreux autres usages qui pourraient être appréciés par toutes les femmes. À l'ère des cosmétiques naturels, la lavande est de plus en plus appréciée. Elle entrave la production de sébum de la peau, c'est pourquoi elle est parfaite pour les peaux grasses et mixtes. Elle est d'une grande aide pour l'acné et les boutons, ainsi que pour la décoloration de la peau.
 
-If you grow lavender in your garden or in pots on the balcony, you can make your own skin products.
+Si vous faites pousser de la lavande dans votre jardin ou dans des pots sur le balcon, vous pouvez fabriquer vos propres produits pour la peau.
 
 {% fig %}
 
@@ -45,9 +46,9 @@ If you grow lavender in your garden or in pots on the balcony, you can make your
 {% endfig %}
 
 {:.distinction.distinction-information}
-Lavender has a **soothing effect on human nervous system**. It is also a good stimulant in case of mental fatigue. Drunk as a herbal tea or added to various dishes, lavender stimulates digestive system and relaxes muscles. It also soothes pain.
+La lavande a un effet apaisant sur le système nerveux humain. Elle est également un bon stimulant en cas de fatigue mentale. Bue sous forme de tisane ou ajoutée à divers plats, la lavande stimule le système digestif et détend les muscles. Elle a également un effet apaisant sur la douleur.
 
-Considering those features, as well as its beautiful form, lavender is worth having at your home. You can grow it in your garden, on a balcony or in the kitchen. Lavender in a pot is not too difficult to grow. You only need to remember about a few principles to make your plant healthy and good looking.
+Compte tenu de ces caractéristiques, ainsi que de sa belle forme, la lavande mérite d'être consommée chez vous. Vous pouvez la cultiver dans votre jardin, sur un balcon ou dans la cuisine. La lavande en pot n'est pas trop difficile à cultiver. Il vous suffit de vous rappeler quelques principes pour que votre plante soit saine et belle.
 
 {% fig %}
 
@@ -55,9 +56,9 @@ Considering those features, as well as its beautiful form, lavender is worth hav
 
 {% endfig %}
 
-## Lavender in a pot – what should you know about it?
+## La lavande en pot - que faut-il savoir ?
 
-Lavender in a pot is perfect for anyone who wants to enjoy this plant on their balcony. **You can decide to buy a seedling or seed it yourself.** The latter method requires significantly more attention, as the seeds need to undergo stratification. It is nothing else than **cooling the seeds**, which should last approximately three weeks.
+La lavande en pot est parfaite pour tous ceux qui veulent profiter de cette plante sur leur balcon. Vous pouvez décider d'acheter un plant ou de le semer vous-même. Cette dernière méthode demande beaucoup plus d'attention, car les graines doivent être stratifiées. Il ne s'agit rien d'autre que de refroidir les graines, ce qui devrait durer environ trois semaines.
 
 {% fig %}
 
@@ -65,86 +66,86 @@ Lavender in a pot is perfect for anyone who wants to enjoy this plant on their b
 
 {% endfig %}
 
-The best time for lavender seeds stratification is February. How to do it? Prepare a small container and fill it with soil. Plant the seeds and put the container in a room in which the temperature remains around 0°C (32 F) – for instance basement. You can also **cool the lavender seeds in the fridge** – it's a definitely more convenient method. This way you don't have to worry about ground frosts.
+Le meilleur moment pour la stratification des graines de lavande est le mois de février. Comment faire ? Préparez un petit récipient et remplissez-le de terre. Plantez les graines et placez le récipient dans une pièce où la température reste autour de 0°C (32 F) - par exemple au sous-sol. Vous pouvez également refroidir les graines de lavande au réfrigérateur, c'est une méthode nettement plus pratique. De cette façon, vous n'avez pas à vous soucier des gelées.
 
-**Growing a lavender plant at home** is not a very difficult task. The plant does not need too much attention. Well planted, lavender will serve as a decoration for many years. There are many lavender species, and most of them **can be potted**. Plants that are not resistant to frost are perfect for this purpose.
+Cultiver un plant de lavande à la maison n'est pas une tâche très difficile. La plante n'a pas besoin de trop d'attention. Bien plantée, la lavande servira de décoration pendant de nombreuses années. Il existe de nombreuses espèces de lavande, et la plupart d'entre elles peuvent être mises en pot. Les plantes qui ne résistent pas au gel sont parfaites pour cela.
 
 {% fig %}
 ![Lavender in a pot](/uploads/lawenda-w-doniczce-co-warto-o-niej-wiedziec.jpg "Lavender in a pot")
 {% endfig %}
 
-### Growing lavender at home – species
+### Cultiver la lavande à domicile - les espèces
 
-One of the most common types of lavender is English lavender. It is highly resistant to low temperatures and frost. Most of lavender plants are suitable to grow in a pot, especially those that won’t survive in low temperatures. When choosing a plant, remember that various types reach **different heights**. There are around 30 different species of lavender.
+La lavande anglaise est l'un des types de lavande les plus courants. Elle est très résistante aux basses températures et au gel. La plupart des plants de lavande sont adaptés à la culture en pot, en particulier ceux qui ne survivent pas aux basses températures. Lorsque vous choisissez une plante, n'oubliez pas que les différents types de lavande atteignent des hauteurs différentes. Il existe environ 30 espèces différentes de lavande.
 
-The most popular types are:
+Les types les plus populaires sont :
 
 {:.list.list-positive}
 
-* **English lavender**  – also known as true lavender. It is frost resistant, therefore it can survive difficult conditions of cold climates. It can reach up to 1 metre. English lavender flowers have various colours - from white to dark purple.
-* **French lavender**  – the species is less resistant to low temperatures. It can survive up to -7 Celsius degrees, therefore in cold regions it is an annual plant. French lavender flowers are more impressive than English lavender. The petals of the flowers stick out, resembling butterfly wings. Because of a high amount of oils the plant is not used for cooking.
-* **Spanish lavender**  – known also as a different type of French lavender. Flowers are white, purple or blue. The plant is not edible. It is vulnerable to low temperatures therefore in cold regions it is grown in pots.
-* **Broadleaved lavender**  – similar to English lavender, this species can survive very low temperatures. It has a heavier scent, its flowers are used in production of a strong essential oil.
-* **Lavender x intermedia**  – it’s a hybrid between English lavender and broadleaved lavender. Its leaves have a beautiful silvery-green colour. The flowers are purple. The plant can grow up to 60 cm.
+* Lavande anglaise - également connue sous le nom de lavande vraie. Elle résiste au gel et peut donc survivre aux conditions difficiles des climats froids. Elle peut atteindre jusqu'à 1 mètre. Les fleurs de lavande anglaise ont différentes couleurs, du blanc au violet foncé.
+* La lavande française - l'espèce est moins résistante aux basses températures. Elle peut survivre jusqu'à -7 degrés Celsius, donc dans les régions froides, c'est une plante annuelle. Les fleurs de la lavande française sont plus impressionnantes que celles de la lavande anglaise. Les pétales des fleurs dépassent, ressemblant à des ailes de papillon. En raison de sa grande quantité d'huile, la plante n'est pas utilisée pour la cuisine.
+* La lavande espagnole - également connue comme une autre sorte de lavande française. Les fleurs sont blanches, violettes ou bleues. La plante n'est pas comestible. Elle est vulnérable aux basses températures, c'est pourquoi, dans les régions froides, elle est cultivée en pot.
+* Lavande à larges feuilles - semblable à la lavande anglaise, cette espèce peut survivre à des températures très basses. Elle a un parfum plus lourd, ses fleurs sont utilisées pour la production d'une huile essentielle forte.
+* Lavande x intermedia - c'est un hybride entre la lavande anglaise et la lavande à larges feuilles. Ses feuilles ont une belle couleur vert argenté. Les fleurs sont violettes. La plante peut atteindre 60 cm.
 
 {:.distinction.distinction-information}
 
-Lavender blooms between June and September. The blooming times might vary – it depends on various factors. Most of the species have evergreen leaves.
+La lavande fleurit entre juin et septembre. La période de floraison peut varier en fonction de divers facteurs. La plupart des espèces ont des feuilles persistantes.
 
-### How to plant a lavender in a pot?
+### Comment planter une lavande dans un pot ?
 
-Regardless of the type of your plant, all species have similar requirements. Potted lavender needs more attention than the one growing directly in soil, as it has less space to grow.
+Quel que soit le type de votre plante, toutes les espèces ont des exigences similaires. La lavande en pot nécessite plus d'attention que celle qui pousse directement dans le sol, car elle a moins d'espace pour pousser.
 
-Lavender plant should grow in a big container. It is advised to use ceramic pots, as they **allow water to naturally evaporate**. With plastic containers there is risk that water will stay inside. Make sure to put a drainage layer at the bottom of the planter, along with drain holes. Lavender does not tolerate excessive wetness. The best soil for a lavender plant is dry, lightweight, **rich in calcium and alkaline or neutral**. You can use universal potting soil mixed with sand in 1:1 proportions or buy a special lavender soil in a flower shop. After planting a new plant cover its roots with additional layer of soil.
+Le plant de lavande doit pousser dans un grand récipient. Il est conseillé d'utiliser des pots en céramique, car ils permettent à l'eau de s'évaporer naturellement. Avec les récipients en plastique, l'eau risque de rester à l'intérieur. Veillez à mettre une couche de drainage au fond du pot, ainsi que des trous de drainage. La lavande ne tolère pas une humidité excessive. Le meilleur sol pour une plante de lavande est sec, léger, riche en calcium et alcalin ou neutre. Vous pouvez utiliser un terreau universel mélangé à du sable dans des proportions de 1:1 ou acheter un terreau spécial lavande chez un fleuriste. Après avoir planté une nouvelle plante, recouvrez ses racines d'une couche de terre supplémentaire.
 
 {% fig %}
 ![How to plant lavender in a pot?](/uploads/lawenda-w-doniczce-jak-ja-posadzic.jpg "How to plant lavender in a pot?")
 {% endfig %}
 
-Lavender in a pot grows best in sunny spots - choose windows facing south and west. The plant likes wind, so don’t worry if the place is draughty. In summer you can place the pot on a balcony or on a patio.
+La lavande en pot pousse mieux dans les endroits ensoleillés - choisissez des fenêtres orientées au sud et à l'ouest. La plante aime le vent, alors ne vous inquiétez pas si l'endroit est plein de courants d'air. En été, vous pouvez placer le pot sur un balcon ou sur une terrasse.
 
 {:.distinction.distinction-information}
-You can also try to seed the plant. The seeds need to be **stratified** first (for around two months). To do this, you might mix them with sand, put them in a fridge, and plant them in spring. The young plants bloom after a year. Their colours might differ from the parent plant.
+Vous pouvez également essayer de semer la plante. Les graines doivent d'abord être stratifiées (pendant environ deux mois). Pour ce faire, vous pouvez les mélanger avec du sable, les mettre au réfrigérateur et les planter au printemps. Les jeunes plantes fleurissent au bout d'un an. Leur couleur peut être différente de celle de la plante mère.
 
-## Lavender plant care guide
+## Guide des soins aux plantes de lavande
 
-Lavender is a plant that **does not like to stand in shade**. Excessive wetness is also not good for it. Water it 1-2 times a week. Make sure not to overwater the lavender, or it might stop growing. It is better to leave the soil to dry a little instead - although do not let it dry completely. Fertilise the soil every two weeks from April to July. A liquid fertilizer is best for this purpose.
+La lavande est une plante qui n'aime pas se tenir à l'ombre. Une humidité excessive n'est pas non plus bonne pour elle. Arrosez-la 1 à 2 fois par semaine. Veillez à ne pas trop arroser la lavande, sinon elle risque de cesser de pousser. Il est préférable de laisser le sol sécher un peu, mais ne le laissez pas sécher complètement. Fertilisez le sol toutes les deux semaines d'avril à juillet. Un engrais liquide est le mieux adapté à cet effet.
 
-Lavender needs pruning. Do it approximately twice a year to keep the good look of the plant. Such procedure also prolongs blooming time. While you can cut up to half the length, it is best to **cut back 2/3 of a branch**.
+La lavande a besoin d'être taillée. Faites-le environ deux fois par an pour préserver l'aspect de la plante. Cette procédure permet également de prolonger la durée de la floraison. Vous pouvez couper jusqu'à la moitié de la longueur, mais il est préférable de couper les 2/3 d'une branche.
 
-Lavender also needs to hibernate. For this purpose move the plant to a room with lower temperature. Don’t forget to water it, otherwise the plant will die. Lavender is not very popular among vermins – its strong smell works as a natural repellent. The plant can be transplanted into a new spot after it stops blooming.
+La lavande a également besoin d'hiberner. Pour cela, déplacez la plante dans une pièce à température plus basse. N'oubliez pas de l'arroser, sinon la plante mourra. La lavande n'est pas très populaire auprès des vermines - son odeur forte agit comme un répulsif naturel. La plante peut être transplantée dans un nouvel endroit une fois qu'elle a cessé de fleurir.
 
 {:.distinction.distinction-warning}
 The only disease that may attack a lavender plant is **botrytis** (a type of fungus). It will occur if the plant is overwatered. To prevent it, don’t let the roots soak too much. Pour the water out of the saucer immediately, so that it is not sucked back into the soil.
 
-## Lavender at home – example arrangements
+## La lavande à la maison - exemples d'arrangements
 
-You can plant a lavender individually or in groups – just make sure your container is large enough. The plant looks very good and therefore is a decoration itself. You can also combine it with other species. Choose plants of similar requirements.
+Vous pouvez planter une lavande individuellement ou en groupe - assurez-vous simplement que votre récipient est suffisamment grand. La plante est très belle et constitue donc une décoration en soi. Vous pouvez également la combiner avec d'autres espèces. Choisissez des plantes ayant des exigences similaires.
 
-Species that can grow with lavender in one pot are:
+Les espèces qui peuvent pousser avec la lavande dans un seul pot sont :
 
 {:.list.list-positive}
 
 * sages,
 * calendulae,
-* tickseeds,
-* pinks.
+* les graines de tiques,
+* rose.
 
 {% fig %}
 ![Lavender at home - example arrangements](/uploads/lawenda-na-balkonie-i-w-domu.jpg "Lavender at home - example arrangements")
 {% endfig %}
 
-Lavender should be combined with flowers of delicate colours that won’t overwhelm it. A good idea is to make a **composition with Herbes de Provence**. It is a perfect arrangement for the kitchen – it can serve both as decoration and indoor herb garden.
+La lavande doit être associée à des fleurs de couleurs délicates qui ne la submergeront pas. Une bonne idée est de faire une composition avec Herbes de Provence. C'est un arrangement parfait pour la cuisine - il peut servir à la fois de décoration et de jardin d'herbes d'intérieur.
 
-Lavender fits best in rustic style interior designs. Choose interesting containers for it - for instance colourful ceramic pots. You can also use metal buckets or even an old watering can.
+La lavande s'intègre parfaitement dans les intérieurs de style rustique. Choisissez des récipients intéressants, par exemple des pots en céramique colorés. Vous pouvez également utiliser des seaux en métal ou même un vieil arrosoir.
 
-## How can you use lavender?
+## Comment utiliser la lavande ?
 
-Lavender has a lot of properties. For this reason the plant is definitely worth having. There are many ways in which you can use lavender flowers. See those listed below:
+La lavande a beaucoup de propriétés. C'est pourquoi cette plante vaut vraiment la peine d'être utilisée. Il existe de nombreuses façons d'utiliser les fleurs de lavande. Voir celles qui sont énumérées ci-dessous :
 
 {:.list.list-positive}
 
-* **Insect repellent** - insects hate the strong scent of lavender. You can put dried flowers in small cotton or linen packets and hang them wherever it’s needed, for instance in a **bedroom**. It is also a good remedy for moths - just put one of the packets somewhere in your wardrobe.
+* Répulsif pour insectes - les insectes détestent le fort parfum de la lavande. Vous pouvez mettre des fleurs séchées dans de petits paquets de coton ou de lin et les suspendre partout où il faut, par exemple dans une chambre à coucher. C'est aussi un bon remède contre les mites - il suffit de mettre un des paquets quelque part dans votre armoire.
 
 {% fig %}
 ![How can you use lavender?](/uploads/lawenda-praktyczne-zastosowania.jpg "How can you use lavender?")
@@ -152,57 +153,57 @@ Lavender has a lot of properties. For this reason the plant is definitely worth 
 
 {:.list.list-positive}
 
-* **Headache remedy** – lavender aroma is **soothing and relaxing**. You can put some freshly cut lavender flowers in a vase in your bedroom. You can also put a packet with dried flowers under your pillow - it will help you fall asleep.
-* **Seasoning** – lavender sometimes is included in a popular seasoning mix - Herbes de Provence. You can use the plant to season many dishes, especially poultry. Be careful though – lavender has a strong aroma. If you overuse it, it will kill the taste of the whole dish. You can also add flowers to desserts and ice cream.
-* **Lavender sugar** – it is very easy to prepare. Just mix some sugar with lavender flowers - fresh or dried, and put it in an airtight container for several weeks. After this time sieve the sugar to separate it from the flowers. It’s **perfect for coffee, tea, cakes and cookies**.
-* **Lavender decorations** – cut and dried lavender branches are great decoration elements. You can use them to decorate candles or just bunch them and put in a vase.
+* Remède aux maux de tête - l'arôme de la lavande est apaisant et relaxant. Vous pouvez mettre des fleurs de lavande fraîchement coupées dans un vase dans votre chambre. Vous pouvez également mettre un paquet de fleurs séchées sous votre oreiller - cela vous aidera à vous endormir.
+* Assaisonnement - la lavande est parfois incluse dans un mélange d'assaisonnement populaire - Herbes de Provence. Vous pouvez utiliser cette plante pour assaisonner de nombreux plats, notamment la volaille. Mais attention, la lavande a un arôme fort. Si vous en abusez, elle tuera le goût de tout le plat. Vous pouvez également ajouter des fleurs aux desserts et aux glaces.
+* Le sucre de lavande - il est très facile à préparer. Il suffit de mélanger un peu de sucre avec des fleurs de lavande - fraîches ou séchées - et de le mettre dans un récipient hermétique pendant plusieurs semaines. Après ce temps, tamisez le sucre pour le séparer des fleurs. C'est parfait pour le café, le thé, les gâteaux et les biscuits.
+* Décorations à la lavande - les branches de lavande coupées et séchées sont d'excellents éléments de décoration. Vous pouvez les utiliser pour décorer des bougies ou simplement les regrouper et les mettre dans un vase.
 
-Those are only a few uses of lavender. There are obviously more ideas – just use some inspiration and your own creativity. Make use not only of lavender’s appearance, but also of its healing and cosmetic properties.
+Ce ne sont là que quelques utilisations de la lavande. Il y a évidemment plus d'idées - utilisez simplement un peu d'inspiration et votre propre créativité. Utilisez non seulement l'apparence de la lavande, mais aussi ses propriétés curatives et cosmétiques.
 
 {% fig %}
 ![How can you use lavender?](/uploads/lawenda-praktyczne-zastosowania2.jpg "How can you use lavender?")
 {% endfig %}
 
-Lavender is a remarkable plant, definitely worth keeping in your garden or at your house. There are many species to choose with different appearances. The plant needs only a little attention, which is not much in comparison with the amount of the benefits it provides. Lavender in a pot is a great idea for a decoration of any interior design.
+La lavande est une plante remarquable, qui vaut certainement la peine d'être conservée dans votre jardin ou chez vous. Il existe de nombreuses espèces à choisir, avec des apparences différentes. La plante n'a besoin que de peu d'attention, ce qui n'est pas beaucoup par rapport à la quantité de bienfaits qu'elle procure. La lavande en pot est une excellente idée pour la décoration de tout type d'intérieur.
 
-## Potted lavender – FAQ
+## Lavande en pot – FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-How to grow lavender?
+Comment cultiver la lavande ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-You might grow lavender in your garden, or, if you do not own one, in a container. Lavender is not difficult to grow, although the plant in a pot requires more attention.
+Vous pouvez faire pousser de la lavande dans votre jardin ou, si vous n'en possédez pas, dans un récipient. La lavande n'est pas difficile à cultiver, bien que la plante en pot nécessite plus d'attention.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to dry lavender?
+Comment faire sécher la lavande ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Cut several branches and tie it in a bunch with a piece of twig. Hang it in a dry and warm place.
+Coupez plusieurs branches et attachez-les en botte avec un morceau de brindille. Suspendez-le dans un endroit sec et chaud.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-When does lavender bloom?
+Quand la lavande fleurit-elle ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Lavender blooms between June and late September. The time might differ, depending on weather conditions.
+La lavande fleurit entre juin et fin septembre. La période peut varier en fonction des conditions météorologiques.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-When to plant lavender?
+Quand planter la lavande ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-You can plant lavender throughout the whole season, since the beginning of April until the end of September. You can transplant lavender after the flowers stop blooming, on early spring or early autumn.
+Vous pouvez planter de la lavande pendant toute la saison, de début avril à fin septembre. Vous pouvez transplanter la lavande après l'arrêt de la floraison, au début du printemps ou au début de l'automne.
 {% endfaqAnswer %}
 {% endfaqItem %}
