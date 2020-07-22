@@ -16,110 +16,109 @@ toc: true
 promoted: false
 update_date: 2020-07-19
 title: Come coltivare l'Anthurium? Una guida completa alla cura dell'Anthurium
-description: "Anthurium is an unusual plant with interesting flowers. \U0001F33A What
-  does anthurium care should look like? \U0001F4A7 Learn how to make it look perfect!"
-intro: Anthurium, or flamingo flower is a popular potted plant of a great aesthetic
-  value. As every household plant, it needs appropriate attention from the owner,
-  so that it grows well. Regular watering, fertilizing and repotting are the basics
-  of anthurium care. Learn how to take care of your flamingo flower so that it rewards
-  you with beautiful looks.
+description: "L'Anthurium è una pianta insolita con fiori interessanti. \U0001F33A
+  Come dovrebbe essere l'Anthurium? \U0001F4A7 Imparate a farla sembrare perfetta!"
+intro: L'Anthurium, o fiore di fenicottero, è una pianta popolare in vaso di grande
+  valore estetico. Come ogni pianta domestica, ha bisogno di un'attenzione adeguata
+  da parte del proprietario, in modo che cresca bene. L'annaffiatura regolare, la
+  concimazione e il rinvaso sono le basi della cura dell'Anthurium. Imparate a prendervi
+  cura del vostro fiore di fenicottero in modo che vi ricompensi con un bell'aspetto.
 image: "/uploads/anthurium-glowne.jpg"
 related_products: []
-published: false
 
 ---
-## Anthurium – what kind of plant is it?
+## Anthurium - che tipo di pianta è?
 
-**_Anthurium,_** flamingo plant or laceleaf is an unusual type of a potted plant. It's a durable perennial of a great decorative value. Anthurium is one of the most popular and at the same time the most original **tropical plants**. Sometimes it is used as a cut flower but more often it is a household decoration.
+L'Anthurium, pianta di fenicottero o laceleaf è un tipo insolito di pianta in vaso. È una perenne durevole e di grande valore decorativo. L'Anthurium è una delle piante tropicali più popolari e allo stesso tempo più originali. A volte è usato come fiore reciso, ma più spesso è una decorazione domestica.
 
-Anthurium has unique-looking **flowers of unusual, irregular shape and usually red color**. For this reason in the past they were often used in a cut form, as bouquet components. Today, anthurium is a common ornamental plant. Although many homeowners are afraid of taking care of flamingo flowers, they are not very complicated to grow. There are a few simple rules, and following them makes anthurium care very easy.
+L'Anthurium ha fiori dall'aspetto unico, di forma insolita e irregolare e di solito di colore rosso. Per questo motivo in passato venivano spesso utilizzati in forma recisa, come componenti del bouquet. Oggi l'Anthurium è una comune pianta ornamentale. Anche se molti proprietari di case hanno paura di prendersi cura dei fiori di fenicottero, non sono molto complicati da coltivare. Ci sono alcune semplici regole, e seguirle rende la cura dell'anthurium molto facile.
 
 {% fig %}
 ![Anthurium – what kind of plant is it?](/uploads/anturium-6.jpg "Anthurium – what kind of plant is it?")
 {% endfig %}
 
-## Popular anthurium flower species
+## Specie floreali popolari di anthurium
 
-One of the most popular types of anthurium is **_Anthurium andraeanum_**_._ It is a common practice to mix this species with its subspecies. The most prominent feature of Anthurium andraeanum are its red flowers. They can reach up to 10 cm of height. The blooming period depends on the type. Some subspecies might bloom throughout the whole season, that is in spring and summer.
+Uno dei tipi di anthurium più popolari è l'Anthurium andraeanum. È una pratica comune mescolare questa specie con le sue sottospecie. La caratteristica più importante dell'Anthurium andraeanum sono i suoi fiori rossi. Possono raggiungere fino a 10 cm di altezza. Il periodo di fioritura dipende dal tipo. Alcune sottospecie possono fiorire durante tutta la stagione, cioè in primavera e in estate.
 
 {% fig %}
 ![Popular anthurium flower species](/uploads/anturium-2.jpg "Popular anthurium flower species")
 {% endfig %}
 
-Another popular species is **_Anthurium sherzerianum._** This type is a decoration of many households. The species originates in South America. This peculiar type of flower usually reaches up to 20-50 cm of height. It has long leaves that can grow over 20 cm long. Due to their deep green color and shine, the leaves are very ornamental, just like the flowers. The latter resemble twisted, red cobs, which is very characteristic for the species.
+Un'altra specie popolare è l'Anthurium sherzerianum. Questo tipo è una decorazione di molte famiglie. La specie è originaria del Sud America. Questo particolare tipo di fiore di solito raggiunge fino a 20-50 cm di altezza. Ha foglie lunghe che possono crescere oltre i 20 cm di lunghezza. Grazie al loro colore verde intenso e brillantezza, le foglie sono molto ornamentali, proprio come i fiori. Questi ultimi assomigliano a pannocchie rosse attorcigliate, il che è molto caratteristico per la specie.
 
-## Anthurium care – how to take care of a flamingo lily?
+## Cura dell'Anthurium - come prendersi cura di un giglio fenicottero?
 
-Each species of a potted plant has different demands, and it requires a **different kind of care**. Anthurium plant does not need too much attention. However, beacuse the plant comes from other part of the world and when kept at home it doesn't grow in its natural habitat, a proper care is necessary for its **healthy growth and development.**
+Ogni specie di pianta in vaso ha esigenze diverse e richiede un diverso tipo di cura. La pianta di Anthurium non ha bisogno di troppe attenzioni. Tuttavia, poiché la pianta proviene da altre parti del mondo e quando viene tenuta in casa non cresce nel suo habitat naturale, è necessaria una cura adeguata per la sua crescita e il suo sviluppo.
 
-### How to take care of anthurium so that it grows well?
+### Come prendersi cura dell'anturio in modo che cresca bene?
 
-Anthurium flower, as every other potted plant, should get its own spot in the house - with appropriate conditions fit for its particular needs. Because anthurium comes from tropical, and rather shaded areas, **it does not require direct sunlight to grow** and develop beautiful flowers. For this reason you should place the plant by the window, but not in the full sun - half-shade will be perfect.
+Il fiore di Anthurium, come ogni altra pianta in vaso, dovrebbe avere un proprio posto in casa - con condizioni adeguate alle sue particolari esigenze. Poiché l'Anthurium proviene da zone tropicali e piuttosto in ombra, non ha bisogno della luce diretta del sole per crescere e sviluppare bellissimi fiori. Per questo motivo si dovrebbe posizionare la pianta vicino alla finestra, ma non in pieno sole - la mezza ombra sarà perfetta.
 
 {:.distinction.distinction-warning}
-Too little light, just like too much sun, might harm the process of growth of an anthurium. If it's too dark in the room, you will notice the leaves changing. They will be very thin, they might also become longer. Improper conditions and lack of light also hinder blooming.
+Troppa poca luce, proprio come troppo sole, potrebbe danneggiare il processo di crescita di un anturio. Se è troppo buio nella stanza, si noteranno le foglie che cambiano. Saranno molto sottili, potrebbero anche diventare più lunghe. Anche le condizioni improprie e la mancanza di luce ostacolano la fioritura.
 
-Anthurium care also involves fertilizing and repotting – not too frequently, but regularly. **Young plants should be fed once a year from April to August**, and they should be repotted in the early spring, so that they grow healthily.
+La cura dell'Anthurium comporta anche la concimazione e il rinvaso - non troppo spesso, ma regolarmente. Le piante giovani dovrebbero essere nutrite una volta all'anno da aprile ad agosto, e dovrebbero essere rinvasate all'inizio della primavera, in modo che crescano in modo sano.
 
 {:.distinction.distinction-information}
-If you notice that the roots are too big for the pot, transplant the anthurium. You can easily spot the roots at the bottom of the pot.
+Se notate che le radici sono troppo grandi per il vaso, trapiantate l'anturio. Potete facilmente individuare le radici sul fondo del vaso.
 
-The **soil** in which the anthurium grows is a very important factor for its care. It should be as close to the plant's native conditions as possible. The soil for a potted anthurium should contain **a lot of acidic peat** and leaf compost. You can also use a potting mix and sand.
+Il terreno in cui cresce l'anthurium è un fattore molto importante per la sua cura. Dovrebbe essere il più vicino possibile alle condizioni native della pianta. Il terriccio per un Anthurium in vaso dovrebbe contenere molta torba acida e terriccio di foglie. È anche possibile utilizzare un mix di terriccio e sabbia.
 
-### Anthurium – watering and propagating
+### Anthurium - annaffiatura e propagazione
 
-Regular and frequent watering is an important aspect of anthurium care, especially during the plant's growth period. During this time the **roots should be provided with appropriate levels of humidity.** Avoid extremities – do your best to not overdry your flamingo flower and do not pour too much water into the pot.
+L'irrigazione regolare e frequente è un aspetto importante della cura dell'anturio, soprattutto durante il periodo di crescita della pianta. Durante questo periodo le radici devono essere dotate di adeguati livelli di umidità. Evitate le estremità - fate del vostro meglio per non far essiccare troppo il fiore del fenicottero e non versate troppa acqua nel vaso.
 
-The best water for everyday watering is **soft rainwater**. For the appropriate moisture, you can spray the anthurium's leaves and flowers with it.
+L'acqua migliore per l'irrigazione quotidiana è l'acqua piovana dolce. Per ottenere l'umidità appropriata, potete spruzzare le foglie e i fiori dell'anthurium con essa.
 
-With a proper anthurium care and regular watering, you can try to **propagate the plant**. Keep in mind that this process can be successful only if the flamingo flower is large enough. **You can divide the anthurium's roots when repotting it.** Carefully separate them, using a sterilized knife and then put the plants in their new pots.
+Con una cura adeguata dell'anthurium e un'annaffiatura regolare, potete provare a propagare la pianta. Tenete presente che questo processo può avere successo solo se il fiore del fenicottero è abbastanza grande. È possibile dividere le radici dell'anthurium quando lo si rinvasa. Separatele con cura, utilizzando un coltello sterilizzato e poi mettete le piante nei loro nuovi vasi.
 
 {% fig %}
 ![Athurium – watering and propagating](/uploads/anturium-5.jpg "Athurium – watering and propagating")
 {% endfig %}
 
-## Anthurium plant – price
+## Pianta di Anthurium - prezzo
 
-The price of an anthurium depends on various factors. The larger and more developed the plant is, the higher its price. Potted anthuriums are available to buy in gardening shops, as well as in flower shops.
+Il prezzo di un anturio dipende da vari fattori. Più grande e sviluppata è la pianta, più alto è il suo prezzo. Gli anthurium in vaso sono disponibili per l'acquisto nei negozi di giardinaggio, così come nei negozi di fiori.
 
-You can also buy **anthurium in form of a bouquet**. The price depends on the number of flowers used in the bouquet. It's a great gift for many occasions.
+È possibile acquistare l'anthurium anche sotto forma di bouquet. Il prezzo dipende dal numero di fiori utilizzati nel bouquet. È un ottimo regalo per molte occasioni.
 
-A bouquet with cut anthurium, due to its specific character is a perfect decoration for any **celebration that takes place in a church**, such as a wedding or a funeral. It's also a great everyday altar decoration.
+Un bouquet con anthurium tagliato, per il suo carattere specifico, è una decorazione perfetta per qualsiasi celebrazione che si svolge in una chiesa, come un matrimonio o un funerale. È anche una grande decorazione quotidiana per l'altare.
 
 {% fig %}
 ![Anthurium plant – price](/uploads/anturium-4.jpg "Anthurium plant – price")
 {% endfig %}
 
-## How to treat anthurium attacked by a disease?
+## Come curare l'anturio attaccato da una malattia?
 
-Anthurium disease treatment should be fit to its cause. Flamingo plants are **strong and resistant to most external conditions**, although some care errors might affect **leaves and flowers.** The plant's disease is usually caused by:
+Il trattamento dell'Anthurium deve essere adeguato alla sua causa. Le piante di fenicottero sono forti e resistenti alla maggior parte delle condizioni esterne, anche se alcuni errori di cura possono influire su foglie e fiori. La malattia della pianta è solitamente causata da:
 
 {:.list.list-negative}
 
-* not meeting the plant's needs,
-* an infection,
-* insects.
+* che non soddisfa le esigenze della pianta,
+* un'infezione,
+* insetti.
 
-If you want to treat the most popular anthurium's diseases manifested by yellow and dry leaves or withering, make sure to **take a proper care of the plant**. Provide it with enough water, fertilize it and repot the plant, in accordance with its needs.
+Se volete curare le più popolari malattie dell'anthurium che si manifestano con foglie gialle e secche o con l'appassimento, assicuratevi di prendervi cura della pianta. Fornitele acqua a sufficienza, concimatela e rinvasate la pianta, in base alle sue esigenze.
 
-**Curing an infected anthurium is a little bit more complicated process.** The pathogens multiply very quickly, and, as a consequence – they get carried onto another plant. The main cause of such state is usually the owner's inattention.
+La cura di un Anthurium infetto è un processo un po' più complicato. Gli agenti patogeni si moltiplicano molto rapidamente e, di conseguenza, vengono trasportati su un'altra pianta. La causa principale di questo stato è di solito la disattenzione del proprietario.
 
-It might be the case that an **anthurium seedling has been taken from a diseased mother plant.** It is very possible that it is already infected. To avoid carrying the disease onto other house plants, isolate your new anthurium plant. Two weeks of observation is usually enough.
+Potrebbe essere il caso che una piantina di anthurium sia stata presa da una pianta madre malata. È molto probabile che sia già infetta. Per evitare di portare la malattia su altre piante da casa, isolate la vostra nuova pianta di anthurium. Due settimane di osservazione sono di solito sufficienti.
 
 {% fig %}
 ![How to treat anthurium attacked by a disease?](/uploads/anturium-3.jpg "How to treat anthurium attacked by a disease?")
 {% endfig %}
 
-**How to treat the damages caused by insects?** If you noticed some pests on your plant, you need to take appropriate measures. You can get the right products in every gardening shop.
+Come trattare i danni causati dagli insetti? Se avete notato alcuni parassiti sulla vostra pianta, dovete prendere le misure adeguate. Potete trovare i prodotti giusti in ogni negozio di giardinaggio.
 
-Some pests that affect the color of an anthurium's leaves are: **thrips, green flies, mealybugs, spider mites and scale insects.** They usually appear due to dry air. In this case you must act immediately. If the insects are not noticed soon enough, they might weaken the flamingo plant or damage it completely.
+Alcuni parassiti che influiscono sul colore delle foglie di un anturio sono: tripidi, mosche verdi, cocciniglie, cocciniglie, acari e cocciniglie. Di solito compaiono a causa dell'aria secca. In questo caso bisogna agire immediatamente. Se gli insetti non vengono notati abbastanza presto, potrebbero indebolire la pianta del fenicottero o danneggiarla completamente.
 
 {% faqItem %}
 {% faqQuestion %}
-How to take care of anthurium?
+Come prendersi cura dell'anturio?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Anthurium care is not very complicated, although it requires regularity. Make sure to water the plant properly and provide enough light – half-shade is the best. Observe the leaves, as their state might tell you that the plant has not enough nutrients. Anthurium requires fertilizing from time to time.
+La cura dell'Anthurium non è molto complicata, anche se richiede regolarità. Assicuratevi di annaffiare la pianta in modo adeguato e di fornire abbastanza luce - la mezza ombra è la migliore. Osservate le foglie, perché il loro stato potrebbe dirvi che la pianta non ha abbastanza sostanze nutritive. L'Anthurium richiede la concimazione di tanto in tanto.
 {% endfaqAnswer %}
 {% endfaqItem %}
