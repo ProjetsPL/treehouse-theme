@@ -23,121 +23,122 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-20
-title: ¿Baño pequeño? Inspírese con las 9 mejores tendencias de baño
-description: "Owning a tiny bathroom? \U0001F6C1 It can be stylish too - a good design
-  is all you need. ➡️ Take a look and get inspired by those 9 brilliant small bathroom
-  ideas! "
-intro: Designing and decorating a small bathroom might be a real challenge. Limited
-  space doesn't mean, however, that your bathroom cannot look good! Are you wondering
-  how to arrange such a small interior? Check out some interesting trends and tips
-  prepared just for you. Create a functional and elegant-looking bathroom of your
-  dreams.
+title: "¿Baño pequeño? Inspírese con las 9 mejores tendencias de baño"
+description: "¿Poseer un pequeño baño? \U0001F6C1 También puede ser elegante - un
+  buen diseño es todo lo que necesitas. ➡️ Echa un vistazo e inspírate con esas 9
+  brillantes ideas de baños pequeños! "
+intro: Diseñar y decorar un pequeño baño puede ser un verdadero desafío. El espacio
+  limitado no significa, sin embargo, que su baño no pueda verse bien. ¿Se pregunta
+  cómo se puede arreglar un interior tan pequeño? Echa un vistazo a algunas tendencias
+  interesantes y consejos preparados sólo para ti. Crea el baño funcional y elegante
+  de tus sueños.
 image: "/uploads/mala-lazienka-glowne.jpg"
 related_products: []
-published: false
 
 ---
-## A small bathroom remodel: big ideas for a tiny bathroom
+## Una pequeña remodelación del baño: grandes ideas para un pequeño baño
 
-**Designing a small bathroom** might seem very complicated. But in fact all you need to do is remember about several simple rules and you will be able to create a functional and **stylish** space. Not sure where to begin? Take a look at our ideas and design a **beautiful, fully functional interior**.
+Diseñar un pequeño baño puede parecer muy complicado. Pero de hecho, todo lo que necesitas hacer es recordar varias reglas simples y serás capaz de crear un espacio funcional y con estilo. ¿No estás seguro de por dónde empezar? Echa un vistazo a nuestras ideas y diseña un interior hermoso y completamente funcional.
 
-## Small bathroom themes – light color palette is always a good choice!
+## Temas de baño pequeños - ¡la paleta de colores claros es siempre una buena elección!
 
-One of the most important factors that influence the **interior design** is it color. It's the major noticeable feature that reflects the character of the room. There is almost **unlimited number of available shades,** which gives you a lot of design possibilities. You might use the most basic colors, as well as prepare some unusual combinations.
+Uno de los factores más importantes que influyen en el diseño interior es el color. Es la característica más notable que refleja el carácter de la habitación. Hay un número casi ilimitado de tonos disponibles, lo que le da muchas posibilidades de diseño. Puedes usar los colores más básicos, así como preparar algunas combinaciones inusuales.
 
-When picking a color for a small bathroom, it is good to use delicate and bright shades, to avoid unnecessary chaos. A minimalist small bathroom in white, beige, grey or pastel colors is always a good choice. This trend has been quite popular for several seasons, and it seems it is going to stay for a while.
+Cuando se elige un color para un baño pequeño, es bueno usar tonos delicados y brillantes, para evitar un caos innecesario. Un pequeño baño minimalista en blanco, beige, gris o colores pastel es siempre una buena elección. Esta tendencia ha sido muy popular durante varias temporadas, y parece que se va a mantener por un tiempo.
 
 {% fig %}
 ![Small bathroom themes – light color palette is always a good choice!](/uploads/kolor-scian-lazienka.jpg "Small bathroom themes – light color palette is always a good choice!")
 {% endfig %}
 
-### Not only the walls! Unusual flooring in a tiny bathroom
+### ¡No sólo las paredes! Un suelo inusual en un pequeño baño
 
-Not only **wall color** is important in a small bathroom – you should also carefully **choose the flooring material**. First pick the type – tile, stone or boards, and then decide what color suits your needs. A small bathroom will benefit both from light and dark versions. If you choose dark flooring, it should contrast with the color of the walls. In such a case consider making the walls white.
+No sólo el color de la pared es importante en un baño pequeño, también debes elegir cuidadosamente el material del suelo. Primero elige el tipo - azulejo, piedra o tablas, y luego decide qué color se ajusta a tus necesidades. Un baño pequeño se beneficiará tanto de las versiones claras como de las oscuras. Si elige un suelo oscuro, debería contrastar con el color de las paredes. En tal caso considere hacer las paredes blancas.
 
 {:.distinction.distinction-warning}
-When looking for small bathroom ideas, avoid picking walls and flooring in the same color (except from white; in this case the rule does not apply). It is overwhelming for the room and makes it look smaller.
+Cuando busque pequeñas ideas para el baño, evite escoger paredes y suelos del mismo color (excepto el blanco; en este caso no se aplica la regla). Es abrumador para la habitación y la hace parecer más pequeña.
 
-## Eco style small bathroom design
+## Diseño de un pequeño baño de estilo ecológico
 
-One of the most popular trends of the recent season is eco bathroom. **Eco can be characterized by a combination of the beauty of plain wood with classic colors.** The most common combinations are light wood (or its imitation in form of tiles) and plain, white walls. It's a very interesting design – elegant and minimalistic. This style is also perfect for a small bathroom decor. It can certainly add a lot of character to the room.
+Una de las tendencias más populares de la temporada reciente es el baño ecológico. El eco puede caracterizarse por la combinación de la belleza de la madera lisa con los colores clásicos. Las combinaciones más comunes son la madera clara (o su imitación en forma de azulejos) y las paredes blancas y lisas. Es un diseño muy interesante - elegante y minimalista. Este estilo también es perfecto para una pequeña decoración de baño. Ciertamente puede añadir mucho carácter a la habitación.
 
 {% fig %}
 ![Eco style small bathroom design](/uploads/eko-lazienka.jpg "Eco style small bathroom design")
 {% endfig %}
 
-## Small bathroom decor with marble
+## Pequeña decoración de baño con mármol
 
-A bathroom with marble tiles or accessories is a perfect design for anyone who loves **stylish and luxurious interiors**. Stone (or a good imitation) has a structure that makes the small bathroom look original and elegant.
+Un baño con azulejos de mármol o accesorios es un diseño perfecto para cualquiera que ame los interiores elegantes y lujosos. La piedra (o una buena imitación) tiene una estructura que hace que el pequeño baño parezca original y elegante.
 
-Marble is perfect for **feminine glamour style interiors**, which look very classy. When arranging a small bathroom in this style, be careful not to overdo the textures and accessories. If you add too many decorations, the whole design might result in a cheap and kitschy look.
+El mármol es perfecto para los interiores de estilo glamoroso femenino, que se ven muy elegantes. Cuando organice un baño pequeño en este estilo, tenga cuidado de no exagerar las texturas y los accesorios. Si añades demasiadas decoraciones, todo el diseño podría resultar en un aspecto barato y kitsch.
 
 {:.distinction.distinction-information}
-If a marble bathroom is too expensive for you, just choose the cheaper option and lay special tiles that imitate stone. They have texture and pattern similar to marble, and they are much less expensive.
+Si un baño de mármol es demasiado caro para ti, elige la opción más barata y coloca azulejos especiales que imiten la piedra. Tienen una textura y un patrón similar al del mármol, y son mucho más baratos.
 
 {% fig %}
 ![Small bathroom decor with marble](/uploads/marmurowa-lazienka.jpg "Small bathroom decor with marble")
 {% endfig %}
 
-## Small bathroom design – how to make it look bigger?
+## Diseño de un pequeño baño, ¿cómo hacerlo parecer más grande?
 
-Home interior design trends concern not only wall color or finishing materials. It is very important to choose the **right type of lighting** and lamps.
+Las tendencias de diseño interior de los hogares no sólo se refieren al color de la pared o a los materiales de acabado. Es muy importante elegir el tipo correcto de iluminación y lámparas.
 
-### Implication of illumination... it's trendy!
+### La implicación de la iluminación... ¡está de moda!
 
-Lighting is a crucial aspect of a small bathroom design. It's important because small interior usually has little access to daylight. When choosing the right type of lighting, you should keep several issues in mind, such as:
+La iluminación es un aspecto crucial de un diseño de baño pequeño. Es importante porque un interior pequeño normalmente tiene poco acceso a la luz del día. Cuando se elige el tipo de iluminación adecuado, se deben tener en cuenta varios aspectos, como:
 
 {:.list}
-* **Temperature (warm or cool lighting)** – temperature of illumination is important, as it influences its shade. Choosing warm light, you get a yellow shade which is perfect for rest and relaxation. Nevertheless, a cool white light is probably a better option for mirrors, as it imitates daylight and makes it easier to perform daily activities such as applying make-up and shaving.
-* **Light source arrangement** – if you're preparing your own small bathroom design, arrange the lights so that they illuminate every important piece of equipment. The light by the mirror is the most important, allowing one to see the reflection clearly.
+
+* La temperatura (iluminación cálida o fría) - la temperatura de la iluminación es importante, ya que influye en su sombra. Al elegir la luz cálida, se obtiene una sombra amarilla que es perfecta para el descanso y la relajación. Sin embargo, una luz blanca fría es probablemente una mejor opción para los espejos, ya que imita la luz del día y facilita las actividades diarias como el maquillaje y el afeitado.
+* Disposición de la fuente de luz - si está preparando su propio diseño de baño pequeño, disponga las luces de manera que iluminen cada pieza importante del equipo. La luz del espejo es la más importante, ya que permite ver el reflejo con claridad.
 
 {% fig %}
 ![Implication of illumination... it's trendy!](/uploads/lazienka-oswietlenie.jpg "Implication of illumination... it's trendy!")
 {% endfig %}
 
 {:.list}
-* **Light intensity** – depending on what you are aiming to achieve, consider the light intensity. Too dark lighting in a room without windows might be quite problematic and tiresome to use during daily activities.
 
-**The angle of the light rays is also highly important.** A light source placed in the right place can make a tiny bathroom look significantly bigger, taking the "weight" off the interior.
+* Intensidad de la luz - dependiendo de lo que se pretende conseguir, considera la intensidad de la luz. Una iluminación demasiado oscura en una habitación sin ventanas podría ser bastante problemática y cansada de usar durante las actividades diarias.
 
-The rule is simple – **choose as many sources of light as you can**. And, more importantly, match various types of lamps. You can play with different sizes – it's very popular lately.
+El ángulo de los rayos de luz también es muy importante. Una fuente de luz colocada en el lugar correcto puede hacer que un pequeño baño parezca significativamente más grande, quitando el "peso" del interior.
 
-### The bigger mirror, the better!
+La regla es simple: elige tantas fuentes de luz como puedas. Y, lo más importante, haz coincidir varios tipos de lámparas. Puedes jugar con diferentes tamaños - es muy popular últimamente.
 
-A good method for **making a small bathroom look larger** is hanging a large mirror on one of the walls. A mirror is a standard equipment of a bathroom anyway, so it's good to use its full potential.
+### ¡Cuanto más grande sea el espejo, mejor!
 
-Instead of picking small mirrors, choose large ones, that fill the majority of a wall or even the whole space. **Avoid mirrors with decorative frames and pick the ones with minimalistic and thin framing**  – **or with no frame at all.** This way you can create an illusion of depth, which will make the tiny bathroom look at least twice as big than it really is.
+Un buen método para hacer que un pequeño baño parezca más grande es colgar un gran espejo en una de las paredes. Un espejo es un equipo estándar de un baño de todos modos, así que es bueno utilizar todo su potencial.
+
+En lugar de elegir espejos pequeños, elija los grandes, que llenan la mayor parte de una pared o incluso todo el espacio. Evita los espejos con marcos decorativos y escoge los que tengan un marco minimalista y delgado - o sin marco alguno. De esta manera puedes crear una ilusión de profundidad, que hará que el pequeño baño parezca al menos dos veces más grande de lo que realmente es.
 
 {% fig %}
 ![The bigger mirror, the better!](/uploads/lusta-do-lazienki.jpg "The bigger mirror, the better!")
 {% endfig %}
 
-## A small bathroom in an apartment block – trendy tiles and equipment
+## Un pequeño baño en un bloque de apartamentos - azulejos y equipamiento de moda
 
-A small bathroom in an apartment block has fewer possibilities for design. You might, however, choose an **interesting-looking equipment**. Elements like a bathtub, a shower, a sink and a toilet are essentials and you just cannot skip them in your project. For this reason you should choose functional solutions that will not overwhelm the room, **and that can give it a little character.**
+Un pequeño baño en un bloque de apartamentos tiene menos posibilidades de diseño. Sin embargo, podrías elegir un equipo de aspecto interesante. Elementos como una bañera, una ducha, un lavabo y un inodoro son esenciales y no puedes pasarlos por alto en tu proyecto. Por esta razón debes elegir soluciones funcionales que no abrumen la habitación, y que puedan darle un poco de carácter.
 
-A sink in an unusual shape, a dark color or **an extravagant, brass colored faucet**? Any accent that makes the small bathroom look unique will fit.
+¿Un lavabo de forma inusual, de color oscuro o un extravagante grifo de latón? Cualquier acento que haga que el pequeño baño parezca único encajará.
 
-## A tiny bathroom with a shower – always trendy
+## Un pequeño baño con ducha, siempre de moda.
 
-A good way to spare space is installing a shower in your small bathroom. It's one of the more popular solutions among people living in small apartments. Remember that every bathroom is different – and there's plenty of shower models. Before making the final decision, estimate the potential of your interior.
+Una buena forma de ahorrar espacio es instalar una ducha en tu pequeño baño. Es una de las soluciones más populares entre la gente que vive en apartamentos pequeños. Recuerda que cada baño es diferente, y hay muchos modelos de duchas. Antes de tomar la decisión final, estima el potencial de tu interior.
 
-One of the best types of showers for small bathrooms is **corner or asymmetrical shower stall.**
+Uno de los mejores tipos de duchas para baños pequeños es la de esquina o la de cabina asimétrica.
 
-If you have tiles both on the floor and on walls, you might also decide to install a walk-in shower with only door and drain. It's one of the trendiest solutions, very often used in modern bathroom designs.
+Si tiene azulejos tanto en el suelo como en las paredes, también puede decidir instalar una ducha con sólo una puerta y un desagüe. Es una de las soluciones de moda, muy utilizada en los diseños de baños modernos.
 
 {% fig %}
 ![A tiny bathroom with shower – always trendy](/uploads/mala-lazienka-z-prysznicem.jpg "A tiny bathroom with shower – always trendy")
 {% endfig %}
 
 {:.distinction.distinction-information}
-If you are afraid that your bathroom is too small to fit even the tiniest shower stall, you might also order a custom one. It's a little bit more expensive solution, however it allows you to fully use the available space.
+Si temes que tu baño sea demasiado pequeño para caber hasta en la ducha más pequeña, también puedes pedir uno personalizado. Es una solución un poco más costosa, sin embargo, le permite aprovechar al máximo el espacio disponible.
 
-## Small bathrooms with bathtubs – can they look stylish? Modernize the classic look
+## Los baños pequeños con bañeras, ¿pueden ser elegantes? Modernizar el aspecto clásico
 
-A bathtub usually takes a lot of space, therefore it is not the best design for a small bathroom. Still, it might be a better choice if a shower does not satisfy your needs – but you should plan your space sensibly.
+Una bañera suele ocupar mucho espacio, por lo que no es el mejor diseño para un baño pequeño. Aún así, podría ser una mejor opción si una ducha no satisface sus necesidades, pero debe planificar su espacio con sensatez.
 
-When picking the right bathtub for a small bathroom, **pay special attention to its type and shape**. Avoid freestanding and classical bathtubs that have walls on each side. Both types take too much space. Instead, choose a square hydromassage tub. Their **walls often imitate natural wood.** It's a very innovative option, hence it's becoming popular among homeowners.
+Al elegir la bañera adecuada para un baño pequeño, presta especial atención a su tipo y forma. Evita las bañeras clásicas y las independientes que tienen paredes a cada lado. Ambos tipos ocupan demasiado espacio. En su lugar, elija una bañera de hidromasaje cuadrada. Sus paredes a menudo imitan la madera natural. Es una opción muy innovadora, por lo que se está volviendo popular entre los propietarios.
 
 {% fig %}
 ![Small bathrooms with bathtubs – can they look stylish? Modernize the classic look](/uploads/czy-lazienka-z-wanna-to-dobry-pomysl.jpg "Small bathrooms with bathtubs – can they look stylish? Modernize the classic look")
@@ -145,22 +146,22 @@ When picking the right bathtub for a small bathroom, **pay special attention to 
 
 {% faqItem %}
 {% faqQuestion %}
-What are some small bathroom design ideas?
+¿Cuáles son algunas pequeñas ideas de diseño de baños?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-When preparing a small bathroom design, pay attention not only to the looks, but also to the functionality of the room. Pick solutions that are both practical and aesthetic, for instance a modern shower stall and a large mirror that makes the room look bigger.
+Cuando prepares un diseño de un pequeño baño, presta atención no sólo a la apariencia, sino también a la funcionalidad de la habitación. Elija soluciones prácticas y estéticas, por ejemplo una ducha moderna y un gran espejo que haga que la habitación parezca más grande.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-What are the best floor tiles for small bathrooms?
+¿Cuáles son los mejores azulejos para los baños pequeños?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
 
-You might choose any color of floor tiles for a small bathroom. They must, however, match the walls. Picking contrasting colors, for instance white walls and dark floor, might work well. Otherwise, pick one, bright shade both for the floor and walls.
+Podrías elegir cualquier color de baldosas para un baño pequeño. Sin embargo, deben coincidir con las paredes. Elegir colores contrastantes, por ejemplo, paredes blancas y suelo oscuro, podría funcionar bien. De lo contrario, elija uno, de tono brillante tanto para el suelo como para las paredes.
 
 {% endfaqAnswer %}
 
