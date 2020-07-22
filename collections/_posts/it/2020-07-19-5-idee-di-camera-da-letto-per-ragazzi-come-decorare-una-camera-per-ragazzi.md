@@ -21,84 +21,85 @@ toc: true
 promoted: false
 update_date: 2020-07-19
 title: 5 idee di camera da letto per ragazzi. Come decorare una camera per ragazzi?
-description: "No idea how to decorate your child's room? \U0001F469‍\U0001F466 Learn
-  the most interesting room ideas for teens. ➡️ Inspire yourself and surprise your
-  teen!"
-intro: A teen bedroom decoration is a real challenge for every parent. It's easier
-  if a teen has defined interests and they know exactly what they want their sanctuary
-  to look like. Unfortunately, it's a rare situation. For this reason, when designing
-  a room for a teenager, it is advised to seek inspiration and present several ideas
-  to your teen, letting them to choose the one they like the most.
+description: "Non avete idea di come decorare la stanza del vostro bambino? \U0001F469\U0001F466
+  Scoprite le idee più interessanti per la camera dei ragazzi. ➡️ Ispiratevi e sorprendete
+  il vostro teenager!"
+intro: La decorazione di una camera da letto per adolescenti è una vera sfida per
+  ogni genitore. È più facile se un adolescente ha interessi definiti e sa esattamente
+  come vuole che sia il suo santuario. Purtroppo è una situazione rara. Per questo
+  motivo, quando si progetta una stanza per un adolescente, si consiglia di cercare
+  l'ispirazione e presentare diverse idee al proprio adolescente, lasciandogli scegliere
+  quella che gli piace di più.
 image: "/uploads/aranzacje-pokoju-mlodziezowego.jpg"
 related_products: []
-published: false
 
 ---
-## Designing a teen bedroom – by yourself or with an expert?
+## Progettare una camera da letto per adolescenti - da soli o con un esperto?
 
-A teenage room and the whole proces of its design means not only creating a space that matches the teen's interests or keeps up with the latest trends. It also involves **proper space organization.** A great portion of growing up is school and learning – hence, the right space for studying is crucial for the room design. Don't forget that it's also the time when one's social life is in full bloom. Because of that, you should provide an intimate space for your teenager, where they could invite their friends - given that there is enough room. Finally, do not forget about a place for rest and regeneration of energy which is so important for a teen's proper development.
+Una camera per adolescenti e l'intero processo del suo design non significa solo creare uno spazio che corrisponda agli interessi dell'adolescente o che stia al passo con le ultime tendenze. Si tratta anche di una corretta organizzazione dello spazio. Gran parte della crescita è rappresentata dalla scuola e dall'apprendimento, quindi lo spazio giusto per lo studio è fondamentale per il design della stanza. Non dimenticate che è anche il momento in cui la vita sociale è in piena fioritura. Per questo motivo, dovreste offrire al vostro adolescente uno spazio intimo dove invitare i suoi amici - dato che c'è abbastanza spazio. Infine, non dimenticate un luogo per il riposo e la rigenerazione dell'energia che è così importante per il corretto sviluppo di un adolescente.
 
 {% fig %}
 ![Designing a teen bedroom – by yourself or with an expert?](/uploads/pokoj-mlodziezowy-nastolatki.jpg "Designing a teen bedroom – by yourself or with an expert?")
 {% endfig %}
 
-Apart from the general division of the available space, **there are other important issues to keep in mind, such as the lighting**. When you consider all those aspects, it might turn out that a teen room design is a very challenging task. It is not a surprise that many parents leave it to specialists. It doesn't mean, however, that you cannot inspire yourself by some teen bedroom ideas. You can show them later to an interior designer to give them the concept of what you expect.
+Oltre alla divisione generale dello spazio disponibile, ci sono altre questioni importanti da tenere a mente, come l'illuminazione. Se si considerano tutti questi aspetti, si potrebbe scoprire che il design di una stanza per adolescenti è un compito molto impegnativo. Non è una sorpresa che molti genitori lo lascino agli specialisti. Non significa, tuttavia, che non ci si possa ispirare a qualche idea di camera da letto per adolescenti. Potete mostrarle in seguito a un interior designer per dare loro il concetto di ciò che vi aspettate.
 
-## A teen bedroom with little space? Not an issue!
+## Una camera da letto per adolescenti con poco spazio? Non è un problema!
 
-**The problem of too little space** is quite a common issue, especially in block apartments. Space management in such cases is much more difficult, but it is still achievable. You should use all the advantages provided by the shape of the room. If there are any niches – that's great news! You can put a closet, a desk, a small sofa or a bed in there, depending on the size of those objects.
+Il problema dello spazio troppo piccolo è un problema abbastanza comune, soprattutto negli appartamenti in blocco. La gestione dello spazio in questi casi è molto più difficile, ma è comunque realizzabile. Si dovrebbero sfruttare tutti i vantaggi offerti dalla forma della stanza. Se ci sono delle nicchie - è un'ottima notizia! Ci si può mettere un armadio, una scrivania, un piccolo divano o un letto, a seconda delle dimensioni di questi oggetti.
 
 {% fig %}
 ![A teen bedroom with no space? Not an issue!](/uploads/pokoj-dla-nastolatki.jpg "A teen bedroom with no space? Not an issue!")
 {% endfig %}
 
-The height of the room is another feature you want to use. If it's possible – you could turn the teen bedroom into a small split-level fancy interior. Obviously, this does not involve the whole available space. A good idea, however, is to **combine two levels of objects, for instance** **by putting** **a desk under a loft bed**. This solution requires a very good source of light under the desk.
+L'altezza della stanza è un'altra caratteristica che si desidera utilizzare. Se è possibile - si potrebbe trasformare la camera da letto degli adolescenti in un piccolo interno di fantasia su due livelli. Ovviamente, questo non coinvolge tutto lo spazio disponibile. Una buona idea, tuttavia, è quella di combinare due livelli di oggetti, ad esempio mettendo una scrivania sotto un letto a soppalco. Questa soluzione richiede un'ottima fonte di luce sotto la scrivania.
 
 {:.distinction.distinction-information}
-If there is a wide windowsill in the room, you might use it as a seat. It might be a perfect spot for your teenager to relax and read a book.
+Se nella stanza c'è un ampio davanzale, potete usarlo come posto a sedere. Potrebbe essere un posto perfetto per il vostro teenager per rilassarsi e leggere un libro.
 
-## A teen girl bedroom ideas – what colors to choose?
+## Idee per la camera da letto di una ragazza adolescente - quali colori scegliere?
 
-Although popular trends usually use various shades of one color, you should be extra careful when choosing paint for a teen bedroom. **At this age, color preferences change rapidly** and it might turn out those beautiful yellow or blue walls have lost their initial charm only after several months from painting. In this scenario your teen is unsatisfied with their room and it is very likely that you have to make another renovation.
+Anche se le tendenze popolari di solito usano varie tonalità di un colore, si dovrebbe essere molto attenti quando si sceglie la vernice per una camera da letto teenager. A quest'età, le preferenze di colore cambiano rapidamente e si potrebbe scoprire che quelle belle pareti gialle o blu hanno perso il loro fascino iniziale solo dopo diversi mesi dalla pittura. In questo scenario il vostro teenager è insoddisfatto della loro stanza ed è molto probabile che dobbiate fare un'altra ristrutturazione.
 
 {% fig %}
 ![A teen girl bedroom ideas – what colors to choose?](/uploads/pokoj-dla-nastolatki-mlodziezowy.jpg "A teen girl bedroom ideas – what colors to choose?")
 {% endfig %}
 
-So, what colors to choose when designing a teen bedroom? **Neutral colors** are highly recommended – not necessarily white but various tones of beige or grey are great options.
+Allora, quali colori scegliere quando si progetta una camera da letto per adolescenti? I colori neutri sono altamente raccomandati - non necessariamente il bianco ma varie tonalità di beige o grigio sono ottime opzioni.
 
 {:.distinction.distinction-information}
-Choosing neutral colors does not automatically mean that a teen room will be boring. What's more, it's a solution that creates a lot of possibilities for accessorizing. One can change the decorations at any moment, so even if your child's taste changes, you don't have to renovate the whole interior.
+Scegliere colori neutri non significa automaticamente che una stanza per adolescenti sarà noiosa. Inoltre, è una soluzione che crea molte possibilità per gli accessori. Si possono cambiare le decorazioni in qualsiasi momento, quindi anche se il gusto del bambino cambia, non è necessario rinnovare tutto l'interno.
 
-## Original and practical ornaments that can improve a teen bedroom
+## Ornamenti originali e pratici che possono migliorare una camera da letto per adolescenti
 
-If you are looking for teen bedroom ideas, you might want to focus on accesories that can act as practical ornaments. Wondering if that's possible? Covering one of the walls with a **magnetic or blackboard paint** is a great idea. You could also create a divided space - for instance over the desk so that the teenager can write a note on the wall or pin some photographs with their friends.
+Se siete alla ricerca di idee per la camera da letto degli adolescenti, potreste volervi concentrare su accessori che possano fungere da ornamenti pratici. Vi chiedete se è possibile? Rivestire una delle pareti con una vernice magnetica o una lavagna è un'ottima idea. Si potrebbe anche creare uno spazio diviso - per esempio sopra la scrivania, in modo che l'adolescente possa scrivere un biglietto sulla parete o appuntare alcune fotografie con i suoi amici.
 
 {% fig %}
 ![Original and practical ornaments that can improve a teen bedroom](/uploads/pokoj-nastolatka.jpg "Original and practical ornaments that can improve a teen bedroom")
 {% endfig %}
 
 {:.distinction.distinction-information}
-Another, quite an interesting idea involves a metal grate. One can use clips to attach some notes or already mentioned photos to it.
+Un'altra idea piuttosto interessante riguarda una griglia metallica. Si possono usare delle clip per attaccarvi delle note o delle foto già menzionate.
 
-Such practical spots in a teen room **fit any style**, therefore thay can be used no matter what kind of project a teenager chooses.
+Questi punti pratici in una stanza per adolescenti si adattano a qualsiasi stile, quindi possono essere utilizzati indipendentemente dal tipo di progetto scelto da un adolescente.
 
-## Teen room ideas – matching their interests
+## Idee per le camere per ragazzi - corrispondenti ai loro interessi
 
-Practicality is only one aspect that a teen bedroom should contain. Another, equally important issue is **making the teen room distinct and characteristic.** One should not limit this aspect, but rather make a reasonable plan for it and choose the elements which will represent the main theme of a teen bedroom.
+La praticità è solo un aspetto che una camera da letto per adolescenti dovrebbe contenere. Un altro aspetto, altrettanto importante, è rendere la camera degli adolescenti distinta e caratteristica. Non si dovrebbe limitare questo aspetto, ma piuttosto fare un piano ragionevole e scegliere gli elementi che rappresenteranno il tema principale di una camera da letto per adolescenti.
 
 {:.list}
-* If your teen is interested in **fantasy movies**, pick some movie posters that will hang on one of the walls.
-* Does your teen **love painting**? Arrange a special spot for an easel or a hanger attached to the wall, where one can put canvas.
-* Perhaps your child is **a fan of comic books**? Create a bookcase to organize the collection.
+
+* Se il vostro teenager è interessato ai film di fantasia, scegliete alcuni poster di film che saranno appesi su una delle pareti.
+* Il tuo adolescente ama dipingere? Organizzate un posto speciale per un cavalletto o una gruccia attaccati al muro, dove si può mettere la tela.
+* Forse vostro figlio è un appassionato di fumetti? Create una libreria per organizzare la collezione.
 
 {% fig %}
 ![Teen room ideas – matching their interests](/uploads/pokoj-dla-dziecka.jpg "Teen room ideas – matching their interests")
 {% endfig %}
 
-## Teen bedroom ideas – a well-thought-out design
+## Idee per la camera da letto per ragazzi - un design ben pensato
 
-Seemingly unimportant details often decide about a successful interior design. **Color of the desk lamp, a carpet in the middle of the room or even the bedding.** For you it might seem not worth paying attention, but for your child those aspects might be crucial.
+I dettagli apparentemente irrilevanti spesso decidono per un design d'interni di successo. Il colore della lampada da scrivania, un tappeto al centro della stanza o anche la biancheria da letto. Per voi potrebbe sembrare che non valga la pena prestare attenzione, ma per il vostro bambino questi aspetti potrebbero essere cruciali.
 
 {% fig %}
 ![Teen bedroom ideas – a well-thought-out design](/uploads/projekt-pokoju-mlodziezowego.jpg "Teen bedroom ideas – a well-thought-out design")
@@ -108,14 +109,14 @@ Seemingly unimportant details often decide about a successful interior design. *
 ![Teen bedroom ideas – a well-thought-out design](/uploads/pokoj-nastolatki.jpg "Teen bedroom ideas – a well-thought-out design")
 {% endfig %}
 
-Remember that a teen bedroom should be a space in which the **teenager feels good**. Therefore – suggest, but do not make all the decisions. This way you can not only create a well designed interior – together with your child, but also gain their trust, which will benefit your relationship in the future.
+Ricordate che la camera da letto di un adolescente dovrebbe essere uno spazio in cui l'adolescente si sente bene. Pertanto - suggeriscono, ma non prendere tutte le decisioni. In questo modo non solo potete creare un interno ben progettato - insieme al vostro bambino, ma anche guadagnare la sua fiducia, che andrà a beneficio del vostro rapporto in futuro.
 
 {% faqItem %}
 {% faqQuestion %}
-How to decorate a teenage room?
+Come decorare una stanza per adolescenti?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-When designing a teen bedroom, make sure to plan the available space out – carefully. Choose neutral wall colors so that you don't have to repaint them in case your teen's taste changes. Pick accessories that match your child's interests to add some character. Remember that the teen room is for the teen – design it together with your child so that they feel good in it.
+Quando si progetta una camera da letto per adolescenti, assicurarsi di pianificare lo spazio disponibile - con attenzione. Scegliete colori neutri per le pareti in modo da non doverle ridipingere nel caso in cui il gusto del vostro teenager cambiasse. Scegliete accessori che si adattino agli interessi del vostro bambino per aggiungere un po' di carattere. Ricordate che la stanza per gli adolescenti è per gli adolescenti - progettatela insieme a vostro figlio in modo che si sentano a loro agio.
 {% endfaqAnswer %}
 {% endfaqItem %}
