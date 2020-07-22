@@ -15,92 +15,93 @@ toc: true
 promoted: false
 update_date: 2020-07-19
 title: Come liberarsi degli afidi? 5 rimedi casalinghi comprovati per gli afidi
-description: "Insects are ruining your plants? \U0001F997 Learn the most effective
-  methods and remedies to get rid of aphids. ✅ Free your garden!"
-intro: A beautiful garden is your dream but pests are ruining your plants? Are you
-  wondering how to get rid of aphids? Take a look at those five simple methods that
-  will help you fight them. Try home remedies for aphids and see that they can be
-  as effective as store-bought chemicals. Learn how to kill aphids with home-made
-  solutions and restore the beauty of your precious garden.
+description: "Gli insetti stanno rovinando le vostre piante? \U0001F997 Imparate i
+  metodi e i rimedi più efficaci per eliminare gli afidi. ✅ Liberate il vostro giardino!"
+intro: Un bel giardino è il vostro sogno, ma i parassiti stanno rovinando le vostre
+  piante? Vi state chiedendo come liberarvi degli afidi? Date un'occhiata a quei cinque
+  semplici metodi che vi aiuteranno a combatterli. Provate i rimedi casalinghi per
+  gli afidi e vedete che possono essere efficaci quanto i prodotti chimici acquistati
+  nei negozi. Imparate a uccidere gli afidi con soluzioni fatte in casa e ripristinate
+  la bellezza del vostro prezioso giardino.
 image: "/uploads/jak-zwalczac-mszyce.jpg"
 related_products: []
-published: false
 
 ---
-## What are aphids and why are they harmful?
+## Cosa sono gli afidi e perché sono dannosi?
 
-Aphids are quite common and **very irksome pests**. They can be found in floral and vegetable gardens, or even on balcony potted plants. It is easy to recognize them, as they form swarms. Depending on the species, you can find **black, green and yellow** aphids, or the rarest ones – **orange**.
+Gli afidi sono parassiti molto comuni e molto fastidiosi. Si possono trovare negli orti e nei giardini, o anche sulle piante in vaso da balcone. È facile riconoscerli, poiché formano sciami. A seconda della specie, si possono trovare afidi neri, verdi e gialli, o quelli più rari - arancioni.
 
-Aphids are a serious threat for garden plants, as they suck their juices. They also pollute them with their excretion, and they might spread dangerous viruses. For this reason it is important to **act immediately** and use home remedies as soon as the pests appear in the garden.
+Gli afidi sono una seria minaccia per le piante da giardino, poiché succhiano i loro succhi. Inoltre li inquinano con le loro escrezioni e possono diffondere virus pericolosi. Per questo motivo è importante agire immediatamente e usare rimedi casalinghi non appena i parassiti compaiono in giardino.
 
 {% fig %}
 ![What are aphids and why are they harmful?](/uploads/mszyce-dlaczego-sa-szkodliwe.jpg "What are aphids and why are they harmful?")
 {% endfig %}
 
-## Wondering how to get rid of aphids? Get some plants that repel them
+## Vi state chiedendo come liberarvi degli afidi? Prendere alcune piante che li respingono
 
-A good neighborhood for the plants in your garden affects their proper growth and general health. **Ecological agriculture** has been gaining popularity. It mainly involves using neighboring plants, so that they have a positive influence on each other. **Home remedies for aphids also engage using plants that are disliked by those tiny insects.**
+Un buon vicinato per le piante del vostro giardino influisce sulla loro corretta crescita e sulla salute generale. L'agricoltura ecologica sta guadagnando popolarità. Si tratta principalmente di utilizzare piante vicine, in modo che abbiano un'influenza positiva l'una sull'altra. Anche i rimedi casalinghi per gli afidi si impegnano a utilizzare piante che non sono gradite a quei piccoli insetti.
 
-The best remedy for aphids in your vegetable garden is planting garlic and onion, which **repel the pests.** A coordinate cultivation is a highly effective method – it involves planting vegetables along with aphid-repellent plants. Therefore, when planting vegetables that are liked by aphids, combine them with plants that repel those insects.
+Il miglior rimedio per gli afidi nel vostro orto è piantare aglio e cipolla, che respingono i parassiti. Una coltivazione coordinata è un metodo molto efficace: si tratta di piantare verdure insieme a piante repellenti per gli afidi. Pertanto, quando si piantano verdure che piacciono agli afidi, combinarle con piante che respingono gli insetti.
 
-As for a floral garden, it is a good idea to use lavender. It is a perfect aphid remedy, as it **repels the pests with its strong scent**. Another universal method is planting some anti-insect herbs. The best herb for aphids is **mint,** which can be planted both in vegetable and floral garden.
+Per quanto riguarda un giardino floreale, è una buona idea usare la lavanda. È un perfetto rimedio per gli afidi, in quanto respinge i parassiti con il suo forte profumo. Un altro metodo universale è quello di piantare alcune erbe anti-insetti. La migliore erba per gli afidi è la menta, che può essere piantata sia nell'orto che nel giardino floreale.
 
 {:.distinction.distinction-information}
-You can also plant mint in a pot by other plants to repel aphids invading your balcony flowers.
+Potete anche piantare la menta in un vaso da altre piante per respingere gli afidi che invadono i fiori del balcone.
 
 {% fig %}
 ![Wondering how to get rid of aphids? Get some plants that repel them](/uploads/mieta-przeciw-mszycom.jpg "Wondering how to get rid of aphids? Get some plants that repel them")
 {% endfig %}
 
-## How to kill aphids with plant extracts and brews?
+## Come uccidere gli afidi con estratti di piante e infusi?
 
-Planting aphid repellent plants is not the only way to use them in your fight with those insects. You can also prepare highly effective **natural extracts and brews**.
+Piantare piante repellenti per gli afidi non è l'unico modo per usarle nella lotta contro questi insetti. Potete anche preparare estratti e infusi naturali altamente efficaci.
 
-Onion extract is a perfect aphid home remedy. Onions can be typically found in every kitchen, and it is not difficult to turn them into brew. All you need is:
+L'estratto di cipolla è un perfetto rimedio domestico per gli afidi. Le cipolle si trovano tipicamente in ogni cucina e non è difficile trasformarle in infusione. Tutto ciò che serve è:
 
 {:.list.list-positive}
-* onions,
-* water,
-* a large pot.
 
-Cut the onions (max. 100 g) into pieces, add approximately 10 liters of water and boil it on low heat for 30 minutes. After another 30 minutes the brew is ready to use.
+* cipolle,
+* acqua,
+* una grande pentola.
+
+Tagliare le cipolle (max. 100 g) a pezzi, aggiungere circa 10 litri d'acqua e far bollire a fuoco lento per 30 minuti. Dopo altri 30 minuti l'infuso è pronto per l'uso.
 
 {:.distinction.distinction-information}
-Onion extract is effective not only against aphids, but also it is a perfect remedy for fungal plant diseases.
+L'estratto di cipolla è efficace non solo contro gli afidi, ma è anche un rimedio perfetto per le malattie delle piante fungine.
 
 {% fig %}
 ![How to kill aphids with plant extracts and brews?](/uploads/preparat-na-mszyce-z-cebuli.jpg "How to kill aphids with plant extracts and brews?")
 {% endfig %}
 
-A garlic extract is another, equally effective home remedy to get rid of aphids. To prepare this natural solution, grind 200-300 g of garlic. Add 10 liters of water and leave it for 24 hours. Dilute the extract with water in 1:1 proportion – it is ready to use.
+Un estratto di aglio è un altro rimedio casalingo altrettanto efficace per liberarsi degli afidi. Per preparare questa soluzione naturale, macinare 200-300 g di aglio. Aggiungere 10 litri d'acqua e lasciare in infusione per 24 ore. Diluire l'estratto con acqua in proporzione 1:1 - è pronto all'uso.
 
 {:.distinction.distinction-warning}
-You can keep the home aphid solution maximally for 2 months. Remember to keep it in an air-tight container and put it in a dark spot. You cannot overdose such solutions, so you can use large quantities when spraying the plants.
+È possibile mantenere la soluzione per afidi domestici al massimo per 2 mesi. Ricordatevi di tenerla in un contenitore a tenuta d'aria e di metterla in un luogo buio. Non è possibile sovradosare tali soluzioni, quindi è possibile utilizzare grandi quantità quando si spruzzano le piante.
 
-## Ecological spraying – a proven method to get rid of aphids
+## Spruzzatura ecologica - un metodo collaudato per eliminare gli afidi
 
-The best way to get rid of aphids is **ecological garden spraying**. Natural, home-made solutions can help you remove the pests quickly and effectively, **without the risk of harming the plants**. Ecological spraying is perfect for gardens with children, as it is safe for human health.
+Il modo migliore per liberarsi degli afidi è l'irrorazione ecologica del giardino. Soluzioni naturali e casalinghe possono aiutare a rimuovere i parassiti in modo rapido ed efficace, senza il rischio di danneggiare le piante. L'irrorazione ecologica è perfetta per i giardini con i bambini, in quanto è sicura per la salute umana.
 
 {% fig %}
 ![Ecological spraying – a proven method to get rid of aphids](/uploads/naturalne-opryski-sposob-na-mszyce.jpg "Ecological spraying – a proven method to get rid of aphids")
 {% endfig %}
 
-### How to kill aphids with vinegar?
+### Come uccidere gli afidi con l'aceto?
 
-Vinegar spraying is the most popular method to fight with aphids. **To make a vinegar solution, mix it with water in 1:10 proportion.**
+La spruzzatura dell'aceto è il metodo più popolare per combattere con gli afidi. Per fare una soluzione di aceto, mescolare con acqua in proporzione 1:10.
 
 {:.distinction.distinction-warning}
-When preparing the solution, always pour vinegar into water – not vice versa, as it can cause adverse chemical reactions, harmful for health.
+Quando preparate la soluzione, versate sempre l'aceto nell'acqua - non viceversa, perché può causare reazioni chimiche avverse, dannose per la salute.
 
-Optionally **you can add a spoon of soap or a few drops of dish detergent.** This way the solution will stick better to the plants. Soap also makes it last longer. After preparing the liquid, pour it into a spray bottle or a sprinkler and spray the plants. Do it not only from above – pay attention to the bottom of the leaves, as that's the place where aphids are most likely to be.
+Facoltativamente si può aggiungere un cucchiaio di sapone o qualche goccia di detersivo per i piatti. In questo modo la soluzione si attaccherà meglio alle piante. Il sapone fa anche durare più a lungo. Dopo aver preparato il liquido, versatelo in un flacone spray o in un irrigatore e spruzzate le piante. Non fatelo solo dall'alto - fate attenzione al fondo delle foglie, perché è il luogo dove è più probabile che si trovino gli afidi.
 
-### Killing aphids with baking soda – a perfect solution for insects in your garden
+### Uccidere gli afidi con il bicarbonato di sodio - una soluzione perfetta per gli insetti nel vostro giardino
 
-**A baking soda solution** has many uses – it can be used also for fighting with garden pests. It is effective mostly against aphids, but you can use it for whiteflies and mites as well.
+Una soluzione al bicarbonato di sodio ha molti usi - può essere usata anche per combattere i parassiti del giardino. È efficace soprattutto contro gli afidi, ma si può usare anche per le mosche bianche e gli acari.
 
-**A baking soda mixture** against aphids is very easy to make. Just add a little (no more than 1/3 teaspoon) to a liter of warm (not boiling) water. Add half a teaspoon of vegetable oil. Mix everything thoroughly. Similar to previous solutions, you may add some soap.
+Una miscela di bicarbonato di sodio contro gli afidi è molto facile da fare. Basta aggiungere un po' (non più di 1/3 di cucchiaino) a un litro di acqua calda (non bollente). Aggiungere mezzo cucchiaino di olio vegetale. Mescolare il tutto accuratamente. Come per le soluzioni precedenti, si può aggiungere del sapone.
 
 {:.distinction.distinction-information}
-Spraying the solution is not the only option. You can also wipe the affected leaves with it. Do it twice a week.
+Spruzzare la soluzione non è l'unica opzione. È anche possibile pulire le foglie interessate con essa. Fatelo due volte a settimana.
 
-Using **home remedies**, you can get rid of aphids quickly and effectively. Chemicals are not always needed – treat them a last resort.
+Con i rimedi casalinghi potete eliminare gli afidi in modo rapido ed efficace. I prodotti chimici non sono sempre necessari - trattateli come ultima risorsa.
