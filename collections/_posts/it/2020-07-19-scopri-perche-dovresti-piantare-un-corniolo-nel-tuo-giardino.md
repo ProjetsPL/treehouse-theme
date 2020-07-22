@@ -20,152 +20,153 @@ toc: true
 promoted: false
 update_date: 2020-07-19
 title: Scopri perché dovresti piantare un corniolo nel tuo giardino
-description: "Dogwood tree has many useful properties. \U0001F33F Why is it beneficial
-  to have it in your garden?  ➡️ Learn how to use a dogwood tree in your kitchen!"
-intro: Dogwood has many useful qualities. This unusual ornamental plant not only looks
-  fantastic in your garden but might also contribute to improving your health. Certain
-  species of dogwood bear quite a tasty fruit of beneficial properties. Learn why
-  you should consider planting a dogwood tree in your garden and how to use it in
-  the kitchen.
+description: "Il corniolo ha molte proprietà utili. \U0001F33F Perché è utile averlo
+  nel proprio giardino?  ➡️ Imparate ad usare un corniolo in cucina!"
+intro: Dogwood ha molte qualità utili. Questa insolita pianta ornamentale non solo
+  ha un aspetto fantastico nel vostro giardino, ma potrebbe anche contribuire a migliorare
+  la vostra salute. Alcune specie di corniolo hanno un gustoso frutto dalle proprietà
+  benefiche. Scoprite perché dovreste prendere in considerazione l'idea di piantare
+  un corniolo nel vostro giardino e come utilizzarlo in cucina.
 image: "/uploads/dlaczeg-warto-sadzic-deren-jadalny-w-ogrodzie.jpg"
 related_products: []
-published: false
 
 ---
-## What is a dogwood tree?
+## Cos'è un corniolo?
 
-Dogwood is a name of over 40 species of plants belonging to _Cornus_ family. One of the popular types (esp. in central and southern Europe) of this plant is called cornelian cherry (**_Cornus mas L._**_),_ a tree that can reach even 10 meters of height. It is mostly cultivated in Europe and Asia. Certain species of dogwood can be planted in gardens, others grow only in woods. _Cornus mas_ is valued for its **sweet-and-sour fruit,** rich in polyphenols and **vitamin C**. Bark of dogwood trees has anti-septic qualities.
+Dogwood è il nome di oltre 40 specie di piante appartenenti alla famiglia Cornus. Uno dei tipi più popolari (soprattutto nell'Europa centrale e meridionale) di questa pianta è il ciliegio corniolo (Cornus mas L.), un albero che può raggiungere anche i 10 metri di altezza. Viene coltivato soprattutto in Europa e in Asia. Alcune specie di corniolo possono essere piantate nei giardini, altre crescono solo nei boschi. Il Cornus mas è apprezzato per i suoi frutti agrodolci, ricchi di polifenoli e vitamina C. La corteccia del corniolo ha qualità antisettiche.
 
-What makes cornelian cherry different from other species, is the fact that it is easy to grow, and it has **many uses**. Cornelian cherry dogwood is not only a beautiful ornamental tree, but it is also beneficial for human health. What's more, it's a plant of little requirements – therefore it's perfect for anyone too busy to take care of their garden.
+Ciò che rende la corniola diversa dalle altre specie, è il fatto che è facile da coltivare, e ha molti usi. Il corniolo della corniola non è solo un bellissimo albero ornamentale, ma è anche benefico per la salute umana. Inoltre, è una pianta con poche esigenze - quindi è perfetta per chiunque sia troppo occupato a prendersi cura del proprio giardino.
 
 {% fig %}
 ![What is a dogwood tree?](/uploads/deren-jadalny-w-ogrodzie.jpg "What is a dogwood tree?")
 {% endfig %}
 
-## What types of dogwood trees are best to grow in the garden?
+## Quali tipi di corniolo è meglio coltivare in giardino?
 
-As already mentioned, **cornelian cherry**, also known by its scientific name as _Cornus mas_ is a popular species, commonly grown in gardens in south and central Europe, as well as in western Asia. The plant owes its popularity to its many qualities, that can be used in the garden and beyond. A characteristic feature of a cornelian cherry dogwood are its **small, red, round-shaped fruits.** Their red shade can enliven the garden in summer and in winter.
+Come già detto, il ciliegio corniolo, conosciuto anche con il nome scientifico di Cornus mas è una specie popolare, comunemente coltivata nei giardini dell'Europa meridionale e centrale, così come nell'Asia occidentale. La pianta deve la sua popolarità alle sue molteplici qualità, che possono essere utilizzate in giardino e non solo. Una caratteristica caratteristica del corniolo di ciliegio corniola sono i suoi piccoli frutti rossi a forma di tondino. La loro tonalità rossa può ravvivare il giardino in estate e in inverno.
 
 {% fig %}
 ![What types of dogwood trees are best to grow in the garden?](/uploads/deren-jadalny-gatunki.jpg "What types of dogwood trees are best to grow in the garden?")
 {% endfig %}
 
-There are many types of dogwood trees, including also ornamental plants which might be beautiful decorations in a garden. The most popular and interesting species are **Siberian dogwood** (**_Cornus alba_**) – which can grow up to 3 meters tall, **Japanese dogwood** (kousa dogwood) with its original shape, or very tall **Himalayan flowering dogwood**, resistant to low temperatures and difficult conditions.
+Ci sono molti tipi di alberi di corniolo, tra cui anche piante ornamentali che potrebbero essere belle decorazioni in un giardino. Le specie più popolari e interessanti sono il corniolo siberiano (Cornus alba) - che può crescere fino a 3 metri di altezza, il corniolo giapponese (corniolo kousa) con la sua forma originale, o il corniolo himalayano da fiore molto alto, resistente alle basse temperature e alle condizioni difficili.
 
 {% fig %}
 ![Dogwood tree – flowers](/uploads/deren-bialy.jpg "Dogwood tree – flowers")
 {% endfig %}
 
-## How to plant a cornelian cherry dogwood tree?
+## Come piantare un corniolo di ciliegio corniolo?
 
-If you're wondering how to plant a dogwood tree in your garden, just buy a seedling in a garden shop. Before planting it, make sure to **trim all shoots growing right above the ground** and any roots that are too long – by 1/3 of their length. A dogwood tree typically reaches up to 6-8 meters of height, forming either a tree or a large bush. For this reason you should **provide the plant enough space for growing**.
+Se vi state chiedendo come piantare un corniolo nel vostro giardino, comprate una piantina in un negozio di giardinaggio. Prima di piantarlo, assicuratevi di tagliare tutti i germogli che crescono proprio sopra il terreno e le radici troppo lunghe - per 1/3 della loro lunghezza. Un corniolo in genere raggiunge i 6-8 metri di altezza, formando un albero o un grande cespuglio. Per questo motivo si dovrebbe fornire alla pianta spazio sufficiente per la crescita.
 
 {% fig %}
 ![How to plant a cornelian cherry dogwood tree?](/uploads/kwitnacy-deren-jadalny-w-ogrodzie.jpg "How to plant a cornelian cherry dogwood tree?")
 {% endfig %}
 
 {:.distinction.distinction-information}
-Wondering how fast do dogwood trees grow? The growth rate is quite slow during the first 2 years. The first results become noticeable approximately 3 years after planting the seedling.
+Vi chiedete a che velocità crescono i cornioli? Il tasso di crescita è piuttosto lento nei primi 2 anni. I primi risultati diventano evidenti circa 3 anni dopo aver piantato la piantina.
 
-## Cornelian cherry tree – how to take care for it?
+## Ciliegio corniola - come prendersene cura?
 
-_Cornus mas_ is quite easy to cultivate. Nevertheless, you should **follow certain rules** to allow the tree for a proper growth and make it a real decoration in your garden.
+Il Cornus mas è abbastanza facile da coltivare. Tuttavia, è necessario seguire alcune regole per permettere all'albero di crescere correttamente e renderlo una vera e propria decorazione nel vostro giardino.
 
-Two of the major issues are the **placement of the dogwood tree** and its growth in **the right type of soil**. A dogwood tree should grow either in full sun or in half shade. The best type of soil for this type of plant is calcareous or slightly acidic and damp ground. A **cornelian cherry doesn't tolerate standing water**. For this reason avoid planting it in impermeable grounds.
+Due dei problemi principali sono la collocazione del corniolo e la sua crescita nel giusto tipo di terreno. Un corniolo dovrebbe crescere sia in pieno sole che in mezza ombra. Il tipo di terreno migliore per questo tipo di pianta è quello calcareo o leggermente acido e umido. Una corniola non tollera l'acqua stagnante. Per questo motivo evitate di piantarla in terreni impermeabili.
 
-If you want a cornelian cherry to grow well and healthily, take a good care of it. Two most important aspects of it are regular **watering and fertilizing**. Although a dogwood tree is quite resistant to droughts, they influence fruition process. Make sure to water the plant regularly and provide all the nutrients it needs. The plant is not very demanding. All you have to do is **fertilize the dogwood tree once a year at the beginning of spring**, for the proper growth and nourishment.
+Se volete che una corniola cresca bene e in salute, prendetevene cura. I due aspetti più importanti sono l'annaffiatura regolare e la concimazione. Anche se un corniolo è abbastanza resistente alla siccità, influiscono sul processo di fruizione. Assicuratevi di annaffiare la pianta regolarmente e di fornire tutte le sostanze nutritive di cui ha bisogno. La pianta non è molto esigente. Tutto quello che dovete fare è fertilizzare il corniolo una volta all'anno all'inizio della primavera, per una crescita e un nutrimento adeguati.
 
 {:.distinction.distinction-warning}
-A cornelian cherry does not need trimming. Any mechanical damage of the plant negatively affects its fruition.
+Una corniola non ha bisogno di essere tagliata. Qualsiasi danno meccanico della pianta influisce negativamente sulla sua fruizione.
 
-## How to use cornus mas in the kitchen? Cornelian cherry fruit properties
+## Come si usa il cornus mas in cucina? Proprietà del frutto di ciliegia corniola
 
-A dogwood tree is not only a **magnificent decoration** in your garden. Its edible species might become real celebrities of every kitchen. Learn several practical uses of a cornelian cherry fruit.
+Un corniolo non è solo una magnifica decorazione nel vostro giardino. Le sue specie commestibili potrebbero diventare vere e proprie celebrità di ogni cucina. Imparate diversi usi pratici di un frutto di corniola.
 
-### What are the benefits of cornelian cherry fruits?
+### Quali sono i vantaggi dei frutti di corniola?
 
-Cornelian cherry fruits are a good source of many vitamins and minerals, therefore they have **health-promoting**, or even healing properties. Eating cornelian cherry fruits influences:
+I frutti della corniola sono una buona fonte di molte vitamine e minerali, quindi hanno proprietà salutari o addirittura curative. Mangiare i frutti di corniola ciliegia influisce:
 
 {:.list}
-* **Immunity** – a dogwood tree contains **high doses of the vitamin C,** which can be found in the fruit. For this reason it can be used as a natural **remedy for infections and common cold**.
-* **Cancer prevention** – because cornelian cherry fruits are the source of flavonoids which combat toxins in the organism, they might be used as a cancer prevention tool. Cornelian cherry fruits are great for **reducing oxidative stress**.
+
+* Immunità - un albero di corniolo contiene alte dosi di vitamina C, che si trova nel frutto. Per questo motivo può essere usato come rimedio naturale per le infezioni e il comune raffreddore.
+* Prevenzione del cancro - poiché i frutti della corniola sono la fonte di flavonoidi che combattono le tossine nell'organismo, possono essere usati come strumento di prevenzione del cancro. I frutti della corniola sono ottimi per ridurre lo stress ossidativo.
 
 {% fig %}
 ![What are the benefits of cornelian cherry fruits?](/uploads/deren-jadalny-owoce.jpg "What are the benefits of cornelian cherry fruits?")
 {% endfig %}
 
 {:.list}
-* **Stomach issues** – a dogwood tree is also a perfect natural remedy for diarrheas and gripes. It is caused by the high content of tannins in the fruit, substances of **binding properties**. However, if you suffer from stomach ulcer, you should avoid eating the fruits.
-* **Urinary tract conditions** – cornelian cherry fruit in liquid form (e.g. as juice) has diuretic properties. Moreover, the vitamin C contained within is an **anti-inflammatory agent**. For this reason you may drink cornelian cherry fruit juice or tea as a remedy for bladder problems.
-* **Anaemia** – due to high levels of iron, cornelian cherry fruit is a good preventive agent against anaemia. It's also good for treating eating disorders caused by anaemia.
 
-### Cornelian cherry liqueur for cold... and more!
+* Problemi allo stomaco - un corniolo è anche un perfetto rimedio naturale per diarrea e lamentele. È causato dall'alto contenuto di tannini nel frutto, sostanze dalle proprietà leganti. Tuttavia, se si soffre di ulcera gastrica, si dovrebbe evitare di mangiare i frutti.
+* Condizioni del tratto urinario - il frutto di corniola in forma liquida (ad esempio come succo) ha proprietà diuretiche. Inoltre, la vitamina C contenuta al suo interno è un agente antinfiammatorio. Per questo motivo si può bere il succo di ciliegia corniola o il tè come rimedio per i problemi alla vescica.
+* Anemia - a causa degli alti livelli di ferro, la corniola ciliegia è un buon agente preventivo contro l'anemia. È ottimo anche per il trattamento dei disturbi alimentari causati dall'anemia.
 
-A cornelian cherry liqueur is a natural remedy for common cold due to the high content of vitamin C in the fruits. **The liqueur treats infections that cause fever.** Nevertheless, you should be cautious with this form of treatment and learn all about it – before you even decide to prepare the drink.
+### Liquore alla ciliegia corniola per il freddo... e non solo!
+
+Il liquore di ciliegia corniola è un rimedio naturale per il comune raffreddore grazie all'elevato contenuto di vitamina C nei frutti. Il liquore tratta le infezioni che causano febbre. Tuttavia, si dovrebbe essere prudenti con questa forma di trattamento e imparare tutto su di esso - prima ancora di decidere di preparare la bevanda.
 
 {:.distinction.distinction-information}
 
-The liqueur's value lies not only in its health benefits, but also in the taste. You can consume it either as is, or as an addition to other drinks. It tastes very good with tea.
+Il valore del liquore non risiede solo nei suoi benefici per la salute, ma anche nel gusto. Si può consumare così com'è, o come aggiunta ad altre bevande. Il sapore è molto buono con il tè.
 
-To prepare a cornelian cherry liqueur, mix one kilogram of fruits with 5 tablespoons of dried blueberries and pour a lot of spirit. Place the jar with the liqueur in a warm spot and shake it every 2-3 days. After 5 weeks separate the spirit from the fruits and put it into the fridge. Then pour sugar over the fruits and wait until it dissolves completely.
+Per preparare un liquore alla corniola, mescolare un chilogrammo di frutta con 5 cucchiai di mirtilli secchi e versare molto alcol. Mettete il barattolo con il liquore in un punto caldo e agitatelo ogni 2-3 giorni. Dopo 5 settimane separare l'acquavite dalla frutta e metterla in frigorifero. Poi versate lo zucchero sulla frutta e aspettate che si sciolga completamente.
 
 {% fig %}
 ![Cornelian cherry liqueur for cold... and more!](/uploads/nalewka-z-derenia.jpg "Cornelian cherry liqueur for cold... and more!")
 {% endfig %}
 
-Mix the syrup from sugar and fruits with the spirit, which will begin the clarification process. The last step is filtering the cornelian cherry liqueur by pouring it through a piece of fabric (e.g. a gauze). You can store the liqueur in a cold place even for several years. Remember that such homemade liqueur is for personal use only.
+Mescolare lo sciroppo di zucchero e frutta con lo spirito, che darà inizio al processo di chiarificazione. L'ultimo passo è quello di filtrare il liquore di ciliegia corniola versandolo attraverso un pezzo di tessuto (ad esempio una garza). È possibile conservare il liquore in un luogo freddo anche per diversi anni. Ricordate che questo liquore fatto in casa è solo per uso personale.
 
-### How to make tasty cornelian cherry preserves?
+### Come fare delle gustose conserve di corniola?
 
-**Cornelian cherry jam** is a perfect bread spread and dessert topping. It has a delicious sweet-and-sour taste that adds a character to meals. What's more, its **rich** **nutritional values** make the cornelian cherry jam not only a tasty but also a healthy food.
+La marmellata di corniola è una perfetta spalmatura di pane e condimento per dessert. Ha un delizioso sapore agrodolce che aggiunge carattere ai pasti. Inoltre, i suoi ricchi valori nutrizionali rendono la marmellata di corniola non solo un alimento gustoso ma anche sano.
 
 {:.distinction.distinction-warning}
-Cornelian cherry reserves as well as fresh fruits are harmful for anyone suffering from stomach ulcer.
+Le riserve di ciliegie corniola e la frutta fresca sono dannose per chi soffre di ulcera gastrica.
 
-To prepare **cornelian cherry jam**, first rinse, peel and pit the fruits. Then prepare a syrup by boiling water and sugar in the proportion 0.5 liter of water and 2 kilograms of sugar. Pour the fruits into the syrup and leave them to soak for 24 hours. Then bring them to boil using medium heat. Pour the hot cornelian cherry jam into jars and close them tightly.
+Per preparare la marmellata di corniola, sciacquare, sbucciare e snocciolare la frutta. Poi preparate uno sciroppo facendo bollire acqua e zucchero nella proporzione di 0,5 litri d'acqua e 2 kg di zucchero. Versare i frutti nello sciroppo e lasciarli a bagno per 24 ore. Poi portarli ad ebollizione a fuoco medio. Versare la marmellata di corniola calda di ciliegie in vasetti e chiuderli ermeticamente.
 
 {% fig %}
 ![How to make tasty cornelian cherry preserves?](/uploads/dzem-deren-jadalny.jpg "How to make tasty cornelian cherry preserves?")
 {% endfig %}
 
-Cornelian cherry is long-known to natural medicine. It can be used both for healing and in the kitchen, therefore it's a plant that is often cultivated in many parts of the world.
+La ciliegia corniola è da tempo nota alla medicina naturale. Può essere usata sia per la guarigione che in cucina, quindi è una pianta che viene spesso coltivata in molte parti del mondo.
 
 {% faqItem %}
 {% faqQuestion %}
-When to plant dogwood trees?
+Quando piantare il corniolo?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Dogwood tree seedlings can be planted during the whole season, although the best time to do it is spring or fall. Make sure to plant the seedling in the right type of soil – calcareous or slightly acidic. Dogwood trees need a lot of space to grow, as they reach up to 5-10 meters.
+Le piantine di corniolo possono essere piantate durante tutta la stagione, anche se il momento migliore per farlo è la primavera o l'autunno. Assicuratevi di piantare la piantina nel giusto tipo di terreno - calcareo o leggermente acido. Gli alberi di corniolo hanno bisogno di molto spazio per crescere, poiché raggiungono i 5-10 metri.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-When do dogwood trees bloom?
+Quando fioriscono i cornioli?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Depending on the weather conditions, a dogwood tree blooms from February to April in moderate climates. One bud develops 15-20 little flowers. They are frost resistant.
+A seconda delle condizioni meteorologiche, un corniolo fiorisce da febbraio ad aprile in climi temperati. Un bocciolo sviluppa 15-20 piccoli fiori. Sono resistenti al gelo.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to trim dogwood tree?
+Come tagliare il corniolo?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Although dogwood trees rarely require pruning, if needed, do it in late autumn or in winter. Use a pruning saw or shears and cut right at the base of the branch. Do not cut in the collar area, as it may lead to an infection.
+Sebbene gli alberi di corniolo raramente richiedano la potatura, se necessario, la si fa in autunno inoltrato o in inverno. Usate una sega o una cesoia e tagliate alla base del ramo. Non tagliare nella zona del collare, poiché potrebbe portare ad un'infezione.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How big does a dogwood tree get?
+Quanto diventa grande un corniolo?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Depending on the particular species, dogwood trees can reach up to 10 meters of height. The seedlings grow slow during the first 2 years. The changes become significant in the third year.
+A seconda della specie particolare, i cornioli possono raggiungere fino a 10 metri di altezza. Le piantine crescono lentamente durante i primi 2 anni. I cambiamenti diventano significativi nel terzo anno.
 {% endfaqAnswer %}
 {% endfaqItem %}
