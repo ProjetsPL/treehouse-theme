@@ -12,127 +12,127 @@ toc: true
 promoted: false
 update_date: 2020-07-20
 title: Cos'è un Mezzanino? Controlla come costruirlo in casa tua
-description: "Looking for interior design ideas? \U0001F4A1 How about a mezzanine
-  floor? Learn all about entresols and add space to your interior. ➡️ Make your home
-  spectacular!"
-intro: Dreaming of an elegant, stylish home design? Mezzanine level is a perfect way
-  to fully use the potential of your interior. Creating an entresol, you might gain
-  a completely new room and use it according to your needs. Consider building a mezzanine
-  - make an additional space in your home and enjoy the spectacular results.
+description: "Cercate idee per l'interior design? \U0001F4A1 Che ne dite di un soppalco?
+  Imparate tutto sull'entresols e aggiungete spazio al vostro interno. ➡️ Rendete
+  spettacolare la vostra casa!"
+intro: 'Sognando un design elegante ed elegante per la casa? Il livello del soppalco
+  è un modo perfetto per sfruttare appieno il potenziale dei vostri interni. Creando
+  un entresol, potreste ottenere una stanza completamente nuova e utilizzarla secondo
+  le vostre esigenze. Considerate la possibilità di costruire un soppalco: create
+  uno spazio aggiuntivo nella vostra casa e godetevi i risultati spettacolari.'
 image: "/uploads/antresola-1.jpg"
 related_products: []
-published: false
 
 ---
-## What is a mezzanine? Can I employ it in my house?
+## Cos'è un soppalco? Posso utilizzarlo in casa mia?
 
-Mezzanine is an intermediate level built in between two floors of a building, usually on the ground level. It might consist of **one or several rooms**. It is mostly used in large industrial buildings, shopping centers and restaurants, although it might also be built in a private house. A mezzanine might serve as a **home office** or **a bedroom**. 
+Il mezzanino è un livello intermedio costruito tra due piani di un edificio, di solito al piano terra. Può essere composto da una o più stanze. È utilizzato soprattutto in grandi edifici industriali, centri commerciali e ristoranti, anche se può essere costruito anche in una casa privata. Un soppalco può servire da ufficio domestico o da camera da letto.
 
-### Entresol in your house – what should you pay attention to?
+### Entresol in casa vostra - a cosa dovete prestare attenzione?
 
-A mezzanine floor at home is a **very practical and functional solution**. Without keeping certain safety measures it might be, however, dangerous for people living in the house. Before designing a mezzanine, first pay attention to the entrance. Stairs are important – whether winding or straight, a sturdy banister is a must, to ensure stability and protection from slipping.
+Un soppalco in casa è una soluzione molto pratica e funzionale. Senza mantenere alcune misure di sicurezza potrebbe però essere pericoloso per le persone che vivono in casa. Prima di progettare un soppalco, fate attenzione all'ingresso. Le scale sono importanti - che siano tortuose o diritte, una ringhiera robusta è un must, per garantire stabilità e protezione contro lo scivolamento.
 
 {:.distinction.distinction-information}
-If the mezzanine will not be used by children, you might install a ladder instead of a staircase. Remember that it has to be stable.
+Se il soppalco non sarà utilizzato dai bambini, si potrebbe installare una scala al posto di una scala. Ricordate che deve essere stabile.
 
-Another important aspect is **railing**. You might use traditional or modern glass rails. This way you can create a room resembling a balcony. Another, much safer (especially for children) solution is fencing the mezzanine with a pony wall.
+Un altro aspetto importante è la ringhiera. Si possono usare ringhiere tradizionali o moderne. In questo modo si può creare una stanza che assomiglia a un balcone. Un'altra soluzione molto più sicura (soprattutto per i bambini) è la recinzione del soppalco con un muro di pony.
 
-**A mezzanine floor also needs to be illuminated – it needs a separate set of lights**. The type of lighting is irrelevant and it depends solely on the home owners' preference, as well as on the purpose of the mezzanine. You might use a standard hanging lamp, wall lights or floor lamp.
+Anche un soppalco deve essere illuminato - ha bisogno di un set di luci separato. Il tipo di illuminazione è irrilevante e dipende esclusivamente dalle preferenze dei proprietari di casa, oltre che dallo scopo del soppalco. Si può usare una lampada a sospensione standard, un'applique o una lampada da terra.
 
 {% fig %}
 ![How high should a mezzanine be?](/uploads/antresola-w-domu-kiedy-mozna-zdecydowac-sie-na-antresole.jpg "How high should a mezzanine be?")
 {% endfig %}
 
-### How high should a mezzanine be?
+### Quanto dovrebbe essere alto un soppalco?
 
-A mezzanine at home is a great way to spare some space, especially if the apartment is small. Keep in mind that a **mezzanine makes sense only in high ceiling homes**. It is great in old buildings such as tenements. If the interior is short, like, for instance block apartments, a mezzanine will only overwhelm it.
+Un soppalco in casa è un ottimo modo per risparmiare spazio, soprattutto se l'appartamento è piccolo. Tenete presente che un soppalco ha senso solo in case con soffitti alti. È ottimo nei vecchi edifici come gli appartamenti. Se l'interno è corto, come ad esempio gli appartamenti a blocco, un soppalco lo sommerà.
 
 {:.distinction.distinction-information}
-To get a comfortable space both over and under the mezzanine, the apartment's height should be at least 4.2 meters.
+Per ottenere uno spazio confortevole sia sopra che sotto il mezzanino, l'altezza dell'appartamento dovrebbe essere di almeno 4,2 metri.
 
-In a lower ceiling room, you might build a **mezzanine bedroom**. In this case the mezzanine height might be 1.2 meters. Such an entresol can be built in a room that is about 3.5 meters tall. A minimal safe height for a room with a mezzanine is 2.6 meters.
+In una stanza con soffitto più basso, si potrebbe costruire una camera da letto soppalcata. In questo caso l'altezza del soppalco potrebbe essere di 1,2 metri. Un tale entresol può essere costruito in una stanza alta circa 3,5 metri. Un'altezza minima di sicurezza per una stanza con soppalco è di 2,6 metri.
 
 {% fig %}
 ![How to build a mezzanine? A step by step guide](/uploads/antresola-w-domu-kiedy-mozna-zdecydowac-sie-na-antresole-1.jpg "How to build a mezzanine? A step by step guide")
 {% endfig %}
 
-## How to build a mezzanine? A step by step guide
+## Come costruire un soppalco? Una guida passo dopo passo
 
-You should start building a mezzanine from designing a good project. Because such a construction is specified in the building code, it is a good idea to **ask a professional for help**. This way you can be sure that your project is congruous with the law. To design the mezzanine, take appropriate measurements in the room in which it is going to be built.
+Si dovrebbe iniziare a costruire un soppalco dalla progettazione di un buon progetto. Poiché tale costruzione è specificata nel codice edilizio, è una buona idea chiedere aiuto a un professionista. In questo modo potete essere sicuri che il vostro progetto sia conforme alla legge. Per progettare il soppalco, prendete le misure appropriate nella stanza in cui sarà costruito.
 
 {:.distinction.distinction-information}
-When doing a project, take the electrics into consideration. Make sure to include a power socket and a good lighting in the mezzanine.
+Quando si fa un progetto, prendere in considerazione l'impianto elettrico. Assicuratevi di includere una presa di corrente e una buona illuminazione nel soppalco.
 
-Another step is purchasing all the necessary materials. **A mezzanine floor is typically made of wood, so you might, for instance, visit a lumber mill**. Show your project to the employees, and they will know what exactly you expect.
+Un altro passo è l'acquisto di tutto il materiale necessario. Un soppalco è tipicamente fatto di legno, quindi potreste, per esempio, visitare una falegnameria. Mostrate il vostro progetto ai dipendenti, che sapranno esattamente cosa vi aspettate.
 
-The most important part of **building a mezzanine** floor is drilling holes and installing the beams that hold the whole construction. You can do it yourself, based on building guides. If you want to **be absolutely sure that the mezzanine is 100 percent safe** **and well constructed**, commission a specialist to do it for you. A professional will prepare and attach the beams to the wall, as well as secure the whole construction. The beams should be finished off and then plastered.
+La parte più importante della costruzione di un soppalco è la foratura e l'installazione delle travi che tengono l'intera costruzione. Potete farlo voi stessi, basandovi sulle guide dell'edificio. Se volete essere assolutamente sicuri che il soppalco sia sicuro al 100% e ben costruito, incaricate uno specialista di farlo per voi. Un professionista preparerà e fisserà le travi alla parete, oltre a fissare l'intera costruzione. Le travi devono essere rifinite e poi intonacate.
 
 {% fig %}
 ![How to build a mezzanine? A step by step guide](/uploads/drilling.jpg "How to build a mezzanine? A step by step guide")
 {% endfig %}
 
-The final step is **securing the floor** to the beams and fitting a staircase or a ladder.
+L'ultimo gradino consiste nel fissare il pavimento alle travi e montare una scala o una scala.
 
 {:.distinction.distinction-warning}
-Remember to leave small spaces between the floor panels. Humidity in the room changes constantly, causing the wood to expand or shrink in volume. The spaces help with the proper ventilation.
+Ricordatevi di lasciare dei piccoli spazi tra i pannelli del pavimento. L'umidità nella stanza cambia costantemente, causando l'espansione o il restringimento del volume del legno. Gli spazi aiutano la corretta ventilazione.
 
-## Room with mezzanine – design ideas
+## Camera con soppalco - idee di design
 
-**A mezzanine might be used in many ways**. It's a very universal type of a room, so you can fit it to your own needs. It **might be a bedroom**, **a home library** or **a relax zone**. Find some interesting ideas for mezzanine rooms below.
+Un soppalco può essere usato in molti modi. È un tipo di stanza molto universale, quindi si può adattare alle proprie esigenze. Può essere una camera da letto, una biblioteca domestica o una zona relax. Qui sotto troverete alcune idee interessanti per i soppalchi.
 
-### Mezzanine in a living room – a relaxing place after a long day
+### Mezzanino in un soggiorno - un luogo di relax dopo una lunga giornata
 
-The most popular combination is definitely a **mezzanine floor in a living room**. It increases functionality of the room, and makes high ceiling interiors more cozy. A mezzanine in a one-room apartment is a good method to s**eparate a bedroom from the living area**. This way you can have two interiors in one room – a large living room and a small, cozy bedroom.
+La combinazione più popolare è sicuramente un soppalco in un soggiorno. Aumenta la funzionalità della stanza e rende più accoglienti gli interni a soffitto alto. Un soppalco in un monolocale è un buon metodo per separare una camera da letto dalla zona giorno. In questo modo è possibile avere due interni in una stanza - un grande soggiorno e una piccola e accogliente camera da letto.
 
-### Mezzanine in a bedroom – make your room more functional
+### Soppalco in camera da letto - rendere la vostra camera più funzionale
 
-**A mezzanine does not have to be just a bedroom** – it might actually be built in the bedroom! This solution gives you additional space, which could be used in many ways. One of the ideas that can be appreciated especially by ladies is creating a **walk-in closet on a mezzanine floor**. It's a perfect solution if you have a lot of clothes that cannot fit in small wardrobes.
+Un soppalco non deve essere solo una camera da letto - potrebbe essere costruito nella camera da letto! Questa soluzione offre uno spazio aggiuntivo, che potrebbe essere utilizzato in molti modi. Una delle idee che può essere apprezzata soprattutto dalle signore è la creazione di una cabina armadio su un soppalco. È una soluzione perfetta se si hanno molti vestiti che non possono entrare in piccoli armadi.
 
-If a walk-in closet is not so tempting solution, you might create a small study room in a mezzanine, for work, studying or developing your hobbies.
+Se una cabina armadio non è una soluzione così allettante, potreste creare una piccola stanza studio in un soppalco, per lavorare, studiare o sviluppare i vostri hobby.
 
-### Mezzanine in a children's room – a secret base for your youngster
+### Mezzanino in una stanza per bambini - una base segreta per il vostro bambino
 
-**A mezzanine in a children's room** is becoming an increasingly popular solution, which is perfect for a room of this type. Parents decide to build an entresol to spare a lot of space, which is important especially if the room is occupied by more than one child.
+Un soppalco in una stanza per bambini sta diventando una soluzione sempre più popolare, perfetta per una stanza di questo tipo. I genitori decidono di costruire un entresol per risparmiare molto spazio, il che è importante soprattutto se la stanza è occupata da più di un bambino.
 
 {% fig %}
 ![Mezzanine in a children's room – a secret base for your youngster](/uploads/antresola-w-domu-kiedy-mozna-zdecydowac-sie-na-antresole-2.jpg "Mezzanine in a children's room – a secret base for your youngster")
 {% endfig %}
 
-**There are several uses for a mezzanine floor in a children's room**. If it's a place for sleeping, the room has more space for a study desk. What's more, a mezzanine, similar to a bunk bed, is something truly special for a child. It's a perfect spot for playing, where small adventurers can allow their imagination run wild.
+Ci sono diversi usi per un soppalco in una stanza per bambini. Se è un posto per dormire, la stanza ha più spazio per una scrivania da studio. Inoltre, un soppalco, simile a un letto a castello, è qualcosa di veramente speciale per un bambino. È un luogo perfetto per giocare, dove i piccoli avventurieri possono lasciar correre la fantasia.
 
-## Disadvantages of a mezzanine floor
+## Gli svantaggi di un soppalco
 
-Although a mezzanine level **looks interesting in a house**, it is also quite a demanding solution. Many homeowners who decide to build an entresol, ignore important issues and possible problems that should be kept in mind.
+Anche se un soppalco sembra interessante in una casa, è anche una soluzione piuttosto impegnativa. Molti proprietari di case che decidono di costruire un entresol, ignorano questioni importanti e possibili problemi che dovrebbero essere tenuti a mente.
 
-One of the biggest issues is **heating of a house with a mezzanine floor**. Warm air flows upwards, which causes the necessity to turn up the heating. Only this way the temperature on the lower level, where one spends significantly more time, will be optimal. Also, because the heat accumulates not on, but under the ceiling, using the mezzanine in winter might be problematic – the air up there might be simply too hot and dry. 
+Uno dei problemi più importanti è il riscaldamento di una casa con soppalco. L'aria calda fluisce verso l'alto, il che comporta la necessità di alzare il riscaldamento. Solo in questo modo la temperatura al livello inferiore, dove si passa molto più tempo, sarà ottimale. Inoltre, poiché il calore si accumula non sopra, ma sotto il soffitto, l'uso del soppalco in inverno potrebbe essere problematico - l'aria lassù potrebbe essere semplicemente troppo calda e secca.
 
-**Keeping the same temperature level in the room and in the mezzanine floor is practically impossible**. For this reason one of the interiors will always be too cold or too hot.
+Mantenere lo stesso livello di temperatura nella stanza e nel soppalco è praticamente impossibile. Per questo motivo uno degli interni sarà sempre troppo freddo o troppo caldo.
 
 {% fig %}
 ![Disadvantages of a mezzanine floor](/uploads/czy-antresola-ma-jakies-wady.jpg "Disadvantages of a mezzanine floor")
 {% endfig %}
 
-Another problem might be caused by the **unusual construction of a mezzanine** floor. Being an open space, it is not fully enclosed, therefore it does not isolate sounds. Music, TV sound or conversations can be heard around the house, which might disturb the peace and privacy.
+Un altro problema potrebbe essere causato dall'insolita costruzione di un soppalco. Essendo uno spazio aperto, non è completamente chiuso, quindi non isola i suoni. In casa si possono sentire musica, suoni televisivi o conversazioni che possono disturbare la pace e la privacy.
 
-Despite several cons, a mezzanine floor is a **very good solution** that might make your home far more functional.
+Nonostante diversi contro, un soppalco è un'ottima soluzione che potrebbe rendere la vostra casa molto più funzionale.
 
 {% faqItem %}
 {% faqQuestion %}
-What is a mezzanine?
+Cos'è un soppalco?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-A mezzanine, also known as entresol, is a special floor level built in a room. It might consist of one or several interiors. It's typically used in private houses and also in industrial halls and shopping centers.
+Un soppalco, detto anche entresol, è un piano speciale costruito in una stanza. Può essere costituito da uno o più interni. È tipicamente usato in case private e anche in capannoni industriali e centri commerciali.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to build a mezzanine floor?
+Come costruire un soppalco?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Building a mezzanine level is a time consuming, but quite simple process. You might build it yourself or ask a professional to do it for you. Remember that an entresol construction should follow the rules specified by building code so make sure that it is absolutely safe.
+Costruire un soppalco è un processo lungo ma abbastanza semplice. Potreste costruirlo voi stessi o chiedere a un professionista di farlo per voi. Ricordate che una costruzione entresol dovrebbe seguire le regole specificate dal codice edilizio, quindi assicuratevi che sia assolutamente sicura.
 {% endfaqAnswer %}
 
 {% endfaqItem %}
