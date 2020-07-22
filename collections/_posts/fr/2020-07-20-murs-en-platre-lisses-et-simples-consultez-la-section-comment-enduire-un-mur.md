@@ -12,113 +12,115 @@ toc: true
 promoted: false
 update_date: 2020-07-20
 title: Murs en plâtre lisses et simples. Consultez la section Comment enduire un mur
-description: "Want to learn a secret to perfectly smooth plaster walls? \U0001F481‍♂️
-  It's easier than you think! \U0001F449 Check how to plaster a wall, even if you
-  are not a professional!"
-intro: Finishing a wall with plaster is a popular method to get a smooth and aesthetic
-  surface. Wall plaster provides an even finish and excellent durability. It is also
-  far easier to paint over. It brings a unique character to your room, offering endless
-  possibilities for decoration. Learn how to plaster a wall to make it perfectly smooth
-  and even!
+description: "Vous voulez apprendre un secret pour rendre les murs en plâtre parfaitement
+  lisses ? \U0001F481♂ C'est plus facile que vous ne le pensez ! \U0001F449 Découvrez
+  comment plâtrer un mur, même si vous n'êtes pas un professionnel !"
+intro: La finition d'un mur avec du plâtre est une méthode populaire pour obtenir
+  une surface lisse et esthétique. Le plâtre mural offre une finition uniforme et
+  une excellente durabilité. Il est également beaucoup plus facile à repeindre. Il
+  donne un caractère unique à votre pièce, offrant des possibilités de décoration
+  infinies. Apprenez à plâtrer un mur pour le rendre parfaitement lisse et régulier
+  !
 image: "/uploads/jak-latwo-wykorzystac-gladz-gipsowa-do-wyrownania-scian.jpg"
 related_products: []
-published: false
 
 ---
-## What is plaster?
+## Qu'est-ce que le plâtre ?
 
-**Plaster is a very popular construction material.** It can be used for coating walls and ceilings. It is one of the most commonly used product for **finishing** a room. It contains gypsum and chalk. Its preparation often involves using special substance that delays its fixture, called plasticizer. It determines how hard the plaster is. Using it results in **shorter time of drying**. Usually, one can start processing the surface approximately after 2 hours.
+Le plâtre est un matériau de construction très populaire. Il peut être utilisé pour revêtir les murs et les plafonds. C'est l'un des produits les plus couramment utilisés pour la finition d'une pièce. Il contient du gypse et de la craie. Sa préparation implique souvent l'utilisation d'une substance spéciale qui retarde sa fixation, appelée plastifiant. Il détermine la dureté du plâtre. Son utilisation permet de réduire le temps de séchage. En général, on peut commencer à traiter la surface environ 2 heures plus tard.
 
-## How to use finishing plaster?
+## Comment utiliser le plâtre de finition ?
 
-Gypsum plaster is primarily used for smoothening the external surface of a wall. It should be used on surfaces pargeted with cement or lime plaster. This interesting substance is **100% ecological, giving a neutral reaction.** Those properties prevent mold and fungi growth on its surface. Wall plastering is a process that prepares the surface for further actions, such as painting.
+Le plâtre de finition est principalement utilisé pour lisser la surface extérieure d'un mur. Il doit être utilisé sur les surfaces recouvertes d'un enduit de ciment ou de chaux. Cette substance intéressante est 100 % écologique et donne une réaction neutre. Ces propriétés empêchent la croissance de moisissures et de champignons à sa surface. L'enduit mural est un procédé qui prépare la surface pour d'autres actions, comme la peinture.
 
 {% fig %}
 ![How to use finishing plaster?](/uploads/1-gladz.jpg "How to use finishing plaster?")
 {% endfig %}
 
-Plaster can be used on surfaces made of:
+Le plâtre peut être utilisé sur des surfaces en
 
 {:.list.list-positive}
-* gypsum boards,
-* fibre gypsum boards,
-* cement boards.
 
-Be careful - you should **avoid putting plaster onto a raw surface** because this type of walls is not suited for such material. Do not apply plaster in wet areas - for instance in bathrooms. Excessive humidity might cause cracks and the plaster might peel off the surface.
+* des plaques de plâtre,
+* des plaques de plâtre en fibre,
+* des panneaux de ciment.
 
-## How to plaster a wall? Step by step guide
+Attention, il faut éviter de mettre du plâtre sur une surface brute car ce type de mur n'est pas adapté à ce type de matériau. N'appliquez pas de plâtre dans les zones humides, par exemple dans les salles de bain. Une humidité excessive pourrait provoquer des fissures et le plâtre pourrait se décoller de la surface.
 
-The process of smoothing and evening the same spot over and over initially might seem tiresome. Finishing plaster walls requires **a lot of precision**. Don't worry - after you get the feel of it, it shouldn't be too problematic.
+## Comment plâtrer un mur ? Guide étape par étape
+
+Le processus consistant à lisser et à égaliser le même endroit encore et encore au départ peut sembler fastidieux. La finition des murs en plâtre exige beaucoup de précision. Ne vous inquiétez pas - une fois que vous en aurez pris connaissance, cela ne devrait pas poser trop de problèmes.
 
 {:.distinction.distinction-warning}
-Remember that wall plaster layer cannot be too thick. Overly dense layers of plaster might crack and break after drying.
+N'oubliez pas que la couche de plâtre des murs ne peut pas être trop épaisse. Des couches de plâtre trop denses peuvent se fissurer et se briser après le séchage.
 
-### Preparing the surface - like a professional
+### Préparer la surface - comme un professionnel
 
-At the very beginning you should prepare the room. Wall plaster might easily stain and damage furniture, therefore you should remove any objects from the room. If that's not possible, cover it with protective sheets. Don't forget to secure doors and windows.
+Au tout début, vous devez préparer la salle. Le plâtre des murs peut facilement tacher et endommager les meubles, c'est pourquoi vous devez retirer tous les objets de la pièce. Si ce n'est pas possible, recouvrez la pièce de draps de protection. N'oubliez pas de sécuriser les portes et les fenêtres.
 
 {% fig %}
 ![Preparing the surface](/uploads/folia-gladz.jpg "Preparing the surface")
 {% endfig %}
 
-The next step is priming the wall that is going to be plastered. If the surface has low absorptiveness, you should apply a product that increases adhesiveness. If the absorption is high, use the appropriate product to reduce it.
+L'étape suivante consiste à préparer le mur qui va être enduit. Si la surface a une faible capacité d'absorption, vous devez appliquer un produit qui augmente l'adhésivité. Si l'absorption est élevée, utilisez le produit approprié pour la réduire.
 
-To mix the plaster up, take a bucket with water and pour the substance in it - adjust the amount so that you can work approximately for 30-45 minutes. It is extremely important - **plaster loses its flexibility with time**. Wait for several minutes and mix the plaster thoroughly using a drill.
+Pour mélanger le plâtre, prenez un seau avec de l'eau et versez-y la substance - ajustez la quantité de manière à pouvoir travailler pendant environ 30 à 45 minutes. C'est extrêmement important - le plâtre perd sa souplesse avec le temps. Attendez plusieurs minutes et mélangez bien le plâtre à l'aide d'une perceuse.
 
-### Wall plastering - how to plaster a wall?
+### Enduit mural - comment enduire un mur ?
 
-Start from putting the plaster onto the external corners. **Use a float for application** and a trowel for spreading. After finishing the corners, spread the plaster onto the whole wall. Planning to plaster the whole room? Apply the material onto the ceiling as well.
+Commencez par poser le plâtre sur les angles extérieurs. Utilisez une taloche pour l'application et une truelle pour l'étalement. Une fois les angles terminés, étalez le plâtre sur tout le mur. Vous prévoyez d'enduire toute la pièce ? Appliquez également le matériau sur le plafond.
 
 {:.distinction.distinction-information}
-Specialists recommend putting only one layer of plaster. If needed, you may apply two or three thinner layers. Wait approximately 20 minutes between each application. Every new layer should be applied perpendicularly to the previous one.
+Les spécialistes recommandent de ne mettre qu'une seule couche de plâtre. Si nécessaire, vous pouvez appliquer deux ou trois couches plus fines. Attendez environ 20 minutes entre chaque application. Chaque nouvelle couche doit être appliquée perpendiculairement à la précédente.
 
-Because plaster has low resistance to hits, the wall corners need to be strengthened with aluminium angles. It concerns the outer surface. To do it, sink the element in the parget and plaster it over.
+Le plâtre ayant une faible résistance aux chocs, les angles des murs doivent être renforcés avec des cornières en aluminium. Il s'agit de la surface extérieure. Pour ce faire, il faut enfoncer l'élément dans le parget et le recouvrir de plâtre.
 
 {% fig %}
 ![Wall plastering - how to plaster a wall?](/uploads/szpachl-gladz.jpg "Wall plastering - how to plaster a wall?")
 {% endfig %}
 
-After finishing, simply wait until the plaster walls dry completely. Check if the plaster is smooth and aesthetic. If not, you might additionally sand the surface. Remember to prime the wall before painting.
+Après avoir terminé, il suffit d'attendre que les murs en plâtre soient complètement secs. Vérifiez si le plâtre est lisse et esthétique. Si ce n'est pas le cas, vous pouvez également poncer la surface. N'oubliez pas d'apprêter le mur avant de le peindre.
 
 {:.distinction.distinction-information}
-To achieve the best results, start painting no sooner than 24 hours after the plaster dries.
+Pour obtenir les meilleurs résultats, commencez à peindre au plus tôt 24 heures après que le plâtre ait séché.
 
-### Wet plastering - what is it and how to do that?
+### Le plâtrage humide - qu'est-ce que c'est et comment le faire ?
 
-Wet plastering is a very popular method to achieve a quick finish. It involves applying a layer of plaster onto the first layer that has not dried completely. This method requires **extra caution**, however it's worth it - it significantly speeds up the work.
+L'enduit humide est une méthode très populaire pour obtenir une finition rapide. Elle consiste à appliquer une couche de plâtre sur la première couche qui n'a pas complètement séché. Cette méthode exige une prudence particulière, mais elle en vaut la peine : elle accélère considérablement le travail.
 
-After the two layers dry, you can also smoothen the surface with water instead of using sand paper. Just dampen the wall with clean water and then smoothen it using a steel float. Make sure the second layer is dry before using this method.
+Une fois que les deux couches sont sèches, vous pouvez également lisser la surface avec de l'eau au lieu d'utiliser du papier de verre. Il suffit d'humidifier le mur avec de l'eau propre, puis de le lisser à l'aide d'une taloche en acier. Assurez-vous que la deuxième couche est sèche avant d'utiliser cette méthode.
 
-## All you need to plaster walls
+## Tout ce dont vous avez besoin pour plâtrer les murs
 
-The process of applying wall plaster requires using special **tools and materials.** Without a professional equipment, plastering will not be effective.
+Le processus d'application de l'enduit mural nécessite l'utilisation d'outils et de matériaux spéciaux. Sans un équipement professionnel, le plâtrage ne sera pas efficace.
 
-The tools you need to properly plaster walls:
+Les outils dont vous avez besoin pour bien enduire les murs :
 
 {:.list}
-* a trowel,
-* a float,
-* a brush for priming,
-* a bucket,
-* a drill with paddle mixer,
-* sanding paper,
-* aluminium angles,
-* a level.
+
+* une truelle,
+* un flotteur,
+* un pinceau pour l'amorçage,
+* un seau,
+* une perceuse avec mélangeur à pales,
+* papier abrasif,
+* des cornières en aluminium,
+* un niveau.
 
 {% fig %}
 ![All you need to plaster walls](/uploads/narzedzia-gladz.jpg "All you need to plaster walls")
 {% endfig %}
 
-The most essential material is the right type of plaster. Gypsum plaster is the most common. The type of material you choose should be appropriate for the surface you want to plaster. Pick the right material depending on its purpose. You might use plaster also to fill small scratches and larger holes.
+Le matériau le plus essentiel est le bon type de plâtre. Le plâtre de gypse est le plus courant. Le type de matériau que vous choisissez doit être adapté à la surface que vous voulez enduire. Choisissez le bon matériau en fonction de son utilisation. Vous pouvez également utiliser du plâtre pour combler de petites rayures et des trous plus importants.
 
-**Regardless of the type, the surface always needs priming.** To do this, use a primer dedicated for the wall you have. Otherwise, the product will not be as effective.
+Quel que soit le type, la surface a toujours besoin d'une couche d'apprêt. Pour ce faire, utilisez un apprêt dédié au mur que vous avez. Sinon, le produit ne sera pas aussi efficace.
 
 {% faqItem %}
 {% faqQuestion %}
-How to plaster a wall?
+Comment plâtrer un mur ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-For the best durability, apply the plaster onto a clean and primed surface. Wait around 20 minutes before applying the next layer. This way the walls will look smooth and aesthetic.
+Pour une meilleure durabilité, appliquez le plâtre sur une surface propre et apprêtée. Attendez environ 20 minutes avant d'appliquer la couche suivante. De cette façon, les murs auront un aspect lisse et esthétique.
 {% endfaqAnswer %}
 {% endfaqItem %}
