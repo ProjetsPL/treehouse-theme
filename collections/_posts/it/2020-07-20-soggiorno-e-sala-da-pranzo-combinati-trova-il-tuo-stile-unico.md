@@ -19,34 +19,34 @@ toc: true
 promoted: false
 update_date: 2020-07-20
 title: Soggiorno e sala da pranzo combinati - Trova il tuo stile unico
-description: "Looking for living room ideas? \U0001F6CB️ How about an open living
-  room with dining area? \U0001F449 Come and take a look at the trendiest dining and
-  living room designs!"
-intro: Creating a living room and dining room combo is a popular interior design.
-  Open floor plan is a perfect solution both for small and large homes. While many
-  consider implementing such an innovative design, separating living and dining area
-  in one room might be tricky. Wondering if an open living room is for you? Take a
-  look and inspire yourself with functional and trendy designs below. Find a perfect
-  one that matches your individual taste!
+description: "Cerchi idee per il soggiorno? \U0001F6CB️ Che ne dite di un soggiorno
+  aperto con zona pranzo? \U0001F449 Venite a dare un'occhiata ai design più trendy
+  per il soggiorno e la sala da pranzo!"
+intro: Creare una combinazione di soggiorno e sala da pranzo è un design d'interni
+  molto popolare. La pianta aperta è una soluzione perfetta sia per le piccole che
+  per le grandi case. Mentre molti considerano l'implementazione di un design così
+  innovativo, separare il soggiorno e la sala da pranzo in una sola stanza potrebbe
+  essere complicato. Vi state chiedendo se un soggiorno aperto fa per voi? Date un'occhiata
+  e ispiratevi al design funzionale e di tendenza che trovate qui sotto. Trovatene
+  uno perfetto che si adatti ai vostri gusti individuali!
 image: "/uploads/31597166847_efe76fb982_k.jpg"
 related_products: []
-published: false
 
 ---
-## Living room and dining room combo – two spaces in one interior
+## Soggiorno e sala da pranzo combinati - due spazi in un unico interno
 
-An open living room with dining area is a fantastic solution that appeared in many homes. What's quite interesting, a **living and dining room combo is great for a small apartment, as well as for a large, open concept house.** Living room ideas that implement dining area should be, however, well planned. Although combining those two functionalities seems easy, it is not always so simple.
+Un soggiorno aperto con zona pranzo è una soluzione fantastica che è apparsa in molte case. Ciò che è abbastanza interessante, una combinazione di soggiorno e sala da pranzo è ottima per un piccolo appartamento, così come per una grande casa di concetto aperto. Le idee di soggiorno che implementano la zona pranzo dovrebbero comunque essere ben pianificate. Anche se combinare queste due funzionalità sembra facile, non è sempre così semplice.
 
 {:.distinction.distinction-information}
-Even the tiniest details affect the final result. The most important factor is a good living room idea and specification of the style that the design shall involve.
+Anche i più piccoli dettagli influiscono sul risultato finale. Il fattore più importante è una buona idea di soggiorno e la specificazione dello stile che il progetto deve comportare.
 
-## Open living room with dining area for vast spaces
+## Soggiorno aperto con zona pranzo per ampi spazi
 
-Large spaces are great for designing a living room with dining area – perfect for big **family meetings, eating and relaxing together**. No experience is so bonding for relationships as simply spending time together. It's a huge motivation to make this space pleasant for everyone.
+I grandi spazi sono ideali per progettare un soggiorno con zona pranzo - perfetto per grandi riunioni di famiglia, per mangiare e rilassarsi insieme. Non c'è esperienza che leghi così tanto per le relazioni come il semplice trascorrere del tempo insieme. È una grande motivazione per rendere questo spazio piacevole per tutti.
 
-A large open living room with dining area offers **practically endless possibilities** for many fantastic designs. You might, for instance, choose a big table or a huge sofa, where the whole family could gather to watch tv series after sharing a dinner.
+Un grande soggiorno aperto con zona pranzo offre praticamente infinite possibilità per molti fantastici progetti. Si potrebbe, per esempio, scegliere un grande tavolo o un enorme divano, dove tutta la famiglia potrebbe riunirsi per guardare le serie tv dopo aver condiviso una cena.
 
-A big living room and dining room combo might be arranged in one style, although **certain minor details might stand out**. Picking various shades of one color is always a good idea. Living area might be lighter, contrasting with the dining room – or other way round.
+Un grande soggiorno e una sala da pranzo combinati potrebbero essere organizzati in un unico stile, anche se alcuni dettagli minori potrebbero essere messi in risalto. Scegliere varie tonalità di un colore è sempre una buona idea. Il soggiorno potrebbe essere più leggero, in contrasto con la sala da pranzo - o viceversa.
 
 {% fig %}
 ![Open living room with dining area for vast spaces](/uploads/salon-z-jadalnia-duza-przestrzen-2-1.jpg "Open living room with dining area for vast spaces")
@@ -72,12 +72,12 @@ A big living room and dining room combo might be arranged in one style, although
 ![Open living room with dining area for vast spaces](/uploads/salon-z-jadalnia-minimalistyczny.jpg "Open living room with dining area for vast spaces")
 {% endfig %}
 
-## Open living room ideas – small interiors
+## Idee per il soggiorno aperto - piccoli interni
 
-Apartments available on the market often have up to 40-60 square meters. Such a small space creates a necessity of designing a **living room and dining room combo**. A kitchen is very often added to an open floor plan as well. Such a space usually contains around 20 square meters, which needs to be carefully designed so that the interior keeps its harmony, while each area is functionally divided.
+Gli appartamenti disponibili sul mercato hanno spesso fino a 40-60 metri quadrati. Uno spazio così piccolo crea la necessità di progettare una combinazione di soggiorno e sala da pranzo. Molto spesso si aggiunge anche una cucina in un piano aperto. Uno spazio di questo tipo di solito contiene circa 20 metri quadrati, che devono essere attentamente progettati in modo che l'interno mantenga la sua armonia, mentre ogni area è funzionalmente divisa.
 
 {:.distinction.distinction-information}
-A good method for dividing a kitchen from the living room is creating a dining area in between. It's a simple solution that always works.
+Un buon metodo per dividere la cucina dal soggiorno è quello di creare una zona pranzo nel mezzo. È una soluzione semplice che funziona sempre.
 
 {% fig %}
 ![Small interiors open living room ideas](/uploads/salon-z-jadalnia-nowoczesny 3-1.jpg "Small interiors open living room ideas")
@@ -103,14 +103,14 @@ A good method for dividing a kitchen from the living room is creating a dining a
 ![Small interiors open living room ideas](/uploads/salon-z-jadalnia-minimalistyczny (3).jpg "Small interiors open living room ideas")
 {% endfig %}
 
-## Modern open floor plan – a practical interior design
+## Moderna pianta aperta - un pratico design d'interni
 
-A modern living room stands for a **practical minimalism**. Such interior does not contain any unnecessary objects, which makes it more functional.
+Un soggiorno moderno è sinonimo di un pratico minimalismo. Tale interno non contiene oggetti superflui, il che lo rende più funzionale.
 
-If the room contains any niches, it is good to take them into consideration when reviewing your living room arrangement ideas. You might, for instance, easily fit a table or a sofa in it.
+Se la stanza contiene delle nicchie, è bene tenerne conto al momento di rivedere le proprie idee per la disposizione del soggiorno. Si potrebbe, ad esempio, inserire facilmente un tavolo o un divano.
 
 {:.distinction.distinction-information}
-Remember that minimalist interiors use bright colors. Pastels, greys and whites are great for this style. They can make your living and dining room combo look spacious and bright. Additional advantage is that you might use various accessories to easily change the character of the room at any moment.
+Ricordate che gli interni minimalisti utilizzano colori brillanti. I pastelli, i grigi e i bianchi sono ottimi per questo stile. Possono rendere il vostro soggiorno e la sala da pranzo combo aspetto spazioso e luminoso. Un ulteriore vantaggio è che si possono utilizzare vari accessori per cambiare facilmente il carattere della stanza in qualsiasi momento.
 
 {% fig %}
 ![Modern open floor plan - a practical interior design](/uploads/salon-z-jadalnia-nowoczesny.jpg "Modern open floor plan - a practical interior design")
@@ -132,12 +132,12 @@ Remember that minimalist interiors use bright colors. Pastels, greys and whites 
 ![Modern open floor plan - a practical interior design](/uploads/32707286918_c2aec8ddf8_c.jpg "Modern open floor plan - a practical interior design")
 {% endfig %}
 
-## English style living room with dining area
+## Soggiorno in stile inglese con zona pranzo
 
-Are you looking for **elegant and unusual living room ideas**? Consider traditional English style. A living room in this style employs massive furniture combined with ornate decorations and fabrics.
+Siete alla ricerca di idee di soggiorno eleganti e insolite? Considerate lo stile tradizionale inglese. Un soggiorno in questo stile impiega mobili massicci combinati con decorazioni e tessuti decorati.
 
 {:.distinction.distinction-warning}
-A living room and dining room combo in this style is perfect for vast spaces, where large furniture doesn't overwhelm the interior. English style, however, is rather unsuitable for small homes.
+Un soggiorno e una sala da pranzo combinati in questo stile sono perfetti per spazi ampi, dove i grandi mobili non travolgono gli interni. Lo stile inglese, invece, è piuttosto inadatto alle piccole case.
 
 {% fig %}
 ![English style living room with dining area](/uploads/salon-z-jadalnia-styl angielski.jpg "English style living room with dining area")
@@ -151,11 +151,11 @@ A living room and dining room combo in this style is perfect for vast spaces, wh
 ![English style living room with dining area](/uploads/salon-z-jadalnia-styl-angielski-1.jpg "English style living room with dining area")
 {% endfig %}
 
-## Dining room ideas – return of vintage and retro styles
+## Idee per la sala da pranzo - ritorno di stili vintage e retrò
 
-Vintage style is making a comeback in the recent years. Retro interiors are always charming and also might be quite surprising. If you dream of an open living room in such style, think about **matching some contrasts**. Unusual living room ideas might make them very attractive and unique.
+Lo stile vintage sta tornando di moda negli ultimi anni. Gli interni retrò sono sempre affascinanti e potrebbero anche essere abbastanza sorprendenti. Se sognate un salotto aperto con questo stile, pensate di abbinare qualche contrasto. Le insolite idee di soggiorno potrebbero renderli molto attraenti e unici.
 
-**Retro style employs highly saturated colors** – so do not be afraid of them. Red, strong pink, dark blue and bottle green – pick a color that you like the most and create a unique living room with dining area.
+Lo stile retrò impiega colori molto saturi - quindi non abbiate paura di loro. Rosso, rosa forte, blu scuro e verde bottiglia - scegliete un colore che vi piace di più e create un soggiorno unico con zona pranzo.
 
 {% fig %}
 ![Dining room ideas – return of vintage and retro styles](/uploads/salon-z-jadalnia-vintage retro.jpg "Dining room ideas – return of vintage and retro styles")
@@ -165,25 +165,25 @@ Vintage style is making a comeback in the recent years. Retro interiors are alwa
 ![Dining room ideas – return of vintage and retro styles](/uploads/salon-z-jadalnia-vintage-retro-1.jpg "Dining room ideas – return of vintage and retro styles")
 {% endfig %}
 
-**A living room with dining area is a place in which one spends a lot of time** – in the morning before work drinking coffee or in the afternoon, getting relaxed after a long day. Regardless of the style you choose – **create an arrangement that will make you feel good.**
+Un soggiorno con zona pranzo è un luogo in cui si passa molto tempo - la mattina prima di andare al lavoro a bere un caffè o nel pomeriggio, per rilassarsi dopo una lunga giornata. Indipendentemente dallo stile che si sceglie - creare una sistemazione che vi farà sentire bene.
 
 {% faqItem %}
 {% faqQuestion %}
-How to furnish a large living room and dining room combo?
+Come arredare un grande soggiorno e la sala da pranzo combinati?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-There are many ways in which you might furnish a big living room. You can choose a medium table of any shape, as well as make a separate resting area. If you want the space to look even bigger, try placing the table by the window or the balcony.
+Ci sono molti modi per arredare un grande soggiorno. Si può scegliere un tavolo medio di qualsiasi forma, oltre a creare un'area di riposo separata. Se volete che lo spazio sia ancora più grande, provate a posizionare il tavolo vicino alla finestra o al balcone.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-What are the best small open living room ideas?
+Quali sono le migliori idee per un piccolo soggiorno aperto?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Try combining the kitchen island with a dining table. You might also choose a table fit to the wall by one side, which spares a lot of space so you can put a bigger sofa in the room.
+Provate a combinare l'isola della cucina con un tavolo da pranzo. Potreste anche scegliere un tavolo che si adatta alla parete da un lato, che risparmia molto spazio, in modo da poter mettere un divano più grande nella stanza.
 {% endfaqAnswer %}
 
 {% endfaqItem %}
