@@ -2,17 +2,17 @@
 layout: post
 date: 2020-07-21
 toc: true
-title: ¿Es una silla colgante una buena idea? Tipos de sillas colgantes
-description: Hanging chair is a popular piece of furniture. It fits almost any interior
-  design. This comfortable element is appreciated both by children and adults.
+title: "¿Es una silla colgante una buena idea? Tipos de sillas colgantes"
+description: La silla colgante es un mueble popular. Se ajusta a casi cualquier diseño
+  interior. Este cómodo elemento es apreciado tanto por niños como por adultos.
 image: "/uploads/fotel-wiszacy.jpg"
 promoted: false
 update_date: 2020-07-21
-intro: Hanging chair is a comfortable piece of furniture that can be found in many
-  apartments. It is mostly associated with a teenager’s or children’s room, however
-  it is also appreciated among adults. It’s not surprising - rocking movement can
-  quickly relax the whole body. Hanging chair is also a highly aesthetic element.
-  Is it suitable for every type of interior design?
+intro: La silla colgante es un cómodo mueble que se puede encontrar en muchos apartamentos.
+  Se asocia mayormente a la habitación de un adolescente o de un niño, sin embargo
+  también es apreciada entre los adultos. No es sorprendente - el movimiento de balanceo
+  puede relajar rápidamente todo el cuerpo. La silla colgante es también un elemento
+  altamente estético. ¿Es adecuada para todo tipo de diseño interior?
 main_keywords:
 - silla colgante
 - silla de huevo colgante
@@ -22,110 +22,109 @@ main_keywords:
 - cómo hacer una silla colgante
 - cómo colgar una silla colgante
 - cómo instalar una silla colgante
-published: false
 
 ---
-## Hanging chair - comfort in your home
+## Silla colgante - comodidad en su casa
 
-First hanging chairs were constructed in the 60s. The most popular model from that period is the famous **Bubble Chair**, designed in 1968 by a Finnish creator. The seat is perfectly round and made of transparent material. The chair is hung from the ceiling on a metal chain, so that it resembles a floating bubble.
+Las primeras sillas colgantes se construyeron en los años 60. El modelo más popular de ese período es la famosa Silla Burbuja, diseñada en 1968 por un creador finlandés. El asiento es perfectamente redondo y está hecho de material transparente. La silla se cuelga del techo con una cadena de metal, de modo que se asemeja a una burbuja flotante.
 
-Hanging chairs are more popular than ever, with a lot of different shapes and materials. They have many advantages. **Gentle rocking** is a great way to relax. It scientifically proven that rocking motion relaxes muscles, helps to fall asleep and stimulates deep sleep. Hanging chairs are very comfortable and they are equipped with soft cushions and mattresses. An evening spent in such a chair with a book or a cup of tea is an ideal way to relax after a long, stressful day.
+Las sillas colgantes son más populares que nunca, con muchas formas y materiales diferentes. Tienen muchas ventajas. El balanceo suave es una gran manera de relajarse. Está científicamente probado que el movimiento de balanceo relaja los músculos, ayuda a conciliar el sueño y estimula el sueño profundo. Las sillas colgantes son muy cómodas y están equipadas con suaves cojines y colchones. Pasar una noche en una de estas sillas con un libro o una taza de té es una forma ideal de relajarse después de un largo y estresante día.
 
-Hanging chair is a perfect decoration element for any type of interior design. This type of furniture can be characterised by a wide variety of shapes. Colour and material can be suited to an interior design - the choice is wide. A hanging chair is a perfect element for rooms in scandinavian and minimalist style.
+La silla colgante es un elemento de decoración perfecto para cualquier tipo de diseño interior. Este tipo de mobiliario puede caracterizarse por una gran variedad de formas. El color y el material pueden adaptarse a un diseño interior - la elección es amplia. Una silla colgante es un elemento perfecto para habitaciones de estilo escandinavo y minimalista.
 
-## What is the best hanging chair?
+## ¿Cuál es la mejor silla colgante?
 
-There are many types of **hanging chairs**. Designers constantly create new forms. As a result one can fit the hanging chair style to the interior design at their place. You can choose from simple and minimalistic, as well as ornamental and decorative shapes.
+Hay muchos tipos de sillas colgantes. Los diseñadores crean constantemente nuevas formas. Como resultado uno puede ajustar el estilo de la silla colgante al diseño interior de su casa. Se puede elegir entre formas simples y minimalistas, así como ornamentales y decorativas.
 
-### Choosing a hanging chair - types
+### Elección de una silla colgante - tipos
 
-The main difference between furniture of this type is in appearance and construction. Not every hanging chair is suitable for every room. When choosing the right object, consider your own needs and the purpose of the chair. Most furniture shops offer products such as:
+La principal diferencia entre los muebles de este tipo está en la apariencia y la construcción. No todas las sillas colgantes son adecuadas para todas las habitaciones. Al elegir el objeto correcto, considere sus propias necesidades y el propósito de la silla. La mayoría de las tiendas de muebles ofrecen productos como:
 
 {:.list.list-positive}
 
-* **Ceiling hanging chair** - it is the most appealing type. The seat hangs on a rope attached to a hook fixed to a ceiling. This type allows full range of movement for a user. There are wider and narrower models, you can choose the one that fits your particular needs.
-* **Hanging chair with stand** - this type is more mobile. The seat hangs from a stand placed on the floor. It is much smaller than the version attached to a ceiling. It is a big advantage in places of limited space. A hanging chair of this type offers a smaller range of movement. The mobility allows to put it on a balcony or in summer - on a patio.
-* **Brazilian hammock chair** - it’s a type of hammock. Its advantage is the fact that it perfectly fits any body shape. It is also much cheaper than the previous models. The hanging chair of this type might be removed if needed. It can be easily stored in a wardrobe, not taking too much space.
+* Silla colgante de techo - es el tipo más atractivo. El asiento cuelga de una cuerda atada a un gancho fijado al techo. Este tipo permite un rango completo de movimiento para el usuario. Hay modelos más anchos y más estrechos, puedes elegir el que se ajuste a tus necesidades particulares.
+* Silla colgante con soporte - este tipo es más móvil. El asiento cuelga de un soporte colocado en el suelo. Es mucho más pequeña que la versión que se fija al techo. Es una gran ventaja en lugares de espacio limitado. Una silla colgante de este tipo ofrece un menor rango de movimiento. La movilidad permite ponerla en un balcón o en verano - en un patio.
+* La silla hamaca brasileña - es un tipo de hamaca. Su ventaja es el hecho de que se ajusta perfectamente a cualquier forma corporal. También es mucho más barata que los modelos anteriores. La silla colgante de este tipo puede ser removida si es necesario. Se puede guardar fácilmente en un armario, sin ocupar mucho espacio.
 
 {:.distinction.distinction-information}
-If you decided to buy a hanging chair, pay attention to its shape. There are many designs available. Some are completely round, similar to the Bubble Chair. The most commonly chosen type is hanging egg chair with elongated back rest. There are also two-person versions, with wide seats. Make sure consider the amount of space you can dedicate for this piece of furniture.
+Si deciden comprar una silla colgante, presten atención a su forma. Hay muchos diseños disponibles. Algunos son completamente redondos, similares a la silla Bubble. El tipo más comúnmente elegido es la silla huevo colgante con respaldo alargado. También hay versiones para dos personas, con asientos anchos. Asegúrate de considerar la cantidad de espacio que puedes dedicar a este mueble.
 
 {% fig %}
 ![Choosing a hanging chair - types](/uploads/fotel-wiszacy-do-pokoju.jpg "Choosing a hanging chair - types")
 {% endfig %}
 
-### Hanging chair materials
+### Los materiales de la silla colgante
 
-The shape is not the only criterion that you should pay attention to. A **hanging chair** might be made of various materials. The original Bubble Chair is made of acrylic, stainless steel frame and leather cushion. The most commonly used materials are:
+La forma no es el único criterio al que se debe prestar atención. Una silla colgante puede estar hecha de varios materiales. La silla original Bubble está hecha de acrílico, marco de acero inoxidable y cojín de cuero. Los materiales más utilizados son:
 
 {:.list.list-positive}
 
-* **Rattan** - rattan constructions are very decorative. It’s a **durable and eco-friendly** material, although it is not resistant to water. For this reason weaved furniture should not be placed outside. You can coat the pieces with varnish.
-* **Technorattan** - a technorattan hanging chair is as decorative as natural rattan furniture. Its main advantage is **durability and resistance** to weather conditions.
-* **Wood** - material of this type is heavier than the others. It is perfect for those who value natural materials.
-* **Plastic** - plastic hanging chairs have the widest variety of designs. Plastic is lightweight and **relatively durable**. One should be careful not to scratch it, as any mark is very noticeable and hard to remove. Hanging chair made of plastic is easy to clean.
-* **Fabric** - fabric is most commonly used for hammocks production. They are **lightweight, breathable** and easy to fold. The most popular fabrics are cotton and linen. There is also a similar solution - a hanging chair made of twine.
-* **Metal** - a metal hanging chair i made of a durable net. The most common metal used for this purpose is aluminium.
+* Ratán - las construcciones de ratán son muy decorativas. Es un material duradero y ecológico, aunque no es resistente al agua. Por esta razón los muebles tejidos no deben ser colocados en el exterior. Se pueden recubrir las piezas con barniz.
+* Technorattan - una silla colgante de technorattan es tan decorativa como los muebles de ratán natural. Su principal ventaja es la durabilidad y la resistencia a las condiciones climáticas.
+* Madera - el material de este tipo es más pesado que los otros. Es perfecto para aquellos que valoran los materiales naturales.
+* Plástico - las sillas colgantes de plástico tienen la más amplia variedad de diseños. El plástico es ligero y relativamente duradero. Hay que tener cuidado de no rayarlo, ya que cualquier marca es muy notoria y difícil de eliminar. La silla colgante de plástico es fácil de limpiar.
+* La tela - la tela se usa más comúnmente para la producción de hamacas. Son ligeras, transpirables y fáciles de doblar. Las telas más populares son el algodón y el lino. También hay una solución similar - una silla colgante hecha de hilo.
+* Metal - una silla colgante de metal hecha de una red duradera. El metal más comúnmente usado para este propósito es el aluminio.
 
-The choice of material depends on the purpose of your hanging chair. If you are going to place the object outside, choose a material that is resistant to weather conditions. You should also consider the general design of your room. The popular scandinavian style uses wood, fabric and **weaved hanging chairs**. Natural rattan chairs are good elements for rustic style. Contemporary and minimalist style can be perfectly complemented with plastic or metal hanging chair with a simple, geometric shape.
+La elección del material depende del propósito de su silla colgante. Si va a colocar el objeto en el exterior, elija un material que sea resistente a las condiciones climáticas. También debes considerar el diseño general de tu habitación. El popular estilo escandinavo utiliza madera, tela y sillas colgantes tejidas. Las sillas de ratán natural son buenos elementos para el estilo rústico. El estilo contemporáneo y minimalista puede complementarse perfectamente con una silla colgante de plástico o metal con una forma geométrica simple.
 
-## Where to place a hanging chair?
+## ¿Dónde colocar una silla colgante?
 
-If you decided to purchase a hanging chair, make sure that you have enough space in the house. If it’s a ceiling hanging chair, position it in a spacious room so that the **movements are not blocked**. The chair should be placed far from the windows and other objects. If it’s too close, there is a risk of breaking the window when swinging on the chair. You could also accidentally hit the sharp edges of furniture.
+Si decide comprar una silla colgante, asegúrese de tener suficiente espacio en la casa. Si es una silla colgante de techo, colóquela en una habitación espaciosa para que los movimientos no se bloqueen. La silla debe colocarse lejos de las ventanas y otros objetos. Si está demasiado cerca, existe el riesgo de que se rompa la ventana al balancearse sobre la silla. También podría golpear accidentalmente los bordes afilados de los muebles.
 
-A hanging chair with stand takes significantly less space. Because of its construction the movements are limited, therefore there is no risk of damaging the furniture. You can place it **closer to the walls** and furniture. A big advantage is the fact that it can be moved at any time.
+Una silla colgante con soporte ocupa mucho menos espacio. Debido a su construcción los movimientos son limitados, por lo tanto no hay riesgo de dañar los muebles. Puedes colocarla más cerca de las paredes y los muebles. Una gran ventaja es el hecho de que puede ser movida en cualquier momento.
 
 {:.distinction.distinction-warning}
-If you are planning to place a hanging chair in a children's room, pay special attention to safety. The best location for an object of this type is the middle of the room. Place the seat relatively low over the floor.
+Si planea colocar una silla colgante en la habitación de los niños, preste especial atención a la seguridad. La mejor ubicación para un objeto de este tipo es el centro de la habitación. Coloque el asiento relativamente bajo sobre el suelo.
 
 {% fig %}
 ![Where to place a hanging chair?](/uploads/gdzie-umiescic-fotel-wiszacy.jpg "Where to place a hanging chair?")
 {% endfig %}
 
-## How to attach a hanging chair?
+## ¿Cómo se sujeta una silla colgante?
 
-A hanging chair with stand does not to be installed in any special way - just put it wherever you want. If it’s a ceiling hanging chair, make sure to install it properly. It needs to be done carefully, otherwise the construction might collapse.
+Una silla colgante con soporte no debe ser instalada de ninguna manera especial - sólo ponla donde quieras. Si es una silla colgante de techo, asegúrese de instalarla correctamente. Debe hacerse con cuidado, de lo contrario la construcción podría colapsar.
 
 {:.distinction.distinction-warning}
-Be careful if your ceiling is very old or in poor condition. Before buying a hanging chair, **check the ceiling** to make sure that it can hold such weight. It is a good idea to ask a specialist to assess the situation. In some cases it might be safer to choose a hanging chair with stand.
+Tenga cuidado si su techo es muy viejo o está en malas condiciones. Antes de comprar una silla colgante, compruebe el techo para asegurarse de que puede soportar tal peso. Es una buena idea pedirle a un especialista que evalúe la situación. En algunos casos puede ser más seguro elegir una silla colgante con soporte.
 
-To attach the chair to the ceiling, you need to prepare a few accessories. Make sure you have chemical anchor, an eye screw or a wall plug and a snap ring. You will also need a drill, a hammer, an adjustable spanner and a screwdriver.
+Para fijar la silla al techo, debe preparar algunos accesorios. Asegúrese de tener un anclaje químico, un tornillo de ojo o un enchufe de pared y un anillo de retención. También necesitará un taladro, un martillo, una llave ajustable y un destornillador.
 
-After figuring out where you want the chair to be placed, use a pencil to mark the spot for drilling. The hole should be drilled **at an angle of 30 degrees**. If you hit a reinforcing bar, move the spot by a couple of centimetres. Widen the drilled hole using a larger bit and vacuum it. Squeeze the chemical anchor into it and insert the eye screw or wall plug into it. Screw it tightly. The next step is hanging snap rings and chain.
+Después de averiguar dónde quieres que se coloque la silla, usa un lápiz para marcar el punto de perforación. El agujero debe ser perforado en un ángulo de 30 grados. Si golpea una barra de refuerzo, mueva el punto un par de centímetros. Ensancha el agujero perforado usando una broca más grande y aspíralo. Apriete el anclaje químico en él e inserte el tornillo de ojo o el tapón de pared en él. Atorníllelo bien. El siguiente paso es colgar los anillos y la cadena.
 
 {:.distinction.distinction-information}
-**You must test the durability of the construction.** To do it, take the chain in both of your hands and hang on it for a while, ideally with another person. The structure should hold weight of two people. After the test, tighten the plug. If everything is fine, you can install the seat.
+Debes probar la durabilidad de la construcción. Para hacerlo, tome la cadena en sus dos manos y cuélguela por un tiempo, idealmente con otra persona. La estructura debe soportar el peso de dos personas. Después de la prueba, apriete el tapón. Si todo está bien, puedes instalar el asiento.
 
-A hanging chair is a great addition to any house. It’s a modern interior design element which will impress your guests. There are many colours and designs to choose from. Such a piece of furniture placed in a bedroom or living room is a great way to relax. A hanging chair will surely fit any interior.
+Una silla colgante es una gran adición a cualquier casa. Es un elemento de diseño interior moderno que impresionará a sus invitados. Hay muchos colores y diseños para elegir. Un mueble así colocado en un dormitorio o en un salón es una gran manera de relajarse. Una silla colgante seguramente encajará en cualquier interior.
 
-## Langing chair - FAQ
+## Silla colgante - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-How to make a hanging chair?
+¿Cómo hacer una silla colgante?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Brazilian hammock chair is a relatively easy hanging chair to make. All you need is a sturdy piece of cloth, strong rope, a broomstick and hanging elements. Attach the rope to the cloth and to the stick, and then to the chain and hook. You can find a detailed tutorial on the Internet.
+La silla hamaca brasileña es una silla colgante relativamente fácil de hacer. Todo lo que necesitas es un pedazo de tela resistente, una cuerda fuerte, un palo de escoba y elementos para colgar. Ata la cuerda a la tela y al palo, y luego a la cadena y al gancho. Puedes encontrar un tutorial detallado en Internet.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to hang a hanging chair?
+¿Cómo se cuelga una silla colgante?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-If you want to attach a hanging chair to the ceiling, test the ceiling first. If it is safe, drill a hole in a desired place and use chemical anchor to attach an eye screw or wall plug to the ceiling. Attach the rest of the elements and test the construction - if it can hold two people, attach the hanging chair.
+Si quieres fijar una silla colgante al techo, prueba primero el techo. Si es seguro, taladre un agujero en el lugar deseado y utilice un anclaje químico para fijar un tornillo de ojo o un enchufe de pared al techo. Coloque el resto de los elementos y pruebe la construcción. Si tiene capacidad para dos personas, coloque la silla colgante.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to install a hanging chair?
+¿Cómo se instala una silla colgante?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-There are two ways to install a hanging chair, depending on its type. The first one requires minimal effort - the chair just needs to be hung on its stand. The other type needs to be hung from the ceiling.
+Hay dos maneras de instalar una silla colgante, dependiendo de su tipo. La primera requiere un esfuerzo mínimo, la silla sólo necesita ser colgada en su soporte. El otro tipo necesita ser colgada del techo.
 {% endfaqAnswer %}
 {% endfaqItem %}
