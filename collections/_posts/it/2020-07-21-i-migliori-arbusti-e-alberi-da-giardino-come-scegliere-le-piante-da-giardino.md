@@ -15,22 +15,21 @@ toc: true
 promoted: false
 update_date: 2020-07-21
 title: I migliori arbusti e alberi da giardino. Come scegliere le piante da giardino?
-description: "A good garden design requires beautiful plants. \U0001F331 Wondering
-  what garden plants you should choose? Check popular garden shrubs and miniature
-  trees!"
-intro: Planning to plant some new trees and shrubs? Remember that a good garden design
-  is not everything - it also requires a lot of work and commitment. Healthy garden
-  plants can grow only in good conditions. If well-tended, both shrubs and small trees
-  can become beautiful, natural decorations. Learn what garden plants you should add
-  to your green collection!
+description: "Un buon design del giardino richiede piante belle. \U0001F331 Vi chiedete
+  quali piante da giardino dovreste scegliere? Controllate i popolari arbusti da giardino
+  e gli alberi in miniatura!"
+intro: Stai pensando di piantare nuovi alberi e nuovi arbusti? Ricordate che un buon
+  progetto di giardino non è tutto - richiede anche molto lavoro e impegno. Le piante
+  da giardino sane possono crescere solo in buone condizioni. Se ben curati, sia gli
+  arbusti che i piccoli alberi possono diventare belle decorazioni naturali. Imparate
+  quali piante da giardino dovreste aggiungere alla vostra collezione verde!
 image: "/uploads/drzewa-do-ogrodu-2.jpg"
 related_products: []
-published: false
 
 ---
-## The most popular garden shrubs and bushes
+## Gli arbusti e i cespugli da giardino più popolari
 
-Garden shrubs can make every plot of land more beautiful. Many homeowners wonder **what garden plants to choose**. The most popular ornamental garden shrubs have amazing colors - for example forsythias, hydrangeas and rhododendrons.
+Gli arbusti da giardino possono rendere più bello ogni appezzamento di terreno. Molti proprietari di casa si chiedono quali piante da giardino scegliere. Gli arbusti da giardino ornamentali più popolari hanno colori sorprendenti - per esempio forsythias, ortensie e rododendri.
 
 {% fig %}
 
@@ -38,9 +37,9 @@ Garden shrubs can make every plot of land more beautiful. Many homeowners wonder
 
 {% endfig %}
 
-You might also decide to plant leafy ornamental shrubs in your garden. The most common type is boxwood, shiny cotoneaster and Atlantic ninebark.
+Potreste anche decidere di piantare arbusti ornamentali a foglia nel vostro giardino. Il tipo più comune è il bosso, il cotoneaster lucido e il ninebark atlantico.
 
-Remember that garden shrubs require different care and conditions. It's important to pay attention to the type of soil, fertilizing and the amount of light that gets to the spot in which your garden shrub grows.
+Ricordate che gli arbusti da giardino richiedono cure e condizioni diverse. E 'importante prestare attenzione al tipo di terreno, la concimazione e la quantità di luce che arriva al punto in cui il vostro arbusto da giardino cresce.
 
 {% fig %}
 
@@ -48,9 +47,9 @@ Remember that garden shrubs require different care and conditions. It's importan
 
 {% endfig %}
 
-## Garden shrubs and trees - how to take care of them?
+## Arbusti e alberi da giardino - come prendersi cura di loro?
 
-Good conditions and **proper care** are crucial for garden plants to grow well and healthy. Each species is a different case. Every plant requires **individual** **treatment,** adequate to its needs. To make sure that you take a good care of your garden shrubs and trees, first you should learn their features and needs, e.g. by reading websites maintained by plant nurseries.
+Buone condizioni e una cura adeguata sono fondamentali per far crescere bene e in salute le piante da giardino. Ogni specie è un caso diverso. Ogni pianta richiede un trattamento individuale, adeguato alle sue esigenze. Per essere sicuri che vi prendiate cura dei vostri arbusti e alberi da giardino, prima di tutto dovreste imparare le loro caratteristiche e le loro esigenze, ad esempio leggendo i siti web gestiti dai vivai.
 
 {% fig %}
 
@@ -58,54 +57,54 @@ Good conditions and **proper care** are crucial for garden plants to grow well a
 
 {% endfig %}
 
-**Are there any general tips on how to take care of garden shrubs and trees? What factors influence their proper growth?**
+Ci sono consigli generali su come prendersi cura di arbusti e alberi da giardino? Quali fattori influenzano la loro corretta crescita?
 
-Most species of shrubs and trees require unlimited access to light. No plant can survive without a proper dose of sunlight. For this reason you should make sure that you have selected the right spot for your **garden trees and shrubs**, so that they get as much light as they need.
+La maggior parte delle specie di arbusti e alberi richiede un accesso illimitato alla luce. Nessuna pianta può sopravvivere senza una dose adeguata di luce solare. Per questo motivo dovreste assicurarvi di aver selezionato il punto giusto per i vostri alberi e arbusti da giardino, in modo che ricevano tutta la luce di cui hanno bisogno.
 
 {:.distinction.distinction-warning}
-Do not overdo the light exposure - too much sun is as harmful for garden plants as the lack of it.
+Non esagerare con l'esposizione alla luce - troppo sole è dannoso per le piante da giardino quanto la sua mancanza.
 
-### What soil is best for garden plants?
+### Qual è il terreno migliore per le piante da giardino?
 
-Soil is a highly important factor that influences the growth of any garden plant. Most leafy shrubs and trees have similar soil needs. Regardless, there are certain species that require specific type of soil. For this reason, before you choose particular garden plants, make sure the soil in your garden aids their growth and blooming.
+Il suolo è un fattore molto importante che influenza la crescita di qualsiasi pianta da giardino. La maggior parte degli arbusti e degli alberi a foglia hanno esigenze di suolo simili. Indipendentemente da ciò, ci sono alcune specie che richiedono un tipo di suolo specifico. Per questo motivo, prima di scegliere particolari piante da giardino, assicuratevi che il terreno del vostro giardino aiuti la loro crescita e la loro fioritura.
 
-### How to take care of garden shrubs?
+### Come prendersi cura degli arbusti da giardino?
 
-If you have already chosen and planted garden plants in the right spot, you should take a proper care of them. It is crucial - without the right amount of attention garden shrubs and trees cannot survive.
+Se avete già scelto e piantato le piante da giardino nel posto giusto, dovreste prendervi cura di loro. È fondamentale - senza la giusta quantità di attenzione gli arbusti da giardino e gli alberi non possono sopravvivere.
 
-Crucial steps of taking care of garden plants:
+Passi cruciali per la cura delle piante da giardino:
 
 {:.list.list-positive}
 
-* regular watering,
-* fertilizing,
-* shrubs and trees trimming,
-* protection against pests and diseases,
-* protection against frost.
+* innaffiatura regolare,
+* fertilizzazione,
+* cespugli e alberi da taglio,
+* protezione contro parassiti e malattie,
+* protezione dal gelo.
 
 {% fig %}
 ![How to take care of garden shrubs?](/uploads/drzewa-ogrodowe-jak-o-nie-dbac.jpg "How to take care of garden shrubs?")
 {% endfig %}
 
-## Seasonal garden plants
+## Piante da giardino stagionali
 
-There are many ways to classify garden plants, trees and shrubs. One of them is seasonality - **division with regards to the blooming season.** It is a very important information, as it allows to arrange garden to one's liking. This way you can choose plants that bloom whole year or plan the garden by the season.
+Ci sono molti modi per classificare piante da giardino, alberi e arbusti. Uno di questi è la stagionalità - la divisione per quanto riguarda la stagione della fioritura. È un'informazione molto importante, perché permette di organizzare il giardino a proprio piacimento. In questo modo è possibile scegliere piante che fioriscono tutto l'anno o pianificare il giardino in base alla stagione.
 
-### Spring and summer garden shrubs
+### Cespugli da giardino primaverili ed estivi
 
-Most decorative trees and shrubs, or rather nearly all of them, bloom in spring and early summer. Hence, it's the best time to plant new garden plants. **Spring is a unique season for gardens**, when flowers and garden shrubs wake up, gain beautiful colours and grow first buds. No matter what plants you are going to choose, you can be sure that your garden is going to look great in spring.
+La maggior parte degli alberi e degli arbusti decorativi, o meglio quasi tutti, fioriscono in primavera e all'inizio dell'estate. Quindi, è il momento migliore per piantare nuove piante da giardino. La primavera è una stagione unica per i giardini, quando i fiori e gli arbusti da giardino si svegliano, acquistano bei colori e fanno crescere i primi germogli. Non importa quali piante sceglierete, potete essere sicuri che il vostro giardino sarà bellissimo in primavera.
 
 {% fig %}
 ![Spring and summer garden shrubs](/uploads/drzewo-kwiatowe.jpg "Spring and summer garden shrubs")
 {% endfig %}
 
-**There are also some garden plants that bloom in the middle of summer.** They are, for instance, hydrangea, rose of Sharon or summer lilac. Plants that bloom in summer are precious for a garden, as they are an accent of freshness, standing in opposition to spring plants that do not look that well anymore. Regarding seasonal garden plants, spring shrubs might become a nice background for flowers that bloom in summer.
+Ci sono anche alcune piante da giardino che fioriscono in piena estate. Sono, per esempio, ortensie, rose di Sharon o lillà estivi. Le piante che fioriscono in estate sono preziose per un giardino, in quanto sono un accento di freschezza, in opposizione alle piante primaverili che non sembrano più così belle. Per quanto riguarda le piante da giardino stagionali, gli arbusti primaverili potrebbero diventare un piacevole sfondo per i fiori che sbocciano in estate.
 
-### Garden plants for Indian summer
+### Piante da giardino per l'estate indiana
 
-While selecting garden shrubs and trees for your garden, do not rely solely on the species that **look great in spring and summer**. It is good to pick several garden plants, shrubs and trees that bloom in autumn. This way your garden is going to look lovely all year long.
+Nella scelta degli arbusti e degli alberi da giardino per il vostro giardino, non affidatevi solo alle specie che hanno un bell'aspetto in primavera e in estate. E 'bene scegliere diverse piante da giardino, arbusti e alberi che fioriscono in autunno. In questo modo il vostro giardino sarà bello tutto l'anno.
 
-There are many species that bloom in autumn. You can choose, for instance, **azalea, maple, viburnum, birch or maidenhair tree.** Those and other autumn plants might form unique arrangements, especially combined with autumn plants such as **chrysantemum, aster, autumn crocus or japanese anemones.** Among seasonal garden plants you might also find some shrubs. Their fruits might be a colourful garden decoration when the trees lose all of their leaves. You might choose, for instance, quince, sea bukthorn, spindle tree, barberry or even a simple apple tree.
+Ci sono molte specie che fioriscono in autunno. Potete scegliere, per esempio, azalea, acero, viburno, betulla o capelvenere. Queste e altre piante autunnali possono formare composizioni uniche, soprattutto in combinazione con piante autunnali come il crisantemo, l'aster, il croco autunnale o gli anemoni giapponesi. Tra le piante da giardino stagionali si possono trovare anche alcuni arbusti. I loro frutti potrebbero essere una colorata decorazione da giardino quando gli alberi perdono tutte le loro foglie. Si può scegliere, ad esempio, la mela cotogna, il biancospino marino, il fuso, il crespino o anche un semplice melo.
 
 {% fig %}
 
@@ -126,20 +125,20 @@ There are many species that bloom in autumn. You can choose, for instance, **aza
 {% endfig %}
 
 {:.distinction.distinction-information}
-It is important to pay attention to the leaves and habit when choosing a garden plant. Too many shrubs with colourful, yellow, red or orange leaves might overwhelm your garden and give it a chaotic look.
+È importante prestare attenzione alle foglie e all'abitudine quando si sceglie una pianta da giardino. Troppi arbusti con foglie colorate, gialle, rosse o arancioni potrebbero sopraffare il vostro giardino e dargli un aspetto caotico.
 
 {% fig %}
 ![Garden plants for Indian summer](/uploads/barberry-2980763_1280.jpg "Garden plants for Indian summer")
 {% endfig %}
 
-### Interesting garden plants for winter
+### Interessanti piante da giardino per l'inverno
 
-Some gardeners might wonder: **how to make my garden look beautiful and lively during the season in which most of the plants are simply asleep?** Winter is a difficult season to maintain an elegant garden. Don't worry - it is not impossible. Garden shrubs of unique shapes and habits can be an easy substitute for colourful flowers.
+Alcuni giardinieri potrebbero chiedersi: come rendere il mio giardino bello e vivace durante la stagione in cui la maggior parte delle piante sono semplicemente addormentate? L'inverno è una stagione difficile per mantenere un giardino elegante. Non preoccupatevi, non è impossibile. Gli arbusti da giardino di forme e abitudini uniche possono essere un facile sostituto per i fiori colorati.
 
-An example of such plant is **hazel** with its charasteristic, twisted branches.
+Un esempio di tale pianta è il nocciolo con i suoi rami carasteristici e contorti.
 
 {:.distinction.distinction-information}
-Other interesting plants for a winter garden are: japanese marigold, white dogwood, birch tree.
+Altre piante interessanti per un giardino d'inverno sono: calendula giapponese, corniolo bianco, betulla.
 
 {% fig %}
 
@@ -147,19 +146,19 @@ Other interesting plants for a winter garden are: japanese marigold, white dogwo
 
 {% endfig %}
 
-## Perennial garden shrubs - keep your garden beautiful for years
+## Arbusti da giardino perenne - mantenere il vostro giardino bello per anni
 
-Garden shops offer a **wide variety of perennial garden plants**. Contrary to seasonal and annual plants, perennial shrubs and small trees can grow in a garden for a long time. Before choosing this type of garden plants you should think what kind of garden design you desire. Perhaps you dream of small flowering trees or maybe you wish to plant some decorative garden shrubs.
+I negozi di giardinaggio offrono una grande varietà di piante da giardino perenni. Contrariamente alle piante stagionali e annuali, arbusti perenni e piccoli alberi possono crescere a lungo in un giardino. Prima di scegliere questo tipo di piante da giardino si dovrebbe pensare a quale tipo di giardino si desidera. Forse si sogna di piccoli alberi da fiore o forse si desidera piantare alcuni arbusti da giardino decorativi.
 
-### Blooming perennial garden shrubs
+### Arbusti da giardino perenne in fiore
 
-The most popular garden plants that bloom every year, producing beautiful flowers are: **roses, lilacs and forsythias.** Choosing those three species is a guarantee of a magnificent, fragrant and colourful garden for a long time.
+Le piante da giardino più popolari che fioriscono ogni anno, producendo fiori bellissimi sono: rose, lillà e forsythias. La scelta di queste tre specie è garanzia di un giardino magnifico, profumato e colorato per molto tempo.
 
 {% fig %}
 ![Blooming perennial garden shrubs](/uploads/drzewa-ogrodowe-3.jpg "Blooming perennial garden shrubs")
 {% endfig %}
 
-There are also some less popular, but equally impressive **perennial garden shrubs with colourful flowers**. One of them is summer lilac, which can grow up to 3 metres. It has very interesting flowers of various colours, depending on the type. You might choose from red, violet, pink, white and blue. Summer lilacs release a pleasant scent.
+Ci sono anche alcuni arbusti da giardino perenni meno popolari, ma altrettanto impressionanti, con fiori colorati. Uno di questi è il lillà estivo, che può crescere fino a 3 metri. Ha fiori molto interessanti di vari colori, a seconda del tipo. Si può scegliere tra rosso, viola, rosa, bianco e blu. I lillà estivi sprigionano un piacevole profumo.
 
 {% fig %}
 
@@ -168,20 +167,20 @@ There are also some less popular, but equally impressive **perennial garden shru
 {% endfig %}
 
 {:.distinction.distinction-information}
-Another shrub of an intense smell that can lure flying insects to your garden is mock orange. It reaches up to 3 metres and has beautiful white flowers. Thanks to its frost resistance it blooms every year between spring and summer, pleasing eyes of the owners.
+Un altro arbusto dall'odore intenso che può attirare gli insetti volanti nel vostro giardino è l'arancia finta. Arriva fino a 3 metri e ha dei bellissimi fiori bianchi. Grazie alla sua resistenza al gelo fiorisce ogni anno tra la primavera e l'estate, con gli occhi gradevoli dei proprietari.
 
-Due to their resilience to frost, perennial garden shrubs are perfect for creating a hedge. A good species for this purpose is **guelder rose** which blooms in late spring with large round white flowers. Another great plant is golden chain with its long leaves and yellow flowers.
+Grazie alla loro resistenza al gelo, gli arbusti da giardino perenni sono perfetti per creare una siepe. Una buona specie per questo scopo è la rosa guelder, che fiorisce in tarda primavera con grandi fiori bianchi rotondi e rotondi. Un'altra grande pianta è la catena dorata con le sue lunghe foglie e fiori gialli.
 
-### Perennial short garden shrubs
+### Arbusti da giardino corti e perenni
 
-When choosing the right perennial garden shrubs, you should pay attention to their height. **Garden plants of various sizes** introduce variety both for leafy and blooming plants arrangements.
+Quando si scelgono gli arbusti da giardino perenni giusti, bisogna fare attenzione alla loro altezza. Piante da giardino di varie dimensioni introducono varietà sia per le piante a foglia che per quelle in fiore.
 
-If you are interested in **short perennial garden plants**, you might choose hydrangeas in form of small trees or shrubs, which are very easy to grow. Trimmed regularly, they might reach up to one metre. Because of this they can be a part of short garden arrangements. They are also great for stairs or patio decoration.
+Se siete interessati a brevi piante da giardino perenni, potreste scegliere ortensie in forma di piccoli alberi o arbusti, che sono molto facili da coltivare. Tagliate regolarmente, possono arrivare fino a un metro. Per questo motivo possono far parte delle piante da giardino corte. Sono anche ottime per la decorazione di scale o patio.
 
 {:.distinction.distinction-information}
-Their big round flowers have various colours. Depending on soil acidification they might be white, pink, purple or blue.
+I loro grandi fiori rotondi hanno vari colori. A seconda dell'acidificazione del suolo possono essere bianchi, rosa, viola o blu.
 
-Another, quite interesting option for a garden shrub is **deutzia**. It's a lush and thick shrub which can grow up to one metre tall. It has gorgeous, white flowers that bloom between spring and summer. Other, equally beautiful shrub is **ornamental quince (japonica).** Its flowers are white, red or pink-red, it also bears sweet yellow edible fruit. You might also consider choosing other ornamental garden plants, such as **rockspray cotoneaster** and **japanese meadowsweet**.
+Un'altra opzione molto interessante per un arbusto da giardino è la deutzia. È un arbusto lussureggiante e fitto che può crescere fino a un metro di altezza. Ha dei bellissimi fiori bianchi che sbocciano tra la primavera e l'estate. Un altro arbusto altrettanto bello è la mela cotogna ornamentale (japonica). I suoi fiori sono bianchi, rossi o rosa-rosso, e porta anche frutti commestibili di colore giallo dolce. Si potrebbe anche prendere in considerazione la scelta di altre piante ornamentali da giardino, come il cotoneaster rockspray e l'olmaria giapponese.
 
 {% fig %}
 
@@ -195,25 +194,25 @@ Another, quite interesting option for a garden shrub is **deutzia**. It's a lush
 
 {% endfig %}
 
-### Perennial ornamental fruit trees for garden
+### Alberi da frutto ornamentali perenni per il giardino
 
-Fruit trees constitute for a large group of ornamental plants. The most common species that are grown in European gardens are **elders** and **dog roses.** Other popular garden plants are bird cherry and cornelian cherry - a large, over 5 metres tall tree with shiny leaves and small, yellow flowers. **Once per year the tree bears red edible fruit.**
+Gli alberi da frutto costituiscono per un grande gruppo di piante ornamentali. Le specie più comuni che vengono coltivate nei giardini europei sono gli anziani e le rose canine. Altre piante da giardino popolari sono il ciliegio degli uccelli e il ciliegio corniolo - un grande albero alto oltre 5 metri con foglie lucide e piccoli fiori gialli. Una volta all'anno l'albero porta frutti rossi commestibili.
 
 {% fig %}
 ![Perennial ornamental fruit trees for garden](/uploads/drzewo-owocowe.jpg "Perennial ornamental fruit trees for garden")
 {% endfig %}
 
-If you are looking for ornamental garden trees, you might consider species such as: spindle, scarlet firethorn, yew or common holly. All of them bear fruit, although it is just a decorative element.
+Se siete alla ricerca di alberi da giardino ornamentali, potreste prendere in considerazione specie come: fusello, biancospino scarlatto, tasso o agrifoglio comune. Tutti questi alberi danno frutti, anche se si tratta solo di un elemento decorativo.
 
 {:.distinction.distinction-warning}
-You should refrain from planting ornamental fruit trees in your garden if it's a place where children and animals spend their time daily. Eating such fruits is harmful for health and might lead to poisoning.
+Dovreste astenervi dal piantare alberi da frutto ornamentali nel vostro giardino se è un luogo dove bambini e animali passano il loro tempo ogni giorno. Mangiare questi frutti è dannoso per la salute e potrebbe portare all'avvelenamento.
 
 {% faqItem %}
 {% faqQuestion %}
-What garden plants should I choose?
+Quali piante da giardino dovrei scegliere?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-You should decide what kind of result you wish to achieve. There are many species of garden plants to choose from - both seasonal and perennial. The most common blooming garden plants are roses and forsythias. Popular garden shrubs with fruit are holly, bird cherry and elder.
+Dovreste decidere che tipo di risultato volete ottenere. Ci sono molte specie di piante da giardino tra cui scegliere, sia stagionali che perenni. Le più comuni piante da giardino in fiore sono le rose e le forsythias. Arbusti da giardino popolari con frutta sono l'agrifoglio, l'uccello ciliegio e il sambuco.
 {% endfaqAnswer %}
 {% endfaqItem %}
