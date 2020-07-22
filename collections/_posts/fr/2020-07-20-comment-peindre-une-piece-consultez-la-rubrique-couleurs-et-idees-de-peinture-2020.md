@@ -15,137 +15,139 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-20
-title: Comment peindre une pièce ? Consultez la rubrique Couleurs et idées de peinture 2020
-description: "Planning a little makeover? \U0001F3A8 No idea how to paint the room?
-  \U0001F449 Check what colors are the best. Give your interior a new look with those
-  painting techniques!"
-intro: Are you planning a small makeover but you have no idea how to paint walls so
-  that the room looks stylish and trendy? Choosing the right color for a room is a
-  common problem that bothers many homeowners. To find paint in the right shade that
-  looks good and matches the rest of the house - that's a real challenge. Learn the
-  latest trends and create an interior that matches the top home decor designs.
+title: Comment peindre une pièce ? Consultez la rubrique Couleurs et idées de peinture
+  2020
+description: "Vous prévoyez un petit relooking ? \U0001F3A8 Aucune idée sur la façon
+  de peindre la pièce ? \U0001F449 Vérifiez quelles sont les meilleures couleurs.
+  Donnez un nouveau look à votre intérieur grâce à ces techniques de peinture !"
+intro: Vous prévoyez un petit relooking mais vous ne savez pas comment peindre les
+  murs pour que la pièce soit élégante et à la mode ? Choisir la bonne couleur pour
+  une pièce est un problème courant qui dérange de nombreux propriétaires. Trouver
+  une peinture de la bonne teinte qui soit belle et assortie au reste de la maison
+  est un véritable défi. Découvrez les dernières tendances et créez un intérieur qui
+  s'harmonise avec les meilleurs designs de décoration intérieure.
 image: "/uploads/jak-pomalowac-pokoj-najmodniejsze-kolory-do-pokoju-2020.jpg"
 related_products: []
-published: false
 
 ---
-## Before you start changing colors of the room
+## Avant de commencer à changer les couleurs de la pièce
 
-Even the most beautiful and stunning colors cannot look good without a **thorough preparation**. Neglecting that step might result in a sloppy look of the wall paint and, what's worse - the color won't stay for long. Having that in mind, before you decide to start painting a room, make sure to prepare the walls and the rest of the interior.
+Même les couleurs les plus belles et les plus étonnantes ne peuvent pas avoir bonne allure sans une préparation minutieuse. Négliger cette étape peut donner un aspect négligé à la peinture murale et, pire encore, la couleur ne restera pas longtemps. C'est pourquoi, avant de vous lancer dans la peinture d'une pièce, assurez-vous de préparer les murs et le reste de l'intérieur.
 
-**Wall painting is a specific type of activity that requres a lot of space.** In addition, paint dripping from a brush might damage your furniture or other objects that stand nearby. For this reason you should start wall painting from **removing everything from the room.** If you are not able to take everything out, take care of the remaining elements. Cover every surface, along with the floor, using plastic covers. This way the interior is protected against accidental paint splatters.
+La peinture murale est un type d'activité spécifique qui nécessite beaucoup d'espace. En outre, la peinture qui s'égoutte d'un pinceau peut endommager vos meubles ou d'autres objets qui se trouvent à proximité. C'est pourquoi vous devez commencer à peindre les murs en retirant tout ce qui se trouve dans la pièce. Si vous n'êtes pas en mesure de tout enlever, prenez soin des éléments restants. Couvrez toutes les surfaces, ainsi que le sol, à l'aide de bâches en plastique. De cette façon, l'intérieur est protégé contre les éclaboussures accidentelles de peinture.
 
 {:.distinction.distinction-information}
-To make wall painting easier, you may stick the cover to the surface using masking tape. This secures the sheet from moving around when you paint. You might also use the covers to determine where the color ends or to hide wall fragments that you are not going to paint.
+Pour faciliter la peinture murale, vous pouvez coller le couvercle sur la surface à l'aide de ruban adhésif. Cela permet d'empêcher la feuille de bouger lorsque vous peignez. Vous pouvez également utiliser les couvercles pour déterminer où la couleur s'arrête ou pour cacher des fragments de mur que vous n'allez pas peindre.
 
-### Preparing the wall for painting
+### Préparer le mur pour la peinture
 
-Preparing the walls is a crucial step in the process of painting a room. Without it, even the most brilliant wall colors cannot be aesthetic and lasting. To make sure that the surface is suitable for painting, tap at the walls you want to paint. If you hear a characteristic sound of a "hollow wall", it means that you probably should remove the old layer of plaster and apply a new one. This way you can be sure that the colors will stay for long.
+La préparation des murs est une étape cruciale dans le processus de peinture d'une pièce. Sans elle, même les couleurs les plus brillantes des murs ne peuvent être esthétiques et durables. Pour vous assurer que la surface est adaptée à la peinture, tapez sur les murs que vous voulez peindre. Si vous entendez un bruit caractéristique de "mur creux", cela signifie que vous devriez probablement enlever l'ancienne couche de plâtre et en appliquer une nouvelle. De cette façon, vous êtes sûr que les couleurs resteront longtemps.
 
-If your walls are covered with wallpaper, remove it as well. Otherwise the paper might soak during wall painting. As a resultit might roll and fold, which is very unaesthetic. **Even the most trendy wall paint cannot save the day in such a case.**
+Si vos murs sont recouverts de papier peint, enlevez-le également. Sinon, le papier risque de s'imbiber pendant la peinture murale. Il pourrait alors rouler et se plier, ce qui est très peu esthétique. Même la peinture murale la plus tendance ne peut pas sauver la situation dans un tel cas.
 
-How to paint a room that has been covered with a very opaque paint? Removing such a layer is not easy, however it is possible. **Regardless, the process requires a lot of dedication and patience.** Avoid forceful scraping, as it might damage the plaster. To make your task easier, use special paint removal products.
+Comment peindre une pièce qui a été recouverte d'une peinture très opaque ? Il n'est pas facile d'enlever une telle couche, mais c'est possible. Quoi qu'il en soit, le processus exige beaucoup de dévouement et de patience. Évitez de gratter avec force, car cela pourrait endommager le plâtre. Pour vous faciliter la tâche, utilisez des produits spéciaux pour enlever la peinture.
 
-## Wall paint color - ideas from home decor stores
+## La couleur des peintures murales - idées des magasins de décoration
 
-Every year paint manufacturers pick one shade and set it as **the most trending wall paint color.** If you're wondering what color to pick for your room so that it matches the latest trends, you should check catalogues prepared by paint manufacturers or decor stores.
+Chaque année, les fabricants de peinture choisissent une teinte et la fixent comme la couleur de peinture murale la plus tendance. Si vous vous demandez quelle couleur choisir pour votre pièce afin qu'elle corresponde aux dernières tendances, vous devriez consulter les catalogues préparés par les fabricants de peinture ou les magasins de décoration.
 
-Pantone Color Institute has already announced the color of the year 2020, choosing Classic Blue. This choice only confirms the long lasting trend on the market. This shade reflects feelings of peace, safety, stability and also wisdom. It's very universal - it brings feelings of calmness and inspiration. For this reason it works great as a wall paint in any type of room.
+Le Pantone Color Institute a déjà annoncé la couleur de l'année 2020, en choisissant le bleu classique. Ce choix ne fait que confirmer la tendance durable sur le marché. Cette teinte reflète des sentiments de paix, de sécurité, de stabilité et aussi de sagesse. Elle est très universelle - elle apporte des sentiments de calme et d'inspiration. C'est pourquoi elle convient parfaitement comme peinture murale dans tout type de pièce.
 
 {% fig %}
 ![Wall paint color - ideas from home decor stores](/uploads/kolory-scian-inspiracje-ze-sklepow-wnetrzarskich.jpg "Wall paint color - ideas from home decor stores")
 {% endfig %}
 
-Another popular color that is trending on the interior design market is bottle green. It has been announced the color of the year 2020 by British paint manufacturer Graham & Brown. **This shade has been called Adeline - in honour of Adeline Virginia Woolf, a modernist writer who was one of the members of Bloomsbury Group.** In accordance to the manufacturer, this deep shade of green refers to British gardens and should create an illusion of greenery growing in an interior.
+Le vert bouteille est une autre couleur populaire qui est en vogue sur le marché de la décoration intérieure. Il a été annoncé comme la couleur de l'année 2020 par le fabricant britannique de peinture Graham & Brown. Cette teinte a été baptisée Adeline - en l'honneur d'Adeline Virginia Woolf, écrivain moderniste qui était l'un des membres du Bloomsbury Group. Selon le fabricant, cette nuance de vert profond fait référence aux jardins britanniques et devrait créer une illusion de verdure poussant dans un intérieur.
 
-Other trendy colors of 2020:
+Autres couleurs tendance de 2020 :
 
 {:.list.list-positive}
-* Back to Nature (olive gren) - Behr Paint Company
-* Tranquil Dawn (mint grey) - Dulux
-* Lemonade (yellow-orange) Tikkurila Color Now 2020
-* Chinese Porcelain (dark blue) - PPG Paints
-* First Light (pastel pink) - Benjamin Moore
-* Earth colors: brown, beige, earthy reds
 
-## How to paint a living room so that it looks bigger?
+* Retour à la nature (grenat d'olive) - Behr Paint Company
+* Tranquil Dawn (gris menthe) - Dulux
+* Limonade (jaune-orange) Tikkurila Color Now 2020
+* Porcelaine chinoise (bleu foncé) - PPG Paints
+* First Light (rose pastel) - Benjamin Moore
+* Couleurs de la terre : brun, beige, rouge terreux
 
-Small interiors are usually charming and they can be very cozy. If you have a small living room, you need to be extra careful, as **small spaces, in contrast to large ones, are quite difficult to decorate.** You can, however, make the room look bigger by choosing the right color to paint your walls.
+## Comment peindre un salon pour qu'il paraisse plus grand ?
 
-The most effective method to paint walls of a small living room is choosing a uniform, bright shade. The most popular colors are beige, delicate grey, pastel pink or sky blue.
+Les petits intérieurs sont généralement charmants et ils peuvent être très confortables. Si vous avez une petite salle de séjour, vous devez être très prudent, car les petits espaces, contrairement aux grands, sont assez difficiles à décorer. Vous pouvez cependant faire paraître la pièce plus grande en choisissant la bonne couleur pour peindre vos murs.
+
+La méthode la plus efficace pour peindre les murs d'une petite salle de séjour est de choisir une teinte uniforme et lumineuse. Les couleurs les plus populaires sont le beige, le gris délicat, le rose pastel ou le bleu ciel.
 
 {:.distinction.distinction-warning}
-When choosing wall paint to your room, pay attention to the color temperature. It is particularly important in small interiors because warm shades bring the walls closer together, which makes the room look smaller.
+Lorsque vous choisissez la peinture murale de votre pièce, faites attention à la température de la couleur. Elle est particulièrement importante dans les petits intérieurs car les teintes chaudes rapprochent les murs, ce qui donne à la pièce l'air plus petit.
 
-No wall paint color can compete with **brilliant clear white**, which is definitely the most popular color of interior design in general. Perfect for small rooms, it is often used for minimalist interiors. Althought there are many shades of white available, the classic snow white is the most widely used. The second place belongs to **off-white.**
+Aucune couleur de peinture murale ne peut rivaliser avec le blanc clair brillant, qui est certainement la couleur la plus populaire de la décoration intérieure en général. Parfaite pour les petites pièces, elle est souvent utilisée dans les intérieurs minimalistes. Bien qu'il existe de nombreuses nuances de blanc, le blanc neige classique est le plus utilisé. La deuxième place revient au blanc cassé.
 
 {% fig %}
 ![How to paint a living room so that it looks bigger?](/uploads/jak-pomalowac-salon-aby-wygladal-na-wiekszy.jpg "How to paint a living room so that it looks bigger?")
 {% endfig %}
 
-## How to paint a room in several colors? Color combinations that always work
+## Comment peindre une pièce en plusieurs couleurs ? Des combinaisons de couleurs qui fonctionnent toujours
 
-You don't have to limit yourself to just one wall paint color. Be careful though - matching various colors is not easy. If you want to **experiment with various shades** without worrying about the results, you should learn the color matching rules. Knowing certain correlations, you will be able to pick bold combinations and adjust the shades to your own needs.
+Vous n'avez pas à vous limiter à une seule couleur de peinture murale. Mais attention, il n'est pas facile de faire correspondre plusieurs couleurs. Si vous voulez essayer différentes nuances sans vous soucier des résultats, vous devez apprendre les règles de correspondance des couleurs. En connaissant certaines corrélations, vous serez en mesure de choisir des combinaisons audacieuses et d'ajuster les nuances à vos propres besoins.
 
-**Color wheel is a very helpful tool when combining colors.** It contains 12 shades: 3 primary colors, 3 secondary colors and shades created by mixing primary and secondary colors - so called tertiary colors. So, how to paint a room so that it is aesthetic and shows a certain character? Try picking shades using the colors on color wheel.
+La roue des couleurs est un outil très utile pour combiner les couleurs. Elle contient 12 nuances : 3 couleurs primaires, 3 couleurs secondaires et des nuances créées en mélangeant des couleurs primaires et secondaires - dites couleurs tertiaires. Alors, comment peindre une pièce de manière à ce qu'elle soit esthétique et présente un certain caractère ? Essayez de choisir des nuances en utilisant les couleurs du cercle chromatique.
 
 {% fig %}
 ![How to paint a room in several colors? Color combinations that always work](/uploads/jak-pomalowac-pokoj-na-kilka-roznych-kolorow-polaczenia-kolorystyczne-ktore-zawsze-sie-sprawdzaja.jpg "How to paint a room in several colors? Color combinations that always work")
 {% endfig %}
 
-### Monochromatic wall paint colors
+### Couleurs de peinture murale monochromatiques
 
-There are several ways to combine colors. One of them is known as **matching monochromatic colors**, which means mixing various shades of the same color. You might use, for instance brown or green - from the lightest, through middle, to the darkest shade. It is a perfect combination for painting walls of a bedroom.
+Il existe plusieurs façons de combiner les couleurs. L'une d'entre elles est connue sous le nom d'appariement de couleurs monochromes, ce qui signifie mélanger différentes nuances d'une même couleur. Vous pouvez utiliser, par exemple, le marron ou le vert - du plus clair, en passant par le milieu, jusqu'à la nuance la plus foncée. C'est une combinaison parfaite pour peindre les murs d'une chambre à coucher.
 
-### Contrasting wall paint colors
+### Contraste des couleurs des peintures murales
 
-Another option is matching contrasting shades. Those are so called complimentary colors - on the color wheel they are located on the opposite of each other. Painting technique of this type is ideal for large rooms, for instance living room. It is also a great solution for public spaces and buildings. Contrast in colors encourages to action and boosts positive energy.
+Une autre option consiste à assortir des nuances contrastées. Ce sont les couleurs dites complémentaires - sur la roue des couleurs, elles sont situées à l'opposé l'une de l'autre. Cette technique de peinture est idéale pour les grandes pièces, par exemple le salon. C'est également une excellente solution pour les espaces et les bâtiments publics. Le contraste des couleurs incite à l'action et stimule l'énergie positive.
 
-### Wall paint colors - triadic color rule
+### Couleurs des peintures murales - règle de la couleur triadique
 
-The last safe option to combine colors is painting a room in accordance with the rule of triadic colors. It involves matching three colors from the points of a triangle formed on a color wheel. In other words, it's **a combination of every fourth color from the wheel.** It might be, for instance yellow, pink and turquoise. This method of wall painting guarantees the boldest combinations, although they might not match everyone's taste.
+La dernière option sûre pour combiner les couleurs est de peindre une pièce selon la règle des couleurs triadiques. Il s'agit de faire correspondre trois couleurs à partir des points d'un triangle formé sur une roue des couleurs. En d'autres termes, c'est une combinaison d'une couleur sur quatre de la roue. Il peut s'agir, par exemple, de jaune, de rose et de turquoise. Cette méthode de peinture murale garantit les combinaisons les plus audacieuses, bien qu'elles puissent ne pas correspondre au goût de chacun.
 
-## Does wall paint color affect your mood?
+## La couleur de la peinture murale affecte-t-elle votre humeur ?
 
-Wall paint color usually is there just for decoration. **Matching certain shades gives a character to a room**, hence wall colors in a room have an important, symbolic meaning for people. They also might influence human psyche, apmplifying positive or negative emotions or even being a reason for frequent mood swings.
+La couleur de la peinture murale n'est généralement là que pour la décoration. L'association de certaines nuances donne du caractère à une pièce, c'est pourquoi les couleurs des murs d'une pièce ont une signification symbolique importante pour les gens. Elles peuvent également influencer la psyché humaine, en atténuant les émotions positives ou négatives, voire en provoquant de fréquents changements d'humeur.
 
-### What wall paint colors set you in a positive mood?
+### Quelles sont les couleurs de peinture murale qui vous mettent de bonne humeur ?
 
-It is not surprising that green is the color that brings positive energy into interiors. Not without reason it is **associated with peace and relaxation**. Dark green shades such as bottle green can soothe tension and release stress. All shades of green, from light to dark are great wall paints for a living room, but also for a bedroom which is a place of relaxation and quiet rest.
+Il n'est pas surprenant que le vert soit la couleur qui apporte une énergie positive dans les intérieurs. Ce n'est pas sans raison qu'elle est associée à la paix et à la détente. Les teintes de vert foncé comme le vert bouteille peuvent apaiser les tensions et libérer le stress. Toutes les nuances de vert, du clair au foncé, sont d'excellentes peintures murales pour une salle de séjour, mais aussi pour une chambre à coucher qui est un lieu de détente et de repos tranquille.
 
 {% fig %}
 ![What wall paint colors set you in a positive mood?](/uploads/jakie-kolory-scian-w-pokoju-nastrajaja-pozytywnie.jpg "What wall paint colors set you in a positive mood?")
 {% endfig %}
 
-Another perfect shade is grey, which **encourages human body to calm down and relax.** For this reason it might be used in any place in the house - perhaps except from the office. This room might benefit better from yellow, which inspires and boosts creativity. Yellow also brightens mind and makes you more confident.
+Une autre teinte parfaite est le gris, qui encourage le corps humain à se calmer et à se détendre. C'est pourquoi elle peut être utilisée dans n'importe quel endroit de la maison - peut-être même à l'exception du bureau. Cette pièce pourrait mieux bénéficier du jaune, qui inspire et stimule la créativité. Le jaune éclaire également l'esprit et vous rend plus confiant.
 
-**Blue is a perfect color for a bedroom.** Cold shades positively influence sleep and might help fight insomnia. Nevertheless, it's the most common color used in bathrooms, propably due to connoting this color with water.
+Le bleu est une couleur parfaite pour une chambre à coucher. Les nuances froides influencent positivement le sommeil et peuvent aider à combattre l'insomnie. Néanmoins, c'est la couleur la plus utilisée dans les salles de bains, probablement parce qu'elle est liée à l'eau.
 
 {:.distinction.distinction-warning}
-Although blue positively affects mood, be careful not to use it everywhere. Too much blue in a room might be depressing, which is rather not the desired effect.
+Bien que le bleu ait un effet positif sur l'humeur, veillez à ne pas l'utiliser partout. Trop de bleu dans une pièce peut être déprimant, ce qui n'est pas l'effet recherché.
 
-### What wall paint colors should be avoided?
+### Quelles couleurs de peinture murale faut-il éviter ?
 
-You should definitely avoid painting walls black. Although it is a very popular color, in most cases it will not work well. Don't worry! **Black color lovers do not have to completely give it up!** One might decide to use more neutral colors and use black accessories.
+Vous devez absolument éviter de peindre les murs en noir. Bien que ce soit une couleur très populaire, dans la plupart des cas, elle ne fonctionnera pas bien. Ne vous inquiétez pas ! Les amoureux de la couleur noire ne doivent pas y renoncer complètement ! On peut décider d'utiliser des couleurs plus neutres et d'utiliser des accessoires noirs.
 
-Another color of this type is red. Although it is associated with positive feelings such as love and desire, if used too excessively it **might cause frustration**. Being in a room with wall paint of such an intense shade is ovewhelming and tiresome for human organism.
+Une autre couleur de ce type est le rouge. Bien qu'elle soit associée à des sentiments positifs tels que l'amour et le désir, si elle est utilisée de manière trop excessive, elle peut être source de frustration. Se trouver dans une pièce avec de la peinture murale d'une teinte aussi intense est accablant et fatigant pour l'organisme humain.
 
 {% faqItem %}
 {% faqQuestion %}
-What color should I paint my room?
+De quelle couleur dois-je peindre ma chambre ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The most popular and proven wall paint colors for any room are bright and subtle pastel colors, as well as grey and classic white. Too intense, warm or aggressive shades such as orange, red and strong pink should be avoided. Painting walls in such a color is overwhelming and might be strenous for eyes.
-{% endfaqAnswer %} 
+Les couleurs de peinture murale les plus populaires et les plus éprouvées pour toute pièce sont les couleurs pastel vives et subtiles, ainsi que le gris et le blanc classique. Il convient d'éviter les teintes trop intenses, chaudes ou agressives comme l'orange, le rouge et le rose soutenu. Peindre les murs dans une telle couleur est écrasant et peut être fatigant pour les yeux.
+{% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to start painting walls in a room?
+Comment commencer à peindre les murs d'une pièce ?
 {% endfaqQuestion %}
 
-{% faqAnswer %} 
-Start from a thorough preparation. Make sure that walls are even and not damaged, otherwise freshly painted walls might look unattractive and clumsy. Take out the furniture out of the room before you start painting walls. Protect surfaces and remaining objects with a plastic cover.
+{% faqAnswer %}
+Commencez par une préparation minutieuse. Veillez à ce que les murs soient réguliers et non endommagés, sinon les murs fraîchement peints risquent d'avoir l'air peu attrayants et maladroits. Sortez les meubles de la pièce avant de commencer à peindre les murs. Protégez les surfaces et les objets restants à l'aide d'une housse en plastique.
 {% endfaqAnswer %}
 {% endfaqItem %}
