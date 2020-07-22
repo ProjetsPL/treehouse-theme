@@ -10,129 +10,129 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-21
-title: Ideas para el jardín del balcón - Comprueba qué plantas son las mejores para los balcones
-description: "Which balcony garden plants to choose so that they grow beautifully?
-  \U0001F33A This might be a tricky issue. Learn what balcony flowers are best for
-  your home!"
-intro: Many homeowners dream of a stunning balcony garden. Plants on balcony are not
-  only a great eye-catcher, but they also help youto relax. To reach the goal, one
-  should figure out what types of plants to choose. Not all of them are suitable for
-  every balcony - some might wither quickly. What plants should one choose for their
-  balcony garden?
+title: Ideas para el jardín del balcón - Comprueba qué plantas son las mejores para
+  los balcones
+description: "¿Qué plantas de jardín de balcón elegir para que crezcan hermosas? \U0001F33A
+  Esto podría ser un asunto delicado. Aprende qué flores de balcón son las mejores
+  para tu casa!"
+intro: Muchos propietarios sueñan con un impresionante jardín con balcón. Las plantas
+  en el balcón no sólo son muy llamativas, sino que también ayudan a relajarse. Para
+  alcanzar el objetivo, uno debe averiguar qué tipos de plantas elegir. No todas son
+  adecuadas para cada balcón, algunas podrían marchitarse rápidamente. ¿Qué plantas
+  debería uno elegir para su jardín de balcón?
 image: "/uploads/kwiaty-na-balkon.jpg"
 related_products: []
-published: false
 
 ---
-## What are the best balcony plants?
+## ¿Cuáles son las mejores plantas de balcón?
 
-Potted flowers such as miniature roses are perfect plants for balconies. **Miniature irises** or **convallarias** look particularly interesting on a balcony garden. You can buy the seeds in every garden shop. What other plants can grow on a balcony garden? Check peonies, lilies and dahlias - **_Dahlia pinnata_** is a remarkably beautiful flower.
+Las flores en maceta como las rosas en miniatura son plantas perfectas para los balcones. Los lirios en miniatura o convallarias se ven particularmente interesantes en un jardín de balcón. Puedes comprar las semillas en todas las tiendas de jardinería. ¿Qué otras plantas pueden crecer en un jardín de balcón? Mira las peonías, los lirios y las dalias - la Dalia pinnata es una flor notablemente hermosa.
 
-Choosing the right flowers for your balcony garden triggers several fundamental issues. Keep in mind that every balcony or patio has different factors. To make your task easier, you might refer to some guidelines from specialists. Use their knowledge to learn how to make your balcony garden splendid.
+Elegir las flores adecuadas para su jardín de balcón desencadena varias cuestiones fundamentales. Tengan en cuenta que cada balcón o patio tiene diferentes factores. Para facilitar su tarea, puede consultar algunas pautas de los especialistas. Usa sus conocimientos para aprender a hacer tu jardín de balcón espléndido.
 
-## Balcony garden - important aspects
+## Jardín del balcón - aspectos importantes
 
-Flowers are one of the most popular balcony decorations. Usually, they are not very difficult to take care of. Nevertheless, many homeowners struggle to choose the right **plant for their balcony garden**. Before purchasing anything, you should think everything trough and consider several important aspects.
+Las flores son una de las decoraciones más populares de los balcones. Normalmente, no son muy difíciles de cuidar. Sin embargo, muchos propietarios luchan por elegir la planta adecuada para su jardín de balcón. Antes de comprar cualquier cosa, debe pensar en todo y considerar varios aspectos importantes.
 
-### Balcony garden plants - the environment
+### Plantas de jardín de balcón - el medio ambiente
 
-On of the most important criterion that the choice depends on is the **environment of the balcony**. Therefore, one might ask: what balcony plants to choose for a balcony facing south or north? Which species are better for a sunny place, and which are better to grow in shade? The struggle is real. Plants growing on a sunny balcony, for instance, should be resistant to overdrying. Another important issue is the amount of time that one is able to spend on taking care of their plants. **Certain species require regular fertilizing, trimming and misting.** There are also plants that require only watering.
+Uno de los criterios más importantes de los que depende la elección es el entorno del balcón. Por lo tanto, uno podría preguntarse: ¿qué plantas de balcón elegir para un balcón orientado al sur o al norte? ¿Qué especies son mejores para un lugar soleado, y cuáles son mejores para crecer en la sombra? La lucha es real. Las plantas que crecen en un balcón soleado, por ejemplo, deben ser resistentes al secado excesivo. Otra cuestión importante es la cantidad de tiempo que uno puede dedicar al cuidado de sus plantas. Ciertas especies requieren de fertilización regular, recorte y nebulización. También hay plantas que sólo requieren riego.
 
-**One’s individual taste also matters.** It is good to consider the colour scheme and general decor of the balcony and choose plants accordingly. If one lives in an apartment block, the aesthetics of a building as a whole should be kept in mind. One should be aware whether the owner of the building has set a guideline on the allowed plants.
+El gusto individual de cada uno también importa. Es bueno considerar la combinación de colores y la decoración general del balcón y elegir las plantas en consecuencia. Si uno vive en un bloque de apartamentos, la estética de un edificio en su conjunto debe tenerse en cuenta. Uno debe saber si el dueño del edificio ha establecido una pauta sobre las plantas permitidas.
 
 {:.distinction.distinction-warning}
-It is nice to remember about your neighbours. If you live upstairs, avoid trees and vines that shed leaves in autumn. They might litter the balcony of your neighbour. In some cases one should also decide against hanging planters outside the railing. They might fall off and seriously hurting someone.
+Es bueno recordar lo de tus vecinos. Si vives en el piso de arriba, evita los árboles y las vides que pierden sus hojas en otoño. Podrían ensuciar el balcón de tu vecino. En algunos casos, uno también debe decidir no colgar las macetas fuera de la barandilla. Podrían caerse y herir gravemente a alguien.
 
 {% fig %}
 ![](/uploads/kwiaty-na-balkonie-warunki-uprawy.jpg)
 {% endfig %}
 
-## Balcony garden - orientation
+## Jardín del balcón - orientación
 
-Choosing the right plants depends mostly on the facing of one’s balcony. Most buildings have their **balconies facing west and south**. Architects rather avoid designing shaded balconies, although it happens occasionally. The good news is that one can find proper plants for both types, and they will grow perfectly.
+La elección de las plantas correctas depende en gran parte de la orientación del balcón de uno. La mayoría de los edificios tienen sus balcones orientados al oeste y al sur. Los arquitectos prefieren evitar diseñar balcones sombreados, aunque ocurre ocasionalmente. La buena noticia es que se pueden encontrar plantas adecuadas para ambos tipos, y crecerán perfectamente.
 
-### Plants for a sunny balcony?
+### ¿Planta para un balcón soleado?
 
-A sunny balconies are the ones facing south or west. Garden plants on a balcony where the sun is strong all day should be **resistant to overdrying**. Because the sun shines almost all day long in such places, the water evaporates immediately from soil. The sunlight might also damage any fragile leaves.
+Los balcones soleados son los que dan al sur o al oeste. Las plantas de jardín en un balcón donde el sol es fuerte todo el día deben ser resistentes al secado excesivo. Debido a que el sol brilla casi todo el día en tales lugares, el agua se evapora inmediatamente del suelo. La luz del sol también puede dañar las hojas frágiles.
 
-For this reason plants such as **begonia and fuchsia** won’t grow in such spots. Plants for a sunny balcony garden should be **resistant to intense heat**. The best species that one can plant in such spot are:
+Por esta razón las plantas como la begonia y la fucsia no crecerán en tales lugares. Las plantas para un jardín de balcón soleado deben ser resistentes al calor intenso. Las mejores especies que uno puede plantar en tal lugar son:
 
 {:.list.list-positive}
 
-* **Geraniums** - those are the most popular balcony garden plants. They love full sun. They also need plenty of water, even twice a day.
-* **Petunias** - their characteristic feature is very lush blooming. There are many types of petunias in various colours. They can be quite demanding balcony garden plants, however they are worth spending time on. They compensate the effort with beautiful looks.
-* **Surfinias** - they are great eye-catchers, forming glamorous cascades. They are available in a range of colours and bloom the most intensely in full sun.
-* **Vervains** - those balcony plants have colourful flowers that bloom forming gorgeous spheres. They look particularly beautiful in hanging planters.
-* **Lobelias** - they have characteristic small blue, white or violet flowers. They do not like wet soil, therefore one should water them in moderation. It is a plant growing downwards - it will look great in a hanging planter.
-* **Lavender** - a fantastic balcony garden plant that loves growing in sunny and dry spots. The colours range from white to purple. As and addition, lavender releases an intense smell that repels insects.
+* Los geranios son las plantas de jardín de balcón más populares. Les encanta el pleno sol. También necesitan mucha agua, incluso dos veces al día.
+* Petunias - su rasgo característico es una floración muy exuberante. Hay muchos tipos de petunias en varios colores. Pueden ser plantas de balcón bastante exigentes, sin embargo vale la pena dedicarles tiempo. Compensan el esfuerzo con una hermosa apariencia.
+* Las surfinias son muy llamativas, formando cascadas glamorosas. Están disponibles en una gama de colores y florecen más intensamente a pleno sol.
+* Verbenas - estas plantas de balcón tienen flores coloridas que florecen formando hermosas esferas. Se ven particularmente hermosas en las macetas colgantes.
+* Lobelias - tienen características pequeñas flores azules, blancas o violetas. No les gusta la tierra húmeda, por lo que hay que regarlas con moderación. Es una planta que crece hacia abajo, se verá muy bien en una maceta colgante.
+* Lavanda - es una fantástica planta de jardín de balcón que le encanta crecer en lugares soleados y secos. Los colores van desde el blanco al púrpura. Además, la lavanda libera un intenso olor que repele los insectos.
 
 {% fig %}
 ![](/uploads/jakie-kwiaty-na-balkon-poludniowy.jpg)
 {% endfig %}
 
-### What balcony garden plants to grow in shade?
+### ¿Qué plantas de jardín de balcón para crecer en la sombra?
 
-Balconies **facing north and east** receive the least amount of sun throughout the day. A similar issue is when sunlight is blocked by trees or other buildings. Choosing the right plant for a shady balcony might be problematic. Plants in such spots often barely grow and they don’t bloom at all. The solution is picking the right species. The best **shady balcony garden plants** are those that love shade.
+Los balcones que dan al norte y al este reciben la menor cantidad de sol durante el día. Un problema similar es cuando la luz solar es bloqueada por árboles u otros edificios. Elegir la planta adecuada para un balcón con sombra podría ser problemático. Las plantas en estos lugares a menudo apenas crecen y no florecen en absoluto. La solución es elegir la especie correcta. Las mejores plantas de jardín de balcón sombreado son aquellas que aman la sombra.
 
-**The choice might be limited in comparison with sun-loving plants.** Nevertheless, there is plenty of plants that are going to enjoy those conditions. The best balcony flowers for a shady balcony garden are:
+La elección podría ser limitada en comparación con las plantas que aman el sol. Sin embargo, hay muchas plantas que van a disfrutar de esas condiciones. Las mejores flores de balcón para un jardín de balcón con sombra son:
 
 {:.list.list-positive}
 
-* **Begonia** - a very decorative plant with colourful flowers. There are also types with decorative leaves. It is very easy to take care of.
-* **Touch-me-not** - it is an annual plant. Its characteristic feature is a lot of flowers. Touch-me-nots like wet soil, therefore they should be often watered.
-* **Fuchsia** - this plant for a balcony garden has a purple-red flowers. It can grow upwards with the help of sticks, or it can dangle downwards. It’s an annual plant, however it can be taken inside for winter.
-* **Forget-me-not** - this gorgeous plant loves both shade and sun. Shady spots are better, making them bloom even two months longer. A forget-me-not has small blue flowers.
-* **Flossflower** - those plants are commonly placed in a balcony garden because they bloom for a long time. The flowers are bushy, purple or pink.
-* **Spiderwort** - they are not very demanding plants, which makes them perfect for a balcony garden. They have purple flowers and long green leaves that look like grass.
+* Begonia - una planta muy decorativa con flores coloridas. También hay tipos con hojas decorativas. Es muy fácil de cuidar.
+* Touch-me-not - es una planta anual. Su rasgo característico es una gran cantidad de flores. A los Touch-me-no les gusta la tierra húmeda, por lo que deben ser regados a menudo.
+* Fucsia - esta planta para un jardín de balcón tiene flores de color rojo púrpura. Puede crecer hacia arriba con la ayuda de palos, o puede colgar hacia abajo. Es una planta anual, sin embargo puede ser llevada al interior para el invierno.
+* No-me-olvides - esta hermosa planta ama tanto la sombra como el sol. Los lugares sombreados son mejores, haciéndolos florecer incluso dos meses más. Un nomeolvides tiene pequeñas flores azules.
+* Flores de flor - estas plantas se colocan comúnmente en un jardín de balcón porque florecen durante mucho tiempo. Las flores son tupidas, púrpuras o rosadas.
+* Araña roja - no son plantas muy exigentes, lo que las hace perfectas para un jardín de balcón. Tienen flores púrpuras y largas hojas verdes que parecen césped.
 
-Because the air on a shady balcony garden is not dry or hot, the plants require relatively little water. Control the dampness of the soil and make sure that water does not stay in saucers. It might cause balcony flowers to rot and die.
+Debido a que el aire en un jardín de balcón sombreado no es seco o caliente, las plantas requieren relativamente poca agua. Controla la humedad del suelo y asegúrate de que el agua no se quede en los platillos. Podría causar que las flores de los balcones se pudran y mueran.
 
 {% fig %}
 ![](/uploads/jakie-kwiaty-na-balkon-w-cieniu.jpg)
 {% endfig %}
 
-## Balcony flowers - arrangement ideas
+## Flores de balcón - ideas para arreglos
 
-Carefully selected balcony garden plants are not enough to make the place look good. One should think of a **proper arrangement** of the plants and match them, creating interesting forms. What flowers can be used together depends on their individual needs, shapes and colours.
+Las plantas de jardín de balcón cuidadosamente seleccionadas no son suficientes para hacer que el lugar se vea bien. Uno debe pensar en un arreglo apropiado de las plantas y hacerlas coincidir, creando formas interesantes. Lo que las flores pueden ser usadas juntas depende de sus necesidades individuales, formas y colores.
 
-It is important that flowers planted in one pot have similar needs. Plants loving damp soil cannot share a box with the ones that need scarce watering. For this reason one cannot match a plant such as fern with lobelia which hates too much water. An example for a good flower arrangement is placing a **begonia and a plecanthrus** in one planter. Both of those species do not like excessive watering, therefore they should grow well in each other’s company. Plecanthrus is a versatile plant that can grow in a sunny balcony garden as well. One can match it with a geranium, for instance. Even though geranium needs a lot of water, it evaporates quickly enough, not damaging the plecanthrus.
+Es importante que las flores plantadas en una maceta tengan necesidades similares. Las plantas que aman la tierra húmeda no pueden compartir una caja con las que necesitan un riego escaso. Por esta razón no se puede emparejar una planta como el helecho con la lobelia que odia el exceso de agua. Un ejemplo de un buen arreglo floral es colocar una begonia y un plecántropo en una maceta. A ambas especies no les gusta el riego excesivo, por lo que deben crecer bien en compañía del otro. El plecanthrus es una planta versátil que también puede crecer en un jardín de balcón soleado. Se puede combinar con un geranio, por ejemplo. Aunque el geranio necesita mucha agua, se evapora lo suficientemente rápido, sin dañar el plecanthrus.
 
-The colours depend on one’s individual taste, but also on the decor of the balcony. It is a good idea to **match similar colours in various shades**, such as pink and purple. Pastel tones accompanied by white is another great idea, in case strong colours seem too loud. Apart from the colour of the flowers, one should also think of the shade of the boxes.
-
-{:.distinction.distinction-information}
-No arrangement will look good unless it is well-tended. Remember to water and fertilise the plants on a regular basis. If a particular species needs it, trim or deadhead the flowers that finished blooming. That encourages the plants to grow.
-
-## Balcony garden plants - grass and vines
-
-If you don’t have time to properly take care of flowers, you might consider choosing **nonflowering plants**. Grasses and vines are perfect for this purpose. There are many species of decorative grasses that are increasingly popular. Many of them are frost-resistant, therefore one doesn’t even need to move them inside for winter. The only thing to do is secure them against cold.
+Los colores dependen del gusto individual, pero también de la decoración del balcón. Es una buena idea combinar colores similares en varios tonos, como el rosa y el púrpura. Los tonos pastel acompañados de blanco es otra gran idea, en caso de que los colores fuertes parezcan demasiado fuertes. Aparte del color de las flores, uno debe pensar también en el tono de las cajas.
 
 {:.distinction.distinction-information}
-Grasses and sedges might be very decorative balcony garden plants. Available species have various forms, sizes and colours. It is a good idea to plant them in tall pots - they will serve as a gorgeous decoration.
+Ningún arreglo se verá bien a menos que esté bien cuidado. Recuerden regar y fertilizar las plantas regularmente. Si una especie en particular lo necesita, recorte o deje sin vida las flores que terminaron de florecer. Eso anima a las plantas a crecer.
+
+## Plantas de jardín de balcón - césped y vides
+
+Si no tienes tiempo para cuidar adecuadamente las flores, podrías considerar elegir plantas sin flores. Los pastos y las vides son perfectos para este propósito. Hay muchas especies de hierbas decorativas que son cada vez más populares. Muchos de ellos son resistentes a las heladas, por lo que uno ni siquiera necesita moverlos al interior para el invierno. Lo único que hay que hacer es asegurarlos contra el frío.
+
+{:.distinction.distinction-information}
+Los pastos y juncos podrían ser plantas de jardín de balcón muy decorativas. Las especies disponibles tienen varias formas, tamaños y colores. Es una buena idea plantarlas en macetas altas - servirán como una magnífica decoración.
 
 {% fig %}
 ![](/uploads/rosliny-na-balkon-trawy-i-bluszcze.jpg)
 {% endfig %}
 
-Yet another idea is planting **vines and ivies** in your balcony garden. They are not only very decorative, but they also provide shade for a sunny balcony. This way one can create a secluded, green corner, separating themselves from neighbours and street noise. The choice is wide - one can pick quickly growing annual vines such as sweet pea or moonflower. Perennial plants such as ivy or honeysuckle grow slower, but they are more durable.
+Otra idea es plantar vides y hiedras en el jardín de tu balcón. No sólo son muy decorativas, sino que también proporcionan sombra para un balcón soleado. De esta manera se puede crear un rincón verde y aislado, separándose de los vecinos y del ruido de la calle. La elección es amplia - uno puede recoger vides anuales de rápido crecimiento como el guisante dulce o el flor de luna. Las plantas perennes como la hiedra o la madreselva crecen más lentamente, pero son más duraderas.
 
-Growing plants on your balcony is a great idea to decorate the place. Carefully selected balcony garden plants can help you create a pleasant spot for relaxation. Spending a summer afternoon on a balcony being surrounded by plants is a great way to unwind and just chill out.
+Cultivar plantas en el balcón es una gran idea para decorar el lugar. Las plantas de jardín de balcón cuidadosamente seleccionadas pueden ayudarle a crear un lugar agradable para la relajación. Pasar una tarde de verano en un balcón rodeado de plantas es una gran forma de relajarse y descansar.
 
 {% faqItem %}
 {% faqQuestion %}
-Where to buy vegetable plants for garden?
+¿Dónde comprar plantas de hortalizas para el jardín?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Vegetable plants can be bought in any garden centre. You might also search online sales. A good idea is to ask local farmers. They might be ready to sell some seedlings for a cheap price.
+Las plantas vegetales pueden ser compradas en cualquier centro de jardinería. También puede buscar en las ventas en línea. Una buena idea es preguntar a los agricultores locales. Podrían estar dispuestos a vender algunas plantas de semillero a un precio barato.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to protect plants from frost in garden on a balcony
+Cómo proteger las plantas de las heladas en el jardín de un balcón
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Wrap the boxes with a material to provide insulation. You might use blankets, cloths, and plastic covers. Use burlap to cover the plant. If you can, you might also take the plants to garage or a shed.
+Envuelve las cajas con un material para proporcionar aislamiento. Puede usar mantas, paños y cubiertas de plástico. Use arpillera para cubrir la planta. Si puede, también puede llevar las plantas al garaje o a un cobertizo.
 {% endfaqAnswer %}
 {% endfaqItem %}
