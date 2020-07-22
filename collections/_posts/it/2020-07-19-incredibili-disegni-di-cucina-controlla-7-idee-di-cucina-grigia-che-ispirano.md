@@ -20,100 +20,100 @@ toc: true
 promoted: false
 update_date: 2020-07-19
 title: Incredibili disegni di cucina - Controlla 7 idee di cucina grigia che ispirano
-description: "Grey kitchen is a classic, but it doesn't have to be boring! \U0001F4A1
-  Looking for grey kitchen ideas? ➡️ Check the best gray kitchen cabinets designs."
-intro: Various shades of grey have dominated the interior design sector in the recent
-  years. Grey color is used for any type of interior – on walls, as accessories, or
-  on furniture. This color can be also found in many kitchens nowadays. A grey kitchen
-  is a real classic, but it doesn't mean that it has to be boring. Are you looking
-  for an idea to make your room more lively? Learn how, using simple tricks, you can
-  make your grey kitchen cabinets more vibrant and create a fantastic looking interior
-  that you've always dreamed of.
+description: "La cucina grigia è un classico, ma non deve essere per forza noiosa!
+  \U0001F4A1 Cerchi idee per la cucina grigia? ➡️ Controlla i migliori design di mobili
+  da cucina grigi."
+intro: Diverse tonalità di grigio hanno dominato il settore dell'interior design negli
+  ultimi anni. Il colore grigio viene utilizzato per qualsiasi tipo di interno - sulle
+  pareti, come accessori o sui mobili. Questo colore si trova anche in molte cucine
+  al giorno d'oggi. Una cucina grigia è un vero classico, ma non significa che debba
+  essere noiosa. Stai cercando un'idea per rendere più vivace la tua stanza? Imparate
+  come, con semplici trucchi, potete rendere più vivaci i vostri mobili da cucina
+  grigi e creare un interno dall'aspetto fantastico che avete sempre sognato.
 image: "/uploads/kuchnia-szara-glowne.jpg"
 related_products: []
-published: false
 
 ---
-## A grey kitchen – what is it about?
+## Una cucina grigia - di cosa si tratta?
 
-A grey kitchen is a **very** **universal trend.** A kitchen painted in this color might become either minimalist, elegant, luxurious or homely. Walls or furniture in the same grey color allow to create a **room of different qualities and aesthetics**. Because of the versatility of the color, it is accessories that determine the character of a grey kitchen. For this reason you should choose them carefully.
+Una cucina grigia è una tendenza molto universale. Una cucina dipinta in questo colore può diventare minimalista, elegante, lussuosa o accogliente. Pareti o mobili dello stesso colore grigio permettono di creare una stanza di qualità ed estetica diverse. A causa della versatilità del colore, sono gli accessori a determinare il carattere di una cucina grigia. Per questo motivo è necessario sceglierli con cura.
 
 {:.distinction.distinction-information}
-A grey kitchen is very practical because it's in a color that looks good on any surface and texture. Grey kitchen cabinets are perfect in matt, semi-glossy and glossy versions, as they make fingerprints less apparent.
+Una cucina grigia è molto pratica perché è in un colore che si presenta bene su qualsiasi superficie e consistenza. I mobili da cucina grigi sono perfetti nelle versioni opaca, semilucida e lucida, perché rendono meno evidenti le impronte digitali.
 
-**Gray kitchen cabinets,** depending on particular type, might be a part of **any interior style**. The color might be used both on plain and richly decorated fronts. A grey kitchen might be both universal and unique, and that's why it is so valued by interior designers.
+I mobili da cucina grigi, a seconda della tipologia, possono far parte di qualsiasi stile d'interni. Il colore può essere utilizzato sia su frontali lisci che riccamente decorati. Una cucina grigia può essere al tempo stesso universale e unica, ed è per questo che è così apprezzata dagli interior designer.
 
 {% fig %}
 ![Grey kitchen – what is it about?](/uploads/szara-kuchnia-trend.jpg "Grey kitchen – what is it about?")
 {% endfig %}
 
-## A grey kitchen with wooden elements – how to design it?
+## Una cucina grigia con elementi in legno - come disegnarla?
 
-One of the most popular and at the same time most impressive kitchen design is a **grey kitchen with wooden elements**. If it's improperly arranged, however, it might look poorly. Knowledge of the basic rules of designing a grey kitchen can help you achieve the intended result and create a **stylish interior** that you will enjoy for a long time.
+Una delle cucine più popolari e allo stesso tempo più impressionanti è una cucina grigia con elementi in legno. Se è disposta in modo scorretto, però, potrebbe sembrare poco gradevole. La conoscenza delle regole di base della progettazione di una cucina grigia può aiutarvi a raggiungere il risultato desiderato e a creare un interno elegante che vi piacerà a lungo.
 
-### A trendy kitchen – grey with wooden counter
+### Una cucina alla moda - grigia con bancone in legno
 
-One of the most popular current trends is **matching grey kitchen with wood** in any color. Wood usually appears in the form of kitchen counters or a table.
+Una delle tendenze attuali più popolari è l'abbinamento della cucina grigia con il legno in qualsiasi colore. Il legno appare di solito sotto forma di banchi da cucina o di tavolo.
 
-**A light-grey kitchen** looks best with a very pale, almost white wood. When it comes to dark, graphite-grey color, all shades of grey fit well. You might go for a bold contrast, choosing light wood or give the interior a warmer look by combining **grey kitchen cabinets with yellow or orange shaded wooden counters.** Dark wood matched with grey fronts might bring elegance to the room but at the same time it makes the interior look "heavier." It might be an issue for homeowners who love subtle designs.
+Una cucina grigio chiaro si abbina meglio con un legno molto chiaro, quasi bianco. Quando si tratta di colore grigio grafite scuro, tutte le sfumature di grigio si adattano bene. Si potrebbe optare per un contrasto audace, scegliendo il legno chiaro o dare all'interno un aspetto più caldo, combinando i mobili da cucina grigi con i banconi in legno sfumato giallo o arancione. Il legno scuro abbinato ai frontali grigi può portare eleganza all'ambiente, ma allo stesso tempo rende l'interno più "pesante". Potrebbe essere un problema per i proprietari di casa che amano il design sottile.
 
 {:.distinction.distinction-warning}
-Regardless of the color you choose, wood used in the kitchen should always be laminated. It makes it easier to clean, which is very important in case of difficult, heavy stains, such as oil.
+Indipendentemente dal colore scelto, il legno utilizzato in cucina dovrebbe essere sempre laminato. Questo rende più facile la pulizia, che è molto importante in caso di macchie difficili e pesanti, come l'olio.
 
-## A grey and white kitchen, loft style – give a unique character to your furniture
+## Una cucina grigia e bianca, stile loft - dare un carattere unico al vostro arredamento
 
-A grey kitchen with wood might look interesting when designed in loft style. It's a unique and unusual way to **give a fresh look and bring out the** **character** from ordinary grey furniture. Loft style usually uses ordinary materials in their **raw and natural form**. They might be, for instance: concrete, wood, stone or brick.
+Una cucina grigia con il legno potrebbe sembrare interessante se progettata in stile loft. È un modo unico e insolito per dare un aspetto fresco e far risaltare il carattere dei comuni mobili grigi. Lo stile loft usa di solito materiali ordinari nella loro forma grezza e naturale. Possono essere, per esempio: cemento, legno, pietra o mattoni.
 
-A grey kitchen in loft style is perfect for anybody who loves **interesting and unexceptional interiors**, as it contains a lot of unusual aesthetical solutions. A prevalent element of loft interiors features using a classic combination of two colors – **grey and white**. Quite a popular solution for this style involves **brick** or **concrete walls**.
+Una cucina grigia in stile loft è perfetta per tutti coloro che amano gli interni interessanti e non eccezionali, in quanto contiene molte soluzioni estetiche insolite. Un elemento prevalente degli interni in stile loft è l'utilizzo di una classica combinazione di due colori, il grigio e il bianco. Una soluzione piuttosto popolare per questo stile prevede pareti in mattoni o cemento.
 
-A **loft style grey kitchen** uses not always practical, but great looking accessories, such as long **hanging lamps without shade**, suspended ceiling or elements made of steel.
+Una cucina grigia in stile loft utilizza accessori non sempre pratici, ma di grande effetto estetico, come lunghe lampade a sospensione senza paralume, controsoffitti o elementi in acciaio.
 
 {:.distinction.distinction-information}
-The central element of a loft style grey kitchen is usually a metal island with wooden or stone counter, used for preparing and eating meals. This solution is not only very trendy but also highly functional.
+L'elemento centrale di una cucina grigia in stile loft è solitamente un'isola metallica con bancone in legno o in pietra, utilizzata per preparare e consumare i pasti. Questa soluzione non è solo molto trendy, ma anche molto funzionale.
 
 {% fig %}
 ![Grey and white kitchen, loft style – give a unique character to your furniture](/uploads/kuchnia-w-stylu-loft.jpg "Grey and white kitchen, loft style – give a unique character to your furniture")
 {% endfig %}
 
-## For brave ones only – a modern grey kitchen with a colorful accent
+## Solo per i più coraggiosi - una moderna cucina grigia con un accento colorato
 
-A grey kitchen designed in modern style favors **wild color combinations**. They can turn an ordinary room into a bold and **lively interior.** A grey kitchen with a color accent definitely draws attention, and it can even **boost energy** of anyone staying in the room and put them in a good mood.
+Una cucina grigia progettata in stile moderno predilige accostamenti cromatici selvaggi. Possono trasformare una stanza ordinaria in un interno audace e vivace. Una cucina grigia con un accento di colore attira sicuramente l'attenzione, e può anche aumentare l'energia di chiunque rimanga nella stanza e metterlo di buon umore.
 
-The monochromatic and for many a predictable grey color can be adjusted by adding a **pronounced accent** in the form of a **colorful kitchen appliance**. An unusual, colorful refrigerator or coffee machine is a perfect solution in this case.
+Il monocromatico e per molti un prevedibile colore grigio può essere regolato aggiungendo un accento pronunciato sotto forma di un apparecchio da cucina colorato. Un insolito e colorato frigorifero o una macchina per il caffè è una soluzione perfetta in questo caso.
 
-You could also put a color on one of the walls. By adding other colors to the grey kitchen, you can easily **get rid of the austerity and visual "coldness."** The most popular colors used in a grey kitchen are: red, orange, green and yellow, as **they evoke positive feelings** and strengthen appetite. Nevertheless, choose the color by yourself, in line with your own preferences.
+Si può anche mettere un colore su una delle pareti. Aggiungendo altri colori alla cucina grigia, ci si può facilmente liberare dell'austerità e della "freddezza" visiva. I colori più usati in una cucina grigia sono: rosso, arancione, verde e giallo, in quanto evocano sensazioni positive e rafforzano l'appetito. Tuttavia, scegliete il colore da soli, in linea con le vostre preferenze.
 
 {:.distinction.distinction-information}
-You can also bring color to your grey kitchen naturally, for instance by creating a small "garden" on a wall, with green fresh herbs.
+Potete anche portare il colore nella vostra cucina grigia in modo naturale, per esempio creando un piccolo "giardino" su una parete, con erbe fresche verdi.
 
 {% fig %}
 ![For brave ones only – a modern grey kitchen with a colorful accent](/uploads/szara-kuchnia-z-kolorowym-akcentem.jpg "For brave ones only – a modern grey kitchen with a colorful accent")
 {% endfig %}
 
-## White kitchen with a grey countertop – an intriguing design idea
+## Cucina bianca con piano di lavoro grigio - un'idea di design intrigante
 
-Matching white walls (or cabinets) with **an elegant grey counter** is an interesting kitchen design idea, which is also becoming very popular. **A contrast** between the colors creates an **unusual** but also **quite universal interior.** A grey, smooth countertop highlights the perfect shape of white kitchen cabinets, forming a trendy and modern kitchen design.
+Abbinare le pareti bianche (o gli armadi) con un elegante bancone grigio è un'interessante idea di design per la cucina, che sta diventando anche molto popolare. Un contrasto di colori crea un interno insolito ma anche abbastanza universale. Un piano di lavoro grigio e liscio mette in risalto la forma perfetta dei mobili da cucina bianchi, formando un design da cucina moderno e di tendenza.
 
-When deciding upon white kitchen cabinets and a grey countertop, it is advised to paint the walls grey or white. It will make the design **more consistent**. White walls can brighten the room, which is a good solution for small interiors. In some cases, though, this solution might be problematic due to high probability of the walls getting stained. Grey walls make the room darker and **visually smaller**. For this reason it is better to avoid dark colored walls in small kitchens.
+Quando si decide di scegliere i mobili da cucina bianchi e il piano di lavoro grigio, si consiglia di dipingere le pareti di grigio o bianco. Questo renderà il design più coerente. Le pareti bianche possono illuminare la stanza, che è una buona soluzione per i piccoli interni. In alcuni casi, tuttavia, questa soluzione potrebbe essere problematica a causa dell'alta probabilità che le pareti si macchiino. Le pareti grigie rendono la stanza più scura e visivamente più piccola. Per questo motivo è meglio evitare pareti di colore scuro nelle piccole cucine.
 
 {% fig %}
 ![White kitchen with a grey countertop – an intriguing design idea](/uploads/biala-kuchnia-z-szarym-blatem.jpg "White kitchen with a grey countertop – an intriguing design idea")
 {% endfig %}
 
-## How to use grey kitchen cabinets? 3 easy ways
+## Come si usano gli armadietti da cucina grigi? 3 modi semplici
 
-Grey kitchen cabinets are often used in many interior designs, and although they look **simple and classical,** they can be used in many ways. There are **3 rules** that make grey kitchen cabinets design far easier:
+Gli armadietti da cucina grigi sono spesso utilizzati in molti arredamenti d'interni e, sebbene abbiano un aspetto semplice e classico, possono essere utilizzati in molti modi. Ci sono 3 regole che rendono il design degli armadietti da cucina grigi molto più facile:
 
 {:.list.list-positive}
 
-* **Lower cabinets in grey** – placing grey kitchen cabinets at the bottom is one of the most popular solutions. Dark bottoms and light tops can visually take weight off the walls and make the room look bigger.
-* **Upper kitchen shelves in grey color** – upper level grey kitchen cupboards look very elegant. They make the kitchen look classy and refined.
-* **All in grey** – grey fronts, counters, appliances and fixtures made of stainless steel is an interesting combination, and it will be trendy for a long time.
+* Armadietti inferiori in grigio - collocare gli armadietti da cucina grigi sul fondo è una delle soluzioni più popolari. I fondi scuri e i piani chiari possono alleggerire visivamente le pareti e far sembrare la stanza più grande.
+* Ripiani superiori della cucina in colore grigio - gli armadi da cucina grigi del livello superiore hanno un aspetto molto elegante. Fanno sembrare la cucina di classe e raffinata.
+* Tutto in grigio - i frontali grigi, i banconi, gli elettrodomestici e gli infissi in acciaio inox sono una combinazione interessante, e saranno alla moda per molto tempo.
 
 {:.distinction.distinction-warning}
-Grey kitchen furniture might overwhelm the whole interior visually, therefore it should be applied in large, spacious kitchens only.
+I mobili da cucina grigi potrebbero sopraffare visivamente tutto l'interno, quindi dovrebbero essere applicati solo in cucine grandi e spaziose.
 
-Notica that there are many shades of grey and each of them might make the kitchen look completely different. The recently popular **cool grey is starting to give way to warmer tones in 2020**. If you decide to buy furniture in this color, you might use a delicate tone of gray as a basis – on the walls. Make sure, however, to pick the colors carefully – use a color chart to help you.
+Notica che ci sono molte sfumature di grigio e ognuna di esse potrebbe rendere la cucina completamente diversa. Il grigio fresco, recentemente popolare, sta iniziando a cedere il passo a tonalità più calde nel 2020. Se si decide di acquistare mobili in questo colore, si potrebbe usare una delicata tonalità di grigio come base - sulle pareti. Assicuratevi, tuttavia, di scegliere i colori con attenzione - usate una tabella dei colori per aiutarvi.
 
 {% fig %}
 
@@ -133,11 +133,11 @@ Notica that there are many shades of grey and each of them might make the kitche
 
 {% endfig %}
 
-## What to match dark grey kitchen cabinets with so that they look good?
+## Con cosa abbinare i mobili da cucina grigio scuro in modo che abbiano un bell'aspetto?
 
-It's not a secret that all shades of grey mix well with snow white color. But sometimes such combination might be not satisfying enough. In this case it is advised to try **unusual mixes** to learn which style is the most appropriate for an interior.
+Non è un segreto che tutte le tonalità di grigio si mescolano bene con il colore bianco neve. Ma a volte tale combinazione potrebbe non essere abbastanza soddisfacente. In questo caso si consiglia di provare mix inusuali per imparare quale sia lo stile più appropriato per un interno.
 
-If grey kitchen cabinets have dark shade, you might combine them with light walls or try using bright accessories, for instance by combining dark fronts with bright countertops. Depending on whether the cabinet's front is plain or pronounced, you might choose a countertop made of stone (e.g. granite) or wooden and laminated one. Light wood is a very easy material, which can bring a warm and familiar atmosphere into the interior.
+Se i mobili da cucina grigi hanno una tonalità scura, si possono combinare con pareti chiare o provare a utilizzare accessori luminosi, ad esempio combinando frontali scuri con piani di lavoro luminosi. A seconda che il frontale del mobile sia liscio o pronunciato, si può scegliere un piano di lavoro in pietra (ad esempio granito) o in legno e laminato. Il legno chiaro è un materiale molto semplice, che può portare all'interno un'atmosfera calda e familiare.
 
 {% fig %}
 ![What to match dark grey kitchen cabinets with so that they look good?](/uploads/szara-kuchnia-glowne.jpg "What to match dark grey kitchen cabinets with so that they look good?")
@@ -156,36 +156,36 @@ If grey kitchen cabinets have dark shade, you might combine them with light wall
 {% endfig %}
 
 {:.distinction.distinction-information}
-Grey kitchen cabinets should be well illuminated, especially if it's a dark grey color. Make sure, right before making a purchase, whether the light doesn't deflect the colors, which might make the grey front look poorly.
+I mobili da cucina grigi devono essere ben illuminati, soprattutto se di colore grigio scuro. Assicuratevi, subito prima di fare un acquisto, che la luce non defletta i colori, il che potrebbe far apparire il frontale grigio in modo poco gradevole.
 
-A classic grey kitchen is not boring, provided that the tradition is supported by a little bit of modernity.
+Una cucina classica grigia non è noiosa, a patto che la tradizione sia sostenuta da un po' di modernità.
 
 {% faqItem %}
 {% faqQuestion %}
-What walls go with grey kitchen cabinets?
+Quali pareti si abbinano agli armadietti grigi della cucina?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-If you have grey cabinets in your kitchen, the best solution is painting the walls white or uniform grey. Grey color is versatile enough, so you can also try more bold combinations. Grey cabinets look perfect with yellow, green and orange colors.
+Se avete armadietti grigi in cucina, la soluzione migliore è dipingere le pareti di bianco o di grigio uniforme. Il colore grigio è abbastanza versatile, quindi potete anche provare combinazioni più audaci. I mobili grigi sono perfetti con i colori giallo, verde e arancione.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-What countertops are best for a grey kitchen?
+Quali sono i piani di lavoro migliori per una cucina grigia?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The most popular solution is matching grey kitchen with wooden or stone countertops. The variety of choice is wide, as there are many types of wood and stone. A grey kitchen with wooden counter is more universal than the one with stone top.
+La soluzione più diffusa è quella di abbinare la cucina grigia con i piani di lavoro in legno o in pietra. La varietà di scelta è ampia, in quanto ci sono molti tipi di legno e pietra. Una cucina grigia con piano in legno è più universale di quella con piano in pietra.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-What color looks best with grey cabinets?
+Quale colore è più bello con gli armadietti grigi?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Grey furniture is very universal, therefore it looks good with most colors. The most popular colors to combine with grey are green, yellow and white. A less common, but equally impressive match is grey furniture and fuchsia elements.
+I mobili grigi sono molto universali, quindi stanno bene con la maggior parte dei colori. I colori più popolari da abbinare al grigio sono il verde, il giallo e il bianco. Un abbinamento meno comune, ma altrettanto impressionante, è quello dei mobili grigi e degli elementi fucsia.
 {% endfaqAnswer %}
 {% endfaqItem %}
