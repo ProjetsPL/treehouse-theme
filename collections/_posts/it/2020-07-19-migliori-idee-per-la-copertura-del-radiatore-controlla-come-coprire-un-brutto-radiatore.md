@@ -2,17 +2,20 @@
 layout: post
 date: 2020-07-19
 toc: true
-title: Migliori idee per la copertura del radiatore. Controlla come coprire un Brutto Radiatore
-description: "An ugly radiator disrupts your home interior design? \U0001F3E0 Learn
-  how to solve this infuriating problem. Check why a cover radiator is the best solution."
+title: Migliori idee per la copertura del radiatore. Controlla come coprire un Brutto
+  Radiatore
+description: "Un brutto radiatore disturba l'arredamento della vostra casa? \U0001F3E0
+  Imparate a risolvere questo fastidioso problema. Verificate perché un radiatore
+  di copertura è la soluzione migliore."
 image: "/uploads/oslona-na-kaloryfer.jpg"
 promoted: false
 update_date: 2020-07-19
-intro: An unaesthetic radiator is a problem of many, otherwise good-looking apartments.
-  Despite the existence of decorative radiators, most of the available heating devices
-  are not particularly beautiful objects. If it is also your problem, a radiator cover
-  might be a brilliant idea. It hides the ugly device, keeping its functionality.
-  What type of radiator cover is the best?
+intro: Un radiatore antiestetico è un problema di molti appartamenti, altrimenti di
+  bell'aspetto. Nonostante l'esistenza di termosifoni decorativi, la maggior parte
+  dei dispositivi di riscaldamento disponibili non sono oggetti particolarmente belli.
+  Se è anche il vostro problema, un copriradiatore potrebbe essere un'idea brillante.
+  Nasconde il brutto dispositivo, mantenendo la sua funzionalità. Che tipo di copriradiatore
+  è il migliore?
 main_keywords:
 - coperchio del radiatore
 - coperchio termico del radiatore
@@ -21,33 +24,32 @@ main_keywords:
 - come costruire un copriradiatore
 - come fare un copriradiatore
 - come coprire un radiatore
-published: false
 
 ---
-## What is a radiator cover?
+## Cos'è il coperchio del radiatore?
 
-A radiator cover is an attachment which can **increase aesthetics of the heat exchanger.** It is typically used with older models like steel column radiators. Using a radiator cover usually does not influence heating efficiency. In many cases it can be used as an **extension for the windowsill**. This way the element gains a new functionality.
+Il coperchio del radiatore è un accessorio che può aumentare l'estetica dello scambiatore di calore. Viene tipicamente utilizzato con i modelli più vecchi, come i radiatori a colonna in acciaio. L'uso di un coperchio del radiatore di solito non influenza l'efficienza del riscaldamento. In molti casi può essere usato come estensione per il davanzale. In questo modo l'elemento acquisisce una nuova funzionalità.
 
-{:.distinction.distinction-information} 
+{:.distinction.distinction-information}
 
-For this reason a radiator cover is an increasingly popular solution used by many homeowners to match the device with an **interior design**. It also allows to spare money that would have been spent for a new decorative radiator.
+Per questo motivo il coperchio del radiatore è una soluzione sempre più utilizzata da molti proprietari di case per abbinare l'apparecchio a un design interno. Permette anche di risparmiare denaro che sarebbe stato speso per un nuovo radiatore decorativo.
 
-Hiding an ugly element is not the only function of a **radiator cover**. If designed well, it can become an additional shelf, as well as  a protection for little children’s hands. If you want to install a radiator cover in a children’s room, it is best to choose a colourful one, for instance with favourite animals or cartoon characters.
+Nascondere un elemento brutto non è l'unica funzione di un copriradiatore. Se ben progettato, può diventare un ripiano aggiuntivo, oltre che una protezione per le mani dei bambini. Se si vuole installare un copriradiatore in una stanza per bambini, è meglio sceglierne uno colorato, ad esempio con animali preferiti o personaggi dei cartoni animati.
 
 {% fig %}
 ![Is a radiator cover worth it?](/uploads/czy-zabudowa-grzejnika-sie-oplaca.jpg "Is a radiator cover worth it?")
 {% endfig %}
 
-## Is a radiator cover worth it?
+## Vale la pena di coprire il radiatore?
 
-Most of heating devices experts probably would say that using a radiator cover is a waste of energy. On the other hand, supporters of such solution claim that **it has many advantages**. Before you decide which is best for you, it is good to learn arguments from both sides. It will help you decide whether you need a radiator cover or not.
+La maggior parte degli esperti di dispositivi di riscaldamento probabilmente direbbero che l'utilizzo di un copriradiatore è uno spreco di energia. D'altra parte, i sostenitori di tale soluzione sostengono che ha molti vantaggi. Prima di decidere quale sia la soluzione migliore per voi, è bene imparare gli argomenti da entrambe le parti. Vi aiuterà a decidere se avete bisogno o meno di un copriradiatore.
 
-### Radiator cover - advantages
+### Copertura del radiatore - vantaggi
 
-Using a radiator cover has many advantages. The most important and crucial benefit of covering your radiator is **increasing its aesthetic value**. It is the main reason why many homeowners decide to employ such elements in their apartments. A radiator cover is a decorative element that can be suited to your home design.
+L'utilizzo di un coperchio del radiatore ha molti vantaggi. Il vantaggio più importante e cruciale della copertura del radiatore è l'aumento del suo valore estetico. È il motivo principale per cui molti proprietari di case decidono di utilizzare tali elementi nei loro appartamenti. Il copriradiatore è un elemento decorativo che può essere adatto al design della vostra casa.
 
 {:.distinction.distinction-information}
-Manufacturers offer a lot of solutions and if your requirements do not meet the standards, you can always customise the project. In this situation, you can choose what material the radiator cover should be made of and adapt the appearance of the structure to your own preferences.
+I produttori offrono molte soluzioni e se le vostre esigenze non soddisfano gli standard, potete sempre personalizzare il progetto. In questa situazione, potete scegliere il materiale di cui deve essere realizzato il rivestimento del radiatore e adattare l'aspetto della struttura alle vostre preferenze.
 
 {% fig %}
 
@@ -55,33 +57,33 @@ Manufacturers offer a lot of solutions and if your requirements do not meet the 
 
 {% endfig %}
 
-You can reduce the cost of a radiator cover by crafting it yourself. It is not as difficult as it seems and designing such a project is very satisfying. Whether you make it or purchase it, a **radiator cover** is usually very easy to install.
+È possibile ridurre il costo di una copertura per il radiatore realizzando il radiatore da soli. Non è così difficile come sembra e progettare un progetto del genere è molto soddisfacente. Sia che lo si realizzi o che lo si acquisti, un copriradiatore è di solito molto facile da installare.
 
-An additional advantage of covering your radiator is the **double functionality** of the element. Apart from being a decoration, the cover might also become a storage unit. You can also choose a cover that resembles a dresser. You might make a bedside table in a bedroom, and if the radiator stands by the window - a seat or a bench. If there are children in the house, the radiator cover is also a protection against burning their hands. Such a solution is often used in kindergartens.
+Un ulteriore vantaggio della copertura del radiatore è la doppia funzionalità dell'elemento. Oltre ad essere una decorazione, il coperchio può anche diventare un contenitore. Potete anche scegliere un coperchio che assomiglia a un cassettone. Si potrebbe realizzare un comodino in una camera da letto, e se il radiatore sta vicino alla finestra - un sedile o una panca. Se ci sono bambini in casa, il coperchio del radiatore è anche una protezione contro il rischio di scottarsi le mani. Una soluzione di questo tipo viene spesso utilizzata negli asili.
 
 {:.distinction.distinction-information}
-A **radiator cover** is a far cheaper and much simpler solution than a complete replacement of your radiator. Renovating the installation might be time-consuming. Also, new decorative radiators are much more expensive than ordinary devices.
+Il coperchio del radiatore è una soluzione molto più economica e molto più semplice rispetto alla sostituzione completa del radiatore. Ristrutturare l'impianto potrebbe richiedere molto tempo. Inoltre, i nuovi radiatori decorativi sono molto più costosi dei dispositivi ordinari.
 
 {% fig %}
 ![Radiator cover - advantages](/uploads/oslona-na-grzejnik-zalety.jpg "Radiator cover - advantages")
 {% endfig %}
 
-### Radiator cover - disadvantages
+### Copertura del radiatore - svantaggi
 
-The biggest disadvantage of using a radiator cover is **decreasing the device heating efficiency.** Regardless of the design of the decorative element, using it always means decreasing the heating power.
+Lo svantaggio maggiore dell'utilizzo di un coperchio del radiatore è la diminuzione dell'efficienza di riscaldamento dell'apparecchio. Indipendentemente dal design dell'elemento decorativo, utilizzarlo significa sempre diminuire il potere calorifico.
 
 {:.distinction.distinction-warning}
-The screen blocks out the device, therefore it is more difficult for the heat to reach the room. It might be the cause of **decreasing the temperature in the room**. For this reason you might have to turn up the heating, which might lead to an increase in heating bills that anyone would prefer to avoid.
+Lo schermo blocca il dispositivo, quindi è più difficile che il calore raggiunga la stanza. Potrebbe essere la causa dell'abbassamento della temperatura nella stanza. Per questo motivo potrebbe essere necessario alzare il riscaldamento, il che potrebbe portare ad un aumento delle bollette del riscaldamento che chiunque preferirebbe evitare.
 
-A similar situation might occur if your heater has a thermostat. The temperature behind the cover is higher than in the room - which causes the thermostat to cut off the warm water inside the device. Having that in mind, remember about **proper ventilation** when designing a radiator cover. Under no circumstance cover the radiator completely.
+Una situazione simile potrebbe verificarsi se il vostro riscaldatore è dotato di un termostato. La temperatura dietro il coperchio è più alta che nella stanza - il che fa sì che il termostato tagli l'acqua calda all'interno dell'apparecchio. Tenendo a mente questo, ricordatevi della corretta ventilazione quando progettate un coperchio del radiatore. In nessun caso coprire completamente il radiatore.
 
-## What radiator cover is the best?
+## Quale copertura del radiatore è la migliore?
 
-Manufacturers offer a lot of various solutions. Choose one that matches your own needs and the design of your room. There are many types of covers - the most common materials are:
+I produttori offrono molte soluzioni diverse. Sceglietene una che si adatti alle vostre esigenze e al design della vostra stanza. Ci sono molti tipi di coperture - i materiali più comuni lo sono:
 
 {:.list.list-positive}
 
-* **Wood** - it is one of the best looking materials. Covers in form of a seat or a bench are typically made of wood. Wooden radiator covers **might be much more expensive than other materials**.
+* Il legno - è uno dei materiali più belli. Le coperture a forma di sedile o di panca sono tipicamente in legno. I copriradiatori in legno possono essere molto più costosi di altri materiali.
 
 {% fig %}
 ![What radiator cover is the best?](/uploads/jaka-oslona-na-kaloryfer-jest-najlepsza.jpg "What radiator cover is the best?")
@@ -89,68 +91,68 @@ Manufacturers offer a lot of various solutions. Choose one that matches your own
 
 {:.list.list-positive}
 
-* **PCV** - this material is one of the cheapest. Its main advantages are the light weight and flexibility when it comes to cutting patterns. There are **many manufacturers producing boards made of this material** - you can purchase one in a chosen pattern.
-* **MDF** - radiator covers made of MDF boards are quite durable. Manufacturers offer a lot of shapes and designs.
-* **Glass** - this material is very aesthetic, however it might be very prone to damage. It is also quite heavy.
-* **Metal** - the most commonly used metals are steel and aluminium. A metal radiator cover is very durable and conducts heat well. Keep in mind that this type does not protect from burns.
+* PCV - questo materiale è uno dei più economici. I suoi principali vantaggi sono la leggerezza e la flessibilità quando si tratta di modelli di taglio. Ci sono molti produttori che producono schede realizzate con questo materiale - è possibile acquistarne una con un modello scelto.
+* MDF - i coperchi dei radiatori in MDF sono abbastanza resistenti. I produttori offrono molte forme e design.
+* Vetro - questo materiale è molto estetico, tuttavia potrebbe essere molto soggetto a danni. È anche abbastanza pesante.
+* Metallo - i metalli più comunemente usati sono l'acciaio e l'alluminio. Il coperchio del radiatore in metallo è molto resistente e conduce bene il calore. Tenete presente che questo tipo non protegge dalle ustioni.Metallo - i metalli più comunemente usati sono l'acciaio e l'alluminio. Il coperchio del radiatore in metallo è molto resistente e conduce bene il calore. Tenete presente che questo tipo non protegge dalle ustioni.
 
 {:.distinction.distinction-warning}
-Each type of material used for a radiator cover should be **resistant to high temperatures**. On no account use materials that are easy to burn or that have been painted with a substance emanating fumes.
+Ogni tipo di materiale utilizzato per il coperchio del radiatore deve essere resistente alle alte temperature. Non utilizzare in nessun caso materiali che siano facili da bruciare o che siano stati verniciati con una sostanza che emana fumi.
 
-Radiator covers have various types of construction. **A hanging model** is the most popular - it is attached either directly to the heater or to the wall behind it. This type is also easiest to clean. There are also covers **standing on the floor**, in form of a chest or a shelf. They are more expensive, however also more elegant. You can also tailor them to fit other furniture pieces in the room.
+I copriradiatori hanno vari tipi di costruzione. Un modello appeso è il più popolare - è attaccato direttamente al radiatore o alla parete dietro di esso. Questo tipo è anche il più facile da pulire. Ci sono anche coperture in piedi sul pavimento, sotto forma di cassapanca o di ripiano. Sono più costosi, ma anche più eleganti. Si possono anche adattare ad altri mobili della stanza.
 
-## DIY radiator cover
+## Coperchio del radiatore fai da te
 
-There are many products of this type available on the market. You can choose from various sizes and different prices. Regardless, you might consider making such an element by yourself. It not very difficult, you just need to remember about a good design that will not disturb the functioning of the device.
+Ci sono molti prodotti di questo tipo disponibili sul mercato. È possibile scegliere tra varie dimensioni e prezzi diversi. In ogni caso, potreste prendere in considerazione la possibilità di realizzare un elemento di questo tipo da soli. Non è molto difficile, basta ricordare un buon design che non disturba il funzionamento dell'apparecchio.
 
-Before doing anything, you should think of the suitable material. If you use plywood for a radiator cover, you can cut interesting shapes in the front wall. If the heater is located under a window, you might consider **making a cover out of vertical boards**. You could also place the boards horizontally, using a strong construction to hold them.
+Prima di fare qualsiasi cosa, dovreste pensare al materiale adatto. Se si utilizza il compensato per il rivestimento del radiatore, si possono tagliare forme interessanti nella parete anteriore. Se il radiatore si trova sotto una finestra, potreste prendere in considerazione la possibilità di realizzare una copertura con tavole verticali. Potreste anche collocare le tavole in orizzontale, usando una struttura robusta per tenerle in posizione.
 
 {:.distinction.distinction-information}
-If your budget is low, a good idea is to use boards from old pallets. It is not only cheap but also eco-friendly. Painting the boards in light shades adds to the elegance of the whole construction and fits modern styles.
+Se il vostro budget è basso, una buona idea è quella di utilizzare tavole di vecchi pallet. Non è solo economico ma anche ecologico. Dipingere le tavole in tonalità chiare aggiunge eleganza all'intera costruzione e si adatta agli stili moderni.
 
 {% fig %}
 ![DIY radiator cover](/uploads/diy-wlasnorecznie-wykonana-oslona-na-kaloryfer.jpg "DIY radiator cover")
 {% endfig %}
 
-An interesting solution involves using **an openwork board**, for instance made of PCV and attaching it to a wooden construction made of wooden boards. Painted in the same colour as the board, such radiator cover is a very aesthetically pleasing decoration.
+Una soluzione interessante consiste nell'utilizzare una tavola traforata, ad esempio in PCV, e fissarla ad una costruzione in legno fatta di tavole di legno. Verniciata nello stesso colore della tavola, tale copertura del radiatore è una decorazione molto gradevole dal punto di vista estetico.
 
 {% fig %}
 ![DIY radiator cover](/uploads/diy-wlasnorecznie-wykonana-oslona-na-kaloryfer2.jpg "DIY radiator cover")
 {% endfig %}
 
 {:.distinction.distinction-warning}
-Keep in mind that if you are not so sure that you are able to craft such an element, making a cover by yourself is not worth it. It might end up in a huge disappointment. Moreover, a **poorly designed element might disrupt functionality of your radiator**. If you have a particular, custom project in mind, pay someone to make it for you. This way you will avoid disappointment and make sure that your radiator cover is elegant.
+Tenete presente che se non siete così sicuri di essere in grado di realizzare un tale elemento, non vale la pena di fare una copertura da soli. Potrebbe finire con un'enorme delusione. Inoltre, un elemento mal progettato potrebbe compromettere la funzionalità del vostro radiatore. Se avete in mente un progetto particolare e personalizzato, pagate qualcuno che lo realizzi per voi. In questo modo eviterete la delusione e vi assicurerete che il coperchio del radiatore sia elegante.
 
-A radiator cover is a good solution if you want to hide a not very attractive heater. The element might change the look of your interior, increasing its aesthetic value. Before choosing such a decoration for your home, you should consider all its advantages and disadvantages. A good design is crucial in this case, as it minimizes the risk of losing the functionality of the device.
+Un copriradiatore è una buona soluzione se volete nascondere un radiatore non molto attraente. L'elemento potrebbe cambiare l'aspetto del vostro interno, aumentandone il valore estetico. Prima di scegliere una decorazione di questo tipo per la vostra casa, dovreste considerare tutti i suoi vantaggi e svantaggi. Un buon design è fondamentale in questo caso, in quanto riduce al minimo il rischio di perdere la funzionalità dell'apparecchio.
 
-## Radiator cover - FAQ
+## Coperchio del radiatore - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-How to build a radiator cover?
+Come si costruisce un copriradiatore?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-There are many DIY ideas on how to build a radiator cover - one of them involves using an openwork board and attaching it to a wooden construction. You can use the web to search for more radiator cover ideas. Use them only when you are absolutely sure that you are able to do it.
+Ci sono molte idee fai-da-te su come costruire una copertura per radiatori - una di queste prevede l'utilizzo di un pannello traforato e il fissaggio ad una costruzione in legno. È possibile utilizzare il web per cercare altre idee per il copriradiatore. Usatele solo quando siete assolutamente sicuri di essere in grado di farlo.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to make a radiator cover that is eco-friendly?
+Come realizzare un copriradiatore ecologico?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-A good budget and eco-friendly radiator cover idea is using boards from an old pallet. You can attach them either vertically or horizontally, using a special construction to hold the boards.
+Un'idea di copertura per radiatori a buon mercato ed ecologica è quella di utilizzare le tavole di un vecchio pallet. È possibile fissarli sia verticalmente che orizzontalmente, utilizzando una speciale costruzione per contenere le tavole.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to cover a radiator?
+Come coprire un radiatore?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The best idea is to buy a cover from a manufacturer. There are many types of covers available. If you have some crafting skills, you might make a cover yourself.
+L'idea migliore è quella di acquistare una copertina da un produttore. Ci sono molti tipi di coperture disponibili. Se avete un po 'di abilità artigianali, si potrebbe fare una copertina da soli.
 {% endfaqAnswer %}
 {% endfaqItem %}
