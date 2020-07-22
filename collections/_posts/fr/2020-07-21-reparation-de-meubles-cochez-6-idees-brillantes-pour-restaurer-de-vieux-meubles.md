@@ -16,202 +16,202 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-21
-title: 'Réparation de meubles - Cochez 6 idées brillantes pour restaurer de vieux meubles '
-description: "Feeling the need for a change in your house? \U0001F3E0 Don’t spend
-  fortune, upcycled furniture is as good as new! \U0001F6CB️ Furniture repair is very
-  easy - check it out!"
-intro: Do you want to change something in your house but you don't have money nor
-  concept to buy new equipment? Don't worry! Take a look at zero waste - the lastest
-  trend that will help you to completely change the look of your old furniture. Furniture
-  repair is quite an easy task. It might bring you a lot of satisfaction and great
-  results. Learn how to repurpose your old furniture to enjoy its looks for many years
-  to come.
+title: 'Réparation de meubles - Cochez 6 idées brillantes pour restaurer de vieux
+  meubles '
+description: "Vous ressentez le besoin de changer de maison ? \U0001F3E0 Ne dépensez
+  pas votre fortune, les meubles recyclés sont comme neufs ! \U0001F6CB️ La réparation
+  de meubles est très facile - regardez !"
+intro: Vous voulez changer quelque chose dans votre maison mais vous n'avez ni l'argent
+  ni le concept pour acheter un nouvel équipement ? Ne vous inquiétez pas ! Jetez
+  un coup d'œil à "zéro déchet", la dernière tendance qui vous aidera à changer complètement
+  l'aspect de vos vieux meubles. La réparation de meubles est une tâche assez facile.
+  Elle peut vous apporter beaucoup de satisfaction et de bons résultats. Apprenez
+  à réutiliser vos vieux meubles pour en profiter pendant de nombreuses années.
 image: "/uploads/renowacja-mebli-6-sprytnych-wskazowek-jak-odnowic-meble.jpg"
 related_products: []
-published: false
 
 ---
-## Furniture repair at home – is it possible?
+## Réparation de meubles à domicile - est-ce possible ?
 
-Furniture repair at home is practically always possible. It doesn't matter whether your furniture is made of wood or upholstered – all you need is a little bit of creativity and some useful tips.
+La réparation de meubles à domicile est pratiquement toujours possible. Peu importe que vos meubles soient en bois ou rembourrés - il vous suffit d'un peu de créativité et de quelques conseils utiles.
 
-**Wondering how to restore furniture?** First, think of the result that you wish to achieve – it's the most important factor. Based on this, you need to choose the right method and prepare the furniture accordingly.
+Vous vous demandez comment restaurer un meuble ? Tout d'abord, pensez au résultat que vous souhaitez obtenir - c'est le facteur le plus important. Sur cette base, vous devez choisir la bonne méthode et préparer le mobilier en conséquence.
 
-Wooden furniture is definitely the easiest type to renovate. In most cases all that needs to be done is covering the piece or its part with appropriate product – paint or varnish.
-
-{:.distinction.distinction-information}
-Upholstered furniture repair requires a little bit of experience, as it is a more complicated process.
-
-## Getting ready for furniture refinishing – the first step
-
-Before your old furniture can be refurbished, you should prepare it. It is the basis for you further work.
+Les meubles en bois sont certainement les plus faciles à rénover. Dans la plupart des cas, il suffit de recouvrir le meuble ou sa partie avec un produit approprié - peinture ou vernis.
 
 {:.distinction.distinction-information}
-Before you decide to refurbish your equipment at home – think what outcome you expect. Browse through some ideas and determine the result you want to achieve. This way you will focus on buying only the necessary tools and products – paint, varnish or other materials that you might need. Such preparation is a guarantee that furniture repair is going to be successful.
+La réparation de meubles rembourrés demande un peu d'expérience, car c'est un processus plus compliqué.
 
-Regardless of the method you choose, you are going to need a plastic sheet to protect your floor. You might also use cardboard – if you have it. **This way you can protect the surface against spilling the product on it.**
+## Se préparer à la finition des meubles - la première étape
+
+Avant que votre vieux mobilier puisse être remis à neuf, vous devez le préparer. C'est la base de votre travail ultérieur.
+
+{:.distinction.distinction-information}
+Avant de décider de remettre votre équipement à neuf chez vous, réfléchissez au résultat que vous attendez. Passez en revue quelques idées et déterminez le résultat que vous souhaitez obtenir. Ainsi, vous vous concentrerez sur l'achat des outils et des produits nécessaires - peinture, vernis ou autres matériaux dont vous pourriez avoir besoin. Une telle préparation est la garantie que la réparation des meubles sera réussie.
+
+Quelle que soit la méthode choisie, vous aurez besoin d'une bâche en plastique pour protéger votre sol. Vous pouvez également utiliser du carton, si vous en avez. De cette façon, vous pouvez protéger la surface contre les éclaboussures de produit.
 
 {% fig %}
 ![Getting ready for furniture refinishing - the first step](/uploads/jak-zaczac-odnawianie-mebli-najwazniejsze-jest-przygotowanie.jpg "Getting ready for furniture refinishing - the first step")
 {% endfig %}
 
-If you paint the furniture, you might also need a brush or a roller, masking tape, sanding paper and a cloth to clean the surface before painting. **Do not forget to protect yourself** - use gloves.
+Si vous peignez les meubles, vous aurez peut-être aussi besoin d'un pinceau ou d'un rouleau, de ruban-cache, de papier abrasif et d'un chiffon pour nettoyer la surface avant de peindre. N'oubliez pas de vous protéger - utilisez des gants.
 
-## Upcycling furniture – the most important aspects
+## Recyclage des meubles - les aspects les plus importants
 
-The process of furniture repair consists of several stages that might help you to make the work more organized. This way the renovation is easier and much faster.
+Le processus de réparation de meubles comprend plusieurs étapes qui peuvent vous aider à mieux organiser le travail. De cette manière, la rénovation est plus facile et beaucoup plus rapide.
 
-**Determining the order of each step** is a guarantee of satisfactory results. Are you wondering how to begin upcycling furniture you own? Check the useful tips we have prepared for you below!
+Déterminer l'ordre de chaque étape est une garantie de résultats satisfaisants. Vous vous demandez comment commencer à recycler le mobilier que vous possédez ? Consultez les conseils utiles que nous avons préparés pour vous ci-dessous !
 
-### Removing the old paint and preparing the surface
+### Enlever la vieille peinture et préparer la surface
 
-Wooden furniture preparation involves mainly removing the layer of old paint from the surface.
+La préparation des meubles en bois consiste principalement à enlever la couche de vieille peinture de la surface.
 
-Layers covering the furniture might be **damaged with time.** Their color might also be simply out of fashion - therefore you might desire to change it for a trendy one. To do that, you should remove the old paint.
+Les couches qui recouvrent le meuble peuvent être endommagées avec le temps. Leur couleur peut également être simplement démodée, c'est pourquoi vous pouvez souhaiter en changer pour une couleur plus tendance. Pour ce faire, vous devez enlever l'ancienne peinture.
 
-The easiest method for old paint removal is using a piece of sanding paper. You can buy it in every hardware shop. Perhaps you own a grinder tool – if so, it is a good idea to use it. This way removing the old layers is much quicker so you can move on to the next steps right away.
+La méthode la plus simple pour enlever la vieille peinture est d'utiliser un morceau de papier abrasif. Vous pouvez l'acheter dans tous les magasins de bricolage. Vous possédez peut-être un outil de ponçage - si c'est le cas, il est bon de l'utiliser. De cette façon, l'enlèvement des anciennes couches est beaucoup plus rapide, ce qui vous permet de passer immédiatement aux étapes suivantes.
 
 {:.distinction.distinction-information}
-Remember to clean the surface from dust after you finish sanding it. To do it, use a piece of cloth or a soft brush. You might also use a vacuum cleaner which can remove any remaining particles. This prevents the paint from forming clumps and the furniture looks much more aesthetically pleasing after the painting is finished.
+N'oubliez pas de nettoyer la surface de la poussière après avoir fini de la poncer. Pour ce faire, utilisez un morceau de tissu ou une brosse douce. Vous pouvez également utiliser un aspirateur qui peut éliminer les particules restantes. Cela empêche la peinture de former des grumeaux et le mobilier est beaucoup plus esthétique une fois la peinture terminée.
 
-### Furniture repair also means improving their quality
+### La réparation des meubles signifie également l'amélioration de leur qualité
 
-If you noticed any holes in your wooden furniture, it probably means that there are some pests inside. Improving the stte of the item is absolutely necessary – you should get rid of the "intruders".
+Si vous avez remarqué des trous dans vos meubles en bois, cela signifie probablement qu'il y a des parasites à l'intérieur. Il est absolument nécessaire d'améliorer le stte de l'objet - vous devez vous débarrasser des "intrus".
 
-Are you wondering **how to get rid of pests** and if it's possible at all? Of course it is. There are many products that can help you remove the insects. The chemical is typically applied onto the wooden surface and then the item is wrapped in foil for a specific time.
+Vous vous demandez comment vous débarrasser des parasites et si c'est possible ? Bien sûr que c'est possible. Il existe de nombreux produits qui peuvent vous aider à éliminer les insectes. Le produit chimique est généralement appliqué sur la surface du bois, puis l'objet est enveloppé dans du papier d'aluminium pendant une durée déterminée.
 
-### Broken elements. Can you repair furniture with defects?
+### Des éléments brisés. Pouvez-vous réparer les meubles présentant des défauts ?
 
-Upcycling furniture with some defects caused by mechanical damage, as well as pests is possible. All you need to do is refill the cavities.
+Il est possible de recycler des meubles présentant certains défauts dus à des dommages mécaniques, ainsi qu'à des parasites. Il suffit de remplir les cavités.
 
-**Deep scratches**, holes made by pests or indentations can be removed by using a spackling paste. Manufacturers of such products offera avariety of colors, so that the paste perfectly matches with the shade of furniture. Thanks to this the filling remains practically invisible.
+Les rayures profondes, les trous causés par les parasites ou les indentations peuvent être enlevés à l'aide d'une pâte à spatuler. Les fabricants de ces produits offrent une grande variété de couleurs, de sorte que la pâte s'harmonise parfaitement avec la teinte des meubles. Grâce à cela, le remplissage reste pratiquement invisible.
 
-### Furniture repair – get down to work!
+### Réparation de meubles - au travail !
 
-If you have made all the mentioned preparations, you may begin the proper furniture refinishing. **Wondering how to do it?** You can find many useful tips down below.
+Si vous avez fait tous les préparatifs mentionnés, vous pouvez commencer la réparation de vos meubles. Vous vous demandez comment faire ? Vous trouverez de nombreux conseils utiles ci-dessous.
 
-## Ideas for a successful furniture repair and renovation
+## Idées pour une réparation et une rénovation réussies des meubles
 
-There are several proven methods for furniture refinishing. Choosing the right method depends primarily on one's individual expectations.
+Il existe plusieurs méthodes éprouvées pour la finition des meubles. Le choix de la bonne méthode dépend principalement des attentes de chacun.
 
-The most popular solutions are **waxing, varnishing, painting** and covering with special materials. Don't forget that furniture reupholstering is also possible to do at home.
+Les solutions les plus courantes sont le cirage, le vernissage, la peinture et le revêtement avec des matériaux spéciaux. N'oubliez pas qu'il est également possible de refaire le rembourrage des meubles à la maison.
 
-### Refurbishing furniture with wax
+### Remise à neuf de meubles avec de la cire
 
-Waxing is one of the oldest method – especially for wooden furniture repair. It might be used particularly for raw material. The old layers of paint must be removed from the surface before waxing can be started.
+Le cirage est l'une des méthodes les plus anciennes - surtout pour la réparation des meubles en bois. Il peut être utilisé notamment pour la matière première. Les anciennes couches de peinture doivent être enlevées de la surface avant de pouvoir commencer le cirage.
 
 {% fig %}
 ![Refurbishing furniture with wax](/uploads/odnawianie-mebli-za-pomoca-woskowania.jpg "Refurbishing furniture with wax")
 {% endfig %}
 
 {:.distinction.distinction-information}
-There are many products that allow to wax furniture that had been preserved with wood stain or other coatings.
+Il existe de nombreux produits qui permettent de cirer les meubles qui ont été conservés avec une teinture pour bois ou d'autres revêtements.
 
-**What is waxing and is it an effective method?** Waxing protects your furniture against moisture. Furthermore, one can buy not only transparent wax - there are also colorful products that can change the shade of refurbished furniture.
+Qu'est-ce que le cirage et est-ce une méthode efficace ? Le cire protège vos meubles contre l'humidité. En outre, on peut acheter non seulement de la cire transparente, mais aussi des produits colorés qui peuvent changer la teinte des meubles remis à neuf.
 
-### Varnish – a quick and easy way to renovate old furniture
+### Le vernis - un moyen rapide et facile de rénover les vieux meubles
 
-Varnishing is considered the most popular and easiest way to refurbish old furniture, therefore a lot of people decide to try it.
+Le vernissage est considéré comme le moyen le plus populaire et le plus facile de remettre à neuf les vieux meubles, c'est pourquoi beaucoup de gens décident d'essayer.
 
 {:.distinction.distinction-information}
-The most important part of varnishing is sanding the surface. It helps the product to adhere better, and makes the furniture look flawless.
+La partie la plus importante du vernissage est le ponçage de la surface. Il permet une meilleure adhérence du produit et donne au meuble un aspect impeccable.
 
-Many experts recommend using a primer before covering an element with varnish. It makes the surface **more resistant against mositure, abrasion** and products used for everyday cleaning and dusting.
+De nombreux experts recommandent d'utiliser un apprêt avant de recouvrir un élément de vernis. Il rend la surface plus résistante à la mosaïque, à l'abrasion et aux produits utilisés pour le nettoyage et l'époussetage quotidiens.
 
-### Furniture refinishing with paint. What paint is the best?
+### Finition de meubles avec de la peinture. Quelle est la meilleure peinture ?
 
-Furniture painting is as common method for furniture repair as varnishing. In this case a question might arise – **what kind of paint should one use**?
+La peinture pour meubles est une méthode de réparation de meubles aussi courante que le vernissage. Dans ce cas, une question peut se poser : quel type de peinture doit-on utiliser ?
 
-The most popular types of paint for furniture refinishing is chalk and acrylic paint. The choice mostly depends on the effect that you wish to achieve. If your main focus is on durability – pick acrylic paint. If you are dreaming of trasforming your interior into a **shabby chic** style design, choose chalk paint. What is the difference between those two products?
+Les types de peinture les plus populaires pour la retouche de meubles sont la craie et la peinture acrylique. Le choix dépend surtout de l'effet que vous souhaitez obtenir. Si votre objectif principal est la durabilité, choisissez la peinture acrylique. Si vous rêvez de transformer votre intérieur en un design de style chic et miteux, choisissez la peinture à la craie. Quelle est la différence entre ces deux produits ?
 
 {% fig %}
 ![Acrylic paint – give new life to your old furniture](/uploads/odnawianie-starych-mebli-farba-jaki-rodzaj-farby-wybrac.jpg "Acrylic paint – give new life to your old furniture")
 {% endfig %}
 
-#### Acrylic paint – give new life to your old furniture
+#### Peinture acrylique - redonnez une nouvelle vie à vos vieux meubles
 
-Acrylic paint is one of the most durable type of paint available. It is a perfect choice if your main goal is to give your old furniture a completely new look.
+La peinture acrylique est l'un des types de peinture les plus durables qui existent. C'est un choix parfait si votre objectif principal est de donner à vos vieux meubles un aspect complètement neuf.
 
-**This product is characterized by high opacity.** There are many colors available so it is easy to match it with your own preferences. What's notable, a paint of this type is quite firm – in many cases it can endure harmful weather conditions, therefore it can be used for garden furniture as well.
+Ce produit se caractérise par une grande opacité. Il existe de nombreuses couleurs disponibles, il est donc facile de le faire correspondre à vos propres préférences. Ce qui est remarquable, c'est qu'une peinture de ce type est assez ferme - dans de nombreux cas, elle peut supporter des conditions climatiques néfastes, c'est pourquoi elle peut également être utilisée pour les meubles de jardin.
 
-#### Furniture refinishing – with chalk paint you can achieve fantastic results and a unique style
+#### Rénovation de meubles - avec la peinture à la craie, vous pouvez obtenir des résultats fantastiques et un style unique
 
-Chalk paint for refurbished furniture is typically used for creating interesting effects, such as distressing. It is a characteristic feature for **shabby chic** style.
+La peinture à la craie pour les meubles remis à neuf est généralement utilisée pour créer des effets intéressants, tels que le désarroi. C'est un élément caractéristique du style chic et miteux.
 
 {% fig %}
 ![Furniture refinishing – with chalk paint you can achieve fantastic results and a unique style](/uploads/odnawianie-starych-mebli-dzieki-farbie-kredowej-uzyskasz-niesamowite-efekty-i-wyjatkowy-styl.jpg "Furniture refinishing – with chalk paint you can achieve fantastic results and a unique style")
 {% endfig %}
 
-Using this kind of product can help you create various cracks and wear down effect or **take the gloss of**. If you like vintage style, this type of paint will be perfect for you.
+L'utilisation de ce type de produit peut vous aider à créer diverses fissures et à obtenir un effet d'usure ou à prendre le brillant de Si vous aimez le style vintage, ce type de peinture sera parfait pour vous.
 
 {:.distinction.distinction-warning}
-Unfortunately chalk paint is far less durable than acrylic products. You might need to apply several layers, although they might slightly wear away after a while.
+Malheureusement, la peinture à la craie est beaucoup moins durable que les produits acryliques. Vous devrez peut-être en appliquer plusieurs couches, même si elles risquent de s'user légèrement au bout d'un certain temps.
 
-### Furniture repair – use vinyl wrap!
+### Réparation de meubles - utilisez du film plastique !
 
-Do you want your furniture to look modern and stylish? Are you looking for a quick method to hide a damaged wooden surface? Try renovating your furniture with a vinyl wrap – it's easy!
+Vous voulez que vos meubles aient un aspect moderne et élégant ? Vous cherchez une méthode rapide pour cacher une surface en bois endommagée ? Essayez de rénover vos meubles avec un film plastique - c'est facile !
 
 {:.distinction.distinction-information}
-There are many types of wraps available. You can easily choose the right design that matches your interior.
+Il existe de nombreux types d'enveloppes. Vous pouvez facilement choisir le design qui convient à votre intérieur.
 
-If you have chosen the right product, you might begin your work. Make sure to **wash the piece of equipment with a soapy water**. Remove any protruding objects such as knobs and handles. Cut the wrap carefully and precisely, then remove the protective film. Put the wrap onto the surface. You can get rid of air bubbles using a piece of cloth. Move it through the surface carefully towards the side. As you reach the edge, the air will escape.
+Si vous avez choisi le bon produit, vous pouvez commencer votre travail. Veillez à laver l'appareil avec une eau savonneuse. Retirez les objets qui dépassent, tels que les boutons et les poignées. Coupez l'emballage avec soin et précision, puis retirez le film protecteur. Posez l'emballage sur la surface. Vous pouvez éliminer les bulles d'air à l'aide d'un morceau de tissu. Déplacez-le avec précaution sur le côté de la surface. L'air s'échappera en atteignant le bord.
 
-### Furniture reupholstering at home - is it possible?
+### Rembourrer les meubles à la maison - est-ce possible ?
 
-It is possible to reupholster your old furniture, although it is much more complicated than classic wooden furniture repair.
+Il est possible de rembourrer vos vieux meubles, bien que ce soit beaucoup plus compliqué que la réparation classique de meubles en bois.
 
 {% fig %}
 ![Furniture reupholstering at home - is it possible?](/uploads/czy-renowacja-mebli-tapicerowanych-w-domu-jest-mozliwa.jpg "Furniture reupholstering at home - is it possible?")
 {% endfig %}
 
-There are some tips thank to which you might be able to **reupholster your sofa** or favourite armchair. Remember that patience is the key – you will need a lot of it. Apart from that you also need several tools:
+Il existe quelques astuces grâce auxquelles vous pourrez peut-être rembourrer votre canapé ou votre fauteuil préféré. N'oubliez pas que la patience est la clé - vous en aurez besoin en grande partie. En outre, vous avez également besoin de plusieurs outils :
 
 {:.list.list-positive}
 
-* new fabric to upholster the piece,
-* special tape – best if made of cotton, colored the same as the new fabric,
-* utility knife – also known as a **box cutter**,
-* a screwdriver,
-* a pair of scissors,
-* pliers,
-* staple gun,
-* staples in appropriate size.
+* nouveau tissu pour tapisser la pièce,
+* un ruban spécial - de préférence en coton, de la même couleur que le nouveau tissu,
+* couteau utilitaire - également appelé coupe-boîte,
+* un tournevis,
+* une paire de ciseaux,
+* pinces,
+* pistolet à agrafes,
+* des agrafes de taille appropriée.
 
-Where should you begin the furniture repair? First, remove the old padding. Then cut the new fabric.
+Par où commencer la réparation des meubles ? Tout d'abord, retirez l'ancien rembourrage. Ensuite, coupez le nouveau tissu.
 
 {:.distinction.distinction-warning}
-Add several centimeters of material when you cut. You might remove it later, however if you cut out too small shape, the material will go to waste.
+Ajoutez plusieurs centimètres de matière lorsque vous coupez. Vous pouvez l'enlever plus tard, mais si vous découpez une forme trop petite, la matière sera perdue.
 
-Another crucial action is sewing the material to the armchair or sofa. Attach the cotton tape at the seams and that's it. **Easy, right?**
+Une autre action cruciale consiste à coudre le matériau sur le fauteuil ou le canapé. Fixez le ruban de coton aux coutures et c'est tout. C'est facile, non ?
 
-Furniture refinishing does not have to be a difficult task! All you need to do is use the tips we have presented. Your interior can be completely changed - for a low price.
+La retouche de meubles ne doit pas être une tâche difficile ! Il vous suffit d'utiliser les conseils que nous vous avons présentés. Votre intérieur peut être complètement changé - pour un prix modique.
 
 {% faqItem %}
 {% faqQuestion %}
-How to paint furniture?
+Comment peindre les meubles ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-You can cover your old furniture with a varnish or paint, depending on the type of particular piece. Do do this, remove old layers and sand the surface thoroughly. For painting you may use a traditional paintbrush or a roller in the right size.
+Vous pouvez recouvrir vos vieux meubles d'un vernis ou d'une peinture, selon le type de pièce. Pour ce faire, enlevez les anciennes couches et poncez soigneusement la surface. Pour peindre, vous pouvez utiliser un pinceau traditionnel ou un rouleau de la bonne taille.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-Is furniture reupholstering difficult?
+Le rembourrage des meubles est-il difficile ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-It is quite easy to reupholster an armchair or other piece. All you need to do is follow certain rules and do everything step by step. First, remove the old padding and replace it with a new one. Then secure it with a cotton tape.
+Il est assez facile de rembourrer un fauteuil ou une autre pièce. Il suffit de suivre certaines règles et de tout faire pas à pas. Tout d'abord, retirez l'ancien rembourrage et remplacez-le par un nouveau. Ensuite, fixez-le à l'aide d'un ruban de coton.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to refurbish furniture?
+Comment remettre à neuf les meubles ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Furniture repair and restoration might be done in various ways – for instance by using varnish, paint, vinyl wrap or a new upholstery fabric. Remember to prepare the furniture accordingly, and then follow specialists’ guides.
+La réparation et la restauration de meubles peuvent se faire de différentes manières, par exemple en utilisant du vernis, de la peinture, du vinyle ou un nouveau tissu d'ameublement. N'oubliez pas de préparer le mobilier en conséquence, puis de suivre les guides des spécialistes.
 {% endfaqAnswer %}
 {% endfaqItem %}
