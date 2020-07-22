@@ -13,159 +13,159 @@ main_keywords:
 - cómo construir una ducha
 - cómo construir una ducha de azulejos
 - cómo construir un bordillo para la ducha
-- ¿cuánto cuesta un paseo en la ducha
+- "¿cuánto cuesta un paseo en la ducha"
 toc: true
 promoted: false
 update_date: 2020-07-21
 title: Ducha sin rizo - Consulta la tendencia popular en baños del año 2020
-description: "Thinking about a curbless shower? \U0001F6BF  This unusual bathroom
-  design is becoming a new trend in 2020. ➡️ Find out whether a barrier free shower
-  is for you!"
-intro: In times of minimalistic designs, everyone aims to spare as much space as possible.
-  It might be quite a difficult task, especially if one has little space at their
-  disposal. It is one of the most common problems with bathrooms. Fortunately, interior
-  designers are constantly introducing new trends and solutions. The most popular
-  current trend is a curbless shower in a bathroom. The idea of a wet room allows
-  you to utilize a bathroom space to the maximum. What’s more, the aesthetics of such
-  a solution are beyond one’s imagination.
+description: "¿Piensas en una ducha sin rizo? \U0001F6BF Este inusual diseño de baño
+  se está convirtiendo en una nueva tendencia en 2020. ➡️ ¡Averigua si una ducha sin
+  barreras es para ti!"
+intro: En tiempos de diseños minimalistas, todo el mundo intenta ahorrar el mayor
+  espacio posible. Puede ser una tarea bastante difícil, especialmente si uno tiene
+  poco espacio a su disposición. Es uno de los problemas más comunes con los baños.
+  Afortunadamente, los diseñadores de interiores están constantemente introduciendo
+  nuevas tendencias y soluciones. La tendencia actual más popular es una ducha sin
+  rizo en el baño. La idea de un cuarto húmedo permite utilizar el espacio del baño
+  al máximo. Es más, la estética de tal solución está más allá de la imaginación de
+  uno.
 image: "/uploads/sidekix-media-g51F6-zyu-unsplash.jpg"
 related_products: []
-published: false
 
 ---
-## Curbless shower - how does it work?
+## Ducha sin rizo, ¿cómo funciona?
 
-A curbless shower is exactly what the name suggests. The base on which shower doors or shower curtains usually rest, is removed.
+Una ducha sin rizo es exactamente lo que el nombre sugiere. Se quita la base sobre la que suelen apoyarse las puertas o cortinas de la ducha.
 
-What’s left in the bathroom is only a **shower stall** and shower head. Thanks to this, the room gains a new, lightweight look. Due to the lack of a big white base the only barrier is a glass wall, usually completely transparent. Every other element that is in the bathroom becomes more accentuated.
+Lo que queda en el baño es sólo una cabina de ducha y un cabezal de ducha. Gracias a esto, la habitación adquiere un nuevo aspecto ligero. Debido a la falta de una gran base blanca, la única barrera es una pared de vidrio, normalmente completamente transparente. Todos los demás elementos que hay en el baño se acentúan.
 
-Obviously, if one desires to implement such a concept at their place, certain preparations are needed. Therefore one should make a plan to figure out **how to make a curbless shower** in their bathroom. What are the most important issues to keep in mind?
+Obviamente, si uno desea implementar tal concepto en su lugar, se necesitan ciertos preparativos. Por lo tanto, uno debe hacer un plan para averiguar cómo hacer una ducha sin rizo en su baño. ¿Cuáles son las cuestiones más importantes a tener en cuenta?
 
 {:.list}
 
-* **Width of the floor (ceiling**) - it dictates the type of th drain that needs to be installed. It is easier if the bathroom is designed during the stage of constructing the building.
-* **Floor shape** - it needs to be appropriate so that water can flow down freely.
-* **Expenses** - a curbless shower requires the right structure of the whole room. The cost of adjusting it varies depending on individual factors.
+* El ancho del piso (techo) - dicta el tipo de desagüe que debe ser instalado. Es más fácil si el baño se diseña durante la etapa de construcción del edificio.
+* La forma del piso - debe ser apropiada para que el agua pueda fluir libremente.
+* Gastos - una ducha sin rizo requiere la estructura adecuada de toda la habitación. El costo de ajustarla varía dependiendo de factores individuales.
 
 {% fig %}
 ![Curbless shower - how does it work?](/uploads/prysznic-bez-brodzika-na czym-to-w-ogole-polega.jpg "Curbless shower - how does it work?")
 {% endfig %}
 
-A curbless shower is without any doubt a very attractive solution. For this reason many homeowners opt for it. It is good to learn all the details of constructing such a unit in one’s bathroom.
+Una ducha sin rizo es sin duda una solución muy atractiva. Por esta razón muchos propietarios optan por ella. Es bueno aprender todos los detalles de la construcción de una unidad de este tipo en el baño.
 
-## A curbless shower - modern minimalism
+## Una ducha sin rizo - minimalismo moderno
 
-A barrier free shower is the most subtle part of a bathroom. The only thing that might catch one’s eye is the shower head. The interior gets its space back.
+Una ducha sin barreras es la parte más sutil de un baño. Lo único que puede llamar la atención es el cabezal de la ducha. El interior recupera su espacio.
 
-A wet room design is the easiest to make if it’s planned beforehand - best during the stage of constructing the whole building. A **curbless shower** poses a great opportunity to pay attention to certain individual elements of the decor. It is a solution that responds to the minimalistic designs. One of the rules for this style is hiding unnecessary elements that might be distracting. Bathrooms with a curbless shower are exceptionally **elegant and stylish**.
+Un diseño de cuarto húmedo es el más fácil de hacer si se planea de antemano, mejor durante la etapa de construcción de todo el edificio. Una ducha sin rizo es una gran oportunidad para prestar atención a ciertos elementos individuales de la decoración. Es una solución que responde a los diseños minimalistas. Una de las reglas de este estilo es ocultar los elementos innecesarios que podrían distraer. Los baños con una ducha sin rizo son excepcionalmente elegantes y elegantes.
 
 {:.distinction.distinction-information}
 
-A curbless shower is a particularly attractive option for small bathrooms. Such interiors have so limited space that every centimeter counts. Glass, transparent walls “unblock” the whole room.
+Una ducha sin rizo es una opción particularmente atractiva para los baños pequeños. Tales interiores tienen un espacio tan limitado que cada centímetro cuenta. Las paredes transparentes de cristal "desbloquean" toda la habitación.
 
-One might achieve even better results using just one wall or a nook. There are many possibilities - it’s a great opportunity to **design a small bathroom** in an interesting way. What are the other advantages of a curbless shower?
+Uno podría lograr resultados aún mejores usando sólo una pared o un rincón. Hay muchas posibilidades - es una gran oportunidad para diseñar un pequeño baño de una manera interesante. ¿Cuáles son las otras ventajas de una ducha sin rizo?
 
 {:.list.list-positive}
 
-* **Easy cleaning** - both shower door and floor that build a curbless shower are very easy to keep clean. There are less nooks and crannies in which scale and dirt might accumulate.
-* **Option to customize the size of the stall** - a curbless shower cabin might have any size, therefore interior design is easier to adjust. One might design a shower of an unusual shape and size.
-* **Lower costs** - if a curbless shower has been planned before designing the bathroom, it is not an expensive project. In such a case the costs involve mostly buying a glass wall and several additional elements.
-* **No threshold** - a curbless shower is a great solution for elderly, people using a wheelchair and children. There is no barrier between the base and the bathroom, therefore there is no risk of accidental tripping and losing balance. A wheelchair also can enter such a cabin without any difficulties. It is a huge improvement which makes one more independent.
+* Fácil de limpiar - tanto la puerta de la ducha como el suelo que construye una ducha sin rizo son muy fáciles de mantener limpios. Hay menos rincones y grietas en los que se puedan acumular escamas y suciedad.
+* Una cabina de ducha sin rizo puede tener cualquier tamaño, por lo que el diseño interior es más fácil de ajustar. Uno podría diseñar una ducha de una forma y tamaño inusual.
+* Menores costos - si una ducha sin rizo ha sido planeada antes de diseñar el baño, no es un proyecto caro. En tal caso los costos implican sobre todo la compra de una pared de vidrio y varios elementos adicionales.
+* Sin umbral - una ducha sin rizo es una gran solución para los ancianos, las personas que usan una silla de ruedas y los niños. No hay ninguna barrera entre la base y el baño, por lo que no hay riesgo de tropezar accidentalmente y perder el equilibrio. Una silla de ruedas también puede entrar en una cabina de este tipo sin ninguna dificultad. Es una gran mejora que lo hace a uno más independiente.
 
 {% fig %}
 ![A curbless shower - modern minimalism](/uploads/prysznic-bez-brodzika-nie-dla-kazdego.jpg "A curbless shower - modern minimalism")
 {% endfig %}
 
-## Curbless shower - not for everyone
+## Ducha sin rizo - no para todos
 
-Although a wet room is a highly advantageous solution, unfortunately it also has some disadvantages. For this reason not everyone can use it. If a curbless shower is to be constructed in an **already finished bathroom**, it might be quite problematic. In this case it will not be a cheap solution. Designing such a shower means a complete makeover of a room.
+Aunque una habitación húmeda es una solución muy ventajosa, por desgracia también tiene algunas desventajas. Por esta razón no todo el mundo puede utilizarlo. Si se va a construir una ducha sin rizo en un baño ya terminado, puede ser bastante problemático. En este caso no será una solución barata. Diseñar una ducha de este tipo significa una transformación completa de una habitación.
 
 {:.distinction.distinction-warning}
-A curbless shower requires an appropriate drain, hidden in the floor. The floor itself should slope so that the water does not flood the bathroom. This requires removing old tiles and creating the floor anew. It also might turn out that the ceiling is too thin - in which case a curbless shower is simply not possible to construct.
+Una ducha sin rizo requiere un desagüe apropiado, oculto en el suelo. El suelo en sí debe inclinarse para que el agua no inunde el baño. Esto requiere remover los azulejos viejos y crear el piso de nuevo. También puede resultar que el techo sea demasiado delgado, en cuyo caso no es posible construir una ducha sin rizo.
 
-## How to make a curbless shower?
+## ¿Cómo hacer una ducha sin rizo?
 
-As already mentioned, a barrier free shower is easy to make if it is designed along with the plan of the whole house. It is best to plan carefully at which spot the shower is going to stand. If the bathroom is small, use any available **niches and corners**.
-
-{:.distinction.distinction-information}
-If the room is more spacious, consider choosing a bigger rectangular shower unit. Other elements that are very important are properly fitted tiles and drains.
-
-### What tiles are best for a curbless shower?
-
-A barrier free shower requires a carefully designed floor. Choosing the right tiles is a highly important matter. They must be the **non-slip type**. Only then the shower cabin can be safe. Choose the one with R10-R13 rating.
+Como ya se ha mencionado, una ducha sin barrera es fácil de hacer si se diseña junto con el plano de toda la casa. Es mejor planear cuidadosamente en qué lugar se va a colocar la ducha. Si el cuarto de baño es pequeño, use cualquier nicho o esquina disponible.
 
 {:.distinction.distinction-information}
-Because the floor must have a slope, the tiles should be able to conceal it. It is very likely that the tiles are going to be cut in order to fit them. For this reason make sure to carefully measure everything.
+Si la habitación es más espaciosa, considere la posibilidad de elegir una unidad de ducha rectangular más grande. Otros elementos muy importantes son los azulejos y los desagües bien colocados.
+
+### ¿Qué azulejos son mejores para una ducha sin rizo?
+
+Una ducha sin barreras requiere un suelo cuidadosamente diseñado. Elegir los azulejos correctos es un asunto muy importante. Deben ser del tipo antideslizante. Sólo así la cabina de la ducha puede ser segura. Elija el que tenga la clasificación R10-R13.
+
+{:.distinction.distinction-information}
+Debido a que el suelo debe tener una pendiente, las baldosas deben ser capaces de ocultarla. Es muy probable que las baldosas sean cortadas para que encajen. Por esta razón asegúrese de medir cuidadosamente todo.
 
 {% fig %}
 ![What tiles are best for a curbless shower?](/uploads/jakie-plytki-sie-sprawdza-pod-prysznic-bez-brodzika.jpg "What tiles are best for a curbless shower?")
 {% endfig %}
 
-Apart from the tiles, you also need to choose the right type of grout. It should be waterproof and easy to clean. This will make the curbless shower sturdy for years. The most recommended product is an **epoxy grout**. It is waterproof, flexible and doesn’t crumble after drying up.
+Además de los azulejos, también hay que elegir el tipo de lechada adecuado. Debe ser impermeable y fácil de limpiar. Esto hará que la ducha sin rizo sea resistente durante años. El producto más recomendado es una lechada de epoxi. Es impermeable, flexible y no se desmorona después de secarse.
 
-Before laying the tiles, one needs to take care of floor **waterproofing**. This way the bathroom and the rooms below are secured from water. Traditional methods use waterproofing flashing mortar - they are the most popular.
+Antes de colocar las baldosas, hay que cuidar la impermeabilización del suelo. De esta manera el baño y las habitaciones de abajo se aseguran contra el agua. Los métodos tradicionales usan mortero impermeabilizante, son los más populares.
 
 {:.distinction.distinction-information}
-You can also use a product called liquid foil, which contains synthetic resin. It is a substantially faster method. To apply the substance, one might simply use a brush or a pallet knife.
+También puedes usar un producto llamado papel de aluminio líquido, que contiene resina sintética. Es un método sustancialmente más rápido. Para aplicar la sustancia, uno podría simplemente usar un pincel o un cuchillo de paleta.
 
-### Curbless shower - choosing the right drain
+### Ducha sin rizo - elegir el desagüe adecuado
 
-Yet another important issue that a curbless shower poses is choosing the right drain. There are several possibilities in this matter - the choice is between a wall drain or a floor drain. One must also decide between a trench (linear) drain and a point drain.
+Otra cuestión importante que plantea una ducha sin rizo es la elección del desagüe adecuado. Hay varias posibilidades en este asunto - la elección es entre un desagüe de pared o un desagüe de piso. También hay que decidir entre un desagüe de zanja (lineal) y un desagüe puntual.
 
-The most inconspicuous solution is a **wall drain**. Users of floor drains subconsciously omit standing on them, which might make using the shower less comfortable. There is no such problem with a wall drain. It can be also concealed under a tile in the same color as the wall or floor.
+La solución más discreta es un desagüe de pared. Los usuarios de los desagües de piso subconscientemente omiten estar de pie sobre ellos, lo que podría hacer que el uso de la ducha sea menos cómodo. No hay tal problema con un desagüe de pared. También se puede ocultar bajo un azulejo del mismo color que la pared o el piso.
 
-**Floor drains** are definitely more popular. Here, the choice is between a trench drain and a point drain. Regardless of which one is going to be installed, drain needs to be more efficient than shower head. This way one can be sure that water is going to be drained effectively. A linear drain for a curbless shower usually has a large surface, therefore water flows quickly and more evenly. The major downside is that this type of drain is more expensive than the others.
+Los desagües de piso son definitivamente más populares. Aquí, la elección es entre un desagüe de zanja y un desagüe puntual. Independientemente de cuál se vaya a instalar, el drenaje debe ser más eficiente que el cabezal de la ducha. De esta manera uno puede estar seguro de que el agua va a ser drenada efectivamente. Un desagüe lineal para una ducha sin rizo suele tener una gran superficie, por lo que el agua fluye rápidamente y de forma más uniforme. La mayor desventaja es que este tipo de drenaje es más caro que los otros.
 
 {% fig %}
 ![Curbless shower - choosing the right drain](/uploads/kabiny-prysznicowe-bez-brodzika-ktora-jest-najlepsza.jpg "Curbless shower - choosing the right drain")
 {% endfig %}
 
-### A curbless shower - which one is the best?
+### Una ducha sin rizo, ¿cuál es la mejor?
 
-The biggest advantage of a curbless shower is the fact that it can take any shape. Depending on the available floor space and type of the room, a shower cabin might be triangular, square or rectangular. The choice is also in type of the door - hinged, sliding or folding. There is also another particularly interesting solution - **a walk-in shower**. In this case only one glass panel is fixed into place, as a protection from water. This way the room seems even more spacious - especially if the glass is completely transparent. All types of shower **doors are made of hardened glass** - either transparent or opaque.
+La mayor ventaja de una ducha sin rizo es el hecho de que puede tomar cualquier forma. Dependiendo del espacio disponible y del tipo de habitación, una cabina de ducha puede ser triangular, cuadrada o rectangular. La elección también está en el tipo de la puerta - abisagrada, corrediza o plegable. También hay otra solución particularmente interesante: una ducha con puerta. En este caso sólo se fija un panel de vidrio en su lugar, como protección contra el agua. De esta manera la habitación parece aún más espaciosa, especialmente si el vidrio es completamente transparente. Todos los tipos de puertas para duchas están hechas de vidrio templado, ya sea transparente u opaco.
 
-## How about a doorless shower?
+## ¿Qué tal una ducha sin puerta?
 
-A doorless shower with no walls is quite a bold solution. In this case the shower area consists of a drain and a shower head only. There is no door or any additional glass panel. If there is a nook in the bathroom, it is a good idea to use it for this purpose. This way the shower has a wall, **partially separating** it from the rest of the bathroom. Many homeowners choose an open space wet room. The main advantage here are lower costs - buying a shower stall is unnecessary. It is also a good solution for a small bathroom - a glass wall takes some space after all. The best type of douche in this case is a rainshower.
+Una ducha sin puerta y sin paredes es una solución bastante atrevida. En este caso el área de la ducha consiste en un desagüe y un cabezal de ducha solamente. No hay ninguna puerta ni ningún panel de vidrio adicional. Si hay un rincón en el baño, es una buena idea usarlo para este propósito. De esta manera la ducha tiene una pared, separándola parcialmente del resto del baño. Muchos propietarios eligen una habitación húmeda de espacio abierto. La principal ventaja aquí son los costos más bajos - la compra de una cabina de ducha es innecesaria. También es una buena solución para un baño pequeño, una pared de cristal ocupa algo de espacio después de todo. El mejor tipo de ducha en este caso es una ducha de lluvia.
 
-A curbless shower is a great idea both for small and large bathrooms. It unblocks a lot of space and contributes to a modern, minimalistic look. When planning this type of shower, pay attention to every detail, from the drain to the type of door. A curbless shower is a practical and visually pleasing bathroom addition!
+Una ducha sin rizo es una gran idea tanto para los baños pequeños como para los grandes. Desbloquea mucho espacio y contribuye a un aspecto moderno y minimalista. Cuando planifiquen este tipo de ducha, presten atención a cada detalle, desde el desagüe hasta el tipo de puerta. ¡Una ducha sin rizo es un complemento práctico y visualmente agradable para el baño!
 
 {% faqItem %}
 {% faqQuestion %}
-How to build a shower with no curb?
+¿Cómo construir una ducha sin bordillo?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The easiest way to build a curbless shower is to plan it at the stage of building a house. Think where the unit is going to be placed, what kind of drain you need and which shower head will fit. To make sure that a curbless shower works properly, refer to the help of a specialist.
+La forma más fácil de construir una ducha sin rizo es planearla en la etapa de construcción de una casa. Piensa en dónde se va a colocar la unidad, qué tipo de desagüe necesitas y qué cabezal de ducha encajará. Para asegurarse de que una ducha sin rizo funcione correctamente, consulte a un especialista.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to build a tile shower?
+¿Cómo construir una ducha de azulejos?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The key for a tile shower with no curb is choosing the right tiles. They should be non-slippery - only then can the place be safe. The tiles should be cut to fit the floor. Remember that a curbless shower floor needs to slope to the drain.
+La clave para una ducha de azulejos sin bordillo es elegir los azulejos adecuados. Deben ser antideslizantes, sólo así el lugar puede ser seguro. Los azulejos deben ser cortados para que encajen en el suelo. Recuerden que un piso de ducha sin bordillo debe inclinarse hacia el desagüe.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to build a shower curb?
+¿Cómo construir un bordillo para la ducha?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Start from forming a curb made of the same material as the floor. Then lay a waterproof liner on it, then lath and mortar. The last step is tiling the curb along with the shower floor.
+Comienza formando un bordillo del mismo material que el suelo. Luego coloque un revestimiento impermeable sobre él, luego malla y mortero. El último paso es embaldosar el bordillo junto con el suelo de la ducha.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How much does a walk-in shower cost?
+¿Cuánto cuesta una ducha sin cita previa?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The price varies depending on many individual factors. The cheapest solution is to plan this type of a curbless shower along with building the house. The costs rise if the house already exists and the room needs adjusting - which often means a complete makeover.
+El precio varía en función de muchos factores individuales. La solución más barata es planear este tipo de ducha sin rizo junto con la construcción de la casa. Los costos aumentan si la casa ya existe y la habitación necesita ser ajustada, lo que a menudo significa un cambio de imagen completo.
 {% endfaqAnswer %}
 {% endfaqItem %}
