@@ -20,152 +20,154 @@ toc: true
 promoted: false
 update_date: 2020-07-19
 title: Aprende por qué debes plantar un árbol de cornejo en tu jardín
-description: "Dogwood tree has many useful properties. \U0001F33F Why is it beneficial
-  to have it in your garden?  ➡️ Learn how to use a dogwood tree in your kitchen!"
-intro: Dogwood has many useful qualities. This unusual ornamental plant not only looks
-  fantastic in your garden but might also contribute to improving your health. Certain
-  species of dogwood bear quite a tasty fruit of beneficial properties. Learn why
-  you should consider planting a dogwood tree in your garden and how to use it in
-  the kitchen.
+description: "El árbol de cornejo tiene muchas propiedades útiles. \U0001F33F ¿Por
+  qué es beneficioso tenerlo en tu jardín?  ➡️ ¡Aprende a utilizar un árbol de cornejo
+  en tu cocina!"
+intro: El cornejo tiene muchas cualidades útiles. Esta inusual planta ornamental no
+  sólo se ve fantástica en su jardín, sino que también podría contribuir a mejorar
+  su salud. Ciertas especies de cornejo dan un fruto bastante sabroso de propiedades
+  beneficiosas. Aprende por qué deberías considerar la posibilidad de plantar un árbol
+  de cornejo en tu jardín y cómo usarlo en la cocina.
 image: "/uploads/dlaczeg-warto-sadzic-deren-jadalny-w-ogrodzie.jpg"
 related_products: []
-published: false
 
 ---
-## What is a dogwood tree?
+## ¿Qué es un árbol de cornejo?
 
-Dogwood is a name of over 40 species of plants belonging to _Cornus_ family. One of the popular types (esp. in central and southern Europe) of this plant is called cornelian cherry (**_Cornus mas L._**_),_ a tree that can reach even 10 meters of height. It is mostly cultivated in Europe and Asia. Certain species of dogwood can be planted in gardens, others grow only in woods. _Cornus mas_ is valued for its **sweet-and-sour fruit,** rich in polyphenols and **vitamin C**. Bark of dogwood trees has anti-septic qualities.
+Dogwood es el nombre de más de 40 especies de plantas pertenecientes a la familia Cornus. Uno de los tipos populares (sobre todo en el centro y sur de Europa) de esta planta se llama cerezo cornalina (Cornus mas L.), un árbol que puede alcanzar incluso 10 metros de altura. Se cultiva principalmente en Europa y Asia. Ciertas especies de cornejo pueden plantarse en jardines, otras sólo crecen en bosques. El Cornus mas es apreciado por su fruto agridulce, rico en polifenoles y vitamina C. La corteza del cornejo tiene cualidades antisépticas.
 
-What makes cornelian cherry different from other species, is the fact that it is easy to grow, and it has **many uses**. Cornelian cherry dogwood is not only a beautiful ornamental tree, but it is also beneficial for human health. What's more, it's a plant of little requirements – therefore it's perfect for anyone too busy to take care of their garden.
+Lo que hace que la cereza cornalina sea diferente de otras especies, es el hecho de que es fácil de cultivar, y tiene muchos usos. El cornejo no sólo es un hermoso árbol ornamental, sino que también es beneficioso para la salud humana. Es más, es una planta con pocos requerimientos, por lo que es perfecta para cualquiera que esté demasiado ocupado en el cuidado de su jardín.
 
 {% fig %}
 ![What is a dogwood tree?](/uploads/deren-jadalny-w-ogrodzie.jpg "What is a dogwood tree?")
 {% endfig %}
 
-## What types of dogwood trees are best to grow in the garden?
+## ¿Qué tipos de árboles de cornejo son los mejores para crecer en el jardín?
 
-As already mentioned, **cornelian cherry**, also known by its scientific name as _Cornus mas_ is a popular species, commonly grown in gardens in south and central Europe, as well as in western Asia. The plant owes its popularity to its many qualities, that can be used in the garden and beyond. A characteristic feature of a cornelian cherry dogwood are its **small, red, round-shaped fruits.** Their red shade can enliven the garden in summer and in winter.
+Como ya se ha mencionado, el cerezo cornalina, también conocido por su nombre científico como Cornus mas es una especie popular, que se cultiva comúnmente en los jardines del sur y centro de Europa, así como en Asia occidental. La planta debe su popularidad a sus muchas cualidades, que pueden ser utilizadas en el jardín y más allá. Un rasgo característico del cornejo de cornalina son sus pequeños frutos rojos y redondos. Su sombra roja puede animar el jardín en verano y en invierno.
 
 {% fig %}
 ![What types of dogwood trees are best to grow in the garden?](/uploads/deren-jadalny-gatunki.jpg "What types of dogwood trees are best to grow in the garden?")
 {% endfig %}
 
-There are many types of dogwood trees, including also ornamental plants which might be beautiful decorations in a garden. The most popular and interesting species are **Siberian dogwood** (**_Cornus alba_**) – which can grow up to 3 meters tall, **Japanese dogwood** (kousa dogwood) with its original shape, or very tall **Himalayan flowering dogwood**, resistant to low temperatures and difficult conditions.
+Hay muchos tipos de árboles de cornejo, incluyendo también plantas ornamentales que pueden ser hermosas decoraciones en un jardín. Las especies más populares e interesantes son el cornejo siberiano (Cornus alba), que puede crecer hasta 3 metros de altura, el cornejo japonés (kousa dogwood) con su forma original, o el cornejo de floración del Himalaya muy alto, resistente a las bajas temperaturas y a las condiciones difíciles.
 
 {% fig %}
 ![Dogwood tree – flowers](/uploads/deren-bialy.jpg "Dogwood tree – flowers")
 {% endfig %}
 
-## How to plant a cornelian cherry dogwood tree?
+## ¿Cómo plantar un árbol de cornejo de cornalina?
 
-If you're wondering how to plant a dogwood tree in your garden, just buy a seedling in a garden shop. Before planting it, make sure to **trim all shoots growing right above the ground** and any roots that are too long – by 1/3 of their length. A dogwood tree typically reaches up to 6-8 meters of height, forming either a tree or a large bush. For this reason you should **provide the plant enough space for growing**.
+Si te preguntas cómo plantar un árbol de cornejo en tu jardín, compra una planta de semillero en una tienda de jardinería. Antes de plantarlo, asegúrate de recortar todos los brotes que crecen justo sobre el suelo y las raíces que son demasiado largas, en 1/3 de su longitud. Un árbol de cornejo alcanza típicamente hasta 6-8 metros de altura, formando un árbol o un gran arbusto. Por esta razón debe proporcionar a la planta suficiente espacio para crecer.
 
 {% fig %}
 ![How to plant a cornelian cherry dogwood tree?](/uploads/kwitnacy-deren-jadalny-w-ogrodzie.jpg "How to plant a cornelian cherry dogwood tree?")
 {% endfig %}
 
 {:.distinction.distinction-information}
-Wondering how fast do dogwood trees grow? The growth rate is quite slow during the first 2 years. The first results become noticeable approximately 3 years after planting the seedling.
+Me pregunto a qué velocidad crecen los árboles de cornejo. La tasa de crecimiento es bastante lenta durante los primeros 2 años. Los primeros resultados se notan aproximadamente 3 años después de plantar la planta.
 
-## Cornelian cherry tree – how to take care for it?
+## Cerezo de Cornelia - ¿cómo cuidarlo?
 
-_Cornus mas_ is quite easy to cultivate. Nevertheless, you should **follow certain rules** to allow the tree for a proper growth and make it a real decoration in your garden.
+El Cornus mas es bastante fácil de cultivar. Sin embargo, debes seguir ciertas reglas para permitir que el árbol crezca adecuadamente y convertirlo en una verdadera decoración en tu jardín.
 
-Two of the major issues are the **placement of the dogwood tree** and its growth in **the right type of soil**. A dogwood tree should grow either in full sun or in half shade. The best type of soil for this type of plant is calcareous or slightly acidic and damp ground. A **cornelian cherry doesn't tolerate standing water**. For this reason avoid planting it in impermeable grounds.
+Dos de las cuestiones principales son la colocación del cornejo y su crecimiento en el tipo de suelo adecuado. Un árbol de cornejo debe crecer a pleno sol o a media sombra. El mejor tipo de suelo para este tipo de planta es el calcáreo o ligeramente ácido y húmedo. Un cerezo cornalina no tolera el agua estancada. Por esta razón, evita plantarlo en suelos impermeables.
 
-If you want a cornelian cherry to grow well and healthily, take a good care of it. Two most important aspects of it are regular **watering and fertilizing**. Although a dogwood tree is quite resistant to droughts, they influence fruition process. Make sure to water the plant regularly and provide all the nutrients it needs. The plant is not very demanding. All you have to do is **fertilize the dogwood tree once a year at the beginning of spring**, for the proper growth and nourishment.
+Si quiere que el cerezo de cornalina crezca bien y de forma saludable, cuídelo bien. Los dos aspectos más importantes son el riego y el abono regulares. Aunque el cornejo es bastante resistente a las sequías, éstas influyen en el proceso de fructificación. Asegúrate de regar la planta regularmente y proporcionarle todos los nutrientes que necesita. La planta no es muy exigente. Todo lo que tiene que hacer es fertilizar el cornejo una vez al año a principios de la primavera, para el crecimiento y la nutrición adecuados.
 
 {:.distinction.distinction-warning}
-A cornelian cherry does not need trimming. Any mechanical damage of the plant negatively affects its fruition.
+Una cereza cornalina no necesita ser recortada. Cualquier daño mecánico de la planta afecta negativamente su fructificación.
 
-## How to use cornus mas in the kitchen? Cornelian cherry fruit properties
+## ¿Cómo usar el cornus mas en la cocina? Propiedades del fruto de la cereza cornalina
 
-A dogwood tree is not only a **magnificent decoration** in your garden. Its edible species might become real celebrities of every kitchen. Learn several practical uses of a cornelian cherry fruit.
+Un árbol de cornejo no sólo es una magnífica decoración en su jardín. Sus especies comestibles pueden convertirse en verdaderas celebridades de cada cocina. Aprenda varios usos prácticos de un fruto de cerezo de cornalina.
 
-### What are the benefits of cornelian cherry fruits?
+### ¿Cuáles son los beneficios de los frutos de la cereza cornalina?
 
-Cornelian cherry fruits are a good source of many vitamins and minerals, therefore they have **health-promoting**, or even healing properties. Eating cornelian cherry fruits influences:
+Los frutos de la cereza cornalina son una buena fuente de muchas vitaminas y minerales, por lo que tienen propiedades de promoción de la salud, o incluso de curación. Comer frutos de cereza cornalina influye:
 
 {:.list}
-* **Immunity** – a dogwood tree contains **high doses of the vitamin C,** which can be found in the fruit. For this reason it can be used as a natural **remedy for infections and common cold**.
-* **Cancer prevention** – because cornelian cherry fruits are the source of flavonoids which combat toxins in the organism, they might be used as a cancer prevention tool. Cornelian cherry fruits are great for **reducing oxidative stress**.
+
+* Inmunidad - un árbol de cornejo contiene altas dosis de la vitamina C, que se puede encontrar en la fruta. Por esta razón puede ser usado como un remedio natural para las infecciones y el resfriado común.
+* Prevención del cáncer - debido a que los frutos de la cereza de cornalina son la fuente de flavonoides que combaten las toxinas en el organismo, pueden ser utilizados como una herramienta de prevención del cáncer. Los frutos de la cereza de cornalina son excelentes para reducir el estrés oxidativo.
 
 {% fig %}
 ![What are the benefits of cornelian cherry fruits?](/uploads/deren-jadalny-owoce.jpg "What are the benefits of cornelian cherry fruits?")
 {% endfig %}
 
 {:.list}
-* **Stomach issues** – a dogwood tree is also a perfect natural remedy for diarrheas and gripes. It is caused by the high content of tannins in the fruit, substances of **binding properties**. However, if you suffer from stomach ulcer, you should avoid eating the fruits.
-* **Urinary tract conditions** – cornelian cherry fruit in liquid form (e.g. as juice) has diuretic properties. Moreover, the vitamin C contained within is an **anti-inflammatory agent**. For this reason you may drink cornelian cherry fruit juice or tea as a remedy for bladder problems.
-* **Anaemia** – due to high levels of iron, cornelian cherry fruit is a good preventive agent against anaemia. It's also good for treating eating disorders caused by anaemia.
 
-### Cornelian cherry liqueur for cold... and more!
+* Problemas de estómago - un árbol de cornejo es también un perfecto remedio natural para las diarreas y gripes. Es causado por el alto contenido de taninos en la fruta, sustancias de propiedades aglutinantes. Sin embargo, si usted sufre de úlcera de estómago, debe evitar comer las frutas.
+* Condiciones del tracto urinario - la fruta de la cereza cornalina en forma líquida (por ejemplo, como jugo) tiene propiedades diuréticas. Además, la vitamina C que contiene es un agente antiinflamatorio. Por esta razón, puede beber jugo o té de cereza de cornalina como remedio para los problemas de vejiga.
+* Anemia - debido a los altos niveles de hierro, la cereza de cornalina es un buen agente preventivo contra la anemia. También es buena para tratar los trastornos alimenticios causados por la anemia.
 
-A cornelian cherry liqueur is a natural remedy for common cold due to the high content of vitamin C in the fruits. **The liqueur treats infections that cause fever.** Nevertheless, you should be cautious with this form of treatment and learn all about it – before you even decide to prepare the drink.
+### Licor de cerezas cornalinas para el frío... ¡y más!
+
+El licor de cereza cornalina es un remedio natural para el resfriado común debido al alto contenido de vitamina C en las frutas. El licor trata las infecciones que causan fiebre. Sin embargo, debe ser cauteloso con esta forma de tratamiento y aprender todo acerca de ella - antes de decidir siquiera preparar la bebida.
 
 {:.distinction.distinction-information}
 
-The liqueur's value lies not only in its health benefits, but also in the taste. You can consume it either as is, or as an addition to other drinks. It tastes very good with tea.
+El valor del licor no sólo radica en sus beneficios para la salud, sino también en su sabor. Puedes consumirlo tal cual, o como complemento de otras bebidas. Sabe muy bien con el té.
 
-To prepare a cornelian cherry liqueur, mix one kilogram of fruits with 5 tablespoons of dried blueberries and pour a lot of spirit. Place the jar with the liqueur in a warm spot and shake it every 2-3 days. After 5 weeks separate the spirit from the fruits and put it into the fridge. Then pour sugar over the fruits and wait until it dissolves completely.
+Para preparar un licor de cerezas cornalina, mezcla un kilo de frutas con 5 cucharadas de arándanos secos y vierte mucho alcohol. Ponga el frasco con el licor en un lugar cálido y agítelo cada 2-3 días. Después de 5 semanas separar el espíritu de las frutas y ponerlo en la nevera. Luego vierta el azúcar sobre las frutas y espere hasta que se disuelva completamente.
 
 {% fig %}
 ![Cornelian cherry liqueur for cold... and more!](/uploads/nalewka-z-derenia.jpg "Cornelian cherry liqueur for cold... and more!")
 {% endfig %}
 
-Mix the syrup from sugar and fruits with the spirit, which will begin the clarification process. The last step is filtering the cornelian cherry liqueur by pouring it through a piece of fabric (e.g. a gauze). You can store the liqueur in a cold place even for several years. Remember that such homemade liqueur is for personal use only.
+Mezclar el jarabe de azúcar y frutas con el alcohol, lo que iniciará el proceso de clarificación. El último paso es filtrar el licor de cereza cornalina vertiéndolo a través de un trozo de tela (por ejemplo, una gasa). Se puede almacenar el licor en un lugar frío incluso durante varios años. Recuerde que este licor casero es sólo para uso personal.
 
-### How to make tasty cornelian cherry preserves?
+### ¿Cómo hacer sabrosas conservas de cerezas de cornalina?
 
-**Cornelian cherry jam** is a perfect bread spread and dessert topping. It has a delicious sweet-and-sour taste that adds a character to meals. What's more, its **rich** **nutritional values** make the cornelian cherry jam not only a tasty but also a healthy food.
+La mermelada de cerezas cornalina es una perfecta extensión de pan y cubierta de postre. Tiene un delicioso sabor agridulce que añade carácter a las comidas. Además, sus ricos valores nutricionales hacen que la mermelada de cerezas de Cornualles no sólo sea un alimento sabroso sino también saludable.
 
 {:.distinction.distinction-warning}
-Cornelian cherry reserves as well as fresh fruits are harmful for anyone suffering from stomach ulcer.
+Las reservas de cerezas cornalinas, así como las frutas frescas son perjudiciales para cualquiera que sufra de úlcera estomacal.
 
-To prepare **cornelian cherry jam**, first rinse, peel and pit the fruits. Then prepare a syrup by boiling water and sugar in the proportion 0.5 liter of water and 2 kilograms of sugar. Pour the fruits into the syrup and leave them to soak for 24 hours. Then bring them to boil using medium heat. Pour the hot cornelian cherry jam into jars and close them tightly.
+Para preparar la mermelada de cerezas de Cornualles, primero enjuague, pele y deshuese las frutas. Luego prepare un jarabe hirviendo agua y azúcar en la proporción de 0,5 litros de agua y 2 kilos de azúcar. Vierta las frutas en el almíbar y déjelas en remojo durante 24 horas. Luego llévelas a hervir a fuego medio. Vierta la mermelada caliente de cerezas cornalinas en frascos y ciérrelos bien.
 
 {% fig %}
 ![How to make tasty cornelian cherry preserves?](/uploads/dzem-deren-jadalny.jpg "How to make tasty cornelian cherry preserves?")
 {% endfig %}
 
-Cornelian cherry is long-known to natural medicine. It can be used both for healing and in the kitchen, therefore it's a plant that is often cultivated in many parts of the world.
+La cereza cornalina es conocida desde hace mucho tiempo por la medicina natural. Se puede utilizar tanto para la curación como en la cocina, por lo tanto es una planta que se cultiva a menudo en muchas partes del mundo.
 
 {% faqItem %}
 {% faqQuestion %}
-When to plant dogwood trees?
+¿Cuándo plantar árboles de cornejo?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Dogwood tree seedlings can be planted during the whole season, although the best time to do it is spring or fall. Make sure to plant the seedling in the right type of soil – calcareous or slightly acidic. Dogwood trees need a lot of space to grow, as they reach up to 5-10 meters.
+Las plántulas del árbol de cornejo pueden plantarse durante toda la temporada, aunque la mejor época para hacerlo es la primavera o el otoño. Asegúrese de plantar la plántula en el tipo de suelo adecuado - calcáreo o ligeramente ácido. Los árboles de cornejo necesitan mucho espacio para crecer, ya que alcanzan hasta 5-10 metros.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-When do dogwood trees bloom?
+¿Cuándo florecen los árboles de cornejo?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Depending on the weather conditions, a dogwood tree blooms from February to April in moderate climates. One bud develops 15-20 little flowers. They are frost resistant.
+Dependiendo de las condiciones climáticas, el cornejo florece de febrero a abril en climas moderados. Un capullo desarrolla de 15 a 20 pequeñas flores. Son resistentes a las heladas.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to trim dogwood tree?
+¿Cómo podar el árbol de cornejo?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Although dogwood trees rarely require pruning, if needed, do it in late autumn or in winter. Use a pruning saw or shears and cut right at the base of the branch. Do not cut in the collar area, as it may lead to an infection.
+Aunque los árboles de cornejo rara vez requieren poda, si es necesario, hágala a finales de otoño o en invierno. Utilice una sierra de podar o tijeras y corte justo en la base de la rama. No corte en la zona del cuello, ya que puede provocar una infección.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How big does a dogwood tree get?
+¿Qué tamaño tiene un árbol de cornejo?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Depending on the particular species, dogwood trees can reach up to 10 meters of height. The seedlings grow slow during the first 2 years. The changes become significant in the third year.
+Dependiendo de la especie en particular, los árboles de cornejo pueden alcanzar hasta 10 metros de altura. Las plántulas crecen lentamente durante los primeros 2 años. Los cambios se vuelven significativos en el tercer año.
 {% endfaqAnswer %}
 {% endfaqItem %}
