@@ -14,93 +14,96 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-19
-title: Comment se débarrasser des pucerons ? 5 remèdes à domicile éprouvés contre les pucerons
-description: "Insects are ruining your plants? \U0001F997 Learn the most effective
-  methods and remedies to get rid of aphids. ✅ Free your garden!"
-intro: A beautiful garden is your dream but pests are ruining your plants? Are you
-  wondering how to get rid of aphids? Take a look at those five simple methods that
-  will help you fight them. Try home remedies for aphids and see that they can be
-  as effective as store-bought chemicals. Learn how to kill aphids with home-made
-  solutions and restore the beauty of your precious garden.
+title: Comment se débarrasser des pucerons ? 5 remèdes à domicile éprouvés contre
+  les pucerons
+description: "Les insectes détruisent vos plantes ? \U0001F997 Découvrez les méthodes
+  et les remèdes les plus efficaces pour se débarrasser des pucerons. ✅ Libérez votre
+  jardin !"
+intro: Un beau jardin, c'est votre rêve, mais les parasites ruinent vos plantes ?
+  Vous vous demandez comment vous débarrasser des pucerons ? Jetez un coup d'œil à
+  ces cinq méthodes simples qui vous aideront à les combattre. Essayez des remèdes
+  maison contre les pucerons et constatez qu'ils peuvent être aussi efficaces que
+  les produits chimiques achetés en magasin. Apprenez comment tuer les pucerons avec
+  des solutions maison et redonnez de la beauté à votre précieux jardin.
 image: "/uploads/jak-zwalczac-mszyce.jpg"
 related_products: []
-published: false
 
 ---
-## What are aphids and why are they harmful?
+## Que sont les pucerons et pourquoi sont-ils nuisibles ?
 
-Aphids are quite common and **very irksome pests**. They can be found in floral and vegetable gardens, or even on balcony potted plants. It is easy to recognize them, as they form swarms. Depending on the species, you can find **black, green and yellow** aphids, or the rarest ones – **orange**.
+Les pucerons sont des parasites assez courants et très gênants. On les trouve dans les jardins floraux et potagers, ou même sur les plantes en pot des balcons. Il est facile de les reconnaître, car ils forment des essaims. Selon l'espèce, on trouve des pucerons noirs, verts et jaunes, ou les plus rares - oranges.
 
-Aphids are a serious threat for garden plants, as they suck their juices. They also pollute them with their excretion, and they might spread dangerous viruses. For this reason it is important to **act immediately** and use home remedies as soon as the pests appear in the garden.
+Les pucerons constituent une grave menace pour les plantes de jardin, car ils sucent leurs sucs. Ils les polluent également par leurs excréments, et ils peuvent propager des virus dangereux. C'est pourquoi il est important d'agir immédiatement et d'utiliser des remèdes maison dès que les parasites apparaissent dans le jardin.
 
 {% fig %}
 ![What are aphids and why are they harmful?](/uploads/mszyce-dlaczego-sa-szkodliwe.jpg "What are aphids and why are they harmful?")
 {% endfig %}
 
-## Wondering how to get rid of aphids? Get some plants that repel them
+## Vous vous demandez comment vous débarrasser des pucerons ? Procurez-vous des plantes qui les repoussent
 
-A good neighborhood for the plants in your garden affects their proper growth and general health. **Ecological agriculture** has been gaining popularity. It mainly involves using neighboring plants, so that they have a positive influence on each other. **Home remedies for aphids also engage using plants that are disliked by those tiny insects.**
+Un bon voisinage pour les plantes de votre jardin affecte leur bonne croissance et leur santé générale. L'agriculture écologique gagne en popularité. Elle consiste principalement à utiliser des plantes voisines, afin qu'elles aient une influence positive les unes sur les autres. Les remèdes maison contre les pucerons consistent également à utiliser des plantes que ces minuscules insectes n'aiment pas.
 
-The best remedy for aphids in your vegetable garden is planting garlic and onion, which **repel the pests.** A coordinate cultivation is a highly effective method – it involves planting vegetables along with aphid-repellent plants. Therefore, when planting vegetables that are liked by aphids, combine them with plants that repel those insects.
+Le meilleur remède contre les pucerons dans votre jardin potager est de planter de l'ail et de l'oignon, qui repoussent les parasites. La culture coordonnée est une méthode très efficace : elle consiste à planter des légumes en même temps que des plantes qui repoussent les pucerons. Par conséquent, lorsque vous plantez des légumes qui sont appréciés des pucerons, combinez-les avec des plantes qui repoussent ces insectes.
 
-As for a floral garden, it is a good idea to use lavender. It is a perfect aphid remedy, as it **repels the pests with its strong scent**. Another universal method is planting some anti-insect herbs. The best herb for aphids is **mint,** which can be planted both in vegetable and floral garden.
+Pour ce qui est d'un jardin floral, il est bon d'utiliser de la lavande. C'est un remède parfait contre les pucerons, car elle repousse les insectes nuisibles grâce à son fort parfum. Une autre méthode universelle consiste à planter quelques herbes anti-insectes. La meilleure herbe pour les pucerons est la menthe, qui peut être plantée aussi bien dans un jardin potager que dans un jardin floral.
 
 {:.distinction.distinction-information}
-You can also plant mint in a pot by other plants to repel aphids invading your balcony flowers.
+Vous pouvez aussi faire planter de la menthe dans un pot par d'autres plantes pour repousser les pucerons qui envahissent les fleurs de votre balcon.
 
 {% fig %}
 ![Wondering how to get rid of aphids? Get some plants that repel them](/uploads/mieta-przeciw-mszycom.jpg "Wondering how to get rid of aphids? Get some plants that repel them")
 {% endfig %}
 
-## How to kill aphids with plant extracts and brews?
+## Comment tuer les pucerons avec des extraits de plantes et des brassins ?
 
-Planting aphid repellent plants is not the only way to use them in your fight with those insects. You can also prepare highly effective **natural extracts and brews**.
+Planter des plantes répulsives contre les pucerons n'est pas la seule façon de les utiliser dans votre lutte contre ces insectes. Vous pouvez également préparer des extraits naturels et des infusions très efficaces.
 
-Onion extract is a perfect aphid home remedy. Onions can be typically found in every kitchen, and it is not difficult to turn them into brew. All you need is:
+L'extrait d'oignon est un parfait remède contre les pucerons à domicile. On trouve généralement des oignons dans toutes les cuisines, et il n'est pas difficile de les transformer en infusion. Tout ce qu'il vous faut, c'est :
 
 {:.list.list-positive}
-* onions,
-* water,
-* a large pot.
 
-Cut the onions (max. 100 g) into pieces, add approximately 10 liters of water and boil it on low heat for 30 minutes. After another 30 minutes the brew is ready to use.
+* oignons,
+* l'eau,
+* un grand pot.
+
+Couper les oignons (max. 100 g) en morceaux, ajouter environ 10 litres d'eau et faire bouillir à feu doux pendant 30 minutes. Après 30 minutes supplémentaires, le brassin est prêt à l'emploi.
 
 {:.distinction.distinction-information}
-Onion extract is effective not only against aphids, but also it is a perfect remedy for fungal plant diseases.
+L'extrait d'oignon est non seulement efficace contre les pucerons, mais c'est aussi un remède parfait contre les maladies fongiques des plantes.
 
 {% fig %}
 ![How to kill aphids with plant extracts and brews?](/uploads/preparat-na-mszyce-z-cebuli.jpg "How to kill aphids with plant extracts and brews?")
 {% endfig %}
 
-A garlic extract is another, equally effective home remedy to get rid of aphids. To prepare this natural solution, grind 200-300 g of garlic. Add 10 liters of water and leave it for 24 hours. Dilute the extract with water in 1:1 proportion – it is ready to use.
+Un extrait d'ail est un autre remède maison tout aussi efficace pour se débarrasser des pucerons. Pour préparer cette solution naturelle, il faut broyer 200 à 300 g d'ail. Ajoutez 10 litres d'eau et laissez reposer pendant 24 heures. Diluez l'extrait avec de l'eau dans une proportion de 1:1 - il est prêt à l'emploi.
 
 {:.distinction.distinction-warning}
-You can keep the home aphid solution maximally for 2 months. Remember to keep it in an air-tight container and put it in a dark spot. You cannot overdose such solutions, so you can use large quantities when spraying the plants.
+Vous pouvez conserver le puceron domestique pendant deux mois au maximum. N'oubliez pas de le conserver dans un récipient hermétique et de le placer dans un endroit sombre. Vous ne pouvez pas faire de surdosage de ces solutions, vous pouvez donc en utiliser de grandes quantités pour pulvériser les plantes.
 
-## Ecological spraying – a proven method to get rid of aphids
+## Pulvérisation écologique - une méthode éprouvée pour se débarrasser des pucerons
 
-The best way to get rid of aphids is **ecological garden spraying**. Natural, home-made solutions can help you remove the pests quickly and effectively, **without the risk of harming the plants**. Ecological spraying is perfect for gardens with children, as it is safe for human health.
+La meilleure façon de se débarrasser des pucerons est la pulvérisation écologique des jardins. Des solutions naturelles et artisanales peuvent vous aider à éliminer les parasites rapidement et efficacement, sans risquer d'endommager les plantes. La pulvérisation écologique est parfaite pour les jardins avec enfants, car elle est sans danger pour la santé humaine.
 
 {% fig %}
 ![Ecological spraying – a proven method to get rid of aphids](/uploads/naturalne-opryski-sposob-na-mszyce.jpg "Ecological spraying – a proven method to get rid of aphids")
 {% endfig %}
 
-### How to kill aphids with vinegar?
+### Comment tuer les pucerons avec du vinaigre ?
 
-Vinegar spraying is the most popular method to fight with aphids. **To make a vinegar solution, mix it with water in 1:10 proportion.**
+La pulvérisation de vinaigre est la méthode la plus populaire pour lutter contre les pucerons. Pour faire une solution de vinaigre, il faut la mélanger à de l'eau dans une proportion de 1:10.
 
 {:.distinction.distinction-warning}
-When preparing the solution, always pour vinegar into water – not vice versa, as it can cause adverse chemical reactions, harmful for health.
+Lorsque vous préparez la solution, versez toujours du vinaigre dans l'eau - et non l'inverse, car il peut provoquer des réactions chimiques indésirables, nuisibles pour la santé.
 
-Optionally **you can add a spoon of soap or a few drops of dish detergent.** This way the solution will stick better to the plants. Soap also makes it last longer. After preparing the liquid, pour it into a spray bottle or a sprinkler and spray the plants. Do it not only from above – pay attention to the bottom of the leaves, as that's the place where aphids are most likely to be.
+Vous pouvez également ajouter une cuillère de savon ou quelques gouttes de détergent à vaisselle. De cette façon, la solution adhérera mieux aux plantes. Le savon permet également de prolonger la durée de vie de la solution. Après avoir préparé le liquide, versez-le dans un flacon pulvérisateur ou un arroseur et vaporisez les plantes. Ne le faites pas seulement par le haut - faites attention au bas des feuilles, car c'est l'endroit où les pucerons sont le plus susceptibles de se trouver.
 
-### Killing aphids with baking soda – a perfect solution for insects in your garden
+### Tuer les pucerons avec du bicarbonate de soude - une solution parfaite pour les insectes dans votre jardin
 
-**A baking soda solution** has many uses – it can be used also for fighting with garden pests. It is effective mostly against aphids, but you can use it for whiteflies and mites as well.
+Une solution de bicarbonate de soude a de nombreux usages - elle peut également être utilisée pour lutter contre les parasites du jardin. Il est surtout efficace contre les pucerons, mais vous pouvez aussi l'utiliser pour les aleurodes et les acariens.
 
-**A baking soda mixture** against aphids is very easy to make. Just add a little (no more than 1/3 teaspoon) to a liter of warm (not boiling) water. Add half a teaspoon of vegetable oil. Mix everything thoroughly. Similar to previous solutions, you may add some soap.
+Un mélange de bicarbonate de soude contre les pucerons est très facile à préparer. Il suffit d'en ajouter un peu (pas plus d'un tiers de cuillère à café) à un litre d'eau chaude (non bouillante). Ajoutez une demi-cuillère à café d'huile végétale. Mélangez bien le tout. Comme pour les solutions précédentes, vous pouvez ajouter un peu de savon.
 
 {:.distinction.distinction-information}
-Spraying the solution is not the only option. You can also wipe the affected leaves with it. Do it twice a week.
+Pulvériser la solution n'est pas la seule option. Vous pouvez également essuyer les feuilles touchées avec. Faites-le deux fois par semaine.
 
-Using **home remedies**, you can get rid of aphids quickly and effectively. Chemicals are not always needed – treat them a last resort.
+Grâce aux remèdes maison, vous pouvez vous débarrasser des pucerons rapidement et efficacement. Les produits chimiques ne sont pas toujours nécessaires - ne les traitez qu'en dernier recours.
