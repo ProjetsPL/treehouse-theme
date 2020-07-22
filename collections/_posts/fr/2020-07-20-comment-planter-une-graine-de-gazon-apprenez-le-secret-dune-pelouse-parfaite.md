@@ -16,161 +16,162 @@ toc: true
 promoted: false
 update_date: 2020-07-20
 title: Comment planter une graine de gazon ? Apprenez le secret d'une pelouse parfaite
-description: "A lush, green lawn is your dream goal? You have no idea how to achieve
-  it? \U0001F331 Learn how to plant grass seed and make your lawn a real gem!"
-intro: Dreaming of a beautiful, green lawn? The right grass seed and proper maintenace
-  are key to success. Learn how and when to plant grass seed so that it looks perfect
-  in your garden. Learn how self-repairing grass seed works, and use some tips and
-  tricks to create a lawn that you've always dreamed of!
+description: "Une pelouse luxuriante et verte est le but de vos rêves ? Vous n'avez
+  aucune idée de la manière d'y parvenir ? \U0001F331 Apprenez à planter des graines
+  de gazon et faites de votre pelouse un véritable bijou !"
+intro: Vous rêvez d'une belle pelouse verte ? La bonne graine de gazon et un entretien
+  adéquat sont la clé du succès. Apprenez comment et quand planter des graines de
+  gazon pour qu'elles soient parfaites dans votre jardin. Apprenez comment fonctionnent
+  les semences de gazon auto-réparatrices, et utilisez quelques conseils et astuces
+  pour créer une pelouse dont vous avez toujours rêvé !
 image: "/uploads/jak-siac-trawe-glowne.jpg"
 related_products: []
-published: false
 
 ---
-## Types of grass seed to plant in your garden
+## Types de semences de gazon à planter dans votre jardin
 
-There are several species of grass typically planted in gardens. They can be divided by **tall and short grasses**. Not all of them, however, are suitable for every garden. **It is advised that the type of grass seed is fit for the purpose of the lawn.** This way you can be sure that you'll achieve the most satisfactory results when planting grass seed.
+Il existe plusieurs espèces d'herbe généralement plantées dans les jardins. Elles peuvent être divisées en herbes hautes et en herbes courtes. Cependant, elles ne conviennent pas toutes à tous les jardins. Il est conseillé de choisir le type de semences de gazon en fonction de l'usage qu'on veut en faire. Ainsi, vous pouvez être sûr d'obtenir les résultats les plus satisfaisants lors de la plantation des semences de gazon.
 
-### Common grass – a classic grass seed for your garden
+### Le gazon commun - une graine de gazon classique pour votre jardin
 
-**Common grass** is the most popular type of a lawn seed in gardens. Its biggest advantage is the aesthetic looks and beautiful green color. It is quite short and easy to mow, therefore it's a perfect base for an even and well-tended lawn that will be an object of jealousy of your neighbors.
+Le gazon commun est le type de graine de gazon le plus populaire dans les jardins. Son plus grand avantage est l'aspect esthétique et la belle couleur verte. Il est assez court et facile à tondre, c'est donc une base parfaite pour une pelouse régulière et bien entretenue qui sera un objet de jalousie de vos voisins.
 
 {:.list}
 
-* **Sheep's fescue** – a slow growing species, highly resistant to atmospheric and climate conditions, with extensive root system. This type of grass seed should be planted in acidic soil, with a good access to sunlight.
-* **Creeping red fescue** – grass of a fast growth rate, resistant to trampling and weather conditions. It has rather thin blades, although it grows in clumps, which contributes to fast development of the lawn.
-* **Common bent** – this species is not very demanding when it comes to cultivation. It has short and thin blades, and it's very easy to mow.
+* La fétuque ovine - une espèce à croissance lente, très résistante aux conditions atmosphériques et climatiques, avec un système racinaire étendu. Ce type de graine d'herbe doit être planté dans un sol acide, avec un bon accès à la lumière du soleil.
+* Fétuque rouge traçante - herbe à croissance rapide, résistante au piétinement et aux conditions climatiques. Elle a des brins assez fins, bien qu'elle pousse en touffes, ce qui contribue au développement rapide de la pelouse.
+* Courbé commun - cette espèce n'est pas très exigeante en matière de culture. Elle a des lames courtes et fines, et elle est très facile à tondre.
 
 {% fig %}
 ![Common grass – a classic grass seed for your garden](/uploads/trawa-pospolita.jpg "Common grass – a classic grass seed for your garden")
 {% endfig %}
 
-### Meadow grass – an unusual lawn idea
+### L'herbe des prés - une idée originale de pelouse
 
-**Meadow grass seed** (poa) is a very original choice, as it's characterized by **rich blooming**. It can be used for planting grass in your garden. The blades are quite tall and lush, with lots of flowers. This way you can achieve an artistic, messy look of your lawn with a very natural effect. Popular species used as meadow grass are:
+La graine d'herbe des prés (Poa) est un choix très original, car elle se caractérise par une riche floraison. Elle peut être utilisée pour planter de l'herbe dans votre jardin. Les brins sont assez hauts et luxuriants, avec beaucoup de fleurs. Vous pouvez ainsi obtenir un aspect artistique et désordonné de votre pelouse avec un effet très naturel. Les espèces populaires utilisées comme gazon de prairie sont :
 
 {:.list}
 
-* **Meadow fescue** – a popular species of tall meadow grass, reaching up to one meter. This type of grass is perfect for flower garden, as well as for filling spots in a rock garden.
-* **Bluegrass** – grass with dark-green blades, reaching up to 70 cm of height. It blooms from mid-spring to end-summer.
-* **Common cottongrass** – a species of moderate height, reaching up to 40 cm. It blooms with characteristic round, grey, fluffy flowers.
+* Fétuque des prés - une espèce populaire de haute herbe des prés, pouvant atteindre un mètre. Ce type d'herbe est parfait pour les jardins de fleurs, ainsi que pour remplir les espaces d'un jardin de rocaille.
+* Pâturin - herbe aux limbes vert foncé, pouvant atteindre 70 cm de hauteur. Il fleurit du milieu du printemps à la fin de l'été.
+* La linaigrette commune - une espèce de hauteur moyenne, pouvant atteindre 40 cm. Elle fleurit avec des fleurs rondes, grises et duveteuses caractéristiques.
 
 {% fig %}
 ![Meadow grass – an unusual lawn idea](/uploads/trawa-lakowa.jpg "Meadow grass – an unusual lawn idea")
 {% endfig %}
 
 {:.distinction.distinction-information}
-One of the most popular species of ornamental grass is feather reed grass, which is a cross between two related plants – _Calamagrostis Arundinacea_ and _Calamagrostis Epigejos_ (wood small-reed). It reaches up to 1.5 meters, and it looks similar to grain plants.
+L'une des espèces les plus populaires d'herbe ornementale est le roseau à plumes, qui est un croisement entre deux plantes apparentées - Calamagrostis Arundinacea et Calamagrostis Epigejos (petit roseau à bois). Elle atteint jusqu'à 1,5 mètre et ressemble aux plantes à grains.
 
 {% fig %}
 ![ornamental grass](/uploads/trawy-ozdobne.jpg "ornamental grass")
 {% endfig %}
 
-## What is self-repairing grass and how dies it work?
+## Qu'est-ce que l'herbe auto-réparatrice et comment fonctionne-t-elle ?
 
-**Self-repairing grass is a real gardening phenomenon.** What makes it different from any other type of grass seed is the unique growth and spreading process.
+L'herbe auto-réparatrice est un véritable phénomène de jardinage. Ce qui la différencie de tout autre type de graine de gazon est le processus unique de croissance et de propagation.
 
-Self-repairing grass seed can grow several blades out of a single grain, and then they start to spread. It happens both vertically and horizontally, forming **thick bunches of grass**. Traditional types of grass also form bunches that spread, however their number remains the same. Self-repairing grass seed makes the lawn think and lush in a very short time.
+Les graines d'herbe auto-réparatrices peuvent faire pousser plusieurs brins à partir d'un seul grain, puis elles commencent à se répandre. Cela se produit à la fois verticalement et horizontalement, en formant d'épaisses grappes d'herbe. Les types d'herbe traditionnels forment également des grappes qui se répandent, mais leur nombre reste le même. Les graines d'herbe qui se réparent d'elles-mêmes rendent la pelouse réfléchie et luxuriante en très peu de temps.
 
 {% fig %}
 ![Self-repairing grass](/uploads/trawa-samozageszczajaca.jpg "Self-repairing grass")
 {% endfig %}
 
-Self-repairing grass makes great surface for a heavily used lawn. For this reason it's a perfect solution for a garden with children. This type of grass seed is also very resistant to atmospheric condition, so it can survive heavy rains and freezes.
+L'herbe qui se répare d'elle-même constitue une excellente surface pour une pelouse très utilisée. C'est donc une solution parfaite pour un jardin avec des enfants. Ce type de graines de gazon est également très résistant aux conditions atmosphériques, il peut donc survivre aux fortes pluies et au gel.
 
-### Self-repairing grass – price
+### L'herbe qui se répare d'elle-même - prix
 
-**The price of self-repairing grass seed** differs depending on several factors. One of the most significant ones is the **manufacturer**. Good quality self-repairing grass seed might cost even twice as much as other types. When choosing a particular brand, you have to decide whether your primary criterion is the quality or quantity.
+Le prix des semences de gazon auto-réparatrices varie en fonction de plusieurs facteurs. L'un des plus importants est le fabricant. Les semences de gazon autoréparables de bonne qualité peuvent coûter deux fois plus cher que les autres types de semences. Lorsque vous choisissez une marque particulière, vous devez décider si votre critère principal est la qualité ou la quantité.
 
-The size of the bag is crucial as well. A one-kilogram package of self-repairing grass seed might be sufficient for a small garden, it is definitely not enough for a large garden.
+La taille du sac est également cruciale. Un paquet d'un kilogramme de semences de gazon auto-réparatrices peut suffire pour un petit jardin, mais il n'est certainement pas suffisant pour un grand jardin.
 
-## How to plant grass seed? Preparing the ground
+## Comment planter des semences d'herbe ? Préparer le terrain
 
-The process of ground preparation before planting grass seed consists of several steps. It's very important for growth of the grass. The first what you need to do is **tidying the site**. You should gather the scraps and rubbish left on it and do the weeding. All those factor might affect the acidity of the soil and influence the grass seed growth.
+Le processus de préparation du sol avant de planter des semences d'herbe comprend plusieurs étapes. C'est très important pour la croissance de l'herbe. La première chose à faire est de nettoyer le site. Vous devez rassembler les déchets et les débris qui y sont laissés et procéder au désherbage. Tous ces facteurs peuvent affecter l'acidité du sol et influencer la croissance des graines de l'herbe.
 
 {:.distinction.distinction-warning}
-If the site is not cleaned up thoroughly, it might result in poor growth of the grass; it might grow yellow or dry.
+Si le site n'est pas nettoyé à fond, il peut en résulter une mauvaise croissance de l'herbe ; elle peut jaunir ou sécher.
 
 {% fig %}
 ![How to plant grass seed? Preparing the ground](/uploads/gleba.jpg "How to plant grass seed? Preparing the ground")
 {% endfig %}
 
-Another step in the process of soil preparation is **breaking the ground and testing its acidity**. It's a good indicator for which type of grass seed you should choose for a particular type of soil. For the best results, the soil should be fertile, airy, and it should have moderate humidity.
+Une autre étape dans le processus de préparation du sol consiste à déblayer le sol et à tester son acidité. C'est un bon indicateur du type de semences de gazon que vous devez choisir pour un type de sol particulier. Pour obtenir les meilleurs résultats, le sol doit être fertile, aéré et présenter une humidité modérée.
 
 {:.distinction.distinction-information}
-The acidity can be tested in two ways – by sending a sample to a lab or by using a special acidimeter. THe best acidity of a soil for grass seed is 5.5 – 6.5 pH.
+L'acidité peut être testée de deux façons : en envoyant un échantillon à un laboratoire ou en utilisant un acidimètre spécial. La meilleure acidité d'un sol pour les semences de graminées est un pH de 5,5 à 6,5.
 
-Make sure to **fertilize the soil** for a week before planting the grass seed. To do this, use a starter or a universal fertilizer. You can purchase both at a garden center. Mix it with the soil according to the manufacturer's instructions.
+Veillez à fertiliser le sol pendant une semaine avant de planter la graine de gazon. Pour ce faire, utilisez un engrais de démarrage ou un engrais universel. Vous pouvez acheter les deux dans un centre de jardinage. Mélangez-le avec le sol selon les instructions du fabricant.
 
-The last, but equally important step of preparing the soil before planting grass seed is **rolling the ground**. It helps to even the surface for planting and thickens the soil.
+La dernière étape, mais tout aussi importante, de la préparation du sol avant de planter les semences de gazon est le roulage du sol. Cela permet d'égaliser la surface pour la plantation et d'épaissir le sol.
 
-## Planting grass seed – how to do it?
+## Planter des semences d'herbe - comment faire ?
 
-A popular and quick method for planting grass seed is doing it **manually**. It involves seeding the grain yourself. To do this, you should **divide the prepared ground for several even parts**.
+Une méthode populaire et rapide pour planter des graines d'herbe consiste à le faire manuellement. Il s'agit de semer les graines soi-même. Pour ce faire, vous devez diviser le terrain préparé en plusieurs parties égales.
 
-When planting grass seed, it is advised to **do it crosswise**. This way the grain is evenly distributed, and the grass can reach optimal density. To make things easier, start seeding in one direction, and as you come back, spread the rest in opposite. Rake the ground thoroughly afterwards. It helps to cover the seeds with soil, which will protect the sprouts from weather conditions.
+Il est conseillé de planter les graines d'herbe en croix. De cette façon, le grain est réparti uniformément et l'herbe peut atteindre une densité optimale. Pour faciliter les choses, commencez à semer dans un sens et, en revenant, répartissez le reste dans le sens opposé. Ensuite, ratissez bien le sol. Cela permet de recouvrir les graines de terre, ce qui protège les germes des conditions climatiques.
 
 {% fig %}
 ![Planting grass seed](/uploads/jak-siac-trawe-rozdzial.jpg "Planting grass seed")
 {% endfig %}
 
 {:.distinction.distinction-information}
-An important step is solidifying the soil after planting grass seed. You can do it using a flat board. It secures the seed from being blown away by the wind.
+Une étape importante consiste à solidifier le sol après avoir planté des graines d'herbe. Vous pouvez le faire à l'aide d'une planche plate. Elle empêche les graines d'être emportées par le vent.
 
-Another, very important part is **watering the lawn.** To do it correctly, pour a small stream of water onto the ground. The easiest way is using a garden hose. Water the lawn regularly for two weeks after planting grass seed. The best time for watering the lawn is very early morning or late evening, when there is no sun which could burn the seedlings. Regular watering makes the lawn and its roots grow faster.
+Une autre partie très importante est l'arrosage du gazon. Pour le faire correctement, versez un petit jet d'eau sur le sol. Le plus simple est d'utiliser un tuyau d'arrosage. Arrosez la pelouse régulièrement pendant deux semaines après avoir planté les graines de gazon. Le meilleur moment pour arroser la pelouse est très tôt le matin ou tard le soir, quand il n'y a pas de soleil qui pourrait brûler les semis. Un arrosage régulier accélère la croissance de la pelouse et de ses racines.
 
 {% fig %}
 ![watering the lawn](/uploads/water-815475_1280.jpg "watering the lawn")
 {% endfig %}
 
-## When to plant grass seed?
+## Quand planter des graines d'herbe ?
 
-If you want your lawn to be **green and lush**, try planting grass seed in particular months. When to plant grass seed so that it grows fast and well?
+Si vous voulez que votre pelouse soit verte et luxuriante, essayez de planter des graines d'herbe pendant certains mois. Quand faut-il planter des graines d'herbe pour qu'elles poussent vite et bien ?
 
-Most of the grass seed species require planting in autumn. It's the best season, mostly due to **weather and soil conditions**, characteristic for this part of the year. Planting grass seed from August to October protects the seeds from heavy rainfalls and high temperatures. Additionally, the soil humidity encourages the grass to sprout and grow.
+La plupart des espèces de semences de gazon doivent être plantées en automne. C'est la meilleure saison, principalement en raison des conditions météorologiques et du sol, caractéristiques de cette partie de l'année. Planter des graines de graminées d'août à octobre protège les graines des fortes pluies et des températures élevées. De plus, l'humidité du sol favorise la germination et la croissance de l'herbe.
 
 {% fig %}
 ![plant grass seed](/uploads/kiedy-siac-trawe.jpg "plant grass seed")
 {% endfig %}
 
-**Another good season for planting grass seed is early spring.** The best period to do this is between April and June. The weather conditions are the most important factor, so pay attention not only to a particular month, but also to the temperature. In case of early spring freezes you should probably postpone planting grass seed until autumn.
+Le début du printemps est une autre bonne saison pour planter des graines d'herbe. La meilleure période pour ce faire se situe entre avril et juin. Les conditions météorologiques sont le facteur le plus important, il faut donc faire attention non seulement à un mois particulier, mais aussi à la température. En cas de gel printanier précoce, vous devriez probablement reporter la plantation de graines de graminées à l'automne.
 
 {:.distinction.distinction-information}
-Some garden owners decide to plant grass seed in March. It is, however, not the best idea from the gardening point of view. Although there are some species that are resistant to atmospheric conditions – for instance some types of ornamental grasses, planting grass seed so early might result in poor growth.
+Certains propriétaires de jardins décident de planter des semences de gazon en mars. Ce n'est cependant pas la meilleure idée du point de vue du jardinage. Bien que certaines espèces soient résistantes aux conditions atmosphériques, par exemple certains types de graminées ornementales, le fait de planter des semences de gazon si tôt peut entraîner une mauvaise croissance.
 
-## The most common mistakes made when planting grass seed
+## Les erreurs les plus courantes commises lors de la plantation de semences d'herbe
 
-When you prepare your lawn, you should pay close attention to every detail of the process. First and foremost, remember about all the rules – for **preparing the ground, seeding and further lawn care.** Very often even the smallest mistakes might affect the proper growth of grass.
+Lorsque vous préparez votre pelouse, vous devez prêter une attention particulière à chaque détail du processus. Avant tout, n'oubliez pas toutes les règles - pour la préparation du terrain, l'ensemencement et l'entretien ultérieur du gazon. Très souvent, même les plus petites erreurs peuvent nuire à la bonne croissance du gazon.
 
-**The most commonly made mistakes are:**
+Les erreurs les plus courantes sont les suivantes :
 
 {:.list.list-negative}
 
-* **Incorrectly prepared soil** and not removing all elements that might affect the growth.
-* **Not loosening the soil** – which helps with the removal of the remainders of plants that used to grow in the area.
-* **Insufficient removal of any weeds from the area** on which you are going to plant grass seed. If there is a lot of weeds, you might need to use an herbicide, which will remove the plants from the soil.
-* **Not enriching the soil** – some types of soil require additional fertilizing. It is particularly important in case of sandy soils, where you should use a special peat mix or compost.
-* **Choosing wrong grass seed**, that is not suitable for garden lawn, but rather for meadow grass.
-* **Uneven planting,** which results in an unaesthetic looking lawn.
-* **Not securing the seed after planting**, especially when the weather is windy, which might blow the seed away.
-* **Insufficient amount of water**, which hinders the seeds from sprouting and growing properly.
+* Un sol mal préparé et n'éliminant pas tous les éléments qui pourraient affecter la croissance.
+* Le fait de ne pas ameublir le sol - ce qui permet d'éliminer les restes de plantes qui poussaient dans la région.
+* L'élimination insuffisante des mauvaises herbes dans la zone où vous allez planter des graines de gazon. Si les mauvaises herbes sont nombreuses, vous devrez peut-être utiliser un herbicide, qui éliminera les plantes du sol.
+* Ne pas enrichir le sol - certains types de sol nécessitent un apport d'engrais supplémentaire. C'est particulièrement important dans le cas des sols sableux, où vous devez utiliser un mélange spécial de tourbe ou un compost.
+* Choisir de mauvaises semences de gazon, qui ne conviennent pas pour le gazon de jardin, mais plutôt pour le gazon de prairie.
+* Une plantation inégale, qui donne une pelouse d'apparence inesthétique.
+* Ne pas sécuriser les semences après la plantation, en particulier lorsque le temps est venteux, ce qui pourrait les faire disparaître.
+* Une quantité d'eau insuffisante, ce qui empêche les graines de germer et de pousser correctement.
 
 {% faqItem %}
 {% faqQuestion %}
-When to seed lawn in spring?
+Quand semer le gazon au printemps ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The best months for planting grass seed are from April until the end of June. If you decide to plant grass seed in spring, pay special attention to atmospheric conditions. If there are freezes, postpone seeding until autumn.
+Les meilleurs mois pour planter des graines de graminées sont d'avril à fin juin. Si vous décidez de planter des graines d'herbe au printemps, faites particulièrement attention aux conditions atmosphériques. En cas de gel, reportez les semis à l'automne.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to grow a wildflower lawn?
+Comment faire pousser un gazon de fleurs sauvages ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Plan planting grass seed according to the species you want to include. You might choose spring or autumn to do this. Consider the soil requirements of the grass seed and its resistance level.
+Planifiez la plantation de graines de graminées en fonction des espèces que vous voulez inclure. Pour ce faire, vous pouvez choisir le printemps ou l'automne. Tenez compte des exigences du sol pour la graine de gazon et de son niveau de résistance.
 {% endfaqAnswer %}
 {% endfaqItem %}
