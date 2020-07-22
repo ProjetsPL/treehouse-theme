@@ -3,18 +3,18 @@ layout: post
 date: 2020-07-21
 toc: true
 title: Grigio antracite - Scopri l'ultima tendenza dell'Home Decor 2020
-description: "Dreaming of a classy color to make your interior look stylish? \U0001F3D8️
-  Charcoal grey is the latest trend in interior design! \U0001F449 Learn the secret
-  to its popularity!"
+description: "Sognate un colore di classe per rendere i vostri interni eleganti? \U0001F3D8️
+  Il grigio antracite è l'ultima tendenza nel design d'interni! \U0001F449 Scoprite
+  il segreto della sua popolarità!"
 image: "/uploads/moda-na-antracyt.png"
 promoted: false
 update_date: 2020-07-21
-intro: Charcoal is a versatile color that can be used for many purposes. It is usually
-  described as a mix of grey with a trace of black or navy blue. Very often mistaken
-  for graphite, in reality it is a completely different, unique shade. Charcoal can
-  be used as a neutral background color, as well as a strong accent, it's perfect
-  for walls, furniture, accessories and flooring. Charcoal color is a very popular
-  color in 2020.
+intro: Il carbone è un colore versatile che può essere utilizzato per molti scopi.
+  Di solito viene descritto come un mix di grigio con una traccia di nero o blu marino.
+  Molto spesso scambiato per grafite, in realtà è una tonalità completamente diversa,
+  unica. Il carboncino può essere usato come colore di fondo neutro, oltre che come
+  forte accento, è perfetto per pareti, mobili, accessori e pavimenti. Il colore carboncino
+  è un colore molto popolare nel 2020.
 main_keywords:
 - carbone di legna
 - colore carbone di legna
@@ -22,46 +22,45 @@ main_keywords:
 - grigio carbone di legna
 - di che colore è il carbone di legna
 - che colore si abbina al grigio antracite
-published: false
 
 ---
-## Charcoal - what color is it, exactly?
+## Carboncino - di che colore è esattamente?
 
-**Charcoal color** is sometimes called graphite or anthracite color. For some people it's a dusky shade associated with **coal made of wood** or hard, mined coal and other sedimentary rocks. In HEX color code charcoal is known as #364135, in RAL - 7016. Charcoal is a **unique mixture** of grey and black.
+Il colore del carbone è talvolta chiamato grafite o antracite. Per alcune persone è una tonalità crepuscolare associata al carbone fatto di legno o di carbone duro, carbone estratto da miniere e altre rocce sedimentarie. Nel codice colore HEX il carbone è conosciuto come #364135, in RAL - 7016. Il carbone è una miscela unica di grigio e nero.
 
-Charcoal is a very intriguing color. Why is it so popular? It is very close to black, however it is noticeably brighter. It's one of the darkest tones of gray - and this feature makes it special.
+Il carbone di legna è un colore molto intrigante. Perché è così popolare? È molto vicino al nero, ma è notevolmente più brillante. È uno dei toni più scuri del grigio - e questa caratteristica lo rende speciale.
 
-## Charcoal – a suitable color for home decor?
+## Carbone - un colore adatto per l'arredamento della casa?
 
-Charcoal is a color that works perfectly in home interiors. This is the reason why this particular shade of gray gained so much popularity in the recent years. Nonetheless, it's a difficult color to use.Combining **charcoal with other home decor elements** should be done very carefully and skillfully. It's very easy to overwhelm the room with too much of this dark shade. Charcoal works best in spacious and well illuminated interiors. If the room is quite small, however, it does not mean that you should avoid the color. In this case it is better to use charcoal accessories rather than paint the walls.
+Il carboncino è un colore che funziona perfettamente negli interni della casa. Questo è il motivo per cui questa particolare tonalità di grigio ha guadagnato così tanta popolarità negli ultimi anni. Tuttavia, è un colore difficile da usare. La combinazione del carboncino con altri elementi d'arredo per la casa dovrebbe essere fatta con molta attenzione e abilmente. È molto facile sopraffare la stanza con troppa di questa tonalità scura. Il carbone funziona meglio in interni spaziosi e ben illuminati. Se la stanza è abbastanza piccola, tuttavia, non significa che si debba evitare il colore. In questo caso è meglio usare accessori a carbone piuttosto che dipingere le pareti.
 
-If your home is spacious but you have no idea how to use charcoal - refer to the help of a specialist. Contact a competent person, explain them what exactly you expect and **wait for a project fitted for your needs.** This solution is becoming increasingly popular among those who want to use charcoal color in their homes.
+Se la vostra casa è spaziosa ma non avete idea di come usare il carbone di legna - rivolgetevi a uno specialista. Contattate una persona competente, spiegatele cosa vi aspettate esattamente e aspettate un progetto adatto alle vostre esigenze. Questa soluzione sta diventando sempre più popolare tra coloro che vogliono utilizzare il colore a carboncino nelle loro case.
 
 {% fig %}
 ![Charcoal - what color is it, exactly?](/uploads/antracyt-co-to-za-kolor.jpg "Charcoal - what color is it, exactly?")
 {% endfig %}
 
-## What style works best with charcoal color?
+## Quale stile funziona meglio con il colore del carbone di legna?
 
-As mentioned before, charcoal is quite a universal shade. For this reason it can be easily suited to basically any interior design. It fits modern styles, such as **scandinavian, industrial and minimalistic**. If combined well, charcoal can make a room look special and unique, accentuating particular elements.
+Come detto prima, il carboncino è una tonalità universale. Per questo motivo può essere facilmente adatta a qualsiasi tipo di arredamento. Si adatta agli stili moderni, come quello scandinavo, industriale e minimalista. Se combinato bene, il carbone di legna può rendere un ambiente speciale e unico, accentuando elementi particolari.
 
-## Charcoal walls - a good idea?
+## Pareti a carbone - una buona idea?
 
-Charcoal is a color that looks perfect on walls - both in a house and in a small apartment. The only thing is to use it carefully and tastefully.
+Il carboncino è un colore che sembra perfetto sulle pareti - sia in una casa che in un piccolo appartamento. L'unica cosa è usarlo con cura e con gusto.
 
-Charcoal was rarely used as a wall color in the past. The dark shade could have seemed not very interesting and too strong. If used well, however, charcoal can be perfect for any type of interior.
+Il carbone è stato usato raramente come colore per le pareti in passato. La tonalità scura poteva sembrare poco interessante e troppo forte. Se usato bene, tuttavia, il carbone di legna può essere perfetto per qualsiasi tipo di interno.
 
 {:.distinction.distinction-information}
-It’s a highly adaptable color, which can be used in any modern style rooms - in kitchens, bathrooms, bedrooms and offices.
+È un colore molto adattabile, che può essere utilizzato in qualsiasi ambiente in stile moderno - nelle cucine, nei bagni, nelle camere da letto e negli uffici.
 
 {% fig %}
 ![Charcoal walls - a good idea?](/uploads/antracyt-na-scianach-czy-to-dobry-pomysl.jpg "Charcoal walls - a good idea?")
 {% endfig %}
 
-Charcoal works best as a wall colour in spacious and bright interiors. Such a room should be well illuminated with lots of natural light. The best rooms in which you can use charcoal paint are located on **eastern, south-eastern and western side** of a building. You shouldn’t color northern rooms with charcoal paint - they might look too dark and cold in such arrangements. In such cases it is better to combine the shade with brighter ones.
+Il carbone funziona al meglio come colore delle pareti in interni spaziosi e luminosi. Una stanza di questo tipo dovrebbe essere ben illuminata con molta luce naturale. Le migliori stanze in cui si può usare la vernice a carbone si trovano sul lato est, sud-est e ovest di un edificio. Non dovreste colorare le stanze settentrionali con vernice a carbone - potrebbero sembrare troppo scure e fredde in queste disposizioni. In questi casi è meglio combinare le tonalità con quelle più chiare.
 
 {:.distinction.distinction-warning}
-If the room is very small, you shouldn’t paint the walls charcoal. Such a dark shade would overwhelm the already small space. A better idea is to paint the walls in different, brighter color that makes the room look bigger. You can use charcoal accessories instead - as accent elements.
+Se la stanza è molto piccola, non dovreste dipingere le pareti a carboncino. Una tonalità così scura travolgerebbe lo spazio già piccolo. Un'idea migliore è quella di dipingere le pareti con un colore diverso, più brillante, che faccia sembrare la stanza più grande. Si possono usare accessori a carboncino, invece, come elementi d'accento.
 
 {% fig %}
 ![Charcoal walls - a good idea? 1](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-1.jpg "Charcoal walls - a good idea? 1")
@@ -71,37 +70,37 @@ If the room is very small, you shouldn’t paint the walls charcoal. Such a dark
 ![Charcoal walls - a good idea? 2](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-2.jpg "Charcoal walls - a good idea? 2")
 {% endfig %}
 
-### Charcoal walls - how to cover them to avoid surprises?
+### Muri di carbone - come coprirli per evitare sorprese?
 
-Thinking of charcoal color walls, you’re probably imagining a charcoal paint. If you decide to use such a product, choose a **semi-gloss finish** for the best results. Feeling anxious that the color could overwhelm the room? You can always decide to paint only one accent wall in the dark shade and the rest in a brighter color (e.g. white).
+Pensando alle pareti color antracite, probabilmente state immaginando una vernice a carboncino. Se decidete di usare un prodotto di questo tipo, scegliete una finitura semilucida per ottenere i migliori risultati. Vi sentite ansiosi che il colore possa travolgere la stanza? Potete sempre decidere di dipingere una sola parete d'accento nella tonalità scura e il resto in un colore più chiaro (ad es. bianco).
 
 {% fig %}
 ![Charcoal walls - how to cover them to avoid surprises?](/uploads/kolor-antracytowy-jak-pokryc-sciany.jpg "Charcoal walls - how to cover them to avoid surprises?")
 {% endfig %}
 
-Although wallpapers still seem out-fashioned, you should consider choosing this type of product to cover your walls. Wallpapers are becoming trendy again and manufacturers offer a lot of interesting designs, also charcoal. A good product with a nice texture might be a nice decoration for your room.
+Anche se gli sfondi sembrano ancora fuori moda, dovreste considerare la possibilità di scegliere questo tipo di prodotto per rivestire le vostre pareti. Gli sfondi stanno tornando di moda e i produttori offrono molti disegni interessanti, anche a carboncino. Un buon prodotto con una bella texture potrebbe essere una bella decorazione per la vostra stanza.
 
 {:.distinction.distinction-information}
-Instead of using an ordinary paint, you could use a chalkboard paint in charcoal color. Thanks to this solution you can write on walls with chalk, which might be useful in places such as kitchen, office and children’s room.
+Invece di usare una vernice ordinaria, si potrebbe usare una vernice per lavagna a carboncino. Grazie a questa soluzione è possibile scrivere sui muri con il gesso, che potrebbe essere utile in luoghi come la cucina, l'ufficio e la stanza dei bambini.
 
-### Accessories for dark walls
+### Accessori per pareti scure
 
-If the walls are painted charcoal, it is best to choose furniture and decorations in contrasting colors. The safest complimentary colors are white, beige, and also strong black. Charcoal also works well with light brown - therefore it is good to choose accessories in the color of natural wood. It is a particularly good solution for an interior in **scandinavian style**, which favours natural textures.
+Se le pareti sono dipinte a carboncino, è meglio scegliere mobili e decorazioni in colori contrastanti. I colori complementari più sicuri sono il bianco, il beige e anche il nero forte. Il carboncino funziona bene anche con il marrone chiaro - quindi è bene scegliere accessori nel colore del legno naturale. È una soluzione particolarmente buona per un interno in stile scandinavo, che privilegia le texture naturali.
 
 {:.distinction.distinction-information}
-A highly intriguing idea for a living room with charcoal walls is a sofa in a strong color, for instance blue or yellow. It makes the room look more vivid, and **charcoal walls bring out the strong color of the sofa**.
+Un'idea molto intrigante per un soggiorno con le pareti a carboncino è un divano di un colore forte, per esempio blu o giallo. Rende la stanza più vivida, e le pareti a carboncino fanno risaltare il colore forte del divano.
 
 {% fig %}
 ![Accessories for dark walls](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-3.jpg "Accessories for dark walls")
 {% endfig %}
 
-### Charcoal as an accent on a bright wall
+### Il carbone di legna come accento su un muro luminoso
 
-Charcoal is not always a suitable color for a wall. It does not mean that you have to abandon the idea of using it in your interior design. Luckily for you - charcoal is a perfect **accent color.**
+Il carbone non è sempre un colore adatto per un muro. Non significa che si debba abbandonare l'idea di utilizzarlo nel proprio arredamento d'interni. Fortunatamente per voi - il carbone di legna è un colore d'accento perfetto.
 
-If the interior is bright, choose dark **charcoal gray accessories** - for instance curtains and cushions. For small furniture pieces - pick charcoal chairs, coffee tables and lamps.
+Se l'interno è luminoso, scegliete accessori grigio antracite scuro - per esempio tende e cuscini. Per i piccoli mobili - scegliete sedie a carboncino, tavolini e lampade.
 
-{:.distinction.distinction-information} Elements such as dark grey doors, radiators and windows are perfect for accentuating the room design. They make it look more vivid and give it a unique character.
+{:.distinction.distinction-information} Elementi come porte, radiatori e finestre grigio scuro sono perfetti per accentuare il design della stanza. Lo rendono più vivido e gli conferiscono un carattere unico.
 
 {% fig %}
 ![Charcoal as an accent on a bright wall](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-1-1.jpg "Charcoal as an accent on a bright wall")
@@ -111,14 +110,14 @@ If the interior is bright, choose dark **charcoal gray accessories** - for insta
 ![Charcoal as an accent on a bright wall 1](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-7-1.jpg "Charcoal as an accent on a bright wall 1")
 {% endfig %}
 
-## Charcoal furniture - home decor trend of 2020
+## Mobili a carboncino - tendenza dell'arredamento per la casa del 2020
 
-Charcoal furniture is one of the most popular interior design trends in 2020. If you are planning a renovation and looking for an inspiration - we might be able to help you.
+I mobili a carboncino sono una delle tendenze più popolari dell'interior design nel 2020. Se state pianificando una ristrutturazione e cercate un'ispirazione - potremmo essere in grado di aiutarvi.
 
-If you think that covering your walls with charcoal paint is rather too much, you could decide to buy furniture in that color. They might be a great accent for an interior. Because **charcoal grey is a strong color**, you should choose furniture of simple, not very decorative design. Geometrical forms are the best in this case.
+Se pensate che ricoprire le vostre pareti con vernice a carbone sia un po' troppo, potreste decidere di acquistare mobili di quel colore. Potrebbero essere un ottimo accento per un interno. Poiché il grigio antracite è un colore forte, dovreste scegliere mobili dal design semplice e poco decorativo. Le forme geometriche sono le migliori in questo caso.
 
 {:.distinction.distinction-information}
-Charcoal furniture looks best on light, neutral backgrounds. Such an arrangement highlights the strong color, which is already a decorative element.
+I mobili a carboncino stanno meglio su sfondi chiari e neutri. Una tale disposizione evidenzia il colore forte, che è già un elemento decorativo.
 
 {% fig %}
 ![Charcoal furniture - home decor trend of 2020](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-7.jpg "Charcoal furniture - home decor trend of 2020")
@@ -132,25 +131,25 @@ Charcoal furniture looks best on light, neutral backgrounds. Such an arrangement
 ![Charcoal furniture - home decor trend of 2020 2](/uploads/meble-w-kolorze-antracytu.jpg "Charcoal furniture - home decor trend of 2020 2")
 {% endfig %}
 
-### What are the rules when fitting charcoal furniture?
+### Quali sono le regole per il montaggio dei mobili a carbone?
 
-Although, as it has been said, charcoal is a universal color, there are some rules that one should refer to.
+Anche se, come è stato detto, il carbone di legna è un colore universale, ci sono alcune regole a cui si dovrebbe fare riferimento.
 
-For the shared parts of a house you could choose a mid-century modern charcoal sofa. When choosing furniture, especially charcoal colored, pick smooth and simple textures. Consider matching contrasting colors, for instance a charcoal sofa and white armchairs. Charcoal grey is also a **perfect color for modern kitchens**. Dark grey cabinets matched with light accessories are always a good choice. You might also opt for dark tabletops contrasting with white cupboards.
+Per le parti comuni di una casa si può scegliere un divano a carboncino moderno di metà secolo. Quando si scelgono i mobili, soprattutto quelli color antracite, si scelgono strutture lisce e semplici. Considerate la possibilità di abbinare colori contrastanti, per esempio un divano a carboncino e poltrone bianche. Il grigio antracite è anche un colore perfetto per le cucine moderne. I mobili grigio scuro abbinati ad accessori chiari sono sempre una buona scelta. Si potrebbe anche optare per i piani dei tavoli scuri in contrasto con gli armadi bianchi.
 
 {% fig %}
 ![Charcoal - what accessories?](/uploads/antracyt-jakie-dodatki.jpg "Charcoal - what accessories?")
 {% endfig %}
 
-## Charcoal living room? Don’t shy away from bold solutions!
+## Il salotto a carboncino? Non rifuggire da soluzioni audaci!
 
-A charcoal living room, according to many experts in interior design, is a fantastic solution for everyone who is not scared of bold decisions.
+Un soggiorno a carboncino, secondo molti esperti di interior design, è una soluzione fantastica per tutti coloro che non hanno paura di decisioni audaci.
 
-A color like this works great in big spaces, and there are practically endless possibilities to use it. How to use charcoal in a living room? Find the most interesting solutions below!
+Un colore come questo funziona benissimo in grandi spazi, e le possibilità di utilizzo sono praticamente infinite. Come si usa il carbone di legna in un soggiorno? Trovate le soluzioni più interessanti qui sotto!
 
-### Charcoal to accentuate sofa and armchairs
+### Carboncino per accentuare il divano e le poltrone
 
-A focal point of a typical living room is the part where sofa or armchairs stand - or, in many cases, both. Those elements look fantastic in charcoal.
+Un punto focale di un tipico salotto è la parte in cui si trovano il divano o le poltrone - o, in molti casi, entrambe. Questi elementi hanno un aspetto fantastico in carboncino.
 
 {% fig %}
 ![Charcoal to accentuate sofa and armchairs](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-7-4.jpg "Charcoal to accentuate sofa and armchairs")
@@ -160,46 +159,46 @@ A focal point of a typical living room is the part where sofa or armchairs stand
 ![Charcoal to accentuate sofa and armchairs 1](/uploads/sofa-i-fotele-antracyt-doskonale-podkresli-ich-urok.jpg "Charcoal to accentuate sofa and armchairs 1")
 {% endfig %}
 
-In this case choosing such a color may serve two purposes. First, it is introducing elegance and making the interior look more classy. The other function is simply keeping the furniture clean. It is much easier with a dark coloured sofa than with, for instance, a white one.
+In questo caso la scelta di un tale colore può servire a due scopi. In primo luogo, introduce l'eleganza e rende l'interno più elegante. L'altra funzione è semplicemente quella di mantenere puliti i mobili. È molto più facile con un divano di colore scuro che, per esempio, con uno bianco.
 
-### Charcoal grey coffee tables
+### Tavolini grigio antracite
 
-Coffee tables are making a big comeback in our homes. They are becoming increasingly popular - especially the charcoal ones.
+I tavolini da caffè stanno facendo un grande ritorno nelle nostre case. Stanno diventando sempre più popolari - soprattutto quelli a carboncino.
 
-Not only classic, round coffee tables are getting attention. **Furniture of unusual shapes is trending in recent months.** A triangular table is one of the most interesting solutions - they look great in every living room, regardless of the style.
+Non solo i classici tavolini rotondi stanno attirando l'attenzione. I mobili dalle forme inusuali sono di tendenza negli ultimi mesi. Un tavolo triangolare è una delle soluzioni più interessanti - sono perfetti in ogni salotto, indipendentemente dallo stile.
 
 {:.distinction.distinction-information}
-Apart from classic tables with wooden legs in natural color, metal (golden or silver colored) bases are gaining popularity. Such an accessory looks much better in a modern than a classic interior - you should keep that in mind when furnishing your home.
+Oltre ai classici tavoli con gambe in legno di colore naturale, le basi in metallo (color oro o argento) stanno guadagnando popolarità. Un accessorio di questo tipo è molto più bello in un ambiente moderno che in un classico - dovreste tenerlo a mente quando arredate la vostra casa.
 
 {% fig %}
 ![Charcoal grey coffee tables](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-1-1-1.jpg "Charcoal grey coffee tables")
 {% endfig %}
 
-## A cozy charcoal bedroom
+## Un'accogliente camera da letto a carboncino
 
-You might wonder whether a charcoal bedroom is a good idea. One might think that a dark color is too dark for a space which main purpose is rest and relaxation. Similar to every other case - moderation and applying some rules are the most important. You don’t have to design the whole room in one color. Pick only individual elements.
+Ci si potrebbe chiedere se una camera a carbone sia una buona idea. Si potrebbe pensare che un colore scuro sia troppo scuro per uno spazio il cui scopo principale è il riposo e il relax. Come in ogni altro caso - la moderazione e l'applicazione di alcune regole sono le più importanti. Non è necessario progettare l'intera stanza in un unico colore. Scegliete solo singoli elementi.
 
 {% fig %}
 ![A cozy charcoal bedroom](/uploads/przytulna-sypialnia-w-kolorze-antracytowym.jpg "A cozy charcoal bedroom")
 {% endfig %}
 
-### Charcoal - perfect for an upholstered bed
+### Carboncino - perfetto per un letto imbottito
 
-Dreaming of an elegant, stylish bedroom? No problem - just pick a charcoal colored bed.
+Sognate una camera da letto elegante ed elegante? Nessun problema - basta scegliere un letto color antracite.
 
-**Upholstered furniture, similar to many other trends in 2020 - are coming back.** Beds in this style can be found in almost every furniture shop. Furthermore, charcoal is the real top trend of the latest season, and probably will be for a few next ones. Do you want to accentuate the elegance of your bedroom even more? Try an upholstered headboard - your bedroom will look exceptionally classy.
+I mobili imbottiti, simili a molte altre tendenze del 2020, stanno tornando. Letti in questo stile si trovano in quasi tutti i negozi di mobili. Inoltre, il carboncino è il vero top trend dell'ultima stagione, e probabilmente lo sarà anche per alcuni dei prossimi. Volete accentuare ancora di più l'eleganza della vostra camera da letto? Provate una testiera imbottita - la vostra camera da letto avrà un aspetto eccezionalmente elegante.
 
 {% fig %}
 ![Charcoal - perfect for an upholstered bed](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-1-2.jpg "Charcoal - perfect for an upholstered bed")
 {% endfig %}
 
-### Charcoal pillowcases and sheets
+### Federe e lenzuola a carboncino
 
-If you like **strong colors** but you do not want them to dominate your whole room, just pick the right accessories for your bedroom! You can, for instance, choose **charcoal pillowcases** or the whole **charcoal** **bed sheet set**, especially if your bedroom is bright-colored. Charcoal elements make the interior look more elegant and luxorious.
+Se ti piacciono i colori forti ma non vuoi che dominino tutta la tua stanza, scegli gli accessori giusti per la tua camera da letto! Potete, ad esempio, scegliere le federe a carboncino o il set di lenzuola a carboncino intero, soprattutto se la vostra camera da letto è di colori vivaci. Gli elementi a carboncino rendono gli interni più eleganti e lussuosi.
 
-## A charcoal colored bathroom
+## Un bagno color antracite
 
-Charcoal grey is a perfect color for designing a modern bathroom. There are many uses for this shade - a good idea is to pick **charcoal tiles**. If your bathroom is small, you can add white tiles here and there to break the unified, dark color. Grey walls can be perfectly complemented with white elements, such as sink, toilet and bathtub.
+Il grigio antracite è un colore perfetto per progettare un bagno moderno. Ci sono molti usi per questa tonalità - una buona idea è quella di scegliere le piastrelle di carbone. Se il vostro bagno è piccolo, potete aggiungere piastrelle bianche qua e là per rompere il colore unificato e scuro. Le pareti grigie possono essere perfettamente integrate con elementi bianchi, come lavandino, WC e vasca da bagno.
 
 {% fig %}
 ![Charcoal colored bathroom](/uploads/antracyt-czyli-pomysl-na-wystroj-lazienki.jpg "Charcoal colored bathroom")
@@ -210,11 +209,11 @@ Charcoal grey is a perfect color for designing a modern bathroom. There are many
 {% endfig %}
 
 {:.distinction.distinction-information}
-Quite a contrary solution is choosing charcoal elements and white walls. Both of the mentioned solutions can be used to create a modern and elegant interior with a unique character.
+Una soluzione al contrario è la scelta di elementi a carboncino e pareti bianche. Entrambe le soluzioni citate possono essere utilizzate per creare un interno moderno ed elegante con un carattere unico.
 
-## A dark charcoal kitchen? A great idea!
+## Una cucina a carbone scuro? Una grande idea!
 
-Many homeowners might think that a charcoal kitchen is not a good idea. It is, however, a highly recommended solution, especially if you have a lot of free space.
+Molti proprietari di case potrebbero pensare che una cucina a carbone non sia una buona idea. È, tuttavia, una soluzione altamente raccomandata, soprattutto se si dispone di molto spazio libero.
 
 {% fig %}
 ![A dark charcoal kitchen? A great idea!](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-kuchnia.jpg "A dark charcoal kitchen? A great idea!")
@@ -224,15 +223,15 @@ Many homeowners might think that a charcoal kitchen is not a good idea. It is, h
 ![A dark charcoal kitchen? A great idea! 1](/uploads/ciemna-kuchnia-w-kolorze-antracytowym-to-dobry-pomysl-1.jpg "A dark charcoal kitchen? A great idea! 1")
 {% endfig %}
 
-**What works best in a charcoal kitchen?** Most of all - furniture. You do not necessarily have to choose dark cabinets. Charcoal accessories, such as chairs or lamps will be enough. They look perfect with white tiled walls - a stylish and trendy solution.
+Cosa funziona meglio in una cucina a carbone? Soprattutto i mobili. Non è necessario scegliere necessariamente dei mobili scuri. Basteranno accessori a carbone, come sedie o lampade. Sono perfetti con le pareti piastrellate bianche - una soluzione elegante e di tendenza.
 
 {% fig %}
 ![A dark charcoal kitchen? A great idea! 2](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-kuchnia 1.jpg "A dark charcoal kitchen? A great idea! 2")
 {% endfig %}
 
-## Charcoal grey for a children's room? Only in a good combination!
+## Grigio carbone per la stanza dei bambini? Solo in una buona combinazione!
 
-Are you looking for ideas to furnish your child’s room? Although charcoal is very versatile, it is definitely not suitable for a toddler’s room. **It is simply too dark and difficult to integrate into this type of interior.** If you are not afraid of risks, choose delicate pastels and bright colors, and match them with charcoal accesories. You can ask a specialist to prepare a project based on your preferences.
+Siete alla ricerca di idee per arredare la camera del vostro bambino? Anche se il carboncino è molto versatile, non è sicuramente adatto alla camera di un bambino. È semplicemente troppo scuro e difficile da integrare in questo tipo di interni. Se non avete paura dei rischi, scegliete colori pastello delicati e colori vivaci e abbinateli con gli accessori a carboncino. Potete chiedere a uno specialista di preparare un progetto in base alle vostre preferenze.
 
 {% fig %}
 ![Charcoal grey - do not use for a children’s room](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-pokoj-dziecka.jpg "Charcoal grey - do not use for a children’s room")
@@ -246,44 +245,44 @@ Are you looking for ideas to furnish your child’s room? Although charcoal is v
 ![Charcoal grey - do not use for a children’s room 2](/uploads/moda-na-antracyt-sprawdz-najpopularniejszy-kolor-2020-pokoj-dziecka-1.jpg "Charcoal grey - do not use for a children’s room 2")
 {% endfig %}
 
-**Charcoal is an increasingly popular color - not without a reason**. You should consider using it in your home interior design. The fact that it is so dark and overwhelming might be discouraging. Nevertheless, if used skillfully, charcoal grey can be combined with other home decor elements to create a modern, stylish and original appearance.
+Il carbone è un colore sempre più popolare - non senza motivo. Dovreste considerare la possibilità di utilizzarlo nell'arredamento della vostra casa. Il fatto che sia così scuro e travolgente potrebbe essere scoraggiante. Tuttavia, se usato abilmente, il grigio antracite può essere combinato con altri elementi d'arredo per creare un aspetto moderno, elegante e originale.
 
-## Charcoal grey - FAQ
+## Grigio carbone - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
-What color is charcoal?
+Di che colore è il carbone di legna?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Charcoal grey is a very dark shade of grey - almost black but still lighter. The name of the color comes from charcoal - material made of wood burnt in a high temperature with low access to oxygen.
+Il grigio antracite è una tonalità di grigio molto scuro - quasi nero ma ancora più chiaro. Il nome del colore deriva dal carbone di legna - materiale fatto di legno bruciato ad alta temperatura con basso accesso all'ossigeno.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-What color goes with charcoal gray?
+Che colore si abbina al grigio antracite?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Charcoal grey works best with contrasting colors, such as white and bright grey. It can also be a background for strong colors, such as blue, yellow or green.
+Il grigio antracite funziona al meglio con colori contrastanti, come il bianco e il grigio brillante. Può anche essere uno sfondo per colori forti, come il blu, il giallo o il verde.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-Charcoal grey - where to use it?
+Grigio carbone - dove usarlo?
 {% endfaqQuestion %}
 
-{% faqAnswer %} Charcoal is a color that works great in any home interior, and, in some cases, in an office. If you decide to use it in a small kitchen, bathroom or living room, remember about certain rules which will make your room look more consistent.
+{% faqAnswer %} Il carboncino è un colore che funziona benissimo in qualsiasi interno della casa e, in alcuni casi, in un ufficio. Se decidete di usarlo in una piccola cucina, in un bagno o in un soggiorno, ricordatevi di alcune regole che renderanno la vostra stanza più coerente.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-Charcoal grey - how to choose a charcoal paint?
+Grigio antracite - come scegliere una vernice a carboncino?
 {% endfaqQuestion %}
 
-{% faqAnswer %} Make sure to choose the right product designed for the surface you are going to paint. Water-based charcoal paint is recommended, for its satin finish. Satin charcoal walls look “lighter” and very elegant.
+{% faqAnswer %} Assicuratevi di scegliere il prodotto giusto per la superficie che andrete a dipingere. Si consiglia la vernice a carbone a base d'acqua, per la sua finitura satinata. Le pareti a carboncino satinato hanno un aspetto "più leggero" e molto elegante.
 {% endfaqAnswer %}
 {% endfaqItem %}
