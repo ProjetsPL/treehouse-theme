@@ -14,24 +14,24 @@ toc: true
 promoted: false
 update_date: 2020-07-19
 title: Las mejores ideas para la pared de TV - ¿Cómo diseñarla en una sala de estar?
-description: "Dreaming of a TV wall? \U0001F4FA Learn how to design it properly. ➡️
-  Inspire yourself with the most interesting solutions and transform your living room."
-intro: A TV is the most basic equipment in almost every home. You can arrange it traditionally
-  and put in on a shelf or hang it on a wall. But it can look much better if you design
-  the whole wall – such a solution is often referred to as a TV wall. What does it
-  look like? Check the most interesting TV wall ideas.
+description: "¿Soñando con una pared de televisión? \U0001F4FA Aprende a diseñarlo
+  correctamente. ➡️ Inspírese con las soluciones más interesantes y transforme su
+  sala de estar."
+intro: Un televisor es el equipo más básico en casi todos los hogares. Puedes arreglarlo
+  tradicionalmente y ponerlo en un estante o colgarlo en una pared. Pero puede verse
+  mucho mejor si diseñas toda la pared. Esta solución se conoce como pared de TV.
+  ¿Qué aspecto tiene? Mira las ideas más interesantes para la pared de TV.
 image: "/uploads/sciana-telewizyjna-zdjecie-glowne-1.jpg"
 related_products: []
-published: false
 
 ---
-## A TV wall in the living room – a focal point of the interior
+## Una pared de televisión en la sala de estar - un punto focal del interior
 
-An unusual and creative TV wall design is a real challenge, especially for people who have never done interior design before. **A TV wall in a living room is its focal point. It is the most apparent section to notice right after stepping into the room.** For this reason it is good to arrange it in an interesting way. The interior might gain a lot thanks to it.
+Un diseño de pared inusual y creativo para la televisión es un verdadero desafío, especialmente para las personas que nunca han hecho diseño de interiores antes. Una pared de TV en una sala de estar es su punto focal. Es la sección más aparente que se nota justo después de entrar en la habitación. Por esta razón es bueno organizarla de una manera interesante. El interior puede ganar mucho gracias a ello.
 
-## A TV wall with bricks
+## Una pared de televisión con ladrillos
 
-A **brick wall** is an interesting idea for a TV wall design. It's a solution that fits many styles. Due to the material, it refers to the classics. It's a bold choice, which is a characteristic feature of modern interiors, and it can be also attributed to the **retro style**. A lot depends on the accessories you use, which gives one a possibility to adjust the room to one's personal taste. A TV room with bricks in the background is a perfect idea for anyone who doesn't quite know which style suits them the most, or for those who like to change designs very often.
+Una pared de ladrillos es una idea interesante para el diseño de una pared de televisión. Es una solución que se adapta a muchos estilos. Debido al material, se refiere a los clásicos. Es una elección audaz, que es un rasgo característico de los interiores modernos, y también se puede atribuir al estilo retro. Mucho depende de los accesorios que se utilicen, lo que le da a uno la posibilidad de ajustar la habitación a su gusto personal. Una sala de televisión con ladrillos en el fondo es una idea perfecta para cualquiera que no sepa exactamente qué estilo le conviene más, o para aquellos a los que les gusta cambiar de diseño muy a menudo.
 
 {% fig %}
 ![A TV wall with bricks](/uploads/scianka-telewizyjna-z-cegly.jpg "A TV wall with bricks")
@@ -45,21 +45,21 @@ A **brick wall** is an interesting idea for a TV wall design. It's a solution th
 ![A TV wall with bricks](/uploads/sciana-tv-cegla.jpg "A TV wall with bricks")
 {% endfig %}
 
-## Find a good backing – a wooden TV wall
+## Encuentra un buen respaldo - una pared de madera para la televisión
 
-As for a TV wall with wood, you have several possibilities when it comes to design. You can lay the whole wall with wooden panels or cover just a part of it – only where the device is going to be placed. In such a case you can order specially designed panels. All you need to do is to make a basic project and the specialist is going to know what you expect.
+En cuanto a una pared de TV con madera, tienes varias posibilidades en cuanto a diseño. Puedes colocar toda la pared con paneles de madera o cubrir sólo una parte de ella - sólo donde el dispositivo va a ser colocado. En tal caso, puedes pedir paneles especialmente diseñados. Todo lo que necesitas es hacer un proyecto básico y el especialista sabrá lo que esperas.
 
-If you have the wooden elements customised for you, consider adding another functionality to the wall. You could ask for making side shelves to the main panel, for instance to make a display of your movies collection.
+Si tienes los elementos de madera personalizados para ti, considera añadir otra funcionalidad a la pared. Podrías pedir que se hagan estantes laterales al panel principal, por ejemplo para hacer una exhibición de tu colección de películas.
 
 {% fig %}
 ![Find a good backing – a wooden TV wall](/uploads/sciana-telewizyjna-drewniana.jpg "Find a good backing – a wooden TV wall")
 {% endfig %}
 
-## The popular choice – a TV wall unit
+## La elección popular - una unidad de pared de TV
 
-It's becoming quite common for many homeowners and interior designers to order **special furniture units**. It's a solution that allows to maximally use the space available in the room. When designing furniture unit with shelves and closets, you might consider **leaving a space for a TV** – turning it into a TV wall unit.
+Se está volviendo muy común que muchos propietarios y diseñadores de interiores ordenen muebles especiales. Es una solución que permite utilizar al máximo el espacio disponible en la habitación. Cuando se diseña un mueble con estantes y armarios, se puede considerar la posibilidad de dejar un espacio para un televisor, convirtiéndolo en un mueble de pared para televisión.
 
-This solution leaves you a plethora of possibilities. A white unit with a **wooden niche** for the TV is definitely an interesting idea. You could also arrange a contrasting section on the wall the TV is going to be placed. This way, when turned off, the device will be practically invisible.
+Esta solución te deja una gran cantidad de posibilidades. Un mueble blanco con un nicho de madera para la TV es definitivamente una idea interesante. También podrías colocar una sección de contraste en la pared donde se colocará el televisor. De esta manera, cuando se apague, el aparato será prácticamente invisible.
 
 {% fig %}
 ![The popular choice – a TV wall unit](/uploads/sciana-telewizyjna-w-salonie-wneka-meblowa.jpg "The popular choice – a TV wall unit")
@@ -69,9 +69,9 @@ This solution leaves you a plethora of possibilities. A white unit with a **wood
 ![The popular choice – a TV wall unit](/uploads/sciana-telewizyjna-wneka-meblowa.jpg "The popular choice – a TV wall unit")
 {% endfig %}
 
-## 3D texture – not only on the TV, but also behind it!
+## La textura 3D, no sólo en la televisión, sino también detrás de ella.
 
-Do you want an absolutely modern-looking interior? Choose unusual solutions that others are afraid of. Uneven texture of the wall is still not a very popular option. Nevertheless, it gives you a lot of possibilities for a TV wall design. Manufacturers offer 3D panels of different textures. It's a perfect background for a modern TV wall design.
+¿Quieres un interior de aspecto absolutamente moderno? Elija soluciones inusuales que otros temen. La textura desigual de la pared todavía no es una opción muy popular. Sin embargo, te da muchas posibilidades para un diseño de pared de TV. Los fabricantes ofrecen paneles 3D de diferentes texturas. Es un fondo perfecto para un diseño de pared de TV moderno.
 
 {% fig %}
 ![3D texture – not only on the TV, but also behind it!](/uploads/sciana-telewizyjna-panele-3d.jpg "3D texture – not only on the TV, but also behind it!")
@@ -82,26 +82,26 @@ Do you want an absolutely modern-looking interior? Choose unusual solutions that
 {% endfig %}
 
 {:.distinction.distinction-warning}
-Keep in mind that if you choose 3D panels, you shouldn't overdo them. Apart from the TV wall, the rest of the walls in the room should remain plain.
+Ten en cuenta que si eliges los paneles 3D, no debes exagerar. Aparte de la pared del televisor, el resto de las paredes de la habitación deben permanecer lisas.
 
-## An original wallpaper as a TV wall decoration
+## Un papel pintado original como decoración de pared de la TV
 
-Do you want a colorful, unusual pattern on your TV wall? You could, of course hire a painter, but in such a case your TV wall decoration might be expensive or not quite what you expected. A better solution is to **use a wallpaper**.
+¿Quieres un patrón colorido e inusual en la pared de tu TV? Podría, por supuesto, contratar a un pintor, pero en tal caso la decoración de la pared de su TV podría ser costosa o no ser lo que esperaba. Una mejor solución es usar un papel tapiz.
 
 {% fig %}
 ![An original wallpaper as a TV wall decoration](/uploads/sciana-telewizyjna-w-salonie.jpg "An original wallpaper as a TV wall decoration")
 {% endfig %}
 
-Modern-looking patterns give you many possibilities. You can use **traditional materials or a photograph wallpaper.** The latter is a very original idea for a TV wall, provided that you choose an interesting picture. Remember – in this case the only limit is your imagination.
+Los patrones de aspecto moderno te dan muchas posibilidades. Puedes usar materiales tradicionales o un papel tapiz fotográfico. Este último es una idea muy original para una pared de televisión, siempre que elijas una imagen interesante. Recuerda, en este caso el único límite es tu imaginación.
 
 {:.distinction.distinction-warning}
-A TV wall might get hot during a prolonged use of the device, so when you choose a wallpaper, pay attention to the quality of the materials. This will allow you to enjoy your wall ornament for longer.
+La pared de un televisor puede calentarse durante un uso prolongado del aparato, por lo que al elegir un papel pintado, hay que prestar atención a la calidad de los materiales. Esto le permitirá disfrutar de su adorno de pared por más tiempo.
 
-## A TV wall with the device hidden in a closet
+## Una pared de televisión con el dispositivo escondido en un armario
 
-The TV does not match any design you wish to arrange in your living room? You rarely use the device but still want to keep it at home? A unit with a hidden TV might be the perfect solution for you. Instead of an exposed niche, the unit has a special closet for the TV.
+¿El televisor no se ajusta a ningún diseño que desee arreglar en su sala de estar? ¿Rara vez usas el aparato pero aún así quieres tenerlo en casa? Una unidad con un televisor oculto podría ser la solución perfecta para usted. En lugar de un nicho expuesto, la unidad tiene un armario especial para el televisor.
 
 {:.distinction.distinction-information}
-This type of a TV wall can be ordered as **customized furniture**. It is a good idea to have the TV attached to a special track, so that you can easily pull the device out whenever you need it.
+Este tipo de pared de TV puede ser ordenado como un mueble personalizado. Es una buena idea tener el televisor unido a una pista especial, para que puedas sacar el aparato fácilmente cuando lo necesites.
 
-**Using several interesting ideas, you can design an original interior.** A TV wall designed by you will be a perfect living room decoration that will impress your guests. The presented solutions can be used in other rooms as well.
+Usando varias ideas interesantes, puedes diseñar un interior original. Una pared de TV diseñada por ti será una perfecta decoración para la sala de estar que impresionará a tus invitados. Las soluciones presentadas pueden ser usadas en otras habitaciones también.
