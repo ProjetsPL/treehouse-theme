@@ -12,106 +12,105 @@ toc: true
 promoted: false
 update_date: 2020-07-20
 title: 'Renovación simple de la cocina: ¿Cómo elegir las cortinas de la cocina?'
-description: "Looking for a cheap idea for kitchen renovation? ✔️ Learn a ridiculously
-  simple trick - kitchen curtains! \U0001F449 Discover the most exciting kitchen window
-  ideas!"
-intro: Dreaming of an elegant kitchen design? Kitchen curtains are a small detail
-  that can completely transform the character of your interior. Modern manufacturers
-  offer many styles and designs to choose from. Discover what are the best models
-  available on the market and take your interior to the next, stylish level in no
-  time, using nothing but kitchen curtains!
+description: "¿Buscando una idea barata para la renovación de la cocina? ✔️ Aprende
+  un truco ridículamente simple - ¡cortinas de cocina! \U0001F449 ¡Descubre las más
+  excitantes ideas de ventanas de cocina!"
+intro: "¿Soñando con un elegante diseño de cocina? Las cortinas de cocina son un pequeño
+  detalle que puede transformar completamente el carácter de su interior. Los fabricantes
+  modernos ofrecen muchos estilos y diseños para elegir. Descubra cuáles son los mejores
+  modelos disponibles en el mercado y lleve su interior al siguiente nivel de estilo
+  en poco tiempo, usando nada más que cortinas de cocina!"
 image: "/uploads/zaslony-kuchenne.jpg"
 related_products: []
-published: false
 
 ---
-## How to choose kitchen curtains - key issues
+## Cómo elegir las cortinas de cocina - cuestiones clave
 
-Choosing the right kitchen curtain might be a real challenge. Shops offer many various types of curtains in different shapes, sizes, colors and cuts. Very often they are matched with other kitchen elements such as drapes, table cloths and napkins. It's a simple method to make your kitchen look stylish and consistent.
+Elegir la cortina de cocina correcta podría ser un verdadero desafío. Las tiendas ofrecen muchos tipos de cortinas de diferentes formas, tamaños, colores y cortes. Muy a menudo se combinan con otros elementos de cocina como cortinas, manteles y servilletas. Es un método simple para hacer que su cocina luzca elegante y consistente.
 
-When selecting kitchen curtains, it is good to pay attention to several crucial matters. They most important issues are:
+Cuando se seleccionan las cortinas de cocina, es bueno prestar atención a varios asuntos cruciales. Los más importantes son:
 
 {:.list.list-positive}
 
-* **shape and fashion: short or long, single or double,**
-* **color:** classic white kitchen curtains or colorful drapes,
-* **function:** decoration or a form of a barrier, protection of privacy.
+* forma y moda: corto o largo, simple o doble,
+* color: clásicas cortinas blancas de cocina o cortinas de colores,
+* función: decoración o una forma de barrera, protección de la privacidad.
 
 {% fig %}
 ![How to choose kitchen curtains - key issues](/uploads/jakie-firanki-wybrac.jpg "How to choose kitchen curtains - key issues")
 {% endfig %}
 
-## Fantastic kitchen curtains sets to choose from
+## Fantásticos juegos de cortinas de cocina para elegir
 
-The market offers a plethora of ways in which one can fasten their kitchen curtains. You might select a separate element or a whole kitchen set consisting of curtains and drapes. **The most desired types available on the market are voile and valance kitchen curtains**. They both resemble each other due to the similar fashion of fastening. Each of the type consists of two sheets pinned on both sides so that they uncover a part of the window.
+El mercado ofrece una plétora de formas en las que uno puede sujetar sus cortinas de cocina. Se puede elegir un elemento separado o un juego de cocina completo que consiste en cortinas y cortinajes. Los tipos más deseados disponibles en el mercado son las cortinas de cocina de voile y valance. Ambas se parecen entre sí debido a la forma similar de fijación. Cada uno de los tipos consiste en dos hojas clavadas por ambos lados para que descubran una parte de la ventana.
 
-Another interesting solution is using classic cafe curtains. They used to be hand made in the past. They are **very short**, reaching only half of the window. They used to be present in every typical household. Currently, there are many kitchen curtains of this type available in shops. They are, however, a little bit longer and more sheer than years ago. It is a fantastic solution instead of classic kitchen curtains and drapes.
+Otra solución interesante es usar las clásicas cortinas de café. Solían ser hechas a mano en el pasado. Son muy cortas, llegando sólo a la mitad de la ventana. Solían estar presentes en todos los hogares típicos. Actualmente, hay muchas cortinas de cocina de este tipo disponibles en las tiendas. Sin embargo, son un poco más largas y escarpadas que hace años. Es una solución fantástica en lugar de las clásicas cortinas y visillos de cocina.
 
 {:.distinction.distinction-information}
-String kitchen curtains are a very intriguing form of decoration. They consist of a row of thin strings in one or many colors.
+Las cortinas de cocina de cuerda son una forma muy intrigante de decoración. Consisten en una hilera de finas cuerdas de uno o varios colores.
 
-## Kitchen curtains ideas - new look at the old concept
+## Ideas para cortinas de cocina - nueva mirada al viejo concepto
 
-Many people associate kitchen curtains with something distasteful, like an outdated apartment. It might have been accurate in the past. Today, however, curtains are becoming popular again. Manufacturers offer a **wide variety of fashions and styles** that do not look cheap at all — on the contrary — they are extremely elegant and stylish.
+Mucha gente asocia las cortinas de la cocina con algo desagradable, como un apartamento anticuado. Podría haber sido correcto en el pasado. Sin embargo, hoy en día, las cortinas se están volviendo populares de nuevo. Los fabricantes ofrecen una amplia variedad de modas y estilos que no parecen baratas en absoluto - al contrario - son extremadamente elegantes y con estilo.
 
-Modern kitchen curtains, similar to drapes in a room, can completely alter the looks of the whole interior. They can make it look cozy and create a pleasant atmosphere. **A piece of a plain fabric provides unlimited possibilities for home decoration.** Using a few simple kitchen curtains, you can travel back to old-school sixties or design a modern looking kitchen with an unusual design.
+Las modernas cortinas de cocina, similares a las cortinas de una habitación, pueden alterar completamente el aspecto de todo el interior. Pueden hacer que parezca acogedor y crear un ambiente agradable. Un trozo de tela lisa proporciona posibilidades ilimitadas para la decoración del hogar. Usando unas simples cortinas de cocina, puedes viajar a la vieja escuela de los sesenta o diseñar una cocina de aspecto moderno con un diseño inusual.
 
 {% fig %}
 ![Kitchen curtains ideas - new look at the old concept](/uploads/zaluzje-kuchenne.jpg "Kitchen curtains ideas - new look at the old concept")
 {% endfig %}
 
-Innovation has reached the fabrics utilized for kitchen curtains production, but not only. The past years have also seen the change in **the way the curtains are hung**. Very popular in the past thick and heavily embroidered cafe curtains have been replaced by sheer and long fabrics.
+La innovación ha llegado a los tejidos utilizados para la producción de cortinas de cocina, pero no sólo. Los últimos años también han visto el cambio en la forma de colgar las cortinas. Muy populares en el pasado las cortinas de café gruesas y muy bordadas han sido reemplazadas por telas largas y transparentes.
 
-## Beautiful tailored kitchen curtains
+## Hermosas cortinas de cocina hechas a medida
 
-Some windows, especially those in single family homes have unusual sizes. In such a case it is a good idea to choose **tailored kitchen curtains.** Shops offer a wide variety of fabrics - you can purchase the in bulk. Manufacturers produce also decorative elements that can be used as trimmings.
+Algunas ventanas, especialmente las de las casas unifamiliares, tienen tamaños inusuales. En tal caso, es una buena idea elegir cortinas de cocina a medida. Las tiendas ofrecen una gran variedad de telas - se pueden comprar al por mayor. Los fabricantes también producen elementos decorativos que pueden ser usados como adornos.
 
-Tailored kitchen curtains might be incredibly interesting for those who have a certain project in mind or those who seek unusual **home decorations**. This way you can be sure your kitchen curtains are absolutely unique.
-
-{:.distinction.distinction-information}
-You can ask a professional to prepare your kitchen curtains. If you think you are competent at designing home decorations and you can sew, you might decide to do it yourself.
-
-Designs in which various types of fabrics are combined are becoming a favoured method for home decoration. There are endless possibilities to design various patterns. This way you have a chance to **design an attractive decorative element** that will fulfill even the pickiest tastes.
-
-### How much do tailored kitchen curtains cost?
-
-Tailored kitchen curtains are slightly more expensive than ready-made drapes available for purchase in shops. The price depends on various factors. **The materials used for the project are the most significant.** If you utilize high-quality materials or you desire some rare fabrics, the price is going to be much higher than when you use standard materials. Furthermore, the costs of tailoring kitchen curtains include the price of executing the project - sewing the curtains. Tailored kitchen curtains are definitely more expensive than ready-made products offered by manufacturers. With the price, however, you get a more superior quality and a product that matches your individual needs.
-
-## How to clean kitchen curtains? Learn before buying
-
-There are as many way to clean a curtain as people who do it. Almost every homeowner surely has their proven method for cleaning, bleaching and ironing kitchen curtains. If you, however, want to achieve the best results, you should pay attention to this matter before buying a particular curtain.
-
-**Not all kitchen drapes can be washed in a washing machine,** especially if they are made of delicate fabrics that can be easily damaged. In such cases one has to hand-wash them - but not everyone has time to do it. For this reason it is important to pay special attention to the type of fabric of a curtain you are about to buy.
+Las cortinas de cocina hechas a medida pueden ser increíblemente interesantes para aquellos que tienen un cierto proyecto en mente o para aquellos que buscan decoraciones inusuales para el hogar. De esta manera puede estar seguro de que sus cortinas de cocina son absolutamente únicas.
 
 {:.distinction.distinction-information}
-If you want to to wash kitchen curtains with flounce or made of thick materials, add some starch and bleach during the washing. It helps them to retain their original shape for longer.
+Puede pedirle a un profesional que prepare sus cortinas de cocina. Si crees que eres competente en el diseño de la decoración del hogar y sabes coser, puedes decidir hacerlo tú misma.
 
-## What to use instead of kitchen curtains? Decorate your windows with blinds
+Los diseños en los que se combinan varios tipos de telas se están convirtiendo en un método favorito para la decoración del hogar. Hay un sinfín de posibilidades para diseñar varios patrones. De esta manera tienes la oportunidad de diseñar un elemento decorativo atractivo que satisfaga incluso los gustos más exigentes.
 
-Although there are many types and shapes of kitchen curtains available on the market, they are not to everyone's taste. Instead, some homeowners decide to use modern blinds that look equally stylish. Contrary to kitchen curtains, blinds do not need to be washed. It is an interesting alternative, worth keeping in mind. Note that without kitchen curtains the interior does not look as cozy as with them.
+### ¿Cuánto cuestan las cortinas de cocina a medida?
+
+Las cortinas de cocina hechas a medida son un poco más caras que las cortinas ya hechas que se pueden comprar en las tiendas. El precio depende de varios factores. Los materiales utilizados para el proyecto son los más significativos. Si utiliza materiales de alta calidad o desea algunas telas raras, el precio va a ser mucho más alto que cuando utiliza materiales estándar. Además, los costes de confección de las cortinas de cocina incluyen el precio de la ejecución del proyecto - coser las cortinas. Las cortinas de cocina hechas a medida son definitivamente más caras que los productos listos para usar ofrecidos por los fabricantes. Con el precio, sin embargo, se obtiene una calidad más superior y un producto que se ajusta a sus necesidades individuales.
+
+## ¿Cómo limpiar las cortinas de la cocina? Aprende antes de comprar
+
+Hay tantas formas de limpiar una cortina como gente que lo hace. Casi todos los propietarios tienen su método probado para limpiar, blanquear y planchar las cortinas de cocina. Sin embargo, si quiere obtener los mejores resultados, debe prestar atención a este asunto antes de comprar una cortina en particular.
+
+No todas las cortinas de cocina se pueden lavar en una lavadora, especialmente si están hechas de telas delicadas que se pueden dañar fácilmente. En estos casos hay que lavarlas a mano, pero no todo el mundo tiene tiempo para hacerlo. Por esta razón es importante prestar especial atención al tipo de tela de una cortina que se va a comprar.
+
+{:.distinction.distinction-information}
+Si quieres lavar cortinas de cocina con volante o hechas de materiales gruesos, añade un poco de almidón y lejía durante el lavado. Les ayuda a mantener su forma original por más tiempo.
+
+## ¿Qué usar en lugar de las cortinas de la cocina? Decora tus ventanas con persianas
+
+Aunque hay muchos tipos y formas de cortinas de cocina disponibles en el mercado, no son del gusto de todos. En su lugar, algunos propietarios deciden usar persianas modernas que se ven igual de elegantes. A diferencia de las cortinas de cocina, las persianas no necesitan ser lavadas. Es una alternativa interesante, que vale la pena tener en cuenta. Tenga en cuenta que sin cortinas de cocina el interior no parece tan acogedor como con ellas.
 
 {% fig %}
 ![What to use instead of kitchen curtains? Decorate your windows with blinds](/uploads/kuchnia-zaluzje1.jpg "What to use instead of kitchen curtains? Decorate your windows with blinds")
 {% endfig %}
 
-If you like combining traditional and modern solutions, consider **matching kitchen curtains with modern, metal or wooden blinds**. Although such a solution might seem overwhelming, in fact, it looks really good - especially if the kitchen has large windows. To add some finesse, choose uniform, sheer kitchen curtains - it will take the "weight" off the room.
+Si le gusta combinar soluciones tradicionales y modernas, considere la posibilidad de combinar cortinas de cocina con persianas modernas, de metal o madera. Aunque tal solución puede parecer abrumadora, de hecho, se ve muy bien, especialmente si la cocina tiene grandes ventanas. Para añadir algo de delicadeza, elija cortinas de cocina uniformes y transparentes.
 
 {% faqItem %}
 {% faqQuestion %}
-How to choose kitchen curtains?
+¿Cómo elegir las cortinas de la cocina?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The most popular kitchen curtains are cafe, voile or valance curtains. Shops offer a wide variety of curtains in different shapes and sizes. There are many fabrics to choose from - you will surely find the one that suits your taste.
+Las cortinas de cocina más populares son las cortinas de café, de voile o de valance. Las tiendas ofrecen una gran variedad de cortinas de diferentes formas y tamaños. Hay muchas telas para elegir, seguramente encontrará la que se adapte a su gusto.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to sew your kitchen curtains?
+¿Cómo coser las cortinas de la cocina?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-If you know how to use a sewing machine, you might be able to make your own kitchen drapes. If it is out of your level of skill, give you project to a tailor. This way you can be sure that your new kitchen curtains are going to look fantastic.
+Si sabes cómo usar una máquina de coser, podrías hacer tus propias cortinas de cocina. Si está fuera de tu nivel de habilidad, dale el proyecto a un sastre. De esta manera puedes estar seguro de que tus nuevas cortinas de cocina se verán fantásticas.
 {% endfaqAnswer %}
 {% endfaqItem %}
