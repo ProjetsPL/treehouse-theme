@@ -14,9 +14,9 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-19
-title: ¿Cómo deshacerse de los áfidos? 5 remedios caseros probados para los áfidos
-description: "Insects are ruining your plants? \U0001F997 Learn the most effective
-  methods and remedies to get rid of aphids. ✅ Free your garden!"
+title: How to get rid of aphids? 5 proven home remedies for aphids
+description: "¿Los insectos están arruinando sus plantas? \U0001F997 Aprende los métodos
+  y remedios más efectivos para deshacerte de los áfidos. ✅ ¡Libera tu jardín!"
 intro: A beautiful garden is your dream but pests are ruining your plants? Are you
   wondering how to get rid of aphids? Take a look at those five simple methods that
   will help you fight them. Try home remedies for aphids and see that they can be
@@ -24,83 +24,83 @@ intro: A beautiful garden is your dream but pests are ruining your plants? Are y
   solutions and restore the beauty of your precious garden.
 image: "/uploads/jak-zwalczac-mszyce.jpg"
 related_products: []
-published: false
 
 ---
-## What are aphids and why are they harmful?
+## ¿Qué son los áfidos y por qué son dañinos?
 
-Aphids are quite common and **very irksome pests**. They can be found in floral and vegetable gardens, or even on balcony potted plants. It is easy to recognize them, as they form swarms. Depending on the species, you can find **black, green and yellow** aphids, or the rarest ones – **orange**.
+Los áfidos son plagas muy comunes y muy molestas. Se pueden encontrar en jardines florales y de vegetales, o incluso en plantas de maceta de balcón. Es fácil reconocerlos, ya que forman enjambres. Dependiendo de la especie, se pueden encontrar pulgones negros, verdes y amarillos, o los más raros - naranja.
 
-Aphids are a serious threat for garden plants, as they suck their juices. They also pollute them with their excretion, and they might spread dangerous viruses. For this reason it is important to **act immediately** and use home remedies as soon as the pests appear in the garden.
+Los áfidos son una seria amenaza para las plantas de jardín, ya que chupan sus jugos. También los contaminan con su excreción, y pueden propagar peligrosos virus. Por esta razón es importante actuar inmediatamente y usar remedios caseros tan pronto como las plagas aparezcan en el jardín.
 
 {% fig %}
 ![What are aphids and why are they harmful?](/uploads/mszyce-dlaczego-sa-szkodliwe.jpg "What are aphids and why are they harmful?")
 {% endfig %}
 
-## Wondering how to get rid of aphids? Get some plants that repel them
+## ¿Preguntándose cómo deshacerse de los áfidos? Consigue algunas plantas que los repelan
 
-A good neighborhood for the plants in your garden affects their proper growth and general health. **Ecological agriculture** has been gaining popularity. It mainly involves using neighboring plants, so that they have a positive influence on each other. **Home remedies for aphids also engage using plants that are disliked by those tiny insects.**
+Un buen vecindario para las plantas de su jardín afecta su crecimiento adecuado y su salud general. La agricultura ecológica ha ido ganando popularidad. Se trata principalmente de utilizar las plantas vecinas, para que se influyan mutuamente de forma positiva. Los remedios caseros para los áfidos también involucran el uso de plantas que no son del agrado de esos pequeños insectos.
 
-The best remedy for aphids in your vegetable garden is planting garlic and onion, which **repel the pests.** A coordinate cultivation is a highly effective method – it involves planting vegetables along with aphid-repellent plants. Therefore, when planting vegetables that are liked by aphids, combine them with plants that repel those insects.
+El mejor remedio para los áfidos en su huerto es plantar ajo y cebolla, que repelen las plagas. Un cultivo coordinado es un método muy eficaz - implica la plantación de hortalizas junto con plantas que repelen los áfidos. Por lo tanto, al plantar vegetales que gustan a los áfidos, combínelos con plantas que repelen esos insectos.
 
-As for a floral garden, it is a good idea to use lavender. It is a perfect aphid remedy, as it **repels the pests with its strong scent**. Another universal method is planting some anti-insect herbs. The best herb for aphids is **mint,** which can be planted both in vegetable and floral garden.
+En cuanto a un jardín floral, es una buena idea usar lavanda. Es un remedio perfecto para los pulgones, ya que repele las plagas con su fuerte aroma. Otro método universal es plantar algunas hierbas anti-insectos. La mejor hierba para los pulgones es la menta, que puede plantarse tanto en el jardín de verduras como en el floral.
 
 {:.distinction.distinction-information}
-You can also plant mint in a pot by other plants to repel aphids invading your balcony flowers.
+También puedes plantar menta en una maceta por otras plantas para repeler los áfidos que invaden las flores de tu balcón.
 
 {% fig %}
 ![Wondering how to get rid of aphids? Get some plants that repel them](/uploads/mieta-przeciw-mszycom.jpg "Wondering how to get rid of aphids? Get some plants that repel them")
 {% endfig %}
 
-## How to kill aphids with plant extracts and brews?
+## ¿Cómo matar a los áfidos con extractos de plantas y brebajes?
 
-Planting aphid repellent plants is not the only way to use them in your fight with those insects. You can also prepare highly effective **natural extracts and brews**.
+Plantar plantas repelentes de pulgones no es la única forma de usarlas en tu lucha con esos insectos. También puedes preparar extractos naturales y brebajes altamente efectivos.
 
-Onion extract is a perfect aphid home remedy. Onions can be typically found in every kitchen, and it is not difficult to turn them into brew. All you need is:
+El extracto de cebolla es un perfecto remedio casero contra los áfidos. Las cebollas se encuentran típicamente en todas las cocinas, y no es difícil convertirlas en cerveza. Todo lo que necesitas es:
 
 {:.list.list-positive}
-* onions,
-* water,
-* a large pot.
 
-Cut the onions (max. 100 g) into pieces, add approximately 10 liters of water and boil it on low heat for 30 minutes. After another 30 minutes the brew is ready to use.
+* cebollas,
+* agua,
+* una gran olla.
+
+Cortar las cebollas (máximo 100 g) en trozos, añadir aproximadamente 10 litros de agua y hervirla a fuego lento durante 30 minutos. Después de otros 30 minutos, el brebaje está listo para ser usado.
 
 {:.distinction.distinction-information}
-Onion extract is effective not only against aphids, but also it is a perfect remedy for fungal plant diseases.
+El extracto de cebolla no sólo es efectivo contra los áfidos, sino que también es un remedio perfecto para las enfermedades de las plantas micóticas.
 
 {% fig %}
 ![How to kill aphids with plant extracts and brews?](/uploads/preparat-na-mszyce-z-cebuli.jpg "How to kill aphids with plant extracts and brews?")
 {% endfig %}
 
-A garlic extract is another, equally effective home remedy to get rid of aphids. To prepare this natural solution, grind 200-300 g of garlic. Add 10 liters of water and leave it for 24 hours. Dilute the extract with water in 1:1 proportion – it is ready to use.
+El extracto de ajo es otro remedio casero igualmente efectivo para deshacerse de los áfidos. Para preparar esta solución natural, muela 200-300 g de ajo. Añada 10 litros de agua y déjelo durante 24 horas. Diluya el extracto con agua en proporción 1:1 - está listo para usar.
 
 {:.distinction.distinction-warning}
-You can keep the home aphid solution maximally for 2 months. Remember to keep it in an air-tight container and put it in a dark spot. You cannot overdose such solutions, so you can use large quantities when spraying the plants.
+Puedes mantener la solución casera de pulgón como máximo durante 2 meses. Recuerde que debe guardarla en un recipiente hermético y ponerla en un lugar oscuro. No se puede sobredosis de estas soluciones, por lo que se pueden utilizar grandes cantidades cuando se rocían las plantas.
 
-## Ecological spraying – a proven method to get rid of aphids
+## La pulverización ecológica, un método probado para deshacerse de los áfidos
 
-The best way to get rid of aphids is **ecological garden spraying**. Natural, home-made solutions can help you remove the pests quickly and effectively, **without the risk of harming the plants**. Ecological spraying is perfect for gardens with children, as it is safe for human health.
+La mejor manera de deshacerse de los pulgones es la fumigación ecológica de los jardines. Las soluciones naturales y caseras pueden ayudar a eliminar las plagas de forma rápida y eficaz, sin el riesgo de dañar las plantas. La pulverización ecológica es perfecta para los jardines con niños, ya que es segura para la salud humana.
 
 {% fig %}
 ![Ecological spraying – a proven method to get rid of aphids](/uploads/naturalne-opryski-sposob-na-mszyce.jpg "Ecological spraying – a proven method to get rid of aphids")
 {% endfig %}
 
-### How to kill aphids with vinegar?
+### ¿Cómo se matan los pulgones con vinagre?
 
 Vinegar spraying is the most popular method to fight with aphids. **To make a vinegar solution, mix it with water in 1:10 proportion.**
 
 {:.distinction.distinction-warning}
-When preparing the solution, always pour vinegar into water – not vice versa, as it can cause adverse chemical reactions, harmful for health.
+Al preparar la solución, vierta siempre vinagre en el agua, no al revés, ya que puede causar reacciones químicas adversas, perjudiciales para la salud.
 
-Optionally **you can add a spoon of soap or a few drops of dish detergent.** This way the solution will stick better to the plants. Soap also makes it last longer. After preparing the liquid, pour it into a spray bottle or a sprinkler and spray the plants. Do it not only from above – pay attention to the bottom of the leaves, as that's the place where aphids are most likely to be.
+Opcionalmente puede añadir una cuchara de jabón o unas gotas de detergente para vajilla. De esta manera la solución se pegará mejor a las plantas. El jabón también hace que dure más tiempo. Después de preparar el líquido, viértalo en un pulverizador o en un aspersor y rocíe las plantas. No lo hagas sólo desde arriba, presta atención a la parte inferior de las hojas, ya que es el lugar donde es más probable que estén los áfidos.
 
-### Killing aphids with baking soda – a perfect solution for insects in your garden
+### Matar pulgones con bicarbonato de sodio - una solución perfecta para los insectos de su jardín
 
-**A baking soda solution** has many uses – it can be used also for fighting with garden pests. It is effective mostly against aphids, but you can use it for whiteflies and mites as well.
+Una solución de bicarbonato de sodio tiene muchos usos - puede ser usado también para luchar contra las plagas del jardín. Es eficaz sobre todo contra los áfidos, pero también puede utilizarse para las moscas blancas y los ácaros.
 
-**A baking soda mixture** against aphids is very easy to make. Just add a little (no more than 1/3 teaspoon) to a liter of warm (not boiling) water. Add half a teaspoon of vegetable oil. Mix everything thoroughly. Similar to previous solutions, you may add some soap.
+Una mezcla de bicarbonato de sodio contra los áfidos es muy fácil de hacer. Sólo hay que añadir un poco (no más de 1/3 de cucharadita) a un litro de agua tibia (no hirviendo). Añade media cucharadita de aceite vegetal. Mezclar todo bien. Al igual que en las soluciones anteriores, puede agregar un poco de jabón.
 
 {:.distinction.distinction-information}
-Spraying the solution is not the only option. You can also wipe the affected leaves with it. Do it twice a week.
+Rociar la solución no es la única opción. También puedes limpiar las hojas afectadas con ella. Hazlo dos veces por semana.
 
-Using **home remedies**, you can get rid of aphids quickly and effectively. Chemicals are not always needed – treat them a last resort.
+Usando remedios caseros, puedes deshacerte de los áfidos rápida y eficazmente. Los productos químicos no siempre son necesarios, trátalos como último recurso.
