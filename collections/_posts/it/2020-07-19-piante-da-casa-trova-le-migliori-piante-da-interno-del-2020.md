@@ -21,58 +21,58 @@ toc: true
 promoted: false
 update_date: 2020-07-19
 title: Piante da casa - Trova le migliori piante da interno del 2020
-description: "Are you a plant lover? Do you grow indoor plants? \U0001F331 These fascinating
-  species will amaze you. ➡️ Take a look at the most popular house plants."
-intro: Do you grow potted plants at home? There are certain species that not only
-  look beautiful, but they are also very easy to grow. Learn what species you should
-  add to your green collection and find out how to take care of them. Check what are
-  the most popular house plants of 2020.
+description: "Sei un amante delle piante? Coltivi piante d'appartamento? \U0001F331
+  Queste affascinanti specie vi stupiranno. ➡️ Date un'occhiata alle piante da appartamento
+  più popolari."
+intro: Coltivate piante in vaso a casa? Ci sono alcune specie che non solo sono belle,
+  ma sono anche molto facili da coltivare. Imparate quali specie dovreste aggiungere
+  alla vostra collezione verde e scoprite come prendervi cura di loro. Controllate
+  quali sono le piante da appartamento più popolari del 2020.
 image: "/uploads/jak-pielegnowac-rosliny-doniczkowe.jpg"
 related_products: []
-published: false
 
 ---
-## House plants – what should you know about them?
+## Le piante della casa - cosa dovreste sapere su di loro?
 
-Potted plants have many names – house plants, indoor flowers and so on. They are grown in soil placed in various containers. **House plants are an easy way to introduce the natural environment into closed interiors,** which affects the decor and the mood of anyone staying in there. They also allow to maintain contact with nature, especially in winter.
+Le piante in vaso hanno molti nomi - piante da appartamento, fiori da appartamento e così via. Vengono coltivate in terriccio posto in vari contenitori. Le piante d'appartamento sono un modo semplice per introdurre l'ambiente naturale in interni chiusi, il che influisce sull'arredamento e sull'umore di chi vi soggiorna. Permettono anche di mantenere il contatto con la natura, soprattutto in inverno.
 
-**House plants can be perennials or annuals**. They usually form traditional flowers with petals or develop vines. They can also take forms of miniature trees.
+Le piante d'appartamento possono essere perenni o annuali. Di solito formano fiori tradizionali con petali o sviluppano viti. Possono anche assumere forme di alberi in miniatura.
 
-Plants chosen to be grown in pots usually have high aesthetic value, displaying interesting colors, shapes or **unusual way of blooming**. The wide variety of plants of this type makes it easier to pick the one that matches your individual taste.
+Le piante scelte per essere coltivate in vaso hanno di solito un alto valore estetico, mostrando colori, forme e forme interessanti o un modo insolito di fiorire. La grande varietà di piante di questo tipo rende più facile scegliere quella che corrisponde al vostro gusto individuale.
 
 {% fig %}
 ![House plants – what should you know about them?](/uploads/kwiaty-doniczkowe-co-warto-wiedziec.jpg "House plants – what should you know about them?")
 {% endfig %}
 
-## How to take care of house plants?
+## Come prendersi cura delle piante da appartamento?
 
-As every type of house plant is different, they have various needs. For this reason when you choose particular types of potted plants, make sure to provide the **best conditions to them, for their proper growth and blooming**. There are some general rules that can help you take care of your indoor plants.
+Poiché ogni tipo di pianta da appartamento è diverso, ha diverse esigenze. Per questo motivo, quando si scelgono particolari tipi di piante in vaso, assicurarsi di fornire loro le condizioni migliori, per la loro corretta crescita e fioritura. Ci sono alcune regole generali che possono aiutarvi a prendervi cura delle vostre piante da appartamento.
 
 {% fig %}
 ![How to take care of house plants?](/uploads/rosliny-doniczkowe.jpg "How to take care of house plants?")
 {% endfig %}
 
-One of the most basic rules of plants care is **regular watering.** It's important to water the plants according to the needs of particular species. Most of the potted plants require **intense watering in spring**, as it's the time when they **bloom**.
+Una delle regole più basilari per la cura delle piante è l'irrigazione regolare. È importante innaffiare le piante in base alle esigenze di particolari specie. La maggior parte delle piante in vaso richiede un'intensa annaffiatura in primavera, poiché è il momento in cui fioriscono.
 
-Spring is the season when potted plants require the most attention. **March and April is the best time for fertilizing.** It will help your plants to bloom and enliven the already existing shoots and roots. Spring is also a good time for repotting too large house plants into bigger containers – or **dividing them into smaller parts**.
+La primavera è la stagione in cui le piante in vaso richiedono la massima attenzione. Marzo e aprile sono il periodo migliore per la concimazione. Aiuterà le vostre piante a fiorire e ad animare i germogli e le radici già esistenti. La primavera è anche un buon momento per rinvasare le piante di casa troppo grandi in contenitori più grandi - o per dividerle in parti più piccole.
 
-You should keep the **the house plants leaves clean** throughout the whole year. Sprinkle their surface with clean water weekly, especially in winter when the air is more dry due to central heating.
+Dovreste tenere le foglie delle piante di casa pulite per tutto l'anno. Cospargete la loro superficie con acqua pulita settimanalmente, specialmente in inverno quando l'aria è più secca a causa del riscaldamento centralizzato.
 
 {:.distinction.distinction-information}
-Keep your plants in good condition in the autumn as well. It's the best time to prepare them for their winter rest. Avoid fertilizing the house plants in autumn – you should wait until spring.
+Mantenete le vostre piante in buone condizioni anche in autunno. È il momento migliore per prepararle al riposo invernale. Evitate di concimare le piante di casa in autunno - dovreste aspettare la primavera.
 
-## What house plants are worth having?
+## Quali piante da casa vale la pena di avere?
 
-**The best potted plants** that you can grow in your household are the ones that do not require too much attention and everyday care. This is an easy way to make your house plants a **magnificent** **decoration**, while putting as little effort as possible or in case you forget to water them.
+Le migliori piante in vaso che si possono coltivare in casa sono quelle che non richiedono troppa attenzione e cura quotidiana. Questo è un modo semplice per rendere le vostre piante d'appartamento una magnifica decorazione, con il minimo sforzo possibile o nel caso in cui vi dimentichiate di innaffiarle.
 
-Before making a decision which indoor plants to choose, pay attention not only to their appearance, but also to their practical properties that you could use. See the most **popular house plants** that are absolute must-haves in 2020:
+Prima di decidere quali piante da appartamento scegliere, fate attenzione non solo al loro aspetto, ma anche alle loro proprietà pratiche che potreste utilizzare. Guardate le piante da appartamento più popolari, che nel 2020 sono un must assoluto:
 
 {:.list.list-positive}
 
-* **Geranium** – it is one of the most popular ornamental flowers. It is a house plant, although your put it outside. It is typically grown **on balconies and windowsills**. Geraniums are not only aesthetically-pleasing, as they bloom in beautiful, intense colors, but also have a lot of practical uses. The essential oil that can be found in the leaves is used for therapeutic massages, inhalations and baths. It has **antibacterial and anti-inflammatory** properties.
+* Geranio - è uno dei fiori ornamentali più popolari. E 'una pianta da casa, anche se il vostro messo fuori. E 'tipicamente coltivato su balconi e davanzali. I gerani non sono solo esteticamente piacevoli, in quanto fioriscono in colori belli e intensi, ma hanno anche un sacco di usi pratici. L'olio essenziale che si trova nelle foglie viene utilizzato per massaggi terapeutici, inalazioni e bagni. Ha proprietà antibatteriche e antinfiammatorie.
 
 {:.distinction.distinction-information}
-You can also use a geranium in the kitchen – for instance adding its chopped leaves to tea or to meals and desserts.
+È possibile utilizzare un geranio anche in cucina - per esempio aggiungendo le sue foglie tritate al tè o ai pasti e ai dolci.
 
 {% fig %}
 
@@ -88,7 +88,7 @@ You can also use a geranium in the kitchen – for instance adding its chopped l
 
 {:.list.list-positive}
 
-* **Dracaena** – a very popular houseplant. It requires minimal attention and care, therefore it's recommended for those who **don't have time for taking care of plants everyday.** It's a perfect potted plant for busy or forgetful homeowners. Being neglected is not an issue for it, contrary to other indoor plants.
+* Dracaena - una pianta d'appartamento molto popolare. Richiede un'attenzione e una cura minime, quindi è consigliata a chi non ha tempo di prendersi cura delle piante tutti i giorni. È una pianta in vaso perfetta per i proprietari di case indaffarati o smemorati. Essere trascurati non è un problema per questo, a differenza di altre piante d'appartamento.
 
 {% fig %}
 
@@ -98,7 +98,7 @@ You can also use a geranium in the kitchen – for instance adding its chopped l
 
 {:.list.list-positive}
 
-* **Fern** – a very common in the past, nowadays fern has been forgotten a little. Now it comes back. This popular house plant has a soothing effect for a human organism, thanks to its intense green color. In addition, its leaves work as a natural air purifier. This potted plant **neutralizes signals emitted from electronical devices** that are in the room. It's an ideal indoor plant for a living room or an office.
+* La felce - molto comune in passato, oggi la felce è stata un po' dimenticata. Ora ritorna. Questa popolare pianta da casa ha un effetto calmante per l'organismo umano, grazie al suo colore verde intenso. Inoltre, le sue foglie funzionano come purificatore d'aria naturale. Questa pianta in vaso neutralizza i segnali emessi dai dispositivi elettronici che si trovano nella stanza. È una pianta da interni ideale per un soggiorno o un ufficio.
 
 {% fig %}
 ![Fern](/uploads/paproc-roslina-doniczkowa.jpg "Fern")
@@ -106,7 +106,7 @@ You can also use a geranium in the kitchen – for instance adding its chopped l
 
 {:.list.list-positive}
 
-* **Peace lily** – a unique houseplant that can act as **an air purifier replacement**. The plant filters air naturally, absorbing harmful toxins from the air. Peace lilies are perfect indoor plants. They are highly recommended for people suffering from respiratory issues such as asthma.
+* Giglio della pace - una pianta d'appartamento unica nel suo genere che può fungere da depuratore d'aria sostitutivo. La pianta filtra l'aria in modo naturale, assorbendo le tossine nocive dall'aria. I gigli della pace sono perfette piante d'appartamento. Sono altamente raccomandate per le persone che soffrono di problemi respiratori come l'asma.
 
 {% fig %}
 
@@ -116,7 +116,7 @@ You can also use a geranium in the kitchen – for instance adding its chopped l
 
 {:.list.list-positive}
 
-* **Aloe vera** – it's an indoor plant, often praised for its many uses. Aloe vera juice is **rich in vitamins and minerals**, and it has healing properties. **Fresh aloe juice helps with swelling, bug bites, as well as acne**. Thanks to its anti-inflammatory properties, it also aids gastrointestinal system treatment. It's an indoor plant definitely worth having in every household.
+* Aloe vera - è una pianta da interni, spesso elogiata per i suoi molteplici usi. Il succo di Aloe vera è ricco di vitamine e minerali, e ha proprietà curative. Il succo fresco di aloe aiuta a combattere il gonfiore, le punture d'insetto e l'acne. Grazie alle sue proprietà antinfiammatorie, aiuta anche il trattamento del sistema gastrointestinale. È una pianta da interni che vale sicuramente la pena di avere in ogni casa.
 
 {% fig %}
 
@@ -124,42 +124,42 @@ You can also use a geranium in the kitchen – for instance adding its chopped l
 
 {% endfig %}
 
-## House plants that are always trendy
+## Piante della casa sempre alla moda
 
-There are certain potted plants that **have been highly popular** for many seasons and it doesn't look like the trend is going to end. What house plants should one choose to **create a** **stylish and elegant interior**? Find some suggestions below.
+Ci sono alcune piante in vaso che sono state molto popolari per molte stagioni e non sembra che la tendenza stia per finire. Quali piante da casa si dovrebbe scegliere per creare un interno elegante e raffinato? Trovate qui sotto alcuni suggerimenti.
 
-### Monstera – turn your house into a jungle
+### Monstera - trasformare la vostra casa in una giungla
 
-Monstera is one of the most popular and at the same time **the most impressive potted plants**. Using it, you can create your own exotic garden in your house.
+Monstera è una delle piante in vaso più popolari e allo stesso tempo più impressionanti. Con essa è possibile creare il proprio giardino esotico in casa.
 
-Monstera is a perfect **potted plant** for everyone. It not only looks very interesting, but it is also very easy to take care of. Monstera is an ideal addition to current trends. If you're planning to create your own urban jungle, consider adding a monstera to your collection.
+Monstera è una pianta in vaso perfetta per tutti. Non solo ha un aspetto molto interessante, ma è anche molto facile da curare. Monstera è un'aggiunta ideale alle tendenze attuali. Se state pensando di creare la vostra giungla urbana, considerate la possibilità di aggiungere una monstera alla vostra collezione.
 
 {% fig %}
 ![Monstera – turn your house into jungle](/uploads/monstera-kwiat-dla-milosnikow-egzotyki.jpg "Monstera – turn your house into jungle")
 {% endfig %}
 
-### Potted cactus – natural minimalism in your interior
+### Cactus in vaso - minimalismo naturale al vostro interno
 
-Cactus is a very popular and **timeless ornamental indoor plant**. Its most interesting feature is the fact that it's entirely covered with spikes.
+Il cactus è una pianta ornamentale da interni molto popolare e senza tempo. La sua caratteristica più interessante è il fatto che è interamente ricoperta di spighe.
 
 {% fig %}
 ![Potted cactus – natural minimalism in your interior](/uploads/kaktus-doniczkowy.jpg "Potted cactus – natural minimalism in your interior")
 {% endfig %}
 
-A cactus is a plant naturally growing on hot and dry deserts, therefore it requires **minimal effort**. For this reason cacti are perfect for anyone who cannot really take care of plants or often **forgets about watering them**. Because of their great ability to adapt to any conditions, homeowners often choose them to be their house plants.
+Un cactus è una pianta che cresce naturalmente nei deserti caldi e secchi, quindi richiede uno sforzo minimo. Per questo motivo i cactus sono perfetti per chi non può davvero prendersi cura delle piante o spesso si dimentica di innaffiarle. A causa della loro grande capacità di adattarsi a qualsiasi condizione, i proprietari di casa spesso li scelgono come piante da appartamento.
 
-**There are many types of cacti to choose from**. There is always at least a dozen of the most popular ones in a typical gardening shop. You will surely find the one that suits you perfectly.
+Ci sono molti tipi di cactus tra cui scegliere. Ce ne sono sempre almeno una dozzina tra le più popolari in un tipico negozio di giardinaggio. Troverete sicuramente quello che fa per voi.
 
 {:.distinction.distinction-information}
-Cacti can survive being neglected very well. For this reason they are ideal for people who are not capable of taking care of plants but they still want to have them in their house.
+Cacti può sopravvivere molto bene ad essere trascurata. Per questo motivo sono l'ideale per le persone che non sono in grado di prendersi cura delle piante ma che vogliono comunque averle in casa.
 
-### Orchids... potted plants that delight everyone
+### Orchidee... piante in vaso che deliziano tutti
 
-**Orchids** are exceptionally beautiful plants that are perfect for the role of potted plants. It's a very popular and praised species among house plants lovers, and they are decorations in many homes. Those universal plants look trendy in any interior, during any season.
+Le orchidee sono piante eccezionalmente belle, perfette per il ruolo delle piante in vaso. È una specie molto popolare e apprezzata dagli amanti delle piante da appartamento, e sono decorazioni in molte case. Queste piante universali sono alla moda in qualsiasi interno, in qualsiasi stagione.
 
-There are several types of orchids with different **petal colors**. The most popular colors are white, pink, purple and blue.
+Ci sono diversi tipi di orchidee con diversi colori di petali. I colori più popolari sono il bianco, il rosa, il viola e il blu.
 
-Growing orchids is not very complicated, although it **requires following a few rules.** By putting enough effort, the owner can enjoy its beauty for many years.
+Coltivare le orchidee non è molto complicato, anche se richiede di seguire alcune regole. Con uno sforzo sufficiente, il proprietario può godere della sua bellezza per molti anni.
 
 {% fig %}
 ![Orchids... potted plants that delight everyone](/uploads/orchidea.jpg "Orchids... potted plants that delight everyone")
@@ -167,32 +167,32 @@ Growing orchids is not very complicated, although it **requires following a few 
 
 {% faqItem %}
 {% faqQuestion %}
-Where to buy houseplants?
+Dove comprare le piante d'appartamento?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-If you are looking for new house plants, try visiting a gardening shop. You can find high quality plant for your home there. Alternatively, supermarkets often offer cheap potted plants, so keep an eye for them while doing grocery shopping.
+Se siete alla ricerca di nuove piante per la casa, provate a visitare un negozio di giardinaggio. Lì troverete piante di alta qualità per la vostra casa. In alternativa, i supermercati spesso offrono piante in vaso a buon mercato, quindi tenete d'occhio le piante mentre fate la spesa.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How often to water houseplants?
+Con quale frequenza innaffiare le piante d'appartamento?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-You should adjust watering your plants to their individual needs, as each species requires a different kind of care. Most plants need watering once or twice a week. Keep in mind that in winter the air is more dry, so make sure to water them more often.
+Dovreste adattare l'irrigazione delle vostre piante alle loro esigenze individuali, poiché ogni specie richiede un diverso tipo di cura. La maggior parte delle piante ha bisogno di essere annaffiata una o due volte a settimana. Tenete presente che in inverno l'aria è più secca, quindi assicuratevi di annaffiarle più spesso.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How cold is too cold for houseplants?
+Quanto freddo fa troppo freddo per le piante d'appartamento?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
 
-Any temperature lower than 15 Celsius degrees (60 F) might be harmful for indoor plants. Most house plants are native to tropical climates, therefore room temperature is best for them. The cold might damage delicate potted plants.
+Qualsiasi temperatura inferiore a 15 gradi Celsius (60 F) potrebbe essere dannosa per le piante d'appartamento. La maggior parte delle piante da appartamento sono originarie dei climi tropicali, quindi la temperatura ambiente è la migliore per loro. Il freddo potrebbe danneggiare le piante delicate in vaso.
 
 {% endfaqAnswer %}
 
@@ -200,10 +200,10 @@ Any temperature lower than 15 Celsius degrees (60 F) might be harmful for indoor
 
 {% faqItem %}
 {% faqQuestion %}
-What are the best houseplants for low light?
+Quali sono le migliori piante d'appartamento per la scarsa illuminazione?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-If your room is dark, search for plants that natively grow in the lower parts of forests. You might choose peace lily or any type of fern. Other species to consider are dracaena, snake plant and zamioculcas - they are very good for bedrooms.
+Se la vostra stanza è buia, cercate le piante che crescono nativamente nelle parti basse delle foreste. Potreste scegliere il giglio della pace o qualsiasi tipo di felce. Altre specie da prendere in considerazione sono la dracaena, la pianta del serpente e la zamioculca - sono molto buone per le camere da letto.
 {% endfaqAnswer %}
 {% endfaqItem %}
