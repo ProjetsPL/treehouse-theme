@@ -16,161 +16,161 @@ toc: true
 promoted: false
 update_date: 2020-07-20
 title: Come piantare il seme d'erba? Imparare il segreto per un prato perfetto
-description: "A lush, green lawn is your dream goal? You have no idea how to achieve
-  it? \U0001F331 Learn how to plant grass seed and make your lawn a real gem!"
-intro: Dreaming of a beautiful, green lawn? The right grass seed and proper maintenace
-  are key to success. Learn how and when to plant grass seed so that it looks perfect
-  in your garden. Learn how self-repairing grass seed works, and use some tips and
-  tricks to create a lawn that you've always dreamed of!
+description: "Un prato verde e rigoglioso è l'obiettivo dei vostri sogni? Non hai
+  idea di come raggiungerlo? \U0001F331 Imparate a piantare semi d'erba e a fare del
+  vostro prato un vero gioiello!"
+intro: Sognando un bel prato verde? Il giusto seme d'erba e la giusta manutenzione
+  sono la chiave del successo. Imparate come e quando piantare i semi d'erba in modo
+  che siano perfetti nel vostro giardino. Imparate come funziona il seme d'erba auto-riparatore
+  e usate alcuni consigli e trucchi per creare un prato che avete sempre sognato!
 image: "/uploads/jak-siac-trawe-glowne.jpg"
 related_products: []
-published: false
 
 ---
-## Types of grass seed to plant in your garden
+## Tipi di semi d'erba da piantare nel vostro giardino
 
-There are several species of grass typically planted in gardens. They can be divided by **tall and short grasses**. Not all of them, however, are suitable for every garden. **It is advised that the type of grass seed is fit for the purpose of the lawn.** This way you can be sure that you'll achieve the most satisfactory results when planting grass seed.
+Ci sono diverse specie di erba tipicamente piantate nei giardini. Possono essere divisi in erba alta e erba corta. Non tutte, però, sono adatte ad ogni giardino. Si consiglia che il tipo di seme d'erba è adatto allo scopo del prato. In questo modo si può essere sicuri di ottenere i risultati più soddisfacenti quando si piantano i semi d'erba.
 
-### Common grass – a classic grass seed for your garden
+### Erba comune - un classico seme d'erba per il vostro giardino
 
-**Common grass** is the most popular type of a lawn seed in gardens. Its biggest advantage is the aesthetic looks and beautiful green color. It is quite short and easy to mow, therefore it's a perfect base for an even and well-tended lawn that will be an object of jealousy of your neighbors.
+L'erba comune è il tipo di seme di prato più popolare nei giardini. Il suo più grande vantaggio è l'aspetto estetico e il bel colore verde. È abbastanza corta e facile da falciare, quindi è una base perfetta per un prato uniforme e ben curato che sarà oggetto di gelosia da parte dei vostri vicini.
 
 {:.list}
 
-* **Sheep's fescue** – a slow growing species, highly resistant to atmospheric and climate conditions, with extensive root system. This type of grass seed should be planted in acidic soil, with a good access to sunlight.
-* **Creeping red fescue** – grass of a fast growth rate, resistant to trampling and weather conditions. It has rather thin blades, although it grows in clumps, which contributes to fast development of the lawn.
-* **Common bent** – this species is not very demanding when it comes to cultivation. It has short and thin blades, and it's very easy to mow.
+* Festuca di pecora - una specie a crescita lenta, altamente resistente alle condizioni atmosferiche e climatiche, con un esteso apparato radicale. Questo tipo di seme d'erba dovrebbe essere piantato in terreno acido, con un buon accesso alla luce del sole.
+* Festuca rossa strisciante - erba a crescita rapida, resistente al calpestio e alle condizioni atmosferiche. Ha lame piuttosto sottili, anche se cresce in ciuffi, il che contribuisce al rapido sviluppo del prato.
+* Comune curvo - questa specie non è molto esigente quando si tratta di coltivazione. Ha lame corte e sottili, ed è molto facile da falciare.
 
 {% fig %}
 ![Common grass – a classic grass seed for your garden](/uploads/trawa-pospolita.jpg "Common grass – a classic grass seed for your garden")
 {% endfig %}
 
-### Meadow grass – an unusual lawn idea
+### L'erba del prato - un'idea insolita di prato
 
-**Meadow grass seed** (poa) is a very original choice, as it's characterized by **rich blooming**. It can be used for planting grass in your garden. The blades are quite tall and lush, with lots of flowers. This way you can achieve an artistic, messy look of your lawn with a very natural effect. Popular species used as meadow grass are:
+Il seme di erba del prato (poa) è una scelta molto originale, in quanto è caratterizzato da una ricca fioritura. Può essere utilizzato per piantare l'erba nel vostro giardino. Le lame sono abbastanza alte e rigogliose, con un sacco di fiori. In questo modo è possibile ottenere un aspetto artistico e disordinato del vostro prato con un effetto molto naturale. Le specie popolari usate come erba da prato lo sono:
 
 {:.list}
 
-* **Meadow fescue** – a popular species of tall meadow grass, reaching up to one meter. This type of grass is perfect for flower garden, as well as for filling spots in a rock garden.
-* **Bluegrass** – grass with dark-green blades, reaching up to 70 cm of height. It blooms from mid-spring to end-summer.
-* **Common cottongrass** – a species of moderate height, reaching up to 40 cm. It blooms with characteristic round, grey, fluffy flowers.
+* Festuca dei prati - una specie popolare di erba alta dei prati, che raggiunge anche un metro. Questo tipo di erba è perfetta per il giardino fiorito, così come per riempire i punti in un giardino roccioso.
+* Erba blu - erba con lame verde scuro, che raggiunge fino a 70 cm di altezza. Fiorisce da metà primavera a fine estate.
+* Cottongrass - specie di altezza moderata, che raggiunge i 40 cm. Fiorisce con caratteristici fiori rotondi, grigi e soffici.
 
 {% fig %}
 ![Meadow grass – an unusual lawn idea](/uploads/trawa-lakowa.jpg "Meadow grass – an unusual lawn idea")
 {% endfig %}
 
 {:.distinction.distinction-information}
-One of the most popular species of ornamental grass is feather reed grass, which is a cross between two related plants – _Calamagrostis Arundinacea_ and _Calamagrostis Epigejos_ (wood small-reed). It reaches up to 1.5 meters, and it looks similar to grain plants.
+Una delle specie più popolari di erba ornamentale è l'erba di canna da penna, che è un incrocio tra due piante affini - Calamagrostis Arundinacea e Calamagrostis Epigejos (piccola canna da legno). Raggiunge fino a 1,5 metri e ha un aspetto simile alle piante di grano.
 
 {% fig %}
 ![ornamental grass](/uploads/trawy-ozdobne.jpg "ornamental grass")
 {% endfig %}
 
-## What is self-repairing grass and how dies it work?
+## Cos'è l'erba che si ripara da sola e come funziona?
 
-**Self-repairing grass is a real gardening phenomenon.** What makes it different from any other type of grass seed is the unique growth and spreading process.
+L'erba che si ripara da sola è un vero fenomeno di giardinaggio. Ciò che lo rende diverso da qualsiasi altro tipo di seme d'erba è il processo unico di crescita e di diffusione.
 
-Self-repairing grass seed can grow several blades out of a single grain, and then they start to spread. It happens both vertically and horizontally, forming **thick bunches of grass**. Traditional types of grass also form bunches that spread, however their number remains the same. Self-repairing grass seed makes the lawn think and lush in a very short time.
+I semi d'erba auto-riparatori possono far crescere diverse lame da un singolo grano, e poi iniziano a diffondersi. Ciò avviene sia verticalmente che orizzontalmente, formando spessi grappoli d'erba. Anche i tipi di erba tradizionali formano dei grappoli che si diffondono, ma il loro numero rimane invariato. Il seme d'erba auto-riparatore fa pensare e rigogliare il prato in brevissimo tempo.
 
 {% fig %}
 ![Self-repairing grass](/uploads/trawa-samozageszczajaca.jpg "Self-repairing grass")
 {% endfig %}
 
-Self-repairing grass makes great surface for a heavily used lawn. For this reason it's a perfect solution for a garden with children. This type of grass seed is also very resistant to atmospheric condition, so it can survive heavy rains and freezes.
+L'erba auto-riparatrice rende grande la superficie per un prato molto usato. Per questo motivo è una soluzione perfetta per un giardino con bambini. Questo tipo di seme d'erba è anche molto resistente alle condizioni atmosferiche, quindi può sopravvivere alle forti piogge e al gelo.
 
-### Self-repairing grass – price
+### Erba auto-riparatrice - prezzo
 
-**The price of self-repairing grass seed** differs depending on several factors. One of the most significant ones is the **manufacturer**. Good quality self-repairing grass seed might cost even twice as much as other types. When choosing a particular brand, you have to decide whether your primary criterion is the quality or quantity.
+Il prezzo dei semi d'erba auto-riparabili si differenzia a seconda di diversi fattori. Uno dei più significativi è il produttore. I semi d'erba auto-riparabili di buona qualità possono costare anche il doppio rispetto ad altri tipi. Quando si sceglie una particolare marca, bisogna decidere se il criterio principale è la qualità o la quantità.
 
-The size of the bag is crucial as well. A one-kilogram package of self-repairing grass seed might be sufficient for a small garden, it is definitely not enough for a large garden.
+Anche la dimensione del sacchetto è fondamentale. Un pacchetto di un chilogrammo di semi d'erba auto-riparabili potrebbe essere sufficiente per un piccolo giardino, non è sicuramente sufficiente per un grande giardino.
 
-## How to plant grass seed? Preparing the ground
+## Come si piantano i semi d'erba? Preparare il terreno
 
-The process of ground preparation before planting grass seed consists of several steps. It's very important for growth of the grass. The first what you need to do is **tidying the site**. You should gather the scraps and rubbish left on it and do the weeding. All those factor might affect the acidity of the soil and influence the grass seed growth.
+Il processo di preparazione del terreno prima di piantare i semi d'erba consiste in diverse fasi. È molto importante per la crescita dell'erba. La prima cosa da fare è riordinare il sito. Dovreste raccogliere gli scarti e la spazzatura lasciata su di essa e fare il diserbo. Tutti questi fattori potrebbero influenzare l'acidità del terreno e influenzare la crescita dei semi d'erba.
 
 {:.distinction.distinction-warning}
-If the site is not cleaned up thoroughly, it might result in poor growth of the grass; it might grow yellow or dry.
+Se il sito non viene pulito a fondo, potrebbe causare una scarsa crescita dell'erba, che potrebbe ingiallire o diventare secca.
 
 {% fig %}
 ![How to plant grass seed? Preparing the ground](/uploads/gleba.jpg "How to plant grass seed? Preparing the ground")
 {% endfig %}
 
-Another step in the process of soil preparation is **breaking the ground and testing its acidity**. It's a good indicator for which type of grass seed you should choose for a particular type of soil. For the best results, the soil should be fertile, airy, and it should have moderate humidity.
+Un altro passo nel processo di preparazione del terreno è la rottura del terreno e la verifica della sua acidità. È un buon indicatore per quale tipo di seme d'erba si dovrebbe scegliere per un particolare tipo di terreno. Per ottenere i migliori risultati, il terreno dovrebbe essere fertile, arieggiato, e dovrebbe avere un'umidità moderata.
 
 {:.distinction.distinction-information}
-The acidity can be tested in two ways – by sending a sample to a lab or by using a special acidimeter. THe best acidity of a soil for grass seed is 5.5 – 6.5 pH.
+L'acidità può essere testata in due modi: inviando un campione ad un laboratorio o utilizzando un acidimetro speciale. L'acidità migliore di un terreno per semi d'erba è di 5,5 - 6,5 pH.
 
-Make sure to **fertilize the soil** for a week before planting the grass seed. To do this, use a starter or a universal fertilizer. You can purchase both at a garden center. Mix it with the soil according to the manufacturer's instructions.
+Assicuratevi di concimare il terreno per una settimana prima di piantare il seme d'erba. Per fare questo, utilizzare uno starter o un fertilizzante universale. È possibile acquistare entrambi presso un centro di giardinaggio. Mescolatelo al terreno secondo le istruzioni del produttore.
 
-The last, but equally important step of preparing the soil before planting grass seed is **rolling the ground**. It helps to even the surface for planting and thickens the soil.
+L'ultimo, ma altrettanto importante passo della preparazione del terreno prima di piantare il seme d'erba è il rotolamento del terreno. Aiuta a uniformare la superficie da piantare e ispessisce il terreno.
 
-## Planting grass seed – how to do it?
+## Piantare semi d'erba - come fare?
 
-A popular and quick method for planting grass seed is doing it **manually**. It involves seeding the grain yourself. To do this, you should **divide the prepared ground for several even parts**.
+Un metodo popolare e veloce per piantare i semi d'erba è quello manuale. Si tratta di seminare il grano da soli. Per fare questo, si dovrebbe dividere il terreno preparato per diverse parti pari.
 
-When planting grass seed, it is advised to **do it crosswise**. This way the grain is evenly distributed, and the grass can reach optimal density. To make things easier, start seeding in one direction, and as you come back, spread the rest in opposite. Rake the ground thoroughly afterwards. It helps to cover the seeds with soil, which will protect the sprouts from weather conditions.
+Quando si piantano i semi d'erba, si consiglia di farlo in modo trasversale. In questo modo il grano è distribuito in modo uniforme e l'erba può raggiungere una densità ottimale. Per facilitare le cose, iniziate a seminare in una direzione e, al ritorno, spargete il resto in senso opposto. Rastrellare accuratamente il terreno in seguito. Aiuta a coprire i semi con la terra, che proteggerà i germogli dalle condizioni atmosferiche.
 
 {% fig %}
 ![Planting grass seed](/uploads/jak-siac-trawe-rozdzial.jpg "Planting grass seed")
 {% endfig %}
 
 {:.distinction.distinction-information}
-An important step is solidifying the soil after planting grass seed. You can do it using a flat board. It secures the seed from being blown away by the wind.
+Un passo importante è la solidificazione del terreno dopo la semina dell'erba. Lo si può fare utilizzando una tavola piana. Essa assicura che il seme non venga spazzato via dal vento.
 
-Another, very important part is **watering the lawn.** To do it correctly, pour a small stream of water onto the ground. The easiest way is using a garden hose. Water the lawn regularly for two weeks after planting grass seed. The best time for watering the lawn is very early morning or late evening, when there is no sun which could burn the seedlings. Regular watering makes the lawn and its roots grow faster.
+Un'altra parte molto importante è l'irrigazione del prato. Per farlo correttamente, versate un piccolo getto d'acqua sul terreno. Il modo più semplice è usare un tubo da giardino. Innaffiare il prato regolarmente per due settimane dopo aver piantato i semi d'erba. Il momento migliore per innaffiare il prato è la mattina presto o la sera tardi, quando non c'è il sole che potrebbe bruciare le piantine. L'irrigazione regolare fa crescere il prato e le sue radici più velocemente.
 
 {% fig %}
 ![watering the lawn](/uploads/water-815475_1280.jpg "watering the lawn")
 {% endfig %}
 
-## When to plant grass seed?
+## Quando piantare i semi d'erba?
 
-If you want your lawn to be **green and lush**, try planting grass seed in particular months. When to plant grass seed so that it grows fast and well?
+Se volete che il vostro prato sia verde e rigoglioso, provate a piantare i semi d'erba in mesi particolari. Quando piantare i semi d'erba in modo che crescano velocemente e bene?
 
-Most of the grass seed species require planting in autumn. It's the best season, mostly due to **weather and soil conditions**, characteristic for this part of the year. Planting grass seed from August to October protects the seeds from heavy rainfalls and high temperatures. Additionally, the soil humidity encourages the grass to sprout and grow.
+La maggior parte delle specie di semi d'erba richiede la semina in autunno. È la stagione migliore, soprattutto a causa delle condizioni meteorologiche e del suolo, caratteristiche di questa parte dell'anno. Piantare i semi d'erba da agosto a ottobre protegge i semi dalle forti piogge e dalle alte temperature. Inoltre, l'umidità del suolo favorisce la crescita e la crescita dell'erba.
 
 {% fig %}
 ![plant grass seed](/uploads/kiedy-siac-trawe.jpg "plant grass seed")
 {% endfig %}
 
-**Another good season for planting grass seed is early spring.** The best period to do this is between April and June. The weather conditions are the most important factor, so pay attention not only to a particular month, but also to the temperature. In case of early spring freezes you should probably postpone planting grass seed until autumn.
+Un'altra buona stagione per piantare i semi d'erba è l'inizio della primavera. Il periodo migliore per farlo è tra aprile e giugno. Le condizioni meteorologiche sono il fattore più importante, quindi fate attenzione non solo ad un mese particolare, ma anche alla temperatura. In caso di gelo all'inizio della primavera si dovrebbe probabilmente rimandare la semina dei semi d'erba fino all'autunno.
 
 {:.distinction.distinction-information}
-Some garden owners decide to plant grass seed in March. It is, however, not the best idea from the gardening point of view. Although there are some species that are resistant to atmospheric conditions – for instance some types of ornamental grasses, planting grass seed so early might result in poor growth.
+Alcuni proprietari di giardini decidono di piantare i semi d'erba a marzo. Non è però l'idea migliore dal punto di vista del giardinaggio. Anche se ci sono alcune specie che sono resistenti alle condizioni atmosferiche - per esempio alcuni tipi di erbe ornamentali, piantare semi d'erba così presto potrebbe causare una crescita scarsa.
 
-## The most common mistakes made when planting grass seed
+## Gli errori più comuni commessi quando si piantano i semi d'erba
 
-When you prepare your lawn, you should pay close attention to every detail of the process. First and foremost, remember about all the rules – for **preparing the ground, seeding and further lawn care.** Very often even the smallest mistakes might affect the proper growth of grass.
+Quando preparate il vostro prato, dovreste prestare molta attenzione ad ogni dettaglio del processo. Innanzitutto, ricordatevi di tutte le regole - per la preparazione del terreno, la semina e la cura del prato. Molto spesso anche i più piccoli errori possono influire sulla corretta crescita dell'erba.
 
-**The most commonly made mistakes are:**
+Gli errori più comuni sono:
 
 {:.list.list-negative}
 
-* **Incorrectly prepared soil** and not removing all elements that might affect the growth.
-* **Not loosening the soil** – which helps with the removal of the remainders of plants that used to grow in the area.
-* **Insufficient removal of any weeds from the area** on which you are going to plant grass seed. If there is a lot of weeds, you might need to use an herbicide, which will remove the plants from the soil.
-* **Not enriching the soil** – some types of soil require additional fertilizing. It is particularly important in case of sandy soils, where you should use a special peat mix or compost.
-* **Choosing wrong grass seed**, that is not suitable for garden lawn, but rather for meadow grass.
-* **Uneven planting,** which results in an unaesthetic looking lawn.
-* **Not securing the seed after planting**, especially when the weather is windy, which might blow the seed away.
-* **Insufficient amount of water**, which hinders the seeds from sprouting and growing properly.
+* Terreno preparato in modo non corretto e non rimuovere tutti gli elementi che potrebbero influenzare la crescita.
+* Non allentare il terreno - il che aiuta a rimuovere i residui delle piante che crescevano nella zona.
+* Insufficiente rimozione di eventuali erbacce dalla zona su cui si andrà a piantare il seme dell'erba. Se ci sono molte erbacce, potrebbe essere necessario usare un diserbante, che rimuoverà le piante dal terreno.
+* Non arricchire il terreno - alcuni tipi di terreno richiedono una concimazione supplementare. È particolarmente importante nel caso di terreni sabbiosi, dove si dovrebbe usare una speciale miscela di torba o compost.
+* La scelta del seme di erba sbagliato, che non è adatto per il prato del giardino, ma piuttosto per l'erba del prato.
+* Piantagione irregolare, che si traduce in un prato dall'aspetto antiestetico.
+* Non fissare il seme dopo la semina, soprattutto quando il tempo è ventoso, che potrebbe far saltare via il seme.
+* Quantità d'acqua insufficiente, che impedisce ai semi di germogliare e crescere correttamente.
 
 {% faqItem %}
 {% faqQuestion %}
-When to seed lawn in spring?
+Quando seminare il prato in primavera?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The best months for planting grass seed are from April until the end of June. If you decide to plant grass seed in spring, pay special attention to atmospheric conditions. If there are freezes, postpone seeding until autumn.
+I mesi migliori per piantare i semi d'erba sono da aprile fino alla fine di giugno. Se decidete di piantare i semi d'erba in primavera, prestate particolare attenzione alle condizioni atmosferiche. Se ci sono gelate, rimandate la semina fino all'autunno.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to grow a wildflower lawn?
+Come coltivare un prato di fiori selvatici?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Plan planting grass seed according to the species you want to include. You might choose spring or autumn to do this. Consider the soil requirements of the grass seed and its resistance level.
+Pianificare la semina dell'erba secondo la specie che si vuole includere. Potreste scegliere la primavera o l'autunno per farlo. Considerate i requisiti del suolo del seme d'erba e il suo livello di resistenza.
 {% endfaqAnswer %}
 {% endfaqItem %}
