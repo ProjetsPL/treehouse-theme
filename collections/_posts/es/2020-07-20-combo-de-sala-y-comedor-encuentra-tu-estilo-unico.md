@@ -19,34 +19,34 @@ toc: true
 promoted: false
 update_date: 2020-07-20
 title: Combo de sala y comedor - Encuentra tu estilo único
-description: "Looking for living room ideas? \U0001F6CB️ How about an open living
-  room with dining area? \U0001F449 Come and take a look at the trendiest dining and
-  living room designs!"
-intro: Creating a living room and dining room combo is a popular interior design.
-  Open floor plan is a perfect solution both for small and large homes. While many
-  consider implementing such an innovative design, separating living and dining area
-  in one room might be tricky. Wondering if an open living room is for you? Take a
-  look and inspire yourself with functional and trendy designs below. Find a perfect
-  one that matches your individual taste!
+description: "¿Buscando ideas para la sala de estar? \U0001F6CB️ ¿Qué tal una sala
+  de estar abierta con comedor? \U0001F449 ¡Vengan a ver los diseños más modernos
+  de comedor y sala de estar!"
+intro: La creación de un combo de sala y comedor es un diseño interior muy popular.
+  El plano de planta abierta es una solución perfecta tanto para casas pequeñas como
+  grandes. Mientras que muchos consideran la implementación de un diseño tan innovador,
+  separar la sala de estar y el comedor en una habitación podría ser difícil. ¿Se
+  pregunta si una sala de estar abierta es para usted? Echa un vistazo e inspírate
+  con los diseños funcionales y de moda que aparecen a continuación. Encuentra uno
+  perfecto que se adapte a tu gusto individual!
 image: "/uploads/31597166847_efe76fb982_k.jpg"
 related_products: []
-published: false
 
 ---
-## Living room and dining room combo – two spaces in one interior
+## Combinación de sala de estar y comedor, dos espacios en un solo interior.
 
-An open living room with dining area is a fantastic solution that appeared in many homes. What's quite interesting, a **living and dining room combo is great for a small apartment, as well as for a large, open concept house.** Living room ideas that implement dining area should be, however, well planned. Although combining those two functionalities seems easy, it is not always so simple.
+Un salón abierto con comedor es una solución fantástica que apareció en muchos hogares. Lo que es bastante interesante, un combo de sala y comedor es genial para un pequeño apartamento, así como para una gran casa de concepto abierto. Las ideas de sala de estar que implementan el área de comedor deben ser, sin embargo, bien planeadas. Aunque combinar esas dos funcionalidades parece fácil, no siempre es tan sencillo.
 
 {:.distinction.distinction-information}
-Even the tiniest details affect the final result. The most important factor is a good living room idea and specification of the style that the design shall involve.
+Incluso los detalles más pequeños afectan al resultado final. El factor más importante es una buena idea de la sala de estar y la especificación del estilo que implicará el diseño.
 
-## Open living room with dining area for vast spaces
+## Sala de estar abierta con comedor para grandes espacios
 
-Large spaces are great for designing a living room with dining area – perfect for big **family meetings, eating and relaxing together**. No experience is so bonding for relationships as simply spending time together. It's a huge motivation to make this space pleasant for everyone.
+Los grandes espacios son ideales para diseñar una sala de estar con comedor - perfecto para grandes reuniones familiares, comer y relajarse juntos. Ninguna experiencia es tan enlazante para las relaciones como simplemente pasar tiempo juntos. Es una gran motivación para hacer este espacio agradable para todos.
 
-A large open living room with dining area offers **practically endless possibilities** for many fantastic designs. You might, for instance, choose a big table or a huge sofa, where the whole family could gather to watch tv series after sharing a dinner.
+Una gran sala de estar abierta con comedor ofrece posibilidades prácticamente infinitas para muchos diseños fantásticos. Podrías, por ejemplo, elegir una gran mesa o un enorme sofá, donde toda la familia podría reunirse para ver las series de televisión después de compartir una cena.
 
-A big living room and dining room combo might be arranged in one style, although **certain minor details might stand out**. Picking various shades of one color is always a good idea. Living area might be lighter, contrasting with the dining room – or other way round.
+Una gran combinación de sala de estar y comedor podría ser arreglada en un estilo, aunque ciertos detalles menores podrían sobresalir. Escoger varios tonos de un solo color es siempre una buena idea. El área de la sala de estar podría ser más clara, en contraste con el comedor - o al revés.
 
 {% fig %}
 ![Open living room with dining area for vast spaces](/uploads/salon-z-jadalnia-duza-przestrzen-2-1.jpg "Open living room with dining area for vast spaces")
@@ -72,12 +72,12 @@ A big living room and dining room combo might be arranged in one style, although
 ![Open living room with dining area for vast spaces](/uploads/salon-z-jadalnia-minimalistyczny.jpg "Open living room with dining area for vast spaces")
 {% endfig %}
 
-## Open living room ideas – small interiors
+## Ideas abiertas para la sala de estar - pequeños interiores
 
-Apartments available on the market often have up to 40-60 square meters. Such a small space creates a necessity of designing a **living room and dining room combo**. A kitchen is very often added to an open floor plan as well. Such a space usually contains around 20 square meters, which needs to be carefully designed so that the interior keeps its harmony, while each area is functionally divided.
+Los apartamentos disponibles en el mercado suelen tener hasta 40-60 metros cuadrados. Un espacio tan pequeño crea la necesidad de diseñar un combo de sala y comedor. Una cocina es muy a menudo añadida a un plano de planta abierta también. Tal espacio usualmente contiene alrededor de 20 metros cuadrados, que necesitan ser diseñados cuidadosamente para que el interior mantenga su armonía, mientras que cada área está dividida funcionalmente.
 
 {:.distinction.distinction-information}
-A good method for dividing a kitchen from the living room is creating a dining area in between. It's a simple solution that always works.
+Un buen método para dividir la cocina de la sala de estar es crear un área de comedor en el medio. Es una solución simple que siempre funciona.
 
 {% fig %}
 ![Small interiors open living room ideas](/uploads/salon-z-jadalnia-nowoczesny 3-1.jpg "Small interiors open living room ideas")
@@ -103,14 +103,14 @@ A good method for dividing a kitchen from the living room is creating a dining a
 ![Small interiors open living room ideas](/uploads/salon-z-jadalnia-minimalistyczny (3).jpg "Small interiors open living room ideas")
 {% endfig %}
 
-## Modern open floor plan – a practical interior design
+## Un moderno plano de planta abierta - un práctico diseño interior
 
-A modern living room stands for a **practical minimalism**. Such interior does not contain any unnecessary objects, which makes it more functional.
+Una sala de estar moderna representa un minimalismo práctico. Tal interior no contiene ningún objeto innecesario, lo que lo hace más funcional.
 
-If the room contains any niches, it is good to take them into consideration when reviewing your living room arrangement ideas. You might, for instance, easily fit a table or a sofa in it.
+Si la habitación contiene algún nicho, es bueno tenerlo en cuenta cuando se revisen las ideas de disposición de la sala de estar. Podría, por ejemplo, encajar fácilmente una mesa o un sofá en ella.
 
 {:.distinction.distinction-information}
-Remember that minimalist interiors use bright colors. Pastels, greys and whites are great for this style. They can make your living and dining room combo look spacious and bright. Additional advantage is that you might use various accessories to easily change the character of the room at any moment.
+Recuerda que los interiores minimalistas usan colores brillantes. Los pasteles, los grises y los blancos son geniales para este estilo. Pueden hacer que el conjunto de la sala de estar y el comedor parezca espacioso y brillante. Una ventaja adicional es que puedes usar varios accesorios para cambiar fácilmente el carácter de la habitación en cualquier momento.
 
 {% fig %}
 ![Modern open floor plan - a practical interior design](/uploads/salon-z-jadalnia-nowoczesny.jpg "Modern open floor plan - a practical interior design")
@@ -132,12 +132,12 @@ Remember that minimalist interiors use bright colors. Pastels, greys and whites 
 ![Modern open floor plan - a practical interior design](/uploads/32707286918_c2aec8ddf8_c.jpg "Modern open floor plan - a practical interior design")
 {% endfig %}
 
-## English style living room with dining area
+## Sala de estar de estilo inglés con comedor
 
-Are you looking for **elegant and unusual living room ideas**? Consider traditional English style. A living room in this style employs massive furniture combined with ornate decorations and fabrics.
+¿Está buscando ideas elegantes e inusuales para la sala de estar? Considere el estilo tradicional inglés. Una sala de estar de este estilo emplea muebles enormes combinados con decoraciones y telas ornamentadas.
 
 {:.distinction.distinction-warning}
-A living room and dining room combo in this style is perfect for vast spaces, where large furniture doesn't overwhelm the interior. English style, however, is rather unsuitable for small homes.
+Una combinación de sala de estar y comedor en este estilo es perfecta para espacios amplios, donde los muebles grandes no abruman el interior. El estilo inglés, sin embargo, es bastante inadecuado para casas pequeñas.
 
 {% fig %}
 ![English style living room with dining area](/uploads/salon-z-jadalnia-styl angielski.jpg "English style living room with dining area")
@@ -151,11 +151,11 @@ A living room and dining room combo in this style is perfect for vast spaces, wh
 ![English style living room with dining area](/uploads/salon-z-jadalnia-styl-angielski-1.jpg "English style living room with dining area")
 {% endfig %}
 
-## Dining room ideas – return of vintage and retro styles
+## Ideas para el comedor - retorno de los estilos vintage y retro
 
-Vintage style is making a comeback in the recent years. Retro interiors are always charming and also might be quite surprising. If you dream of an open living room in such style, think about **matching some contrasts**. Unusual living room ideas might make them very attractive and unique.
+El estilo antiguo está volviendo en los últimos años. Los interiores retro son siempre encantadores y también pueden ser bastante sorprendentes. Si sueñas con una sala de estar abierta con ese estilo, piensa en combinar algunos contrastes. Ideas inusuales para el salón podrían hacerlos muy atractivos y únicos.
 
-**Retro style employs highly saturated colors** – so do not be afraid of them. Red, strong pink, dark blue and bottle green – pick a color that you like the most and create a unique living room with dining area.
+El estilo retro emplea colores muy saturados, así que no les teman. Rojo, rosa fuerte, azul oscuro y verde botella - elige el color que más te guste y crea una sala de estar única con comedor.
 
 {% fig %}
 ![Dining room ideas – return of vintage and retro styles](/uploads/salon-z-jadalnia-vintage retro.jpg "Dining room ideas – return of vintage and retro styles")
@@ -165,25 +165,25 @@ Vintage style is making a comeback in the recent years. Retro interiors are alwa
 ![Dining room ideas – return of vintage and retro styles](/uploads/salon-z-jadalnia-vintage-retro-1.jpg "Dining room ideas – return of vintage and retro styles")
 {% endfig %}
 
-**A living room with dining area is a place in which one spends a lot of time** – in the morning before work drinking coffee or in the afternoon, getting relaxed after a long day. Regardless of the style you choose – **create an arrangement that will make you feel good.**
+Una sala de estar con comedor es un lugar en el que se pasa mucho tiempo, por la mañana antes del trabajo tomando café o por la tarde, relajándose después de un largo día. Independientemente del estilo que elija, cree un arreglo que le haga sentir bien.
 
 {% faqItem %}
 {% faqQuestion %}
-How to furnish a large living room and dining room combo?
+¿Cómo amueblar una gran combinación de sala de estar y comedor?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-There are many ways in which you might furnish a big living room. You can choose a medium table of any shape, as well as make a separate resting area. If you want the space to look even bigger, try placing the table by the window or the balcony.
+Hay muchas maneras de amueblar un gran salón. Puedes elegir una mesa mediana de cualquier forma, así como hacer una zona de descanso separada. Si quieres que el espacio parezca aún más grande, intenta colocar la mesa junto a la ventana o el balcón.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-What are the best small open living room ideas?
+¿Cuáles son las mejores ideas para una pequeña sala de estar abierta?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Try combining the kitchen island with a dining table. You might also choose a table fit to the wall by one side, which spares a lot of space so you can put a bigger sofa in the room.
+Intenta combinar la isla de la cocina con una mesa de comedor. También puedes elegir una mesa que se ajuste a la pared por un lado, lo que ahorra mucho espacio para poner un sofá más grande en la habitación.
 {% endfaqAnswer %}
 
 {% endfaqItem %}
