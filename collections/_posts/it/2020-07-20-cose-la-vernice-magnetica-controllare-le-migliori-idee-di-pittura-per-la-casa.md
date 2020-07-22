@@ -13,119 +13,120 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-20
-title: Cos'è la vernice magnetica? Controllare le migliori idee di pittura per la casa
-description: "Looking for an easy idea to make your interior more interesting? \U0001F3A8
-  Try magnetic paint and create a functional and stylish space. \U0001F449 Learn how
-  it works!"
-intro: Bored with the old, classic look of your interior? Planning to refresh you
-  home decor? Magnetic paint is a trending solution in the recent years. Using it
-  you can transform a dull kitchen, living room or children's room and give it a completely
-  new look. Try chalkboard paint and enjoy magnificent results!
+title: Cos'è la vernice magnetica? Controllare le migliori idee di pittura per la
+  casa
+description: "Cercate un'idea facile per rendere il vostro interno più interessante?
+  \U0001F3A8 Provate la vernice magnetica e create uno spazio funzionale ed elegante.
+  \U0001F449 Scopri come funziona!"
+intro: Siete annoiati dal vecchio look classico dei vostri interni? Volete rinfrescare
+  l'arredamento della vostra casa? La vernice magnetica è una soluzione di tendenza
+  negli ultimi anni. Usandola si può trasformare una cucina noiosa, un soggiorno o
+  una stanza dei bambini e darle un aspetto completamente nuovo. Provate la vernice
+  per lavagna e godetevi i magnifici risultati!
 image: "/uploads/farba-tablicowa.jpg"
 related_products: []
-published: false
 
 ---
-## How to use magnetic paint?
+## Come si usa la vernice magnetica?
 
-Magnetic paint is a fantastic product that has many practical applications. **It might be used to paint plaster, mortar, wood and metal**. It cannot, however, be used outside. Magnetic paint is meant to be used inside, therefore you might apply it on walls in **any interior of your house**. A worth noting fact is that magnetic paint is completely safe and it doesn't contain any harmful chemicals.
+La vernice magnetica è un prodotto fantastico che ha molte applicazioni pratiche. Può essere usata per dipingere intonaco, malta, legno e metallo. Non può però essere usata all'esterno. La vernice magnetica è destinata ad essere usata all'interno, quindi potreste applicarla alle pareti di qualsiasi interno della vostra casa. Un fatto degno di nota è che la vernice magnetica è completamente sicura e non contiene sostanze chimiche nocive.
 
-**Magnetic paint** owes its magnetic properties to iron filings - one of its ingredients. A wall covered with such a paint might be used as a magnetic board. Using magnets, you might attach **pictures, photos** and notes to you wall.
+La vernice magnetica deve le sue proprietà magnetiche alla limatura di ferro, uno dei suoi ingredienti. Una parete ricoperta con una vernice di questo tipo può essere usata come una lavagna magnetica. Usando i magneti, si possono attaccare alla parete immagini, foto e appunti.
 
-## Magnetic paint - available colors
+## Vernice magnetica - colori disponibili
 
-Magnetic paint is available in **various colors** to choose from. Black, grey and graphite of different shades are the most popular ones. It doesn't mean that you have to completely change the colors of your house. Magnetic paint is typically used to paint just one or two walls in a room - not the entire interior.
+La vernice magnetica è disponibile in vari colori tra cui scegliere. Nero, grigio e grafite di diverse tonalità sono i più popolari. Ciò non significa che si debbano cambiare completamente i colori della casa. La vernice magnetica è tipicamente usata per dipingere solo una o due pareti in una stanza - non l'intero interno.
 
 {% fig %}
 ![Magnetic paint - available colors](/uploads/czym-jest-farba-magnetyczna-i-jak-mozna-ja-wykorzystac.jpeg "Magnetic paint - available colors")
 {% endfig %}
 
-For some time now manufacturers offer magnetic paint in light grey color that is similar to off-white. If you'd rather have a **magnetic wall in a bright color**, this might be the right product for you.
+Da qualche tempo i produttori offrono vernici magnetiche di colore grigio chiaro, simile al bianco sporco. Se preferite una parete magnetica in un colore brillante, questo potrebbe essere il prodotto giusto per voi.
 
-## How to cover walls with magnetic paint?
+## Come coprire le pareti con vernice magnetica?
 
-Painting with magnetic paint is quite different than using usual product. **Improperly applied or accidentally spilled magnetic paint** might leave marks that are difficult to remove. For this reason make sure to secure the room before you start painting.
+La pittura con vernice magnetica è molto diversa dall'uso del solito prodotto. La vernice magnetica applicata in modo improprio o versata accidentalmente può lasciare segni difficili da rimuovere. Per questo motivo assicuratevi di fissare la stanza prima di iniziare a dipingere.
 
-Before applying the paint you should prepare and clean the painted surface. It must be dry and smooth. If you want to apply magnetic paint to a surface that is slick or shiny, you should **sand it**. Wooden surfaces require using a primer before applying the paint.
+Prima di applicare la vernice si dovrebbe preparare e pulire la superficie verniciata. Deve essere asciutta e liscia. Se volete applicare la vernice magnetica su una superficie liscia o lucida, dovete carteggiarla. Le superfici in legno richiedono l'uso di un primer prima di applicare la vernice.
 
 {:.distinction.distinction-information}
-To achieve successful and aesthetic results, start painting from mixing the paint, using a wooden stick. This way you can be sure that the iron filings will be applied to the surface with a brush and that they won't stay at the bottom of the can.
+Per ottenere risultati estetici e di successo, iniziare a dipingere mescolando la vernice, utilizzando un bastone di legno. In questo modo si può essere sicuri che le limature di ferro saranno applicate sulla superficie con un pennello e che non rimarranno sul fondo della lattina.
 
-Cover the wall thoroughly with a **layer of magnetic paint**. Adding more layers results in better magnetic properties - apply at least 3 of them. Remember to keep equal time gaps between adding each layer.
+Coprire accuratamente la parete con uno strato di vernice magnetica. Aggiungendo più strati si ottengono migliori proprietà magnetiche - applicarne almeno 3. Ricordarsi di mantenere gli stessi intervalli di tempo tra l'aggiunta di ogni strato.
 
 {% fig %}
 ![How to cover walls with chalkboard paint?](/uploads/jak-poprawnie-malowac-farba-magnetyczna.jpg "How to cover walls with chalkboard paint?")
 {% endfig %}
 
-You are free to choose any painting technique. DIY magnetic boards can take any shape, regardless of the surface. It all depends on your own preferences. By using just one type of magnetic paint, you might create a traditional, rectangular board or pick other shapes, for instance a house, a teddy bear or a princess castle - those forms are perfect for a children's room.
+Siete liberi di scegliere qualsiasi tecnica di pittura. Le lavagne magnetiche fai da te possono assumere qualsiasi forma, indipendentemente dalla superficie. Tutto dipende dalle vostre preferenze. Utilizzando un solo tipo di vernice magnetica, si può creare una lavagna tradizionale rettangolare o scegliere altre forme, ad esempio una casa, un orsacchiotto o un castello di principesse - queste forme sono perfette per la stanza dei bambini.
 
 {:.distinction.distinction-information}
-If you aim at a particular, more complicated shape, it is a good idea to use a stencil. This way painting is easier and the walls are protected against accidental splashing.
+Se si punta ad una forma particolare e più complicata, è una buona idea usare uno stencil. In questo modo la pittura è più facile e le pareti sono protette da spruzzi accidentali.
 
-If the wall is going to be touched frequently and the magnets are going to be often moved around, consider **coating it with a layer of varnish**. You might choose either shiny or matt coating. It is an effective way to protect the wall against scratches and dirt - perfect for **kitchen** or **children's room**.
+Se la parete deve essere toccata frequentemente e i magneti vengono spesso spostati, considerate la possibilità di ricoprirla con uno strato di vernice. Si può scegliere un rivestimento lucido o opaco. È un modo efficace per proteggere la parete da graffi e sporcizia - perfetto per la cucina o la stanza dei bambini.
 
-## Magnetic chalkboard paint - ideal for children's room
+## Vernice magnetica per lavagna - ideale per la camera dei bambini
 
-Magnetic chalkboard paint is a product of a wider use. As the name indicates - **"chalkboard paint"** can be used as a chalkboard - apart from magnetic properties one might also write on it with chalk. That's exactly how it works.
+La vernice magnetica per lavagne è il prodotto di un uso più ampio. Come indica il nome - "vernice per lavagna" può essere usata come lavagna - oltre alle proprietà magnetiche si può anche scrivere con il gesso. È esattamente così che funziona.
 
-What is more, **magnetic chalkboard paint** allows you to write or draw with chalk, and wipe the surface afterwards. A wall covered with chalkboard paint may be wiped with a piece of cloth, dry or dampened with water.
+Inoltre, la vernice per lavagna magnetica permette di scrivere o disegnare con il gesso e di pulire la superficie in seguito. Una parete ricoperta di vernice per lavagna può essere pulita con un pezzo di stoffa, asciugata o inumidita con acqua.
 
 {:.distinction.distinction-warning}
-Careful! Do not use detergents to wipe surface covered with magnetic chalkboard paint. It might damage the paint and, in some cases, the wall.
+Attenzione! Non usare detergenti per pulire la superficie ricoperta di vernice per lavagna magnetica. Potrebbe danneggiare la vernice e, in alcuni casi, la parete.
 
-Magnetic chakboard paint is a popular solution for a **children's room**. It is not a secret that children love drawing on walls. Usually it ends up with walls renovation or redecoration. In this case it is not necessary! Magnetic chalkboard paint allows your **toddler to be creative in a specially designated place**. A wall painted with a chalkboard paint is a fantastic idea for a children's room. It can make studying much more pleasant. Small artist will appreciate the opportunity to express themselves anywhere, even on walls.
+La vernice magnetica per lavagne è una soluzione molto diffusa per la stanza dei bambini. Non è un segreto che i bambini amano disegnare sulle pareti. Di solito finisce per rinnovare o ridecorare le pareti. In questo caso non è necessario! La vernice magnetica per lavagna permette al vostro bambino di essere creativo in un luogo appositamente designato. Una parete dipinta con una vernice per lavagna è un'idea fantastica per la stanza dei bambini. Può rendere lo studio molto più piacevole. I piccoli artisti apprezzeranno la possibilità di esprimersi ovunque, anche sulle pareti.
 
 {% fig %}
 ![Magnetic chalkboard paint - ideal for children's room](/uploads/idealna-do-pokoju dziecięcego-farba-tablicowa-magnetyczna.jpg "Magnetic chalkboard paint - ideal for children's room")
 {% endfig %}
 
-### Where else can you use chalkboard paint?
+### Dove altro si può usare la vernice per lavagna?
 
-Chalkboard paint is a product of practically endless ways to use it. Due to the fact that **chalkboard paint can cover any surface that is inside of a building**, you might use it anywhere, for any purpose.
+La vernice per lavagna è un prodotto di modi praticamente infiniti di usarla. Grazie al fatto che la vernice per lavagna può coprire qualsiasi superficie che si trova all'interno di un edificio, è possibile utilizzarla ovunque, per qualsiasi scopo.
 
-Using **chalkboard paint in the kitchen** is quite a popular solution. A part of (or whole) wall covered with chalkboard paint is a great spot to make shopping lists or noting recipes for favourite dishes.
+L'uso della vernice per lavagna in cucina è una soluzione molto popolare. Una parte della parete (o l'intera parete coperta con la vernice per lavagna è un ottimo posto per fare liste della spesa o per annotare ricette per i piatti preferiti.
 
-Chalkboard paint could also be used in a **living room or in the hall**. You might use it to collect visitors' signatures or simply to make a to-do list.
+La vernice per lavagna può essere usata anche in soggiorno o nell'ingresso. Si può usare per raccogliere le firme dei visitatori o semplicemente per fare una lista delle cose da fare.
 
-A wall covered with chalkboard paint in a **bedroom** or an **office** can be used for private notes.
+Una parete ricoperta di vernice per lavagna in una camera da letto o in un ufficio può essere usata per appunti privati.
 
-Apart from walls, you might use chalkboard paint also to cover objects. You might use it to paint wooden boxes or doors to cabinets to easily label them.
+Oltre che per le pareti, si può usare la vernice per lavagna anche per coprire gli oggetti. Si può usare per dipingere scatole di legno o porte di armadietti per etichettarli facilmente.
 
-### Magnetic chalkboard paint - colors
+### Vernice magnetica per lavagna - colori
 
-Magnetic chalkboard paint is used for attaching notes and drawings to it, as well as for writing and drawing on it. For this reason it is sold in two colors - black and grey.
+La vernice magnetica per lavagna è usata per attaccare note e disegni, così come per scrivere e disegnare su di essa. Per questo motivo viene venduta in due colori - nero e grigio.
 
 {:.distinction.distinction-information}
-Initially, the only option was black magnetic chalkboard paint. Grey chalkboard paint appeared later.
+Inizialmente, l'unica opzione era la vernice magnetica nera per lavagna. La vernice grigia per lavagna è apparsa in seguito.
 
-An interesting fact is that magnetic chalkboard paint, covered with other type of paint keeps its magnetic properties. If you do it, it cannot be used for writing with chalk anymore. For this reason you shouldn't coat chalkboard paint with anything.
+Un fatto interessante è che la vernice per lavagna magnetica, ricoperta con altri tipi di vernice, mantiene le sue proprietà magnetiche. Se lo si fa, non può più essere usato per scrivere con il gesso. Per questo motivo non si dovrebbe ricoprire la vernice per lavagna con niente.
 
 {% faqItem %}
 {% faqQuestion %}
-How to use magnetic paint?
+Come si usa la vernice magnetica?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Painting with magnetic paint is quite different from using ordinary paint. Make sure to mix it thoroughly before starting, as it contains iron filings. Then use it similar as normal paint.
+La pittura con vernice magnetica è molto diversa dall'uso della normale vernice. Assicuratevi di mescolarla accuratamente prima di iniziare, in quanto contiene limatura di ferro. Quindi utilizzarla come una normale vernice.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to make magnetic paint wall?
+Come fare una parete di vernice magnetica?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Choose the color of your magnetic paint and prepare the room. Mix the product well and cover the wall. If you want a colorful magnetic wall, you might cover magnetic paint with a layer of ordinary paint - the wall will keep its magnetic properties.
+Scegliete il colore della vostra vernice magnetica e preparate la stanza. Mescolare bene il prodotto e coprire la parete. Se volete una parete magnetica colorata, potreste coprire la vernice magnetica con uno strato di vernice ordinaria - la parete manterrà le sue proprietà magnetiche.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How strong is magnetic paint?
+Quanto è forte la vernice magnetica?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Most of magnetic paint products have medium magnetic strength. The strength depends on the content percentage of magnetic ingredients (iron filings).
+La maggior parte dei prodotti vernicianti magnetici hanno una resistenza magnetica media. La resistenza dipende dalla percentuale di contenuto di ingredienti magnetici (limatura di ferro).
 {% endfaqAnswer %}
 {% endfaqItem %}
