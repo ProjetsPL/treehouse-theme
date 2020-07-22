@@ -22,130 +22,130 @@ toc: true
 promoted: false
 update_date: 2020-07-19
 title: Qu'est-ce qui éloigne les moustiques ? Le meilleur anti-moustique de jardin
-description: "Mosquitoes keep disturbing your garden relaxation? \U0001F99F Learn
-  how to get rid of them! ➡️ Check what is the best mosquito repellent and enjoy the
-  summer."
-intro: Are you dreaming to spend a pleasant summer evening in your garden? Perhaps
-  you are worried that mosquitoes will disturb your peace? Learn how to fight them
-  off – easily and effectively! Check what are the best and cheapest mosquito repellents
-  and enjoy the summer in its full glory, spending the time outside without any limitations.
+description: "Les moustiques perturbent sans cesse la détente dans votre jardin ?
+  \U0001F99F Apprenez comment vous en débarrasser ! ➡️ Vérifiez quel est le meilleur
+  répulsif contre les moustiques et profitez de l'été."
+intro: Vous rêvez de passer une agréable soirée d'été dans votre jardin ? Peut-être
+  craignez-vous que les moustiques ne troublent votre tranquillité ? Apprenez à les
+  combattre - facilement et efficacement ! Vérifiez quels sont les meilleurs et les
+  moins chers produits anti-moustiques et profitez pleinement de l'été, en passant
+  du temps dehors sans aucune restriction.
 image: "/uploads/komary-glowne-jpg.jpg"
 related_products: []
-published: false
 
 ---
-## Can a natural mosquito repellent replace store-bought products?
+## Un répulsif anti-moustiques naturel peut-il remplacer les produits achetés en magasin ?
 
-Natural mosquito control methods might be as effective as some store-bought products. The only thing that needs to be kept in mind is the **right preparation and proper usage** of such remedies. The most popular method is using essential oils for mosquito repellent, whose strong scent scare the insects away. They are for instance:
+Les méthodes naturelles de lutte contre les moustiques peuvent être aussi efficaces que certains produits achetés en magasin. La seule chose à garder à l'esprit est la bonne préparation et le bon usage de ces remèdes. La méthode la plus populaire consiste à utiliser des huiles essentielles comme répulsif pour les moustiques, dont le fort parfum fait fuir les insectes. C'est le cas par exemple :
 
 {:.list.list-positive}
 
-* lemon grass oil – it also repels flies and gnats,
-* clove oil,
-* patchouli oil,
-* eucalyptus oil, especially the one made from lemon-scented gum (_Corymbia citriodora_).
+* l'huile de citronnelle - elle repousse également les mouches et les moucherons,
+* l'huile de girofle,
+* l'huile de patchouli,
+* l'huile d'eucalyptus, en particulier celle qui est faite à partir de gomme parfumée au citron (Corymbia citriodora).
 
-You can easily prepare a homemade **mosquito repellent spray** with **essential oils**, which is a natural equivalent of store-bought chemical products. To make a homemade mosquito repellent you need: a mixture of essential oils that have insect repellent qualities and **base oil** (i.e. vegetable oil, for instance the one you typically use in the kitchen: sunflower, almond or grapeseed oil).
+Vous pouvez facilement préparer un spray anti-moustiques maison avec des huiles essentielles, qui est un équivalent naturel des produits chimiques achetés en magasin. Pour fabriquer un répulsif anti-moustiques maison, vous avez besoin : d'un mélange d'huiles essentielles ayant des qualités insectifuges et d'une huile de base (c'est-à-dire une huile végétale, par exemple celle que vous utilisez habituellement dans la cuisine : huile de tournesol, d'amande ou de pépins de raisin).
 
-A **homemade mosquito repellent** is very easy to make. All you need to do is combine essential oils of your choice with the base oil in the right proportion and mix them well. For 100 ml of your base oil you should use no more than 10 ml of essential oil (keep that in mind especially when using several various essential oils).
+Un répulsif anti-moustiques fait maison est très facile à fabriquer. Il vous suffit de combiner les huiles essentielles de votre choix avec l'huile de base dans les bonnes proportions et de bien les mélanger. Pour 100 ml de votre huile de base, vous ne devez pas utiliser plus de 10 ml d'huile essentielle (gardez cela à l'esprit, surtout si vous utilisez plusieurs huiles essentielles différentes).
 
-Keep the mixture in **dark glass containers**, for instance in small bottles.
+Conservez le mélange dans des récipients en verre foncé, par exemple dans de petites bouteilles.
 
 {:.distinction.distinction-warning}
-For the best effectiveness, apply your homemade mosquito repellent every 2 hours onto spots that are the most vulnerable to bites.
+Pour une efficacité optimale, appliquez votre anti-moustique maison toutes les 2 heures sur les endroits les plus vulnérables aux piqûres.
 
 {% fig %}
 ![Can a natural mosquito repellent replace store-bought products?](/uploads/domowe-sposoby-na-komary.jpg "Can a natural mosquito repellent replace store-bought products?")
 {% endfig %}
 
-## What are the most effective mosquito repellent plants?
+## Quelles sont les plantes anti-moustiques les plus efficaces ?
 
-There are certain plant species that act as **natural mosquito repellents**. They are mostly flowers, trees and shrubs with strong scents. Fragrant plants and herbs are very unpleasant for mosquitoes, therefore they are great if you want to **protect your garden from those insects**.
+Il existe certaines espèces de plantes qui agissent comme des répulsifs naturels contre les moustiques. Il s'agit principalement de fleurs, d'arbres et d'arbustes à forte odeur. Les plantes et les herbes parfumées sont très désagréables pour les moustiques, elles sont donc très utiles si vous voulez protéger votre jardin contre ces insectes.
 
-A plant known as **_Plectranthus glabratus_** or Swedish ivy is an ornamental plant with long, loose leaves. It's a great natural mosquito repellent. It looks best in a hanging pot, therefore it can be grown on balconies and patios.
+Une plante connue sous le nom de Plectranthus glabratus ou lierre suédois est une plante ornementale à feuilles longues et lâches. C'est un excellent répulsif naturel contre les moustiques. Elle est plus belle dans un pot suspendu et peut donc être cultivée sur les balcons et les terrasses.
 
-Other popular ornamental mosquito repellent plants are **geraniums**. It's a perfect species for rock gardens, slopes and flowerbeds.
+Les géraniums sont d'autres plantes ornementales répulsives contre les moustiques très appréciées. C'est une espèce parfaite pour les rocailles, les pentes et les plates-bandes.
 
 {% fig %}
 ![What are the most effective mosquito repellent plants?](/uploads/rosliny-odstraszajace-komary.jpg "What are the most effective mosquito repellent plants?")
 {% endfig %}
 
-Not only flowering perennials repel mosquitoes. Another brilliant method for natural mosquito control is planting certain species of **trees and shrubs**. One of the most hated trees among mosquitoes is staghorn sumac. The tree can help you get rid of mosquitoes from your garden. It takes very little space and requires minimal effort, so it's a plant that anyone can manage – even if you barely started your gardening adventure.
+Il n'y a pas que les plantes vivaces en fleur qui repoussent les moustiques. Une autre méthode brillante de lutte naturelle contre les moustiques consiste à planter certaines espèces d'arbres et d'arbustes. L'un des arbres les plus détestés par les moustiques est le sumac vénéneux. L'arbre peut vous aider à vous débarrasser des moustiques de votre jardin. Il prend très peu de place et demande un minimum d'efforts, c'est donc une plante que tout le monde peut gérer - même si vous avez à peine commencé votre aventure de jardinage.
 
 {:.distinction.distinction-information}
-Dissecta is an interesting variety of this species, and it also acts as a mosquito repellent. It's characteristic feature is the wide crown. The tree grows up to four meters tall and even six meters wide. The leaves of a dissecta turn orange in autumn, which makes the tree even more ornamental.
+La Dissecta est une variété intéressante de cette espèce, et elle agit également comme un répulsif pour les moustiques. Sa caractéristique est sa large couronne. L'arbre peut atteindre quatre mètres de haut et même six mètres de large. Les feuilles d'une dissecta deviennent orange en automne, ce qui rend l'arbre encore plus ornemental.
 
 {% fig %}
 ![Best mosquito repellent plants](/uploads/dissecta-przeciwko-komarom.jpg "Best mosquito repellent plants")
 {% endfig %}
 
-## What keeps mosquitoes away? Learn 3 proven mosquito repellents for your garden
+## Qu'est-ce qui éloigne les moustiques ? Apprenez 3 produits anti-moustiques éprouvés pour votre jardin
 
-Sprinkling your clothes or **spraying your body with special mosquito repellent solutions is effective but short-lasting**. This process typically has to be repeated several times a day. What are the best methods to keep the mosquitoes out of your garden and stop them from ruining your evenings? Check our suggestions that will help you win the battle with mosquitoes.
+Saupoudrer vos vêtements ou vaporiser votre corps avec des solutions anti-moustiques spéciales est efficace mais de courte durée. Ce processus doit généralement être répété plusieurs fois par jour. Quelles sont les meilleures méthodes pour empêcher les moustiques d'entrer dans votre jardin et de gâcher vos soirées ? Consultez nos suggestions qui vous aideront à gagner la bataille contre les moustiques.
 
-### Essential oils and mosquito repellent sprays
+### Huiles essentielles et sprays anti-moustiques
 
-The most popular method for fighting mosquitoes is using various mosquito sprays, essentail oils or a mosquito repellent candle. **You can combine all those methods, which will make them more effective.** You should, however, keep in mind that those remedies only hold back and repel the insects, instead of fully eliminating the problem.
+La méthode la plus populaire pour lutter contre les moustiques consiste à utiliser divers sprays anti-moustiques, des huiles essentielles ou une bougie anti-moustiques. Vous pouvez combiner toutes ces méthodes, ce qui les rendra plus efficaces. Vous devez cependant garder à l'esprit que ces remèdes ne font que retenir et repousser les insectes, au lieu d'éliminer totalement le problème.
 
-**Incense sticks, candles and torches,** although effective, they are very limited timewise. Such products protect against the insects only when you are staying right by the source. The further you are from the mosquito repellent candle or stick, the more you are vulnerable to bites. For this reason, even **if you decided to burn an incense stick, do not forget to use a repellent oil or spray as well.**
+Les bâtonnets d'encens, les bougies et les torches, bien qu'efficaces, sont très limités dans le temps. Ces produits ne protègent contre les insectes que lorsque vous restez près de la source. Plus vous êtes éloigné de la bougie ou du bâton d'encens, plus vous êtes vulnérable aux piqûres. C'est pourquoi, même si vous avez décidé de brûler un bâton d'encens, n'oubliez pas d'utiliser également une huile ou un spray répulsif.
 
 {% fig %}
 ![Essential oils and mosquito repellent sprays](/uploads/kadzidlo-na-komary.jpg "Essential oils and mosquito repellent sprays")
 {% endfig %}
 
-### Outdoor lighting – an effective mosquito repellent
+### L'éclairage extérieur : un répulsif efficace contre les moustiques
 
-One of the most popular mosquito repellents for gardens involves installing a **special type of lighting**. There are certain outdoor lamps that help you combat the insects. It does not only repel, but also **completely eliminates the flying insects**.
+L'un des produits anti-moustiques les plus populaires pour les jardins consiste à installer un type d'éclairage spécial. Il existe certaines lampes d'extérieur qui vous aident à lutter contre les insectes. Non seulement elles repoussent, mais elles éliminent aussi complètement les insectes volants.
 
 {% fig %}
 ![Outdoor lighting – an effective mosquito repellent](/uploads/skuteczne-sposoby-na-komary.jpg "Outdoor lighting – an effective mosquito repellent")
 {% endfig %}
 
-**A lamp of this type emits subtle ultraviolet lighting**, which pulls the insects regardless of the season. One of the most common types of lamps are the ones that eliminate the mosquitoes by electrocuting them. Another method makes the insects stick to the lamp and the device sucks them inside. **The method of luring the mosquitoes remains the same in both devices, while the way they are eliminated is different.**
+Une lampe de ce type émet un éclairage ultraviolet subtil, qui attire les insectes quelle que soit la saison. L'un des types de lampes les plus courants est celui qui élimine les moustiques par électrocution. Une autre méthode consiste à faire adhérer les insectes à la lampe et l'appareil les aspire à l'intérieur. La méthode pour attirer les moustiques reste la même dans les deux appareils, tandis que la manière de les éliminer est différente.
 
 {:.distinction.distinction-information}
-A great advantage of such a lamp is the fact that it doesn't affect people standing nearby. For this reason it's a perfect solution for allergy sufferers, who cannot use popular mosquito repellent sprays.
+Un grand avantage de cette lampe est le fait qu'elle n'affecte pas les personnes se trouvant à proximité. C'est pourquoi elle constitue une solution parfaite pour les personnes allergiques, qui ne peuvent pas utiliser les sprays anti-moustiques courants.
 
-## Garden spraying – a sure mosquito control method
+## Pulvérisation des jardins - une méthode sûre de lutte contre les moustiques
 
-The last step in the fight with mosquitoes is **spraying your garden**. By using the right type of mosquito repellent, you can scare away and eliminate the insects dwelling in your garden.
-
-{:.distinction.distinction-information}
-If you want to get rid of several types of insects, you can mix two different mosquito repellent sprays. Remember to keep the proportions in balance.
-
-Garden mosquito spray is nothing else than a **concentrated insect repellent**, mixed a moment before using it. Apply it mostly in dark, damp spots and on tall grasses. Due to the fact that mosquitoes are less active in the morning and in the late evening, the spray might help you decrease their population or completely hinder their reproduction. The larger area you spray, the more effective the method is. Nevertheless, **use the spray responsibly**, remembering about the right proportions. A chemical mosquito repellent is a sure way to win the fight with those insects.
-
-## What about mosquitoes by the water?
-
-To prevent mosquitoes reproduction in your garden, you need to make sure that the water in the reservoir is constantly moving. It's very important because **fresh, standing water is a place where the insects lay eggs.** You can produce water movement very easily, for instance by adding fountains, streams or a cascade to your pond. It's an easy way to prevent the mosquitoes from reproducing, by stopping them from laying eggs.
-
-Because **mosquitoes typically choose foul, dense and shallow water bodies**, you should take care of the water plants and clean the pond regularly.
+La dernière étape dans la lutte contre les moustiques est l'arrosage de votre jardin. En utilisant le bon type de répulsif anti-moustiques, vous pouvez effrayer et éliminer les insectes qui vivent dans votre jardin.
 
 {:.distinction.distinction-information}
-Some fish and frog species feed on insect larvae. Keeping them in your garden pond might prevent mosquitoes from reproducing.
+Si vous voulez vous débarrasser de plusieurs types d'insectes, vous pouvez mélanger deux sprays anti-moustiques différents. N'oubliez pas de maintenir les proportions en équilibre.
+
+Le spray anti-moustiques de jardin n'est rien d'autre qu'un insectifuge concentré, mélangé un moment avant de l'utiliser. Appliquez-le surtout dans les endroits sombres et humides et sur les herbes hautes. Comme les moustiques sont moins actifs le matin et en fin de soirée, le spray peut vous aider à diminuer leur population ou à entraver complètement leur reproduction. Plus la surface à pulvériser est grande, plus la méthode est efficace. Néanmoins, utilisez le spray de manière responsable, en vous souvenant des bonnes proportions. Un anti-moustique chimique est un moyen sûr de gagner le combat contre ces insectes.
+
+## Qu'en est-il des moustiques au bord de l'eau ?
+
+Pour empêcher la reproduction des moustiques dans votre jardin, vous devez vous assurer que l'eau du réservoir est en mouvement constant. C'est très important car l'eau douce et stagnante est un endroit où les insectes pondent leurs œufs. Vous pouvez produire un mouvement de l'eau très facilement, par exemple en ajoutant des fontaines, des ruisseaux ou une cascade à votre étang. C'est un moyen facile d'empêcher les moustiques de se reproduire, en les empêchant de pondre des œufs.
+
+Comme les moustiques choisissent généralement des plans d'eau sales, denses et peu profonds, vous devez prendre soin des plantes aquatiques et nettoyer l'étang régulièrement.
+
+{:.distinction.distinction-information}
+Certaines espèces de poissons et de grenouilles se nourrissent de larves d'insectes. Les garder dans votre étang de jardin pourrait empêcher les moustiques de se reproduire.
 
 {% fig %}
 ![What about mosquitoes by the water?](/uploads/a-co-na-komary-nad-woda.jpg "What about mosquitoes by the water?")
 {% endfig %}
 
-Do you want to enjoy a peaceful time in your own garden? Make sure to use appropriate mosquito repellent immediately afer you notice first insects. This way you can avoid a mosquito invasion.
+Vous voulez profiter d'un moment de tranquillité dans votre propre jardin ? Veillez à utiliser un produit anti-moustique approprié dès que vous remarquez les premiers insectes. Vous éviterez ainsi une invasion de moustiques.
 
 {% faqItem %}
 {% faqQuestion %}
-What is a natural mosquito repellent?
+Qu'est-ce qu'un répulsif anti-moustique naturel ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Certain plants release scents that repel mosquitoes. Plectranthus, geranium or a dissecta are great natural mosquito repellents. Plant them in various spots in your garden, most importantly close by the place where you usually spend time.
+Certaines plantes dégagent des odeurs qui repoussent les moustiques. Le plectranthus, le géranium ou une dissecta sont de bons répulsifs naturels contre les moustiques. Plantez-les à différents endroits de votre jardin, surtout à proximité de l'endroit où vous passez habituellement votre temps.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-What essential oils are good for mosquito repellent?
+Quelles huiles essentielles sont bonnes pour repousser les moustiques ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Lemon grass oil, patchouli oil, clove oil and eucalyptus oil are great mosquito repellents. It is a good idea to mix them all, along with some base vegetable oil. You can apply such mixture to your skin every time you need to go out. Remember to reapply it every two hours if you are outside for a longer time.
+L'huile de citronnelle, l'huile de patchouli, l'huile de clou de girofle et l'huile d'eucalyptus sont d'excellents répulsifs contre les moustiques. Il est bon de les mélanger toutes, avec un peu d'huile végétale de base. Vous pouvez appliquer ce mélange sur votre peau chaque fois que vous devez sortir. N'oubliez pas de l'appliquer à nouveau toutes les deux heures si vous restez dehors plus longtemps.
 {% endfaqAnswer %}
 {% endfaqItem %}
