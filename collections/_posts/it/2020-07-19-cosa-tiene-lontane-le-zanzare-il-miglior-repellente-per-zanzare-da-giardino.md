@@ -22,130 +22,130 @@ toc: true
 promoted: false
 update_date: 2020-07-19
 title: Cosa tiene lontane le zanzare? Il miglior repellente per zanzare da giardino
-description: "Mosquitoes keep disturbing your garden relaxation? \U0001F99F Learn
-  how to get rid of them! ➡️ Check what is the best mosquito repellent and enjoy the
-  summer."
-intro: Are you dreaming to spend a pleasant summer evening in your garden? Perhaps
-  you are worried that mosquitoes will disturb your peace? Learn how to fight them
-  off – easily and effectively! Check what are the best and cheapest mosquito repellents
-  and enjoy the summer in its full glory, spending the time outside without any limitations.
+description: "Le zanzare continuano a disturbare il vostro relax in giardino? \U0001F99F
+  Imparate a sbarazzarvi di loro! ➡️ Verificate qual è il miglior repellente per zanzare
+  e godetevi l'estate."
+intro: Sognate di trascorrere una piacevole serata estiva nel vostro giardino? Forse
+  siete preoccupati che le zanzare possano disturbare la vostra pace? Imparate a combatterle
+  - in modo semplice ed efficace! Controllate quali sono i migliori e più economici
+  repellenti per le zanzare e godetevi l'estate in tutto il suo splendore, trascorrendo
+  il tempo all'aperto senza limitazioni.
 image: "/uploads/komary-glowne-jpg.jpg"
 related_products: []
-published: false
 
 ---
-## Can a natural mosquito repellent replace store-bought products?
+## Un repellente naturale per zanzare può sostituire i prodotti acquistati in negozio?
 
-Natural mosquito control methods might be as effective as some store-bought products. The only thing that needs to be kept in mind is the **right preparation and proper usage** of such remedies. The most popular method is using essential oils for mosquito repellent, whose strong scent scare the insects away. They are for instance:
+I metodi naturali di controllo delle zanzare potrebbero essere efficaci quanto alcuni prodotti acquistati in negozio. L'unica cosa da tenere a mente è la giusta preparazione e l'uso corretto di tali rimedi. Il metodo più popolare è l'uso di oli essenziali per il repellente per zanzare, il cui forte odore spaventa gli insetti. Essi sono per esempio:
 
 {:.list.list-positive}
 
-* lemon grass oil – it also repels flies and gnats,
-* clove oil,
-* patchouli oil,
-* eucalyptus oil, especially the one made from lemon-scented gum (_Corymbia citriodora_).
+* olio di citronella - respinge anche mosche e moscerini,
+* olio di chiodi di garofano,
+* olio di patchouli,
+* olio di eucalipto, soprattutto quello di gomma al profumo di limone (Corymbia citriodora).
 
-You can easily prepare a homemade **mosquito repellent spray** with **essential oils**, which is a natural equivalent of store-bought chemical products. To make a homemade mosquito repellent you need: a mixture of essential oils that have insect repellent qualities and **base oil** (i.e. vegetable oil, for instance the one you typically use in the kitchen: sunflower, almond or grapeseed oil).
+Si può facilmente preparare uno spray repellente per zanzare fatto in casa con oli essenziali, che è un equivalente naturale dei prodotti chimici acquistati in negozio. Per preparare un repellente per zanzare fatto in casa è necessario: una miscela di oli essenziali che abbiano qualità repellenti per insetti e olio di base (cioè olio vegetale, per esempio quello che si usa tipicamente in cucina: olio di girasole, di mandorle o di semi d'uva).
 
-A **homemade mosquito repellent** is very easy to make. All you need to do is combine essential oils of your choice with the base oil in the right proportion and mix them well. For 100 ml of your base oil you should use no more than 10 ml of essential oil (keep that in mind especially when using several various essential oils).
+Un repellente per zanzare fatto in casa è molto facile da realizzare. Basta combinare oli essenziali di vostra scelta con l'olio di base nella giusta proporzione e mescolarli bene. Per 100 ml del vostro olio di base dovreste usare non più di 10 ml di olio essenziale (tenetelo a mente soprattutto quando usate diversi oli essenziali).
 
-Keep the mixture in **dark glass containers**, for instance in small bottles.
+Conservare la miscela in contenitori di vetro scuro, ad esempio in piccole bottiglie.
 
 {:.distinction.distinction-warning}
-For the best effectiveness, apply your homemade mosquito repellent every 2 hours onto spots that are the most vulnerable to bites.
+Per la massima efficacia, applicate il vostro repellente per zanzare fatto in casa ogni 2 ore sui punti più vulnerabili ai morsi.
 
 {% fig %}
 ![Can a natural mosquito repellent replace store-bought products?](/uploads/domowe-sposoby-na-komary.jpg "Can a natural mosquito repellent replace store-bought products?")
 {% endfig %}
 
-## What are the most effective mosquito repellent plants?
+## Quali sono le piante repellenti per zanzare più efficaci?
 
-There are certain plant species that act as **natural mosquito repellents**. They are mostly flowers, trees and shrubs with strong scents. Fragrant plants and herbs are very unpleasant for mosquitoes, therefore they are great if you want to **protect your garden from those insects**.
+Ci sono alcune specie di piante che agiscono come repellenti naturali per le zanzare. Sono per lo più fiori, alberi e arbusti con forti profumi. Le piante profumate e le erbe aromatiche sono molto sgradevoli per le zanzare, quindi sono ottime se volete proteggere il vostro giardino da questi insetti.
 
-A plant known as **_Plectranthus glabratus_** or Swedish ivy is an ornamental plant with long, loose leaves. It's a great natural mosquito repellent. It looks best in a hanging pot, therefore it can be grown on balconies and patios.
+Una pianta conosciuta come Plectranthus glabratus o edera svedese è una pianta ornamentale con foglie lunghe e sciolte. È un ottimo repellente naturale per le zanzare. Sta meglio in un vaso appeso, quindi può essere coltivata su balconi e patii.
 
-Other popular ornamental mosquito repellent plants are **geraniums**. It's a perfect species for rock gardens, slopes and flowerbeds.
+Altre popolari piante ornamentali repellenti per zanzare sono i gerani. È una specie perfetta per giardini rocciosi, pendii e aiuole.
 
 {% fig %}
 ![What are the most effective mosquito repellent plants?](/uploads/rosliny-odstraszajace-komary.jpg "What are the most effective mosquito repellent plants?")
 {% endfig %}
 
-Not only flowering perennials repel mosquitoes. Another brilliant method for natural mosquito control is planting certain species of **trees and shrubs**. One of the most hated trees among mosquitoes is staghorn sumac. The tree can help you get rid of mosquitoes from your garden. It takes very little space and requires minimal effort, so it's a plant that anyone can manage – even if you barely started your gardening adventure.
+Non solo le piante perenni in fiore respingono le zanzare. Un altro metodo brillante per il controllo naturale delle zanzare è piantare alcune specie di alberi e arbusti. Uno degli alberi più odiato tra le zanzare è il sumaco di stambecco. L'albero può aiutarvi a sbarazzarvi delle zanzare dal vostro giardino. Richiede pochissimo spazio e richiede uno sforzo minimo, quindi è una pianta che chiunque può gestire - anche se avete a malapena iniziato la vostra avventura di giardinaggio.
 
 {:.distinction.distinction-information}
-Dissecta is an interesting variety of this species, and it also acts as a mosquito repellent. It's characteristic feature is the wide crown. The tree grows up to four meters tall and even six meters wide. The leaves of a dissecta turn orange in autumn, which makes the tree even more ornamental.
+La Dissecta è una varietà interessante di questa specie, e funge anche da repellente per le zanzare. La sua caratteristica è la corona larga. L'albero cresce fino a quattro metri di altezza e anche sei metri di larghezza. Le foglie di una dissecta diventano arancioni in autunno, il che rende l'albero ancora più ornamentale.
 
 {% fig %}
 ![Best mosquito repellent plants](/uploads/dissecta-przeciwko-komarom.jpg "Best mosquito repellent plants")
 {% endfig %}
 
-## What keeps mosquitoes away? Learn 3 proven mosquito repellents for your garden
+## Cosa tiene lontane le zanzare? Imparate 3 repellenti per zanzare collaudati per il vostro giardino
 
-Sprinkling your clothes or **spraying your body with special mosquito repellent solutions is effective but short-lasting**. This process typically has to be repeated several times a day. What are the best methods to keep the mosquitoes out of your garden and stop them from ruining your evenings? Check our suggestions that will help you win the battle with mosquitoes.
+Cospargere i vestiti o spruzzare il corpo con speciali soluzioni repellenti per zanzare è efficace ma di breve durata. Questo processo deve essere ripetuto più volte al giorno. Quali sono i metodi migliori per tenere le zanzare fuori dal vostro giardino ed evitare che vi rovinino la serata? Controllate i nostri suggerimenti che vi aiuteranno a vincere la battaglia con le zanzare.
 
-### Essential oils and mosquito repellent sprays
+### Oli essenziali e spray repellenti per zanzare
 
-The most popular method for fighting mosquitoes is using various mosquito sprays, essentail oils or a mosquito repellent candle. **You can combine all those methods, which will make them more effective.** You should, however, keep in mind that those remedies only hold back and repel the insects, instead of fully eliminating the problem.
+Il metodo più popolare per combattere le zanzare è l'uso di vari spray per zanzare, olii essenziali o una candela repellente per zanzare. È possibile combinare tutti questi metodi, che li renderà più efficaci. Si dovrebbe, tuttavia, tenere a mente che questi rimedi solo trattenere e respingere gli insetti, invece di eliminare completamente il problema.
 
-**Incense sticks, candles and torches,** although effective, they are very limited timewise. Such products protect against the insects only when you are staying right by the source. The further you are from the mosquito repellent candle or stick, the more you are vulnerable to bites. For this reason, even **if you decided to burn an incense stick, do not forget to use a repellent oil or spray as well.**
+I bastoncini d'incenso, le candele e le torce, anche se efficaci, sono molto limitati nel tempo. Questi prodotti proteggono dagli insetti solo quando si è vicini alla fonte. Più ci si allontana dalla candela o dal bastone repellente per zanzare, più si è vulnerabili ai morsi. Per questo motivo, anche se avete deciso di bruciare un bastoncino d'incenso, non dimenticate di usare anche un olio o uno spray repellente.
 
 {% fig %}
 ![Essential oils and mosquito repellent sprays](/uploads/kadzidlo-na-komary.jpg "Essential oils and mosquito repellent sprays")
 {% endfig %}
 
-### Outdoor lighting – an effective mosquito repellent
+### Illuminazione esterna - un efficace repellente per zanzare
 
-One of the most popular mosquito repellents for gardens involves installing a **special type of lighting**. There are certain outdoor lamps that help you combat the insects. It does not only repel, but also **completely eliminates the flying insects**.
+Uno dei repellenti per zanzare più popolari per i giardini prevede l'installazione di un tipo speciale di illuminazione. Ci sono alcune lampade da esterno che aiutano a combattere gli insetti. Non solo respinge, ma elimina completamente gli insetti volanti.
 
 {% fig %}
 ![Outdoor lighting – an effective mosquito repellent](/uploads/skuteczne-sposoby-na-komary.jpg "Outdoor lighting – an effective mosquito repellent")
 {% endfig %}
 
-**A lamp of this type emits subtle ultraviolet lighting**, which pulls the insects regardless of the season. One of the most common types of lamps are the ones that eliminate the mosquitoes by electrocuting them. Another method makes the insects stick to the lamp and the device sucks them inside. **The method of luring the mosquitoes remains the same in both devices, while the way they are eliminated is different.**
+Una lampada di questo tipo emette una sottile luce ultravioletta, che attira gli insetti indipendentemente dalla stagione. Uno dei tipi di lampade più comuni è quello che elimina le zanzare per elettrocuzione. Un altro metodo fa sì che gli insetti si attacchino alla lampada e l'apparecchio li risucchia all'interno. Il metodo per attirare le zanzare rimane lo stesso in entrambi i dispositivi, mentre il modo in cui vengono eliminate è diverso.
 
 {:.distinction.distinction-information}
-A great advantage of such a lamp is the fact that it doesn't affect people standing nearby. For this reason it's a perfect solution for allergy sufferers, who cannot use popular mosquito repellent sprays.
+Un grande vantaggio di una lampada di questo tipo è il fatto che non colpisce le persone che si trovano nelle vicinanze. Per questo motivo è una soluzione perfetta per chi soffre di allergie, che non può usare i popolari spray repellenti per zanzare.
 
-## Garden spraying – a sure mosquito control method
+## L'irrorazione del giardino - un metodo sicuro per il controllo delle zanzare
 
-The last step in the fight with mosquitoes is **spraying your garden**. By using the right type of mosquito repellent, you can scare away and eliminate the insects dwelling in your garden.
-
-{:.distinction.distinction-information}
-If you want to get rid of several types of insects, you can mix two different mosquito repellent sprays. Remember to keep the proportions in balance.
-
-Garden mosquito spray is nothing else than a **concentrated insect repellent**, mixed a moment before using it. Apply it mostly in dark, damp spots and on tall grasses. Due to the fact that mosquitoes are less active in the morning and in the late evening, the spray might help you decrease their population or completely hinder their reproduction. The larger area you spray, the more effective the method is. Nevertheless, **use the spray responsibly**, remembering about the right proportions. A chemical mosquito repellent is a sure way to win the fight with those insects.
-
-## What about mosquitoes by the water?
-
-To prevent mosquitoes reproduction in your garden, you need to make sure that the water in the reservoir is constantly moving. It's very important because **fresh, standing water is a place where the insects lay eggs.** You can produce water movement very easily, for instance by adding fountains, streams or a cascade to your pond. It's an easy way to prevent the mosquitoes from reproducing, by stopping them from laying eggs.
-
-Because **mosquitoes typically choose foul, dense and shallow water bodies**, you should take care of the water plants and clean the pond regularly.
+L'ultimo passo nella lotta con le zanzare è l'irrorazione del giardino. Usando il giusto tipo di repellente per zanzare, potete spaventare ed eliminare gli insetti che abitano il vostro giardino.
 
 {:.distinction.distinction-information}
-Some fish and frog species feed on insect larvae. Keeping them in your garden pond might prevent mosquitoes from reproducing.
+Se volete liberarvi di diversi tipi di insetti, potete mescolare due diversi spray repellenti per zanzare. Ricordatevi di mantenere le proporzioni in equilibrio.
+
+Lo spray per zanzare da giardino non è altro che un concentrato di repellente per insetti, mescolato un attimo prima di usarlo. Applicatelo soprattutto nelle macchie scure e umide e sulle erbe alte. A causa del fatto che le zanzare sono meno attive al mattino e a tarda sera, lo spray potrebbe aiutarvi a diminuirne la popolazione o a ostacolarne completamente la riproduzione. Più grande è la superficie da spruzzare, più il metodo è efficace. Tuttavia, usate lo spray in modo responsabile, ricordandovi delle giuste proporzioni. Un repellente chimico per zanzare è un modo sicuro per vincere la lotta con questi insetti.
+
+## E le zanzare vicino all'acqua?
+
+Per evitare che le zanzare si riproducano nel vostro giardino, dovete assicurarvi che l'acqua del serbatoio sia costantemente in movimento. È molto importante perché l'acqua dolce e stagnante è un luogo dove gli insetti depongono le uova. Potete produrre il movimento dell'acqua molto facilmente, per esempio aggiungendo fontane, ruscelli o una cascata al vostro laghetto. È un modo semplice per evitare che le zanzare si riproducano, impedendo loro di deporre le uova.
+
+Poiché le zanzare di solito scelgono corpi d'acqua sporchi, densi e poco profondi, dovreste prendervi cura delle piante acquatiche e pulire lo stagno regolarmente.
+
+{:.distinction.distinction-information}
+Alcune specie di pesci e rane si nutrono di larve di insetti. Tenerle nel laghetto da giardino potrebbe impedire alle zanzare di riprodursi.
 
 {% fig %}
 ![What about mosquitoes by the water?](/uploads/a-co-na-komary-nad-woda.jpg "What about mosquitoes by the water?")
 {% endfig %}
 
-Do you want to enjoy a peaceful time in your own garden? Make sure to use appropriate mosquito repellent immediately afer you notice first insects. This way you can avoid a mosquito invasion.
+Volete godervi un momento di pace nel vostro giardino? Assicuratevi di utilizzare immediatamente un repellente per zanzare adeguato, dopo aver notato i primi insetti. In questo modo si può evitare un'invasione di zanzare.
 
 {% faqItem %}
 {% faqQuestion %}
-What is a natural mosquito repellent?
+Cos'è un repellente naturale per le zanzare?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Certain plants release scents that repel mosquitoes. Plectranthus, geranium or a dissecta are great natural mosquito repellents. Plant them in various spots in your garden, most importantly close by the place where you usually spend time.
+Alcune piante rilasciano profumi che respingono le zanzare. Plectranthus, geranio o una dissecta sono grandi repellenti naturali per le zanzare. Piantatele in vari punti del vostro giardino, soprattutto vicino al luogo dove solitamente trascorrete il vostro tempo.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-What essential oils are good for mosquito repellent?
+Quali oli essenziali sono buoni per il repellente per le zanzare?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Lemon grass oil, patchouli oil, clove oil and eucalyptus oil are great mosquito repellents. It is a good idea to mix them all, along with some base vegetable oil. You can apply such mixture to your skin every time you need to go out. Remember to reapply it every two hours if you are outside for a longer time.
+L'olio di citronella, l'olio di patchouli, l'olio di chiodi di garofano e l'olio di eucalipto sono ottimi repellenti per le zanzare. È una buona idea mescolarli tutti, insieme ad un po' di olio vegetale di base. È possibile applicare tale miscela sulla pelle ogni volta che si ha bisogno di uscire. Ricordatevi di riapplicarlo ogni due ore se siete fuori per un tempo più lungo.
 {% endfaqAnswer %}
 {% endfaqItem %}
