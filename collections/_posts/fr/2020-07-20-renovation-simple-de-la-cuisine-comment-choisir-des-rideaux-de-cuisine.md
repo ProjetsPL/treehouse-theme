@@ -12,106 +12,106 @@ toc: true
 promoted: false
 update_date: 2020-07-20
 title: 'Rénovation simple de la cuisine : Comment choisir des rideaux de cuisine ?'
-description: "Looking for a cheap idea for kitchen renovation? ✔️ Learn a ridiculously
-  simple trick - kitchen curtains! \U0001F449 Discover the most exciting kitchen window
-  ideas!"
-intro: Dreaming of an elegant kitchen design? Kitchen curtains are a small detail
-  that can completely transform the character of your interior. Modern manufacturers
-  offer many styles and designs to choose from. Discover what are the best models
-  available on the market and take your interior to the next, stylish level in no
-  time, using nothing but kitchen curtains!
+description: "Vous cherchez une idée bon marché pour la rénovation de votre cuisine
+  ? ✔️ Apprenez un truc ridiculement simple - les rideaux de cuisine ! \U0001F449
+  Découvrez les idées de fenêtres de cuisine les plus excitantes !"
+intro: Vous rêvez d'un design de cuisine élégant ? Les rideaux de cuisine sont un
+  petit détail qui peut transformer complètement le caractère de votre intérieur.
+  Les fabricants modernes proposent de nombreux styles et designs parmi lesquels choisir.
+  Découvrez les meilleurs modèles disponibles sur le marché et faites passer votre
+  intérieur à un niveau de style supérieur en un rien de temps, en n'utilisant que
+  des rideaux de cuisine !
 image: "/uploads/zaslony-kuchenne.jpg"
 related_products: []
-published: false
 
 ---
-## How to choose kitchen curtains - key issues
+## Comment choisir les rideaux de cuisine - questions clés
 
-Choosing the right kitchen curtain might be a real challenge. Shops offer many various types of curtains in different shapes, sizes, colors and cuts. Very often they are matched with other kitchen elements such as drapes, table cloths and napkins. It's a simple method to make your kitchen look stylish and consistent.
+Choisir le bon rideau de cuisine peut être un véritable défi. Les magasins proposent de nombreux types de rideaux de différentes formes, tailles, couleurs et coupes. Très souvent, ils sont assortis à d'autres éléments de cuisine tels que des rideaux, des nappes et des serviettes. C'est une méthode simple pour donner à votre cuisine un aspect élégant et cohérent.
 
-When selecting kitchen curtains, it is good to pay attention to several crucial matters. They most important issues are:
+Lors du choix des rideaux de cuisine, il est bon de prêter attention à plusieurs points essentiels. Les plus importants sont les suivants :
 
 {:.list.list-positive}
 
-* **shape and fashion: short or long, single or double,**
-* **color:** classic white kitchen curtains or colorful drapes,
-* **function:** decoration or a form of a barrier, protection of privacy.
+* forme et mode : courte ou longue, simple ou double,
+* couleur : rideaux de cuisine blancs classiques ou tentures colorées,
+* fonction : décoration ou forme de barrière, protection de la vie privée.
 
 {% fig %}
 ![How to choose kitchen curtains - key issues](/uploads/jakie-firanki-wybrac.jpg "How to choose kitchen curtains - key issues")
 {% endfig %}
 
-## Fantastic kitchen curtains sets to choose from
+## De fantastiques ensembles de rideaux de cuisine à choisir
 
-The market offers a plethora of ways in which one can fasten their kitchen curtains. You might select a separate element or a whole kitchen set consisting of curtains and drapes. **The most desired types available on the market are voile and valance kitchen curtains**. They both resemble each other due to the similar fashion of fastening. Each of the type consists of two sheets pinned on both sides so that they uncover a part of the window.
+Le marché offre une pléthore de possibilités pour fixer les rideaux de cuisine. Vous pouvez choisir un élément séparé ou un ensemble de cuisine complet composé de rideaux et de tentures. Les types de rideaux de cuisine les plus demandés sur le marché sont les voiles et les cantonnières. Ils se ressemblent tous les deux en raison de leur mode de fermeture similaire. Chacun de ces types est constitué de deux feuilles épinglées des deux côtés de manière à découvrir une partie de la fenêtre.
 
-Another interesting solution is using classic cafe curtains. They used to be hand made in the past. They are **very short**, reaching only half of the window. They used to be present in every typical household. Currently, there are many kitchen curtains of this type available in shops. They are, however, a little bit longer and more sheer than years ago. It is a fantastic solution instead of classic kitchen curtains and drapes.
+Une autre solution intéressante consiste à utiliser des rideaux de café classiques. Autrefois, ils étaient fabriqués à la main. Ils sont très courts, n'atteignant que la moitié de la fenêtre. Ils étaient présents dans tous les foyers typiques. Actuellement, il existe de nombreux rideaux de cuisine de ce type dans les magasins. Ils sont toutefois un peu plus longs et plus transparents qu'il y a quelques années. C'est une solution fantastique pour remplacer les rideaux et tentures de cuisine classiques.
 
 {:.distinction.distinction-information}
-String kitchen curtains are a very intriguing form of decoration. They consist of a row of thin strings in one or many colors.
+Les rideaux de cuisine à ficelle sont une forme de décoration très intrigante. Ils se composent d'une rangée de fines ficelles d'une ou plusieurs couleurs.
 
-## Kitchen curtains ideas - new look at the old concept
+## Idées de rideaux de cuisine - un nouveau regard sur l'ancien concept
 
-Many people associate kitchen curtains with something distasteful, like an outdated apartment. It might have been accurate in the past. Today, however, curtains are becoming popular again. Manufacturers offer a **wide variety of fashions and styles** that do not look cheap at all — on the contrary — they are extremely elegant and stylish.
+Beaucoup de gens associent les rideaux de cuisine à quelque chose de désagréable, comme un appartement désuet. Cela aurait pu être exact dans le passé. Aujourd'hui, cependant, les rideaux redeviennent populaires. Les fabricants proposent une grande variété de modes et de styles qui ne sont pas du tout bon marché - au contraire, ils sont extrêmement élégants et stylés.
 
-Modern kitchen curtains, similar to drapes in a room, can completely alter the looks of the whole interior. They can make it look cozy and create a pleasant atmosphere. **A piece of a plain fabric provides unlimited possibilities for home decoration.** Using a few simple kitchen curtains, you can travel back to old-school sixties or design a modern looking kitchen with an unusual design.
+Les rideaux de cuisine modernes, qui ressemblent aux rideaux d'une pièce, peuvent modifier complètement l'aspect de tout l'intérieur. Ils peuvent donner une impression de confort et créer une atmosphère agréable. Un morceau de tissu uni offre des possibilités illimitées pour la décoration de la maison. En utilisant quelques simples rideaux de cuisine, vous pouvez retourner à la vieille école des années soixante ou concevoir une cuisine d'allure moderne avec un design inhabituel.
 
 {% fig %}
 ![Kitchen curtains ideas - new look at the old concept](/uploads/zaluzje-kuchenne.jpg "Kitchen curtains ideas - new look at the old concept")
 {% endfig %}
 
-Innovation has reached the fabrics utilized for kitchen curtains production, but not only. The past years have also seen the change in **the way the curtains are hung**. Very popular in the past thick and heavily embroidered cafe curtains have been replaced by sheer and long fabrics.
+L'innovation a atteint les tissus utilisés pour la production de rideaux de cuisine, mais pas seulement. Ces dernières années ont également vu le changement dans la façon dont les rideaux sont suspendus. Très populaires dans le passé, les rideaux de café épais et fortement brodés ont été remplacés par des tissus longs et transparents.
 
-## Beautiful tailored kitchen curtains
+## De beaux rideaux de cuisine sur mesure
 
-Some windows, especially those in single family homes have unusual sizes. In such a case it is a good idea to choose **tailored kitchen curtains.** Shops offer a wide variety of fabrics - you can purchase the in bulk. Manufacturers produce also decorative elements that can be used as trimmings.
+Certaines fenêtres, en particulier celles des maisons individuelles, ont des dimensions inhabituelles. Dans ce cas, il est judicieux de choisir des rideaux de cuisine sur mesure. Les magasins proposent une grande variété de tissus - vous pouvez les acheter en gros. Les fabricants produisent également des éléments décoratifs qui peuvent être utilisés comme garnitures.
 
-Tailored kitchen curtains might be incredibly interesting for those who have a certain project in mind or those who seek unusual **home decorations**. This way you can be sure your kitchen curtains are absolutely unique.
-
-{:.distinction.distinction-information}
-You can ask a professional to prepare your kitchen curtains. If you think you are competent at designing home decorations and you can sew, you might decide to do it yourself.
-
-Designs in which various types of fabrics are combined are becoming a favoured method for home decoration. There are endless possibilities to design various patterns. This way you have a chance to **design an attractive decorative element** that will fulfill even the pickiest tastes.
-
-### How much do tailored kitchen curtains cost?
-
-Tailored kitchen curtains are slightly more expensive than ready-made drapes available for purchase in shops. The price depends on various factors. **The materials used for the project are the most significant.** If you utilize high-quality materials or you desire some rare fabrics, the price is going to be much higher than when you use standard materials. Furthermore, the costs of tailoring kitchen curtains include the price of executing the project - sewing the curtains. Tailored kitchen curtains are definitely more expensive than ready-made products offered by manufacturers. With the price, however, you get a more superior quality and a product that matches your individual needs.
-
-## How to clean kitchen curtains? Learn before buying
-
-There are as many way to clean a curtain as people who do it. Almost every homeowner surely has their proven method for cleaning, bleaching and ironing kitchen curtains. If you, however, want to achieve the best results, you should pay attention to this matter before buying a particular curtain.
-
-**Not all kitchen drapes can be washed in a washing machine,** especially if they are made of delicate fabrics that can be easily damaged. In such cases one has to hand-wash them - but not everyone has time to do it. For this reason it is important to pay special attention to the type of fabric of a curtain you are about to buy.
+Les rideaux de cuisine sur mesure peuvent être incroyablement intéressants pour ceux qui ont un certain projet en tête ou qui recherchent des décorations inhabituelles pour leur maison. De cette façon, vous pouvez être sûr que vos rideaux de cuisine sont absolument uniques.
 
 {:.distinction.distinction-information}
-If you want to to wash kitchen curtains with flounce or made of thick materials, add some starch and bleach during the washing. It helps them to retain their original shape for longer.
+Vous pouvez demander à un professionnel de préparer vos rideaux de cuisine. Si vous pensez être compétente pour concevoir des décorations de maison et que vous savez coudre, vous pouvez décider de le faire vous-même.
 
-## What to use instead of kitchen curtains? Decorate your windows with blinds
+Les dessins dans lesquels différents types de tissus sont combinés deviennent une méthode privilégiée pour la décoration de la maison. Il existe des possibilités infinies de concevoir différents motifs. Ainsi, vous avez la possibilité de concevoir un élément décoratif attrayant qui répondra aux goûts les plus exigeants.
 
-Although there are many types and shapes of kitchen curtains available on the market, they are not to everyone's taste. Instead, some homeowners decide to use modern blinds that look equally stylish. Contrary to kitchen curtains, blinds do not need to be washed. It is an interesting alternative, worth keeping in mind. Note that without kitchen curtains the interior does not look as cozy as with them.
+### Combien coûtent les rideaux de cuisine sur mesure ?
+
+Les rideaux de cuisine sur mesure sont légèrement plus chers que les rideaux prêts à l'emploi vendus dans les magasins. Le prix dépend de différents facteurs. Les matériaux utilisés pour le projet sont les plus importants. Si vous utilisez des matériaux de haute qualité ou si vous désirez des tissus rares, le prix sera beaucoup plus élevé que lorsque vous utilisez des matériaux standard. En outre, les coûts de confection des rideaux de cuisine comprennent le prix de l'exécution du projet - la couture des rideaux. Les rideaux de cuisine sur mesure sont nettement plus chers que les produits prêts à l'emploi proposés par les fabricants. Cependant, le prix vous permet d'obtenir une qualité supérieure et un produit qui correspond à vos besoins individuels.
+
+## Comment nettoyer les rideaux de cuisine ? Apprendre avant d'acheter
+
+Il y a autant de façons de nettoyer un rideau que de personnes qui le font. Presque tous les propriétaires de maison ont certainement leur méthode éprouvée pour nettoyer, blanchir et repasser les rideaux de cuisine. Toutefois, si vous voulez obtenir les meilleurs résultats, vous devez faire attention à ce point avant d'acheter un rideau particulier.
+
+Tous les rideaux de cuisine ne peuvent pas être lavés en machine, surtout s'ils sont faits de tissus délicats qui peuvent être facilement endommagés. Dans ce cas, il faut les laver à la main - mais tout le monde n'a pas le temps de le faire. C'est pourquoi il est important de prêter une attention particulière au type de tissu du rideau que vous allez acheter.
+
+{:.distinction.distinction-information}
+Si vous voulez laver des rideaux de cuisine à volants ou en matériaux épais, ajoutez un peu d'amidon et d'eau de javel pendant le lavage. Cela leur permet de conserver leur forme d'origine plus longtemps.
+
+## Que faut-il utiliser à la place des rideaux de cuisine ? Décorez vos fenêtres avec des stores
+
+Bien qu'il existe de nombreux types et formes de rideaux de cuisine sur le marché, ils ne sont pas au goût de tout le monde. Certains propriétaires décident plutôt d'utiliser des stores modernes qui ont un aspect tout aussi élégant. Contrairement aux rideaux de cuisine, les stores n'ont pas besoin d'être lavés. C'est une alternative intéressante, qu'il faut garder à l'esprit. Notez que sans rideaux de cuisine, l'intérieur n'a pas l'air aussi confortable qu'avec eux.
 
 {% fig %}
 ![What to use instead of kitchen curtains? Decorate your windows with blinds](/uploads/kuchnia-zaluzje1.jpg "What to use instead of kitchen curtains? Decorate your windows with blinds")
 {% endfig %}
 
-If you like combining traditional and modern solutions, consider **matching kitchen curtains with modern, metal or wooden blinds**. Although such a solution might seem overwhelming, in fact, it looks really good - especially if the kitchen has large windows. To add some finesse, choose uniform, sheer kitchen curtains - it will take the "weight" off the room.
+Si vous aimez combiner des solutions traditionnelles et modernes, pensez à assortir les rideaux de cuisine à des stores modernes, en métal ou en bois. Bien qu'une telle solution puisse sembler écrasante, elle est en fait très esthétique, surtout si la cuisine est dotée de grandes fenêtres. Pour ajouter un peu de finesse, choisissez des rideaux de cuisine uniformes et transparents - cela enlèvera du "poids" à la pièce.
 
 {% faqItem %}
 {% faqQuestion %}
-How to choose kitchen curtains?
+Comment choisir des rideaux de cuisine ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The most popular kitchen curtains are cafe, voile or valance curtains. Shops offer a wide variety of curtains in different shapes and sizes. There are many fabrics to choose from - you will surely find the one that suits your taste.
+Les rideaux de cuisine les plus populaires sont les rideaux de café, de voile ou de cantonnière. Les magasins proposent une grande variété de rideaux de différentes formes et tailles. Il existe de nombreux tissus parmi lesquels vous pouvez choisir - vous trouverez certainement celui qui correspond à votre goût.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to sew your kitchen curtains?
+Comment coudre vos rideaux de cuisine ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-If you know how to use a sewing machine, you might be able to make your own kitchen drapes. If it is out of your level of skill, give you project to a tailor. This way you can be sure that your new kitchen curtains are going to look fantastic.
+Si vous savez utiliser une machine à coudre, vous pourrez peut-être fabriquer vos propres rideaux de cuisine. Si cela ne correspond pas à votre niveau de compétence, confiez votre projet à un tailleur. De cette façon, vous pouvez être sûre que vos nouveaux rideaux de cuisine seront d'une apparence fantastique.
 {% endfaqAnswer %}
 {% endfaqItem %}
