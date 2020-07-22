@@ -15,162 +15,163 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-20
-title: ¿Cómo plantar semillas de hierba? Aprende el secreto de un césped perfecto
-description: "A lush, green lawn is your dream goal? You have no idea how to achieve
-  it? \U0001F331 Learn how to plant grass seed and make your lawn a real gem!"
-intro: Dreaming of a beautiful, green lawn? The right grass seed and proper maintenace
-  are key to success. Learn how and when to plant grass seed so that it looks perfect
-  in your garden. Learn how self-repairing grass seed works, and use some tips and
-  tricks to create a lawn that you've always dreamed of!
+title: "¿Cómo plantar semillas de hierba? Aprende el secreto de un césped perfecto"
+description: "¿Un exuberante y verde césped es la meta de tus sueños? ¿No tienes idea
+  de cómo lograrlo? \U0001F331 Aprende a plantar semillas de césped y haz de tu césped
+  una verdadera joya!"
+intro: "¿Soñando con un hermoso y verde césped? La semilla de césped correcta y el
+  mantenimiento adecuado son la clave del éxito. Aprende cómo y cuándo plantar las
+  semillas de hierba para que se vean perfectas en tu jardín. Aprende cómo funcionan
+  las semillas de césped autorreparadoras y utiliza algunos consejos y trucos para
+  crear el césped con el que siempre has soñado."
 image: "/uploads/jak-siac-trawe-glowne.jpg"
 related_products: []
-published: false
 
 ---
-## Types of grass seed to plant in your garden
+## Tipos de semillas de hierba para plantar en su jardín
 
-There are several species of grass typically planted in gardens. They can be divided by **tall and short grasses**. Not all of them, however, are suitable for every garden. **It is advised that the type of grass seed is fit for the purpose of the lawn.** This way you can be sure that you'll achieve the most satisfactory results when planting grass seed.
+Hay varias especies de hierba que se suelen plantar en los jardines. Se pueden dividir por pastos altos y cortos. Sin embargo, no todas ellas son adecuadas para cada jardín. Se aconseja que el tipo de semilla de hierba sea adecuado para el propósito del césped. De esta manera se puede estar seguro de que se obtendrán los resultados más satisfactorios al plantar las semillas de césped.
 
-### Common grass – a classic grass seed for your garden
+### Hierba común - una semilla de hierba clásica para su jardín
 
-**Common grass** is the most popular type of a lawn seed in gardens. Its biggest advantage is the aesthetic looks and beautiful green color. It is quite short and easy to mow, therefore it's a perfect base for an even and well-tended lawn that will be an object of jealousy of your neighbors.
+El césped común es el tipo de semilla de césped más popular en los jardines. Su mayor ventaja es el aspecto estético y el hermoso color verde. Es bastante corta y fácil de cortar, por lo tanto es una base perfecta para un césped parejo y bien cuidado que será objeto de celos de sus vecinos.
 
 {:.list}
 
-* **Sheep's fescue** – a slow growing species, highly resistant to atmospheric and climate conditions, with extensive root system. This type of grass seed should be planted in acidic soil, with a good access to sunlight.
-* **Creeping red fescue** – grass of a fast growth rate, resistant to trampling and weather conditions. It has rather thin blades, although it grows in clumps, which contributes to fast development of the lawn.
-* **Common bent** – this species is not very demanding when it comes to cultivation. It has short and thin blades, and it's very easy to mow.
+* Festuca de oveja - una especie de crecimiento lento, altamente resistente a las condiciones atmosféricas y climáticas, con un extenso sistema de raíces. Este tipo de semilla de hierba debe plantarse en suelo ácido, con un buen acceso a la luz solar.
+* Festuca roja rastrera - hierba de rápido crecimiento, resistente al pisoteo y a las condiciones climáticas. Tiene hojas bastante finas, aunque crece en grupos, lo que contribuye al rápido desarrollo del césped.
+* Festuca común - esta especie no es muy exigente en cuanto a su cultivo. Tiene hojas cortas y delgadas, y es muy fácil de cortar.
 
 {% fig %}
 ![Common grass – a classic grass seed for your garden](/uploads/trawa-pospolita.jpg "Common grass – a classic grass seed for your garden")
 {% endfig %}
 
-### Meadow grass – an unusual lawn idea
+### La hierba de la pradera - una idea inusual de césped
 
-**Meadow grass seed** (poa) is a very original choice, as it's characterized by **rich blooming**. It can be used for planting grass in your garden. The blades are quite tall and lush, with lots of flowers. This way you can achieve an artistic, messy look of your lawn with a very natural effect. Popular species used as meadow grass are:
+La semilla de hierba de la pradera (poa) es una elección muy original, ya que se caracteriza por su rico florecimiento. Se puede usar para plantar hierba en su jardín. Las hojas son bastante altas y exuberantes, con muchas flores. De esta manera se puede lograr un aspecto artístico y desordenado de su césped con un efecto muy natural. Las especies populares usadas como césped de pradera son:
 
 {:.list}
 
-* **Meadow fescue** – a popular species of tall meadow grass, reaching up to one meter. This type of grass is perfect for flower garden, as well as for filling spots in a rock garden.
-* **Bluegrass** – grass with dark-green blades, reaching up to 70 cm of height. It blooms from mid-spring to end-summer.
-* **Common cottongrass** – a species of moderate height, reaching up to 40 cm. It blooms with characteristic round, grey, fluffy flowers.
+* Festuca de la pradera - una especie popular de hierba de la pradera alta, que alcanza hasta un metro. Este tipo de hierba es perfecta para el jardín de flores, así como para llenar los espacios en un jardín de rocas.
+* Hierba azul - césped con hojas de color verde oscuro, que alcanza hasta 70 cm de altura. Florece desde mediados de primavera hasta finales de verano.
+* Césped de algodón común - una especie de altura moderada, que alcanza hasta 40 cm. Florece con flores redondas, grises y esponjosas características.
 
 {% fig %}
 ![Meadow grass – an unusual lawn idea](/uploads/trawa-lakowa.jpg "Meadow grass – an unusual lawn idea")
 {% endfig %}
 
 {:.distinction.distinction-information}
-One of the most popular species of ornamental grass is feather reed grass, which is a cross between two related plants – _Calamagrostis Arundinacea_ and _Calamagrostis Epigejos_ (wood small-reed). It reaches up to 1.5 meters, and it looks similar to grain plants.
+Una de las especies más populares de hierba ornamental es la hierba de junco de plumas, que es un cruce entre dos plantas relacionadas: Calamagrostis Arundinacea y Calamagrostis Epigejos (hierba pequeña de madera). Alcanza hasta 1,5 metros, y se parece a las plantas de grano.
 
 {% fig %}
 ![ornamental grass](/uploads/trawy-ozdobne.jpg "ornamental grass")
 {% endfig %}
 
-## What is self-repairing grass and how dies it work?
+## ¿Qué es la hierba autorreparadora y cómo funciona la muerte?
 
-**Self-repairing grass is a real gardening phenomenon.** What makes it different from any other type of grass seed is the unique growth and spreading process.
+La hierba autorreparadora es un verdadero fenómeno de jardinería. Lo que lo hace diferente de cualquier otro tipo de semilla de hierba es el proceso único de crecimiento y propagación.
 
-Self-repairing grass seed can grow several blades out of a single grain, and then they start to spread. It happens both vertically and horizontally, forming **thick bunches of grass**. Traditional types of grass also form bunches that spread, however their number remains the same. Self-repairing grass seed makes the lawn think and lush in a very short time.
+La semilla de hierba autorreparadora puede hacer crecer varias hojas de un solo grano, y entonces empiezan a extenderse. Ocurre tanto vertical como horizontalmente, formando gruesos racimos de hierba. Los tipos tradicionales de hierba también forman racimos que se extienden, sin embargo su número sigue siendo el mismo. La semilla de hierba autorreparadora hace que el césped piense y sea exuberante en muy poco tiempo.
 
 {% fig %}
 ![Self-repairing grass](/uploads/trawa-samozageszczajaca.jpg "Self-repairing grass")
 {% endfig %}
 
-Self-repairing grass makes great surface for a heavily used lawn. For this reason it's a perfect solution for a garden with children. This type of grass seed is also very resistant to atmospheric condition, so it can survive heavy rains and freezes.
+El césped autorreparador es una gran superficie para un césped muy usado. Por esta razón es una solución perfecta para un jardín con niños. Este tipo de semillas de césped también es muy resistente a las condiciones atmosféricas, por lo que puede sobrevivir a fuertes lluvias y heladas.
 
-### Self-repairing grass – price
+### Hierba autorreparadora - precio
 
-**The price of self-repairing grass seed** differs depending on several factors. One of the most significant ones is the **manufacturer**. Good quality self-repairing grass seed might cost even twice as much as other types. When choosing a particular brand, you have to decide whether your primary criterion is the quality or quantity.
+El precio de la semilla de hierba autorreparadora difiere según varios factores. Uno de los más significativos es el fabricante. Las semillas de hierba de buena calidad que se autorreparan pueden costar incluso el doble que las de otros tipos. Cuando se elige una marca en particular, hay que decidir si el criterio principal es la calidad o la cantidad.
 
-The size of the bag is crucial as well. A one-kilogram package of self-repairing grass seed might be sufficient for a small garden, it is definitely not enough for a large garden.
+El tamaño de la bolsa también es crucial. Un paquete de un kilogramo de semillas de césped autorreparables podría ser suficiente para un jardín pequeño, definitivamente no es suficiente para un jardín grande.
 
-## How to plant grass seed? Preparing the ground
+## ¿Cómo plantar semillas de hierba? Preparando el terreno
 
-The process of ground preparation before planting grass seed consists of several steps. It's very important for growth of the grass. The first what you need to do is **tidying the site**. You should gather the scraps and rubbish left on it and do the weeding. All those factor might affect the acidity of the soil and influence the grass seed growth.
+El proceso de preparación del terreno antes de plantar las semillas de hierba consiste en varios pasos. Es muy importante para el crecimiento de la hierba. Lo primero que hay que hacer es ordenar el sitio. Debes recoger los restos y la basura que queda en él y hacer la limpieza. Todos estos factores pueden afectar la acidez del suelo e influir en el crecimiento de la semilla de hierba.
 
 {:.distinction.distinction-warning}
-If the site is not cleaned up thoroughly, it might result in poor growth of the grass; it might grow yellow or dry.
+Si el sitio no se limpia a fondo, puede dar lugar a un crecimiento deficiente de la hierba; puede crecer amarilla o seca.
 
 {% fig %}
 ![How to plant grass seed? Preparing the ground](/uploads/gleba.jpg "How to plant grass seed? Preparing the ground")
 {% endfig %}
 
-Another step in the process of soil preparation is **breaking the ground and testing its acidity**. It's a good indicator for which type of grass seed you should choose for a particular type of soil. For the best results, the soil should be fertile, airy, and it should have moderate humidity.
+Otro paso en el proceso de preparación del suelo es romper el suelo y probar su acidez. Es un buen indicador de qué tipo de semillas de hierba se debe elegir para un determinado tipo de suelo. Para obtener los mejores resultados, el suelo debe ser fértil, aireado y debe tener una humedad moderada.
 
 {:.distinction.distinction-information}
-The acidity can be tested in two ways – by sending a sample to a lab or by using a special acidimeter. THe best acidity of a soil for grass seed is 5.5 – 6.5 pH.
+La acidez puede ser analizada de dos maneras: enviando una muestra a un laboratorio o usando un acidímetro especial. La mejor acidez de un suelo para semillas de hierba es de 5,5 - 6,5 pH.
 
-Make sure to **fertilize the soil** for a week before planting the grass seed. To do this, use a starter or a universal fertilizer. You can purchase both at a garden center. Mix it with the soil according to the manufacturer's instructions.
+Asegúrese de fertilizar el suelo durante una semana antes de plantar la semilla de hierba. Para ello, utilice un iniciador o un fertilizante universal. Puede comprar ambos en un centro de jardinería. Mézclelo con la tierra según las instrucciones del fabricante.
 
-The last, but equally important step of preparing the soil before planting grass seed is **rolling the ground**. It helps to even the surface for planting and thickens the soil.
+El último paso, pero igualmente importante, de preparar la tierra antes de plantar las semillas de hierba es rodar la tierra. Esto ayuda a nivelar la superficie para plantar y espesa la tierra.
 
-## Planting grass seed – how to do it?
+## Plantando semillas de hierba - ¿cómo hacerlo?
 
-A popular and quick method for planting grass seed is doing it **manually**. It involves seeding the grain yourself. To do this, you should **divide the prepared ground for several even parts**.
+Un método popular y rápido para plantar semillas de hierba es hacerlo manualmente. Implica sembrar el grano usted mismo. Para hacerlo, debes dividir el terreno preparado en varias partes iguales.
 
-When planting grass seed, it is advised to **do it crosswise**. This way the grain is evenly distributed, and the grass can reach optimal density. To make things easier, start seeding in one direction, and as you come back, spread the rest in opposite. Rake the ground thoroughly afterwards. It helps to cover the seeds with soil, which will protect the sprouts from weather conditions.
+Cuando se plantan semillas de hierba, se aconseja hacerlo en forma transversal. De esta manera el grano se distribuye uniformemente, y la hierba puede alcanzar una densidad óptima. Para facilitar las cosas, comience a sembrar en una dirección, y a medida que regrese, distribuya el resto en sentido contrario. Rastrille el suelo a fondo después. Ayuda a cubrir las semillas con tierra, lo que protegerá a los brotes de las condiciones climáticas.
 
 {% fig %}
 ![Planting grass seed](/uploads/jak-siac-trawe-rozdzial.jpg "Planting grass seed")
 {% endfig %}
 
 {:.distinction.distinction-information}
-An important step is solidifying the soil after planting grass seed. You can do it using a flat board. It secures the seed from being blown away by the wind.
+Un paso importante es la solidificación del suelo después de plantar semillas de hierba. Puedes hacerlo usando una tabla plana. Asegura que la semilla no sea arrastrada por el viento.
 
-Another, very important part is **watering the lawn.** To do it correctly, pour a small stream of water onto the ground. The easiest way is using a garden hose. Water the lawn regularly for two weeks after planting grass seed. The best time for watering the lawn is very early morning or late evening, when there is no sun which could burn the seedlings. Regular watering makes the lawn and its roots grow faster.
+Otra parte muy importante es regar el césped. Para hacerlo correctamente, vierta un pequeño chorro de agua en el suelo. La forma más fácil es usar una manguera de jardín. Regar el césped regularmente durante dos semanas después de plantar las semillas. El mejor momento para regar el césped es muy temprano en la mañana o al atardecer, cuando no hay sol que pueda quemar las semillas. El riego regular hace que el césped y sus raíces crezcan más rápido.
 
 {% fig %}
 ![watering the lawn](/uploads/water-815475_1280.jpg "watering the lawn")
 {% endfig %}
 
-## When to plant grass seed?
+## ¿Cuándo plantar semillas de hierba?
 
-If you want your lawn to be **green and lush**, try planting grass seed in particular months. When to plant grass seed so that it grows fast and well?
+Si quieres que tu césped sea verde y exuberante, intenta plantar semillas de hierba en meses concretos. ¿Cuándo plantar semillas de hierba para que crezcan rápido y bien?
 
-Most of the grass seed species require planting in autumn. It's the best season, mostly due to **weather and soil conditions**, characteristic for this part of the year. Planting grass seed from August to October protects the seeds from heavy rainfalls and high temperatures. Additionally, the soil humidity encourages the grass to sprout and grow.
+La mayoría de las especies de semillas de hierba requieren la plantación en otoño. Es la mejor estación, sobre todo debido a las condiciones climáticas y del suelo, características de esta parte del año. Plantar las semillas de hierba de agosto a octubre protege las semillas de las fuertes lluvias y las altas temperaturas. Además, la humedad del suelo alienta a la hierba a brotar y crecer.
 
 {% fig %}
 ![plant grass seed](/uploads/kiedy-siac-trawe.jpg "plant grass seed")
 {% endfig %}
 
-**Another good season for planting grass seed is early spring.** The best period to do this is between April and June. The weather conditions are the most important factor, so pay attention not only to a particular month, but also to the temperature. In case of early spring freezes you should probably postpone planting grass seed until autumn.
+Otra buena temporada para plantar semillas de hierba es a principios de la primavera. El mejor período para hacerlo es entre abril y junio. Las condiciones climáticas son el factor más importante, así que presten atención no sólo a un mes en particular, sino también a la temperatura. En caso de heladas a principios de la primavera, probablemente deberías posponer la plantación de semillas de hierba hasta el otoño.
 
 {:.distinction.distinction-information}
-Some garden owners decide to plant grass seed in March. It is, however, not the best idea from the gardening point of view. Although there are some species that are resistant to atmospheric conditions – for instance some types of ornamental grasses, planting grass seed so early might result in poor growth.
+Algunos propietarios de jardines deciden plantar semillas de hierba en marzo. Sin embargo, no es la mejor idea desde el punto de vista de la jardinería. Aunque hay algunas especies que son resistentes a las condiciones atmosféricas - por ejemplo, algunos tipos de hierbas ornamentales, plantar semillas de hierba tan pronto podría resultar en un crecimiento deficiente.
 
-## The most common mistakes made when planting grass seed
+## Los errores más comunes cometidos al plantar semillas de hierba
 
-When you prepare your lawn, you should pay close attention to every detail of the process. First and foremost, remember about all the rules – for **preparing the ground, seeding and further lawn care.** Very often even the smallest mistakes might affect the proper growth of grass.
+Cuando prepares tu césped, debes prestar mucha atención a cada detalle del proceso. En primer lugar, recuerden todas las reglas para preparar el terreno, sembrar y seguir cuidando el césped. Muy a menudo, incluso los más pequeños errores pueden afectar el crecimiento adecuado del césped.
 
-**The most commonly made mistakes are:**
+Los errores más comunes son:
 
 {:.list.list-negative}
 
-* **Incorrectly prepared soil** and not removing all elements that might affect the growth.
-* **Not loosening the soil** – which helps with the removal of the remainders of plants that used to grow in the area.
-* **Insufficient removal of any weeds from the area** on which you are going to plant grass seed. If there is a lot of weeds, you might need to use an herbicide, which will remove the plants from the soil.
-* **Not enriching the soil** – some types of soil require additional fertilizing. It is particularly important in case of sandy soils, where you should use a special peat mix or compost.
-* **Choosing wrong grass seed**, that is not suitable for garden lawn, but rather for meadow grass.
-* **Uneven planting,** which results in an unaesthetic looking lawn.
-* **Not securing the seed after planting**, especially when the weather is windy, which might blow the seed away.
-* **Insufficient amount of water**, which hinders the seeds from sprouting and growing properly.
+* Suelo mal preparado y no eliminar todos los elementos que puedan afectar al crecimiento.
+* No aflojar el suelo - lo que ayuda a la eliminación de los residuos de las plantas que solían crecer en la zona.
+* Insuficiente remoción de cualquier maleza de la zona en la que se va a plantar la semilla de hierba. Si hay muchas malezas, es posible que tenga que utilizar un herbicida, que eliminará las plantas del suelo.
+* No enriquecer el suelo - algunos tipos de suelo requieren de un fertilizante adicional. Es particularmente importante en el caso de los suelos arenosos, donde se debe utilizar una mezcla especial de turba o compost.
+* Eligiendo semillas de hierba equivocadas, que no son adecuadas para el césped de jardín, sino más bien para la hierba de pradera.
+* Plantación desigual, que resulta en un césped de aspecto poco estético.
+* No asegurar la semilla después de la plantación, especialmente cuando el tiempo es ventoso, lo que puede hacer que la semilla se pierda.
+* Insuficiente cantidad de agua, lo que impide que las semillas broten y crezcan adecuadamente.
 
 {% faqItem %}
 {% faqQuestion %}
-When to seed lawn in spring?
+¿Cuándo sembrar el césped en primavera?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The best months for planting grass seed are from April until the end of June. If you decide to plant grass seed in spring, pay special attention to atmospheric conditions. If there are freezes, postpone seeding until autumn.
+Los mejores meses para plantar semillas de hierba son desde abril hasta finales de junio. Si decide plantar semillas de hierba en primavera, preste especial atención a las condiciones atmosféricas. Si hay heladas, posponga la siembra hasta el otoño.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to grow a wildflower lawn?
+¿Cómo se cultiva un césped de flores silvestres?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Plan planting grass seed according to the species you want to include. You might choose spring or autumn to do this. Consider the soil requirements of the grass seed and its resistance level.
+Planifique la plantación de semillas de hierba de acuerdo con las especies que quiera incluir. Podrías elegir la primavera o el otoño para hacer esto. Considere los requisitos de suelo de la semilla de hierba y su nivel de resistencia.
 {% endfaqAnswer %}
 {% endfaqItem %}
