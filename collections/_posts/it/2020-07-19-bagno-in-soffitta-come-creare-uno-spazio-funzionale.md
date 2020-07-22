@@ -10,21 +10,20 @@ toc: true
 promoted: false
 update_date: 2020-07-19
 title: Bagno in soffitta - Come creare uno spazio funzionale?
-description: "Dreaming of a beautiful attic bathroom? \U0001F6C0\U0001F3FC Take a
-  look at the most interesting ideas. ➡️ Check some stylish and functional designs."
-intro: A bathroom is quite a difficult to design space. What's more, a room with a
-  sloped ceiling is a real challenge. Contrary to the popular belief, an attic bathroom
-  can be functional despite its unusual shape. What attic bathroom ideas are the best
-  to make it a good-looking and practical interior? We have prepared some tips and
-  inspirations for you.
+description: "Sognando un bel bagno in soffitta? \U0001F6C0\U0001F3FC Date un'occhiata
+  alle idee più interessanti. ➡️ Verificate alcuni design eleganti e funzionali."
+intro: Un bagno è uno spazio difficile da progettare. Inoltre, una stanza con il soffitto
+  inclinato è una vera e propria sfida. Contrariamente a quanto si crede, un bagno
+  in soffitta può essere funzionale nonostante la sua forma insolita. Quali idee per
+  il bagno in mansarda sono le migliori per renderlo un interno bello e pratico? Abbiamo
+  preparato per voi alcuni consigli e ispirazioni.
 image: "/uploads/lazienka-na-poddaszu-jak-stworzyc-funkcjonalne-pomieszczenie.jpg"
 related_products: []
-published: false
 
 ---
-## Attic bathroom – what challenges does it pose?
+## Il bagno in soffitta - quali sfide pone?
 
-An attic bathroom, according to many, poses many limitations. Large slopes, short walls and sometimes joists, depending on the building's plan. Obviously, on one hand those are quite difficult conditions, which do not make designing an attic bathroom any easier. On the other – you simply cannot change the structure of the room. The best idea, therefore, is to make those elements **a** **distinguishable feature** of your interior. It's a good way to get unusual and very stylish looking interiors.
+Un bagno in soffitta, secondo molti, pone molti limiti. Grandi pendenze, pareti corte e talvolta travi, a seconda del progetto dell'edificio. Ovviamente, da un lato, si tratta di condizioni piuttosto difficili, che non facilitano la progettazione di un bagno in mansarda. Dall'altro - semplicemente non si può cambiare la struttura della stanza. L'idea migliore, quindi, è quella di fare di questi elementi una caratteristica distintiva del vostro interno. È un buon modo per ottenere interni dall'aspetto insolito e molto elegante.
 
 {% fig %}
 
@@ -32,13 +31,13 @@ An attic bathroom, according to many, poses many limitations. Large slopes, shor
 
 {% endfig %}
 
-## Ceiling slopes and their possibilities in an attic bathroom
+## Pendii al soffitto e le loro possibilità in un bagno in soffitta
 
-**An attic bathroom** **does not necessarily mean that your possibilities are limited.** Keep in mind that the slopes, which in some situations are problematic, might create a lot of opportunities. In case of large spaces – they might be used for cupboards and shelves. You could keep towels, pajamas, cleaning supplies and cosmetics in them.
+Un bagno in soffitta non significa necessariamente che le vostre possibilità siano limitate. Tenete presente che le piste, che in alcune situazioni sono problematiche, possono creare molte opportunità. In caso di grandi spazi - potrebbero essere utilizzati per armadi e scaffali. Potreste conservare al loro interno asciugamani, pigiami, prodotti per la pulizia e cosmetici.
 
-## A good space planning is key for an attic bathroom design
+## Una buona pianificazione degli spazi è la chiave per il design di un bagno in soffitta
 
-The possibilities created by an attic bathroom mostly depend on the space you have at your disposal. Although it seems that a big bathroom with a ceiling slope is easy to design, it might be very tricky – especially if you don't **plan your space well.** A small attic bathroom, on the other hand, requires a lot of skill and implementation of functional solutions that won't take too much space. For this reason attic bathroom design is often left to specialists, who know best how to fit such an interior to meet the needs of their clients.
+Le possibilità create da un bagno in mansarda dipendono in gran parte dallo spazio che avete a disposizione. Anche se sembra che un grande bagno con una pendenza del soffitto sia facile da progettare, potrebbe essere molto complicato - soprattutto se non si pianifica bene il proprio spazio. Un piccolo bagno in mansarda, invece, richiede molta abilità e la realizzazione di soluzioni funzionali che non occupino troppo spazio. Per questo motivo il design del bagno in mansarda è spesso lasciato agli specialisti, che sanno come adattare al meglio un interno di questo tipo per soddisfare le esigenze dei loro clienti.
 
 {% fig %}
 
@@ -46,13 +45,13 @@ The possibilities created by an attic bathroom mostly depend on the space you ha
 
 {% endfig %}
 
-## Attic bathroom design – lighting
+## Design per il bagno in soffitta - illuminazione
 
-Attic bathrooms often contain **roof windows**. Natural lighting is very important, as it creates the sense of spatiality of the interior and lifts the weight off the design. But what if an attic bathroom has no windows? In such a case make sure to pick the **proper artificial lighting**. A combination of plenty of light points, a mirror and some glass might create an interesting atmosphere.
+I bagni in mansarda spesso contengono finestre sul tetto. L'illuminazione naturale è molto importante, in quanto crea il senso di spazialità degli interni e solleva il peso dal design. Ma cosa succede se un bagno in mansarda non ha finestre? In tal caso assicuratevi di scegliere la giusta illuminazione artificiale. Una combinazione di molti punti luce, uno specchio e un po' di vetro potrebbe creare un'atmosfera interessante.
 
 {:.distinction.distinction-information}
 
-Small attic bathrooms look perfect if you replace internal walls with glassbrick. Hollow glass bricks, which were not very popular in the recent years – are making a comeback.
+I piccoli bagni in mansarda sono perfetti se si sostituiscono le pareti interne con mattoni di vetro. I mattoni di vetro cavo, che non erano molto popolari negli ultimi anni - stanno facendo un ritorno.
 
 {% fig %}
 
@@ -60,21 +59,21 @@ Small attic bathrooms look perfect if you replace internal walls with glassbrick
 
 {% endfig %}
 
-## Making a small attic bathroom look bigger
+## Far sembrare più grande un piccolo bagno in soffitta
 
-Apart from the mentioned above method with the use of lighting, you can also **make the small attic bathroom visually bigger** by using certain design elements. The most popular trick involves using white color – on the floor, walls and furniture. Minimalism and **absolute white look** is a go-to design for anyone who doesn't know which style is the best for them. White can be matched with any accessory, making it easy to change the looks of the interior even several times a year.
+Oltre al metodo sopra menzionato con l'uso dell'illuminazione, si può anche rendere il piccolo bagno in soffitta visivamente più grande utilizzando alcuni elementi di design. Il trucco più popolare consiste nell'utilizzare il colore bianco - sul pavimento, sulle pareti e sui mobili. Il minimalismo e l'aspetto bianco assoluto è un design per tutti coloro che non sanno quale sia lo stile migliore per loro. Il bianco può essere abbinato a qualsiasi accessorio, rendendo facile cambiare l'aspetto degli interni anche più volte all'anno.
 
 {:.distinction.distinction-information}
 
-A small attic bathroom doesn't like massive, highly ornamental furniture with carvings. Choose plain fronts instead. You can also give up handles and pick modern tip-on doors, which open by pressing on them.
+Un piccolo bagno in soffitta non ama i mobili massicci e altamente ornamentali con intagli. Scegliete invece facciate semplici. Si può anche rinunciare alle maniglie e scegliere le moderne porte a ribalta, che si aprono premendoci sopra.
 
-## An attic bathroom with a bathtub? A great idea!
+## Un bagno in soffitta con vasca da bagno? Una grande idea!
 
-An attic bathroom is a perfect place for a bathtub. It is ideal for a sloped ceiling interior. If the amount of space allows for it, **you could choose a freestanding bathtub**, which is the best type for relaxation. If the small bathroom is too tiny for such a design, pick a small tub attached to the wall. An attic bathroom is becoming a popular design, so you shouldn't have any problems with finding the right accessories for it.
+Un bagno in mansarda è il posto perfetto per una vasca da bagno. È ideale per un interno con soffitto inclinato. Se la quantità di spazio lo consente, si può scegliere una vasca da bagno indipendente, che è il tipo migliore per il relax. Se il bagno piccolo è troppo piccolo per un tale design, scegliete una piccola vasca attaccata alla parete. Un bagno in soffitta sta diventando un design popolare, quindi non dovreste avere problemi a trovare gli accessori adatti.
 
 {:.distinction.distinction-warning}
 
-An attic bathroom with a shower stand is a more difficult solution, mostly due to the limited height and the slopes. Classic shower stalls are not suitable for an attic bathroom. If you have enough space – consider placing the shower in the center of the room. Such design, however, might be not very practical.
+Un bagno in mansarda con supporto per la doccia è una soluzione più difficile, soprattutto a causa dell'altezza limitata e delle pendenze. I classici box doccia non sono adatti per un bagno in mansarda. Se avete abbastanza spazio - considerate la possibilità di posizionare la doccia al centro della stanza. Tale design, tuttavia, potrebbe non essere molto pratico.
 
 {% fig %}
 
@@ -82,13 +81,13 @@ An attic bathroom with a shower stand is a more difficult solution, mostly due t
 
 {% endfig %}
 
-## Attic bathroom ideas – the most popular designs of 2020
+## Idee per il bagno in soffitta - i progetti più popolari del 2020
 
-The most important elements of a well-designed attic bathroom are the mentioned above: planning, lighting and suitable accessories. **Do not forget, however, about the current trends, which have been quite diverse in 2020.** They can help you find a perfect solution for your attic bathroom. What type of loft bathroom is the trendiest this year?
+Gli elementi più importanti di un bagno in soffitta ben progettato sono i già citati: progettazione, illuminazione e accessori adeguati. Non dimentichiamoci però delle tendenze attuali, che nel 2020 sono state piuttosto diverse. Possono aiutarvi a trovare la soluzione perfetta per il vostro bagno in mansarda. Quale tipo di bagno in mansarda è il più trendy quest'anno?
 
-### Wood and white – a classic attic bathroom
+### Legno e bianco - un classico bagno in soffitta
 
-White combined with wood is a perfect solution for a very cozy attic bathroom. If you decide to pick this style, consider using **wood-look ceramic tiles** and a **wooden top** for a **wash-stand**. A round mirror with a wooden frame hung on a thick rope is also an interesting idea. Such design can also use wooden shelves for cosmetics and a towel holder in a similar style.
+Il bianco combinato con il legno è una soluzione perfetta per un bagno molto accogliente in mansarda. Se decidete di scegliere questo stile, prendete in considerazione l'utilizzo di piastrelle in ceramica effetto legno e di un piano in legno per un lavabo. Anche uno specchio rotondo con cornice in legno appeso a una spessa corda è un'idea interessante. Un tale design può anche utilizzare mensole di legno per i cosmetici e un portasciugamani in uno stile simile.
 
 {% fig %}
 
@@ -102,13 +101,13 @@ White combined with wood is a perfect solution for a very cozy attic bathroom. I
 
 {% endfig %}
 
-### A modern attic bathroom – black accessories and green color
+### Un moderno bagno in soffitta - accessori neri e colore verde
 
-Attic bathrooms in a classic white color can be supplemented with **black accessories** **to break the monotony** and create a very modern looking interior. Are you wondering how to add dark accents to your interior? Details are what is best to focus on**: black lamp shades, fittings, mirror frame or washbasin pedestal.** To make your attic bathroom more homely – use plants, which are perfect for this type of design. The green color is a great blend for various shades.
+I bagni in soffitta in un classico colore bianco possono essere completati con accessori neri per rompere la monotonia e creare un interno dall'aspetto molto moderno. Vi state chiedendo come aggiungere accenti scuri ai vostri interni? I dettagli sono ciò su cui è meglio concentrarsi**: paralumi neri, accessori, cornice a specchio o piedistallo del lavabo.** Per rendere il vostro bagno in mansarda più accogliente - utilizzate piante, che sono perfette per questo tipo di design. Il colore verde è un'ottima miscela per varie tonalità.
 
 {:.distinction.distinction-information}
 
-Do you wish to have a modern looking interior but do not want to overdo the accessories? Choose white wall tiles with irregular shape. You can also pick tiles with uneven, three-dimensional structure. Those are small accents which can add a lot of character to your attic bathroom.
+Desiderate avere un interno dall'aspetto moderno ma non volete esagerare con gli accessori? Scegliete piastrelle bianche da rivestimento con forma irregolare. Potete anche scegliere piastrelle con struttura irregolare e tridimensionale. Sono piccoli accenti che possono aggiungere molto carattere al vostro bagno in soffitta.
 
 {% fig %}
 
@@ -122,8 +121,8 @@ Do you wish to have a modern looking interior but do not want to overdo the acce
 
 {% endfig %}
 
-### Black or navy blue attic bathroom design
+### Design per il bagno in soffitta nero o blu navy
 
-Elegant, dark colors are becoming more and more popular – therefore it's no wonder that they also appear in the context of an attic bathroom design. **Dark grey, steel blue or even black are the colors that are particularly popular for home interiors in 2020.** In an attic bathroom, though, they need a very good, well-thought design. They look perfect with a big mirror wall, for instance. In most cases, dark-colored attic bathrooms are prepared by professional interior designers. By hiring a specialist, you can be completely sure that the outcome will be satifying.
+I colori eleganti e scuri stanno diventando sempre più popolari - quindi non c'è da stupirsi che compaiano anche nel contesto di un design per il bagno in soffitta. Grigio scuro, blu acciaio o addirittura nero sono i colori che nel 2020 saranno particolarmente apprezzati per gli interni della casa. In un bagno in soffitta, però, hanno bisogno di un design molto buono e ben pensato. Sono perfetti con una grande parete a specchio, per esempio. Nella maggior parte dei casi, i bagni in mansarda di colore scuro sono preparati da interior designer professionisti. Assumendo uno specialista, si può essere completamente sicuri che il risultato sarà saziante.
 
-Before you start designing your attic bathroom, think about what you expect from the interior. Check your possibilities and get inspired with modern trends that are used by others. This way you can easily create a perfect space which will suit all your needs.
+Prima di iniziare a progettare il vostro bagno in mansarda, pensate a cosa vi aspettate dall'interno. Verificate le vostre possibilità e lasciatevi ispirare dalle tendenze moderne che vengono utilizzate da altri. In questo modo potrete creare facilmente uno spazio perfetto che soddisferà tutte le vostre esigenze.
