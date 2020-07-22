@@ -3,16 +3,18 @@ layout: post
 date: 2020-07-21
 toc: true
 title: Une chaise suspendue est-elle une bonne idée ? Types de chaises suspendues
-description: Hanging chair is a popular piece of furniture. It fits almost any interior
-  design. This comfortable element is appreciated both by children and adults.
+description: La chaise suspendue est un meuble populaire. Il s'adapte à presque tous
+  les types de décoration intérieure. Cet élément confortable est apprécié tant par
+  les enfants que par les adultes.
 image: "/uploads/fotel-wiszacy.jpg"
 promoted: false
 update_date: 2020-07-21
-intro: Hanging chair is a comfortable piece of furniture that can be found in many
-  apartments. It is mostly associated with a teenager’s or children’s room, however
-  it is also appreciated among adults. It’s not surprising - rocking movement can
-  quickly relax the whole body. Hanging chair is also a highly aesthetic element.
-  Is it suitable for every type of interior design?
+intro: Le fauteuil suspendu est un meuble confortable que l'on trouve dans de nombreux
+  appartements. Elle est le plus souvent associée à une chambre d'adolescent ou d'enfant,
+  mais elle est également appréciée des adultes. Ce n'est pas surprenant - le mouvement
+  de balancement peut rapidement détendre tout le corps. Le fauteuil suspendu est
+  également un élément très esthétique. Convient-elle à tous les types d'aménagement
+  intérieur ?
 main_keywords:
 - fauteuil suspendu
 - chaise à œufs suspendus
@@ -22,83 +24,82 @@ main_keywords:
 - comment fabriquer un fauteuil suspendu
 - comment accrocher un fauteuil suspendu
 - comment installer un fauteuil suspendu
-published: false
 
 ---
-## Hanging chair - comfort in your home
+## Chaise suspendue - le confort dans votre maison
 
-First hanging chairs were constructed in the 60s. The most popular model from that period is the famous **Bubble Chair**, designed in 1968 by a Finnish creator. The seat is perfectly round and made of transparent material. The chair is hung from the ceiling on a metal chain, so that it resembles a floating bubble.
+Les premiers fauteuils suspendus ont été construits dans les années 60. Le modèle le plus populaire de cette période est le célèbre Bubble Chair, conçu en 1968 par un créateur finlandais. Le siège est parfaitement rond et fabriqué dans un matériau transparent. La chaise est suspendue au plafond par une chaîne métallique, de sorte qu'elle ressemble à une bulle flottante.
 
-Hanging chairs are more popular than ever, with a lot of different shapes and materials. They have many advantages. **Gentle rocking** is a great way to relax. It scientifically proven that rocking motion relaxes muscles, helps to fall asleep and stimulates deep sleep. Hanging chairs are very comfortable and they are equipped with soft cushions and mattresses. An evening spent in such a chair with a book or a cup of tea is an ideal way to relax after a long, stressful day.
+Les chaises suspendues sont plus populaires que jamais, avec beaucoup de formes et de matériaux différents. Elles présentent de nombreux avantages. Se balancer doucement est un excellent moyen de se détendre. Il est scientifiquement prouvé que le mouvement de bercement détend les muscles, aide à s'endormir et stimule le sommeil profond. Les fauteuils suspendus sont très confortables et ils sont équipés de coussins et de matelas souples. Une soirée passée dans un tel fauteuil avec un livre ou une tasse de thé est un moyen idéal de se détendre après une longue journée stressante.
 
-Hanging chair is a perfect decoration element for any type of interior design. This type of furniture can be characterised by a wide variety of shapes. Colour and material can be suited to an interior design - the choice is wide. A hanging chair is a perfect element for rooms in scandinavian and minimalist style.
+Le fauteuil suspendu est un élément de décoration parfait pour tout type d'aménagement intérieur. Ce type de mobilier peut se caractériser par une grande variété de formes. La couleur et le matériau peuvent être adaptés à un aménagement intérieur - le choix est vaste. Un fauteuil suspendu est un élément parfait pour les pièces de style scandinave et minimaliste.
 
-## What is the best hanging chair?
+## Quel est le meilleur fauteuil suspendu ?
 
-There are many types of **hanging chairs**. Designers constantly create new forms. As a result one can fit the hanging chair style to the interior design at their place. You can choose from simple and minimalistic, as well as ornamental and decorative shapes.
+Il existe de nombreux types de suspensions. Les designers créent constamment de nouvelles formes. Il est donc possible d'adapter le style du fauteuil suspendu à la décoration intérieure de l'endroit où il se trouve. Vous pouvez choisir entre des formes simples et minimalistes, ainsi que des formes ornementales et décoratives.
 
-### Choosing a hanging chair - types
+### Choisir un fauteuil suspendu - types
 
-The main difference between furniture of this type is in appearance and construction. Not every hanging chair is suitable for every room. When choosing the right object, consider your own needs and the purpose of the chair. Most furniture shops offer products such as:
+La principale différence entre les meubles de ce type réside dans l'apparence et la construction. Tous les fauteuils suspendus ne conviennent pas à toutes les pièces. Pour choisir le bon objet, tenez compte de vos propres besoins et de la fonction du fauteuil. La plupart des magasins de meubles proposent des produits tels que :
 
 {:.list.list-positive}
 
-* **Ceiling hanging chair** - it is the most appealing type. The seat hangs on a rope attached to a hook fixed to a ceiling. This type allows full range of movement for a user. There are wider and narrower models, you can choose the one that fits your particular needs.
-* **Hanging chair with stand** - this type is more mobile. The seat hangs from a stand placed on the floor. It is much smaller than the version attached to a ceiling. It is a big advantage in places of limited space. A hanging chair of this type offers a smaller range of movement. The mobility allows to put it on a balcony or in summer - on a patio.
-* **Brazilian hammock chair** - it’s a type of hammock. Its advantage is the fact that it perfectly fits any body shape. It is also much cheaper than the previous models. The hanging chair of this type might be removed if needed. It can be easily stored in a wardrobe, not taking too much space.
+* Le fauteuil suspendu au plafond - c'est le type le plus attrayant. Le siège est suspendu à une corde attachée à un crochet fixé au plafond. Ce type permet à l'utilisateur de disposer d'une gamme complète de mouvements. Il existe des modèles plus larges et plus étroits, vous pouvez choisir celui qui répond à vos besoins particuliers.
+* Chaise suspendue avec support - ce type est plus mobile. Le siège est suspendu à un support placé sur le sol. Il est beaucoup plus petit que la version fixée au plafond. C'est un grand avantage dans les endroits où l'espace est limité. Ce type de chaise suspendue offre une plus petite amplitude de mouvement. La mobilité permet de la placer sur un balcon ou en été - sur une terrasse.
+* Chaise hamac brésilienne - c'est un type de hamac. Son avantage est qu'il s'adapte parfaitement à toutes les formes de corps. Il est également beaucoup moins cher que les modèles précédents. Le fauteuil suspendu de ce type peut être enlevé si nécessaire. Il peut être facilement rangé dans une armoire, sans prendre trop de place.
 
 {:.distinction.distinction-information}
-If you decided to buy a hanging chair, pay attention to its shape. There are many designs available. Some are completely round, similar to the Bubble Chair. The most commonly chosen type is hanging egg chair with elongated back rest. There are also two-person versions, with wide seats. Make sure consider the amount of space you can dedicate for this piece of furniture.
+Si vous avez décidé d'acheter un fauteuil suspendu, faites attention à sa forme. Il existe de nombreux modèles. Certains sont complètement ronds, comme la chaise Bubble. Le type le plus couramment choisi est le fauteuil suspendu "Oeuf" avec un dossier allongé. Il existe également des versions pour deux personnes, avec des sièges larges. Assurez-vous de tenir compte de l'espace que vous pouvez consacrer à ce meuble.
 
 {% fig %}
 ![Choosing a hanging chair - types](/uploads/fotel-wiszacy-do-pokoju.jpg "Choosing a hanging chair - types")
 {% endfig %}
 
-### Hanging chair materials
+### Matériaux pour les chaises suspendues
 
-The shape is not the only criterion that you should pay attention to. A **hanging chair** might be made of various materials. The original Bubble Chair is made of acrylic, stainless steel frame and leather cushion. The most commonly used materials are:
+La forme n'est pas le seul critère auquel vous devez prêter attention. Un fauteuil suspendu peut être fait de différents matériaux. Le fauteuil Bubble Chair original est fait d'acrylique, d'un cadre en acier inoxydable et d'un coussin en cuir. Les matériaux les plus couramment utilisés sont :
 
 {:.list.list-positive}
 
-* **Rattan** - rattan constructions are very decorative. It’s a **durable and eco-friendly** material, although it is not resistant to water. For this reason weaved furniture should not be placed outside. You can coat the pieces with varnish.
-* **Technorattan** - a technorattan hanging chair is as decorative as natural rattan furniture. Its main advantage is **durability and resistance** to weather conditions.
-* **Wood** - material of this type is heavier than the others. It is perfect for those who value natural materials.
-* **Plastic** - plastic hanging chairs have the widest variety of designs. Plastic is lightweight and **relatively durable**. One should be careful not to scratch it, as any mark is very noticeable and hard to remove. Hanging chair made of plastic is easy to clean.
-* **Fabric** - fabric is most commonly used for hammocks production. They are **lightweight, breathable** and easy to fold. The most popular fabrics are cotton and linen. There is also a similar solution - a hanging chair made of twine.
-* **Metal** - a metal hanging chair i made of a durable net. The most common metal used for this purpose is aluminium.
+* Rotin - les constructions en rotin sont très décoratives. C'est un matériau durable et écologique, bien qu'il ne soit pas résistant à l'eau. C'est pourquoi les meubles tissés ne doivent pas être placés à l'extérieur. Vous pouvez enduire les pièces de vernis.
+* Technorattan - un fauteuil suspendu en technorattan est aussi décoratif qu'un meuble en rotin naturel. Son principal avantage est la durabilité et la résistance aux conditions climatiques.
+* Bois - ce type de matériau est plus lourd que les autres. Il est parfait pour ceux qui apprécient les matériaux naturels.
+* Plastique - les suspensions en plastique présentent la plus grande variété de modèles. Le plastique est léger et relativement durable. Il faut faire attention à ne pas le rayer, car toute marque est très visible et difficile à enlever. Le fauteuil suspendu en plastique est facile à nettoyer.
+* Tissu - le tissu est le plus souvent utilisé pour la fabrication des hamacs. Ils sont légers, respirants et faciles à plier. Les tissus les plus populaires sont le coton et le lin. Il existe également une solution similaire : un fauteuil suspendu en ficelle.
+* Métal - une chaise suspendue en métal faite d'un filet durable. Le métal le plus couramment utilisé à cette fin est l'aluminium.
 
-The choice of material depends on the purpose of your hanging chair. If you are going to place the object outside, choose a material that is resistant to weather conditions. You should also consider the general design of your room. The popular scandinavian style uses wood, fabric and **weaved hanging chairs**. Natural rattan chairs are good elements for rustic style. Contemporary and minimalist style can be perfectly complemented with plastic or metal hanging chair with a simple, geometric shape.
+Le choix du matériau dépend de la fonction de votre fauteuil suspendu. Si vous allez placer l'objet à l'extérieur, choisissez un matériau résistant aux conditions climatiques. Vous devez également tenir compte de la conception générale de votre pièce. Le style scandinave populaire utilise le bois, le tissu et les suspensions tissées. Les chaises en rotin naturel sont de bons éléments pour le style rustique. Le style contemporain et minimaliste peut être parfaitement complété par des suspensions en plastique ou en métal de forme géométrique simple.
 
-## Where to place a hanging chair?
+## Où placer un fauteuil suspendu ?
 
-If you decided to purchase a hanging chair, make sure that you have enough space in the house. If it’s a ceiling hanging chair, position it in a spacious room so that the **movements are not blocked**. The chair should be placed far from the windows and other objects. If it’s too close, there is a risk of breaking the window when swinging on the chair. You could also accidentally hit the sharp edges of furniture.
+Si vous avez décidé d'acheter un fauteuil suspendu, assurez-vous que vous disposez de suffisamment d'espace dans la maison. S'il s'agit d'un fauteuil suspendu au plafond, placez-le dans une pièce spacieuse afin de ne pas bloquer les mouvements. Le fauteuil doit être placé loin des fenêtres et des autres objets. S'il est trop près, il y a un risque de casser la fenêtre en se balançant sur le fauteuil. Vous pourriez également heurter accidentellement les bords tranchants des meubles.
 
-A hanging chair with stand takes significantly less space. Because of its construction the movements are limited, therefore there is no risk of damaging the furniture. You can place it **closer to the walls** and furniture. A big advantage is the fact that it can be moved at any time.
+Une chaise suspendue avec support prend beaucoup moins de place. En raison de sa construction, les mouvements sont limités, il n'y a donc aucun risque d'endommager le mobilier. Vous pouvez la placer plus près des murs et des meubles. Un grand avantage est le fait qu'il peut être déplacé à tout moment.
 
 {:.distinction.distinction-warning}
-If you are planning to place a hanging chair in a children's room, pay special attention to safety. The best location for an object of this type is the middle of the room. Place the seat relatively low over the floor.
+Si vous envisagez de placer un fauteuil suspendu dans une chambre d'enfant, portez une attention particulière à la sécurité. Le meilleur emplacement pour un objet de ce type est le milieu de la pièce. Placez le siège relativement bas sur le sol.
 
 {% fig %}
 ![Where to place a hanging chair?](/uploads/gdzie-umiescic-fotel-wiszacy.jpg "Where to place a hanging chair?")
 {% endfig %}
 
-## How to attach a hanging chair?
+## Comment attacher un fauteuil suspendu ?
 
-A hanging chair with stand does not to be installed in any special way - just put it wherever you want. If it’s a ceiling hanging chair, make sure to install it properly. It needs to be done carefully, otherwise the construction might collapse.
+Un fauteuil suspendu avec support ne doit pas être installé d'une manière particulière - il suffit de le mettre où vous voulez. S'il s'agit d'une chaise suspendue au plafond, veillez à l'installer correctement. Il faut le faire avec soin, sinon la construction risque de s'effondrer.
 
 {:.distinction.distinction-warning}
-Be careful if your ceiling is very old or in poor condition. Before buying a hanging chair, **check the ceiling** to make sure that it can hold such weight. It is a good idea to ask a specialist to assess the situation. In some cases it might be safer to choose a hanging chair with stand.
+Faites attention si votre plafond est très vieux ou en mauvais état. Avant d'acheter un fauteuil suspendu, vérifiez le plafond pour vous assurer qu'il peut supporter un tel poids. Il est bon de demander à un spécialiste d'évaluer la situation. Dans certains cas, il peut être plus sûr de choisir une chaise suspendue avec pied.
 
-To attach the chair to the ceiling, you need to prepare a few accessories. Make sure you have chemical anchor, an eye screw or a wall plug and a snap ring. You will also need a drill, a hammer, an adjustable spanner and a screwdriver.
+Pour fixer le fauteuil au plafond, vous devez préparer quelques accessoires. Assurez-vous d'avoir un ancrage chimique, une vis à œil ou une cheville murale et un circlip. Vous aurez également besoin d'une perceuse, d'un marteau, d'une clé à molette et d'un tournevis.
 
-After figuring out where you want the chair to be placed, use a pencil to mark the spot for drilling. The hole should be drilled **at an angle of 30 degrees**. If you hit a reinforcing bar, move the spot by a couple of centimetres. Widen the drilled hole using a larger bit and vacuum it. Squeeze the chemical anchor into it and insert the eye screw or wall plug into it. Screw it tightly. The next step is hanging snap rings and chain.
+Après avoir déterminé l'endroit où vous voulez placer la chaise, utilisez un crayon pour marquer l'endroit à percer. Le trou doit être percé à un angle de 30 degrés. Si vous heurtez une barre de renforcement, déplacez l'endroit de quelques centimètres. Élargissez le trou percé à l'aide d'une mèche plus large et aspirez. Serrez l'ancrage chimique et insérez la vis à œil ou la cheville murale dans le trou. Vissez-le bien. L'étape suivante consiste à accrocher les anneaux et la chaîne.
 
 {:.distinction.distinction-information}
-**You must test the durability of the construction.** To do it, take the chain in both of your hands and hang on it for a while, ideally with another person. The structure should hold weight of two people. After the test, tighten the plug. If everything is fine, you can install the seat.
+Vous devez tester la durabilité de la construction. Pour ce faire, prenez la chaîne dans vos deux mains et accrochez-la un moment, idéalement avec une autre personne. La structure doit pouvoir supporter le poids de deux personnes. Après le test, resserrez le bouchon. Si tout va bien, vous pouvez installer le siège.
 
-A hanging chair is a great addition to any house. It’s a modern interior design element which will impress your guests. There are many colours and designs to choose from. Such a piece of furniture placed in a bedroom or living room is a great way to relax. A hanging chair will surely fit any interior.
+Une chaise suspendue est un excellent complément à toute maison. C'est un élément de décoration intérieure moderne qui impressionnera vos invités. Vous pouvez choisir parmi de nombreux coloris et motifs. Un tel meuble placé dans une chambre ou un salon est un excellent moyen de se détendre. Un fauteuil suspendu s'adaptera certainement à n'importe quel intérieur.
 
-## Langing chair - FAQ
+## Chaise longue - FAQ
 
 {% faqItem %}
 {% faqQuestion %}
@@ -106,26 +107,26 @@ How to make a hanging chair?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Brazilian hammock chair is a relatively easy hanging chair to make. All you need is a sturdy piece of cloth, strong rope, a broomstick and hanging elements. Attach the rope to the cloth and to the stick, and then to the chain and hook. You can find a detailed tutorial on the Internet.
+La chaise hamac brésilienne est une chaise suspendue relativement facile à fabriquer. Tout ce dont vous avez besoin est un morceau de tissu solide, une corde solide, un manche à balai et des éléments de suspension. Attachez la corde au tissu et au bâton, puis à la chaîne et au crochet. Vous trouverez un tutoriel détaillé sur l'internet.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to hang a hanging chair?
+Comment accrocher un fauteuil suspendu ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-If you want to attach a hanging chair to the ceiling, test the ceiling first. If it is safe, drill a hole in a desired place and use chemical anchor to attach an eye screw or wall plug to the ceiling. Attach the rest of the elements and test the construction - if it can hold two people, attach the hanging chair.
+Si vous souhaitez fixer un fauteuil suspendu au plafond, testez d'abord le plafond. Si cela ne présente aucun danger, percez un trou à l'endroit voulu et utilisez un ancrage chimique pour fixer une vis à œil ou une cheville au plafond. Fixez le reste des éléments et testez la construction - si elle peut accueillir deux personnes, fixez le fauteuil suspendu.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to install a hanging chair?
+Comment installer un fauteuil suspendu ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-There are two ways to install a hanging chair, depending on its type. The first one requires minimal effort - the chair just needs to be hung on its stand. The other type needs to be hung from the ceiling.
+Il y a deux façons d'installer un fauteuil suspendu, selon son type. La première nécessite un effort minimal - il suffit de suspendre le fauteuil sur son support. L'autre doit être suspendue au plafond.
 {% endfaqAnswer %}
 {% endfaqItem %}
