@@ -20,152 +20,154 @@ toc: true
 promoted: false
 update_date: 2020-07-19
 title: Apprenez pourquoi vous devriez planter un cornouiller dans votre jardin
-description: "Dogwood tree has many useful properties. \U0001F33F Why is it beneficial
-  to have it in your garden?  ➡️ Learn how to use a dogwood tree in your kitchen!"
-intro: Dogwood has many useful qualities. This unusual ornamental plant not only looks
-  fantastic in your garden but might also contribute to improving your health. Certain
-  species of dogwood bear quite a tasty fruit of beneficial properties. Learn why
-  you should consider planting a dogwood tree in your garden and how to use it in
-  the kitchen.
+description: "Le cornouiller a de nombreuses propriétés utiles. \U0001F33F Pourquoi
+  est-il bénéfique de l'avoir dans votre jardin ?  ➡️ Apprenez à utiliser un cornouiller
+  dans votre cuisine !"
+intro: Le cornouiller a de nombreuses qualités utiles. Cette plante ornementale inhabituelle
+  n'est pas seulement magnifique dans votre jardin, mais elle peut aussi contribuer
+  à améliorer votre santé. Certaines espèces de cornouiller portent un fruit assez
+  savoureux aux propriétés bénéfiques. Découvrez pourquoi vous devriez envisager de
+  planter un cornouiller dans votre jardin et comment l'utiliser dans la cuisine.
 image: "/uploads/dlaczeg-warto-sadzic-deren-jadalny-w-ogrodzie.jpg"
 related_products: []
-published: false
 
 ---
-## What is a dogwood tree?
+## Qu'est-ce qu'un cornouiller ?
 
-Dogwood is a name of over 40 species of plants belonging to _Cornus_ family. One of the popular types (esp. in central and southern Europe) of this plant is called cornelian cherry (**_Cornus mas L._**_),_ a tree that can reach even 10 meters of height. It is mostly cultivated in Europe and Asia. Certain species of dogwood can be planted in gardens, others grow only in woods. _Cornus mas_ is valued for its **sweet-and-sour fruit,** rich in polyphenols and **vitamin C**. Bark of dogwood trees has anti-septic qualities.
+Le cornouiller est le nom de plus de 40 espèces de plantes appartenant à la famille des Cornus. Un des types les plus populaires (surtout en Europe centrale et méridionale) de cette plante est appelé cerisier de Cornouailles (Cornus mas L.), un arbre qui peut atteindre même 10 mètres de hauteur. Il est surtout cultivé en Europe et en Asie. Certaines espèces de cornouiller peuvent être plantées dans les jardins, d'autres ne poussent que dans les bois. Le Cornus mas est apprécié pour son fruit aigre-doux, riche en polyphénols et en vitamine C. L'écorce du cornouiller a des qualités antiseptiques.
 
-What makes cornelian cherry different from other species, is the fact that it is easy to grow, and it has **many uses**. Cornelian cherry dogwood is not only a beautiful ornamental tree, but it is also beneficial for human health. What's more, it's a plant of little requirements – therefore it's perfect for anyone too busy to take care of their garden.
+Ce qui différencie le cornouiller des autres espèces, c'est qu'il est facile à cultiver et qu'il a de nombreuses utilisations. Le cornouiller du cerisier de Cornouailles est non seulement un bel arbre d'ornement, mais il est également bénéfique pour la santé humaine. De plus, c'est une plante qui a peu d'exigences - c'est donc parfait pour toute personne trop occupée pour s'occuper de son jardin.
 
 {% fig %}
 ![What is a dogwood tree?](/uploads/deren-jadalny-w-ogrodzie.jpg "What is a dogwood tree?")
 {% endfig %}
 
-## What types of dogwood trees are best to grow in the garden?
+## Quels sont les meilleurs types de cornouillers à faire pousser dans le jardin ?
 
-As already mentioned, **cornelian cherry**, also known by its scientific name as _Cornus mas_ is a popular species, commonly grown in gardens in south and central Europe, as well as in western Asia. The plant owes its popularity to its many qualities, that can be used in the garden and beyond. A characteristic feature of a cornelian cherry dogwood are its **small, red, round-shaped fruits.** Their red shade can enliven the garden in summer and in winter.
+Comme nous l'avons déjà mentionné, le cornouiller, également connu sous son nom scientifique de Cornus mas, est une espèce populaire, couramment cultivée dans les jardins du sud et du centre de l'Europe, ainsi qu'en Asie occidentale. La plante doit sa popularité à ses nombreuses qualités, qui peuvent être utilisées dans le jardin et au-delà. Un trait caractéristique du cornouiller cornélien est ses petits fruits rouges de forme ronde. Leur teinte rouge peut animer le jardin en été comme en hiver.
 
 {% fig %}
 ![What types of dogwood trees are best to grow in the garden?](/uploads/deren-jadalny-gatunki.jpg "What types of dogwood trees are best to grow in the garden?")
 {% endfig %}
 
-There are many types of dogwood trees, including also ornamental plants which might be beautiful decorations in a garden. The most popular and interesting species are **Siberian dogwood** (**_Cornus alba_**) – which can grow up to 3 meters tall, **Japanese dogwood** (kousa dogwood) with its original shape, or very tall **Himalayan flowering dogwood**, resistant to low temperatures and difficult conditions.
+Il existe de nombreux types de cornouillers, y compris des plantes ornementales qui peuvent être de belles décorations dans un jardin. Les espèces les plus populaires et les plus intéressantes sont le cornouiller de Sibérie (Cornus alba) - qui peut atteindre 3 mètres de haut, le cornouiller du Japon (kousa dogwood) avec sa forme originale, ou le cornouiller de l'Himalaya à fleurs très hautes, résistant aux basses températures et aux conditions difficiles.
 
 {% fig %}
 ![Dogwood tree – flowers](/uploads/deren-bialy.jpg "Dogwood tree – flowers")
 {% endfig %}
 
-## How to plant a cornelian cherry dogwood tree?
+## Comment planter un cornouiller à cerisier cornaline ?
 
-If you're wondering how to plant a dogwood tree in your garden, just buy a seedling in a garden shop. Before planting it, make sure to **trim all shoots growing right above the ground** and any roots that are too long – by 1/3 of their length. A dogwood tree typically reaches up to 6-8 meters of height, forming either a tree or a large bush. For this reason you should **provide the plant enough space for growing**.
+Si vous vous demandez comment planter un cornouiller dans votre jardin, il vous suffit d'acheter un plant dans un magasin de jardinage. Avant de le planter, assurez-vous de couper toutes les pousses qui poussent juste au-dessus du sol et les racines qui sont trop longues - d'un tiers de leur longueur. Un cornouiller atteint généralement une hauteur de 6 à 8 mètres, formant soit un arbre soit un grand buisson. C'est pourquoi vous devez laisser à la plante suffisamment d'espace pour pousser.
 
 {% fig %}
 ![How to plant a cornelian cherry dogwood tree?](/uploads/kwitnacy-deren-jadalny-w-ogrodzie.jpg "How to plant a cornelian cherry dogwood tree?")
 {% endfig %}
 
 {:.distinction.distinction-information}
-Wondering how fast do dogwood trees grow? The growth rate is quite slow during the first 2 years. The first results become noticeable approximately 3 years after planting the seedling.
+Vous vous demandez à quelle vitesse poussent les cornouillers ? Le taux de croissance est assez lent pendant les deux premières années. Les premiers résultats sont visibles environ 3 ans après la plantation du semis.
 
-## Cornelian cherry tree – how to take care for it?
+## Le cerisier de Cornouailles - comment en prendre soin ?
 
-_Cornus mas_ is quite easy to cultivate. Nevertheless, you should **follow certain rules** to allow the tree for a proper growth and make it a real decoration in your garden.
+Le Cornus mas est assez facile à cultiver. Néanmoins, vous devez suivre certaines règles pour permettre à l'arbre de bien pousser et en faire une véritable décoration dans votre jardin.
 
-Two of the major issues are the **placement of the dogwood tree** and its growth in **the right type of soil**. A dogwood tree should grow either in full sun or in half shade. The best type of soil for this type of plant is calcareous or slightly acidic and damp ground. A **cornelian cherry doesn't tolerate standing water**. For this reason avoid planting it in impermeable grounds.
+Deux des principales questions sont le placement du cornouiller et sa croissance dans le bon type de sol. Un cornouiller doit pousser soit en plein soleil, soit à mi-ombre. Le meilleur type de sol pour ce type de plante est un sol calcaire ou légèrement acide et humide. Un cerisier de Cornouailles ne tolère pas l'eau stagnante. C'est pourquoi il faut éviter de le planter dans des sols imperméables.
 
-If you want a cornelian cherry to grow well and healthily, take a good care of it. Two most important aspects of it are regular **watering and fertilizing**. Although a dogwood tree is quite resistant to droughts, they influence fruition process. Make sure to water the plant regularly and provide all the nutrients it needs. The plant is not very demanding. All you have to do is **fertilize the dogwood tree once a year at the beginning of spring**, for the proper growth and nourishment.
+Si vous voulez qu'une cerise de Cornouailles pousse bien et en bonne santé, prenez-en bien soin. Les deux aspects les plus importants sont l'arrosage régulier et la fertilisation. Bien qu'un cornouiller soit assez résistant aux sécheresses, celles-ci influencent le processus de fructification. Veillez à arroser la plante régulièrement et à lui fournir tous les éléments nutritifs dont elle a besoin. La plante n'est pas très exigeante. Il suffit de fertiliser le cornouiller une fois par an, au début du printemps, pour qu'il croisse et se nourrisse correctement.
 
 {:.distinction.distinction-warning}
-A cornelian cherry does not need trimming. Any mechanical damage of the plant negatively affects its fruition.
+Une cerise de cornaline n'a pas besoin d'être taillée. Tout dommage mécanique de la plante affecte négativement sa fructification.
 
-## How to use cornus mas in the kitchen? Cornelian cherry fruit properties
+## Comment utiliser le cornus mas dans la cuisine ? Propriétés du fruit de la cerise cornélienne
 
-A dogwood tree is not only a **magnificent decoration** in your garden. Its edible species might become real celebrities of every kitchen. Learn several practical uses of a cornelian cherry fruit.
+Un cornouiller n'est pas seulement une magnifique décoration dans votre jardin. Ses espèces comestibles pourraient devenir de véritables célébrités dans toutes les cuisines. Apprenez plusieurs utilisations pratiques d'un cerisier cornaline.
 
-### What are the benefits of cornelian cherry fruits?
+### Quels sont les avantages des fruits de la cornaline ?
 
-Cornelian cherry fruits are a good source of many vitamins and minerals, therefore they have **health-promoting**, or even healing properties. Eating cornelian cherry fruits influences:
+Les fruits de la cornaline sont une bonne source de nombreuses vitamines et minéraux, et ont donc des propriétés bénéfiques pour la santé, voire curatives. La consommation de fruits de la cornaline a une influence sur la santé :
 
 {:.list}
-* **Immunity** – a dogwood tree contains **high doses of the vitamin C,** which can be found in the fruit. For this reason it can be used as a natural **remedy for infections and common cold**.
-* **Cancer prevention** – because cornelian cherry fruits are the source of flavonoids which combat toxins in the organism, they might be used as a cancer prevention tool. Cornelian cherry fruits are great for **reducing oxidative stress**.
+
+* Immunité - un cornouiller contient de fortes doses de vitamine C, que l'on trouve dans son fruit. C'est pourquoi il peut être utilisé comme un remède naturel contre les infections et le rhume.
+* Prévention du cancer - comme les fruits du cornouiller sont la source de flavonoïdes qui combattent les toxines dans l'organisme, ils pourraient être utilisés comme outil de prévention du cancer. Les fruits de la cornaline sont excellents pour réduire le stress oxydatif.
 
 {% fig %}
 ![What are the benefits of cornelian cherry fruits?](/uploads/deren-jadalny-owoce.jpg "What are the benefits of cornelian cherry fruits?")
 {% endfig %}
 
 {:.list}
-* **Stomach issues** – a dogwood tree is also a perfect natural remedy for diarrheas and gripes. It is caused by the high content of tannins in the fruit, substances of **binding properties**. However, if you suffer from stomach ulcer, you should avoid eating the fruits.
-* **Urinary tract conditions** – cornelian cherry fruit in liquid form (e.g. as juice) has diuretic properties. Moreover, the vitamin C contained within is an **anti-inflammatory agent**. For this reason you may drink cornelian cherry fruit juice or tea as a remedy for bladder problems.
-* **Anaemia** – due to high levels of iron, cornelian cherry fruit is a good preventive agent against anaemia. It's also good for treating eating disorders caused by anaemia.
 
-### Cornelian cherry liqueur for cold... and more!
+* Problèmes d'estomac - le cornouiller est également un remède naturel parfait contre les diarrhées et les grimaces. Il est dû à la forte teneur en tanins des fruits, substances aux propriétés liantes. Cependant, si vous souffrez d'un ulcère d'estomac, vous devez éviter de manger les fruits.
+* Affections des voies urinaires - la cerise cornaline sous forme liquide (par exemple sous forme de jus) a des propriétés diurétiques. De plus, la vitamine C qu'elle contient est un agent anti-inflammatoire. C'est pourquoi vous pouvez boire du jus de cerise ou du thé comme remède aux problèmes de vessie.
+* Anémie - en raison de sa teneur élevée en fer, la cornaline est un bon agent de prévention de l'anémie. Il est également bon pour traiter les troubles alimentaires causés par l'anémie.
 
-A cornelian cherry liqueur is a natural remedy for common cold due to the high content of vitamin C in the fruits. **The liqueur treats infections that cause fever.** Nevertheless, you should be cautious with this form of treatment and learn all about it – before you even decide to prepare the drink.
+### La liqueur de cerise de Cornaline pour le froid... et plus encore !
+
+La liqueur de cerises à la cornaline est un remède naturel contre le rhume grâce à la teneur élevée en vitamine C des fruits. La liqueur traite les infections qui provoquent de la fièvre. Néanmoins, vous devez être prudent avec cette forme de traitement et tout savoir à ce sujet - avant même de décider de préparer la boisson.
 
 {:.distinction.distinction-information}
 
-The liqueur's value lies not only in its health benefits, but also in the taste. You can consume it either as is, or as an addition to other drinks. It tastes very good with tea.
+La valeur de la liqueur réside non seulement dans ses bienfaits pour la santé, mais aussi dans son goût. Vous pouvez la consommer soit telle quelle, soit en complément d'autres boissons. Elle a un très bon goût avec le thé.
 
-To prepare a cornelian cherry liqueur, mix one kilogram of fruits with 5 tablespoons of dried blueberries and pour a lot of spirit. Place the jar with the liqueur in a warm spot and shake it every 2-3 days. After 5 weeks separate the spirit from the fruits and put it into the fridge. Then pour sugar over the fruits and wait until it dissolves completely.
+Pour préparer une liqueur de cerise à la cornaline, mélangez un kilogramme de fruits avec 5 cuillères à soupe de myrtilles séchées et versez beaucoup d'alcool. Placez le bocal avec la liqueur dans un endroit chaud et secouez-le tous les 2 ou 3 jours. Au bout de 5 semaines, séparez l'alcool des fruits et mettez-le au réfrigérateur. Versez ensuite du sucre sur les fruits et attendez qu'il se dissolve complètement.
 
 {% fig %}
 ![Cornelian cherry liqueur for cold... and more!](/uploads/nalewka-z-derenia.jpg "Cornelian cherry liqueur for cold... and more!")
 {% endfig %}
 
-Mix the syrup from sugar and fruits with the spirit, which will begin the clarification process. The last step is filtering the cornelian cherry liqueur by pouring it through a piece of fabric (e.g. a gauze). You can store the liqueur in a cold place even for several years. Remember that such homemade liqueur is for personal use only.
+Mélangez le sirop de sucre et de fruits avec l'alcool, ce qui amorcera le processus de clarification. La dernière étape consiste à filtrer la liqueur de cerise à la cornaline en la versant à travers un morceau de tissu (par exemple une gaze). Vous pouvez conserver la liqueur dans un endroit froid, même pendant plusieurs années. N'oubliez pas que cette liqueur artisanale est réservée à un usage personnel.
 
-### How to make tasty cornelian cherry preserves?
+### Comment faire de savoureuses conserves de cerises à la cornaline ?
 
-**Cornelian cherry jam** is a perfect bread spread and dessert topping. It has a delicious sweet-and-sour taste that adds a character to meals. What's more, its **rich** **nutritional values** make the cornelian cherry jam not only a tasty but also a healthy food.
+La confiture de cerises à la cornaline est une parfaite garniture pour le pain et les desserts. Elle a un délicieux goût aigre-doux qui donne du caractère aux repas. De plus, ses riches valeurs nutritionnelles font de la confiture de cerises à la cornaline non seulement un aliment savoureux mais aussi un aliment sain.
 
 {:.distinction.distinction-warning}
-Cornelian cherry reserves as well as fresh fruits are harmful for anyone suffering from stomach ulcer.
+Les réserves de cerises de Cornaline ainsi que les fruits frais sont nocifs pour toute personne souffrant d'un ulcère d'estomac.
 
-To prepare **cornelian cherry jam**, first rinse, peel and pit the fruits. Then prepare a syrup by boiling water and sugar in the proportion 0.5 liter of water and 2 kilograms of sugar. Pour the fruits into the syrup and leave them to soak for 24 hours. Then bring them to boil using medium heat. Pour the hot cornelian cherry jam into jars and close them tightly.
+Pour préparer la confiture de cerises à la cornaline, il faut d'abord rincer, peler et dénoyauter les fruits. Préparez ensuite un sirop en faisant bouillir de l'eau et du sucre dans la proportion de 0,5 litre d'eau et 2 kilogrammes de sucre. Versez les fruits dans le sirop et laissez-les tremper pendant 24 heures. Ensuite, portez-les à ébullition à feu moyen. Versez la confiture de cerises cornaline chaude dans des pots et fermez-les bien.
 
 {% fig %}
 ![How to make tasty cornelian cherry preserves?](/uploads/dzem-deren-jadalny.jpg "How to make tasty cornelian cherry preserves?")
 {% endfig %}
 
-Cornelian cherry is long-known to natural medicine. It can be used both for healing and in the kitchen, therefore it's a plant that is often cultivated in many parts of the world.
+La cerise de Cornaline est connue depuis longtemps par la médecine naturelle. Elle peut être utilisée à la fois pour soigner et dans la cuisine, c'est donc une plante qui est souvent cultivée dans de nombreuses régions du monde.
 
 {% faqItem %}
 {% faqQuestion %}
-When to plant dogwood trees?
+Quand planter des cornouillers ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Dogwood tree seedlings can be planted during the whole season, although the best time to do it is spring or fall. Make sure to plant the seedling in the right type of soil – calcareous or slightly acidic. Dogwood trees need a lot of space to grow, as they reach up to 5-10 meters.
+Les semis de cornouiller peuvent être plantés pendant toute la saison, bien que le meilleur moment pour le faire soit le printemps ou l'automne. Veillez à planter le semis dans le bon type de sol - calcaire ou légèrement acide. Les cornouillers ont besoin de beaucoup d'espace pour pousser, car ils atteignent jusqu'à 5-10 mètres.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-When do dogwood trees bloom?
+Quand les cornouillers fleurissent-ils ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Depending on the weather conditions, a dogwood tree blooms from February to April in moderate climates. One bud develops 15-20 little flowers. They are frost resistant.
+Selon les conditions météorologiques, le cornouiller fleurit de février à avril sous des climats modérés. Un bourgeon développe 15 à 20 petites fleurs. Elles sont résistantes au gel.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to trim dogwood tree?
+Comment tailler un cornouiller ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Although dogwood trees rarely require pruning, if needed, do it in late autumn or in winter. Use a pruning saw or shears and cut right at the base of the branch. Do not cut in the collar area, as it may lead to an infection.
+Bien que les cornouillers nécessitent rarement une taille, si nécessaire, faites-le à la fin de l'automne ou en hiver. Utilisez une scie ou un sécateur et coupez directement à la base de la branche. Ne coupez pas dans la zone du collet, car cela peut entraîner une infection.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How big does a dogwood tree get?
+Quelle est la taille d'un cornouiller ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Depending on the particular species, dogwood trees can reach up to 10 meters of height. The seedlings grow slow during the first 2 years. The changes become significant in the third year.
+Selon l'espèce, les cornouillers peuvent atteindre jusqu'à 10 mètres de hauteur. Les semis poussent lentement pendant les deux premières années. Les changements deviennent importants au cours de la troisième année.
 {% endfaqAnswer %}
 {% endfaqItem %}
