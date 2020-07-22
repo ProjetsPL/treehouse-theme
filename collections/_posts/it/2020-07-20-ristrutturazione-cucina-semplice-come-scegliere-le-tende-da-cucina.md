@@ -12,106 +12,105 @@ toc: true
 promoted: false
 update_date: 2020-07-20
 title: 'Ristrutturazione cucina semplice: Come scegliere le tende da cucina?'
-description: "Looking for a cheap idea for kitchen renovation? ✔️ Learn a ridiculously
-  simple trick - kitchen curtains! \U0001F449 Discover the most exciting kitchen window
-  ideas!"
-intro: Dreaming of an elegant kitchen design? Kitchen curtains are a small detail
-  that can completely transform the character of your interior. Modern manufacturers
-  offer many styles and designs to choose from. Discover what are the best models
-  available on the market and take your interior to the next, stylish level in no
-  time, using nothing but kitchen curtains!
+description: "Cercate un'idea economica per la ristrutturazione della cucina? ✔️ Imparare
+  un trucco ridicolmente semplice - tende da cucina! \U0001F449 Scopri le idee più
+  entusiasmanti per le finestre della cucina!"
+intro: Sognando un design elegante per la cucina? Le tende da cucina sono un piccolo
+  dettaglio che può trasformare completamente il carattere dei vostri interni. I produttori
+  moderni offrono molti stili e design tra cui scegliere. Scopri quali sono i migliori
+  modelli disponibili sul mercato e porta i tuoi interni al livello successivo, con
+  stile e in poco tempo, utilizzando solo tende da cucina!
 image: "/uploads/zaslony-kuchenne.jpg"
 related_products: []
-published: false
 
 ---
-## How to choose kitchen curtains - key issues
+## Come scegliere le tende da cucina - questioni chiave
 
-Choosing the right kitchen curtain might be a real challenge. Shops offer many various types of curtains in different shapes, sizes, colors and cuts. Very often they are matched with other kitchen elements such as drapes, table cloths and napkins. It's a simple method to make your kitchen look stylish and consistent.
+Scegliere la tenda giusta per la cucina potrebbe essere una vera sfida. I negozi offrono molti tipi diversi di tende in diverse forme, dimensioni, colori e tagli. Molto spesso sono abbinate ad altri elementi della cucina come tende, tovaglie e tovaglioli. È un metodo semplice per rendere la vostra cucina elegante e coerente.
 
-When selecting kitchen curtains, it is good to pay attention to several crucial matters. They most important issues are:
+Quando si scelgono le tende da cucina, è bene prestare attenzione a diverse questioni cruciali. Sono le questioni più importanti:
 
 {:.list.list-positive}
 
-* **shape and fashion: short or long, single or double,**
-* **color:** classic white kitchen curtains or colorful drapes,
-* **function:** decoration or a form of a barrier, protection of privacy.
+* forma e moda: corto o lungo, singolo o doppio,
+* colore: classiche tende da cucina bianche o tende colorate
+* funzione: decorazione o forma di barriera, protezione della privacy.
 
 {% fig %}
 ![How to choose kitchen curtains - key issues](/uploads/jakie-firanki-wybrac.jpg "How to choose kitchen curtains - key issues")
 {% endfig %}
 
-## Fantastic kitchen curtains sets to choose from
+## Fantastico set di tende da cucina tra cui scegliere
 
-The market offers a plethora of ways in which one can fasten their kitchen curtains. You might select a separate element or a whole kitchen set consisting of curtains and drapes. **The most desired types available on the market are voile and valance kitchen curtains**. They both resemble each other due to the similar fashion of fastening. Each of the type consists of two sheets pinned on both sides so that they uncover a part of the window.
+Il mercato offre una pletora di modi per fissare le tende della cucina. Si può scegliere un elemento separato o un intero set da cucina composto da tende e tendaggi. I tipi più desiderati disponibili sul mercato sono le tende da cucina in voile e mantovane. Entrambi si assomigliano l'un l'altro a causa della moda simile di fissaggio. Ognuno dei tipi è composto da due fogli appuntati su entrambi i lati in modo da scoprire una parte della finestra.
 
-Another interesting solution is using classic cafe curtains. They used to be hand made in the past. They are **very short**, reaching only half of the window. They used to be present in every typical household. Currently, there are many kitchen curtains of this type available in shops. They are, however, a little bit longer and more sheer than years ago. It is a fantastic solution instead of classic kitchen curtains and drapes.
+Un'altra soluzione interessante è l'utilizzo delle classiche tende da caffè. Un tempo erano fatte a mano. Sono molto corte e raggiungono solo la metà della finestra. Un tempo erano presenti in ogni tipica casa. Attualmente, ci sono molte tende da cucina di questo tipo disponibili nei negozi. Sono però un po' più lunghe e più velate rispetto ad anni fa. È una soluzione fantastica al posto delle classiche tende e tendaggi da cucina.
 
 {:.distinction.distinction-information}
-String kitchen curtains are a very intriguing form of decoration. They consist of a row of thin strings in one or many colors.
+Le tende da cucina a corda sono una forma di decorazione molto intrigante. Sono costituite da una fila di sottili stringhe in uno o più colori.
 
-## Kitchen curtains ideas - new look at the old concept
+## Idee per le tende da cucina - un nuovo sguardo al vecchio concetto
 
-Many people associate kitchen curtains with something distasteful, like an outdated apartment. It might have been accurate in the past. Today, however, curtains are becoming popular again. Manufacturers offer a **wide variety of fashions and styles** that do not look cheap at all — on the contrary — they are extremely elegant and stylish.
+Molte persone associano le tende della cucina a qualcosa di sgradevole, come un appartamento antiquato. Potrebbe essere stato preciso in passato. Oggi, invece, le tende stanno tornando di moda. I produttori offrono una grande varietà di mode e stili che non sembrano affatto economici - al contrario - sono estremamente eleganti ed eleganti.
 
-Modern kitchen curtains, similar to drapes in a room, can completely alter the looks of the whole interior. They can make it look cozy and create a pleasant atmosphere. **A piece of a plain fabric provides unlimited possibilities for home decoration.** Using a few simple kitchen curtains, you can travel back to old-school sixties or design a modern looking kitchen with an unusual design.
+Le moderne tende da cucina, simili ai tendaggi di una stanza, possono alterare completamente l'aspetto di tutto l'interno. Possono renderlo accogliente e creare un'atmosfera piacevole. Un pezzo di tessuto liscio offre possibilità illimitate per la decorazione della casa. Utilizzando poche semplici tende da cucina, si può tornare alla vecchia scuola degli anni Sessanta o progettare una cucina dall'aspetto moderno con un design insolito.
 
 {% fig %}
 ![Kitchen curtains ideas - new look at the old concept](/uploads/zaluzje-kuchenne.jpg "Kitchen curtains ideas - new look at the old concept")
 {% endfig %}
 
-Innovation has reached the fabrics utilized for kitchen curtains production, but not only. The past years have also seen the change in **the way the curtains are hung**. Very popular in the past thick and heavily embroidered cafe curtains have been replaced by sheer and long fabrics.
+L'innovazione ha raggiunto i tessuti utilizzati per la produzione di tende da cucina, ma non solo. Negli ultimi anni è cambiato anche il modo di appendere le tende. Molto popolari in passato le tende da caffè, spesse e pesantemente ricamate, sono state sostituite da tessuti velati e lunghi.
 
-## Beautiful tailored kitchen curtains
+## Bellissime tende da cucina su misura
 
-Some windows, especially those in single family homes have unusual sizes. In such a case it is a good idea to choose **tailored kitchen curtains.** Shops offer a wide variety of fabrics - you can purchase the in bulk. Manufacturers produce also decorative elements that can be used as trimmings.
+Alcune finestre, soprattutto quelle delle case unifamiliari, hanno dimensioni insolite. In questo caso è una buona idea scegliere tende da cucina su misura. I negozi offrono una grande varietà di tessuti - è possibile acquistarli all'ingrosso. I produttori producono anche elementi decorativi che possono essere usati come passamaneria.
 
-Tailored kitchen curtains might be incredibly interesting for those who have a certain project in mind or those who seek unusual **home decorations**. This way you can be sure your kitchen curtains are absolutely unique.
-
-{:.distinction.distinction-information}
-You can ask a professional to prepare your kitchen curtains. If you think you are competent at designing home decorations and you can sew, you might decide to do it yourself.
-
-Designs in which various types of fabrics are combined are becoming a favoured method for home decoration. There are endless possibilities to design various patterns. This way you have a chance to **design an attractive decorative element** that will fulfill even the pickiest tastes.
-
-### How much do tailored kitchen curtains cost?
-
-Tailored kitchen curtains are slightly more expensive than ready-made drapes available for purchase in shops. The price depends on various factors. **The materials used for the project are the most significant.** If you utilize high-quality materials or you desire some rare fabrics, the price is going to be much higher than when you use standard materials. Furthermore, the costs of tailoring kitchen curtains include the price of executing the project - sewing the curtains. Tailored kitchen curtains are definitely more expensive than ready-made products offered by manufacturers. With the price, however, you get a more superior quality and a product that matches your individual needs.
-
-## How to clean kitchen curtains? Learn before buying
-
-There are as many way to clean a curtain as people who do it. Almost every homeowner surely has their proven method for cleaning, bleaching and ironing kitchen curtains. If you, however, want to achieve the best results, you should pay attention to this matter before buying a particular curtain.
-
-**Not all kitchen drapes can be washed in a washing machine,** especially if they are made of delicate fabrics that can be easily damaged. In such cases one has to hand-wash them - but not everyone has time to do it. For this reason it is important to pay special attention to the type of fabric of a curtain you are about to buy.
+Le tende da cucina su misura potrebbero essere incredibilmente interessanti per chi ha un certo progetto in mente o per chi cerca decorazioni insolite per la casa. In questo modo potete essere sicuri che le vostre tende da cucina sono assolutamente uniche.
 
 {:.distinction.distinction-information}
-If you want to to wash kitchen curtains with flounce or made of thick materials, add some starch and bleach during the washing. It helps them to retain their original shape for longer.
+Potete chiedere a un professionista di preparare le tende della vostra cucina. Se pensate di essere competenti nella progettazione di decorazioni per la casa e sapete cucire, potreste decidere di farlo voi stesse.
 
-## What to use instead of kitchen curtains? Decorate your windows with blinds
+I disegni in cui vengono combinati vari tipi di tessuti stanno diventando un metodo privilegiato per la decorazione della casa. Ci sono infinite possibilità di disegnare vari modelli. In questo modo avete la possibilità di disegnare un elemento decorativo attraente che soddisferà anche i gusti più esigenti.
 
-Although there are many types and shapes of kitchen curtains available on the market, they are not to everyone's taste. Instead, some homeowners decide to use modern blinds that look equally stylish. Contrary to kitchen curtains, blinds do not need to be washed. It is an interesting alternative, worth keeping in mind. Note that without kitchen curtains the interior does not look as cozy as with them.
+### Quanto costano le tende da cucina su misura?
+
+Le tende da cucina su misura sono leggermente più costose delle tende pronte per l'acquisto nei negozi. Il prezzo dipende da vari fattori. I materiali utilizzati per il progetto sono i più significativi. Se si utilizzano materiali di alta qualità o si desidera qualche tessuto raro, il prezzo sarà molto più alto rispetto a quando si utilizzano materiali standard. Inoltre, i costi di sartoria delle tende da cucina includono il prezzo di realizzazione del progetto - cucire le tende. Le tende da cucina su misura sono sicuramente più costose dei prodotti già pronti offerti dai produttori. Con il prezzo, tuttavia, si ottiene una qualità superiore e un prodotto che corrisponde alle vostre esigenze individuali.
+
+## Come pulire le tende della cucina? Imparare prima dell'acquisto
+
+Ci sono tanti modi per pulire una tenda quanti sono quelli che lo fanno. Quasi tutti i proprietari di case hanno sicuramente il loro metodo collaudato per pulire, sbiancare e stirare le tende da cucina. Se, tuttavia, volete ottenere i migliori risultati, dovreste prestare attenzione a questo aspetto prima di acquistare una tenda in particolare.
+
+Non tutte le tende da cucina possono essere lavate in lavatrice, soprattutto se sono fatte di tessuti delicati che possono essere facilmente danneggiati. In questi casi bisogna lavarli a mano - ma non tutti hanno il tempo di farlo. Per questo motivo è importante prestare particolare attenzione al tipo di tessuto di una tenda che si sta per acquistare.
+
+{:.distinction.distinction-information}
+Se si desidera lavare le tende della cucina con balza o con materiali spessi, aggiungere un po' di amido e candeggina durante il lavaggio. Questo aiuta a mantenere più a lungo la loro forma originale.
+
+## Cosa usare al posto delle tende da cucina? Decora le tue finestre con le tende
+
+Anche se ci sono molti tipi e forme di tende da cucina disponibili sul mercato, non sono di gusto per tutti. Alcuni proprietari di case decidono invece di utilizzare tende moderne che hanno lo stesso stile. A differenza delle tende da cucina, le tende non hanno bisogno di essere lavate. È un'alternativa interessante, che vale la pena tenere a mente. Si noti che senza le tende da cucina l'interno non è così accogliente come con le tende da cucina.
 
 {% fig %}
 ![What to use instead of kitchen curtains? Decorate your windows with blinds](/uploads/kuchnia-zaluzje1.jpg "What to use instead of kitchen curtains? Decorate your windows with blinds")
 {% endfig %}
 
-If you like combining traditional and modern solutions, consider **matching kitchen curtains with modern, metal or wooden blinds**. Although such a solution might seem overwhelming, in fact, it looks really good - especially if the kitchen has large windows. To add some finesse, choose uniform, sheer kitchen curtains - it will take the "weight" off the room.
+Se vi piace combinare soluzioni tradizionali e moderne, prendete in considerazione l'abbinamento di tende da cucina con tende moderne, in metallo o in legno. Anche se una soluzione di questo tipo potrebbe sembrare travolgente, in realtà, è davvero bella - soprattutto se la cucina ha grandi finestre. Per aggiungere un po' di finezza, scegliete tende da cucina uniformi e trasparenti - toglierà il "peso" alla stanza.
 
 {% faqItem %}
 {% faqQuestion %}
-How to choose kitchen curtains?
+Come scegliere le tende da cucina?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The most popular kitchen curtains are cafe, voile or valance curtains. Shops offer a wide variety of curtains in different shapes and sizes. There are many fabrics to choose from - you will surely find the one that suits your taste.
+Le tende da cucina più popolari sono le tende da caffè, voile o mantovane. I negozi offrono una grande varietà di tende di diverse forme e dimensioni. Ci sono molti tessuti tra cui scegliere - troverete sicuramente quello più adatto ai vostri gusti.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to sew your kitchen curtains?
+Come cucire le tende della cucina?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-If you know how to use a sewing machine, you might be able to make your own kitchen drapes. If it is out of your level of skill, give you project to a tailor. This way you can be sure that your new kitchen curtains are going to look fantastic.
+Se sapete usare una macchina da cucire, potreste essere in grado di fare i vostri drappi da cucina. Se è fuori dal vostro livello di abilità, date il progetto a un sarto. In questo modo si può essere sicuri che le vostre tende da cucina nuove stanno andando a guardare fantastico.
 {% endfaqAnswer %}
 {% endfaqItem %}
