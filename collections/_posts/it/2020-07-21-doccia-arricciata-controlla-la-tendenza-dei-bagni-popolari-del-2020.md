@@ -18,154 +18,154 @@ toc: true
 promoted: false
 update_date: 2020-07-21
 title: Doccia arricciata - Controlla la tendenza dei bagni popolari del 2020
-description: "Thinking about a curbless shower? \U0001F6BF  This unusual bathroom
-  design is becoming a new trend in 2020. ➡️ Find out whether a barrier free shower
-  is for you!"
-intro: In times of minimalistic designs, everyone aims to spare as much space as possible.
-  It might be quite a difficult task, especially if one has little space at their
-  disposal. It is one of the most common problems with bathrooms. Fortunately, interior
-  designers are constantly introducing new trends and solutions. The most popular
-  current trend is a curbless shower in a bathroom. The idea of a wet room allows
-  you to utilize a bathroom space to the maximum. What’s more, the aesthetics of such
-  a solution are beyond one’s imagination.
+description: "Pensate a una doccia senza curvatura? \U0001F6BF Questo insolito design
+  per il bagno sta diventando una nuova tendenza nel 2020. ➡️ Scoprite se una doccia
+  senza barriere fa per voi!"
+intro: In tempi di design minimalista, tutti cercano di risparmiare più spazio possibile.
+  Potrebbe essere un compito piuttosto difficile, soprattutto se si ha poco spazio
+  a disposizione. È uno dei problemi più comuni con i bagni. Fortunatamente, gli interior
+  designer introducono costantemente nuove tendenze e soluzioni. La tendenza attuale
+  più diffusa è la doccia senza curvature in un bagno. L'idea di una stanza umida
+  permette di sfruttare al massimo lo spazio del bagno. Inoltre, l'estetica di una
+  tale soluzione va oltre la propria immaginazione.
 image: "/uploads/sidekix-media-g51F6-zyu-unsplash.jpg"
 related_products: []
-published: false
 
 ---
-## Curbless shower - how does it work?
+## Doccia senza riccioli - come funziona?
 
-A curbless shower is exactly what the name suggests. The base on which shower doors or shower curtains usually rest, is removed.
+Una doccia senza riccioli è esattamente ciò che il nome suggerisce. La base su cui poggiano di solito le porte della doccia o le tende della doccia viene rimossa.
 
-What’s left in the bathroom is only a **shower stall** and shower head. Thanks to this, the room gains a new, lightweight look. Due to the lack of a big white base the only barrier is a glass wall, usually completely transparent. Every other element that is in the bathroom becomes more accentuated.
+Quello che rimane in bagno è solo un box doccia e un soffione. Grazie a questo, la stanza acquista un nuovo aspetto leggero. A causa della mancanza di una grande base bianca, l'unica barriera è una parete di vetro, di solito completamente trasparente. Ogni altro elemento che si trova nel bagno diventa più accentuato.
 
-Obviously, if one desires to implement such a concept at their place, certain preparations are needed. Therefore one should make a plan to figure out **how to make a curbless shower** in their bathroom. What are the most important issues to keep in mind?
+Ovviamente, se si desidera implementare un tale concetto al loro posto, sono necessari alcuni preparativi. Pertanto si dovrebbe fare un piano per capire come fare una doccia senza curvature nel proprio bagno. Quali sono le questioni più importanti da tenere a mente?
 
 {:.list}
 
-* **Width of the floor (ceiling**) - it dictates the type of th drain that needs to be installed. It is easier if the bathroom is designed during the stage of constructing the building.
-* **Floor shape** - it needs to be appropriate so that water can flow down freely.
-* **Expenses** - a curbless shower requires the right structure of the whole room. The cost of adjusting it varies depending on individual factors.
+* Larghezza del pavimento (soffitto) - determina il tipo di scarico da installare. È più facile se il bagno è progettato durante la fase di costruzione dell'edificio.
+* Forma del pavimento - deve essere appropriato in modo che l'acqua possa scorrere liberamente.
+* Spese - una doccia senza curvatura richiede la giusta struttura di tutta la stanza. Il costo della sua regolazione varia a seconda dei singoli fattori.
 
 {% fig %}
 ![Curbless shower - how does it work?](/uploads/prysznic-bez-brodzika-na czym-to-w-ogole-polega.jpg "Curbless shower - how does it work?")
 {% endfig %}
 
-A curbless shower is without any doubt a very attractive solution. For this reason many homeowners opt for it. It is good to learn all the details of constructing such a unit in one’s bathroom.
+Una doccia senza curvatura è senza dubbio una soluzione molto attraente. Per questo motivo molti proprietari di case optano per questa soluzione. È bene imparare tutti i dettagli della costruzione di una tale unità nel proprio bagno.
 
-## A curbless shower - modern minimalism
+## Una doccia senza curvatura - minimalismo moderno
 
-A barrier free shower is the most subtle part of a bathroom. The only thing that might catch one’s eye is the shower head. The interior gets its space back.
+Una doccia senza barriere è la parte più sottile di un bagno. L'unica cosa che potrebbe attirare l'attenzione è il soffione della doccia. L'interno riacquista il suo spazio.
 
-A wet room design is the easiest to make if it’s planned beforehand - best during the stage of constructing the whole building. A **curbless shower** poses a great opportunity to pay attention to certain individual elements of the decor. It is a solution that responds to the minimalistic designs. One of the rules for this style is hiding unnecessary elements that might be distracting. Bathrooms with a curbless shower are exceptionally **elegant and stylish**.
+Il design di una stanza umida è il più facile da realizzare se è stato pianificato in anticipo - meglio durante la fase di costruzione dell'intero edificio. Una doccia senza pieghe è una grande opportunità per prestare attenzione ad alcuni singoli elementi dell'arredamento. È una soluzione che risponde al design minimalista. Una delle regole di questo stile è nascondere gli elementi non necessari che potrebbero distrarre. I bagni con doccia arricciata sono eccezionalmente eleganti ed eleganti.
 
 {:.distinction.distinction-information}
 
-A curbless shower is a particularly attractive option for small bathrooms. Such interiors have so limited space that every centimeter counts. Glass, transparent walls “unblock” the whole room.
+Una doccia arricciata è un'opzione particolarmente attraente per i bagni piccoli. Questi interni hanno uno spazio così limitato che ogni centimetro conta. Il vetro e le pareti trasparenti "sbloccano" l'intera stanza.
 
-One might achieve even better results using just one wall or a nook. There are many possibilities - it’s a great opportunity to **design a small bathroom** in an interesting way. What are the other advantages of a curbless shower?
+Si possono ottenere risultati ancora migliori utilizzando una sola parete o un solo angolo. Ci sono molte possibilità - è una grande opportunità per progettare un piccolo bagno in modo interessante. Quali sono gli altri vantaggi di una doccia senza pieghe?
 
 {:.list.list-positive}
 
-* **Easy cleaning** - both shower door and floor that build a curbless shower are very easy to keep clean. There are less nooks and crannies in which scale and dirt might accumulate.
-* **Option to customize the size of the stall** - a curbless shower cabin might have any size, therefore interior design is easier to adjust. One might design a shower of an unusual shape and size.
-* **Lower costs** - if a curbless shower has been planned before designing the bathroom, it is not an expensive project. In such a case the costs involve mostly buying a glass wall and several additional elements.
-* **No threshold** - a curbless shower is a great solution for elderly, people using a wheelchair and children. There is no barrier between the base and the bathroom, therefore there is no risk of accidental tripping and losing balance. A wheelchair also can enter such a cabin without any difficulties. It is a huge improvement which makes one more independent.
+* Facile pulizia - sia la porta della doccia che il pavimento che costruiscono una doccia senza curvatura sono molto facili da tenere puliti. Ci sono meno angoli e fessure in cui si possono accumulare incrostazioni e sporcizia.
+* Opzione per personalizzare le dimensioni della cabina doccia - una cabina doccia senza angoli può avere qualsiasi dimensione, quindi il design interno è più facile da regolare. Si potrebbe progettare una doccia di forma e dimensioni insolite.
+* Costi più bassi - se una doccia senza angoli è stata progettata prima di progettare il bagno, non è un progetto costoso. In tal caso, i costi comportano per lo più l'acquisto di una parete di vetro e di diversi elementi aggiuntivi.
+* Nessuna soglia - una doccia senza cordoli è un'ottima soluzione per gli anziani, le persone che usano la sedia a rotelle e i bambini. Non c'è alcuna barriera tra la base e il bagno, quindi non c'è il rischio di inciampare accidentalmente e di perdere l'equilibrio. Una sedia a rotelle può anche entrare in una cabina di questo tipo senza difficoltà. È un enorme miglioramento che rende più indipendenti.
 
 {% fig %}
 ![A curbless shower - modern minimalism](/uploads/prysznic-bez-brodzika-nie-dla-kazdego.jpg "A curbless shower - modern minimalism")
 {% endfig %}
 
-## Curbless shower - not for everyone
+## Doccia senza riccioli - non per tutti
 
-Although a wet room is a highly advantageous solution, unfortunately it also has some disadvantages. For this reason not everyone can use it. If a curbless shower is to be constructed in an **already finished bathroom**, it might be quite problematic. In this case it will not be a cheap solution. Designing such a shower means a complete makeover of a room.
+Anche se una stanza umida è una soluzione molto vantaggiosa, purtroppo presenta anche alcuni svantaggi. Per questo motivo non tutti possono usarla. Se si vuole costruire una doccia senza curvatura in un bagno già finito, potrebbe essere piuttosto problematico. In questo caso non sarà una soluzione economica. Progettare una doccia di questo tipo significa rinnovare completamente una stanza.
 
 {:.distinction.distinction-warning}
-A curbless shower requires an appropriate drain, hidden in the floor. The floor itself should slope so that the water does not flood the bathroom. This requires removing old tiles and creating the floor anew. It also might turn out that the ceiling is too thin - in which case a curbless shower is simply not possible to construct.
+Una doccia senza curvatura richiede un adeguato scarico, nascosto nel pavimento. Il pavimento stesso deve essere inclinato in modo che l'acqua non allaghi il bagno. Ciò richiede la rimozione delle vecchie piastrelle e la creazione di un nuovo pavimento. Potrebbe anche risultare che il soffitto è troppo sottile - nel qual caso una doccia senza angoli non è semplicemente possibile da costruire.
 
-## How to make a curbless shower?
+## Come fare una doccia senza curvatura?
 
-As already mentioned, a barrier free shower is easy to make if it is designed along with the plan of the whole house. It is best to plan carefully at which spot the shower is going to stand. If the bathroom is small, use any available **niches and corners**.
+Come già accennato, una doccia senza barriere è facile da fare se è progettata insieme alla pianta di tutta la casa. È meglio pianificare con attenzione il punto in cui la doccia sarà posizionata. Se il bagno è piccolo, utilizzare le nicchie e gli angoli disponibili.
+
+{:.distinzione.distinzione-informazioni}
+
+Se la stanza è più spaziosa, considerate la possibilità di scegliere un'unità doccia rettangolare più grande. Altri elementi molto importanti sono le piastrelle e gli scarichi correttamente montati.
+
+### Quali sono le piastrelle migliori per una doccia senza curvatura?
+
+Una doccia senza barriere richiede un pavimento accuratamente progettato. Scegliere le piastrelle giuste è una questione molto importante. Devono essere del tipo antiscivolo. Solo così la cabina doccia può essere sicura. Scegliete quella con classificazione R10-R13.
 
 {:.distinction.distinction-information}
-If the room is more spacious, consider choosing a bigger rectangular shower unit. Other elements that are very important are properly fitted tiles and drains.
-
-### What tiles are best for a curbless shower?
-
-A barrier free shower requires a carefully designed floor. Choosing the right tiles is a highly important matter. They must be the **non-slip type**. Only then the shower cabin can be safe. Choose the one with R10-R13 rating.
-
-{:.distinction.distinction-information}
-Because the floor must have a slope, the tiles should be able to conceal it. It is very likely that the tiles are going to be cut in order to fit them. For this reason make sure to carefully measure everything.
+Poiché il pavimento deve avere una pendenza, le piastrelle devono essere in grado di nasconderlo. È molto probabile che le piastrelle vengano tagliate per adattarle. Per questo motivo assicuratevi di misurare tutto con attenzione.
 
 {% fig %}
 ![What tiles are best for a curbless shower?](/uploads/jakie-plytki-sie-sprawdza-pod-prysznic-bez-brodzika.jpg "What tiles are best for a curbless shower?")
 {% endfig %}
 
-Apart from the tiles, you also need to choose the right type of grout. It should be waterproof and easy to clean. This will make the curbless shower sturdy for years. The most recommended product is an **epoxy grout**. It is waterproof, flexible and doesn’t crumble after drying up.
+Oltre alle piastrelle, è necessario scegliere anche il giusto tipo di stuccatura. Deve essere impermeabile e facile da pulire. Questo renderà la doccia senza pieghe robusta per anni. Il prodotto più consigliato è uno stucco epossidico. È impermeabile, flessibile e non si sbriciola dopo l'asciugatura.
 
-Before laying the tiles, one needs to take care of floor **waterproofing**. This way the bathroom and the rooms below are secured from water. Traditional methods use waterproofing flashing mortar - they are the most popular.
+Prima di posare le piastrelle, è necessario prendersi cura dell'impermeabilizzazione del pavimento. In questo modo il bagno e i locali sottostanti sono protetti dall'acqua. I metodi tradizionali utilizzano la malta scossalina impermeabilizzante - sono i più diffusi.
 
 {:.distinction.distinction-information}
-You can also use a product called liquid foil, which contains synthetic resin. It is a substantially faster method. To apply the substance, one might simply use a brush or a pallet knife.
+È possibile utilizzare anche un prodotto chiamato foglio liquido, che contiene resina sintetica. Si tratta di un metodo sostanzialmente più veloce. Per applicare la sostanza si può semplicemente usare un pennello o un coltello a serramanico.
 
-### Curbless shower - choosing the right drain
+### Doccia senza riccioli - scegliere il giusto scarico
 
-Yet another important issue that a curbless shower poses is choosing the right drain. There are several possibilities in this matter - the choice is between a wall drain or a floor drain. One must also decide between a trench (linear) drain and a point drain.
+Un'altra questione importante che una doccia senza curvatura pone è la scelta del giusto scarico. Ci sono diverse possibilità in questa materia - la scelta è tra uno scarico a parete o uno a pavimento. Si deve anche decidere tra uno scarico in trincea (lineare) e uno scarico puntuale.
 
-The most inconspicuous solution is a **wall drain**. Users of floor drains subconsciously omit standing on them, which might make using the shower less comfortable. There is no such problem with a wall drain. It can be also concealed under a tile in the same color as the wall or floor.
+La soluzione più discreta è uno scarico a parete. Gli utenti degli scarichi a pavimento omettono inconsciamente di stare in piedi su di essi, il che potrebbe rendere meno confortevole l'uso della doccia. Non esiste un problema di questo tipo con uno scarico a parete. Può anche essere nascosto sotto una piastrella dello stesso colore della parete o del pavimento.
 
-**Floor drains** are definitely more popular. Here, the choice is between a trench drain and a point drain. Regardless of which one is going to be installed, drain needs to be more efficient than shower head. This way one can be sure that water is going to be drained effectively. A linear drain for a curbless shower usually has a large surface, therefore water flows quickly and more evenly. The major downside is that this type of drain is more expensive than the others.
+Gli scarichi a pavimento sono decisamente più popolari. Qui la scelta è tra uno scarico in trincea e uno a punta. Indipendentemente da quale dei due verrà installato, lo scarico deve essere più efficiente del soffione. In questo modo si può essere sicuri che l'acqua sarà scaricata in modo efficace. Uno scarico lineare per una doccia senza curvatura ha di solito una grande superficie, quindi l'acqua scorre velocemente e in modo più uniforme. Il principale svantaggio è che questo tipo di scarico è più costoso degli altri.
 
 {% fig %}
 ![Curbless shower - choosing the right drain](/uploads/kabiny-prysznicowe-bez-brodzika-ktora-jest-najlepsza.jpg "Curbless shower - choosing the right drain")
 {% endfig %}
 
-### A curbless shower - which one is the best?
+### Una doccia senza curvatura - qual è la migliore?
 
-The biggest advantage of a curbless shower is the fact that it can take any shape. Depending on the available floor space and type of the room, a shower cabin might be triangular, square or rectangular. The choice is also in type of the door - hinged, sliding or folding. There is also another particularly interesting solution - **a walk-in shower**. In this case only one glass panel is fixed into place, as a protection from water. This way the room seems even more spacious - especially if the glass is completely transparent. All types of shower **doors are made of hardened glass** - either transparent or opaque.
+Il più grande vantaggio di una doccia senza curvatura è il fatto che può assumere qualsiasi forma. A seconda della superficie disponibile e del tipo di stanza, una cabina doccia può essere triangolare, quadrata o rettangolare. La scelta è anche nella tipologia della porta - a battente, scorrevole o pieghevole. C'è anche un'altra soluzione particolarmente interessante - una cabina doccia a scomparsa. In questo caso solo un pannello di vetro è fissato in posizione, come protezione dall'acqua. In questo modo la stanza sembra ancora più spaziosa - soprattutto se il vetro è completamente trasparente. Tutti i tipi di porte per la doccia sono realizzate in vetro temperato - trasparente o opaco.
 
-## How about a doorless shower?
+## Che ne dite di una doccia senza porta?
 
-A doorless shower with no walls is quite a bold solution. In this case the shower area consists of a drain and a shower head only. There is no door or any additional glass panel. If there is a nook in the bathroom, it is a good idea to use it for this purpose. This way the shower has a wall, **partially separating** it from the rest of the bathroom. Many homeowners choose an open space wet room. The main advantage here are lower costs - buying a shower stall is unnecessary. It is also a good solution for a small bathroom - a glass wall takes some space after all. The best type of douche in this case is a rainshower.
+Una doccia senza porta e senza pareti è una soluzione audace. In questo caso la zona doccia è composta solo da uno scarico e da un soffione. Non c'è una porta o un pannello di vetro aggiuntivo. Se c'è un angolo nel bagno, è una buona idea utilizzarlo per questo scopo. In questo modo la doccia ha una parete che la separa parzialmente dal resto del bagno. Molti proprietari di case scelgono una stanza umida open space. Il vantaggio principale in questo caso sono i costi più bassi - l'acquisto di un box doccia non è necessario. È anche una buona soluzione per un piccolo bagno - una parete di vetro richiede un po' di spazio dopo tutto. Il miglior tipo di doccia in questo caso è una doccia a pioggia.
 
-A curbless shower is a great idea both for small and large bathrooms. It unblocks a lot of space and contributes to a modern, minimalistic look. When planning this type of shower, pay attention to every detail, from the drain to the type of door. A curbless shower is a practical and visually pleasing bathroom addition!
+Una doccia senza curvatura è un'ottima idea sia per i bagni piccoli che per quelli grandi. Sblocca molto spazio e contribuisce ad un look moderno e minimalista. Quando si progetta questo tipo di doccia, prestare attenzione ad ogni dettaglio, dallo scarico al tipo di porta. Una doccia senza curvatura è un'aggiunta pratica e visivamente piacevole per il bagno!
 
 {% faqItem %}
 {% faqQuestion %}
-How to build a shower with no curb?
+Come costruire una doccia senza cordolo?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The easiest way to build a curbless shower is to plan it at the stage of building a house. Think where the unit is going to be placed, what kind of drain you need and which shower head will fit. To make sure that a curbless shower works properly, refer to the help of a specialist.
+Il modo più semplice per costruire una doccia senza curvatura è quello di progettarla nella fase di costruzione di una casa. Pensate a dove sarà posizionata l'unità, che tipo di scarico vi serve e quale soffione della doccia andrà bene. Per assicurarsi che una doccia senza cordoli funzioni correttamente, rivolgersi ad uno specialista.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to build a tile shower?
+Come costruire una doccia con le piastrelle?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The key for a tile shower with no curb is choosing the right tiles. They should be non-slippery - only then can the place be safe. The tiles should be cut to fit the floor. Remember that a curbless shower floor needs to slope to the drain.
+La chiave per una doccia con piastrelle senza cordolo è scegliere le piastrelle giuste. Devono essere non scivolose - solo così il posto può essere sicuro. Le piastrelle devono essere tagliate per adattarsi al pavimento. Ricordate che il pavimento di una doccia senza cordoli deve essere inclinato verso lo scarico.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to build a shower curb?
+Come costruire un cordolo per la doccia?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Start from forming a curb made of the same material as the floor. Then lay a waterproof liner on it, then lath and mortar. The last step is tiling the curb along with the shower floor.
+Iniziare a formare un cordolo dello stesso materiale del pavimento. Poi stendere un rivestimento impermeabile su di esso, poi listelli e malta. L'ultimo passo è quello di piastrellare il cordolo insieme al pavimento della doccia.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How much does a walk-in shower cost?
+Quanto costa una cabina doccia?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The price varies depending on many individual factors. The cheapest solution is to plan this type of a curbless shower along with building the house. The costs rise if the house already exists and the room needs adjusting - which often means a complete makeover.
+Il prezzo varia a seconda di molti fattori individuali. La soluzione più economica è quella di progettare questo tipo di doccia senza curvatura insieme alla costruzione della casa. I costi aumentano se la casa esiste già e la stanza deve essere adattata - il che spesso significa un rifacimento completo.
 {% endfaqAnswer %}
 {% endfaqItem %}
