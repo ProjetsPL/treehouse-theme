@@ -18,61 +18,61 @@ toc: true
 promoted: false
 update_date: 2020-07-20
 title: Le lis de la paix peut-il remplacer le purificateur d'air ? Découvrez-le !
-description: "Concerned about air quality at your home? \U0001F331A peace lily is
-  a unique plant acting as a natural air purifier. Could it actually replace the machine?
-  \U0001F449 Find out!"
-intro: Clean air at home contributes to your good mood. That's the reason why air
-  purifiers are becoming increasingly popular. However such a machine might be quite
-  an investment. There is, however a natural way to clean the air. Peace lily is a
-  plant which not only looks beautiful but also can purify the air in a room. Choose
-  natural methods and improve the air quality so that it's clean and healthy for everyone
-  in your house.
+description: "Vous êtes préoccupé par la qualité de l'air chez vous ? \U0001F331A
+  Le lys de paix est une plante unique qui agit comme un purificateur d'air naturel.
+  Pourrait-elle réellement remplacer la machine ? \U0001F449 Découvrez-le !"
+intro: L'air pur à la maison contribue à votre bonne humeur. C'est la raison pour
+  laquelle les purificateurs d'air sont de plus en plus populaires. Cependant, un
+  tel appareil peut représenter un investissement considérable. Il existe cependant
+  un moyen naturel de purifier l'air. Le lis de la paix est une plante qui non seulement
+  est belle, mais qui peut aussi purifier l'air d'une pièce. Choisissez des méthodes
+  naturelles et améliorez la qualité de l'air afin qu'il soit propre et sain pour
+  tous les occupants de votre maison.
 image: "/uploads/skrzydlokwiat-glowne-1.jpg"
 related_products: []
-published: false
 
 ---
-## What is a peace lily and what are its features?
+## Qu'est-ce qu'un lis de paix et quelles sont ses caractéristiques ?
 
-A **peace lily** is a decorative plant from the family of **Araceae**. In contrast with other decorative plants, peace lily not only looks unusual, but also it comes with **health benefits**. Peace lily is a natural air purifier. The most popular type of lily plant is **_Spathiphyllum floribundum_** with its white flowers. They are a decoration in many living rooms.
+Le lis de la paix est une plante décorative de la famille des aracées. Contrairement à d'autres plantes décoratives, le lis de la paix n'a pas seulement un aspect inhabituel, mais il présente également des avantages pour la santé. Le lis de la paix est un purificateur d'air naturel. Le type de lys le plus populaire est le Spathiphyllum floribundum avec ses fleurs blanches. Elles sont une décoration dans de nombreuses salles de séjour.
 
 {% fig %}
 ![What is a peace lily and what are its features?](/uploads/skrzydlokwiat-nie-kwitnie.jpg "What is a peace lily and what are its features?")
 {% endfig %}
 
-## Why can a peace lily replace an air purifier?
+## Pourquoi un lis de la paix peut-il remplacer un purificateur d'air ?
 
-Unusual **features of a lily flower** have been checked and confirmed by **NASA** who runs detailed tests. As they have shown, a peace lily plant **can neutralize up to five dangerous chemicals** that can be found in households, such as:
+Les caractéristiques inhabituelles d'un lis ont été vérifiées et confirmées par la NASA, qui effectue des tests détaillés. Comme ils l'ont montré, une plante de lis de la paix peut neutraliser jusqu'à cinq produits chimiques dangereux que l'on trouve dans les ménages, tels que
 
 {:.list.list-negative}
 
-* **xylene** – used in the varnish industry,
-* **benzene** – used for glue, paint and plastic production,
-* **formaldehyde** – used as a preservative in cleaning and washing products like soaps and shampoos,
-* **carbon monoxide** – a toxic, odorless gas that is lethal for your organism,
-* **trichloroethane** – present in various thinners.
+* xylène - utilisé dans l'industrie des vernis,
+* le benzène - utilisé pour la production de colle, de peinture et de plastique,
+* le formaldéhyde - utilisé comme agent de conservation dans les produits de nettoyage et de lavage comme les savons et les shampoings,
+* le monoxyde de carbone - un gaz toxique et inodore qui est mortel pour votre organisme,
+* trichloroéthane - présent dans divers diluants.
 
-Those chemicals are very dangerous for health as they are cancerogenic, they influence respiratory and vascular systems and internal organs.
+Ces produits chimiques sont très dangereux pour la santé car ils sont cancérigènes, ils influencent les systèmes respiratoires et vasculaires ainsi que les organes internes.
 
 {:.distinction.distinction-information}
-A peace lily is a perfect plant for a living room and bedroom. Due to its qualities it is also great for an office and rooms with a lot of electronics.
+Un lis de paix est une plante parfaite pour un salon et une chambre à coucher. En raison de ses qualités, elle est également parfaite pour un bureau et les pièces contenant beaucoup d'électronique.
 
 {% fig %}
 ![Why can a peace lily replace an air purifier?](/uploads/interior-2598110_1280.jpg "Why can a peace lily replace an air purifier?")
 {% endfig %}
 
-## Peace lily – natural air purifier and humidifier
+## Lys de paix - purificateur et humidificateur d'air naturel
 
-**Another important feature of a peace lily is its ability to humidify the room.** For this reason it is a good idea to have it in your home, especially in winter, when the air is very dry. A lily plant is also a great microbes and fungal spores absorber. Therefore, it is ideal for allergy sufferers and people who have trouble with breathing. According to the research, the **long period of flowering** positively influences the atmosphere of the room and affects the mood, helping to relax.
+Une autre caractéristique importante d'un lis de paix est sa capacité à humidifier la pièce. C'est pourquoi il est bon de l'avoir chez soi, surtout en hiver, lorsque l'air est très sec. Le lis est également un excellent absorbeur de microbes et de spores fongiques. Il est donc idéal pour les personnes allergiques et celles qui ont des difficultés à respirer. Selon les recherches, la longue période de floraison influence positivement l'atmosphère de la pièce et influe sur l'humeur, en aidant à se détendre.
 
 {:.distinction.distinction-warning}
-Despite all the benefits of the peace lily, it might be poisonous for household pets. If you own a pet and decided to buy a lily plant, observe the health of the animal in during the first days after the purchase. If necessary, remove the plant from your home.
+Malgré tous les bienfaits du lis de la paix, il peut être toxique pour les animaux domestiques. Si vous possédez un animal de compagnie et que vous décidez d'acheter une plante de lis, observez la santé de l'animal dans les premiers jours suivant l'achat. Si nécessaire, enlevez la plante de votre maison.
 
-## Types of peace lily you can grow at home
+## Types de lys de paix que vous pouvez faire pousser chez vous
 
-Although the most popular type of peace lily is **_Spathiphyllum floribundum_** also known as snow flower, there are also other 48 species of this kind. What other types of lily flower can you grow at home?
+Bien que le type de lis de la paix le plus populaire soit le Spathiphyllum floribundum, également connu sous le nom de fleur des neiges, il existe également 48 autres espèces de ce type. Quels autres types de fleurs de lys pouvez-vous cultiver chez vous ?
 
-The most significant is definitely **white sails, or _Spathiphyllum wallisii_**. This plant has been created for indoors cultivation only so it's perfect for home. White sails is distributed in five varieties of different volume and height. They are: Yess, Clevelandi, Euro Giant, Sensacion and Mauna Loa.
+La plus importante est sans aucun doute le Spathiphyllum wallisii, ou Spathiphyllum sailisii. Cette plante a été créée pour être cultivée uniquement à l'intérieur, donc elle est parfaite pour la maison. Le Spathiphyllum wallisii est distribué en cinq variétés de volume et de hauteur différents. Elles sont : Yess, Clevelandi, Euro Giant, Sensacion et Mauna Loa.
 
 {% fig %}
 ![Types of peace lily you can grow at home](/uploads/skrzydlokwiat-odmiany.jpg "Types of peace lily you can grow at home")
@@ -82,67 +82,67 @@ The most significant is definitely **white sails, or _Spathiphyllum wallisii_**.
 ![Types of peace lily you can grow at home 2](/uploads/skrzydlokwiat-odmiany2.jpg "Types of peace lily you can grow at home 2")
 {% endfig %}
 
-## How to care for a peace lily?
+## Comment prendre soin d'un lys de paix ?
 
-Arecae are not difficult plants to grow at home. Peace lily is one of the least complicated varieties. The most important aspect of taking care of it is doing it systematically, which prolongs its lifespan and makes it bloom more often.
+Les arécas ne sont pas des plantes difficiles à cultiver chez soi. Le lis de la paix est l'une des variétés les moins compliquées. L'aspect le plus important pour en prendre soin est de le faire systématiquement, ce qui prolonge sa durée de vie et lui permet de fleurir plus souvent.
 
-**A spathiphyllum plant bloom when humidity is high**, as they help to maintain its level. Therefore the most important aspect of taking care for a peace lily is watering it. You should not only water the soil but also sprinkle the leaves.
+Une plante de spathiphyllum fleurit lorsque l'humidité est élevée, car elle contribue à maintenir son niveau. Par conséquent, l'aspect le plus important des soins à apporter à un nénuphar est de l'arroser. Vous devez non seulement arroser le sol, mais aussi saupoudrer les feuilles.
 
-Wondering where you should place the pot with your peace lily? Choose a spot with little access to light. Temperature is also important  – lily plants grow best in **18-22 Celsius degrees (64-71 F)**.
+Vous vous demandez où placer le pot avec votre nénuphar ? Choisissez un endroit où il y a peu de lumière. La température est également importante - les nénuphars poussent mieux entre 18 et 22 degrés Celsius (64-71 F).
 
-**A** **proper plant cultivation** also regards regular feeding when the plant blooms. A peace lily blooms exceptionally long, even a few months per year. Also, remember about repotting the peace lily every spring.
+Une bonne culture des plantes implique également une alimentation régulière lorsque la plante fleurit. Un lis de paix fleurit exceptionnellement longtemps, même quelques mois par an. N'oubliez pas non plus de rempoter le lis de la paix chaque printemps.
 
 {:.distinction.distinction-information}
-When feeding your peace lily, pay attention to the color of its leaves. If it's an intense green, it means that the plant has been overfed.
+Lorsque vous nourrissez votre lys de paix, faites attention à la couleur de ses feuilles. Si elle est d'un vert intense, cela signifie que la plante a été trop nourrie.
 
 {% fig %}
 ![How to care for a peace lily?](/uploads/skrzydlokwiat-pielegnacja.jpg "How to care for a peace lily?")
 {% endfig %}
 
-## How much does a peace lily cost?
+## Combien coûte un lis de paix ?
 
-Peace lily is not a very expensive plant and its **price usually isn't high**. It mostly depends on where it's bought and how developed the plant is. The ones you can find in gardening and flower shops are typically more expensive than the one from a supermarket, however they have better quality.
+Le lis de la paix n'est pas une plante très chère et son prix n'est généralement pas élevé. Cela dépend surtout de l'endroit où il est acheté et du degré de développement de la plante. Celles que l'on trouve dans les jardineries et les fleuristeries sont généralement plus chères que celles des supermarchés, mais elles sont de meilleure qualité.
 
 {% fig %}
 ![How much does a peace lily cost?](/uploads/skrzydlokwiat-jako-oczyszczacz-powietrza.jpg "How much does a peace lily cost?")
 {% endfig %}
 
-## Why does my peace lily not bloom? Learn 4 most common reasons
+## Pourquoi mon lis de paix ne fleurit-il pas ? Découvrez les 4 raisons les plus courantes
 
-Your peace lily never blooms? Find out how to resolve this problem. Sometimes you just need to **alter a minor detail** to initiate blooming. Find four most common **mistakes done when growing a Spathiphyllum**.
+Votre lys de paix ne fleurit jamais ? Découvrez comment résoudre ce problème. Parfois, il suffit de modifier un petit détail pour déclencher la floraison. Découvrez les quatre erreurs les plus courantes commises lors de la culture d'un Spathiphyllum.
 
-### Not enough sunlight
+### Pas assez de lumière du soleil
 
-Although peace lily, in contrast to most household plants, requires **little sunlight,** a complete lack of sun might disturb its blooming process. The best remedy is moving the plant to a spot where the light is dispersed most of the day, for instance is a bedroom behind the curtain.
+Bien que le lis de paix, contrairement à la plupart des plantes d'intérieur, ne nécessite que peu de lumière solaire, une absence totale de soleil pourrait perturber son processus de floraison. Le meilleur remède consiste à déplacer la plante vers un endroit où la lumière est dispersée la majeure partie de la journée, par exemple dans une chambre à coucher derrière le rideau.
 
 {% fig %}
 ![Not enough sunlight](/uploads/bledy-w-hodowli-skrzydlokwiatu.jpg "Not enough sunlight")
 {% endfig %}
 
-### Size of the pot is not proportional to size of the plant
+### La taille du pot n'est pas proportionnelle à la taille de la plante
 
-Potting and repotting of peace lily is also very important. The belief that a plant potted in a larger box grows better is wrong. **Putting lily plants in too large pots might cause a problem with their blooming.** Therefore, you should choose a box that is perfectly proportional to the plant you are going to transplant.
+L'empotage et le rempotage du lis de la paix sont également très importants. Il est faux de croire qu'une plante en pot dans une boîte plus grande pousse mieux. Mettre les plants de lis dans des pots trop grands pourrait causer un problème de floraison. C'est pourquoi vous devez choisir une boîte parfaitement proportionnelle à la plante que vous allez transplanter.
 
 {:.distinction.distinction-information}
-You shouldn't transplant peace lilies too often, as it also disturbs their blooming and growth. Having that in mind, repotting should be done only when it's absolutely necessary, e.g. when the pot is too small or it has been damaged.
+Il ne faut pas transplanter trop souvent des lis de paix, car cela perturbe également leur floraison et leur croissance. Dans cette optique, le rempotage ne doit être fait que lorsque c'est absolument nécessaire, par exemple lorsque le pot est trop petit ou qu'il a été endommagé.
 
 {% fig %}
 ![Size of the pot is not proportional to size of the plant](/uploads/zle-dobrany-nawoz.jpg "Size of the pot is not proportional to size of the plant")
 {% endfig %}
 
-### Wrong fertilizer
+### Mauvais engrais
 
-One of the reasons for the lack of blooming might be wrong fertilizer. When choosing a particular organic, pay attention to its consistency and concentration. **A good fertilizer mixture for peace lily is liquid**, and it should be applied once per two weeks, along with watering.
+L'une des raisons du manque de floraison pourrait être un mauvais engrais. Lorsque vous choisissez un produit organique particulier, faites attention à sa consistance et à sa concentration. Un bon mélange d'engrais pour le lis de la paix est liquide, et il doit être appliqué une fois toutes les deux semaines, en même temps que l'arrosage.
 
 {% fig %}
 ![Wrong fertilizer](/uploads/skrzydlokwiat-uprawa.jpg "Wrong fertilizer")
 {% endfig %}
 
-### Too much water
+### Trop d'eau
 
-**Peace lily watering plays a very important role for its blooming and proper growth**. You should provide enough water and keep doing it regularly. Pay special attention to the quality and temperature of the water – hard or too cold water affects the peace lily's blooming. For the best growth, water your plant with cooled down boiled water or with tap water that has stood for more than an hour.
+L'arrosage du nénuphar joue un rôle très important pour sa floraison et sa bonne croissance. Vous devez lui fournir suffisamment d'eau et continuer à l'arroser régulièrement. Faites particulièrement attention à la qualité et à la température de l'eau - une eau dure ou trop froide affecte la floraison du nénuphar. Pour une croissance optimale, arrosez votre plante avec de l'eau bouillie refroidie ou avec de l'eau du robinet qui a stagné pendant plus d'une heure.
 
-**Peace lily is a household plant** that doesn't require too much work, and with little effort it might be a perfect decoration for many years. Its also beneficial for health as it can clean air. It's a plant definitely worth having in your home.
+Le lis de la paix est une plante domestique qui ne demande pas trop de travail, et avec peu d'efforts, elle peut être une décoration parfaite pendant de nombreuses années. Elle est également bénéfique pour la santé car elle peut assainir l'air. C'est une plante qu'il vaut vraiment la peine d'avoir dans votre maison.
 
 {% fig %}
 ![Too much water](/uploads/zbyt-czeste-podlewanie-skrzydlokwiatu.jpg "Too much water")
@@ -150,20 +150,20 @@ One of the reasons for the lack of blooming might be wrong fertilizer. When choo
 
 {% faqItem %}
 {% faqQuestion %}
-How to care for Spathiphyllum?
+Comment soigner le Spathiphyllum ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The most important aspect of taking care for a peace lily is its regular watering. Make sure to water the soil as well as sprinkle the leaves. Also, choose the right type of fertilizer and place the plant in a spot with access to scattered sunlight.
+L'aspect le plus important pour prendre soin d'un lis de paix est son arrosage régulier. Veillez à arroser le sol ainsi qu'à saupoudrer les feuilles. Choisissez également le bon type d'engrais et placez la plante dans un endroit où elle aura accès à la lumière du soleil.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How often to water peace lily?
+Combien de fois faut-il arroser le nénuphar de la paix ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Water your peace lily regularly – in winter once or twice a week, in summer even 3-4 times per week. If you have overwatered it, you might try repotting the peace lily and prepare a proper drainage (in form of a layer of sand or stones).
+Arrosez votre nénuphar régulièrement - en hiver une ou deux fois par semaine, en été même 3-4 fois par semaine. Si vous l'avez trop arrosé, vous pouvez essayer de rempoter le nénuphar et préparer un drainage adéquat (sous forme d'une couche de sable ou de pierres).
 {% endfaqAnswer %}
 {% endfaqItem %}
