@@ -9,160 +9,161 @@ main_keywords:
 toc: true
 promoted: false
 update_date: 2020-07-21
-title: ¿Cómo se limpia una plancha? Compruebe los mejores métodos de limpieza de hierro probados
-description: Dirty iron plate makes ironing difficult? Are you afraid that it might
-  ruin your clothes? ➡️ Learn how to clean an iron - effectively and with no effort!
-intro: Have you ever discovered a stain on your clothes when ironing? Or perhaps you
-  were infuriated because your old, burnt iron had ruined your favourite piece of
-  garment. Such situations are a result of dirt that accumulates on the device. If
-  you dream of fresh, clean clothes, first you need to take care of your iron. Learn
-  how to clean an iron and get rid of the dirt on your appliance.
+title: "¿Cómo se limpia una plancha? Compruebe los mejores métodos de limpieza de
+  hierro probados"
+description: "¿Una plancha de hierro sucia dificulta el planchado? ¿Tienes miedo de
+  que pueda arruinar tu ropa? ➡️ Aprende a limpiar una plancha, de forma efectiva
+  y sin esfuerzo."
+intro: "¿Ha descubierto alguna vez una mancha en su ropa al planchar? O tal vez se
+  enfureció porque su vieja plancha quemada había arruinado su prenda favorita. Tales
+  situaciones son el resultado de la suciedad que se acumula en el dispositivo. Si
+  sueñas con ropa fresca y limpia, primero debes cuidar tu plancha. Aprende a limpiar
+  una plancha y a deshacerte de la suciedad de tu aparato."
 image: "/uploads/jak-wyczyscic-zelazko-skuteczne -sposoby-na-czyszczenie-zelazka.jpg"
 related_products: []
-published: false
 
 ---
-## Why is it so important to clean an iron plate?
+## ¿Por qué es tan importante limpiar una plancha de hierro?
 
-Regular iron plate cleaning is a highly important matter, as it helps to keep the device in good shape. This way **your clothes can always look neat and clean.** But systematic cleaning of the iron plate might be just not enough.
+La limpieza regular de la placa de hierro es un asunto muy importante, ya que ayuda a mantener el dispositivo en buen estado. De esta manera tu ropa siempre puede verse limpia y ordenada. Pero la limpieza sistemática de la plancha puede no ser suficiente.
 
-To make an iron work better, one should:
+Para que una plancha funcione mejor, uno debería:
 
 {:.list.list-positive}
 
-* follow the manufacturer's instructions and recommendations,
-* wipe the iron plate right before using it,
-* iron delicate fabrics through a cotton cloth,
-* start **cleaning iron plate** only after it cools off,
-* remove any lefover water from the container every time after ironing,
-* descale the device regularly,
-* avoid rubbing the iron plate against sharp surfaces,
-* avoid using strong chemicals intended for metals.
+* seguir las instrucciones y recomendaciones del fabricante,
+* Limpia la plancha de hierro justo antes de usarla,
+* plancha las telas delicadas a través de una tela de algodón,
+* empezar a limpiar la placa de hierro sólo después de que se enfríe,
+* retirar el agua sobrante del recipiente cada vez que se planche,
+* descalcificar el dispositivo regularmente,
+* evitar el frotamiento de la plancha de hierro contra superficies afiladas,
+* evitar el uso de productos químicos fuertes destinados a los metales.
 
-Dirt might accumulate on the device for various reasons. One of them is dust settling on the iron plate. A growing **layer of dust creates a sticky surface and adheres to the appliance**. When heated, the dirty residue remains on the ironed clothes.
+La suciedad puede acumularse en el dispositivo por varias razones. Una de ellas es el polvo que se deposita en la placa de hierro. Una capa creciente de polvo crea una superficie pegajosa y se adhiere al aparato. Cuando se calienta, el residuo sucio permanece en la ropa planchada.
 
 {% fig %}
 ![Why is it so important to clean an iron plate?](/uploads/dlaczego-regularne-czyszczenie-zelazka-jest-wazne.jpg "Why is it so important to clean an iron plate?")
 {% endfig %}
 
-Other factor that might have an adverse impact is setting the temperature too high. As a result, the **burnt iron leaves black marks on clothes that are difficult to wash off**. The dirt accumulates inside of the device as well. Hard water that is poured into the water container might cause lime scale buildup. For this reason anyone who wonders how to clean an iron whould remember to clean it inside as well.
+Otro factor que podría tener un impacto adverso es fijar la temperatura demasiado alta. Como resultado, la plancha quemada deja marcas negras en la ropa que son difíciles de lavar. La suciedad se acumula también en el interior del aparato. El agua dura que se vierte en el recipiente de agua podría causar la acumulación de cal. Por esta razón, cualquiera que se pregunte cómo limpiar una plancha, debería recordar limpiarla también por dentro.
 
 {:.distinction.distinction-information}
-For ironing to be effective and unproblematic, just **cleaning iron plate** is not enough. The surface on which the clothes are ironed is equally important. The most convenient and also the safest solution is simply an ironing board. In case you do not own an object of this type (e.g. because of lack of space), you might use a towel placed onto a smooth and hard surface.
+Para que el planchado sea efectivo y sin problemas, no basta con limpiar la plancha. La superficie sobre la que se plancha la ropa es igualmente importante. La solución más conveniente y también la más segura es simplemente una tabla de planchar. En caso de que no tenga un objeto de este tipo (por ejemplo, por falta de espacio), puede utilizar una toalla colocada sobre una superficie lisa y dura.
 
-## How to clean an iron? 5 DIY tricks to clean a steam iron
+## ¿Cómo se limpia una plancha? 5 trucos de bricolaje para limpiar una plancha de vapor
 
-One of the most popular methods to **clean an iron** is using a mixture of vinegar and baking soda. Such cleaning solution in form of **paste is perfect for getting rid of difficult stains on an iron**. Prepare the mixture in proportion 2:1 - mix two parts of soda with one part of vinegar. Be careful not to mix the solution too quickly. The ingredients react with each other and they might grow very rapidly, forming a lot of foam.
+Uno de los métodos más populares para limpiar una plancha es usar una mezcla de vinagre y bicarbonato de sodio. Esta solución limpiadora en forma de pasta es perfecta para eliminar las manchas difíciles de una plancha. Prepare la mezcla en proporción 2:1 - mezcle dos partes de soda con una parte de vinagre. Tenga cuidado de no mezclar la solución demasiado rápido. Los ingredientes reaccionan entre sí y pueden crecer muy rápidamente, formando mucha espuma.
 
 {:.distinction.distinction-warning}
-Although this method is highly effective, it cannot be used with a teflon iron plate. The mixture of those two ingredients is harmful to teflon surfaces.
+Aunque este método es muy efectivo, no puede ser usado con una placa de hierro de teflón. La mezcla de estos dos ingredientes es perjudicial para las superficies de teflón.
 
-### Toothpaste to clean a burnt iron plate
+### Pasta de dientes para limpiar una placa de hierro quemada
 
-How to clean an iron plate made of aluminium? Toothpaste is a perfect remedy for it. Just use some mint toothpaste, spreading it all over the plate with a soft cloth or a toothbrush. **Rub the iron plate delicately** until the burn marks dissapear. Then clean the surface off the paste, paying attetion to the steam holes in the device.
+¿Cómo se limpia una placa de hierro hecha de aluminio? La pasta de dientes es un remedio perfecto para ello. Sólo hay que usar pasta de dientes de menta, extendiéndola por toda la placa con un paño suave o un cepillo de dientes. Frota la plancha de hierro delicadamente hasta que las marcas de quemaduras desaparezcan. Luego limpie la superficie de la pasta, prestando atención a los agujeros de vapor del aparato.
 
 {% fig %}
 ![Toothpaste to clean a burnt iron plate](/uploads/sprawdz-jak-dziala-pasta-do-zebow-na-przypalone-zelazko.jpg "Toothpaste to clean a burnt iron plate")
 {% endfig %}
 
-### Paracetamol - not that obvious but highly effective method to clean an iron
+### Paracetamol - no es tan obvio pero es un método muy efectivo para limpiar una plancha
 
-There are methods on **how to clean an iron** that might be less popular - but they are equally powerful as the others. One of them is using paracetamol. The biggest advantage is the fact that it can be used on any type of surface. Just heat up the iron and press a paracetamol tablet against the surface. To easily get rid of the black marks, **rub it with circular movements against the soleplate**.
+Hay métodos para limpiar una plancha que pueden ser menos populares, pero son tan poderosos como los otros. Uno de ellos es el uso de paracetamol. La mayor ventaja es el hecho de que puede ser usado en cualquier tipo de superficie. Sólo hay que calentar la plancha y presionar una tableta de paracetamol contra la superficie. Para deshacerse fácilmente de las marcas negras, frótela con movimientos circulares contra la suela.
 
 {:.distinction.distinction-information}
-Wait until the iron plate cools off and finish the cleaning using a wet cloth.
+Espera a que la plancha de hierro se enfríe y termina la limpieza con un trapo húmedo.
 
-### How to clean an iron using lemon juice
+### Cómo limpiar una plancha con jugo de limón
 
-Lemon juice is an effective agent that dissolves even the most stubborn dirts that sticks to the surface of the device. It is one of the fastest methods to **clean iron plate**. It might be used with any surface, also **ceramic and teflon**. Just soak a soft cloth with some lemon juice. Then rub the burnt surface until the black marks dissapear. You can get similar results when ironing a fluffy towel soaked with lemon juice.
+El jugo de limón es un agente efectivo que disuelve incluso las suciedades más resistentes que se adhieren a la superficie del dispositivo. Es uno de los métodos más rápidos para limpiar la placa de hierro. Se puede utilizar con cualquier superficie, también con cerámica y teflón. Sólo hay que empapar un paño suave con un poco de jugo de limón. Luego frotar la superficie quemada hasta que las marcas negras desaparezcan. Se pueden obtener resultados similares al planchar una toalla esponjosa empapada con jugo de limón.
 
 {% fig %}
 ![How to clean an iron using lemon juice](/uploads/jak-wyczyscic-zelazko-sokiem-z-cytryny.jpg "How to clean an iron using lemon juice")
 {% endfig %}
 
-### A burnt iron plate? Just use cooking salt
+### ¿Una placa de hierro quemada? Sólo usa sal de cocina
 
-Salt is a good way to clean any type of iron. Place a piece of parchment paper or newspaper on an even, flat surface. Then pour some salt on it and press a hot iron. Rub it against the salted surface - the dirt is going to dissapear after a few minutes.
+La sal es una buena forma de limpiar cualquier tipo de hierro. Coloque un trozo de papel pergamino o de periódico en una superficie plana y uniforme. Luego vierta un poco de sal sobre él y presione una plancha caliente. Frótelo contra la superficie salada - la suciedad desaparecerá después de unos minutos.
 
-## How to clean an iron with a ceramic plate?
+## ¿Cómo se limpia una plancha con un plato de cerámica?
 
-A ceramic iron plate is very delicate, therefore it needs special treatment.
+Una plancha de cerámica es muy delicada, por lo que necesita un tratamiento especial.
 
-Small stains can be removed with acidic solutions such as vinegar or lemon juice. If the iron is badly burnt, they might be ineffective. How to clean an iron in such case? Just use a raw wooden board. Heat up the device and rub the board against the surface, using appropriate force.
+Las pequeñas manchas se pueden eliminar con soluciones ácidas como el vinagre o el zumo de limón. Si la plancha está muy quemada, pueden ser ineficaces. ¿Cómo se limpia una plancha en tal caso? Sólo hay que usar una tabla de madera cruda. Caliente el aparato y frote la tabla contra la superficie, usando la fuerza adecuada.
 
 {:.distinction.distinction-warning}
-Be careful not to press too strong when ironing. It might damage the fragile iron plate. You might also try to use a special brush for ceramic surfaces. Keep in mind that it is a risky method and you should be careful.
+Ten cuidado de no presionar demasiado fuerte al planchar. Podría dañar la frágil placa de hierro. También puede intentar usar un cepillo especial para superficies de cerámica. Ten en cuenta que es un método arriesgado y debes tener cuidado.
 
-## How to clean a iron with a teflon-coated plate?
+## ¿Cómo se limpia una plancha con una placa recubierta de teflón?
 
-Another fragile type of irons are the ones with a teflon-coated plates. They are very prone to scratches, therefore one should use such a device carefully.
+Otro tipo de planchas frágiles son las que tienen una placa recubierta de teflón. Son muy propensas a los arañazos, por lo que se debe usar con cuidado.
 
-**How to clean an iron** so that the process is safe for the surface? If the plate is burnt, you might try rubbing it with a soft cloth dampened with vinegar. Because teflon is a very delicate surface, cleaning iron plate requires extra patience.
+¿Cómo limpiar una plancha para que el proceso sea seguro para la superficie? Si la plancha está quemada, se puede intentar frotarla con un paño suave humedecido en vinagre. Debido a que el teflón es una superficie muy delicada, la limpieza de la plancha requiere una paciencia extra.
 
-Mistakes that one should avoid when **cleaning iron plate with a fragile coating**:
+Errores que uno debe evitar al limpiar una placa de hierro con una capa frágil:
 
 {:.list.list-positive}
 
-* quick, rapid rubbing against the surface,
-* cleaning iron plate with a wire brush,
-* using baking soda or salt,
-* using chemicals meant for other types of surfaces.
+* ...un rápido, rápido frotamiento contra la superficie,
+* limpiando la placa de hierro con un cepillo de alambre,
+* usando bicarbonato de sodio o sal,
+* utilizando productos químicos destinados a otros tipos de superficies.
 
-## How to clean a steam iron safely
+## Cómo limpiar una plancha de vapor de forma segura
 
-Everyday cleaning of a steam iron should be performed very carefully so that the device is not damaged.
+La limpieza diaria de una plancha de vapor debe realizarse con mucho cuidado para que el aparato no se dañe.
 
-A steam iron is quite different than the rest of the appliances of this type. It uses hot steam that is distributed through specially designed steam holes. In traditional irons steam is used only as an addition. Because a steam iron works differently than other devices, it needs to be cleaned differently as well. How to clean an iron of this type so that it's safe?
+Una plancha de vapor es bastante diferente al resto de los aparatos de este tipo. Utiliza vapor caliente que se distribuye a través de unos orificios de vapor especialmente diseñados. En las planchas tradicionales el vapor se utiliza sólo como un complemento. Debido a que una plancha de vapor funciona de manera diferente a otros aparatos, también necesita ser limpiada de manera diferente. ¿Cómo se puede limpiar una plancha de este tipo para que sea segura?
 
 {% fig %}
 ![How to clean a steam iron safely](/uploads/sposob-na-bezpieczne-czyszczenie-zelazka-parowego.jpg "How to clean a steam iron safely")
 {% endfig %}
 
-Similar to every other iron, a steam iron needs to be wiped every time before using it. Otherwise dust might cause the iron plate to burn. For regular cleaning, it is good to use a cream cleaner, specifically designed for this type of devices. It should be spread onto the surface with a clean, soft cloth.
+Como cualquier otra plancha, una plancha de vapor debe ser limpiada cada vez antes de usarla. De lo contrario, el polvo podría causar que la plancha se queme. Para una limpieza regular, es bueno usar una crema limpiadora, específicamente diseñada para este tipo de aparatos. Debe extenderse sobre la superficie con un paño limpio y suave.
 
-If the device gets burnt, the best remedy in such case is vinegar. Soak a cloth with a hot solution made of half glass of vinegar and two tablspoons of baking soda. Rub it delicately until the marks are gone - it's a very quick method.
+Si el dispositivo se quema, el mejor remedio en tal caso es el vinagre. Remoje un paño con una solución caliente hecha de medio vaso de vinagre y dos cucharadas de bicarbonato de sodio. Frótelo delicadamente hasta que las marcas desaparezcan, es un método muy rápido.
 
-## How to clean an iron with a scale buildup?
+## ¿Cómo limpiar una plancha con una acumulación de escamas?
 
-Descaling an iron is a very important part of the device maintenace. It should be repeated regularly, at least once in two months. Cleaning iron this way can make it last much longer without any malfunction.
+Desincrustar una plancha es una parte muy importante del mantenimiento del dispositivo. Debe repetirse regularmente, al menos una vez cada dos meses. Limpiar la plancha de esta forma puede hacer que dure mucho más tiempo sin que se produzca ninguna avería.
 
-If you're wondering how to clean an iron and get rid of limescale - there are several methods to choose from. The easiest way is to buy a descaler. Pouring this strong chemical into the device gets rid of the scale in no time.
-
-{:.distinction.distinction-information}
-Descaler is a very cheap product. It is completely safe for irons so there is no worry that it could damage your device.
-
-Another, even less costly method to clean an iron with a scale buildup is a solution of vinegar with water. Pour it into the water tank and start ironing a cloth until the scale falls off. When ironing, you will smell a characteristic scent of vinegar.
-
-One more, very popular and cheap way to clean an iron off scale is using a citric acid solution. To make it, mix a glass of water with three tablespoons of acid. Similar to the previous method, turn on the iron and start irining a cloth. The scale should fall out of the steam holes.
+Si se pregunta cómo limpiar una plancha y deshacerse de la cal, hay varios métodos para elegir. La forma más fácil es comprar un descalcificador. Vertiendo este fuerte químico en el dispositivo se deshace de la cal en poco tiempo.
 
 {:.distinction.distinction-information}
-There are irons that have a special function called _calc-clean_ or _self-clean_. It notifies the user when the device needs to be cleaned. It is typically signalled by a special light.
+El descalcificador es un producto muy barato. Es completamente seguro para las planchas, así que no hay que preocuparse de que pueda dañar su dispositivo.
+
+Otro método aún menos costoso para limpiar una plancha con acumulación de incrustaciones es una solución de vinagre con agua. Viértalo en el tanque de agua y comience a planchar un paño hasta que la cal se caiga. Al planchar, olerá un olor característico a vinagre.
+
+Otra forma muy popular y barata de limpiar una plancha de escamas es usar una solución de ácido cítrico. Para hacerla, se mezcla un vaso de agua con tres cucharadas de ácido. Similar al método anterior, encienda la plancha y comience a planchar un paño. La escama debe caer por los agujeros de vapor.
+
+{:.distinction.distinction-information}
+Hay hierros que tienen una función especial llamada calc-limpieza o auto-limpieza. Notifica al usuario cuando el dispositivo necesita ser limpiado. Normalmente se señala con una luz especial.
 
 {% faqItem %}
 {% faqQuestion %}
-How to clean an iron that has been burnt?
+¿Cómo limpiar una plancha que ha sido quemada?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-First, choose the right method for cleaning an iron plate. One of the most popular remedies that is safe for any kind of device is ironing a cloth soaked with lemon juice. This way you can quickly get rid of the black marks.
+Primero, elige el método correcto para limpiar una plancha de hierro. Uno de los remedios más populares y seguros para cualquier tipo de aparato es planchar un paño empapado con jugo de limón. De esta manera puedes deshacerte rápidamente de las marcas negras.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-What should I use to clean iron plate?
+¿Qué debo usar para limpiar la plancha de hierro?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Use a soft, damp cloth every time before using the iron to get rid of dust. You might also use an earbud to clean the steamholes. Cleaning iron plate is important, as it prevents the device malfunction.
+Use un paño suave y húmedo cada vez antes de usar la plancha para deshacerse del polvo. También puedes usar un auricular para limpiar los agujeros de vapor. La limpieza de la plancha es importante, ya que evita que el dispositivo funcione mal.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to clean an iron with teflon-coating?
+¿Cómo se limpia una plancha con revestimiento de teflón?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The best method for cleaning iron plate made of teflon is wiping the surface with a cloth soaked with vinegar. Avoid using force, as it could damage the delicate surface. Do it regularly so that the iron plate is always ready to use.
+El mejor método para limpiar una plancha de teflón es limpiar la superficie con un paño empapado en vinagre. Evite el uso de la fuerza, ya que podría dañar la delicada superficie. Hágalo con regularidad para que la plancha esté siempre lista para su uso.
 {% endfaqAnswer %} {% endfaqItem %}
