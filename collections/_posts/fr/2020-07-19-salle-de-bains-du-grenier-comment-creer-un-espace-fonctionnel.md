@@ -10,21 +10,21 @@ toc: true
 promoted: false
 update_date: 2020-07-19
 title: Salle de bains du grenier - Comment créer un espace fonctionnel ?
-description: "Dreaming of a beautiful attic bathroom? \U0001F6C0\U0001F3FC Take a
-  look at the most interesting ideas. ➡️ Check some stylish and functional designs."
-intro: A bathroom is quite a difficult to design space. What's more, a room with a
-  sloped ceiling is a real challenge. Contrary to the popular belief, an attic bathroom
-  can be functional despite its unusual shape. What attic bathroom ideas are the best
-  to make it a good-looking and practical interior? We have prepared some tips and
-  inspirations for you.
+description: "Vous rêvez d'une belle salle de bain au grenier ? \U0001F6C0\U0001F3FC
+  Jetez un coup d'œil aux idées les plus intéressantes. ➡️ Vérifiez quelques designs
+  élégants et fonctionnels."
+intro: Une salle de bain est un espace assez difficile à concevoir. De plus, une pièce
+  avec un plafond en pente est un véritable défi. Contrairement à la croyance populaire,
+  une salle de bains mansardée peut être fonctionnelle malgré sa forme inhabituelle.
+  Quelles sont les meilleures idées pour en faire un intérieur esthétique et pratique
+  ? Nous avons préparé quelques conseils et inspirations pour vous.
 image: "/uploads/lazienka-na-poddaszu-jak-stworzyc-funkcjonalne-pomieszczenie.jpg"
 related_products: []
-published: false
 
 ---
-## Attic bathroom – what challenges does it pose?
+## La salle de bains du grenier - quels défis pose-t-elle ?
 
-An attic bathroom, according to many, poses many limitations. Large slopes, short walls and sometimes joists, depending on the building's plan. Obviously, on one hand those are quite difficult conditions, which do not make designing an attic bathroom any easier. On the other – you simply cannot change the structure of the room. The best idea, therefore, is to make those elements **a** **distinguishable feature** of your interior. It's a good way to get unusual and very stylish looking interiors.
+Une salle de bains de grenier, selon beaucoup, pose de nombreuses limites. De grandes pentes, des murs courts et parfois des solives, selon le plan du bâtiment. Il est évident que, d'une part, ce sont des conditions assez difficiles, qui ne facilitent pas la conception d'une salle de bains de grenier. D'autre part, il est tout simplement impossible de modifier la structure de la pièce. La meilleure idée est donc de faire de ces éléments un élément distinctif de votre intérieur. C'est un bon moyen d'obtenir des intérieurs inhabituels et très élégants.
 
 {% fig %}
 
@@ -32,13 +32,13 @@ An attic bathroom, according to many, poses many limitations. Large slopes, shor
 
 {% endfig %}
 
-## Ceiling slopes and their possibilities in an attic bathroom
+## Les pentes de plafond et leurs possibilités dans une salle de bain au grenier
 
-**An attic bathroom** **does not necessarily mean that your possibilities are limited.** Keep in mind that the slopes, which in some situations are problematic, might create a lot of opportunities. In case of large spaces – they might be used for cupboards and shelves. You could keep towels, pajamas, cleaning supplies and cosmetics in them.
+Une salle de bain au grenier ne signifie pas nécessairement que vos possibilités sont limitées. N'oubliez pas que les pentes, qui dans certaines situations sont problématiques, peuvent créer de nombreuses opportunités. Dans le cas de grands espaces - ils peuvent être utilisés pour des placards et des étagères. Vous pourriez y ranger serviettes, pyjamas, produits de nettoyage et cosmétiques.
 
-## A good space planning is key for an attic bathroom design
+## Une bonne planification de l'espace est essentielle pour l'aménagement d'une salle de bains dans un grenier
 
-The possibilities created by an attic bathroom mostly depend on the space you have at your disposal. Although it seems that a big bathroom with a ceiling slope is easy to design, it might be very tricky – especially if you don't **plan your space well.** A small attic bathroom, on the other hand, requires a lot of skill and implementation of functional solutions that won't take too much space. For this reason attic bathroom design is often left to specialists, who know best how to fit such an interior to meet the needs of their clients.
+Les possibilités offertes par une salle de bain mansardée dépendent essentiellement de l'espace dont vous disposez. Bien qu'il semble qu'une grande salle de bains avec une pente de plafond soit facile à concevoir, cela peut être très délicat, surtout si vous ne planifiez pas bien votre espace. Une petite salle de bains mansardée, en revanche, exige beaucoup de compétences et la mise en œuvre de solutions fonctionnelles qui ne prendront pas trop de place. C'est pourquoi la conception des salles de bains de grenier est souvent laissée aux spécialistes, qui savent mieux que quiconque comment aménager un tel intérieur pour répondre aux besoins de leurs clients.
 
 {% fig %}
 
@@ -46,13 +46,13 @@ The possibilities created by an attic bathroom mostly depend on the space you ha
 
 {% endfig %}
 
-## Attic bathroom design – lighting
+## Aménagement de la salle de bains du grenier - éclairage
 
-Attic bathrooms often contain **roof windows**. Natural lighting is very important, as it creates the sense of spatiality of the interior and lifts the weight off the design. But what if an attic bathroom has no windows? In such a case make sure to pick the **proper artificial lighting**. A combination of plenty of light points, a mirror and some glass might create an interesting atmosphere.
+Les salles de bains des greniers sont souvent dotées de fenêtres de toit. L'éclairage naturel est très important, car il crée le sentiment de spatialité de l'intérieur et soulage le design. Mais que se passe-t-il si une salle de bains mansardée n'a pas de fenêtres ? Dans ce cas, veillez à choisir un éclairage artificiel approprié. Une combinaison de nombreux points lumineux, d'un miroir et de verre peut créer une atmosphère intéressante.
 
 {:.distinction.distinction-information}
 
-Small attic bathrooms look perfect if you replace internal walls with glassbrick. Hollow glass bricks, which were not very popular in the recent years – are making a comeback.
+Les petites salles de bains des greniers sont parfaites si vous remplacez les murs intérieurs par de la brique de verre. Les briques de verre creuses, qui n'étaient pas très populaires ces dernières années, font un retour en force.
 
 {% fig %}
 
@@ -60,21 +60,21 @@ Small attic bathrooms look perfect if you replace internal walls with glassbrick
 
 {% endfig %}
 
-## Making a small attic bathroom look bigger
+## Agrandir une petite salle de bains au grenier
 
-Apart from the mentioned above method with the use of lighting, you can also **make the small attic bathroom visually bigger** by using certain design elements. The most popular trick involves using white color – on the floor, walls and furniture. Minimalism and **absolute white look** is a go-to design for anyone who doesn't know which style is the best for them. White can be matched with any accessory, making it easy to change the looks of the interior even several times a year.
+Outre la méthode mentionnée ci-dessus avec l'utilisation de l'éclairage, vous pouvez également agrandir visuellement la petite salle de bains du grenier en utilisant certains éléments de design. L'astuce la plus populaire consiste à utiliser la couleur blanche - sur le sol, les murs et le mobilier. Le minimalisme et l'aspect blanc absolu sont des éléments de design incontournables pour tous ceux qui ne savent pas quel style leur convient le mieux. Le blanc peut être associé à n'importe quel accessoire, ce qui permet de changer facilement l'aspect de l'intérieur, même plusieurs fois par an.
 
 {:.distinction.distinction-information}
 
-A small attic bathroom doesn't like massive, highly ornamental furniture with carvings. Choose plain fronts instead. You can also give up handles and pick modern tip-on doors, which open by pressing on them.
+Une petite salle de bain mansardée n'aime pas les meubles massifs et très décoratifs avec des sculptures. Choisissez plutôt des façades unies. Vous pouvez également renoncer aux poignées et choisir des portes basculantes modernes, qui s'ouvrent en appuyant dessus.
 
-## An attic bathroom with a bathtub? A great idea!
+## Une salle de bain mansardée avec baignoire ? Une idée géniale !
 
-An attic bathroom is a perfect place for a bathtub. It is ideal for a sloped ceiling interior. If the amount of space allows for it, **you could choose a freestanding bathtub**, which is the best type for relaxation. If the small bathroom is too tiny for such a design, pick a small tub attached to the wall. An attic bathroom is becoming a popular design, so you shouldn't have any problems with finding the right accessories for it.
+Une salle de bains mansardée est un endroit parfait pour une baignoire. Elle est idéale pour un intérieur avec un plafond en pente. Si l'espace le permet, vous pouvez choisir une baignoire indépendante, qui est le meilleur type de baignoire pour la détente. Si la petite salle de bains est trop petite pour un tel design, choisissez une petite baignoire fixée au mur. Une salle de bains mansardée est en train de devenir un design populaire, vous ne devriez donc pas avoir de problèmes pour trouver les bons accessoires.
 
 {:.distinction.distinction-warning}
 
-An attic bathroom with a shower stand is a more difficult solution, mostly due to the limited height and the slopes. Classic shower stalls are not suitable for an attic bathroom. If you have enough space – consider placing the shower in the center of the room. Such design, however, might be not very practical.
+Une salle de bain mansardée avec une douche est une solution plus difficile, principalement en raison de la hauteur limitée et des pentes. Les cabines de douche classiques ne conviennent pas pour une salle de bain mansardée. Si vous disposez de suffisamment d'espace, pensez à placer la douche au centre de la pièce. Une telle conception, cependant, pourrait ne pas être très pratique.
 
 {% fig %}
 
@@ -82,13 +82,13 @@ An attic bathroom with a shower stand is a more difficult solution, mostly due t
 
 {% endfig %}
 
-## Attic bathroom ideas – the most popular designs of 2020
+## Les idées de salles de bains de grenier - les modèles les plus populaires de 2020
 
-The most important elements of a well-designed attic bathroom are the mentioned above: planning, lighting and suitable accessories. **Do not forget, however, about the current trends, which have been quite diverse in 2020.** They can help you find a perfect solution for your attic bathroom. What type of loft bathroom is the trendiest this year?
+Les éléments les plus importants d'une salle de bains mansardée bien conçue sont ceux mentionnés ci-dessus : la planification, l'éclairage et les accessoires appropriés. N'oubliez pas, cependant, les tendances actuelles, qui ont été très diverses en 2020. Elles peuvent vous aider à trouver une solution parfaite pour votre salle de bains mansardée. Quel type de salle de bains mansardée est le plus tendance cette année ?
 
-### Wood and white – a classic attic bathroom
+### Bois et blanc - une salle de bains classique dans le grenier
 
-White combined with wood is a perfect solution for a very cozy attic bathroom. If you decide to pick this style, consider using **wood-look ceramic tiles** and a **wooden top** for a **wash-stand**. A round mirror with a wooden frame hung on a thick rope is also an interesting idea. Such design can also use wooden shelves for cosmetics and a towel holder in a similar style.
+Le blanc combiné au bois est une solution parfaite pour une salle de bains de grenier très confortable. Si vous choisissez ce style, pensez à utiliser des carreaux de céramique d'aspect bois et un plan de travail en bois pour le lavabo. Un miroir rond avec un cadre en bois accroché à une corde épaisse est également une idée intéressante. Ce type de design peut également utiliser des étagères en bois pour les cosmétiques et un porte-serviettes dans un style similaire.
 
 {% fig %}
 
@@ -102,13 +102,13 @@ White combined with wood is a perfect solution for a very cozy attic bathroom. I
 
 {% endfig %}
 
-### A modern attic bathroom – black accessories and green color
+### Une salle de bain moderne dans le grenier - accessoires noirs et couleur verte
 
-Attic bathrooms in a classic white color can be supplemented with **black accessories** **to break the monotony** and create a very modern looking interior. Are you wondering how to add dark accents to your interior? Details are what is best to focus on**: black lamp shades, fittings, mirror frame or washbasin pedestal.** To make your attic bathroom more homely – use plants, which are perfect for this type of design. The green color is a great blend for various shades.
+Les salles de bains mansardées d'une couleur blanche classique peuvent être complétées par des accessoires noirs pour rompre la monotonie et créer un intérieur d'allure très moderne. Vous vous demandez comment ajouter des accents sombres à votre intérieur ? Le mieux est de se concentrer sur les détails** : abat-jour, robinetterie, cadre de miroir ou socle de lavabo noirs** Pour rendre votre salle de bains mansardée plus accueillante, utilisez des plantes, qui sont parfaites pour ce type de design. La couleur verte est un excellent mélange pour les différentes nuances.
 
 {:.distinction.distinction-information}
 
-Do you wish to have a modern looking interior but do not want to overdo the accessories? Choose white wall tiles with irregular shape. You can also pick tiles with uneven, three-dimensional structure. Those are small accents which can add a lot of character to your attic bathroom.
+Vous souhaitez avoir un intérieur moderne mais vous ne voulez pas en faire trop avec les accessoires ? Choisissez des carreaux muraux blancs de forme irrégulière. Vous pouvez également choisir des carreaux dont la structure est irrégulière et tridimensionnelle. Ce sont de petits accents qui peuvent ajouter beaucoup de caractère à votre salle de bains mansardée.
 
 {% fig %}
 
@@ -122,8 +122,8 @@ Do you wish to have a modern looking interior but do not want to overdo the acce
 
 {% endfig %}
 
-### Black or navy blue attic bathroom design
+### Design de salle de bains de grenier noir ou bleu marine
 
-Elegant, dark colors are becoming more and more popular – therefore it's no wonder that they also appear in the context of an attic bathroom design. **Dark grey, steel blue or even black are the colors that are particularly popular for home interiors in 2020.** In an attic bathroom, though, they need a very good, well-thought design. They look perfect with a big mirror wall, for instance. In most cases, dark-colored attic bathrooms are prepared by professional interior designers. By hiring a specialist, you can be completely sure that the outcome will be satifying.
+Les couleurs élégantes et sombres sont de plus en plus populaires - il n'est donc pas étonnant qu'elles apparaissent également dans le contexte de la conception d'une salle de bains de grenier. Le gris foncé, le bleu acier ou même le noir sont les couleurs qui sont particulièrement populaires pour l'intérieur des maisons en 2020. Dans une salle de bain mansardée, cependant, elles doivent être très bien conçues et bien pensées. Elles sont parfaites avec un grand mur de miroir, par exemple. Dans la plupart des cas, les salles de bains de mansarde de couleur sombre sont préparées par des architectes d'intérieur professionnels. En faisant appel à un spécialiste, vous pouvez être sûr que le résultat sera satisfaisant.
 
-Before you start designing your attic bathroom, think about what you expect from the interior. Check your possibilities and get inspired with modern trends that are used by others. This way you can easily create a perfect space which will suit all your needs.
+Avant de commencer à concevoir votre salle de bains mansardée, réfléchissez à ce que vous attendez de l'intérieur. Vérifiez vos possibilités et inspirez-vous des tendances modernes utilisées par d'autres. Ainsi, vous pourrez facilement créer un espace parfait qui répondra à tous vos besoins.
