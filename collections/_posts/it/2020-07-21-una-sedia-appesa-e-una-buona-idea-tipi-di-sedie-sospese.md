@@ -3,16 +3,16 @@ layout: post
 date: 2020-07-21
 toc: true
 title: Una sedia appesa è una buona idea? Tipi di sedie sospese
-description: Hanging chair is a popular piece of furniture. It fits almost any interior
-  design. This comfortable element is appreciated both by children and adults.
+description: Hanging chair è un mobile molto popolare. Si adatta a quasi tutti gli
+  interni. Questo elemento confortevole è apprezzato sia dai bambini che dagli adulti.
 image: "/uploads/fotel-wiszacy.jpg"
 promoted: false
 update_date: 2020-07-21
-intro: Hanging chair is a comfortable piece of furniture that can be found in many
-  apartments. It is mostly associated with a teenager’s or children’s room, however
-  it is also appreciated among adults. It’s not surprising - rocking movement can
-  quickly relax the whole body. Hanging chair is also a highly aesthetic element.
-  Is it suitable for every type of interior design?
+intro: La sedia a sospensione è un mobile confortevole che si trova in molti appartamenti.
+  È per lo più associata alla camera di un adolescente o di un bambino, ma è apprezzata
+  anche dagli adulti. Non c'è da stupirsi - il movimento a dondolo può rilassare rapidamente
+  tutto il corpo. La sedia a dondolo è anche un elemento altamente estetico. È adatta
+  ad ogni tipo di arredamento?
 main_keywords:
 - sedia sospesa
 - sedia a forma di uovo pensile
@@ -22,61 +22,61 @@ main_keywords:
 - come fare una sedia sospesa
 - come appendere una sedia appesa
 - come installare una sedia sospesa
-published: false
 
 ---
-## Hanging chair - comfort in your home
+## Sedia pensile - comfort in casa vostra
 
-First hanging chairs were constructed in the 60s. The most popular model from that period is the famous **Bubble Chair**, designed in 1968 by a Finnish creator. The seat is perfectly round and made of transparent material. The chair is hung from the ceiling on a metal chain, so that it resembles a floating bubble.
+Le prime sedie sospese sono state costruite negli anni '60. Il modello più popolare di quel periodo è la famosa Bubble Chair, progettata nel 1968 da un creatore finlandese. La seduta è perfettamente rotonda e realizzata in materiale trasparente. La sedia è appesa al soffitto su una catena metallica, in modo che assomigli a una bolla galleggiante.
 
-Hanging chairs are more popular than ever, with a lot of different shapes and materials. They have many advantages. **Gentle rocking** is a great way to relax. It scientifically proven that rocking motion relaxes muscles, helps to fall asleep and stimulates deep sleep. Hanging chairs are very comfortable and they are equipped with soft cushions and mattresses. An evening spent in such a chair with a book or a cup of tea is an ideal way to relax after a long, stressful day.
+Le sedie sospese sono più popolari che mai, con molte forme e materiali diversi. Hanno molti vantaggi. Il dondolio delicato è un ottimo modo per rilassarsi. È scientificamente provato che il dondolio rilassa i muscoli, aiuta ad addormentarsi e stimola il sonno profondo. Le sedie a dondolo sono molto confortevoli e sono dotate di morbidi cuscini e materassi. Una serata trascorsa su una sedia di questo tipo con un libro o una tazza di tè è un modo ideale per rilassarsi dopo una lunga e stressante giornata.
 
-Hanging chair is a perfect decoration element for any type of interior design. This type of furniture can be characterised by a wide variety of shapes. Colour and material can be suited to an interior design - the choice is wide. A hanging chair is a perfect element for rooms in scandinavian and minimalist style.
+Hanging chair è un elemento decorativo perfetto per qualsiasi tipo di arredamento. Questo tipo di arredamento può essere caratterizzato da una grande varietà di forme. Il colore e il materiale possono essere adatti a un design d'interni - la scelta è ampia. Una sedia sospesa è un elemento perfetto per ambienti in stile scandinavo e minimalista.
 
-## What is the best hanging chair?
+## Qual è la migliore sedia sospesa?
 
-There are many types of **hanging chairs**. Designers constantly create new forms. As a result one can fit the hanging chair style to the interior design at their place. You can choose from simple and minimalistic, as well as ornamental and decorative shapes.
+Ci sono molti tipi di sedie sospese. I designer creano costantemente nuove forme. Il risultato è che si può adattare lo stile della sedia sospesa al design d'interni al loro posto. Si può scegliere tra forme semplici e minimaliste, oltre che ornamentali e decorative.
 
-### Choosing a hanging chair - types
+### Scelta di una sedia sospesa - tipi
 
-The main difference between furniture of this type is in appearance and construction. Not every hanging chair is suitable for every room. When choosing the right object, consider your own needs and the purpose of the chair. Most furniture shops offer products such as:
+La differenza principale tra i mobili di questo tipo è nell'aspetto e nella costruzione. Non tutte le sedie sospese sono adatte ad ogni stanza. Quando scegliete l'oggetto giusto, considerate le vostre esigenze e lo scopo della sedia. La maggior parte dei negozi di mobili offrono prodotti come:
 
 {:.list.list-positive}
 
-* **Ceiling hanging chair** - it is the most appealing type. The seat hangs on a rope attached to a hook fixed to a ceiling. This type allows full range of movement for a user. There are wider and narrower models, you can choose the one that fits your particular needs.
-* **Hanging chair with stand** - this type is more mobile. The seat hangs from a stand placed on the floor. It is much smaller than the version attached to a ceiling. It is a big advantage in places of limited space. A hanging chair of this type offers a smaller range of movement. The mobility allows to put it on a balcony or in summer - on a patio.
-* **Brazilian hammock chair** - it’s a type of hammock. Its advantage is the fact that it perfectly fits any body shape. It is also much cheaper than the previous models. The hanging chair of this type might be removed if needed. It can be easily stored in a wardrobe, not taking too much space.
+* Sedia sospesa a soffitto - è il tipo più attraente. Il sedile è appeso a una corda fissata a un gancio fissato al soffitto. Questo tipo permette una gamma completa di movimento per un utente. Ci sono modelli più larghi e più stretti, è possibile scegliere quello più adatto alle proprie esigenze.
+* Sedia pensile con supporto - questo tipo è più mobile. Il sedile è appeso a un supporto posto sul pavimento. È molto più piccola della versione fissata al soffitto. È un grande vantaggio in luoghi con spazio limitato. Una sedia pensile di questo tipo offre un raggio di movimento più ridotto. La mobilità permette di metterla su un balcone o in estate - su un patio.
+* Amaca brasiliana - è un tipo di amaca. Il suo vantaggio è il fatto che si adatta perfettamente a qualsiasi forma del corpo. È anche molto più economica rispetto ai modelli precedenti. La sedia appesa di questo tipo può essere rimossa se necessario. Può essere facilmente riposta in un armadio, senza occupare troppo spazio.
 
 {:.distinction.distinction-information}
-If you decided to buy a hanging chair, pay attention to its shape. There are many designs available. Some are completely round, similar to the Bubble Chair. The most commonly chosen type is hanging egg chair with elongated back rest. There are also two-person versions, with wide seats. Make sure consider the amount of space you can dedicate for this piece of furniture.
+Se avete deciso di acquistare una sedia appesa, fate attenzione alla sua forma. Ci sono molti design disponibili. Alcuni sono completamente rotondi, simili alla Bubble Chair. Il tipo più comunemente scelto è la sedia a forma di uovo appeso con schienale allungato. Ci sono anche versioni per due persone, con sedili larghi. Assicuratevi di considerare la quantità di spazio che potete dedicare a questo mobile.
 
 {% fig %}
 ![Choosing a hanging chair - types](/uploads/fotel-wiszacy-do-pokoju.jpg "Choosing a hanging chair - types")
 {% endfig %}
 
-### Hanging chair materials
+### Materiali per sedie a sospensione
 
-The shape is not the only criterion that you should pay attention to. A **hanging chair** might be made of various materials. The original Bubble Chair is made of acrylic, stainless steel frame and leather cushion. The most commonly used materials are:
+La forma non è l'unico criterio al quale si deve prestare attenzione. Una sedia sospesa può essere realizzata in vari materiali. L'originale Bubble Chair è realizzata in acrilico, struttura in acciaio inossidabile e cuscino in pelle. I materiali più comunemente usati sono:
 
 {:.list.list-positive}
 
-* **Rattan** - rattan constructions are very decorative. It’s a **durable and eco-friendly** material, although it is not resistant to water. For this reason weaved furniture should not be placed outside. You can coat the pieces with varnish.
-* **Technorattan** - a technorattan hanging chair is as decorative as natural rattan furniture. Its main advantage is **durability and resistance** to weather conditions.
-* **Wood** - material of this type is heavier than the others. It is perfect for those who value natural materials.
-* **Plastic** - plastic hanging chairs have the widest variety of designs. Plastic is lightweight and **relatively durable**. One should be careful not to scratch it, as any mark is very noticeable and hard to remove. Hanging chair made of plastic is easy to clean.
-* **Fabric** - fabric is most commonly used for hammocks production. They are **lightweight, breathable** and easy to fold. The most popular fabrics are cotton and linen. There is also a similar solution - a hanging chair made of twine.
-* **Metal** - a metal hanging chair i made of a durable net. The most common metal used for this purpose is aluminium.
+* Rattan - le costruzioni in rattan sono molto decorative. È un materiale durevole ed ecologico, anche se non è resistente all'acqua. Per questo motivo i mobili intrecciati non dovrebbero essere collocati all'esterno. È possibile rivestire i pezzi con vernice.
+* Technorattan - una sedia appesa in technorattan è decorativa come i mobili in rattan naturale. Il suo vantaggio principale è la durata e la resistenza agli agenti atmosferici.
 
-The choice of material depends on the purpose of your hanging chair. If you are going to place the object outside, choose a material that is resistant to weather conditions. You should also consider the general design of your room. The popular scandinavian style uses wood, fabric and **weaved hanging chairs**. Natural rattan chairs are good elements for rustic style. Contemporary and minimalist style can be perfectly complemented with plastic or metal hanging chair with a simple, geometric shape.
+  Legno - materiale di questo tipo è più pesante degli altri. È perfetto per coloro che apprezzano i materiali naturali.
+* Plastica - le sedie sospese in plastica hanno la più ampia varietà di design. La plastica è leggera e relativamente resistente. Si dovrebbe fare attenzione a non graffiarla, poiché qualsiasi segno è molto evidente e difficile da rimuovere. Sedia pensile in plastica è facile da pulire.
+* Tessuto - il tessuto è più comunemente usato per la produzione di amache. Sono leggeri, traspiranti e facili da piegare. I tessuti più popolari sono il cotone e il lino. C'è anche una soluzione simile - una sedia appesa fatta di spago.
+* Metallo - una sedia sospesa in metallo fatta di una rete resistente. Il metallo più comunemente usato per questo scopo è l'alluminio.
 
-## Where to place a hanging chair?
+La scelta del materiale dipende dallo scopo della vostra sedia appesa. Se avete intenzione di posizionare l'oggetto all'esterno, scegliete un materiale resistente agli agenti atmosferici. Dovreste anche considerare il design generale della vostra stanza. Il popolare stile scandinavo utilizza legno, tessuto e sedie sospese intrecciate. Le sedie in rattan naturale sono ottimi elementi per lo stile rustico. Lo stile contemporaneo e minimalista può essere perfettamente integrato con sedie sospese in plastica o metallo dalla forma semplice e geometrica.
 
-If you decided to purchase a hanging chair, make sure that you have enough space in the house. If it’s a ceiling hanging chair, position it in a spacious room so that the **movements are not blocked**. The chair should be placed far from the windows and other objects. If it’s too close, there is a risk of breaking the window when swinging on the chair. You could also accidentally hit the sharp edges of furniture.
+## Dove posizionare una sedia appesa?
 
-A hanging chair with stand takes significantly less space. Because of its construction the movements are limited, therefore there is no risk of damaging the furniture. You can place it **closer to the walls** and furniture. A big advantage is the fact that it can be moved at any time.
+Se avete deciso di acquistare una sedia sospesa, assicuratevi di avere abbastanza spazio in casa. Se si tratta di una sedia appesa al soffitto, posizionatela in una stanza spaziosa in modo che i movimenti non siano bloccati. La sedia deve essere posizionata lontano dalle finestre e da altri oggetti. Se è troppo vicina, c'è il rischio di rompere la finestra quando si oscilla sulla sedia. Si potrebbe anche colpire accidentalmente i bordi taglienti dei mobili.
+
+Una sedia sospesa con supporto richiede molto meno spazio. A causa della sua costruzione i movimenti sono limitati, quindi non c'è il rischio di danneggiare i mobili. È possibile posizionarla più vicina alle pareti e ai mobili. Un grande vantaggio è il fatto che può essere spostata in qualsiasi momento.
 
 {:.distinction.distinction-warning}
-If you are planning to place a hanging chair in a children's room, pay special attention to safety. The best location for an object of this type is the middle of the room. Place the seat relatively low over the floor.
+Se avete in programma di collocare una sedia appesa in una stanza per bambini, prestate particolare attenzione alla sicurezza. La posizione migliore per un oggetto di questo tipo è il centro della stanza. Posizionare il sedile relativamente basso sopra il pavimento.
 
 {% fig %}
 ![Where to place a hanging chair?](/uploads/gdzie-umiescic-fotel-wiszacy.jpg "Where to place a hanging chair?")
