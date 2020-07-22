@@ -18,154 +18,154 @@ toc: true
 promoted: false
 update_date: 2020-07-21
 title: Douche sans ride - Vérifier la tendance populaire des salles de bain en 2020
-description: "Thinking about a curbless shower? \U0001F6BF  This unusual bathroom
-  design is becoming a new trend in 2020. ➡️ Find out whether a barrier free shower
-  is for you!"
-intro: In times of minimalistic designs, everyone aims to spare as much space as possible.
-  It might be quite a difficult task, especially if one has little space at their
-  disposal. It is one of the most common problems with bathrooms. Fortunately, interior
-  designers are constantly introducing new trends and solutions. The most popular
-  current trend is a curbless shower in a bathroom. The idea of a wet room allows
-  you to utilize a bathroom space to the maximum. What’s more, the aesthetics of such
-  a solution are beyond one’s imagination.
+description: "Vous pensez à une douche sans rideau ? \U0001F6BF Cette conception inhabituelle
+  de la salle de bains devient une nouvelle tendance en 2020. ➡️ Découvrez si une
+  douche sans barrière est faite pour vous !"
+intro: À l'époque des conceptions minimalistes, tout le monde cherche à économiser
+  le plus d'espace possible. Cela peut être une tâche assez difficile, surtout si
+  l'on dispose de peu d'espace. C'est l'un des problèmes les plus courants dans les
+  salles de bains. Heureusement, les architectes d'intérieur introduisent constamment
+  de nouvelles tendances et solutions. La tendance actuelle la plus populaire est
+  la douche sans rideau dans la salle de bains. L'idée d'une pièce humide vous permet
+  d'utiliser au maximum l'espace de la salle de bains. De plus, l'esthétique d'une
+  telle solution dépasse l'imagination.
 image: "/uploads/sidekix-media-g51F6-zyu-unsplash.jpg"
 related_products: []
-published: false
 
 ---
-## Curbless shower - how does it work?
+## La douche sans ride - comment ça marche ?
 
-A curbless shower is exactly what the name suggests. The base on which shower doors or shower curtains usually rest, is removed.
+Une douche sans courbes, c'est exactement ce que son nom suggère. La base sur laquelle reposent habituellement les portes ou les rideaux de douche est enlevée.
 
-What’s left in the bathroom is only a **shower stall** and shower head. Thanks to this, the room gains a new, lightweight look. Due to the lack of a big white base the only barrier is a glass wall, usually completely transparent. Every other element that is in the bathroom becomes more accentuated.
+Ce qui reste dans la salle de bains n'est qu'une cabine de douche et une pomme de douche. Grâce à cela, la pièce acquiert un nouveau look, plus léger. En raison de l'absence d'une grande base blanche, la seule barrière est un mur de verre, généralement complètement transparent. Tous les autres éléments de la salle de bains sont mis en valeur.
 
-Obviously, if one desires to implement such a concept at their place, certain preparations are needed. Therefore one should make a plan to figure out **how to make a curbless shower** in their bathroom. What are the most important issues to keep in mind?
+Il est évident que si l'on souhaite mettre en œuvre un tel concept chez soi, certaines préparations sont nécessaires. Il faut donc prévoir un plan pour réaliser une douche sans rideau dans la salle de bains. Quelles sont les questions les plus importantes à garder à l'esprit ?
 
 {:.list}
 
-* **Width of the floor (ceiling**) - it dictates the type of th drain that needs to be installed. It is easier if the bathroom is designed during the stage of constructing the building.
-* **Floor shape** - it needs to be appropriate so that water can flow down freely.
-* **Expenses** - a curbless shower requires the right structure of the whole room. The cost of adjusting it varies depending on individual factors.
+* La largeur du plancher (plafond) - elle détermine le type de drain à installer. C'est plus facile si la salle de bains est conçue pendant la phase de construction du bâtiment.
+* La forme du sol - elle doit être appropriée pour que l'eau puisse s'écouler librement.
+* Les dépenses - une douche sans rideau nécessite la bonne structure de toute la pièce. Le coût de son adaptation varie en fonction de facteurs individuels.
 
 {% fig %}
 ![Curbless shower - how does it work?](/uploads/prysznic-bez-brodzika-na czym-to-w-ogole-polega.jpg "Curbless shower - how does it work?")
 {% endfig %}
 
-A curbless shower is without any doubt a very attractive solution. For this reason many homeowners opt for it. It is good to learn all the details of constructing such a unit in one’s bathroom.
+Une douche sans ride est sans aucun doute une solution très attrayante. C'est la raison pour laquelle de nombreux propriétaires optent pour cette solution. Il est bon d'apprendre tous les détails de la construction d'une telle unité dans sa salle de bains.
 
-## A curbless shower - modern minimalism
+## Une douche sans ride - le minimalisme moderne
 
-A barrier free shower is the most subtle part of a bathroom. The only thing that might catch one’s eye is the shower head. The interior gets its space back.
+Une douche sans barrière est la partie la plus subtile d'une salle de bains. La seule chose qui peut attirer l'attention est la pomme de douche. L'intérieur retrouve son espace.
 
-A wet room design is the easiest to make if it’s planned beforehand - best during the stage of constructing the whole building. A **curbless shower** poses a great opportunity to pay attention to certain individual elements of the decor. It is a solution that responds to the minimalistic designs. One of the rules for this style is hiding unnecessary elements that might be distracting. Bathrooms with a curbless shower are exceptionally **elegant and stylish**.
+La conception d'une pièce humide est la plus facile à réaliser si elle est planifiée à l'avance - le mieux pendant la phase de construction de l'ensemble du bâtiment. Une douche sans rideau est une excellente occasion de prêter attention à certains éléments individuels du décor. C'est une solution qui répond aux conceptions minimalistes. L'une des règles de ce style consiste à cacher les éléments inutiles qui pourraient être gênants. Les salles de bain avec douche sans rideau sont exceptionnellement élégantes et stylées.
 
 {:.distinction.distinction-information}
 
-A curbless shower is a particularly attractive option for small bathrooms. Such interiors have so limited space that every centimeter counts. Glass, transparent walls “unblock” the whole room.
+Une douche sans rideau est une option particulièrement attrayante pour les petites salles de bains. Ces intérieurs ont un espace si limité que chaque centimètre compte. Le verre, les murs transparents "débloquent" toute la pièce.
 
-One might achieve even better results using just one wall or a nook. There are many possibilities - it’s a great opportunity to **design a small bathroom** in an interesting way. What are the other advantages of a curbless shower?
+On peut obtenir de meilleurs résultats encore en n'utilisant qu'un mur ou un coin. Les possibilités sont nombreuses - c'est une excellente occasion de concevoir une petite salle de bains de manière intéressante. Quels sont les autres avantages d'une douche sans rideau ?
 
 {:.list.list-positive}
 
-* **Easy cleaning** - both shower door and floor that build a curbless shower are very easy to keep clean. There are less nooks and crannies in which scale and dirt might accumulate.
-* **Option to customize the size of the stall** - a curbless shower cabin might have any size, therefore interior design is easier to adjust. One might design a shower of an unusual shape and size.
-* **Lower costs** - if a curbless shower has been planned before designing the bathroom, it is not an expensive project. In such a case the costs involve mostly buying a glass wall and several additional elements.
-* **No threshold** - a curbless shower is a great solution for elderly, people using a wheelchair and children. There is no barrier between the base and the bathroom, therefore there is no risk of accidental tripping and losing balance. A wheelchair also can enter such a cabin without any difficulties. It is a huge improvement which makes one more independent.
+* Nettoyage facile - la porte de la douche et le sol qui forment une douche sans rideau sont très faciles à nettoyer. Il y a moins de recoins dans lesquels le calcaire et la saleté pourraient s'accumuler.
+* Possibilité de personnaliser la taille de la cabine - une cabine de douche sans rideau peut avoir n'importe quelle taille, ce qui facilite l'adaptation de l'aménagement intérieur. On peut concevoir une douche d'une forme et d'une taille inhabituelles.
+* Coûts réduits - si une douche sans bordures a été prévue avant la conception de la salle de bains, ce n'est pas un projet coûteux. Dans ce cas, les coûts impliquent principalement l'achat d'une paroi en verre et de plusieurs éléments supplémentaires.
+* Pas de seuil - une douche sans rideau est une excellente solution pour les personnes âgées, les personnes en fauteuil roulant et les enfants. Il n'y a pas de barrière entre le socle et la salle de bains, donc pas de risque de trébucher accidentellement et de perdre l'équilibre. Un fauteuil roulant peut également entrer dans une telle cabine sans aucune difficulté. Il s'agit d'une amélioration considérable qui rend une personne plus indépendante.
 
 {% fig %}
 ![A curbless shower - modern minimalism](/uploads/prysznic-bez-brodzika-nie-dla-kazdego.jpg "A curbless shower - modern minimalism")
 {% endfig %}
 
-## Curbless shower - not for everyone
+## Une douche sans ride - pas pour tout le monde
 
-Although a wet room is a highly advantageous solution, unfortunately it also has some disadvantages. For this reason not everyone can use it. If a curbless shower is to be constructed in an **already finished bathroom**, it might be quite problematic. In this case it will not be a cheap solution. Designing such a shower means a complete makeover of a room.
+Bien qu'une chambre humide soit une solution très avantageuse, elle présente malheureusement aussi quelques inconvénients. C'est pourquoi tout le monde ne peut pas l'utiliser. Si une douche sans rideau doit être construite dans une salle de bains déjà terminée, cela peut être assez problématique. Dans ce cas, ce ne sera pas une solution bon marché. La conception d'une telle douche implique une transformation complète de la pièce.
 
 {:.distinction.distinction-warning}
-A curbless shower requires an appropriate drain, hidden in the floor. The floor itself should slope so that the water does not flood the bathroom. This requires removing old tiles and creating the floor anew. It also might turn out that the ceiling is too thin - in which case a curbless shower is simply not possible to construct.
+Une douche sans rideau nécessite un écoulement approprié, caché dans le sol. Le sol lui-même doit être incliné pour que l'eau n'inonde pas la salle de bains. Pour cela, il faut enlever les vieux carreaux et refaire le sol. Il se peut aussi que le plafond soit trop mince, auquel cas une douche sans rideau ne peut tout simplement pas être construite.
 
-## How to make a curbless shower?
+## Comment faire une douche sans rideau ?
 
-As already mentioned, a barrier free shower is easy to make if it is designed along with the plan of the whole house. It is best to plan carefully at which spot the shower is going to stand. If the bathroom is small, use any available **niches and corners**.
-
-{:.distinction.distinction-information}
-If the room is more spacious, consider choosing a bigger rectangular shower unit. Other elements that are very important are properly fitted tiles and drains.
-
-### What tiles are best for a curbless shower?
-
-A barrier free shower requires a carefully designed floor. Choosing the right tiles is a highly important matter. They must be the **non-slip type**. Only then the shower cabin can be safe. Choose the one with R10-R13 rating.
+Comme nous l'avons déjà mentionné, une douche sans barrières est facile à réaliser si elle est conçue en fonction du plan de toute la maison. Il est préférable de planifier soigneusement l'endroit où la douche sera installée. Si la salle de bains est petite, utilisez les niches et les coins disponibles.
 
 {:.distinction.distinction-information}
-Because the floor must have a slope, the tiles should be able to conceal it. It is very likely that the tiles are going to be cut in order to fit them. For this reason make sure to carefully measure everything.
+Si la chambre est plus spacieuse, envisagez de choisir une douche rectangulaire plus grande. D'autres éléments très importants sont des carrelages et des drains correctement installés.
+
+### Quels sont les meilleurs carreaux pour une douche sans rideau ?
+
+Une douche sans obstacle nécessite un sol soigneusement conçu. Le choix du carrelage est une question très importante. Ils doivent être du type antidérapant. Ce n'est qu'ainsi que la cabine de douche peut être sûre. Choisissez celui qui a la cote R10-R13.
+
+{:.distinction.distinction-information}
+Comme le sol doit avoir une pente, les carreaux doivent pouvoir le dissimuler. Il est très probable que les dalles seront coupées pour les adapter. C'est pourquoi il faut veiller à tout mesurer avec soin.
 
 {% fig %}
 ![What tiles are best for a curbless shower?](/uploads/jakie-plytki-sie-sprawdza-pod-prysznic-bez-brodzika.jpg "What tiles are best for a curbless shower?")
 {% endfig %}
 
-Apart from the tiles, you also need to choose the right type of grout. It should be waterproof and easy to clean. This will make the curbless shower sturdy for years. The most recommended product is an **epoxy grout**. It is waterproof, flexible and doesn’t crumble after drying up.
+Outre les tuiles, il faut également choisir le bon type de coulis. Il doit être étanche et facile à nettoyer. Cela rendra la douche sans rideau solide pendant des années. Le produit le plus recommandé est un coulis à base d'époxy. Il est imperméable, flexible et ne s'effrite pas après avoir séché.
 
-Before laying the tiles, one needs to take care of floor **waterproofing**. This way the bathroom and the rooms below are secured from water. Traditional methods use waterproofing flashing mortar - they are the most popular.
+Avant de poser les carreaux, il faut s'occuper de l'imperméabilisation du sol. De cette façon, la salle de bains et les pièces situées en dessous sont à l'abri de l'eau. Les méthodes traditionnelles utilisent un mortier de solin imperméabilisant - ce sont les plus populaires.
 
 {:.distinction.distinction-information}
-You can also use a product called liquid foil, which contains synthetic resin. It is a substantially faster method. To apply the substance, one might simply use a brush or a pallet knife.
+Vous pouvez également utiliser un produit appelé "film liquide", qui contient de la résine synthétique. C'est une méthode beaucoup plus rapide. Pour appliquer la substance, on peut simplement utiliser un pinceau ou un couteau à palette.
 
-### Curbless shower - choosing the right drain
+### Douche sans rideau - choisir le bon drain
 
-Yet another important issue that a curbless shower poses is choosing the right drain. There are several possibilities in this matter - the choice is between a wall drain or a floor drain. One must also decide between a trench (linear) drain and a point drain.
+Une autre question importante que pose une douche sans rideau est le choix du bon écoulement. Il existe plusieurs possibilités à cet égard - le choix se fait entre un écoulement mural ou un écoulement au sol. Il faut également choisir entre un drain en tranchée (linéaire) et un drain ponctuel.
 
-The most inconspicuous solution is a **wall drain**. Users of floor drains subconsciously omit standing on them, which might make using the shower less comfortable. There is no such problem with a wall drain. It can be also concealed under a tile in the same color as the wall or floor.
+La solution la plus discrète est un drain mural. Les utilisateurs des siphons de sol omettent inconsciemment de se tenir debout sur ceux-ci, ce qui peut rendre l'utilisation de la douche moins confortable. Ce problème n'existe pas avec un siphon mural. Il peut également être dissimulé sous un carrelage de la même couleur que le mur ou le sol.
 
-**Floor drains** are definitely more popular. Here, the choice is between a trench drain and a point drain. Regardless of which one is going to be installed, drain needs to be more efficient than shower head. This way one can be sure that water is going to be drained effectively. A linear drain for a curbless shower usually has a large surface, therefore water flows quickly and more evenly. The major downside is that this type of drain is more expensive than the others.
+Les siphons de sol sont nettement plus populaires. Il faut alors choisir entre un drain de tranchée et un drain ponctuel. Quelle que soit la solution choisie, le drain doit être plus efficace que la pomme de douche. De cette façon, on peut être sûr que l'eau sera évacuée efficacement. Un drain linéaire pour une douche sans rideau a généralement une grande surface, donc l'eau s'écoule rapidement et plus uniformément. Le principal inconvénient est que ce type d'écoulement est plus coûteux que les autres.
 
 {% fig %}
 ![Curbless shower - choosing the right drain](/uploads/kabiny-prysznicowe-bez-brodzika-ktora-jest-najlepsza.jpg "Curbless shower - choosing the right drain")
 {% endfig %}
 
-### A curbless shower - which one is the best?
+### Une douche sans ride - laquelle est la meilleure ?
 
-The biggest advantage of a curbless shower is the fact that it can take any shape. Depending on the available floor space and type of the room, a shower cabin might be triangular, square or rectangular. The choice is also in type of the door - hinged, sliding or folding. There is also another particularly interesting solution - **a walk-in shower**. In this case only one glass panel is fixed into place, as a protection from water. This way the room seems even more spacious - especially if the glass is completely transparent. All types of shower **doors are made of hardened glass** - either transparent or opaque.
+Le plus grand avantage d'une douche sans ride est qu'elle peut prendre n'importe quelle forme. Selon la surface disponible et le type de pièce, une cabine de douche peut être triangulaire, carrée ou rectangulaire. Le choix se fait également en fonction du type de porte - à charnières, coulissante ou pliante. Il existe également une autre solution particulièrement intéressante : la douche de plain-pied. Dans ce cas, un seul panneau de verre est fixé, comme protection contre l'eau. De cette façon, la pièce semble encore plus spacieuse, surtout si le verre est complètement transparent. Tous les types de portes de douche sont en verre trempé, transparent ou opaque.
 
-## How about a doorless shower?
+## Que diriez-vous d'une douche sans porte ?
 
-A doorless shower with no walls is quite a bold solution. In this case the shower area consists of a drain and a shower head only. There is no door or any additional glass panel. If there is a nook in the bathroom, it is a good idea to use it for this purpose. This way the shower has a wall, **partially separating** it from the rest of the bathroom. Many homeowners choose an open space wet room. The main advantage here are lower costs - buying a shower stall is unnecessary. It is also a good solution for a small bathroom - a glass wall takes some space after all. The best type of douche in this case is a rainshower.
+Une douche sans porte et sans murs est une solution audacieuse. Dans ce cas, la zone de douche se compose uniquement d'un drain et d'une pomme de douche. Il n'y a pas de porte ni de panneau vitré supplémentaire. S'il y a un coin dans la salle de bains, il est bon de l'utiliser à cette fin. De cette façon, la douche a un mur qui la sépare partiellement du reste de la salle de bains. De nombreux propriétaires choisissent une pièce humide à espace ouvert. Le principal avantage est ici la réduction des coûts - l'achat d'une cabine de douche n'est pas nécessaire. C'est aussi une bonne solution pour une petite salle de bains - un mur en verre prend quand même un peu de place. Dans ce cas, le meilleur type de douche est une douche à effet pluie.
 
-A curbless shower is a great idea both for small and large bathrooms. It unblocks a lot of space and contributes to a modern, minimalistic look. When planning this type of shower, pay attention to every detail, from the drain to the type of door. A curbless shower is a practical and visually pleasing bathroom addition!
+Une douche sans rideau est une excellente idée, tant pour les petites que pour les grandes salles de bains. Elle libère beaucoup d'espace et contribue à un look moderne et minimaliste. Lorsque vous planifiez ce type de douche, faites attention à chaque détail, du drain au type de porte. Une douche sans courbes est un ajout pratique et visuellement agréable à la salle de bains !
 
 {% faqItem %}
 {% faqQuestion %}
-How to build a shower with no curb?
+Comment construire une douche sans bordure ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The easiest way to build a curbless shower is to plan it at the stage of building a house. Think where the unit is going to be placed, what kind of drain you need and which shower head will fit. To make sure that a curbless shower works properly, refer to the help of a specialist.
+La façon la plus simple de construire une douche sans rideau est de la prévoir au moment de la construction d'une maison. Pensez à l'emplacement de l'unité, au type de drain dont vous avez besoin et à la pomme de douche qui sera installée. Pour s'assurer qu'une douche sans rideau fonctionne correctement, faites appel à un spécialiste.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to build a tile shower?
+Comment construire une douche carrelée ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The key for a tile shower with no curb is choosing the right tiles. They should be non-slippery - only then can the place be safe. The tiles should be cut to fit the floor. Remember that a curbless shower floor needs to slope to the drain.
+La clé d'une douche carrelée sans bordures est de choisir les bons carreaux. Ils doivent être antidérapants, car c'est la seule façon d'assurer la sécurité de l'endroit. Les carreaux doivent être coupés pour s'adapter au sol. N'oubliez pas qu'un sol de douche sans bordure doit être en pente vers l'évacuation.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How to build a shower curb?
+Comment construire une bordure de douche ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Start from forming a curb made of the same material as the floor. Then lay a waterproof liner on it, then lath and mortar. The last step is tiling the curb along with the shower floor.
+Commencez par former une bordure faite du même matériau que le sol. Posez ensuite un revêtement imperméable, puis des lattes et du mortier. La dernière étape consiste à carreler la bordure ainsi que le sol de la douche.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
 {% faqItem %}
 {% faqQuestion %}
-How much does a walk-in shower cost?
+Combien coûte une douche de plain-pied ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-The price varies depending on many individual factors. The cheapest solution is to plan this type of a curbless shower along with building the house. The costs rise if the house already exists and the room needs adjusting - which often means a complete makeover.
+Le prix varie en fonction de nombreux facteurs individuels. La solution la moins chère consiste à prévoir ce type de douche sans rideau en même temps que la construction de la maison. Les coûts augmentent si la maison existe déjà et que la pièce doit être adaptée - ce qui implique souvent une transformation complète.
 {% endfaqAnswer %}
 {% endfaqItem %}
