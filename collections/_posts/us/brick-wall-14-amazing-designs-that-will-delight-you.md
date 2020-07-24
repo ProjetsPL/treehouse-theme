@@ -99,3 +99,135 @@ Quite a noticeable trend of kitchen interior design in the recent years is using
 Natural red brick accent wall used in the kitchen requires using special special coating. A layer of protective substance prevents oils and steam from penetrating the wall when you cook.
 
 ## Retro style brick wall
+
+Retro style, which is a constant element of many home interiors, tends to be a coming and going trend. Do you want to implement such style? Brick wall design is just what you need – it fits wooden chairs, lace and old furniture perfectly. **A brick wall looks fantastic by a fireplace** and it can create a unique atmosphere.
+
+{% fig %}
+
+![Retro style brick wall](/uploads/sciana-z-cegly-w-stylu-retro.jpg "Retro style brick wall")
+
+{% endfig %}
+
+{:.distinction.distinction-information}
+
+Retro style uses both bright and dark tones. You can employ various shades in a retro living room, and fit them to the rest of equipment.
+
+{% fig %}
+
+![Brick wall in a living room](/uploads/sciana-z-cegly-styl-retro.jpg "Brick wall in a living room")
+
+{% endfig %}
+
+## A brick wall design in a hallway? Why not!
+
+**Hallways tend to be difficult spaces to design** – regardless of the size. A good idea for its arrangement is priceless, and a brick wall might be a great solution. If you have enough space, you could even build a reading corner in the hallway. **A brick wall works fantastic with massive colorful furniture** – so why not use that?
+
+{% fig %}
+
+![A brick wall design in a hallway](/uploads/cegly-na-sciane-w-przedpokoju.jpg "A brick wall design in a hallway")
+
+{% endfig %}
+
+## Brick wall background and scandinavian style
+
+**Scandinavian style means typical minimalism in bright tones.** How about breaking the rule and exposing natural brick wall? It's an unusual combination which looks very original. It's a perfect idea for a small living room design. **Bright colors make the room seem larger and the brick wall adds a character to it, making it more interesting.**
+
+{% fig %}
+
+![Brick wall background and scandinavian style](/uploads/styl-skandynawski-i-cegla-na-scianie.jpg "Brick wall background and scandinavian style")
+
+{% endfig %}
+
+## A classic interior with exposed brick wall
+
+**The universal qualities of a brick wall** and the availability of various types make it a perfect addition to classic interiors. Brick works very well with white. **It looks very elegant with pictures on the walls and leather furniture.** A brick wall is a fantastic idea if you are not quite sure what the interior is supposed to look like.
+
+{% fig %}
+
+![A classic interior with exposed brick wall](/uploads/klasyczne-wnetrze-cegla-na-scianie.jpg "A classic interior with exposed brick wall")
+
+{% endfig %}
+
+## A bright brick wall – a cozy living room
+
+Are you dreaming of a cozy **bright living room with an interesting decorative element?** You can use a brick accent wall in a light color. Instead of classic red bricks, use lighter ones – they look equally good. Match it with light furniture and **paint the walls in a delicate shade**.
+
+ {:.distinction.distinction-information}
+
+If you decide on bright brick walls and pastel furniture, you have a lot of freedom when it comes to accessories. Such interior can be matched with almost everything.
+
+{% fig %}
+
+![A bright brick wall – a cozy living room](/uploads/cegla-na-scianie-w-jasnym-wydaniu.jpg "A bright brick wall – a cozy living room")
+
+{% endfig %}
+
+## Bricks for a kitchen accent wall
+
+Many homeowners dream of a **large kitchen in a rustic design.** Unfortunately it might be quite difficult to achieve. Are you looking for an idea for your interior? You could seek inspiration in bricks and use them as a kitchen accent wall. Match it with **white cupboards with glass fronts**, bright walls, purple or blue accessories and **a lot of warm light.** It's a perfect recipe for a great looking, atmospheric interior.
+
+{% fig %}
+
+![Bricks for a kitchen accent wall](/uploads/cegla-na-scianie-styl-rustykalny-kuchnia.jpg "Bricks for a kitchen accent wall")
+
+{% endfig %}
+
+## Traditional brick walls in an office
+
+Are you wondering whether **a brick wall in a classic color** is a good idea for an **office design**? Of course – rpovided that it's combined with **matching elements**. Wood is a perfect material in this case.
+
+{:.distinction.distinction-warning}
+
+Remember that an offices are typically small. A brick wall should be used at a single spot. If you deside to put it on each wall, the interior is going to be overwhelmed. So try to make the brick accent wall into a central point that is supposed to bring one's attention.
+
+{% fig %}
+
+![Traditional brick walls in an office](/uploads/tradycyjna-cegla-na-sciane-w-biurze.jpg "Traditional brick walls in an office")
+
+{% endfig %}
+
+## Brick wall in a classic bedroom
+
+A brick wall in a bedroom is a perfect idea for anyone who loves **classic but unusual solutions.** It's an ideal background for a large bed which will make the room looking like a palace interior.
+
+{% fig %}
+
+![Brick wall in a classic bedroom](/uploads/cegla-na-sciane-w-klasycznej-sypialni.jpg "Brick wall in a classic bedroom")
+
+{% endfig %}
+
+## A vintage bathroom with a red brick wall
+
+Are you looking for an unique bathroom idea? Choose the **vintage style and brick walls.** A decoration of this type looks fantastic with a freestanding bathtub and wooden accessories.
+
+{:.distinction.distinction-warning}
+
+Similar to the kitchen, a bathroom brick wall should be protected against humidity.
+
+{% fig %}
+
+![A vintage bathroom with a red brick wall](/uploads/lazienka-vintage-cagly-na-sciane.jpg "A vintage bathroom with a red brick wall")
+
+{% endfig %}
+
+## A white minimalistic bathroom and a brick wall design
+
+A modern bathroom with an unusual finish? It's another opportunity for a brick wall. **Combine white brick walls, wood and raw concrete.** Add plenty of light, some accessories and enjoy your perfect interior.
+
+{% fig %}
+
+![A white minimalistic bathroom and a brick wall design](/uploads/biala-minimalistyczna-lazienka-sciana-z-cegly.jpg "A white minimalistic bathroom and a brick wall design")
+
+{% endfig %}
+
+A brick wall is an element that can become a part of many designs – both at home and in an office. **Get inspired with one of our ideas** and add your own accent – that's it!
+
+{% faqItem %}
+{% faqQuestion %}
+How to make brick design on wall?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Unless there is a real brick wall in the interior, you can use brick tiles or panels. Manufacturers provide many designs that look like real bricks. Make sure to choose the right shade so that it fits your interior.
+{% endfaqAnswer %}
+{% endfaqItem %}
