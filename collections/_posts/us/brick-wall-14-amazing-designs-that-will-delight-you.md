@@ -23,10 +23,10 @@ update_date: 2020-07-10
 title: Brick Wall – 14 Amazing Designs That Will Delight You
 description: "Looking for interior design ideas? ➡️ Unusual solutions are the most
   unique. \U0001F9F1 Discover wonderful possibilities of brick wall design."
-intro: Are you looking for an idea to decorate your interior? Are you interested in
-  the most unusual designs? A brick wall background is a perfect solution – whether
-  you like classic, modern, minimalistic or retro style. Check the most interesting
-  solutions with a brick wall. Inspire yourself and create an extraordinary interior.
+intro: Are you looking for an interior decoration idea? Are you interested in the
+  most unusual designs? A brick wall background is a perfect solution – whether you
+  like classic, modern, minimalistic or retro style. Check the most interesting solutions
+  with a brick wall. Inspire yourself and create an extraordinary interior.
 image: "/uploads/cegla-na-scianie.jpg"
 related_products: []
 published: false
