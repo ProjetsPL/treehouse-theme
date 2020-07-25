@@ -1,4 +1,13 @@
-{% assign related_products = site.products | where: "category", page.product_category %}
+{% assign related_products_1 = site.products | where: "path", page.related_products[0].link %}
+{% assign related_products_2 = site.products | where: "path", page.related_products[1].link  %}
+{% assign related_products_3 = site.products | where: "path", page.related_products[2].link  %}
+{% assign related_products_4 = site.products | where: "path", page.related_products[3].link  %}
+{% assign related_products_5 = site.products | where: "path", page.related_products[4].link  %}
+{% assign related_products_6 = site.products | where: "path", page.related_products[5].link  %}
+{% assign related_products_7 = site.products | where: "path", page.related_products[6].link  %}
+{% assign related_products_8 = site.products | where: "path", page.related_products[7].link  %}
+{% assign related_products_9 = site.products | where: "path", page.related_products[8].link  %}
+{% assign related_products_10 = site.products | where: "path", page.related_products[9].link  %}
 <!DOCTYPE html>
 <html lang="{{ page.full-lang | default: site.lang | default: 'en' }}">
 
@@ -49,7 +58,52 @@
 
           <div class="flex-wrapper  nowrap">
               <div class="flex-container">
-                {% for product in related_products %}
+                {% for product in related_products_1 %}
+                  <div class="flex-item" >
+                    {% include parts/product-listing-boxitem-md.html product=product %}
+                  </div>
+                {% endfor %}
+                {% for product in related_products_2 %}
+                  <div class="flex-item" >
+                    {% include parts/product-listing-boxitem-md.html product=product %}
+                  </div>
+                {% endfor %}
+                {% for product in related_products_3 %}
+                  <div class="flex-item" >
+                    {% include parts/product-listing-boxitem-md.html product=product %}
+                  </div>
+                {% endfor %}
+                {% for product in related_products_4 %}
+                  <div class="flex-item" >
+                    {% include parts/product-listing-boxitem-md.html product=product %}
+                  </div>
+                {% endfor %}
+                {% for product in related_products_5 %}
+                  <div class="flex-item" >
+                    {% include parts/product-listing-boxitem-md.html product=product %}
+                  </div>
+                {% endfor %}
+                {% for product in related_products_6 %}
+                  <div class="flex-item" >
+                    {% include parts/product-listing-boxitem-md.html product=product %}
+                  </div>
+                {% endfor %}
+                {% for product in related_products_7 %}
+                  <div class="flex-item" >
+                    {% include parts/product-listing-boxitem-md.html product=product %}
+                  </div>
+                {% endfor %}
+                {% for product in related_products_8 %}
+                  <div class="flex-item" >
+                    {% include parts/product-listing-boxitem-md.html product=product %}
+                  </div>
+                {% endfor %}
+                {% for product in related_products_9 %}
+                  <div class="flex-item" >
+                    {% include parts/product-listing-boxitem-md.html product=product %}
+                  </div>
+                {% endfor %}
+                {% for product in related_products_10 %}
                   <div class="flex-item" >
                     {% include parts/product-listing-boxitem-md.html product=product %}
                   </div>
@@ -127,7 +181,70 @@
                 </div>
             </div>
 
-            {% for product in related_products %}
+            {% for product in related_products_1 %}
+              <div class="beam-rail-item r-height-auto">
+                <div class="sticky-element">
+                  {% include parts/product-listing-boxitem-md.html product=product %}
+                </div>
+              </div>
+            {% endfor%}
+            {% for product in related_products_2 %}
+              <div class="beam-rail-item r-height-auto">
+                <div class="sticky-element">
+                  {% include parts/product-listing-boxitem-md.html product=product %}
+                </div>
+              </div>
+            {% endfor%}
+            {% for product in related_products_3 %}
+              <div class="beam-rail-item r-height-auto">
+                <div class="sticky-element">
+                  {% include parts/product-listing-boxitem-md.html product=product %}
+                </div>
+              </div>
+            {% endfor%}
+            {% for product in related_products_4 %}
+              <div class="beam-rail-item r-height-auto">
+                <div class="sticky-element">
+                  {% include parts/product-listing-boxitem-md.html product=product %}
+                </div>
+              </div>
+            {% endfor%}
+            {% for product in related_products_5 %}
+              <div class="beam-rail-item r-height-auto">
+                <div class="sticky-element">
+                  {% include parts/product-listing-boxitem-md.html product=product %}
+                </div>
+              </div>
+            {% endfor%}
+            {% for product in related_products_6 %}
+              <div class="beam-rail-item r-height-auto">
+                <div class="sticky-element">
+                  {% include parts/product-listing-boxitem-md.html product=product %}
+                </div>
+              </div>
+            {% endfor%}
+            {% for product in related_products_7 %}
+              <div class="beam-rail-item r-height-auto">
+                <div class="sticky-element">
+                  {% include parts/product-listing-boxitem-md.html product=product %}
+                </div>
+              </div>
+            {% endfor%}
+            {% for product in related_products_8 %}
+              <div class="beam-rail-item r-height-auto">
+                <div class="sticky-element">
+                  {% include parts/product-listing-boxitem-md.html product=product %}
+                </div>
+              </div>
+            {% endfor%}
+            {% for product in related_products_9 %}
+              <div class="beam-rail-item r-height-auto">
+                <div class="sticky-element">
+                  {% include parts/product-listing-boxitem-md.html product=product %}
+                </div>
+              </div>
+            {% endfor%}
+            {% for product in related_products_10 %}
               <div class="beam-rail-item r-height-auto">
                 <div class="sticky-element">
                   {% include parts/product-listing-boxitem-md.html product=product %}
