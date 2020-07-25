@@ -118,9 +118,9 @@
         </div>
 
         <div class="beam-item b-size-2 beam-rail  review-sidebar">
-            <div class="beam-rail-item">
+            <div class="beam-rail-item r-height-auto">
                 <div class="sticky-element">
-                  <nav class="table-of-content sticky-element" id="some-stickybit-nav">
+                  <nav class="table-of-content" id="some-stickybit-nav">
                     <span class="title">{{ site.i18n[page.lang].toc }}</span>
                     {{ content | toc_only }}
                   </nav>
@@ -128,7 +128,7 @@
             </div>
 
             {% for product in related_products %}
-              <div class="beam-rail-item r-height-20">
+              <div class="beam-rail-item r-height-auto">
                 <div class="sticky-element">
                   {% include parts/product-listing-boxitem-md.html product=product %}
                 </div>
