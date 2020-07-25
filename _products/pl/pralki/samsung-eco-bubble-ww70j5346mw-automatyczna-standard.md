@@ -60,7 +60,11 @@ description: |-
 
   Urządzenie zostało wyposażone w opcję aktywnej piany (Bubble Soak), która odpowiada za usuwanie najbardziej uporczywych plam poprzez zmiękczanie zabrudzeń przed rozpoczęciem prania. Ponadto model Eco Bubble WW70J5346MW posiada szereg funkcji dodatkowych, takich jak: opóźnienie zakończenia prania, czy ekoczyszczenie bębna. Na uwagę zasługuje też szuflada Stay Clean, czy bęben Diamond o zmniejszonych otworach.
 photo: "/uploads/samsung-eco-bubble-ww70j5346mw.webp"
-links: []
+links:
+- template: link
+  url: https://www.ceneo.pl/50602213#crid=357326&pid=21269
+  anchor: od 1199,00
+  provider: Ceneo
 properties:
   type: Automatyczna
   size: Standard
