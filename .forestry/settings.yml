@@ -24,7 +24,7 @@ sections:
   match: "**/*"
   new_doc_ext: md
 - type: directory
-  path: collections/_posts/pl
+  path: _posts/pl
   label: Posty pl
   create: all
   match: "**/*"
@@ -40,7 +40,7 @@ sections:
   templates:
   - ranking
 - type: directory
-  path: collections/_products/pl
+  path: _products/pl
   label: Produkty pl
   create: all
   match: "**/*"
@@ -57,7 +57,7 @@ sections:
   match: "**/*"
   new_doc_ext: md
 - type: directory
-  path: collections/_posts/us
+  path: _posts/us
   label: Posty
   create: all
   match: "**/*"
@@ -73,7 +73,7 @@ sections:
   templates:
   - ranking
 - type: directory
-  path: collections/_products/us
+  path: _products/us
   label: Produkty
   create: all
   match: "**/*"
@@ -87,7 +87,7 @@ sections:
   match: "**/*"
   new_doc_ext: md
 - type: directory
-  path: collections/_posts/de
+  path: _posts/de
   label: Posty
   create: all
   match: "**/*"
@@ -103,7 +103,7 @@ sections:
   templates:
   - ranking
 - type: directory
-  path: collections/_products/de
+  path: _products/de
   label: Produkty
   create: all
   match: "**/*"
@@ -120,7 +120,7 @@ sections:
   match: "**/*"
   new_doc_ext: md
 - type: directory
-  path: collections/_posts/es
+  path: _posts/es
   label: Posty
   create: all
   match: "**/*"
@@ -136,7 +136,7 @@ sections:
   templates:
   - ranking
 - type: directory
-  path: collections/_products/es
+  path: _products/es
   label: Produkty
   create: all
   match: "**/*"
@@ -153,7 +153,7 @@ sections:
   match: "**/*"
   new_doc_ext: md
 - type: directory
-  path: collections/_posts/fr
+  path: _posts/fr
   label: Posty
   create: all
   match: "**/*"
@@ -169,7 +169,7 @@ sections:
   templates:
   - ranking
 - type: directory
-  path: collections/_products/fr
+  path: _products/fr
   label: Produkty
   create: all
   match: "**/*"
@@ -186,7 +186,7 @@ sections:
   match: "**/*"
   new_doc_ext: md
 - type: directory
-  path: collections/_posts/it
+  path: _posts/it
   label: Posty
   create: all
   match: "**/*"
@@ -202,7 +202,7 @@ sections:
   templates:
   - ranking
 - type: directory
-  path: collections/_products/it
+  path: _products/it
   label: Produkty
   create: all
   match: "**/*"
