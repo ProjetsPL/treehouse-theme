@@ -196,63 +196,81 @@ body {
     &.b-size-6 {
         >.b-size-1 {
             flex-basis: 16.66%;
+            width:  16.66%;
         }
         >.b-size-2 {
             flex-basis: 33.33%;
+            width: 33.33%; 
         }
         >.b-size-3 {
             flex-basis: 50%;
+            width: 50%; 
         }
         >.b-size-4 {
             flex-basis: 66.66%;
+            width: 66.66%;
         }
         >.b-size-5 {
             flex-basis: 83.33%;
+            width: 83.33%;
         }
         >.b-size-6 {
             flex-basis: 100%;
+            width: 100%;
         }
     }
     &.b-size-5 {
         >.b-size-1 {
             flex-basis: 20%;
+            width: 20%;
         }
         >.b-size-2 {
             flex-basis: 40%;
+            width: 40%;
         }
         >.b-size-3 {
             flex-basis: 60%;
+            width: 60%;
         }
         >.b-size-4 {
             flex-basis: 80%;
+            width: 80%;
         }
         >.b-size-5 {
             flex-basis: 100%;
+            width: 100%;
         }
     }
     &.b-size-4 {
         >.b-size-1 {
             flex-basis: 25%;
+            width: 25%;
         }
         >.b-size-2 {
             flex-basis: 50%;
+            width: 50%;
         }
         >.b-size-3 {
             flex-basis: 75%;
+            width: 75%;
         }
         >.b-size-4 {
             flex-basis: 100%;
+            width: 100%;
         }
     }
     &.b-size-3 {
         >.b-size-1 {
             flex-basis: 33.33%;
+            width: 33.33%;
         }
         >.b-size-2 {
             flex-basis: 66.66%;
+            width: 66.66%;
         }
         >.b-size-3 {
             flex-basis: 100%;
+            width: 100%;
         }
     }
     .beam-item {
