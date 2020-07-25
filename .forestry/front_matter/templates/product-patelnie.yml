@@ -49,5 +49,20 @@ fields:
     config:
       required: false
     label: Powłoka
+  - name: lid
+    type: text
+    config:
+      required: false
+    label: Pokrywka
+  - name: holder
+    type: text
+    config:
+      required: false
+    label: Rączka
+  - name: color
+    type: text
+    config:
+      required: false
+    label: Kolor
   label: Właściwości
   description: Właściwości produktu
