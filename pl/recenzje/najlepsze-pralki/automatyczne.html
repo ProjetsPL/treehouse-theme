@@ -70,7 +70,7 @@ is_hub: false
 hub_name: najlepsze-pralki
 
 ---
-{% assign products = site.products | where: "category", "pralki" | where: "properties.size", "90x200" %}
+{% assign products = site.products | where: "category", "pralki" | where: "properties.type", "Automatyczna" %}
 
 {% assign main_product = products[0] %}
 
@@ -95,7 +95,7 @@ hub_name: najlepsze-pralki
 <div class="beam b-size-5  review-section">
     <div class="beam-item b-size-5  review-text">
         <h2>Najlepsze Pralki Automatyczne</h2>
-        <!-- <div class="flex-wrapper  nowrap">
+        <div class="flex-wrapper  nowrap">
             <div class="flex-container">
               {% for product in products %}
                 <div class="flex-item" >
@@ -103,7 +103,7 @@ hub_name: najlepsze-pralki
                 </div>
               {% endfor %}
             </div>
-        </div> -->
+        </div>
     </div>
 </div>
 <!--
