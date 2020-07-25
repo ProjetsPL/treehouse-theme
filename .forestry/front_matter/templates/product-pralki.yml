@@ -1,4 +1,11 @@
 ---
 label: Product [Pralki]
 hide_body: true
-fields: []
+fields:
+- name: category
+  type: text
+  config:
+    required: false
+  label: Kategoria
+  hidden: true
+  default: pralki
