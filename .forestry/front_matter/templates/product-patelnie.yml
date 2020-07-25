@@ -18,5 +18,36 @@ fields:
 - name: properties
   type: field_group
   config: {}
+  fields:
+  - name: type
+    type: text
+    config:
+      required: false
+    label: Typ
+  - name: height
+    type: text
+    config:
+      required: false
+    label: Wysokość
+  - name: brand
+    type: text
+    config:
+      required: false
+    label: Marka
+  - name: size
+    type: text
+    config:
+      required: false
+    label: Rozmiar
+  - name: shape
+    type: text
+    config:
+      required: false
+    label: Kształt
+  - name: coating
+    type: text
+    config:
+      required: false
+    label: Powłoka
   label: Właściwości
   description: Właściwości produktu
