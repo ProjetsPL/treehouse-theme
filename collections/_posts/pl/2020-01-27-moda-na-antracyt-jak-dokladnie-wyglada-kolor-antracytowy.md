@@ -21,6 +21,7 @@ main_keywords:
 - antracytowy
 - kolor antracytowy
 related_products:
+- collections/_products/pl/lamps/antracytowy-kinkiet-zewnetrzny-henry-ip44.md
 - _products/pl/lamps/antracytowy-kinkiet-zewnetrzny-henry-ip44.md
 - _products/pl/lamps/kinkiet-zewnetrzny-led-cube.md
 - _products/pl/lamps/lampka-biurkowa-led-karina.md
