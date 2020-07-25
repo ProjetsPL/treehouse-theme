@@ -18,5 +18,51 @@ fields:
 - name: properties
   type: field_group
   config: {}
+  fields:
+  - name: type
+    type: text
+    config:
+      required: false
+    label: Typ
+  - name: functionality
+    type: text
+    config:
+      required: false
+    label: Funkcjonalność
+  - name: brand
+    type: text
+    config:
+      required: false
+    label: Marka
+  - name: pressure
+    type: text
+    config:
+      required: false
+    label: Ciśnienie
+  - name: strength
+    type: text
+    config:
+      required: false
+    label: Moc
+  - name: type_of_coffee
+    type: text
+    config:
+      required: false
+    label: Rodzaj kawy
+  - name: milk_frothing_function
+    type: text
+    config:
+      required: false
+    label: Funkcja spieniania mleka
+  - name: mumber_of_types_of_drinks
+    type: text
+    config:
+      required: false
+    label: Ilość rodzajów napojów
+  - name: warranty
+    type: text
+    config:
+      required: false
+    label: Gwarancja
   label: Właściwości
   description: Właściwości produktu
