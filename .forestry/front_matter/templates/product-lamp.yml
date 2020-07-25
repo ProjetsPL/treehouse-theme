@@ -1,5 +1,5 @@
 ---
-label: Product [Lampy]
+label: Product [Inne]
 hide_body: true
 fields:
 - name: category
@@ -8,7 +8,7 @@ fields:
     required: false
   label: Category
   hidden: true
-  default: lamp
+  default: other
 - name: basics
   type: include
   config: {}
