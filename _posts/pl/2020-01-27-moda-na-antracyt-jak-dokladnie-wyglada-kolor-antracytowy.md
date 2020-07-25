@@ -21,7 +21,6 @@ main_keywords:
 - antracytowy
 - kolor antracytowy
 related_products:
-- _products/pl/mattresses/kolo-texel-sprezynowy-140x200.md
 - _products/pl/lamps/antracytowy-kinkiet-zewnetrzny-henry-ip44.md
 - _products/pl/lamps/kinkiet-zewnetrzny-led-cube.md
 - _products/pl/lamps/lampka-biurkowa-led-karina.md
