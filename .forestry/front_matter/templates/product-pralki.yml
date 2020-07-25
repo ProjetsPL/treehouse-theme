@@ -15,7 +15,8 @@ fields:
   template: product
   label: Basics
   description: Podstawowe informacje o produkcie
-- name: wlasciwosci
+- name: properties
   type: field_group
   config: {}
   label: Właściwości
+  description: Właściwości produkty
