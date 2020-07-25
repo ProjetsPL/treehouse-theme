@@ -1,4 +1,22 @@
 ---
 label: Product [Patelnie]
 hide_body: true
-fields: []
+fields:
+- name: category
+  type: text
+  config:
+    required: false
+  label: Kategoria
+  hidden: true
+  default: patelnie
+- name: basics
+  type: include
+  config: {}
+  template: product
+  label: Basics
+  description: Podstawowe informacje o produkcie
+- name: properties
+  type: field_group
+  config: {}
+  label: Właściwości
+  description: Właściwości produktyu
