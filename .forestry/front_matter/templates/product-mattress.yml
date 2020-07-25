@@ -63,32 +63,3 @@ fields:
     label: Uchwyty
   label: Właściwości
   description: Właściwości produktu
-pages:
-- collections/_products/pl/mattresses/demeter-janpol-lateksowy-90x200.md
-- collections/_products/pl/mattresses/fdm-ambra-sprezynowy-90x200.md
-- collections/_products/pl/mattresses/frankhauer-ate-nawierzchniowy-lateksowy-160x200.md
-- collections/_products/pl/mattresses/hilding-cha-cha-sprezynowy-160x200.md
-- collections/_products/pl/mattresses/hilding-flamenco-sprezynowy-160x200.md
-- collections/_products/pl/mattresses/hilding-jive-nawierzchniowy-piankowy-120x200.md
-- collections/_products/pl/mattresses/hilding-rock-roll-piankowy-160x200.md
-- collections/_products/pl/mattresses/hilding-salsa-piankowy-160x200.md
-- collections/_products/pl/mattresses/hilding-select-top-nawierzchniowy-140x200.md
-- collections/_products/pl/mattresses/ikea-hafslo-sprezynowy-140x200.md
-- collections/_products/pl/mattresses/ikea-malvik-piankowy-140x200.md
-- collections/_products/pl/mattresses/ikea-matrand-lateksowy-140x200.md
-- collections/_products/pl/mattresses/ikea-mausund-lateksowy-90x200.md
-- collections/_products/pl/mattresses/ikea-morgedal-piankowy-160x200.md
-- collections/_products/pl/mattresses/janpol-cora-sprezynowy-90x200.md
-- collections/_products/pl/mattresses/janpol-wenus-sprezynowy-140x200.md
-- collections/_products/pl/mattresses/janpol-wenus-sprezynowy-180x200.md
-- collections/_products/pl/mattresses/jysk-basik-f10-piankowy-80x200.md
-- collections/_products/pl/mattresses/jysk-gold-f95-dreamzone-piankowy-80x200.md
-- collections/_products/pl/mattresses/jysk-gold-s25-dreamzone-sprezynowy-160x200.md
-- collections/_products/pl/mattresses/jysk-plus-f30-dreamzone-piankowy-90x200.md
-- collections/_products/pl/mattresses/kolo-ameland-piankowy-180x200.md
-- collections/_products/pl/mattresses/kolo-estrella-lux-kokos-180x200-sprezynowy.md
-- collections/_products/pl/mattresses/kolo-medivis-piankowy-180x200.md
-- collections/_products/pl/mattresses/kolo-palmea-sprezynowy-140x200.md
-- collections/_products/pl/mattresses/kolo-texel-sprezynowy-140x200.md
-- collections/_products/pl/mattresses/materace-polonia-krolewski-sprezynowy-piankowy-140x200.md
-- collections/_products/pl/mattresses/sleep-oclock-slim-nawierzchniowy-lateksowy-160x200.md

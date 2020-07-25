@@ -52,13 +52,13 @@ sections:
   label: US
 - type: directory
   path: us
-  label: Strony
+  label: Strony (us)
   create: all
   match: "**/*"
   new_doc_ext: md
 - type: directory
   path: _posts/us
-  label: Posty
+  label: Posty (us)
   create: all
   match: "**/*"
   new_doc_ext: md
@@ -66,7 +66,7 @@ sections:
   - blog-post
 - type: directory
   path: us/recenzje
-  label: Rankingi
+  label: Rankingi (us)
   create: all
   match: "**/*"
   new_doc_ext: md
@@ -74,7 +74,7 @@ sections:
   - ranking
 - type: directory
   path: _products/us
-  label: Produkty
+  label: Produkty (us)
   create: all
   match: "**/*"
   new_doc_ext: md
@@ -82,13 +82,13 @@ sections:
   label: DE
 - type: directory
   path: de
-  label: Strony
+  label: Strony (de)
   create: all
   match: "**/*"
   new_doc_ext: md
 - type: directory
   path: _posts/de
-  label: Posty
+  label: Posty (de)
   create: all
   match: "**/*"
   new_doc_ext: md
@@ -96,7 +96,7 @@ sections:
   - blog-post
 - type: directory
   path: de/recenzje
-  label: Rankingi
+  label: Rankingi (de)
   create: all
   match: "**/*"
   new_doc_ext: md
@@ -104,7 +104,7 @@ sections:
   - ranking
 - type: directory
   path: _products/de
-  label: Produkty
+  label: Produkty (de)
   create: all
   match: "**/*"
   new_doc_ext: md
@@ -115,13 +115,13 @@ sections:
   label: ES
 - type: directory
   path: es
-  label: Strony
+  label: Strony (es)
   create: all
   match: "**/*"
   new_doc_ext: md
 - type: directory
   path: _posts/es
-  label: Posty
+  label: Posty (es)
   create: all
   match: "**/*"
   new_doc_ext: md
@@ -129,7 +129,7 @@ sections:
   - blog-post
 - type: directory
   path: es/recenzje
-  label: Rankingi
+  label: Rankingi (es)
   create: all
   match: "**/*"
   new_doc_ext: md
@@ -137,7 +137,7 @@ sections:
   - ranking
 - type: directory
   path: _products/es
-  label: Produkty
+  label: Produkty (es)
   create: all
   match: "**/*"
   new_doc_ext: md
@@ -181,13 +181,13 @@ sections:
   label: IT
 - type: directory
   path: it
-  label: Strony
+  label: Strony (es)
   create: all
   match: "**/*"
   new_doc_ext: md
 - type: directory
   path: _posts/it
-  label: Posty
+  label: Posty (es)
   create: all
   match: "**/*"
   new_doc_ext: md
@@ -195,7 +195,7 @@ sections:
   - blog-post
 - type: directory
   path: it/recenzje
-  label: Rankingi
+  label: Rankingi (es)
   create: all
   match: "**/*"
   new_doc_ext: md
@@ -203,7 +203,7 @@ sections:
   - ranking
 - type: directory
   path: _products/it
-  label: Produkty
+  label: Produkty (es)
   create: all
   match: "**/*"
   new_doc_ext: md
