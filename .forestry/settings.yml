@@ -19,13 +19,13 @@ sections:
   label: PL
 - type: directory
   path: pl
-  label: Strony
+  label: Strony pl
   create: all
   match: "**/*"
   new_doc_ext: md
 - type: directory
   path: collections/_posts/pl
-  label: Posty
+  label: Posty pl
   create: all
   match: "**/*"
   new_doc_ext: md
@@ -33,7 +33,7 @@ sections:
   - blog-post
 - type: directory
   path: pl/recenzje
-  label: Rankingi
+  label: Rankingi pl
   create: all
   match: "**/*"
   new_doc_ext: md
@@ -41,7 +41,7 @@ sections:
   - ranking
 - type: directory
   path: collections/_products/pl
-  label: Produkty
+  label: Produkty pl
   create: all
   match: "**/*"
   new_doc_ext: md
