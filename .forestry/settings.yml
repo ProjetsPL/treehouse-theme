@@ -46,6 +46,9 @@ sections:
   match: "**/*"
   new_doc_ext: md
   templates:
+  - product-ekspresy-do-kawy
+  - product-pralki
+  - product-patelnie
   - product-lamp
   - product-mattress
 - type: heading
