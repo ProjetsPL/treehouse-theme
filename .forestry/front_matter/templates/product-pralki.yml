@@ -67,3 +67,5 @@ fields:
     label: Roczne zużycie wody
   label: Właściwości
   description: Właściwości produktu
+pages:
+- _products/pl/pralki/samsung-eco-bubble-ww70j5346mw-automatyczna-standard.md
