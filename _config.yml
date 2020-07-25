@@ -27,7 +27,7 @@ toc:
   min_level: 2
   max_level: 2
 
-collections_dir: collections
+# collections_dir: collections
 collections:
   posts:
     output: false
