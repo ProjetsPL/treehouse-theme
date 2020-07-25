@@ -1,13 +1,13 @@
-{% assign related_products_1 = site.products | where: "path", page.related_products[0].link %}
-{% assign related_products_2 = site.products | where: "path", page.related_products[1].link  %}
-{% assign related_products_3 = site.products | where: "path", page.related_products[2].link  %}
-{% assign related_products_4 = site.products | where: "path", page.related_products[3].link  %}
-{% assign related_products_5 = site.products | where: "path", page.related_products[4].link  %}
-{% assign related_products_6 = site.products | where: "path", page.related_products[5].link  %}
-{% assign related_products_7 = site.products | where: "path", page.related_products[6].link  %}
-{% assign related_products_8 = site.products | where: "path", page.related_products[7].link  %}
-{% assign related_products_9 = site.products | where: "path", page.related_products[8].link  %}
-{% assign related_products_10 = site.products | where: "path", page.related_products[9].link  %}
+{% assign related_products_1 = site.products | where: "path", page.related_products[0] %}
+{% assign related_products_2 = site.products | where: "path", page.related_products[1]  %}
+{% assign related_products_3 = site.products | where: "path", page.related_products[2]  %}
+{% assign related_products_4 = site.products | where: "path", page.related_products[3]  %}
+{% assign related_products_5 = site.products | where: "path", page.related_products[4]  %}
+{% assign related_products_6 = site.products | where: "path", page.related_products[5]  %}
+{% assign related_products_7 = site.products | where: "path", page.related_products[6]  %}
+{% assign related_products_8 = site.products | where: "path", page.related_products[7]  %}
+{% assign related_products_9 = site.products | where: "path", page.related_products[8]  %}
+{% assign related_products_10 = site.products | where: "path", page.related_products[9]  %}
 <!DOCTYPE html>
 <html lang="{{ page.full-lang | default: site.lang | default: 'en' }}">
 
