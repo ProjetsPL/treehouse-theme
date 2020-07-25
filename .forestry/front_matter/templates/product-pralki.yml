@@ -18,5 +18,52 @@ fields:
 - name: properties
   type: field_group
   config: {}
+  fields:
+  - name: type
+    type: text
+    config:
+      required: false
+    label: Typ
+    description: Typ pralki
+  - name: size
+    type: text
+    config:
+      required: false
+    label: Rozmiar
+  - name: brand
+    type: text
+    config:
+      required: false
+    label: Marka
+  - name: energy_class
+    type: text
+    config:
+      required: false
+    label: Klasa energetyczna
+  - name: type_of_drum
+    type: text
+    config:
+      required: false
+    label: Rodzaj bębna
+  - name: load
+    type: text
+    config:
+      required: false
+    label: Maksymalny załadunek (kg)
+  - name: maximum_spin_speed
+    type: text
+    config:
+      required: false
+    label: Maksymalna prędkość wirowania
+  - name: annual_energy_usage
+    type: text
+    config:
+      required: false
+    label: Roczne zużycie energii
+  - name: annual_water_usage
+    type: text
+    config:
+      required: false
+    label: Roczne zużycie wody
   label: Właściwości
   description: Właściwości produktu
