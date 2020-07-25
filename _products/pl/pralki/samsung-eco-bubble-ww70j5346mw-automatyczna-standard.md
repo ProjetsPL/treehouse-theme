@@ -63,7 +63,7 @@ photo: "/uploads/samsung-eco-bubble-ww70j5346mw.webp"
 links:
 - template: link
   url: https://www.ceneo.pl/50602213#crid=357326&pid=21269
-  anchor: od 1199,00
+  anchor: Kup od 1199,00
   provider: Ceneo
 properties:
   type: Automatyczna
