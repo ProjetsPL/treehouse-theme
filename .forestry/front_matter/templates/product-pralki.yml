@@ -9,3 +9,9 @@ fields:
   label: Kategoria
   hidden: true
   default: pralki
+- name: basics
+  type: include
+  config: {}
+  template: product
+  label: Basics
+  description: Podstawowe informacje o produkcie
