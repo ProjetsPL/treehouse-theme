@@ -15,3 +15,7 @@ fields:
   template: product
   label: Basics
   description: Podstawowe informacje o produkcie
+- name: wlasciwosci
+  type: field_group
+  config: {}
+  label: Właściwości
