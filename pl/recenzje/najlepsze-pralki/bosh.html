@@ -67,7 +67,7 @@ is_hub: false
 hub_name: najlepsze-pralki
 
 ---
-{% assign products = site.products | where: "category", "pralki" | where: "properties.brand", "Bosh" %}
+{% assign products = site.products | where: "category", "pralki" | where: "properties.brand", "Bosch" %}
 
 {% assign main_product = products[0] %}
 
@@ -82,7 +82,7 @@ hub_name: najlepsze-pralki
     <div class="beam-item b-size-2 beam-rail  review-sidebar">
         <div class="beam-rail-item r-height-100">
             <div class="sticky-element">
-              {% include parts/product-listing-boxitem-md.html product=main_product context="Pralka Bosh" %}
+              {% include parts/product-listing-boxitem-md.html product=main_product context="Pralka Bosch" %}
             </div>
         </div>
     </div>
