@@ -209,6 +209,25 @@ i18n:
       case: Pokrowiec
       bilateral: Dwustronny
       handles: Uchwyty do podnoszenia
+      energy_class: Klasa energetyczna
+      type_of_drum: Rodzaj bębna
+      load: Maksymalny załadunek (kg)
+      maximum_spin_speed: Maksymalna prędkość wirowania
+      annual_energy_usage: Roczne zużycie energii
+      annual_water_usage: Roczne zużycie wody
+      height: Wysokość
+      shape: Kształt
+      coating: Powłoka
+      lid: Pokrywka
+      holder: Rączka
+      color: Kolor
+      functionality: Funkcjonalność
+      pressure: Ciśnienie
+      strength: Moc
+      type_of_coffee: Rodzaj kawy
+      milk_frothing_function: Funkcja spieniania mleka
+      mumber_of_types_of_drinks: Ilość rodzajów napojów
+      warranty: Gwarancja
 
   us:
     read_more: "Read more"
