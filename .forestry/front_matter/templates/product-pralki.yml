@@ -68,6 +68,7 @@ fields:
   label: Właściwości
   description: Właściwości produktu
 pages:
+- _products/pl/pralki/beko-wre5511bww-automatyczna-standard.md
 - _products/pl/pralki/bosch-serie-8-waw24740pl-automatyczna-standard.md
 - _products/pl/pralki/lg-f2j5wn3w-automatyczna-slim.md
 - _products/pl/pralki/samsung-eco-bubble-ww70j5346mw-automatyczna-standard.md
