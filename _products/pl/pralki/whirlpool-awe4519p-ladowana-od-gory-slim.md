@@ -60,6 +60,5 @@ properties:
   maximum_spin_speed: "1000"
   annual_energy_usage: 167 kWh
   annual_water_usage: 8454 l
-published: false
 
 ---
