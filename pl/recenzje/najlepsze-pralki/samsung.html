@@ -11,7 +11,7 @@ h1: 5 Najlepszych Pralek Samsung na Lipiec 2020
 title: 5 Najlepszych Pralek Samsung na Lipiec 2020 | Sprawdź Ranking
 description: "Szukasz Najlepszej Pralki Samsung? \U0001F50D Sprawdź Ranking Pralek
   TOP 5 \U0001F3C6 na Lipiec 2020 - wyjątkowe produkty i atrakcyjne ceny"
-update_date: 2020-07-13T22:00:00.000+00:00
+update_date: 2020-07-26
 intro: Samsung to jeden z najpopularniejszych producentów sprzętu AGD w Polsce. Marka
   słynie ze stosowania najnowocześniejszych technologii i wprowadzania ciekawych,
   innowacyjnych rozwiązań, na których wzoruje się konkurencja. Pralki Samsung, a także
@@ -69,7 +69,7 @@ is_hub: false
 hub_name: najlepsze-pralki
 
 ---
-{% assign products = site.products | where: "category", "pralki" | where: "properties.brand", "Samsung" %}
+{% assign products = site.products | where: "category", "pralki" | where: "properties.size", "90x200" %}
 
 {% assign main_product = products[0] %}
 
@@ -82,11 +82,11 @@ hub_name: najlepsze-pralki
         {{ page.intro | markdownify }}
     </div>
     <div class="beam-item b-size-2 beam-rail  review-sidebar">
-        <div class="beam-rail-item r-height-100">
+        <!-- <div class="beam-rail-item r-height-100">
             <div class="sticky-element">
               {% include parts/product-listing-boxitem-md.html product=main_product context="Pralka Samsung" %}
             </div>
-        </div>
+        </div> -->
     </div>
 </div>
 
@@ -94,7 +94,7 @@ hub_name: najlepsze-pralki
 <div class="beam b-size-5  review-section">
     <div class="beam-item b-size-5  review-text">
         <h2>Najlepsze Pralki Samsung</h2>
-        <div class="flex-wrapper  nowrap">
+        <!-- <div class="flex-wrapper  nowrap">
             <div class="flex-container">
               {% for product in products %}
                 <div class="flex-item" >
@@ -102,13 +102,13 @@ hub_name: najlepsze-pralki
                 </div>
               {% endfor %}
             </div>
-        </div>
+        </div> -->
     </div>
 </div>
 
-{% for product in products %}
+<!-- {% for product in products %}
   {% include parts/product-section.html product=product context="Pralka Samsung"%}
-{% endfor %}
+{% endfor %} -->
 
 
 <div class="beam b-size-5  review-section">
