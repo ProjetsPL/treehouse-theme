@@ -203,6 +203,7 @@ i18n:
       type: Rodzaj
       size: Rozmiar
       brand: Marka
+      material: Materiał
       hardness: Twardość
       height: Wysokość
       inset: Wkład
