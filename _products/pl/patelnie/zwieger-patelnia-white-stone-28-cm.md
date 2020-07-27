@@ -37,14 +37,14 @@ links:
   url: https://www.ceneo.pl/84447142#crid=357914&pid=21269
   anchor: Kup od 128,00 zł
 properties:
-  type: ''
-  material: ''
-  brand: ''
-  size: ''
-  shape: ''
-  coating: ''
-  lid: ''
-  holder: ''
-  color: ''
+  type: Standardowa
+  material: Ceramiczna
+  brand: Zwieger
+  size: 28 cm
+  shape: okrągła
+  coating: Nieprzywierająca, 3 warstwowa Greblon C3 GRANITE
+  lid: Nie
+  holder: z materiału PP, Soft Touch
+  color: Granit
 
 ---
