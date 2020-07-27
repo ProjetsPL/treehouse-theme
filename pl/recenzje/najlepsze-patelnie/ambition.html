@@ -60,7 +60,7 @@ is_hub: false
 hub_name: najlepsze-patelnie
 
 ---
-{% assign products = site.products | where: "category", "patelnie" | where: "properties.type", "Do naleśników" %}
+{% assign products = site.products | where: "category", "patelnie" | where: "properties.brand", "Ambition" %}
 
 {% assign main_product = products[0] %}
 
