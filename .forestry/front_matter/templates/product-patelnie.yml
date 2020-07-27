@@ -24,11 +24,11 @@ fields:
     config:
       required: false
     label: Typ
-  - name: height
+  - name: material
     type: text
     config:
       required: false
-    label: Wysokość
+    label: Materiał
   - name: brand
     type: text
     config:
