@@ -30,7 +30,11 @@ description: |-
 
   Patelnię z zewnątrz pokryto lakierem silikonowym o właściwościach żaroodpornych. Dzięki temu przez długi czas można cieszyć się jej estetycznym wyglądem. Powłoka zastosowana wewnątrz patelni sprawia, że produkt jest wytrzymały i odporny na zarysowania. Jednocześnie umożliwia ona łatwe i szybkie smażenie bez użycia tłuszczu lub przy jego minimalnym wykorzystaniu. Naczynie można stosować na wszystkich rodzajach kuchenek, włącznie z płytą indukcyjną, która dzięki pełnemu przewodzeniu magnetycznemu znacznie lepiej wykorzystuje zużywaną energię. Maksymalna temperatura, jaką może osiągnąć naczynie podczas pracy, wynosi 220°C.
 photo: "/uploads/zwieger-zwgr-patelnia-28-cm-obsidian-77478.png"
-links: []
+links:
+- template: link
+  url: https://www.ceneo.pl/86288080#crid=357911&pid=21269
+  anchor: Kup od 159,99 zł
+  provider: Ceneo
 properties:
   type: ''
   material: ''
