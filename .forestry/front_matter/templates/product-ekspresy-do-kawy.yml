@@ -34,6 +34,9 @@ fields:
     config:
       required: false
     label: Marka
+  - name: mill
+    type: boolean
+    label: Posiada młynek
   - name: pressure
     type: text
     config:
@@ -50,9 +53,7 @@ fields:
       required: false
     label: Rodzaj kawy
   - name: milk_frothing_function
-    type: text
-    config:
-      required: false
+    type: boolean
     label: Funkcja spieniania mleka
   - name: mumber_of_types_of_drinks
     type: text
