@@ -67,3 +67,5 @@ fields:
     label: Gwarancja
   label: Właściwości
   description: Właściwości produktu
+pages:
+- _products/pl/ekspres-saeco-picobaristo-sm5460-10-czarny.md
