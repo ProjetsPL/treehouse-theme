@@ -41,16 +41,16 @@ sections:
   - ranking
 - type: directory
   path: _products/pl
-  label: Produkty pl
+  label: Produkty (pl)
   create: all
   match: "**/*"
   new_doc_ext: md
   templates:
-  - product-ekspresy-do-kawy
-  - product-pralki
-  - product-patelnie
   - product-lamp
   - product-mattress
+  - product-ekspresy-do-kawy
+  - product-patelnie
+  - product-pralki
 - type: heading
   label: US
 - type: directory
