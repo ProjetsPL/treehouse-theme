@@ -5,6 +5,14 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: pl/recenzje
+  label: Rankingi (pl)
+  create: all
+  match: "**/*"
+  new_doc_ext: ''
+  templates:
+  - ranking
+- type: directory
   path: _data
   label: _Data
   create: all
