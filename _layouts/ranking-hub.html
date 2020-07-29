@@ -76,6 +76,24 @@
                 </div>
               {% endfor %}
           </section>
+
+          <section class="beam b-size-4 featured-articles">
+            <div class="beam-item b-size-4">
+              <h2 class="h-section">{{site.i18n[page.lang].maybe_interesting}}</h2>
+            </div>
+    
+            <!-- <div class="beam-item b-size-4"> -->
+              {% assign random_articles = site.pages | where:"lang", page.lang | where: "layout", "ranking" | sample: 8 %}
+    
+              {% for article in random_articles %}
+                {% assign main_keywords = article.main_keywords | sample: 1 %}
+    
+                {% if main_keywords %}
+                  <a href="{{ article.url | prepend: site.baseurl }}" class="btn btn-sm btn-link">{{ main_keywords }}</a>
+                {% endif %}
+              {% endfor %}
+            <!-- </div> -->
+          </section>
       </div>
   </main>
 
