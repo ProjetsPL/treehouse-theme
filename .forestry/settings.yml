@@ -32,14 +32,6 @@ sections:
   templates:
   - blog-post
 - type: directory
-  path: pl/recenzje
-  label: Rankingi (pl)
-  create: all
-  match: "**/*"
-  new_doc_ext: app
-  templates:
-  - ranking
-- type: directory
   path: _products/pl
   label: Produkty (pl)
   create: all
