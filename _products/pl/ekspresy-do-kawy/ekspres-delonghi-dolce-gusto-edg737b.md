@@ -36,7 +36,7 @@ links:
 properties:
   type: kapsułkowy
   functionality: automatyczny
-  brand: De’Longhi
+  brand: De'Longhi
   mill: false
   pressure: 15 bar
   strength: 1460 W

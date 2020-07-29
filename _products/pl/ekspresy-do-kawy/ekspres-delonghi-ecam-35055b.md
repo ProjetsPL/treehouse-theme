@@ -46,7 +46,7 @@ links:
 properties:
   type: ciśnieniowy
   functionality: automatyczny
-  brand: De’Longhi
+  brand: De'Longhi
   mill: true
   pressure: 15 bar
   strength: 1450 W

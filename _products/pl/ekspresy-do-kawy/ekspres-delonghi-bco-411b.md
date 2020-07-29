@@ -38,7 +38,7 @@ links:
 properties:
   type: ciśnieniowy
   functionality: kolbowy
-  brand: De’Longhi
+  brand: De'Longhi
   mill: false
   pressure: 15 bar
   strength: 1750 W

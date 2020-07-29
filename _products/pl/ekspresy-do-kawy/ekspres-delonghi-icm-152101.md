@@ -38,7 +38,7 @@ links:
 properties:
   type: przelewowy
   functionality: manualny
-  brand: De’Longhi
+  brand: De'Longhi
   mill: false
   pressure: "-"
   strength: 1000 W
