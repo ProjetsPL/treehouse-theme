@@ -1,0 +1,110 @@
+---
+layout: ranking
+date: 2020-07-29
+main_keywords:
+- jaki ekspres do kawy
+- najlepsze ekspresy do kawy
+- najlepszy ekspres do kawy
+toc: true
+h1: 5 Najlepszych Ekspresów Do Kawy na Lipiec 2020
+title: 5 Najlepszych Ekspresów Do Kawy na Lipiec 2020 | Sprawdź Opinie
+description: "Szukasz najlepszego ekspresu?\U0001F50D Sprawdź Ranking Ekspresów Do Kawy TOP 5 \U0001F3C6
+  na Lipiec 2020 - najwyżej oceniane marki i produkty. Ceny od XXX zł - kup online!"
+update_date: 2020-07-29
+intro: Odpowiedź na pytanie jaki ekspres do kawy jest najlepszy może okazać się mocno problematyczną kwestią. Trudno odnaleźć się w niezwykle bogatym rynku urządzeń tego typu. Każde z nich działa w inny sposób oraz ma inny zakres funkcji. Wybór w znacznej mierze zależy od indywidualnych upodobań w kwestii picia kawy. Przed zakupem dobrze rozważyć, jakie funkcje będą kluczowe.
+guide: |-
+  Każdy smakosz kawy marzy o tym, aby każdy łyk tego napoju był doskonały. Jednak żeby tak się stało, niezbędny jest odpowiedni sprzęt. Tylko najlepszy ekspres do kawy może przyrządzić napój, który zaspokoi najbardziej wyrafinowane podniebienia. Posiadając odpowiednie urządzenie, można przyrządzić pyszną kawę - nawet nie będąc ekspertem w tej kwestii. Kluczowe pytanie brzmi: jaki ekspres do kawy jest najlepszy?
+
+image: "/uploads/najlepsze-pralki.jpg"
+is_hub: true
+hub_name: najlepsze-ekspresy-do-kawy
+published: false
+
+---
+{% assign products = site.products | where: "category", "ekspresy-do-kawy" | where: 'distinction', 'our_choice' %}
+
+{% assign main_product = products[0] %}
+{% assign second_product = products[-1] %}
+
+<div class="beam b-size-5  review-section">
+    <div class="beam-item b-size-5 review-text">
+      <p>
+        Poniższy ranking zestawia najlepsze ekspresy do kawy dostępne na rynku na Lipiec 2020. Aby wybór stał się bardziej przejrzysty, produkty pogrupowano w kategorie.
+      </p>
+  </div>
+</div>
+<nav class="beam-item b-size-5 reviews-nav">
+    <ul class="beam b-size-3 reviews-nav-lvl-1">
+        <li class="beam-item b-size-1">
+           <span class="title type-reviews">Najlepsze Ekspresy do kawy <b>wg rodzaju:</b></span>
+            <ul class="reviews-nav-lvl-2 ">
+              <li><a href="/pl/recenzje/najlepsze-ekspresy-do-kawy/automatyczne.html" title="Najlepsze Pralki Automatyczne">Najlepsze Ekspresy do kawy <strong>Automatyczne</strong></a></li>
+              <li><a href="/pl/recenzje/najlepsze-ekspresy-do-kawy/cisnieniowe.html" title="Najlepsze Pralki Ładowane od Góry">Najlepsze Ekspresy do kawy <strong>Ciśnieniowe</strong></a></li>
+              <li><a href="/pl/recenzje/najlepsze-ekspresy-do-kawy/kolbowe.html" title="Najlepsze Pralki z Suszarką">Najlepsze Ekspresy do kawyki <strong>Kolbowe</strong></a></li>
+              <li><a href="/pl/recenzje/najlepsze-ekspresy-do-kawy/na-kapsulki.html" title="Najlepsze Pralki Slim">Najlepsze Ekspresy do kawy <strong>na Kapsułki</strong></a></li>
+              <li><a href="/pl/recenzje/najlepsze-ekspresy-do-kawy/przelewowe.html" title="Najlepsze Pralki Slim">Najlepsze Ekspresy do kawy <strong>Przelewowe</strong></a></li>
+              <li><a href="/pl/recenzje/najlepsze-ekspresy-do-kawy/z-mlynkiem.html" title="Najlepsze Pralki Slim">Najlepsze Ekspresy do kawy <strong>z Młynkiem</strong></a></li>
+            </ul>
+        </li>
+        <li class="beam-item b-size-1">
+            <span class="title producent-reviews">Najlepsze Ekspresy do kawy <b>wg producenta:</b></span>
+            <ul class="reviews-nav-lvl-2">
+              <li><a href="/pl/recenzje/najlepsze-ekspresy-do-kawy/krups.html" title="Najlepsze Pralki Bosh">Najlepsze Ekspresy do kawy <strong>Krups</strong></a></li>
+              <li><a href="/pl/recenzje/najlepsze-ekspresy-do-kawy/delonghi.html" title="Najlepsze Pralki Samsung">Najlepsze Ekspresy do kawy <strong>De'Longhi</strong></a></li>
+              <li><a href="/pl/recenzje/najlepsze-ekspresy-do-kawy/saeco.html" title="Najlepsze Pralki Electrolux">Najlepsze Ekspresy do kawy <strong>Saeco</strong></a></li>
+              <li><a href="/pl/recenzje/najlepsze-ekspresy-do-kawy/philips.html" title="Najlepsze Pralki Electrolux">Najlepsze Ekspresy do kawy <strong>Philips</strong></a></li>
+            </ul>
+        </li>
+    </ul>
+</nav>
+
+<div class="beam b-size-5  review-section">
+    <div class="beam-item b-size-3 review-text">
+        <figure>
+            <img src="{{ page.image }}" alt="Test">
+            <figcaption>{{ page.h1 }}</figcaption>
+        </figure>
+        {{ page.intro | markdownify }}
+    </div>
+    <div class="beam-item b-size-2 beam-rail  review-sidebar">      	
+        <div class="beam-rail-item r-height-100">
+            <div class="sticky-element">
+              {% include parts/product-listing-boxitem-md.html product=main_product %}
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="beam b-size-5  review-section">
+    <div class="beam-item b-size-5  review-text">
+        <h2>Najlepsze Ekspresy do kawy</h2>
+        <div class="flex-wrapper  nowrap">
+            <div class="flex-container">
+              {% for product in products %}
+                <div class="flex-item" >
+                  {% include parts/product-listing-boxitem-md.html product=product %}
+                </div>
+              {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="beam b-size-5  review-section">
+  <div class="beam-item b-size-3 review-text">
+    {{ page.guide | markdownify | inject_anchors }}
+  </div>
+
+
+  <div class="beam-item b-size-2 beam-rail  review-sidebar">
+      <div class="beam-rail-item r-height-100">
+          <div class="sticky-element">
+            <nav class="table-of-content">
+                <span class="title">Spis treść</span>
+                {{ page.guide | markdownify | toc_only }}
+            </nav>
+          </div>
+      </div>
+  </div>
+</div>

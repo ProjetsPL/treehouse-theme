@@ -1,0 +1,85 @@
+---
+layout: ranking
+date: 2020-07-29
+main_keywords:
+- najlepsze pralki automatyczne
+- pralki automatyczne
+- najlepsza pralka automaczyna
+- pralka automatyczna
+toc: true
+h1: 
+title: 
+description: ""
+update_date: 2020-07-29
+intro: ""
+guide: |-
+  ## Czym wyróżniają się pralki automatyczne?
+
+  W ciągu ostatniej dekady pralki automatyczne bardzo rozwinęły się pod względem technologicznym. Producenci oferują wiele rozwiązań, których zadaniem jest ułatwienie codziennej czynności prania ubrań.
+
+  
+image: "/uploads/najlepsze-pralki-automatyczne.jpg"
+is_hub: false
+hub_name: najlepsze-ekspresy-do-kawy
+published: false
+
+---
+{% assign products = site.products | where: "category", "pralki" | where: "properties.type", "Automatyczna" %}
+
+{% assign main_product = products[0] %}
+
+<div class="beam b-size-5  review-section">
+    <div class="beam-item b-size-3 review-text">
+        <figure>
+            <img src="{{ page.image }}" alt="{{ page.h1 }}">
+            <figcaption>{{ page.h1 }}</figcaption>
+        </figure>
+        {{ page.intro | markdownify }}
+    </div>
+    <div class="beam-item b-size-2 beam-rail  review-sidebar">
+        <div class="beam-rail-item r-height-100">
+            <div class="sticky-element">
+              {% include parts/product-listing-boxitem-md.html product=main_product context="Pralka Automatyczna" %}
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="beam b-size-5  review-section">
+    <div class="beam-item b-size-5  review-text">
+        <h2>Najlepsze Pralki Automatyczne</h2>
+        <div class="flex-wrapper  nowrap">
+            <div class="flex-container">
+              {% for product in products %}
+                <div class="flex-item" >
+                  {% include parts/product-listing-boxitem-md.html product=product %}
+                </div>
+              {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+
+{% for product in products %}
+  {% include parts/product-section.html product=product context="Pralka Automatyczna"%}
+{% endfor %}
+
+
+<div class="beam b-size-5  review-section">
+  <div class="beam-item b-size-3 review-text">
+    {{ page.guide | markdownify | inject_anchors }}
+  </div>
+
+
+  <div class="beam-item b-size-2 beam-rail  review-sidebar">
+      <div class="beam-rail-item r-height-100">
+          <div class="sticky-element">
+            <nav class="table-of-content">
+                <span class="title">Spis treść</span>
+                {{ page.guide | markdownify | toc_only }}
+            </nav>
+          </div>
+      </div>
+  </div>
+</div>
