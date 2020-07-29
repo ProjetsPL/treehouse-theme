@@ -68,6 +68,7 @@ fields:
   label: Właściwości
   description: Właściwości produktu
 pages:
+- _products/pl/ekspresy/ekspres-delonghi-dolce-gusto-edg737b.md
 - _products/pl/ekspresy/ekspres-delonghi-ecam-35055b.md
 - _products/pl/ekspresy/ekspres-delonghi-eci-341w.md
 - _products/pl/ekspresy/ekspres-delonghi-magnifica-s-ecam-22110b.md
