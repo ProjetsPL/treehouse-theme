@@ -58,7 +58,7 @@ hub_name: najlepsze-ekspresy-do-kawy
 published: false
 
 ---
-{% assign products = site.products | where: "category", "pralki" | where: "properties.type", "Automatyczna" %}
+{% assign products = site.products | where: "category", "ekspresy-do-kawy" | where: "properties.functionality", "kolbowy" %}
 
 {% assign main_product = products[0] %}
 
@@ -82,7 +82,7 @@ published: false
 
 <div class="beam b-size-5  review-section">
     <div class="beam-item b-size-5  review-text">
-        <h2>Najlepsze Pralki Automatyczne</h2>
+        <h2>Najlepsze Ekspresy do Kawy Kolbowe</h2>
         <div class="flex-wrapper  nowrap">
             <div class="flex-container">
               {% for product in products %}

@@ -229,6 +229,7 @@ i18n:
       milk_frothing_function: Funkcja spieniania mleka
       mumber_of_types_of_drinks: Ilość rodzajów napojów
       warranty: Gwarancja
+      mill: Posiada młynek
 
   us:
     read_more: "Read more"
