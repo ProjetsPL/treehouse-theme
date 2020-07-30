@@ -12,7 +12,7 @@ layout: amp
       {% include amp-header.html %}
 
       <article class="amp-post">
-        <time class="amp-post__date " datetime="{{ page.date | date_to_xmlschema }}">{{ site.i18n[page.lang].published }} {{page.date | date: '%d-%m-%Y'}}</time>
+        <time class="amp-post__date " datetime="{{ page.date | date_to_xmlschema }}">{{ site.i18n[page.lang].updated }}: {{page.update_date | date: '%d-%m-%Y'}}</time>
         <h1 class="amp-post__title">{{ page.title | escape }}</h1>
 
         {% if page.image %}
@@ -20,7 +20,7 @@ layout: amp
         {% endif %}
 
 
-        <p>{{ site.i18n[page.lang].toc }}</p>
+        <p class="amp-post__toc-title">{{ site.i18n[page.lang].toc }}</p>
         <div class="amp-post__content">
           {{ content | markdownify | toc | amp_images}}
         </div>
@@ -52,17 +52,17 @@ layout: amp
 
 
       {% if prev_article.url and prev_article.lang == page.lang or next_article.url and next_article.lang == page.lang %}
-        <p class="h2">{{ site.i18n[page.lang].read_also }}</p>
+        <p class="h2 h-section">{{ site.i18n[page.lang].read_also }}</p>
       {% endif %}
-
+      <nav class="amp-articles-listing">
       {% if prev_article.url and prev_article.lang == page.lang %}
-        {% include parts/article.html article=prev_article %}
+        {% include parts/amp-article.html article=prev_article %}
       {% endif %}
 
       {% if next_article.url and next_article.lang == page.lang %}
-        {% include parts/article.html article=next_article %}
+        {% include parts/amp-article.html article=next_article %}
       {% endif %}
-
+      </nav>
     </div>
   </body>
 </html>
