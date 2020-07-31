@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-07-10
+date: 2020-07-31
 main_keywords:
 - brick wall
 - brick wall background
@@ -19,7 +19,7 @@ main_keywords:
 - how to make brick design on wall
 toc: true
 promoted: false
-update_date: 2020-07-10
+update_date: 2020-07-31
 title: Brick Wall – 14 Amazing Designs That Will Delight You
 description: "Looking for interior design ideas? ➡️ Unusual solutions are the most
   unique. \U0001F9F1 Discover wonderful possibilities of brick wall design."
