@@ -65,7 +65,7 @@ fields:
 - name: image
   type: file
   config:
-    maxSize: 250
+    maxSize: 64
   label: Główne zdjęcie
 - name: main_keywords
   type: tag_list
@@ -86,3 +86,25 @@ fields:
   label: toc
   hidden: true
   default: true
+- name: test
+  type: field_group_list
+  fields:
+  - name: question
+    type: text
+    config:
+      required: false
+    label: QUESTION
+  - name: answer
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: ANSWER
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: TEST
