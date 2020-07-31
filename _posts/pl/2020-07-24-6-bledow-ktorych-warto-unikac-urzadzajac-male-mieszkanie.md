@@ -22,7 +22,6 @@ intro: 'Zaczynasz dorosłe życie i chcesz szybko się usamodzielnić? Dobrym ro
   kluczowe błędy. Przedstawiamy najczęstsze, abyś mógł bez kłopotu ich uniknąć.'
 image: "/uploads/male-mieszkanie-bledy-podczas-jego-urzadzania.jpg"
 related_products: []
-published: false
 
 ---
 ## Tych błędów unikaj, urządzając małe mieszkanie
