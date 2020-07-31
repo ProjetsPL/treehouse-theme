@@ -86,25 +86,3 @@ fields:
   label: toc
   hidden: true
   default: true
-- name: faq
-  type: field_group_list
-  fields:
-  - name: question
-    type: text
-    config:
-      required: false
-    label: Pytanie
-  - name: answer
-    type: textarea
-    default: ''
-    config:
-      required: false
-      wysiwyg: false
-      schema:
-        format: markdown
-    label: Odpowiedz
-  config:
-    min: 
-    max: 
-    labelField: 
-  label: FAQ
