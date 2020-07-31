@@ -71,7 +71,7 @@ Meble kuchenne białe idealnie komponują się z każdymi dodatkami - jednak to 
 ![Czarno-biała kuchnia - sekret tkwi w dodatkach](/uploads/bialo-czarna-kuchnia.jpg "Czarno-biała kuchnia - sekret tkwi w dodatkach")
 {% endfig %}
 
-**W ciemnych odcieniach dobrze będzie prezentować się także powierzchnia nad blatem.** To rozwiązanie polecane jest szczególnie do dużych kuchni, ponieważ może optycznie je zmniejszyć. Przy wyborze pokrycia ściany nad blatem warto postawić na gładką strukturę? Dlaczego? Na ciemnym kolorze wszystkie zabrudzenia są doskonale widoczne -więc czeka Cię częste przecieranie tego miejsca. Nie mniej jednak - prezentuje się naprawdę elegancko.
+**W ciemnych odcieniach dobrze będzie prezentować się także powierzchnia nad blatem.** To rozwiązanie polecane jest szczególnie do dużych kuchni, ponieważ może optycznie je zmniejszyć. Przy wyborze pokrycia ściany nad blatem warto postawić na gładką strukturę. Dlaczego? Na ciemnym kolorze wszystkie zabrudzenia są doskonale widoczne - więc czeka Cię częste przecieranie tego miejsca. Nie mniej jednak - prezentuje się naprawdę elegancko.
 
 {% fig %}
 ![Czarno-biała kuchnia blat](/uploads/biala-kuchnia-czarne-dodatki.jpg "Czarno-biała kuchnia blat")
@@ -170,7 +170,8 @@ Nie chcesz zakłócać białej, minimalistycznej kuchni żadnymi akcentami kolor
 {% endfig %}
 
 {:.distinction.distinction-warning}
-Pamiętaj o tym, aby rośliny - niezależnie od tego, czy są to kwiaty, czy zioła nie znajdowały się zbyt blisko miejsca, gdzie jest płyta grzewczy, czy piekarnik. Zbyt wysoka temperatura może sprawić, że zwiędną. Jeżeli masz taką możliwość, najlepiej stawiaj je na parapecie.
+
+Pamiętaj o tym, aby rośliny - niezależnie od tego, czy są to kwiaty, czy zioła nie znajdowały się zbyt blisko miejsca, gdzie jest płyta grzewcza, czy piekarnik. Zbyt wysoka temperatura może sprawić, że zwiędną. Jeżeli masz taką możliwość, najlepiej stawiaj je na parapecie.
 
 ## Mocny akcent kolorystyczny w dodatkach i wyposażeniu
 
