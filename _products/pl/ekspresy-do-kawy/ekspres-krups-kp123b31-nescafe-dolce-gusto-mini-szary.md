@@ -30,7 +30,7 @@ opinion:
     rating: '3'
     author: Teresa
 distinction: budget
-name: Ekspres Krups KP123B31 Nescafe Dolce Gusto Mini Szary
+name: Krups Nescafe Dolce Gusto Mini
 description: |-
   Nescafe Dolce Gusto Mini Me to automatyczny, wysokociśnieniowy ekspres z intuicyjnym interfejsem do kawy porcjowanej w kapsułkach. Umożliwia w przyjemny i prosty sposób przygotować aż trzydzieści rodzajów kawy wysokiej jakości. Jego kompaktowość w połączeniu z nowoczesnym kształtem sprawia, że jest uniwersalnym gadżetem kuchennym.
 

@@ -24,7 +24,7 @@ opinion:
     content: polecam
     rating: '5'
 distinction: ''
-name: Ekspres Saeco Picobaristo SM5460/10 Czarny
+name: Saeco Picobaristo
 description: |-
   Saeco Picobaristo SM5460/10 to ekspres ciśnieniowy, umożliwiający przygotowanie aż 10 rozmaitych rodzajów kawy. Świeżo mielone ziarna wydobywają kawowy smak i aromat podczas zaparzania, a wbudowany spieniacz mleka sprawia, że napój jest idealnie kremowy i delikatny. Ekspres otrzymał certyfikat jakości włoskich ekspertów.
 

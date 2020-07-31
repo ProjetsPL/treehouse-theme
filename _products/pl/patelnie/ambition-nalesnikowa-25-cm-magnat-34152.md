@@ -26,7 +26,7 @@ opinion:
     author: Ewa
     rating: '5'
 distinction: ''
-name: Ambition Naleśnikowa 25 cm Magnat 34152
+name: Ambition Magnat 25 cm
 description: |-
   Patelnia Magnat do naleśników marki Ambition została wykonana z aluminium odkuwanego. Jest to produkt o wielu praktycznych właściwościach. Dzięki wykorzystaniu tworzywa patelnia jest solidna i odporna na odkształcenia. Jej powierzchnia równomiernie się nagrzewa, dając użytkownikom gwarancję szybkiego smażenia przy oszczędności energii.
 

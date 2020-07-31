@@ -27,7 +27,7 @@ opinion:
     author: edyta
     rating: '5'
 distinction: hot
-name: Ambition Taurus Patelnia Grillowa 26 cm 34157
+name: Ambition Taurus 26 cm
 description: |-
   Patelnia grillowa Taurus o wymiarach 26 x 26 cm marki Ambition została wykonana z aluminium odlewanego i stali nierdzewnej. Dzięki temu nadaje się nie tylko do grillowania i smażenia, ale można wykorzystać ją również do zapiekania jedzenia w piekarniku w maksymalnej temperaturze 240 °C. Naczynia można używać na wszystkich kuchenkach.
 

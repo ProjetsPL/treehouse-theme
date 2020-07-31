@@ -37,7 +37,7 @@ opinion:
     author: Roberto N-Ce
     rating: '4'
 distinction: ''
-name: Ekspres De'Longhi Magnifica S Ecam 22.110.B
+name: De'Longhi Magnifica S Ecam
 description: |-
   De'Longhi Magnifica S Ecam to kompaktowy ekspres z funkcją automatycznego czyszczenia i odkamieniania. Wyposażony w systemy regulacji temperatury Thermoblock i Cappuccino pozwala na idealne spienianie mleka. Trzynastostopniowa regulacja zmielenia umożliwia komfortowe parzenie kawy zarówno ze świeżych ziaren, jak i z kawy już zmielonej.
 

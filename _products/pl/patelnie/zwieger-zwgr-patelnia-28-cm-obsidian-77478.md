@@ -24,7 +24,7 @@ opinion:
     author: Andrzej
     rating: '4'
 distinction: ''
-name: Zwieger ZWGR Patelnia 28 cm Obsidian 77478
+name: Zwieger Obsidian 28 cm
 description: |-
   Zwieger Obsidian to patelnia ceramiczna o średnicy 28 centymetrów z rączką Soft Touch. Została wykonana z aluminium, będącego doskonałym przewodnikiem i akumulatorem ciepła. Wewnętrzną część naczynia pokrywa trzywarstwowa powłoka nieprzywierająca Greblon C3+ firmy WEILBURGER.
 

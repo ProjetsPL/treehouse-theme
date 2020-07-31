@@ -45,7 +45,7 @@ opinion:
     author: Użytkownik Ceneo
     rating: '4'
 distinction: ''
-name: Electrolux EW6S526WP Perfect Care Automatyczna Slim
+name: Electrolux EW6S526WP Perfect Care
 description: |-
   Electrolux EW6S526WP Perfect Care slim to pralka automatyczna o wymiarach 850 x 595 x 377 mm. Urządzenie jest bardzo kompaktowe i zajmuje prawie 40% mniej miejsca niż sprzęty standardowe. Mimo to bęben pralki jest w stanie pomieścić jednocześnie aż 6 kg, co sprawia, że jest ona uniwersalnym wyborem idealnym dla każdego użytkownika.
 

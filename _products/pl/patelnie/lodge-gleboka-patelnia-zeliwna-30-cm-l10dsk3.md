@@ -20,7 +20,7 @@ opinion:
     content: Solidna i niezawodna patelnia. Polecam
     rating: '5'
 distinction: our_choice
-name: Lodge Głęboka Patelnia Żeliwna 30 Cm L10DSK3
+name: Lodge 30 Cm
 description: |-
   Żeliwna, głęboka patelnia Cast Iron ma średnicę 30 cm. Jest idealna do smażenia na głębokim tłuszczu oraz serwowania posiłków na stół - prosto z patelni. Naczynie jest przystosowane do każdego rodzaju kuchenek, włącznie z kuchnią indukcyjną. Nadaje się także do piekarnika, dzięki czemu sprawdzi się doskonale jako forma do pieczenia.
 

@@ -82,7 +82,7 @@ module Jekyll
 
             return nil if splitted_key[1] == "brand"
 
-            @product_filters[1][1]
+            @product_filters[1][1].to_s.capitalize
           end
 
           def overview(questions: )

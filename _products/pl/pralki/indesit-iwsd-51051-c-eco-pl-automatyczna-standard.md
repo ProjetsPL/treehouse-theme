@@ -47,7 +47,7 @@ opinion:
     author: Mirek
     rating: '4'
 distinction: budget
-name: Indesit IWSD 51051 C ECO PL Automatyczna Standard
+name: Indesit IWSD 51051 C ECO PL
 description: |-
   Urządzenie Indesit IWSD 51051 C ECO PL zostało zaprojektowane z myślą o praniu ekologicznym. Klasa energetyczna A+ pralki ogranicza zużywanie energii do koniecznego minimum. Na przedniej ścianie urządzenia znajduje się intuicyjny panel sterowania z licznymi funkcjami. Wyświetlacz cyfrowy pokazuje informacje o bieżącej fazie oraz pozwala w prosty i wygodny sposób dostosowywać parametry prania.
 

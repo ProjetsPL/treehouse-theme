@@ -23,7 +23,7 @@ opinion:
     author: Sylwia
     rating: '2'
 distinction: ''
-name: Kitchen Craft Patelnia Żeliwna z Deską do Serwowania Artfry 20
+name: Kitchen Craft Artfry 20
 description: |-
   Kitchen Craft Artesa to patelnia w całości wykonana z żeliwa, umożliwiająca przygotowanie zdrowych potraw z ograniczoną ilością tłuszczu. Dzięki temu, że żeliwo jest świetnym przewodnikiem ciepła, potrawy serwowane bezpośrednio z patelni pozostaną ciepłe na długo po zakończeniu gotowania. Patelnia sprzedawana jest w zestawie z drewnianą deską.
 

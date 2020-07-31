@@ -22,7 +22,7 @@ opinion:
     author: Adam
     rating: '5'
 distinction: ''
-name: Ekspres De'Longhi Dolce Gusto EDG737B
+name: De'Longhi Dolce Gusto
 description: |-
   Nescafe Dolce Gusto Eclipse od firmy DeLonghi to ciśnieniowy ekspres kapsułkowy z systemem ogrzewania termoobiegowego i możliwością regulowania wysokości tacki. Urządzenie umożliwia przygotowanie szerokiej gamy gorących napojów, takich jak kawa, herbata, a nawet gorąca czekolada. To praktyczny gadżet kuchenny o nieprzeciętnym designie.
 

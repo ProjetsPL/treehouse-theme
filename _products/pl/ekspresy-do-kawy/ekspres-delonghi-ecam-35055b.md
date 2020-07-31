@@ -32,7 +32,7 @@ opinion:
     author: Agnieszka
     rating: '4'
 distinction: ''
-name: Ekspres De'Longhi ECAM 350.55.B
+name: De'Longhi ECAM
 description: |-
   Dinamica De’Longhi to ekspres z młynkiem automatycznym umożliwiający przygotowanie aż jedenastu rodzajów kaw. Jego intuicyjny interfejs pozwala za dotknięciem jednego przycisku przygotować klasyczne kawy jak mocne espresso, czy intensywne cafe long. Natomiast innowacyjny system Lattecrema umożliwia spróbowanie najlepszych, włoskich kaw mlecznych.
 

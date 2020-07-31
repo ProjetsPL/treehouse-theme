@@ -28,7 +28,7 @@ opinion:
     author: Artur
     rating: '5'
 distinction: our_choice
-name: Ekspres De'Longhi ECI 341.W
+name: De'Longhi ECI
 description: |-
   Ciśnieniowy, kolbowy ekspres De’Longhi ECI z młynkiem o mocy 1100 W. wyposażony jest w profesjonalny Filtr Crema, System Cappuccino oraz funkcję podgrzewania filiżanek. Posiada dwa sposoby parzenia - z kawy mielonej oraz saszetek. Umożliwia przygotowywanie dwóch kaw jednocześnie.
 

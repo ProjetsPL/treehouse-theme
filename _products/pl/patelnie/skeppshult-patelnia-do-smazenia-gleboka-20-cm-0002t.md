@@ -38,7 +38,7 @@ opinion:
     author: gg
     rating: '5'
 distinction: ''
-name: Skeppshult Patelnia Do Smażenia Głęboka 20 Cm 0002T
+name: Skeppshult 20 cm 
 description: |-
   Głęboka patelnia żeliwna od firmy Skeppshult z drewnianym uchwytem umożliwia szybkie przygotowanie smażonych potraw. Dzięki impregnacji patelni olejem rzepakowym w procesie produkcji jedzenie nie przywiera do dna podczas gotowania, a naczynie zachowuje lśniący wygląd przez cały czas użytkowania. To patelnia idealna do użytku codziennego.
 

@@ -30,7 +30,7 @@ opinion:
     author: ''
     content: ''
 distinction: premium
-name: Tefal Talent Pro 25 cm C6213852
+name: Tefal Talent Pro 25 cm
 description: |-
   Tefal Talent Pro to patelnia do naleśników o średnicy 25 cm ze wskaźnikiem Soft-Touch, pozwalającym utrzymać optymalną temperaturę przygotowywanych potraw. Powłoka Titanium Excellence gwarantuje wysoką odporność na zarysowania, dzięki czemu użytkownik może z powodzeniem wykorzystać do niej metalowa akcesoria.
 

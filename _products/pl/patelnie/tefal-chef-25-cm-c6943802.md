@@ -11,7 +11,7 @@ opinion:
     author: Rafał
     rating: '5'
 distinction: ''
-name: Tefal Chef 25 cm C6943802
+name: Tefal Chef 25 cm
 description: |-
   Tefal Chef to patelnia do smażenia naleśników o średnicy 25 cm. Gruby spód zapewnia odpowiednią dystrybucję ciepła i sprawia, że naczynie nie odkształca się. Powłoka tytanowa na wewnętrznej stronie cechuje się wysoką odpornością na zarysowania, a przygotowywane dania nie przywierają do dna, gwarantując komfort podczas smażenia.
 

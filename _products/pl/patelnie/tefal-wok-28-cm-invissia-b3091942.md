@@ -25,7 +25,7 @@ opinion:
     author: Joanna
     rating: '5'
 distinction: ''
-name: Tefal Wok 28 cm Invissia B3091942
+name: Tefal Invissia Wok 28 cm  
 description: |-
   Tefal Invissia to łatwa w użytkowaniu głęboka patelnia ceramiczna wyposażona w szereg praktycznych funkcji. Czyni ona gotowanie łatwym i przyjemnym. Dzięki powłoce nieprzywierającej patelnia jest odporna na zarysowania i odkształcenia. System Thermo-Spot pozwala osiągnąć optymalną temperaturę przygotowywania każdego posiłku.
 

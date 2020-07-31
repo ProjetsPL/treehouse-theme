@@ -31,7 +31,7 @@ opinion:
     author: Małgorzata
     rating: '4'
 distinction: ''
-name: Ekspres Philips 2200 LatteGo EP2230/10 Czarny
+name: Philips 2200 LatteGo
 description: |-
   Phillips 2200 LatteGo to ekspres automatyczny o mocy 1500 W. Wyposażony w system Aroma Extract, który dba o utrzymanie optymalnej temperatury napoju, zachowując jednocześnie pełną wyrazistość jego aromatu i smaku. Urządzenie posiada intuicyjny panel sterowania, umożliwiający przygotowanie najlepszych włoskich kaw za pomocą kilku przycisków.
 

@@ -31,7 +31,7 @@ opinion:
     author: MP
     rating: '4'
 distinction: ''
-name: Bosch WVG30460PL pralko-suszarka Standard
+name: Bosch WVG30460PL
 description: |-
   Pralko-suszarka Bosch WVG30460PL to urządzenie o klasie energetycznej A. Urządzenie jest wyjątkowo ciche dzięki specjalnie zaprojektowanym ściankom oraz systemowi antywibracyjnemu. Model wyposażono w wiele programów prania i suszenia, również do tkanin delikatnych. Struktura bębna przypominającego kroplę wody pozwala dostosować obroty do rodzaju pranych tkanin.
 

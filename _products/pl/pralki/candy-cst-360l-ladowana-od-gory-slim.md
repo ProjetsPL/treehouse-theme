@@ -39,7 +39,7 @@ opinion:
     author: U...o
     rating: '5'
 distinction: ''
-name: Candy CST 360L Ładowana od góry Slim
+name: Candy CST 360L
 description: |-
   Candy CST 360L to pralka typu slim ładowana od góry, której maksymalny załadunek wynosi 6 kilogramów. Urządzenie posiada najwyższą możliwą klasę efektywności energetycznej A+++. Dzięki temu pranie jest oszczędne, jak również w pozytywny sposób wpływa na środowisko.
 

@@ -37,7 +37,7 @@ opinion:
     author: Dariusz
     rating: '4'
 distinction: ''
-name: Whirlpool AWE4519P Ładowana od góry Slim
+name: Whirlpool AWE4519P
 description: |-
   Whirlpool AWE4519P to wolnostojąca pralka typu slim, otwierana i ładowana od góry. Ze względu naj niewielkie wymiary sprawdzi się świetnie do mieszkań o małym metrażu. Urządzenie umożliwia pranie o maksymalnym załadunku 5 kg przy klasie A+ efektywności energetycznej. Roczne zużycie energii przez pralkę wynosi 167 kWh. Taka kompilacja właściwości pozwala użytkownikom oszczędzać energię, jednocześnie ciesząc się efektami skutecznego prania.
 

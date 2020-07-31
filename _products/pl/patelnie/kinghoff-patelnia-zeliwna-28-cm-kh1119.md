@@ -32,7 +32,7 @@ opinion:
     author: wojenna86
     rating: '5'
 distinction: budget
-name: Kinghoff Patelnia Żeliwna 28 cm KH1119
+name: Kinghoff 28 cm 
 description: |-
   Patelnia żeliwna Kinghoff z odkręcaną rączką jest masywna ze względu na tworzywo, z jakiego została wykonana. Waga naczynia pozwala jednak na kumulację oraz utrzymanie odpowiedniej temperatury. Dodatkowo żeliwo ogranicza ilość szkodliwych substancji wchłanianych do organizmu podczas posiłków, korzystnie wpływając na codzienną dietę.
 

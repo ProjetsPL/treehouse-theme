@@ -29,7 +29,7 @@ opinion:
     author: marta
     rating: '4'
 distinction: budget
-name: Ekspres Krups XP320830 OPIO
+name: Krups XP320830 OPIO
 description: |-
   Krups XP320830 Opio to ekspres kolbowy, ręczny o mocy 1050 W. Urządzenie posiada wyjmowany zbiornik na wodę o pojemności 1,5 l. Wyposażony w dwa osobne sitka służące do zaparzania kawy mielonej typu espresso, jak i kawy porcjowanej w saszetkach. Ekspres posiada ręczną dyszę odpowiadającą za gorącą wodę i spienianie mleka pod ciśnieniem 15 bar.
 

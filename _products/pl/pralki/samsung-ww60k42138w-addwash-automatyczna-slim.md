@@ -58,7 +58,7 @@ opinion:
     author: Ewa
     rating: '4'
 distinction: ''
-name: Samsung WW60K42138W Addwash Automatyczna Slim
+name: Samsung WW60K42138W Addwash
 description: |-
   Pralka Samsung WW60K42138W Addwash slim to model automatyczny o wymiarach 600 x 850 x 450 mm. Urządzenie zostało wyposażone w silnik Digital Inverter, który odpowiada za cichą, energooszczędną i wydajną pracę oraz wysoką wytrzymałość. Pralkę wyposażono w szeroko otwierane drzwi, co znacznie ułatwia wkładanie i wyjmowanie ubrań z jej wnętrza. Maksymalna waga załadunku bębna wynosi 6 kg. Dzięki dodatkowym drzwiczkom zamontowanym w pralce możliwe jest dodawanie ubrań w trakcie prania, płukania lub wirowania.
 

@@ -37,7 +37,7 @@ opinion:
     author: An...
     rating: '4'
 distinction: ''
-name: Tefal Patelnia Duetto 28 cm A7040684
+name: Tefal Duetto 28 cm
 description: |-
   Tefal Duetto to patelnia z dnem indukcyjnym. Jest ona idealna do smażenia dań na głębokim tłuszczu. Została wyposażona w nieprzywierającą powłokę ceramiczną Power Resist. Umieszczony w naczyniu wskaźnik nagrzania stanowi praktyczne rozwiązanie, czyniąc produkt intuicyjnym i prostym w obsłudze - nawet dla laików świata kulinarnego.
 

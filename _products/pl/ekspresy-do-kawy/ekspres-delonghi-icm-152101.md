@@ -24,7 +24,7 @@ opinion:
     rating: '4'
     author: MJ
 distinction: ''
-name: Ekspres De'Longhi ICM 15210.1
+name: De'Longhi ICM
 description: |-
   De’Longhi ICM to ekspres przelewowy o mocy 1000 W ze szklanym dzbankiem o pojemności 1,25 l. Duża pojemność dzbanka umożliwia zaparzenie nawet do 10 filiżanek kawy za jednym razem. Wyposażony w system zapobiegający kapaniu oraz system automatycznego wyłączania. To praktyczne i funkcjonalne akcesorium sprawdzi się świetnie w każdej kuchni.
 

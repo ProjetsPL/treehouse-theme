@@ -30,7 +30,7 @@ opinion:
     author: ANIA
     rating: '5'
 distinction: ''
-name: Ekspres Nescafe Dolce Gusto Krups Infinisima KP1701 Biały
+name: Nescafe Dolce Gusto Krups Infinisima
 description: |-
   Nescafe Dolce gusto Krups to automatyczny ekspres do kawy o mocy 1500 W z funkcją automatycznego wyłączania. Dzięki systemowi kapsułek umożliwia przygotowanie ponad trzydziestu różnych rodzajów napojów od najpopularniejszych kaw, po smaczne herbaty rozgrzewające. Charakteryzuje się funkcjonalnością i nowoczesnym, ponadprzeciętnym designem.
 

@@ -24,7 +24,7 @@ opinion:
     author: Użytkownik Ceneo
     rating: '5'
 distinction: ''
-name: Ekspres De'Longhi BCO 411.B
+name: De'Longhi BCO
 description: |-
   Przelewowy ekspres De’Longhi BCO o mocy 1750 W umożliwia przygotowanie kaw czarnych, jak i mlecznych. Stworzony do serwowania napojów kawowych najwyższej jakości. Pojemny dzbanek pozwala na parzenie nawet 10 filiżanek kawy jednocześnie. Został wyposażony w funkcjonalny interfejs łatwo dostępny dla użytkownika oraz podgrzewacz filiżanek.
 

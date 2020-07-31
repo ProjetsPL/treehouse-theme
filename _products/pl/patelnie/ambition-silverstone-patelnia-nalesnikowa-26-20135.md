@@ -25,7 +25,7 @@ opinion:
     author: JUSTYNA
     rating: '4'
 distinction: our_choice
-name: Ambition Silverstone Patelnia Naleśnikowa 26 20135
+name: Ambition Silverstone 26 cm
 description: |-
   Patelnia do naleśników Ambition Silverstone dzięki powłoce Qualum Basic Stone Edition błyskawicznie się nagrzewa, zużywając do tego znacznie mniej energii niż standardowo. Jest nie tylko praktyczna, ale również wygląda solidnie. Jej unikatowy design inspirowany naturalnym granitem czyni z niej akcesorium domowe idealne na prezent.
 

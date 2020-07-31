@@ -28,7 +28,7 @@ opinion:
     author: tomy
     rating: '4'
 distinction: ''
-name: Ekspres De'Longhi SCULTURA ECZ 351.W Biały
+name: De'Longhi Scultura
 description: |-
   Wysokociśnieniowy ekspres kolbowy ECZ 351.W z serii Scultura charakteryzuje się funkcjonalnością i nieprzeciętnym designem. Został wyposażony w trzy oddzielne filtry umożliwiające parzenie zarówno kawy mielonej, jak i kapsułkowej z saszetek E.S.E. Filtr Crema zapewnia delikatną i gęstą piankę idealną do cappuccino.
 

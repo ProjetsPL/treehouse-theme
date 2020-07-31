@@ -27,7 +27,7 @@ opinion:
     author: Żaneta
     rating: '5'
 distinction: ''
-name: Zwieger White Stone Patelnia 28 cm Grillowa
+name: Zwieger White Stone 28 cm
 description: |-
   Zwieger White Stone to kwadratowa patelnia grillowa z aluminium typu Die Cast. Wewnętrzna strona naczynia została pokryta nowoczesną nieprzywierającą powłoką granitową. White Stone idealne naczynie umożliwiające smażenie i grillowanie potraw, zachowując przy tym pełnię i wyrazistość ich smaku.
 

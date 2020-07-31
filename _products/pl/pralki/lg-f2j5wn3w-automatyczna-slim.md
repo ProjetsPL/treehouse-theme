@@ -54,7 +54,7 @@ opinion:
     author: Łukasz
     rating: '4'
 distinction: ''
-name: LG F2J5WN3W Automatyczna Slim
+name: LG F2J5WN3W
 description: |-
   Pralka LG F2J5WN3W to urządzenie o kompaktowych wymiarach, dzięki czemu sprawdzi się idealnie w małych mieszkaniach dla niedużej ilości mieszkańców. Posiada najwyższą klasę energetyczną A+++, z tego względu pranie jest zarówno ekonomiczne, jak i ekologiczne, jako że odbywa się przy wykorzystaniu minimalnej ilości energii. Roczne zużycie energii wynosi dla tego modelu 146 kWh.
 

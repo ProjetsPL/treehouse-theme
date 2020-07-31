@@ -30,7 +30,7 @@ opinion:
     author: Blue
     rating: '3'
 distinction: ''
-name: Gerlach Patelnia 28 cm Ceramiczna Harmony Połysk Classic Ilag
+name: Gerlach Harmony 28 cm
 description: |-
   Patelnia ceramiczna Gerlach Harmony została wyposażona w 2-warstwową powłokę nieprzywierającą, która zapewnia zdrowe smażenie i duszenie potraw bez ich przywierania. Klasyczny, stylowy design w połączeniu z wieloma właściwościami sprawia, że jest to naczynie najwyższej jakości idealne do użytku codziennego, jak i na prezent.
 

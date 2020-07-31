@@ -24,7 +24,7 @@ opinion:
     author: Leszek
     rating: '5'
 distinction: ''
-name: Ekspres Saeco Aulika Top RI HSC RI 9846/3 Szary
+name: Saeco Aulika Top
 description: |-
   Saeco Aulika Top RI High Speed Cappuccino to wysokociśnieniowy ekspres do kawy o mocy 1400 W. Sprawdzi się doskonale do użytku profesjonalnego w lokalach gastronomicznych lub biurowcach. Wyposażony w nowoczesne technologie One Touch Logic, Pinless Wonder i spieniacz mleka. Intuicyjny interfejs gwarantuje łatwą i szybką obsługę urządzenia.
 

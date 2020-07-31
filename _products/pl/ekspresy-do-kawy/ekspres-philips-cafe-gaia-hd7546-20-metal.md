@@ -37,7 +37,7 @@ opinion:
     author: Staszek
     rating: '5'
 distinction: ''
-name: Ekspres Philips Cafe Gaia HD7546/20 Metal
+name: Philips Cafe Gaia
 description: |-
   Metalowy ekspres do kawy marki Philips Cafe Gaia o mocy 1000 W to funkcjonalne akcesorium kuchenne o ciekawym designie. Posiada dzbanek termiczny ze stali z podwójną ścianką, blokadę kapania oraz funkcję automatycznego wyłączania, która dezaktywuje urządzenie po zaparzeniu kawy, w trosce o oszczędność energii i bezpieczeństwo użytkownika.
 

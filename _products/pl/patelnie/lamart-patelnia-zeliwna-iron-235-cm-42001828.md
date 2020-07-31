@@ -24,7 +24,7 @@ opinion:
     content: OK
     rating: '3'
 distinction: budget
-name: Lamart Patelnia Żeliwna Iron 23,5 cm 42001828
+name: Lamart Iron 23,5 cm
 description: |-
   Lamart Iron to trwała patelnia żeliwna wysokiej jakości - idealna zarówno do smażenia, jak i grillowania potraw. Wewnętrzna, jak i zewnętrzna warstwa patelni jest odporna na różnego rodzaju pęknięcia, otarcia i zarysowania. Naczynie cechuje się wytrzymałością na działanie wysokich temperatur i podczas pracy potrafi osiągnąć nawet do 280 °C.
 

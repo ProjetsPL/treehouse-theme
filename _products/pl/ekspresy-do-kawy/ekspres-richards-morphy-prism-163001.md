@@ -25,7 +25,7 @@ opinion:
     author: Użytkownik Ceneo
     rating: '5'
 distinction: ''
-name: Ekspres Richards Morphy PRISM 163001
+name: Richards Morphy PRISM
 description: |-
   Przelewowy ekspres do kawy Morphy Richards Prism, biały jest połączeniem funkcjonalnego i intuicyjnego sprzętu o nowoczesnym designie z wyśmienitym smakiem parzonej kawy najwyższej jakości. Posiada funkcję opóźnionego parzenia, doskonale podtrzymuje ciepło. Wyłącza się samoczynnie po 30 minutach od ostatniego użytku, oszczędzając zużycie energii.
 
