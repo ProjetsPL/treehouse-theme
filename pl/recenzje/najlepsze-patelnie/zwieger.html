@@ -77,6 +77,7 @@ guide: "\U0001F373 [Zobacz również najlepsze patelnie w innych kategoriach!](/
 image: "/uploads/najlepsze-patelnie-zwieger-1.jpg"
 is_hub: false
 hub_name: najlepsze-patelnie
+product_filters: 'category:patelnie|properties.brand:Zwieger'
 
 ---
 {% assign products = site.products | where: "category", "patelnie" | where: "properties.brand", "Zwieger" %}
@@ -91,7 +92,7 @@ hub_name: najlepsze-patelnie
         </figure>
         {{ page.intro | markdownify }}
     </div>
-  	
+
     <div class="beam-item b-size-2 beam-rail  review-sidebar">
         <div class="beam-rail-item r-height-100">
             <div class="sticky-element">

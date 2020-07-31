@@ -94,6 +94,7 @@ guide: "\U0001F30A [Zobacz również najlepsze pralki w innych kategoriach!](/pl
 image: "/uploads/najlepsze-pralki-ladowane-od-gory.jpg"
 is_hub: false
 hub_name: najlepsze-pralki
+product_filters: 'category:pralki|properties.type:Ładowana od góry'
 
 ---
 {% assign products = site.products | where: "category", "pralki" | where: "properties.type", "Ładowana od góry" %}
@@ -113,7 +114,7 @@ hub_name: najlepsze-pralki
             <div class="sticky-element">
               {% include parts/product-listing-boxitem-md.html product=main_product context="Pralka Ładowana od Góry" %}
             </div>
-        </div> 
+        </div>
     </div>
 </div>
 

@@ -5,7 +5,7 @@ module Jekyll
   module Treehouse
     module Seo
       module JsonLd
-        class FaqService < Service
+        class RankingHubFaqService < Service
           attributes :context
 
           PUNCTUATION_REGEXP = /[^\p{Word}\- ]/u
@@ -16,7 +16,7 @@ module Jekyll
 
             questions = prepare_questions
             return [] if questions.count.zero?
-            
+
             array = []
             array << overview(questions: questions)
 
