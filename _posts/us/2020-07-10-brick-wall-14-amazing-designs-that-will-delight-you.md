@@ -29,7 +29,6 @@ intro: Are you looking for an interior decoration idea? Are you interested in th
   with a brick wall. Inspire yourself and create an extraordinary interior.
 image: "/uploads/cegla-na-scianie.jpg"
 related_products: []
-published: false
 
 ---
 ## Brick wall in a living room – a minimalistic design with contrast
