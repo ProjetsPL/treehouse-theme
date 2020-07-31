@@ -102,6 +102,7 @@ guide: "\U0001F30A [Zobacz również najlepsze pralki w innych kategoriach!](/pl
 image: "/uploads/najlepsze-pralki-samsung.jpg"
 is_hub: false
 hub_name: najlepsze-pralki
+product_filters: 'category:pralki|properties.brand:Samsung'
 
 ---
 {% assign products = site.products | where: "category", "pralki" | where: "properties.brand", "Samsung" %}
@@ -143,7 +144,7 @@ hub_name: najlepsze-pralki
 
 {% for product in products %}
   {% include parts/product-section.html product=product context="Pralka Samsung"%}
-{% endfor %} 
+{% endfor %}
 
 
 <div class="beam b-size-5  review-section">

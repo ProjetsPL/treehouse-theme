@@ -8,7 +8,9 @@ require 'jekyll-treehouse/seo/json_ld/image_service'
 require 'jekyll-treehouse/seo/json_ld/breadcrumb_service'
 require 'jekyll-treehouse/seo/json_ld/article_service'
 require 'jekyll-treehouse/seo/json_ld/person_service'
-require 'jekyll-treehouse/seo/json_ld/faq_service'
+require 'jekyll-treehouse/seo/json_ld/content_faq_service'
+require 'jekyll-treehouse/seo/json_ld/ranking_faq_service'
+require 'jekyll-treehouse/seo/json_ld/ranking_hub_faq_service'
 
 module Jekyll
   module Treehouse
@@ -31,8 +33,19 @@ module Jekyll
             # graph << JsonLd::BreadcrumbService.call(context: context).result
             graph << JsonLd::ArticleService.call(context: context).result
             graph << JsonLd::PersonService.call(context: context).result
-            graph += JsonLd::FaqService.call(context: context).result
           end
+
+          if context['page']['layout'] == 'post'
+            graph += JsonLd::ContentFaqService.call(context: context).result
+          end
+
+          if context['page']['layout'] == 'ranking'
+            graph += JsonLd::RankingFaqService.call(context: context).result
+          end
+
+          # if context['page']['layout'] == 'ranking-hub'
+          #   graph += JsonLd::RankingHubFaqService.call(context: context).result.to_s
+          # end
 
           json = {
             "@context": schema,
