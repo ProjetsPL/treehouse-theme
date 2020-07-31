@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-07-24
+date: 2020-07-31
 main_keywords:
 - małe mieszkanie
 - jak urządzić małe mieszkanie
@@ -11,7 +11,7 @@ main_keywords:
 - małe mieszkanie aranżacje
 toc: true
 promoted: false
-update_date: 2020-07-24
+update_date: 2020-07-31
 title: 6 Błędów, Których Warto Unikać, Urządzając Małe Mieszkanie
 description: "Kupiłeś małe mieszkanie? \U0001F3E0 Aranżacja małych wnętrz bywa wymagająca.
   ➡️ Sprawdź najczęściej popełniane błędy i skutecznie ich unikaj."
