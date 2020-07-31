@@ -28,7 +28,7 @@ opinion:
     author: Grzegorz
     rating: '5'
 distinction: premium
-name: Ekspres Saeco Aulika Focus Szary
+name: Saeco Aulika Focus
 description: |-
   Saeco Aulika Focus to wysokociśnieniowy ekspres automatyczny z młynkiem o mocy 1400 W. Został wyposażony w spieniacz do mleka oraz intuicyjny interfejs z polskim menu, umożliwiający dostosowanie poszczególnych funkcji za pomocą jednego przycisku. Urządzenie cechuje się wysoką wygodą użytkowania i umożliwia przygotowywanie dwóch kaw jednocześnie.
 

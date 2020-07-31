@@ -28,7 +28,7 @@ opinion:
     author: Anonimowy
     rating: '5'
 distinction: ''
-name: Electrolux EWG147540W do zabudowy Standard
+name: Electrolux EWG147540W
 description: |-
   Electrolux EWG147540W to pralka do zabudowy o najwyższej możliwej klasie energetycznej A+++. Producent wyposażył urządzenie w system Direct Spray, który spryskując bieliznę podczas prania, ogranicza ilość zużywanej wody i sprawia, że czynność ta jest delikatna. Pralka posiada również funkcję Time Manager, która pozwala użytkownikowi na dostosowanie czasu prania do indywidualnych potrzeb.
 

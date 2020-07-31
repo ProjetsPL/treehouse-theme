@@ -40,7 +40,7 @@ opinion:
       Polecam
     author: Klient
 distinction: our_choice
-name: Bosch WVH28420PL pralko suszarka Standard
+name: Bosch WVH28420PL
 description: |-
   Bosch WVH28420PL jest pralko-suszarką o wielu funkcjach. Model sam dostosowuje intensywność suszenia i potrafi rozpoznać, kiedy ubrania są już suche. Pralko-suszarka Bosch pozwala również na odświeżenie ubrania za pomocą funkcji pary. Dodatkowym atutem jest fakt, że urządzenie pozwala na dostosowanie każdego programu do własnych preferencji.
 

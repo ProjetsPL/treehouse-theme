@@ -47,7 +47,7 @@ opinion:
     author: mk
     rating: '5'
 distinction: ''
-name: Bosch WOR20155PL Ładowana od góry Slim
+name: Bosch WOR20155PL
 description: |-
   Bosch WOR20155PL to pralka wolnostojąca typu slim, ładowana od góry o maksymalnym załadunku 6 kilogramów. Jedną z jej najbardziej istotnych cech jest funkcja Active Water, która aktywnie zmniejsza zużycie wody podczas prania. Dwustopniowy czujnik umieszczony w urządzeniu rozpoznaje ilość załadunku, dostosowując do każdego prania optymalną ilość wody. Dzięki temu użytkownik zużywa znacznie mniej wody do prania w skali roku. Funkcja Active Water nie tylko zmniejsza koszty prania - jest ono bardziej ekologiczne, ponieważ nie ma konieczności niepotrzebnego marnowania wody
 

@@ -26,7 +26,7 @@ opinion:
     author: Iwona Cz.
     rating: '5'
 distinction: our_choice
-name: Electrolux PerfectCare 800 EW8T3372P Ładowana od góry Slim
+name: Electrolux PerfectCare 800 EW8T3372P
 description: |-
   Electrolux EW8T3372P Perfect Care 800 to ładowana od góry, funkcjonalna pralka o najwyższej możliwej klasie energetycznej. Jest to urządzenie typu slim. Dzięki temu nadaje się idealnie do małych i trudno ustawnych mieszkań. Pralka została wyposażona w inteligentny system ważenia ładunku, który samodzielnie dobiera najbardziej zalecany cykl dla konkretnego prania.
 

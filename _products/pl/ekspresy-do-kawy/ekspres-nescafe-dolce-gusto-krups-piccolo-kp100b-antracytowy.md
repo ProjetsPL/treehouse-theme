@@ -25,7 +25,7 @@ opinion:
     author: Agnieszka
     rating: '4'
 distinction: ''
-name: Ekspres Nescafe Dolce Gusto Krups Piccolo KP100B Antracytowy
+name: Nescafe Dolce Gusto Krups Piccolo
 description: |-
   Nescafe Dolce Gusto Krups Piccolo to ekspres kapsułkowy o mocy 1500 W. Charakteryzuje się prostą i szybką obsługą, a także posiada funkcję automatycznego wyłączania. Jest jednym z najbardziej kompaktowych ekspresów do kawy dostępnych na rynku. Mimo swoich niewielkich wymiarów, dzięki systemowi kapsułek umożliwia przygotowanie aż 30 rodzajów napojów.
 

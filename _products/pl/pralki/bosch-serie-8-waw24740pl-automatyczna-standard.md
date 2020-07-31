@@ -46,7 +46,7 @@ opinion:
     author: Użytkownik Ceneo
     rating: '4'
 distinction: premium
-name: Bosch Serie 8 WAW24740PL Automatyczna Standard
+name: Bosch Serie 8 WAW24740PL
 description: |-
   Bosch Serie 8 WAW24740PL to pralka automatyczna, objęta 10 letnią gwarancją, której serce stanowi silnik EcoSilence Drive. Dzięki niemu urządzenie łączy w sobie energooszczędność i trwałość, a przy tym pracuje naprawdę cicho. Producent wyposażył pralkę w bęben WaveDrum, który charakteryzuje się dużą pojemnością, a jednocześnie jest bardzo łagodny dla tkanin.
 

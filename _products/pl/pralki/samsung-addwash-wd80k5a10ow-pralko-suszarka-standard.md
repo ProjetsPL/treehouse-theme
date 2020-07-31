@@ -35,7 +35,7 @@ opinion:
     author: Arturro
     rating: '5'
 distinction: our_choice
-name: Samsung AddWash WD80K5A10OW pralko-suszarka Standard
+name: Samsung AddWash WD80K5A10OW
 description: |-
   Urządzenie Samsung AddWash WD80K5A10OW to nowoczesna pralko-suszarka wyposażona w technologię Eco Bubble. Dzięki temu pranie można nastawić nawet w niskich temperaturach. Skuteczność pralki jest wspierana przez dodatkowy program służący do wstępnego zmiękczania ubrań. Takie rozwiązanie sprawia, że pranie jest jeszcze bardziej efektywne.
 

@@ -34,7 +34,7 @@ opinion:
     author: huiysa
     rating: '5'
 distinction: ''
-name: Ekspres Krups Nespresso Inissia XN1001
+name: Krups Nespresso Inissia
 description: |-
   Krups Nespresso Inissia to automatyczny, ciśnieniowy ekspres do kawy o mocy 1260 W z intuicyjnym interfejsem, funkcją automatycznego wyłączania i możliwością regulacji podstawki. Umożliwia przygotowanie prawie 30 rozmaitych rodzajów kaw kapsułkowych. Nowoczesny i stylowy design ekspresu sprawia, że urządzenie wygląda świetnie w każdej kuchni.
 

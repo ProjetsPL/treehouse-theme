@@ -24,7 +24,7 @@ opinion:
     author: Anka:)
     rating: '5'
 distinction: budget
-name: Ambition Silverstone Patelnia Grillowa 26X26 20134
+name: Ambition Silverstone 26X26
 description: |-
   Patelnia grillowa Silverstone to produkt marki Ambition o unikatowym wyglądzie imitującym naturalny kamień. Dzięki temu prezentuje się stylowo w każdej kuchni. Naczynie o głębokości 4 cm umożliwia grillowanie mięs i warzyw w zaciszu domowym. Oryginalny wygląd patelni czyni ją modnym akcesorium kuchennym i doskonałym pomysłem na prezent.
 

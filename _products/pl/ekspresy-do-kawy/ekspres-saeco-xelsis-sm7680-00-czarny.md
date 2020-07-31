@@ -28,7 +28,7 @@ opinion:
     author: Kinga
     rating: '5'
 distinction: our_choice
-name: Ekspres Saeco Xelsis SM7680/00 CZARNY
+name: Saeco Xelsis
 description: |-
   Automatyczny, ciśnieniowy ekspres Saeco Xelsis o mocy 1850 W. Umożliwia przygotowanie i personalizację piętnastu najpopularniejszych napojów kawowych. Urządzenie zostało wyposażone w szereg innowacyjnych technologii, takich jak funkcja HygieSteam, Aqua Clean, samoczynne czyszczenie automatyczne, a także dotykowy interfejs.
 

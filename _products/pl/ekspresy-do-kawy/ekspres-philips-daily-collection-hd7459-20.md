@@ -31,7 +31,7 @@ opinion:
     author: Małgośka
     rating: '4'
 distinction: budget
-name: Ekspres Philips Daily Collection HD7459/20
+name: Philips Daily Collection
 description: |-
   Ręczny, przelewowy ekspres do kawy Daily Collection od Phillips o mocy 1000 W dzięki wbudowanemu timerowi pozwala rozkoszować się pyszną kawą zaraz po obudzeniu. Posiada funkcję automatycznego wyłączania, tłoczek Aroma twister, a także został wyposażony w technologię Drip Stop, umożliwiającą przerwanie cyklu parzenia kawy w dowolnym momencie.
 

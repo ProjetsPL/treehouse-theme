@@ -40,7 +40,7 @@ opinion:
     author: joanna
     rating: '5'
 distinction: budget
-name: Beko WRE5511BWW Automatyczna Standard
+name: Beko WRE5511BWW
 description: |-
   Beko WRE5511BWW to pralka automatyczna o standardowych wymiarach. Urządzenie posiada klasę energetyczną A++, co gwarantuje niskie zużycie energii. Dzięki temu pranie staje się nie tylko ekonomiczne, ale również ekologiczne. Środowisku sprzyja również wykorzystany w modelu Beko WRE5511BWW system automatycznej kontroli zużycia wody. Dzięki niemu urządzenie samo dobiera dokładnie tyle wody, ile rzeczywiście potrzebne jest do wyprania aktualnego załadunku. System pozwala na oszczędzanie wody, a co za tym idzie także energii.
 

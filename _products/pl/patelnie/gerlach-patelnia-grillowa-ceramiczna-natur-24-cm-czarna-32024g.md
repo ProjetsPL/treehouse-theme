@@ -27,7 +27,7 @@ opinion:
       na minimalnej ilości tłuszczu
     rating: '5'
 distinction: our_choice
-name: Gerlach Patelnia Grillowa Ceramiczna Natur 24 cm Czarna 32024G
+name: Gerlach Natur 24 cm 
 description: |-
   Patelnia ceramiczna z drewnianym uchwytem jest idealna do smażenia i grillowania każdego rodzaju potraw. Naczynie stanowi połączenie najwyższej jakości materiałów, dzięki czemu jest nie tylko funkcjonalne, ale również wygląda stylowo. To niezbędne wyposażenie dla wielbicieli zdrowego gotowania, pasujące do każdej kuchni.
 

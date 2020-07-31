@@ -25,7 +25,7 @@ opinion:
     author: Rajmek
     rating: '4'
 distinction: ''
-name: Zwieger Patelnia White Stone 28 cm
+name: Zwieger White Stone 28 cm
 description: |-
   Zwieger White Stone to patelnia o średnicy 28 cm wykonana z aluminium. Wewnętrzną stronę naczynia pokryto specjalną granitową powłoką trzywarstwową Greblon C3 Granite, wykorzystywaną do produkcji naczyń najwyższej jakości. Ze względu na surowiec, z którego została wykonana patelnia, jest ona świetnym przewodnikiem i akumulatorem ciepła.
 

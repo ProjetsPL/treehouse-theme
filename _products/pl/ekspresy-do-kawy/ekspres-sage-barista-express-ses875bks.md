@@ -31,7 +31,7 @@ opinion:
     author: Robert
     rating: '5'
 distinction: hot
-name: Ekspres Sage Barista Express SES875BKS
+name: Sage Barista Express
 description: |-
   Ekspres ciśnieniowy Sage z młynkiem o mocy 1850 W. posiada szereg wbudowanych funkcji automatycznych, takich jak płukanie, czyszczenie i odkamienianie. Dzięki dyszy spieniającej - pozwala na przygotowanie mlecznych kaw pokrytych puszystą delikatną pianką. Urządzenie daje możliwość personalizacji.
 

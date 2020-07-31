@@ -43,7 +43,7 @@ opinion:
     author: Użytkownik Ceneo
     rating: '5'
 distinction: our_choice
-name: Ekspres Saeco Lirika One Touch Cappuccino RI9851/01 Szary
+name: Saeco Lirika One Touch Cappuccino
 description: |-
   Lirika One Touch Cappuccino to ciśnieniowy ekspres do kawy z młynkiem o mocy 1800 W z intuicyjnym interfejsem i funkcją spieniania mleka. Charakteryzuje się wysoką funkcjonalnością oraz kompaktowym wymiarem i kształtem. To urządzenie wygląda i działa profesjonalnie, dzięki czemu sprosta oczekiwaniom nawet najbardziej wymagających użytkowników.
 

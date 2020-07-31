@@ -31,7 +31,7 @@ opinion:
     author: Maciek
     rating: ''
 distinction: ''
-name: Bosch WVH30542EU pralko suszarka Standard
+name: Bosch WVH30542EU
 description: |-
   Bosch WVH30542EU to nowoczesna pralko-suszarka wyposażona w silnik bezszczotkowy. Dzięki temu urządzenie odznacza się wyjątkowo cichym trybem pracy. Silnik został objęty 10-letnią gwarancją. Model jest wyjątkowo oszczędny - w procesie suszenia niewykorzystywana jest woda. Dodatkowo, za pomocą przycisku można skrócić czas prania, zużywając mniej prądu.
 

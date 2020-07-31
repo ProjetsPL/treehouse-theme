@@ -43,7 +43,7 @@ opinion:
     author: Ryszard
     rating: '5'
 distinction: our_choice
-name: Samsung WW80K5410UW AddWash Automatyczna Standard
+name: Samsung WW80K5410UW AddWash
 description: |-
   Samsung WW80K5410UW to pralka z funkcją AddWash. Model zawiera dodatkowe drzwiczki - zamontowane na drzwiach głównych - umożliwiające dodanie ubrań do bębna w trakcie prania. Dzięki temu pominięte przez nieuwagę tkaniny nie muszą czekać do następnego prania. Wrzucenie ich w ciągu 15 minut od rozpoczęcia prania gwarantuje 90% dopieralności. Ubrania można także dokładać do bębna podczas płukania i wirowania.
 

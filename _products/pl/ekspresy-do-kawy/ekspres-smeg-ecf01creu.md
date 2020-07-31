@@ -23,7 +23,7 @@ opinion:
     author: Helena
     rating: '5'
 distinction: our_choice
-name: Ekspres Smeg ECF01CREU
+name: Smeg ECF01CREU
 description: |-
   Ekspres manualny, ciśnieniowy Smeg to połączenie funkcjonalności z ciekawym i nieprzeciętnym designem. Wyposażony został w litrowy pojemnik na wodę z możliwością użycia filtra, system grzewczy Thermoblock i System Cappuccino. Intuicyjny panel sterowania pozwala na przygotowanie aromatycznej kawy za pomocą kilku kliknięć.
 

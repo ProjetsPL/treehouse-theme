@@ -30,7 +30,7 @@ opinion:
     author: Wiolka
     rating: '5'
 distinction: ''
-name: Gerlach Contrast Procoat 28 cm 489110
+name: Gerlach Contrast Procoat 28 cm
 description: |-
   Patelnia Contrast Procoat to produkt marki Gerlach stworzony z wysokiej klasy materiałów, zapewniających użytkownikom szybkie i ekonomiczne smażenie. Dno naczynia jest odpowiednio grube, dzięki czemu nie odkształca się pod wpływem wysokiej temperatury. Patelnię pokryto specjalną powłoką, która zapobiega przywieraniu smażonych potraw.
 

@@ -19,7 +19,7 @@ opinion:
     author: lka
     rating: '4'
 distinction: ''
-name: Gerlach Patelnia Ceramiczna Harmony Black 24 cm
+name: Gerlach Harmony Black 24 cm
 description: |-
   Harmony Black to patelnia z powłoką nieprzywierającą, wzmacnianą ceramiczną domieszką. Naczynie łączy ze sobą funkcjonalność i właściwości prozdrowotne. Jest świetnym produktem zarówno do smażenia, jak i podduszania potraw. Uchwyt Soft Touch umożliwia wygodne korzystanie z patelni każdego dnia.
 

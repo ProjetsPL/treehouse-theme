@@ -26,7 +26,7 @@ opinion:
     author: Zosia
     rating: '5'
 distinction: ''
-name: Promis Patelnia Ceramiczna Grillowa 28 cm Ekoceram
+name: Promis Ekoceram 28 cm 
 description: |-
   Patelnia ceramiczna grillowa Ekoceram o wymiarach 28 x 28 cm została wykonana za pomocą odlewu aluminiowego. Szczególne właściwości tworzywa sprawiają, że produkt doskonale rozprowadza, akumuluje, a przede wszystkim utrzymuje ciepło. Patelnię pokryto specjalną, nieprzywierającą powłoką ceramiczną, która zapobiega powstawaniu rys i odkształceń dna.
 

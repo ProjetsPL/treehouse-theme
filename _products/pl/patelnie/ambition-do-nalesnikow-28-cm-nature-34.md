@@ -25,7 +25,7 @@ opinion:
     author: Użytkownik Ceneo
     rating: '5'
 distinction: ''
-name: Ambition do Naleśników 28 cm Nature 34
+name: Ambition Nature 28cm
 description: |-
   Patelnia o nieprzeciętnym designie przeznaczona jest do smażenia naleśników. Naczynie Ambition z linii Nature zostało wykonane z aluminium. Wnętrze patelni pokrywa specjalna powłoka nieprzywierająca. Dzięki połączeniu tych właściwości jej użycie jest jednocześnie energooszczędne i intuicyjne, a ciasto nie przywiera do powierzchni podczas smażenia.
 

@@ -26,7 +26,7 @@ opinion:
     author: SEBASTIAN
     rating: '5'
 distinction: ''
-name: Ekspres Bosch Tassimo Suny TAS 3205 T32 niebieski
+name: Bosch Tassimo Suny
 description: |-
   Bosch Tassimo Suny to ciśnieniowy ekspres na kapsułki o mocy 1300 W wyposażony w funkcję Smart Start z procesem automatycznego czyszczenia i regulowaną podstawką. Szereg nowoczesnych technologii pozwala na uzyskanie optymalnej temperatury każdego napoju. Kompaktowy rozmiar urządzenia czyni go doskonałym do każdej, nawet najmniejszej kuchni.
 

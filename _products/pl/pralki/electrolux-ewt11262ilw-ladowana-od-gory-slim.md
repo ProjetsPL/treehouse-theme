@@ -33,7 +33,7 @@ opinion:
     author: Czesław
     rating: '4'
 distinction: ''
-name: Electrolux EWT11262ILW Ładowana od góry Slim
+name: Electrolux EWT11262ILW
 description: |-
   Pralka Electrolux EWT11262ILW to wąski model ładowany od góry wyposażony w ciekawe funkcje. Model posiada przydatną opcję automatycznego dostosowania czasu prania oraz zużytej wody i energii do wielkości załadunku. Urządzenie posiada certyfikat Woolmark, który gwarantuje ochronę delikatnych wełnianych tkanin przed odkształceniem i zniszczeniem.
 

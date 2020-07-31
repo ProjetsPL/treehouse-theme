@@ -50,7 +50,7 @@ opinion:
     content: Pralka ok. jest nowa i spełnia moje oczekiwania.
     rating: '4'
 distinction: ''
-name: Samsung Eco Bubble WW70J5346MW Automatyczna Standard
+name: Samsung Eco Bubble WW70J5346MW
 description: |-
   Samsung Eco Bubble WW70J5346MW to pralka automatyczna o bardzo uniwersalnych wymiarach 600 x 850 x 550 mm. Sprzęt posiada najwyższą klasę efektywności elektrycznej. Dzięki temu jego energooszczędność jest aż o 60% większa od pralek o klasie A+, a użytkownik tego modelu zużywa znacznie mniej prądu, co wpływa na jego oszczędności
 

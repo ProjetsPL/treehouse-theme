@@ -35,7 +35,7 @@ opinion:
     author: halina
     rating: '4'
 distinction: ''
-name: Ekspres Philips 3000 Easy Cappuccino HD8829/09 Czarny
+name: Philips 3000 Easy Cappuccino
 description: |-
   Phillips 3000 Easy Cappuccino to ekspres automatyczny o mocy 1850 W z możliwością regulacji temperatury i wysokości nalewania napoju oraz systemem automatycznego płukania. Został stworzony z myślą o miłośnikach aksamitnych, mlecznych kaw. Zarówno pyszna, kremowa pianka, jak i esencjonalne espresso powstają przez jedno szybkie kliknięcie.
 

@@ -31,7 +31,7 @@ opinion:
     author: Agnieszka
     rating: '4'
 distinction: our_choice
-name: Ekspres Philips 3200 LatteGo Premium EP3241/50 Czarny
+name: Philips 3200 LatteGo Premium
 description: |-
   Philips 2200 to ekspres ciśnieniowy o mocy 1500 W z młynkiem. Posiada czytelny, dotykowy panel sterowania, który ułatwia obsługę urządzenia. Wybór odpowiedniej kawy odbywa się za pomocą kilku kliknięć. Spieniacz mleka pozwala na przygotowanie kaw mlecznych pokrytych pyszną, kremową pianką.
 

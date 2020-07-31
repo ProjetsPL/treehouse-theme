@@ -25,7 +25,7 @@ opinion:
     content: Super
     rating: '5'
 distinction: our_choice
-name: Tefal Everest C6360602 28 cm
+name: Tefal Everest 28 cm
 description: |-
   Tefal Everest to patelnia uniwersalna o średnicy 24 cm - idealna do codziennego smażenia. Jej powłoka została wzbogacona minerałami, nadając naczyniu nową jakość i wysoki komfort gotowania. Wskaźnik temperatury Tefal Thermo-Spot sprawia, że smażenie jest łatwe i przyjemne zarówno dla kuchmistrzów, jak i amatorów domowego zacisza.
 

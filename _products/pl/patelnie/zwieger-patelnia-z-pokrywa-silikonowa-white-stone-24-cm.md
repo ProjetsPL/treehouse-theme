@@ -15,7 +15,7 @@ opinion:
     author: Tomasz
     rating: '5'
 distinction: our_choice
-name: Zwieger Patelnia z Pokrywą Silikonową White Stone 24 cm
+name: Zwieger White Stone 24 cm
 description: |-
   White Stone to uniwersalna patelnia granitowa z pokrywą od firmy Zwieger. Została wykonana z aluminium i pokryta od wewnątrz innowacyjną powłoką nieprzywierającą. Dzięki swoim właściwościom naczynie jest doskonałym przewodnikiem i akumulatorem ciepła. To patelnia dedykowana zarówno kulinarnym specjalistom, jak i domowym miłośnikom gotowania.
 

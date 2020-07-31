@@ -26,7 +26,7 @@ opinion:
     author: Ewqa
     rating: '5'
 distinction: ''
-name: Gerlach Patelnia Granitex 28 cm
+name: Gerlach Granitex 28 cm
 description: |-
   Patelnia Gerlach Granitex została wyposażona w specjalną powłokę nieprzywierającą, która czyni gotowanie szybkim, łatwym i przyjemnym. Powłoka z domieszką ceramiczną będąca imitacją kamienia nadaje naczyniu ciekawego designu. To sprawia, że idealnie dopasowuje się zarówno do nowoczesnych, jak i tradycyjnych wnętrz.
 

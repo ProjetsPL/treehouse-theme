@@ -30,7 +30,7 @@ opinion:
     author: mariusz
     rating: '3'
 distinction: ''
-name: Electrolux EW7F447WI PerfectCare do zabudowy Standard
+name: Electrolux EW7F447WI PerfectCare
 description: |-
   Pralka do zabudowy PerfectCare 700 o maksymalnym załadunku 7 kg posiada najwyższą klasę energetyczną A+++. Dzięki temu zużywa aż 30% mniej energii niż standardowe pralki klasy A++. Została wyposażona w funkcje SensiCare i SteamCare - na zakończenie prania para kierowana jest do bębna pralki, niwelując zagniecenia powstałe podczas odwirowywania.
 

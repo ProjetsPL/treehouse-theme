@@ -30,7 +30,7 @@ opinion:
     author: DARIUSZ_M
     rating: '4'
 distinction: ''
-name: Electrolux EWT1266EXW Ładowana od góry Slim
+name: Electrolux EWT1266EXW
 description: |-
   Pralka ładowana od góry Electrolux EWT1266EXW to model, który pozwala na oszczędność czasu podczas prania. Urządzenie wyposażono w opcję opóźnienia startu, a także dostosowania długości trwania cyklu prania do użytkownika. Model może także inteligentnie wybierać parametry prania do ilości załadunku bębna. Dzięki temu pralka zużywa optymalną ilość wody i energii.
 
