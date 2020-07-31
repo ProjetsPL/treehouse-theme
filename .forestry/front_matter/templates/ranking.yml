@@ -86,14 +86,14 @@ fields:
   label: toc
   hidden: true
   default: true
-- name: test
+- name: faq
   type: field_group_list
   fields:
   - name: question
     type: text
     config:
       required: false
-    label: QUESTION
+    label: Pytanie
   - name: answer
     type: textarea
     default: ''
@@ -102,9 +102,9 @@ fields:
       wysiwyg: false
       schema:
         format: markdown
-    label: ANSWER
+    label: Odpowiedz
   config:
     min: 
     max: 
     labelField: 
-  label: TEST
+  label: FAQ
