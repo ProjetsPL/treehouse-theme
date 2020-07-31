@@ -73,7 +73,7 @@ fields:
     max: 
     source:
       type: pages
-      section: produkty
+      section: produkty-pl
       file: 
   label: Powiązane produkty
 pages:
