@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2020-07-31
+date: 2020-08-03
 main_keywords: []
 toc: true
 promoted: false
-update_date: 2020-07-31
+update_date: 2020-08-03
 title: Muro de Ladrillo - 14 Increíbles Diseños que te Encantarán
 description: "¿Buscando ideas de diseño interior? ➡️ Conozca las mejores soluciones.
   \U0001F9F1 Descubre las posibilidades del diseño de paredes de ladrillo."
@@ -15,7 +15,6 @@ intro: "¿Está buscando una idea para la decoración de interiores? ¿Está int
   extraordinario."
 image: "/uploads/cegla-na-scianie.jpg"
 related_products: []
-published: false
 
 ---
 ## Pared de ladrillo en una sala de estar - un diseño minimalista con contraste
@@ -24,7 +23,7 @@ Una pared de ladrillo en una sala de estar en el color rojo natural es un gran c
 
 {% fig %}
 
- ![Pared de ladrillo en una sala de estar - un diseño minimalista con contraste](/uploads/cegla-na-sciane-salon-kontrast.jpg "Pared de ladrillo en una sala de estar - un diseño minimalista con contraste") 
+![Pared de ladrillo en una sala de estar - un diseño minimalista con contraste](/uploads/cegla-na-sciane-salon-kontrast.jpg "Pared de ladrillo en una sala de estar - un diseño minimalista con contraste")
 
 {% endfig %}
 
@@ -34,7 +33,7 @@ El estilo loft está ganando popularidad en los últimos años. Un rasgo caracte
 
 {% fig %}
 
- ![Un diseño de pared de ladrillo en una sala de estar estilo loft](/uploads/sciana-z-cegly-salon-loft.jpg "Un diseño de pared de ladrillo en una sala de estar estilo loft") 
+![Un diseño de pared de ladrillo en una sala de estar estilo loft](/uploads/sciana-z-cegly-salon-loft.jpg "Un diseño de pared de ladrillo en una sala de estar estilo loft")
 
 {% endfig %}
 
@@ -44,7 +43,7 @@ El estilo loft está ganando popularidad en los últimos años. Un rasgo caracte
 
 {% fig %}
 
- ![Ideas de interiores de estilo loft](/uploads/sciania-z-cegly-w-salonie-styl-loftowy.jpg "Ideas de interiores de estilo loft") 
+![Ideas de interiores de estilo loft](/uploads/sciania-z-cegly-w-salonie-styl-loftowy.jpg "Ideas de interiores de estilo loft")
 
 {% endfig %}
 
@@ -56,17 +55,17 @@ Si ya hay una verdadera pared de ladrillo en su casa, todo lo que necesita hacer
 
 {% fig %}
 
- ![¿Pared de ladrillos blancos en una oficina? ¡Una idea fantástica!](/uploads/biala-cegla-na-scianie-biuro.jpg "¿Pared de ladrillos blancos en una oficina? ¡Una idea fantástica!") 
+![¿Pared de ladrillos blancos en una oficina? ¡Una idea fantástica!](/uploads/biala-cegla-na-scianie-biuro.jpg "¿Pared de ladrillos blancos en una oficina? ¡Una idea fantástica!")
 
 {% endfig %}
 
-{:.distinction.distinction-information} 
+{:.distinction.distinction-information}
 
 Puedes animar un espacio de oficina con un diseño de pared de ladrillo blanco poniendo algunas plantas verdes en él.
 
 {% fig %}
 
- ![Diseño de la pared de ladrillo blanco](/uploads/biala-cegla-na-sciane-biuro.jpg "Diseño de la pared de ladrillo blanco") 
+![Diseño de la pared de ladrillo blanco](/uploads/biala-cegla-na-sciane-biuro.jpg "Diseño de la pared de ladrillo blanco")
 
 {% endfig %}
 
@@ -76,7 +75,7 @@ Una tendencia notable del diseño interior de las cocinas en los últimos años 
 
 {% fig %}
 
- ![Pared de ladrillo - perfecta para una pared de acento de la cocina](/uploads/sciana-z-cegly-w-bialej-kuchni.jpg "Pared de ladrillo - perfecta para una pared de acento de la cocina") 
+![Pared de ladrillo - perfecta para una pared de acento de la cocina](/uploads/sciana-z-cegly-w-bialej-kuchni.jpg "Pared de ladrillo - perfecta para una pared de acento de la cocina")
 
 {% endfig %}
 
@@ -90,7 +89,7 @@ El estilo retro, que es un elemento constante en muchos interiores de casas, tie
 
 {% fig %}
 
- ![Pared de ladrillo de estilo retro](/uploads/sciana-z-cegly-w-stylu-retro.jpg "Pared de ladrillo de estilo retro") 
+![Pared de ladrillo de estilo retro](/uploads/sciana-z-cegly-w-stylu-retro.jpg "Pared de ladrillo de estilo retro")
 
 {% endfig %}
 
@@ -100,7 +99,7 @@ El estilo retro utiliza tanto tonos brillantes como oscuros. Puedes emplear vari
 
 {% fig %}
 
- ![Pared de ladrillo en una sala de estar](/uploads/sciana-z-cegly-styl-retro.jpg "Pared de ladrillo en una sala de estar") 
+![Pared de ladrillo en una sala de estar](/uploads/sciana-z-cegly-styl-retro.jpg "Pared de ladrillo en una sala de estar")
 
 {% endfig %}
 
@@ -110,7 +109,7 @@ El estilo retro utiliza tanto tonos brillantes como oscuros. Puedes emplear vari
 
 {% fig %}
 
- ![Un diseño de pared de ladrillo en un pasillo](/uploads/cegly-na-sciane-w-przedpokoju.jpg "Un diseño de pared de ladrillo en un pasillo") 
+![Un diseño de pared de ladrillo en un pasillo](/uploads/cegly-na-sciane-w-przedpokoju.jpg "Un diseño de pared de ladrillo en un pasillo")
 
 {% endfig %}
 
@@ -120,7 +119,7 @@ El estilo retro utiliza tanto tonos brillantes como oscuros. Puedes emplear vari
 
 {% fig %}
 
- ![Fondo de pared de ladrillo y estilo escandinavo](/uploads/styl-skandynawski-i-cegla-na-scianie.jpg "Fondo de pared de ladrillo y estilo escandinavo") 
+![Fondo de pared de ladrillo y estilo escandinavo](/uploads/styl-skandynawski-i-cegla-na-scianie.jpg "Fondo de pared de ladrillo y estilo escandinavo")
 
 {% endfig %}
 
@@ -130,7 +129,7 @@ El estilo retro utiliza tanto tonos brillantes como oscuros. Puedes emplear vari
 
 {% fig %}
 
- ![Un interior clásico con una pared de ladrillos expuestos](/uploads/klasyczne-wnetrze-cegla-na-scianie.jpg "Un interior clásico con una pared de ladrillos expuestos") 
+![Un interior clásico con una pared de ladrillos expuestos](/uploads/klasyczne-wnetrze-cegla-na-scianie.jpg "Un interior clásico con una pared de ladrillos expuestos")
 
 {% endfig %}
 
@@ -144,7 +143,7 @@ Si te decides por paredes de ladrillo brillante y muebles de color pastel, tiene
 
 {% fig %}
 
- ![Una pared de ladrillo brillante - una acogedora sala de estar](/uploads/cegla-na-scianie-w-jasnym-wydaniu.jpg "Una pared de ladrillo brillante - una acogedora sala de estar") 
+![Una pared de ladrillo brillante - una acogedora sala de estar](/uploads/cegla-na-scianie-w-jasnym-wydaniu.jpg "Una pared de ladrillo brillante - una acogedora sala de estar")
 
 {% endfig %}
 
@@ -154,7 +153,7 @@ Muchos propietarios sueñan con una **gran cocina de diseño rústico**. Desafor
 
 {% fig %}
 
- ![Ladrillos para una pared de acento de la cocina](/uploads/cegla-na-scianie-styl-rustykalny-kuchnia.jpg "Ladrillos para una pared de acento de la cocina") 
+![Ladrillos para una pared de acento de la cocina](/uploads/cegla-na-scianie-styl-rustykalny-kuchnia.jpg "Ladrillos para una pared de acento de la cocina")
 
 {% endfig %}
 
@@ -168,7 +167,7 @@ Recuerda que las oficinas son típicamente pequeñas. Una pared de ladrillo debe
 
 {% fig %}
 
- ![Las tradicionales paredes de ladrillo de una oficina](/uploads/tradycyjna-cegla-na-sciane-w-biurze.jpg "Las tradicionales paredes de ladrillo de una oficina") 
+![Las tradicionales paredes de ladrillo de una oficina](/uploads/tradycyjna-cegla-na-sciane-w-biurze.jpg "Las tradicionales paredes de ladrillo de una oficina")
 
 {% endfig %}
 
@@ -178,7 +177,7 @@ Una pared de ladrillo en un dormitorio es una idea perfecta para quien ama las *
 
 {% fig %}
 
- ![Pared de ladrillo en un dormitorio clásico](/uploads/cegla-na-sciane-w-klasycznej-sypialni.jpg "Pared de ladrillo en un dormitorio clásico") 
+![Pared de ladrillo en un dormitorio clásico](/uploads/cegla-na-sciane-w-klasycznej-sypialni.jpg "Pared de ladrillo en un dormitorio clásico")
 
 {% endfig %}
 
@@ -186,13 +185,13 @@ Una pared de ladrillo en un dormitorio es una idea perfecta para quien ama las *
 
 ¿Estás buscando una idea única para el baño? Elija el estilo **antiguo y las paredes de ladrillo**. Una decoración de este tipo luce fantástica con una bañera independiente y accesorios de madera.
 
-{:.distinction.distinction-warning} 
+{:.distinction.distinction-warning}
 
 Al igual que en la cocina, una pared de ladrillo del baño debe ser protegida contra la humedad.
 
 {% fig %}
 
- ![Un baño antiguo con una pared de ladrillos rojos](/uploads/lazienka-vintage-cagly-na-sciane.jpg "Un baño antiguo con una pared de ladrillos rojos") 
+![Un baño antiguo con una pared de ladrillos rojos](/uploads/lazienka-vintage-cagly-na-sciane.jpg "Un baño antiguo con una pared de ladrillos rojos")
 
 {% endfig %}
 
@@ -202,7 +201,7 @@ Al igual que en la cocina, una pared de ladrillo del baño debe ser protegida co
 
 {% fig %}
 
- ![Un baño blanco y minimalista y un diseño de pared de ladrillo](/uploads/biala-minimalistyczna-lazienka-sciana-z-cegly.jpg "Un baño blanco y minimalista y un diseño de pared de ladrillo") 
+![Un baño blanco y minimalista y un diseño de pared de ladrillo](/uploads/biala-minimalistyczna-lazienka-sciana-z-cegly.jpg "Un baño blanco y minimalista y un diseño de pared de ladrillo")
 
 {% endfig %}
 
