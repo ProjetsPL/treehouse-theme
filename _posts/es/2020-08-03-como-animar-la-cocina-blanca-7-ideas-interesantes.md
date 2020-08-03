@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2020-07-31
+date: 2020-08-03
 main_keywords: []
 toc: true
 promoted: false
-update_date: 2020-07-31
+update_date: 2020-08-03
 title: "¿Cómo animar la cocina blanca? 7 ideas interesantes"
 description: Una cocina blanca es tu sueño, ¿pero quieres añadirle un color? ➡️ Aprende
   algunos trucos simples para animar tu interior. ✔️ ¡Es fácil!
@@ -14,7 +14,6 @@ intro: Una cocina blanca es un diseño clásico y atemporal, siempre de moda. Es
   Todo lo que necesitas es un par de pequeñas modificaciones.
 image: "/uploads/biala-kuchnia-jak-ja-ozywic.jpg"
 related_products: []
-published: false
 
 ---
 ## Una cocina blanca con un patrón único en la pared
@@ -245,7 +244,7 @@ No te olvides de la **iluminación**, otro elemento importante del diseño de la
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Si quieres animar tu cocina totalmente blanca, elige una encimera de contraste. Puedes usar una superficie de madera o una encimera de mármol negro. Cada una de esas soluciones se ve muy elegante y mejora la estética del interior. 
+Si quieres animar tu cocina totalmente blanca, elige una encimera de contraste. Puedes usar una superficie de madera o una encimera de mármol negro. Cada una de esas soluciones se ve muy elegante y mejora la estética del interior.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
@@ -255,6 +254,6 @@ Ideas para la cocina blanca: ¿cómo animar las paredes?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Las cocinas con gabinetes blancos pueden ser animadas usando el color de la pared. La forma más fácil es pintarlas en un tono elegido. También puedes usar azulejos o un papel tapiz. Si no te gustan las combinaciones atrevidas, usa adornos de pared. 
+Las cocinas con gabinetes blancos pueden ser animadas usando el color de la pared. La forma más fácil es pintarlas en un tono elegido. También puedes usar azulejos o un papel tapiz. Si no te gustan las combinaciones atrevidas, usa adornos de pared.
 {% endfaqAnswer %}
 {% endfaqItem %}
