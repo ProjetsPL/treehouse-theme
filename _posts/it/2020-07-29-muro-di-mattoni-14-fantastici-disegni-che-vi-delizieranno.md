@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2020-07-31
+date: 2020-08-03
 main_keywords: []
 toc: true
 promoted: false
-update_date: 2020-07-31
+update_date: 2020-08-03
 title: Muro di mattoni - 14 Fantastici Disegni che vi Delizieranno
 description: "Cercate idee per l'interior design? ➡️ Controlla le soluzioni migliori.
   \U0001F9F1 Scopri le possibilità del muro di mattoni."
@@ -14,7 +14,6 @@ intro: Siete alla ricerca di un'idea di arredamento d'interni? Siete interessati
   più interessanti con un muro di mattoni. Ispiratevi e create un interno straordinario.
 image: "/uploads/cegla-na-scianie.jpg"
 related_products: []
-published: false
 
 ---
 ## Parete in mattoni in un soggiorno - un design minimalista con contrasto
