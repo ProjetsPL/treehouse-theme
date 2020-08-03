@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2020-07-31
+date: 2020-08-03
 main_keywords: []
 toc: true
 promoted: false
-update_date: 2020-07-30
+update_date: 2020-08-03
 title: Mur de briques - 14 Dessins Étonnants qui Vous Raviront
 description: "Vous cherchez des idées d'aménagement intérieur ? ➡️ Vérifiez les meilleures
   solutions. \U0001F9F1 Découvrez les possibilités du mur en briques."
@@ -15,7 +15,6 @@ intro: Vous cherchez une idée de décoration intérieure ? Vous êtes intéress
   un intérieur extraordinaire.
 image: "/uploads/cegla-na-scianie.jpg"
 related_products: []
-published: false
 
 ---
 ## Mur de briques dans un salon - un design minimaliste et contrasté
@@ -24,7 +23,7 @@ Un mur de brique dans un salon de couleur rouge naturel est un arrière-plan tr�
 
 {% fig %}
 
- ![Mur de briques dans un salon - un design minimaliste et contrasté](/uploads/cegla-na-sciane-salon-kontrast.jpg "Mur de briques dans un salon - un design minimaliste et contrasté") 
+![Mur de briques dans un salon - un design minimaliste et contrasté](/uploads/cegla-na-sciane-salon-kontrast.jpg "Mur de briques dans un salon - un design minimaliste et contrasté")
 
 {% endfig %}
 
@@ -34,7 +33,7 @@ Le style loft gagne en popularité ces dernières années. Ce style se caractér
 
 {% fig %}
 
- ![Un mur de briques dans un salon de style loft](/uploads/sciana-z-cegly-salon-loft.jpg "Un mur de briques dans un salon de style loft") 
+![Un mur de briques dans un salon de style loft](/uploads/sciana-z-cegly-salon-loft.jpg "Un mur de briques dans un salon de style loft")
 
 {% endfig %}
 
@@ -44,7 +43,7 @@ Vous vous demandez où trouver l'inspiration pour des intérieurs de style loft 
 
 {% fig %}
 
- ![Idées d'intérieur de style loft](/uploads/sciania-z-cegly-w-salonie-styl-loftowy.jpg "Idées d'intérieur de style loft") 
+![Idées d'intérieur de style loft](/uploads/sciania-z-cegly-w-salonie-styl-loftowy.jpg "Idées d'intérieur de style loft")
 
 {% endfig %}
 
@@ -56,17 +55,17 @@ S'il existe déjà un véritable mur en briques dans votre maison, il vous suffi
 
 {% fig %}
 
- ![White brick wall in an office? A fantastic idea!](/uploads/biala-cegla-na-scianie-biuro.jpg "White brick wall in an office? A fantastic idea!") 
+![White brick wall in an office? A fantastic idea!](/uploads/biala-cegla-na-scianie-biuro.jpg "White brick wall in an office? A fantastic idea!")
 
 {% endfig %}
 
-{:.distinction.distinction-information} 
+{:.distinction.distinction-information}
 
 Vous pouvez animer un espace de bureau avec un mur de briques blanches en y mettant quelques plantes vertes.
 
 {% fig %}
 
- ![Design d'un mur en briques blanches](/uploads/biala-cegla-na-sciane-biuro.jpg "Design d'un mur en briques blanches") 
+![Design d'un mur en briques blanches](/uploads/biala-cegla-na-sciane-biuro.jpg "Design d'un mur en briques blanches")
 
 {% endfig %}
 
@@ -76,7 +75,7 @@ Ces dernières années, une tendance assez marquée de l'aménagement des cuisin
 
 {% fig %}
 
- ![Mur de briques - parfait pour un mur d'accent de cuisine](/uploads/sciana-z-cegly-w-bialej-kuchni.jpg "Mur de briques - parfait pour un mur d'accent de cuisine") 
+![Mur de briques - parfait pour un mur d'accent de cuisine](/uploads/sciana-z-cegly-w-bialej-kuchni.jpg "Mur de briques - parfait pour un mur d'accent de cuisine")
 
 {% endfig %}
 
@@ -90,17 +89,17 @@ Le style rétro, qui est un élément constant de nombreux intérieurs de maison
 
 {% fig %}
 
- ![Mur de briques de style rétro](/uploads/sciana-z-cegly-w-stylu-retro.jpg "Mur de briques de style rétro") 
+![Mur de briques de style rétro](/uploads/sciana-z-cegly-w-stylu-retro.jpg "Mur de briques de style rétro")
 
 {% endfig %}
 
-{:.distinction.distinction-information} 
+{:.distinction.distinction-information}
 
 Le style rétro utilise à la fois des tons clairs et sombres. Vous pouvez utiliser différentes nuances dans un salon rétro et les adapter au reste de l'équipement.
 
 {% fig %}
 
- ![Mur de briques dans un salon](/uploads/sciana-z-cegly-styl-retro.jpg "Mur de briques dans un salon") 
+![Mur de briques dans un salon](/uploads/sciana-z-cegly-styl-retro.jpg "Mur de briques dans un salon")
 
 {% endfig %}
 
@@ -110,7 +109,7 @@ Le style rétro utilise à la fois des tons clairs et sombres. Vous pouvez utili
 
 {% fig %}
 
- ![Un mur de briques dans un couloir](/uploads/cegly-na-sciane-w-przedpokoju.jpg "Un mur de briques dans un couloir") 
+![Un mur de briques dans un couloir](/uploads/cegly-na-sciane-w-przedpokoju.jpg "Un mur de briques dans un couloir")
 
 {% endfig %}
 
@@ -120,7 +119,7 @@ Le style rétro utilise à la fois des tons clairs et sombres. Vous pouvez utili
 
 {% fig %}
 
- ![Brick wall background and scandinavian style](/uploads/styl-skandynawski-i-cegla-na-scianie.jpg "Brick wall background and scandinavian style") 
+![Brick wall background and scandinavian style](/uploads/styl-skandynawski-i-cegla-na-scianie.jpg "Brick wall background and scandinavian style")
 
 {% endfig %}
 
@@ -130,7 +129,7 @@ Le style rétro utilise à la fois des tons clairs et sombres. Vous pouvez utili
 
 {% fig %}
 
- ![Un intérieur classique avec un mur de briques apparentes](/uploads/klasyczne-wnetrze-cegla-na-scianie.jpg "Un intérieur classique avec un mur de briques apparentes") 
+![Un intérieur classique avec un mur de briques apparentes](/uploads/klasyczne-wnetrze-cegla-na-scianie.jpg "Un intérieur classique avec un mur de briques apparentes")
 
 {% endfig %}
 
@@ -144,7 +143,7 @@ Si vous optez pour des murs de briques vives et des meubles pastels, vous avez b
 
 {% fig %}
 
- ![Un mur de briques clair - un salon confortable](/uploads/cegla-na-scianie-w-jasnym-wydaniu.jpg "Un mur de briques clair - un salon confortable") 
+![Un mur de briques clair - un salon confortable](/uploads/cegla-na-scianie-w-jasnym-wydaniu.jpg "Un mur de briques clair - un salon confortable")
 
 {% endfig %}
 
@@ -154,7 +153,7 @@ De nombreux propriétaires rêvent d'une **grande cuisine au design rustique**. 
 
 {% fig %}
 
- ![Briques pour un mur d'accent de cuisine](/uploads/cegla-na-scianie-styl-rustykalny-kuchnia.jpg "Briques pour un mur d'accent de cuisine") 
+![Briques pour un mur d'accent de cuisine](/uploads/cegla-na-scianie-styl-rustykalny-kuchnia.jpg "Briques pour un mur d'accent de cuisine")
 
 {% endfig %}
 
@@ -168,7 +167,7 @@ N'oubliez pas que les bureaux sont généralement petits. Un mur de briques doit
 
 {% fig %}
 
- ![Murs en briques traditionnels dans un bureau](/uploads/tradycyjna-cegla-na-sciane-w-biurze.jpg "Murs en briques traditionnels dans un bureau") 
+![Murs en briques traditionnels dans un bureau](/uploads/tradycyjna-cegla-na-sciane-w-biurze.jpg "Murs en briques traditionnels dans un bureau")
 
 {% endfig %}
 
@@ -178,7 +177,7 @@ Un mur de briques dans une chambre à coucher est une idée parfaite pour tous c
 
 {% fig %}
 
- ![Mur de briques dans une chambre classique](/uploads/cegla-na-sciane-w-klasycznej-sypialni.jpg "Mur de briques dans une chambre classique") 
+![Mur de briques dans une chambre classique](/uploads/cegla-na-sciane-w-klasycznej-sypialni.jpg "Mur de briques dans une chambre classique")
 
 {% endfig %}
 
@@ -192,7 +191,7 @@ Tout comme la cuisine, un mur de briques de la salle de bains doit être protég
 
 {% fig %}
 
- ![Une salle de bains d'époque avec un mur de briques rouges](/uploads/lazienka-vintage-cagly-na-sciane.jpg "Une salle de bains d'époque avec un mur de briques rouges") 
+![Une salle de bains d'époque avec un mur de briques rouges](/uploads/lazienka-vintage-cagly-na-sciane.jpg "Une salle de bains d'époque avec un mur de briques rouges")
 
 {% endfig %}
 
@@ -202,7 +201,7 @@ Une salle de bains moderne avec une finition inhabituelle ? C'est une autre oppo
 
 {% fig %}
 
- ![Une salle de bain blanche minimaliste et un design de mur en brique](/uploads/biala-minimalistyczna-lazienka-sciana-z-cegly.jpg "Une salle de bain blanche minimaliste et un design de mur en brique") 
+![Une salle de bain blanche minimaliste et un design de mur en brique](/uploads/biala-minimalistyczna-lazienka-sciana-z-cegly.jpg "Une salle de bain blanche minimaliste et un design de mur en brique")
 
 {% endfig %}
 
@@ -210,7 +209,7 @@ Un mur de briques est un élément qui peut faire partie de nombreux designs, ta
 
 {% faqItem %}
 {% faqQuestion %}
-Comment faire un dessin de brique sur un mur ? 
+Comment faire un dessin de brique sur un mur ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
