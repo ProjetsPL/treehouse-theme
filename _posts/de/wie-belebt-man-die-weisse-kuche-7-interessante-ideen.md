@@ -18,130 +18,244 @@ related_products: []
 published: false
 
 ---
-## A white kitchen with a unique pattern on the wall
+## Eine weiße Küche mit einem einzigartigen Muster an der Wand
 
-A white kitchen is a universal solution which gives you plenty of design possibilities. One of them involves putting **an unusual pattern on the wall**. White kitchen cabinets look perfect in combination with various types of tiles or even a wallpaper. Of course, if you decide to choose such elements, always check whether they are suitable for a kitchen. They should be grease- and water-resistant.
+Eine weiße Küche ist eine universelle Lösung, die Ihnen viele Gestaltungsmöglichkeiten bietet. Eine davon ist die Anbringung eines **ungewöhnlichen Musters an der Wand**. Weiße Küchenschränke sehen in Kombination mit verschiedenen Fliesenarten oder sogar einer Tapete perfekt aus. Wenn Sie sich für solche Elemente entscheiden, sollten Sie natürlich immer prüfen, ob sie für eine Küche geeignet sind. Sie sollten fett- und wasserfest sein.
 
-A white kitchen with **white tiles imitating a brick wall** has been a common design over the years. Although this trend is still relevant, it appears in many new variations. White kitchens with white tiles and **colored grout** have become quite popular recently.
+Eine weiße Küche mit **weißen Fliesen, die eine Backsteinwand imitieren**, ist seit Jahren ein gängiges Design. Obwohl dieser Trend immer noch aktuell ist, erscheint er in vielen neuen Variationen. Weiße Küchen mit weißen Fliesen und **farbigem Fugenmörtel** sind in letzter Zeit recht populär geworden.
 
-{% fig %} ![White kitchen with a unique pattern on wall](/uploads/biala-kuchnia-kafelki.jpg "White kitchen with a unique pattern on wall") {% endfig %}
+{% fig %}
 
-{% fig %} ![White kitchen with a unique pattern on wall](/uploads/biala-kuchnia-plytki.jpg "White kitchen with a unique pattern on wall") {% endfig %}
+ ![Eine weiße Küche mit einem einzigartigen Muster an der Wand](/uploads/biala-kuchnia-kafelki.jpg "Eine weiße Küche mit einem einzigartigen Muster an der Wand") 
 
-Instead of white tiles – choose a different shade. It doesn't have to be a completely different color. **Ivory, cream, beige** – those colors look really great in combination with an ornamental pattern, enlivening a plain white kitchen.
+{% endfig %}
 
-{% fig %} ![White kitchen with a pattern](/uploads/biala-kuchnia-wzor-na-scianie.jpg "White kitchen with a pattern") {% endfig %}
+{% fig %}
 
-{% fig %} ![White kitchen with tile pattern](/uploads/biala-kuchnia-plytki-nad-blatem.jpg "White kitchen with tile pattern") {% endfig %}
+ ![Weiße Küche mit einem einzigartigen Muster an der Wand](/uploads/biala-kuchnia-plytki.jpg "Weiße Küche mit einem einzigartigen Muster an der Wand") 
 
-Are you looking for unique solutions? A modern white kitchen is a place where you can let your imagination run wild. **Combine two textures on one of the walls.** You can use tiles and wallpaper – but it's only one of many ideas you could apply.
+{% endfig %}
 
-{% fig %} ![White kitchen with pattern wallpaper](/uploads/biala-kuchnia-tapeta.jpg "White kitchen with pattern wallpaper") {% endfig %}
+Statt weißer Kacheln - wählen Sie einen anderen Farbton. Es muss nicht unbedingt eine völlig andere Farbe sein. **Elfenbein, Creme, Beige** - diese Farben sehen in Kombination mit einem Ornamentmuster wirklich toll aus und beleben eine schlichte weiße Küche.
 
-{:.distinction.distinction-warning} For kitchen interiors, you should choose easy to clean accessories. Smooth tiles, a wallpaper with a special protective layer resistant to grease. If you prefer more crude-looking spaces and choose bricks or stone – don't forget about protecting them with a special product.
+{% fig %}
 
-## A black and white kitchen – the secret lies in accessories
+ ![Weiße Küche mit einem Muster](/uploads/biala-kuchnia-wzor-na-scianie.jpg "Weiße Küche mit einem Muster") 
 
-Kitchen cabinets can be easily matched with any accessory – black is the most popular coloe. It that can enliven the room quite well.
+{% endfig %}
 
-**You can use dark tones freely.** It is a perfect choice for countertops – especially if the rest of equipment, e.g. a stovetop and the hood over it are black as well.
+{% fig %}
 
-{% fig %} ![A black and white kitchen – the secret lies in accessories](/uploads/bialo-czarna-kuchnia.jpg "A black and white kitchen – the secret lies in accessories") {% endfig %}
+ ![Weiße Küche mit Fliesenmuster](/uploads/biala-kuchnia-plytki-nad-blatem.jpg "Weiße Küche mit Fliesenmuster") 
 
-**Darker colors are also excellent for the space located over the counters.** It's recommended solution for large kitchens, as it can make the interior look smaller. When choosing an overlay for the wall over a countertop, it's good to pick a smooth texture. Why? Dark colors make any dirt highly visible, therefore, you are going to wipe the surface very often. Nevertheless – it looks incredibly elegant.
+{% endfig %}
 
-{% fig %} ![Black and white kitchen countertop](/uploads/biala-kuchnia-czarne-dodatki.jpg "Black and white kitchen countertop") {% endfig %}
+Sind Sie auf der Suche nach einzigartigen Lösungen? Eine moderne weiße Küche ist ein Ort, an dem Sie Ihrer Fantasie freien Lauf lassen können. Kombinieren Sie zwei Texturen an einer der Wände. Sie können Fliesen und Tapeten verwenden - aber das ist nur eine von vielen Ideen, die Sie anwenden können.
 
-If you own white kitchen cabinets, consider a contrasting, dark colored wall. Black is **a universal solution** in this case, although many think it is quite a bold step.
+{% fig %}
 
-{:.distinction.distinction-information} You can paint one of the black walls in your kitchen with a special paint, so that you can write with a chalk on it. This way, you can leave important messages for your family, such as what's for dinner or a grocery shopping list. It can also become a special corner for toddlers, who will be delighted to freely draw on the wall.
+ ![Weiße Küche mit Mustertapete](/uploads/biala-kuchnia-tapeta.jpg "Weiße Küche mit Mustertapete") 
 
-{% fig %} ![Black and white kitchen wall](/uploads/biala-kuchnia-z-czarnym.jpg "Black and white kitchen wall") {% endfig %}
+{% endfig %}
 
-{% fig %} ![Black and white kitchen accessories](/uploads/bialo-czarna-kuchnia-klasyczna.jpg "Black and white kitchen accessories") {% endfig %}
+{:.distinction.distinction-warning}
 
-Another solution, even more unusual than black walls in a white kitchen design involves choosing a unique floor. **Chessboard pattern or white tiles with black ornaments** look really good and although it might not seem so, they are perfect for any interior – regardless of its size.
+Für Kücheninnenräume sollten Sie leicht zu reinigendes Zubehör wählen. Glatte Fliesen, eine Tapete mit einer speziellen fettbeständigen Schutzschicht. Wenn Sie eher grob aussehende Räume bevorzugen und Ziegel oder Stein wählen - vergessen Sie nicht, sie mit einem speziellen Produkt zu schützen.
 
-{:.distinction.distinction-warning} An all white kitchen looks great with ornamental, black-and-white tiles, provided that they are well matched with the furniture. Be extra careful when choosing kitchen cabinets fronts – the carvings on their surface might not agree with the flooring.
+## Eine schwarz-weiße Küche - das Geheimnis liegt im Zubehör
 
-{% fig %} ![Black and white kitchen flooring](/uploads/bialo-czarna-kuchnia-nietypowa-podloga.jpg "Black and white kitchen flooring") {% endfig %}
+Küchenschränke lassen sich problemlos mit jedem Zubehör kombinieren - Schwarz ist die beliebteste Farbe. Sie kann den Raum recht gut beleben.
 
-## Modern kitchen – white, but with color
+**Sie können dunkle Töne frei verwenden**. Sie ist eine perfekte Wahl für Arbeitsplatten - vor allem, wenn die übrige Ausstattung, z.B. eine Herdplatte und die Haube darüber, ebenfalls schwarz ist.
 
-**A modern white kitchen usually uses the minimalist style.** Simply shaped furniture, lack of ornaments or even knobs. Popular solutions involve a tip on system or specially carved front edges that allow to open the cupboard. This type of interior can be quite dull and monotonous, if not for enlivening accessories.
+{% fig %}
 
-Colorful kitchen counters are commonly used in this case, as they are easy to change at any time. It's not a big expense, and **such equipment can completely change the character of an interior.**
+ ![Eine schwarz-weiße Küche - das Geheimnis liegt im Zubehör](/uploads/bialo-czarna-kuchnia.jpg "Eine schwarz-weiße Küche - das Geheimnis liegt im Zubehör") 
 
-{% fig %} ![Modern kitchen – white, but with color](/uploads/kuchnia-biala-akcent-kolorowy.jpg "Modern kitchen – white, but with color") {% endfig %}
+{% endfig %}
 
-{% fig %} ![Modern kitchen – white colorful chairs](/uploads/dodatki-do-bialej-kuchni.jpg "Modern kitchen – white colorful chairs") {% endfig %}
+**Dunkle Farben eignen sich auch hervorragend für den Raum über den Theken.** Es ist eine empfohlene Lösung für große Küchen, da es den Innenraum kleiner erscheinen lassen kann. Bei der Wahl eines Overlays für die Wand über einer Arbeitsplatte ist es gut, eine glatte Textur zu wählen. Warum? Dunkle Farben machen jeden Schmutz gut sichtbar, deshalb werden Sie die Oberfläche sehr oft abwischen. Trotzdem - es sieht unglaublich elegant aus.
 
-**What can you use instead of colorful accessories?** You can achieve an equally interesting result that will refresh and enliven the interior by putting a color on the wall or a countertop. There are two ways: paint or tiles.
+{% fig %}
 
-Painting the wall is definitely easier, and more importantly, it's a **low-budget solution** that can be changed at any time.
+ ![Schwarz-weiße Küchenarbeitsplatte](/uploads/biala-kuchnia-czarne-dodatki.jpg "Schwarz-weiße Küchenarbeitsplatte") 
 
-If you decide to lay **colored tiles** over the kitchen counters, you need to remember about their cost as well as the cost of materials needed for their installation. Additionally, if you have never laid tiles, you might need to ask a professional to do it for you. Therefore, if you choose this solution, you have to take more work into account.
+{% endfig %}
+
+Wenn Sie weiße Küchenschränke besitzen, sollten Sie eine kontrastierende, dunkel gefärbte Wand in Betracht ziehen. Schwarz ist in diesem Fall eine **Universallösung**, auch wenn viele denken, dass dies ein recht mutiger Schritt ist.
 
 {:.distinction.distinction-information}
 
-Colorful paint is recommended for homeowners who like to change their interiors frequently and want to do the project by themselves. Tiles is a solution that should last several seasons.
+Sie können eine der schwarzen Wände in Ihrer Küche mit einer speziellen Farbe streichen, so dass Sie mit einer Kreide darauf schreiben können. Auf diese Weise können Sie wichtige Nachrichten für Ihre Familie hinterlassen, z.B. was es zum Abendessen oder eine Einkaufsliste für Lebensmittel gibt. Sie kann auch zu einer besonderen Ecke für Kleinkinder werden, die gerne frei an der Wand malen.
 
-{% fig %} ![Modern kitchen – white colorful walls](/uploads/kitchen-351094_1280.jpg "Modern kitchen – white colorful walls") {% endfig %}
+{% fig %}
 
-{% fig %} ![Modern kitchen – white colored tiles](/uploads/biala-kuchnia-z-kolorem.jpg "Modern kitchen – white colored tiles") {% endfig %}
+ ![Schwarz-weiße Küchenwand](/uploads/biala-kuchnia-z-czarnym.jpg "Schwarz-weiße Küchenwand") 
 
-## All white kitchen with wood – a classic design
+{% endfig %}
 
-**White kitchen cabinets look wonderful with wood** – regardless of its type, color or application. It's a classic solution, ideal for anyone who likes a white kitchen design but wants to add something classic to enliven it.
+{% fig %}
 
-{% fig %} ![All white kitchen with wood – a classic design](/uploads/kuchnia-z-drewnem.jpg "All white kitchen with wood – a classic design") {% endfig %}
+ ![Schwarz-weißes Küchenzubehör](/uploads/bialo-czarna-kuchnia-klasyczna.jpg "Schwarz-weißes Küchenzubehör") 
 
-White kitchens with wood never look the same – that's what many homeowners believe. It all depends on your own creativity. **You can use wooden countertops, flooring or only accessories.** One of the returning trends in the recent years is wooden blinds, which look really good in a white kitchen.
+{% endfig %}
 
-{:.distinction.distinction-information} If you want a particularly bright and spacious arrangement, choose the natural wood color.
+Eine andere Lösung, die noch ungewöhnlicher ist als schwarze Wände in einer weißen Küche, ist die Wahl eines einzigartigen Fußbodens. **Schachbrettmuster oder weiße Fliesen mit schwarzen Ornamenten** sehen wirklich gut aus, und obwohl es vielleicht nicht so aussieht, passen sie perfekt zu jeder Einrichtung - unabhängig von ihrer Größe.
 
-{% fig %} ![White kitchen with wood](/uploads/biala-kuchnia-z-drewnem.jpg "White kitchen with wood") {% endfig %}
+{:.distinction.distinction-warning}
 
-{% fig %} ![White kitchen with wood countertop](/uploads/biala-kuchnia-drewno-beton.jpg "White kitchen with wood countertop") {% endfig %}
+Eine komplett weiße Küche sieht mit ornamentalen, schwarz-weißen Fliesen großartig aus, vorausgesetzt, sie sind gut auf die Möbel abgestimmt. Seien Sie bei der Auswahl der Küchenschrankfronten besonders vorsichtig - die Schnitzereien auf ihrer Oberfläche stimmen möglicherweise nicht mit dem Bodenbelag überein.
 
-A white kitchen design with a wooden panel over the counters is still not a very popular solution. If **an unusual result** is the priority for your house or apartment, consider such a combination.
+{% fig %}
 
-{% fig %} ![White kitchen with wood over counters](/uploads/biala-kuchnia-drewno.jpg "White kitchen with wood over counters") {% endfig %}
+ ![Schwarz-weißer Küchenboden](/uploads/bialo-czarna-kuchnia-nietypowa-podloga.jpg "Schwarz-weißer Küchenboden") 
 
-## White kitchens love herbs and green accents
+{% endfig %}
 
-You don't want to disturb the white minimalistic design by using colorful accessories, but you still want the room to look fresh? **Herbs and green accents** is a perfect solution for a kitchen space. Most of all, they look very well and **bring "life" into the interior.** It's also very practical solution for cooking purposes. When preparing meals, you can spice them with the same herbs that serve as a decoration in your white kitchen.
+## Moderne Küche - weiß, aber mit Farbe
 
-{% fig %} ![White kitchens love herbs and green accents](/uploads/biala-kuchnia-ziola.jpg "White kitchens love herbs and green accents") {% endfig %}
+**Eine moderne weiße Küche verwendet normalerweise den minimalistischen Stil.** Einfach geformte Möbel, ohne Ornamente oder gar Knöpfe. Beliebte Lösungen sind ein Tipp-on-System oder speziell geschnitzte Vorderkanten, die das Öffnen des Schranks ermöglichen. Diese Art der Inneneinrichtung kann ziemlich langweilig und eintönig sein, wenn nicht sogar für belebende Accessoires.
 
-{% fig %} ![White kitchen plants](/uploads/biala-kuchnia-kwiaty.jpg "White kitchen plants") {% endfig %}
+Bunte Küchentheken werden in diesem Fall häufig verwendet, da sie jederzeit leicht zu ändern sind. Das ist kein großer Aufwand, und eine solche Ausstattung kann den **Charakter eines Interieurs völlig verändern.**
 
-{:.distinction.distinction-warning} Remember that plants, no matter whether they are herbs or other potted plants cannot be placed at a spot where a stovetop or an oven is located. High temperature might make them wither. If you have the possibility, place the plants on a windowsill.
+{% fig %}
 
-## A strong color accent – equipment and accessories
+ ![Moderne Küche - weiß, aber mit Farbe](/uploads/kuchnia-biala-akcent-kolorowy.jpg "Moderne Küche - weiß, aber mit Farbe") 
 
-There is also another, quite an interesting solution for those who cannot imagine disrupting the harmony of a white kitchen with large, colorful equipment. Just use **accessories such as dinnerware, glasses, tableware.**
+{% endfig %}
 
-It's an ideal option, that can be changed anytime to follow the new trends. A white kitchen doesn't set any limits in this regard. You can use a **colorful crockery set in your favourite shade**, choose colorful glasses or even coasters.
+{% fig %}
 
-{% fig %} ![A strong color accent – equipment and accessories](/uploads/biala-kuchnia-kolorowe-dodatki.jpg "A strong color accent – equipment and accessories") {% endfig %}
+ ![Moderne Küche - weiße bunte Stühle](/uploads/dodatki-do-bialej-kuchni.jpg "Moderne Küche - weiße bunte Stühle") 
 
-## Golden and silver elements in a white kitchen design
+{% endfig %}
 
-Making a white kitchen look more alive doesn't always involve using strong color accents. It's definitely not the best solution for those who value class and elegance. What to do in such a case? **Choose silver or gold, timeless colors that fit any interior design.** It's a very stylish way to enliven the room.
+Was kann man anstelle von bunten Accessoires verwenden? Sie können ein ebenso interessantes Ergebnis erzielen, das den Innenraum erfrischt und belebt, indem Sie eine Farbe an der Wand oder auf der Arbeitsplatte anbringen. Es gibt zwei Möglichkeiten: Farbe oder Fliesen.
 
-It's an excellent occasion to use kitchen equipment in this color. Silver appliances – **refrigerators, ovens, hoods, coffee machines.**
+Das Streichen der Wand ist definitiv einfacher, und was noch wichtiger ist, es ist eine Low-Budget-Lösung, die jederzeit geändert werden kann.
 
-{% fig %} ![Golden and silver elements in a white kitchen design](/uploads/biala-kuchnia-srebro.jpg "Golden and silver elements in a white kitchen design") {% endfig %}
+Wenn Sie sich entscheiden, **farbige Fliesen** über die Küchenarbeitsplatten zu verlegen, müssen Sie sich über deren Kosten sowie über die Materialkosten für die Installation der Fliesen im Klaren sein. Wenn Sie noch nie Fliesen verlegt haben, müssen Sie möglicherweise einen Fachmann bitten, dies für Sie zu tun. Wenn Sie sich also für diese Lösung entscheiden, müssen Sie mehr Arbeit einkalkulieren.
 
-Do not forget about **lighting**, another important element of kitchen design. If the source is installed over the table or the kitchen island, it is strongly recommended to choose lamps that will match other accessories.
+{:.distinction.distinction-information}
 
-{% fig %} ![White kitchen silver lamps](/uploads/kuchnia-biala-ze-srebrem.jpg "White kitchen silver lamps") {% endfig %}
+Bunte Farbe empfiehlt sich für Hausbesitzer, die ihre Innenräume häufig wechseln und das Projekt selbst durchführen möchten. Fliesen ist eine Lösung, die mehrere Jahreszeiten überdauern sollte.
 
-{% faqItem %} {% faqQuestion %} What countertops are good for a white kitchen? {% endfaqQuestion %}
+{% fig %}
 
-{% faqAnswer %} If you want to enliven your all white kitchen, choose a contrasting countertop. You can use a wooden surface or a black, marble top. Each of those solutions looks very elegant and improves the aesthetics of the interior. {% endfaqAnswer %} {% endfaqItem %}
+ ![Moderne Küche - weiße bunte Wände](/uploads/kitchen-351094_1280.jpg "Moderne Küche - weiße bunte Wände") 
 
-{% faqItem %} {% faqQuestion %} White kitchen ideas – how to enliven the walls? {% endfaqQuestion %}
+{% endfig %}
 
-{% faqAnswer %} Kitchens with white cabinets can be enlivened using wall color. The easiest way is to paint them in a chosen shade. You can also use tiles or a wallpaper. If you do not like bold combinations, use wall ornaments. {% endfaqAnswer %} {% endfaqItem %}
+{% fig %}
+
+ ![Moderne Küche - weiß gefärbte Fliesen](/uploads/biala-kuchnia-z-kolorem.jpg "Moderne Küche - weiß gefärbte Fliesen") 
+
+{% endfig %}
+
+## Ganz weiße Küche mit Holz - ein klassisches Design
+
+**Weiße Küchenschränke sehen mit Holz wunderbar aus** - unabhängig von seiner Art, Farbe oder Anwendung. Es ist eine klassische Lösung, ideal für alle, die ein weißes Küchendesign mögen, aber etwas Klassisches hinzufügen möchten, um es zu beleben.
+
+{% fig %}
+
+ ![Ganz weiße Küche mit Holz - ein klassisches Design](/uploads/kuchnia-z-drewnem.jpg "Ganz weiße Küche mit Holz - ein klassisches Design") 
+
+{% endfig %}
+
+Weiße Küchen mit Holz sehen nie gleich aus - das glauben viele Hausbesitzer. Es hängt alles von Ihrer eigenen Kreativität ab. **Sie können hölzerne Arbeitsplatten, Bodenbeläge oder nur Zubehör verwenden.** Einer der wiederkehrenden Trends der letzten Jahre sind Holzjalousien, die in einer weißen Küche wirklich gut aussehen.
+
+{:.distinction.distinction-information}
+
+Wenn Sie eine besonders helle und geräumige Anordnung wünschen, wählen Sie die natürliche Holzfarbe.
+
+{% fig %}
+
+ ![Weiße Küche mit Holz](/uploads/biala-kuchnia-z-drewnem.jpg "Weiße Küche mit Holz") 
+
+{% endfig %}
+
+{% fig %}
+
+ ![Weiße Küche mit Holzarbeitsplatte](/uploads/biala-kuchnia-drewno-beton.jpg "Weiße Küche mit Holzarbeitsplatte") 
+
+{% endfig %}
+
+Eine weiße Küchengestaltung mit einer Holzverkleidung über den Theken ist immer noch keine sehr beliebte Lösung. Wenn ein **ungewöhnliches Ergebnis** für Ihr Haus oder Ihre Wohnung Priorität hat, sollten Sie eine solche Kombination in Betracht ziehen.
+
+{% fig %}
+
+ ![Weiße Küche mit Holztheken](/uploads/biala-kuchnia-drewno.jpg "Weiße Küche mit Holztheken") 
+
+{% endfig %}
+
+## Weiße Küchen lieben Kräuter und grüne Akzente
+
+Sie möchten das minimalistische weiße Design nicht durch farbenfrohe Accessoires stören, aber Sie möchten trotzdem, dass der Raum frisch aussieht? **Kräuter und grüne Akzente** sind eine perfekte Lösung für einen Küchenraum. Vor allem sehen sie sehr gut aus und **bringen "Leben" in den Innenraum**. Es ist auch eine sehr praktische Lösung für Kochzwecke. Wenn Sie Mahlzeiten zubereiten, können Sie sie mit denselben Kräutern würzen, die in Ihrer weißen Küche als Dekoration dienen.
+
+{% fig %}
+
+ ![Weiße Küchen lieben Kräuter und grüne Akzente](/uploads/biala-kuchnia-ziola.jpg "Weiße Küchen lieben Kräuter und grüne Akzente") 
+
+{% endfig %}
+
+{% fig %}
+
+ ![Weiße Küchenpflanzen](/uploads/biala-kuchnia-kwiaty.jpg "Weiße Küchenpflanzen") 
+
+{% endfig %}
+
+{:.distinction.distinction-warning}
+
+Denken Sie daran, dass Pflanzen, egal ob es sich um Kräuter oder andere Topfpflanzen handelt, nicht an einen Ort gestellt werden dürfen, an dem sich eine Herdplatte oder ein Ofen befindet. Hohe Temperaturen könnten sie verwelken lassen. Wenn Sie die Möglichkeit haben, stellen Sie die Pflanzen auf eine Fensterbank.
+
+## Ein starker Farbakzent - Ausrüstung und Zubehör
+
+Es gibt auch eine andere, recht interessante Lösung für diejenigen, die sich nicht vorstellen können, die Harmonie einer weißen Küche mit großen, bunten Geräten zu stören. Verwenden Sie einfach **Zubehör wie Geschirr, Gläser, Tafelgeschirr**.
+
+Es ist eine ideale Option, die jederzeit geändert werden kann, um den neuen Trends zu folgen. Eine weisse Küche setzt in dieser Hinsicht keine Grenzen. Sie können ein **buntes Geschirrset in Ihrem Lieblingston verwenden,** bunte Gläser oder sogar Untersetzer wählen.
+
+{% fig %}
+
+ ![Ein starker Farbakzent - Ausrüstung und Zubehör](/uploads/biala-kuchnia-kolorowe-dodatki.jpg "Ein starker Farbakzent - Ausrüstung und Zubehör") 
+
+{% endfig %}
+
+## Goldene und silberne Elemente im Design einer weißen Küche
+
+Damit eine weiße Küche lebendiger wirkt, müssen nicht immer starke Farbakzente gesetzt werden. Es ist definitiv nicht die beste Lösung für diejenigen, die Klasse und Eleganz schätzen. Was ist in einem solchen Fall zu tun? **Wählen Sie Silber oder Gold, zeitlose Farben, die zu jeder Inneneinrichtung passen**. Es ist eine sehr stilvolle Art, den Raum zu beleben.
+
+Es ist eine ausgezeichnete Gelegenheit, Küchengeräte in dieser Farbe zu verwenden. Silberne Geräte - **Kühlschränke, Öfen, Abzugshauben, Kaffeemaschinen**.
+
+{% fig %}
+
+ ![Goldene und silberne Elemente im Design einer weißen Küche](/uploads/biala-kuchnia-srebro.jpg "Goldene und silberne Elemente im Design einer weißen Küche") 
+
+{% endfig %}
+
+Vergessen Sie nicht die **Beleuchtung**, ein weiteres wichtiges Element der Küchengestaltung. Wenn die Quelle über dem Tisch oder der Kücheninsel installiert wird, wird dringend empfohlen, Lampen zu wählen, die zu anderem Zubehör passen.
+
+{% fig %}
+
+ ![Weiße Küchenlampen aus Silber](/uploads/kuchnia-biala-ze-srebrem.jpg "Weiße Küchenlampen aus Silber") 
+
+{% endfig %}
+
+{% faqItem %}
+{% faqQuestion %}
+Welche Arbeitsplatten sind gut für eine weiße Küche?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Wenn Sie Ihre komplett weiße Küche beleben möchten, wählen Sie eine kontrastierende Arbeitsplatte. Sie können eine Holzoberfläche oder eine schwarze Marmorplatte verwenden. Jede dieser Lösungen sieht sehr elegant aus und verbessert die Ästhetik des Innenraums. 
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+Ideen für die weiße Küche - wie belebt man die Wände?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Küchen mit weißen Schränken können mit Wandfarbe belebt werden. Am einfachsten ist es, sie in einem gewählten Farbton zu streichen. Sie können auch Fliesen oder eine Tapete verwenden. Wenn Sie keine gewagten Kombinationen mögen, verwenden Sie Wandornamente.
+{% endfaqAnswer %}
+{% endfaqItem %}
