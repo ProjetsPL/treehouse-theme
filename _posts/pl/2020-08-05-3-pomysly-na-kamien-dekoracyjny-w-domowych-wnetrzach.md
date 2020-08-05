@@ -25,7 +25,6 @@ intro: Kamień dekoracyjny jest materiałem o szerokim zastosowaniu. Może być 
   Być może któraś z nich już niebawem zagości w Waszym domu.
 image: "/uploads/3-pomysly-na-kamien-dekoracyjny-w-domowych-wnetrzach.jpg"
 related_products: []
-published: false
 
 ---
 ## Kamień dekoracyjny - możliwości wyboru
