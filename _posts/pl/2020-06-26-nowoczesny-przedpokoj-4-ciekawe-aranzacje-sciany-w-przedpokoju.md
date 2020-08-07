@@ -63,12 +63,10 @@ Dobrym pomysłem na nowoczesny przedpokój i zagospodarowanie w nim ściany jest
 ![Pomysł na przedpokój obrazy](/uploads/nowoczesny-przedpokoj-obrazy.jpg "Pomysł na przedpokój obrazy")
 {% endfig %}
 
-Możesz wybrać modele, które ustawisz w dowolnym położeniu i co jakiś czas zmieniać aranżacje. Ciekawą opcją jest również Pomysł na przedpokój - długi i wąski. Wystarczą niewielkie punkty świetlne, aby całość prezentowała się naprawdę nowocześnie i robiła wrażenie.
+Możesz wybrać modele, które ustawisz w dowolnym położeniu i co jakiś czas zmieniać aranżacje. Ciekawą opcją jest również podświetlenie każdego z obrazu. Wystarczą niewielkie punkty świetlne, aby całość prezentowała się naprawdę nowocześnie i robiła wrażenie.
 
 {:.distinction.distinction-information}
 Zamiast plakatów w dekoracyjnych ramkach, czy zdjęć możesz na ścianie w przedpokoju wykorzystać lustra. To dość nietypowe rozwiązanie, które będzie prezentować się naprawdę nowocześnie.
-
-Trendem ostatnich lat są również specjalne półki ścienne - wiszące - na których możesz postawić ulubione kwiaty. To doskonały pomysł na nowoczesne wnętrze przedpokoju.!
 
 {% fig %}
 ![Pomysł na przedpokój lustro](/uploads/lustra-na-scianie.jpg "Pomysł na przedpokój lustro")
