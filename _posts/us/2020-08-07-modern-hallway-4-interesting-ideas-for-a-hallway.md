@@ -73,7 +73,7 @@ A good idea for a modern hallway decor is **hanging some paintings, posters or f
 
 {% endfig %}
 
-You can choose such models that can be freely moved around - and change the arrangement from time to time. Another interesting option is illuminating each of the pictures. All you need is some light spots and the whole design will look modern and really impressive.
+You can choose models that can be freely moved around - and change the arrangement from time to time. Another interesting option is illuminating each of the pictures. All you need is some light spots and the whole design will look modern and really impressive.
 
 {:.distinction.distinction-information}
 
