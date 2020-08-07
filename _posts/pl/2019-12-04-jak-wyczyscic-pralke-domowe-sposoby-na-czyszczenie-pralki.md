@@ -26,14 +26,14 @@ main_keywords:
 ---
 ## Dlaczego czyszczenie pralki jest ważne?
 
-Czyszczenie pralki jest bardzo ważne ponieważ jej elementy stale ulegają **zabrudzeniom**. Mają one kontakt nie tylko z brudem pochodzącym z pranych ubrań, ale narażone są na **ciągły kontakt z wodą**. To może powodować powstawanie kamienia na grzałce, bębnie i filtrze. Wówczas pralka będzie dłużej nagrzewała wodę, a światło w przewodach zmniejszy się - co obniży ciśnienie wody.
+Czyszczenie [pralki](https://treehouse.co/pl/recenzje/najlepsze-pralki.html "Najlepsze pralki") jest bardzo ważne ponieważ jej elementy stale ulegają **zabrudzeniom**. Mają one kontakt nie tylko z brudem pochodzącym z pranych ubrań, ale narażone są na **ciągły kontakt z wodą**. To może powodować powstawanie kamienia na grzałce, bębnie i filtrze. Wówczas pralka będzie dłużej nagrzewała wodę, a światło w przewodach zmniejszy się - co obniży ciśnienie wody.
 
 {:.distinction.distinction-information}
 Jeżeli **osad z kamienia** nie będzie regularnie usuwany, wspomniane części zostaną uszkodzone. Wygeneruje to dodatkowe koszty związane z naprawą urządzenia. Może okazać się nawet, że pralkę będzie trzeba wymienić na nową, ponieważ reperowanie popsutych elementów stanie się nieopłacalne. Można więc przyjąć, że **czyszczenie pralki chroni sprzęt** przed jego poważnymi uszkodzeniami.
 
 ### Co stanie się, jeżeli czyszczenie pralki nie będzie przeprowadzane regularnie?
 
-Brak regularnego czyszczenia pralki sprawia, że stale obecna wilgoć, ciepło oraz słaby obieg powietrza w pralce sprzyja także powstawaniu grzybów i pleśni. Jest to niezwykle **niebezpieczne dla zdrowia człowieka**, ponieważ organizmy te wydzielają toksyczne substancje.
+Brak regularnego czyszczenia [pralki](https://treehouse.co/pl/recenzje/najlepsze-pralki.html) sprawia, że stale obecna wilgoć, ciepło oraz słaby obieg powietrza w pralce sprzyja także powstawaniu grzybów i pleśni. Jest to niezwykle **niebezpieczne dla zdrowia człowieka**, ponieważ organizmy te wydzielają toksyczne substancje.
 
 Mają one wpływ na:
 
@@ -58,7 +58,7 @@ Czyszczenie pralki domowymi sposobami jest coraz częściej wykorzystywane - szc
 
 {:.distinction.distinction-warning}
 
-Syntetycznie wytworzone substancje mogą powodować podrażnienia skóry oraz nasilać alergie u osób wrażliwych. Dlatego zastanawiając się, **czym wyczyścić pralkę**, warto zdecydować się na naturalne środki.
+Syntetycznie wytworzone substancje mogą powodować podrażnienia skóry oraz nasilać alergie u osób wrażliwych. Dlatego zastanawiając się, **czym wyczyścić** [**pralkę**](https://treehouse.co/pl/recenzje/najlepsze-pralki.html), warto zdecydować się na naturalne środki.
 
 Można je znaleźć w każdej kuchni, dlatego ich stosowanie nie wiąże się z dodatkowymi wydatkami, a samo **czyszczenie pralki jest czynnością bezpieczną dla organizmu**.
 
