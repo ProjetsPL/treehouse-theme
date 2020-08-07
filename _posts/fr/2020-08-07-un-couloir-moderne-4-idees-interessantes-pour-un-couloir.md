@@ -16,7 +16,6 @@ intro: Vous souhaitez être propriétaire d'un couloir moderne ? Que votre inté
   quelques conseils qui vous faciliteront la tâche.
 image: "/uploads/nowoczesny-przedpokoj.jpg"
 related_products: []
-published: false
 
 ---
 ## Comment décorer un petit couloir ?
