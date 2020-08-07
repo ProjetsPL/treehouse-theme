@@ -88,19 +88,38 @@ Aranżacja balkonu z wykorzystaniem markizy nie zawsze jest możliwa. Balkon w b
 
 ## Własna uprawa warzyw i ziół- świetny pomysł na mały balkon
 
+Lubisz zdrowe warzywa? Nie wyobrażasz sobie posiłków latem bez dodania do nich świeżych ziół? Nie musisz za każdym razem wychodzić do pobliskiego warzywniaka w poszukiwaniu ulubionych roślin. Mały balkon jest doskonały do tego, aby zorganizować na nim swój własny ogródek.
+
+Możesz wybrać dwa sposoby uprawy warzyw i roślin. Jedną z nich są tradycyjne doniczki. Te możesz ustawić w rzędzie pod ścianą balkonu lub zawiesić na balustradzie (odpowiednia zabezpieczając doniczkę przed upadkiem z wysokości). Jednak, jeżeli zależy Ci na wyjątkowo kreatywnej koncepcji, możesz stworzyć piętrową konstrukcję np. z palet. Wówczas na każdym z poziomów możliwe jest zasadzie innych warzyw, czy ziół - dzięki czemu wykorzystując niemal tyle samo miejsca, zyskujesz zdecydowanie więcej plonów idealnych do Twojej kuchni.
+
 ![](/uploads/wlasna-uprawa-warzyw-i-ziol-swietny-pomysl-na-maly-balkon.jpg)
 
 ![](/uploads/uprawa-warzyw-maly-balkon.jpg)
 
 ## Niskobudżetowa aranżacja balkonu - wykorzystaj meble z palet
 
+Dysponujesz ograniczonym funduszem i obawiasz się, że Twoja aranżacja balkonu będzie nie do końca taka, jak sobie wyobraziłeś? Zastanawiasz się, czy będziesz musiał zrezygnować z pewnych elementów wyposażenia? Nie ma takiej potrzeby! Wystarczy, że znajdziesz pomysł na balkon i wykorzystasz odrobinę swojej kreatywności.
+
+Doskonałą opcją jest wykorzystanie palet, które są tanie i dają możliwość stworzenia wielu ciekawych przedmiotów np. sof, czy ławeczek. Wystarczy standardów zbicie palet (instrukcję znajdziesz w sieci) i zastosowanie zwykłych poduszek.
+
+TIP
+Meble balkonowe z palet są w ostatnich latach bardzo popularne. Na ich korzyść przemawia nie tylko niewielki koszt związany z samodzielnym wykonaniem. Plusem jest także możliwość idealnego dopasowania do przestrzeni, którą dysponujesz. W ten sposób zagospodarujesz nawet naprawdę mały balkon.
+
 ![](/uploads/meble-z-palet-oszczedny-sposob-na-aranzacje-balkonu.png)
 
 ![](/uploads/niskobudzetowa-aranzacja-balkonu-meble-z-palet.jpeg)
 
-## Huśtawka - idealna na mały balkon![](/uploads/hustawka-maly-balkon.jpg)
+## Huśtawka - idealna na mały balkon!
+
+Chcesz wrócić wspomnieniami do czasów dzieciństwa? Zależy Ci na relaksie, na świeżym powietrzu, ale Twój balkon ma mikroskopijne rozmiary. Doskonałą opcją będącą częścią wyposażenia może okazać się huśtawka. Bardzo popularne są w ostatnim czasie plecione modele nazywane "bocianimi gniazdami". Są one wykorzystywane zarówno w domowych wnętrzach, na balkonach, jak i w przestrzeniach publicznych np. restauracjach w klimacie boho.
+
+Zastanawiasz się, dlaczego huśtawka jest idealnym pomysłem na mały balkon? Przede wszystkim jej wykorzystanie tak naprawdę aranżację typu 2w1. Na co dzień, na balkonie możesz wykorzystywać składany stolik z krzesłem. Kiedy będziesz miał ochotę na relaks, na huśtawce - wystarczy, że je złożysz i zawiesisz swoje "bocianie gniazdo" na haku przymocowanym na stałe do znajdującego się kondygnację wyżej balkonu. Ta wersja jest doskonała także dla niezdecydowanych, którzy lubią od czasu do czasu zmiany.
+
+[](/uploads/hustawka-maly-balkon.jpg)
 
 ## Drewniana podłoga na balkon - inspiracje naturą
+
+
 
 ![](/uploads/drewniana-podloga-na-balkon-inspiracje-natura.jpg)
 
