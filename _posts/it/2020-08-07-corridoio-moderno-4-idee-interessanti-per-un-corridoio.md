@@ -65,29 +65,29 @@ Una buona idea per un arredamento moderno del corridoio è **appendere alla pare
 
 {% endfig %}
 
-You can choose models that can be freely moved around - and change the arrangement from time to time. Another interesting option is illuminating each of the pictures. All you need is some light spots and the whole design will look modern and really impressive.
+È possibile scegliere modelli che possono essere liberamente spostati - e cambiare la disposizione di volta in volta. Un'altra opzione interessante è quella di illuminare ciascuna delle immagini. Tutto ciò che serve sono alcuni punti luce e l'intero design avrà un aspetto moderno e davvero impressionante.
 
 {:.distinction.distinction-information}
 
-Instead of posters or pictures in ornamental frames, you could use mirrors. It's quite an unusual solution, but it will look very futuristic.
+Al posto dei poster o dei quadri in cornici ornamentali, si possono usare gli specchi. È una soluzione piuttosto insolita, ma avrà un aspetto molto futuristico.
 
 {% fig %}
 
-![Hallway decor mirror](/uploads/lustra-na-scianie.jpg "Hallway decor mirror")
+![Arredamento del corridoio - specchio](/uploads/lustra-na-scianie.jpg "Arredamento del corridoio - specchio")
 
 {% endfig %}
 
 {% fig %}
 
-![Hallway decor mirrors](/uploads/rozne-lustra-na-scianie.jpg "Hallway decor mirrors")
+![Arredamento del corridoio - specchi](/uploads/rozne-lustra-na-scianie.jpg "Arredamento del corridoio - specchi")
 
 {% endfig %}
 
-**Hanging shelves** have been a popular trend of the recent years. They often use metal elements or cords. You can place your favourite plants on them.
+**Gli scaffali appesi** sono stati una tendenza popolare degli ultimi anni. Spesso utilizzano elementi in metallo o corde. Su di essi si possono collocare le piante preferite.
 
 {% fig %}
 
-![Hallway decor ideas shelf](/uploads/polki-z-kwiatami-przedpokoj.jpg "Hallway decor ideas shelf")
+![Idee per l'arredamento del corridoio - scaffale](/uploads/polki-z-kwiatami-przedpokoj.jpg "Idee per l'arredamento del corridoio - scaffale")
 
 {% endfig %}
 
