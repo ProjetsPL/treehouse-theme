@@ -48,7 +48,7 @@ Ważną kwestią jest stan, w jakim znajdują się palety. **Łóżko z palet**,
 Przed rozpoczęciem wykonywanie mebla, jakim jest łóżko z palet, należy zgromadzić wszystkie niezbędne materiały. Najważniejszym elementem są oczywiście palety. Do projektu można wybrać **europalety**, których standardowe wymiary to 120x80 cm. Można oczywiście wybrać palety o innych parametrach. W każdym przypadku natomiast rozmiar trzeba dopasować do wymiarów materaca.
 
 {:.distinction.distinction-information}
-Należy pamiętać, że **łóżko powinno być szersze od materaca**. To zapewni dodatkową przestrzeń na przesuwanie. Standardowa europaleta waży zazwyczaj ponad 20 kg, a jej ładowność to nawet 1000 kg. Na łóżko z palet można wybrać lżejsze elementy o niższym poziomie obciążenia.
+Należy pamiętać, że **łóżko powinno być szersze od** [**materaca**](https://treehouse.co/pl/recenzje/najlepsze-materace.html). To zapewni dodatkową przestrzeń na przesuwanie. Standardowa europaleta waży zazwyczaj ponad 20 kg, a jej ładowność to nawet 1000 kg. Na łóżko z palet można wybrać lżejsze elementy o niższym poziomie obciążenia.
 
 Liczba palet to kwestia indywidualna. W zależności od konkretnego projektu podstawowy jednoosobowy model można wykonać już z trzech elementów. **Łóżko z palet dwuosobowe** wymaga około sześciu elementów na jedną warstwę. Należy dokładnie zaprojektować ilość warstw - wówczas automatycznie będzie wiadomo ile potrzeba palet. Jeżeli do łóżka planowane jest dodanie zagłówka, liczba elementów oczywiście się zwiększy.
 
@@ -80,9 +80,9 @@ Ostatnim etapem jest malowanie nowo powstałego mebla. Jeżeli naturalny rysunek
 
 ## Łóżko z palet - jaki materac wybrać?
 
-Łóżko z palet jest jedynie podwyższeniem, na którym należy położyć materac. To od niego, a nie od ramy zależy **wygoda łóżka**. Materac powinno się dobierać do indywidualnych potrzeb. Pozycja spania, waga ciała oraz ilość osób śpiących w łóżku to czynniki, którymi należy się kierować podczas wyboru materaca. Również sam rozmiar, jaki ma konstrukcja, jest kluczową sprawą.
+Łóżko z palet jest jedynie podwyższeniem, na którym należy położyć [materac](https://treehouse.co/pl/recenzje/najlepsze-materace.html "Najlepsze materace"). To od niego, a nie od ramy zależy **wygoda łóżka**. Materac powinno się dobierać do indywidualnych potrzeb. Pozycja spania, waga ciała oraz ilość osób śpiących w łóżku to czynniki, którymi należy się kierować podczas wyboru materaca. Również sam rozmiar, jaki ma konstrukcja, jest kluczową sprawą.
 
-Jeżeli łóżko na paletach jest przeznaczone do pokoju gościnnego, warto wybrać materac, który będzie bardziej uniwersalny. W tym celu można przykładowo wybrać **materac piankowy**, który dopasowuje się do każdego kształtu ciała.
+Jeżeli łóżko na paletach jest przeznaczone do pokoju gościnnego, warto wybrać materac, który będzie bardziej uniwersalny. W tym celu można przykładowo wybrać [**materac piankowy**](https://treehouse.co/pl/recenzje/najlepsze-materace/piankowe.html "Najlepsze materace piankowe"), który dopasowuje się do każdego kształtu ciała.
 
 ## Inne pomysły na meble z palet
 
