@@ -73,9 +73,7 @@ A good idea for a modern hallway and decorating the wall in it is **hanging some
 
 {% endfig %}
 
-You can choose models that you can move freely - and change the arrangement from time to time. ...
-
-All you need is some light spots and the whole design will look modern and really impressive.
+You can choose models that you can move freely - and change the arrangement from time to time. Another interesting option is illuminating each of the pictures. All you need is some light spots and the whole design will look modern and really impressive.
 
 {:.distinction.distinction-information}
 
@@ -97,7 +95,7 @@ Instead of posters or pictures in ornamental frames, you could use mirrors. It's
 
 {% fig %}
 
-![](/uploads/polki-z-kwiatami-przedpokoj.jpg)
+![Hallway decor ideas shelf](/uploads/polki-z-kwiatami-przedpokoj.jpg "Hallway decor ideas shelf")
 
 {% endfig %}
 
@@ -112,3 +110,33 @@ Home interiors typically use styrofoam moulding, which is lightweight and easy t
 ![Moulding on hallway walls? A great idea!](/uploads/sztukateria-na-scianie-korytarz.jpg "Moulding on hallway walls? A great idea!")
 
 {% endfig %}
+
+Many homeowners believe that moulding can be only white. Whille it is true that the manufacturers offer the ornaments in this color, **you can easily paint them**. So, if your dream is a plain grey wall with moulding on it - just install the element and paint it in a chosen color.
+
+{:.distinction.distinction-information}
+
+A modern hallway is a result of your own creativity - so you can create interesting compositions - provided that you have enough space for it. A wall with a moulding doesn't have to be in just one color. You can use moulding to divide two shades. Decorative elements could be placed in the lower part by the floor. The upper part could use other decorations, like the aforementioned framed pictures. Remember that the style of those two areas should correspond
+
+{% fig %}
+
+![Wall mouding decoration](/uploads/sztukateria-na-scianie-przedpokoj.jpg "Wall mouding decoration")
+
+{% endfig %}
+
+## Custom photo wallpaper in the hallway
+
+You own a really large hallway? Have you taken care of all the basic elements but you seek inspiration and wonder what to install on the wall so that the hallway look really modern? Photograph wallpapers have become quite popular in the recent years. Thanks to them, you can bring a romantic old town, lavender fields of Provence or a forest into you interior. Manufacturers offer a lot of designs, so finding the right picture shouldn't be a problem. The pictures look so realistic that the result will be really astonishing.
+
+{% fig %}
+
+![Custom photo wallpaper in the hallway](/uploads/nowoczesny-przedpokoj-fototapeta.jpg "Custom photo wallpaper in the hallway")
+
+{% endfig %}
+
+**You can cover the entire wall with a photo wallpaper - but that is just one of the options.** You can also put in on one chosen part. All depends on your individual preferences.
+
+{:.distinction.distinction-information}
+
+When using a wallpaper, challenge your own creativity to achieve impressive results. For instance, you can choose a forest wallpaper and hang a coat rack where a branch has been printed.
+
+If you choose a style for a modern hallway, remember about the most important aspect. The priority is the **functionality of the interior**.
