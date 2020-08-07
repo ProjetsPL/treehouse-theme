@@ -72,7 +72,7 @@ Another trend, quite similar to the previous one involves **the loft method for 
 
 {% fig %}
 
-![](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_4.jpg)
+![Living room lamps - inspired by nature](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_4.jpg "Living room lamps - inspired by nature")
 
 {% endfig %}
 
