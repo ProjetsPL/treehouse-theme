@@ -73,7 +73,7 @@ Centralny element szarej kuchni w stylu loft stanowi zazwyczaj metalowa wyspa z 
 
 Szara kuchnia zaprojektowana w myśl stylu nowoczesnego wprost uwielbia **szalone połączenia kolorystyczne**. To właśnie dzięki nim zwyczajne pomieszczenie potrafi zamienić się w odważne i **żywe wnętrze**. Kuchnia szara z akcentem kolorystycznym zdecydowanie przyciąga uwagę, a nawet potrafi **dodać energii** i wprawić w dobry nastrój osoby, które w niej przebywają.
 
-Monochromatyczny i dla wielu przewidywalny szary kolor można przełamać **wyrazistym akcentem** w postaci **kolorowego akcesorium kuchennego**. Nietypowa, kolorowa lodówka lub ekspres do kawy będą w tym przypadku dobrym rozwiązanie.
+Monochromatyczny i dla wielu przewidywalny szary kolor można przełamać **wyrazistym akcentem** w postaci **kolorowego akcesorium kuchennego**. Nietypowa, kolorowa lodówka lub [ekspres do kawy](https://treehouse.co/pl/recenzje/najlepsze-ekspresy-do-kawy.html) będą w tym przypadku dobrym rozwiązanie.
 
 Można także umieścić wybrany kolor na jednej ze ścian. Wprowadzając inne barwy do szarej kuchni, łatwo **pozbyć się surowości i optycznego chłodu** panującego w pomieszczeniu. Jednymi z najpopularniejszych kolorów występujących w szarej kuchni są: czerwień, pomarańcz, zieleń oraz żółć, gdyż **wywołują** one **pozytywne uczucia u człowieka**, a także wzmagają apetyt. Kolor można jednak wybrać dowolnie, według własnych preferencji.
 
