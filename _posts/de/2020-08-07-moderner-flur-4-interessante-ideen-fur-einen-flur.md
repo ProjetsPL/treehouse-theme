@@ -16,7 +16,6 @@ intro: Wollen Sie Besitzer eines modernen Flurs sein? Unabhängig davon, ob Ihr 
   die es Ihnen leichter machen.
 image: "/uploads/nowoczesny-przedpokoj.jpg"
 related_products: []
-published: false
 
 ---
 ## Wie schmückt man einen kleinen Flur?
