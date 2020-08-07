@@ -60,7 +60,7 @@ Jeżeli decydujesz się na wykorzystanie samej żarówki - bez dekoracyjnego klo
 
 Zbliżone do poprzedniego trendu jest **oświetlenie salonu, które wykorzystuje inspirację modą loftową**, jednak w połączeniu z pewnymi naturalnymi elementami np. surowym drewnem. W tym przypadku doskonale prezentuje się połączenie z czarnymi oprawami lamp, które podkreślają centralny punkt - żarówkę.
 
-**Lampy do salonu inspirowane naturą** to dobre rozwiązanie dla osób, które lubią niebanalne rozwiązania. Tego typu oświetlenie w salonie może stanowić główny punkt dekoracyjny wnętrza, obok którego nie da się przejść bez zwrócenia na niego uwagi.
+**Lampy do salonu inspirowane naturą** to dobre rozwiązanie dla osób, które cenią sobie niebanalne pomysły. Tego typu oświetlenie w salonie może stanowić główny punkt dekoracyjny wnętrza, obok którego nie da się przejść bez zwrócenia na niego uwagi.
 
 {% fig %}
 ![Lampa do salonu - inspiracje naturą](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_4.jpg "Lampa do salonu - inspiracje naturą")
