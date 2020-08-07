@@ -91,44 +91,44 @@ Al posto dei poster o dei quadri in cornici ornamentali, si possono usare gli sp
 
 {% endfig %}
 
-## Moulding on hallway walls? A great idea!
+## Modanature sui muri dei corridoi? Una grande idea!
 
-**Moulding on a wall** is a very interesting idea for a hallway decor. It will look excellent especially in high ceiling interiors. In this case you can create a really impressive, extensive arrangement.
+**La modanatura su un muro** è un'idea molto interessante per l'arredamento di un corridoio. Avrà un aspetto eccellente soprattutto negli interni a soffitto alto. In questo caso è possibile creare una disposizione davvero impressionante e ampia.
 
-Home interiors typically use styrofoam moulding, which is lightweight and easy to install - even by one person. It can be adjusted using a common utility knife. Such **decorative elements are available in different variants.** You can choose from classic chair rails or rosettes - they are used mostly for ceilings.
+Gli interni delle abitazioni utilizzano tipicamente lo stampaggio in polistirolo, che è leggero e facile da installare - anche da parte di una sola persona. Può essere regolato con un comune coltello di utilità. Tali elementi **decorativi sono disponibili in diverse varianti.** È possibile scegliere tra i classici binari per sedie o rosoni - sono utilizzati soprattutto per i soffitti.
 
 {% fig %}
 
-![Moulding on hallway walls? A great idea!](/uploads/sztukateria-na-scianie-korytarz.jpg "Moulding on hallway walls? A great idea!")
+![Modanature sui muri dei corridoi? Una grande idea!](/uploads/sztukateria-na-scianie-korytarz.jpg "Modanature sui muri dei corridoi? Una grande idea!")
 
 {% endfig %}
 
-Many homeowners believe that moulding can be only white. While it is true that the manufacturers offer the ornaments mostly in this color, **you can easily paint them over**. So, if your dream is a plain grey wall with a moulding on it - just install the element and paint it in a chosen color.
+Molti proprietari di case credono che la modanatura possa essere solo bianca. Se è vero che i produttori offrono gli ornamenti per lo più in questo colore, **è possibile dipingerli facilmente**. Quindi, se il vostro sogno è un semplice muro grigio con una modanatura - basta installare l'elemento e dipingerlo in un colore scelto.
 
 {:.distinction.distinction-information}
 
-A modern hallway is a result of your own creativity - so you can create interesting compositions - provided that you have enough space for it. A wall with a moulding doesn't have to be in just one color. You can use moulding to divide two shades. Decorative elements could be placed in the lower part by the floor. The upper part could use other decorations, like the aforementioned framed pictures. Remember that the styles of those two areas should correspond.
+Un corridoio moderno è il risultato della vostra creatività - in modo da poter creare composizioni interessanti - a condizione che abbiate abbastanza spazio. Un muro con una modanatura non deve essere necessariamente di un solo colore. È possibile utilizzare la modanatura per dividere due tonalità. Gli elementi decorativi possono essere posizionati nella parte inferiore vicino al pavimento. La parte superiore potrebbe utilizzare altre decorazioni, come i quadri incorniciati di cui sopra. Ricordate che gli stili di queste due aree dovrebbero corrispondere.
 
 {% fig %}
 
-![Wall mouding decoration](/uploads/sztukateria-na-scianie-przedpokoj.jpg "Wall mouding decoration")
+![Decorazione murale](/uploads/sztukateria-na-scianie-przedpokoj.jpg "Decorazione murale")
 
 {% endfig %}
 
-## Custom photo wallpaper in the hallway
+## Carta da parati fotografica personalizzata nel corridoio
 
-You own a really large hallway? Have you taken care of all the basic elements but you seek inspiration and wonder what to install on the wall so that the hallway look really modern? Photograph wallpapers have become quite popular in the recent years. Thanks to them, you can bring a romantic old town, lavender fields of Provence or a forest into you interior. Manufacturers offer a lot of designs, so finding the right picture shouldn't be a problem. The pictures look highly realistic, so you can achieve an astonishing result.
+Possiedi un corridoio molto ampio? Vi siete occupati di tutti gli elementi di base ma cercate l'ispirazione e vi chiedete cosa installare a parete in modo che il corridoio sembri davvero moderno? Le carte da parati fotografiche sono diventate molto popolari negli ultimi anni. Grazie a loro, potete portare al vostro interno un centro storico romantico, campi di lavanda della Provenza o una foresta. I produttori offrono moltissimi design, quindi trovare l'immagine giusta non dovrebbe essere un problema. Le immagini sembrano molto realistiche, così si può ottenere un risultato sorprendente.
 
 {% fig %}
 
-![Custom photo wallpaper in the hallway](/uploads/nowoczesny-przedpokoj-fototapeta.jpg "Custom photo wallpaper in the hallway")
+![Carta da parati fotografica personalizzata nel corridoio](/uploads/nowoczesny-przedpokoj-fototapeta.jpg "Carta da parati fotografica personalizzata nel corridoio")
 
 {% endfig %}
 
-**You can cover the entire wall with a photo wallpaper - but that is just one of the options.** You can also put in on one chosen part. All depends on your individual preferences.
+**È possibile coprire l'intera parete con una carta da parati fotografica - ma questa è solo una delle opzioni.** Si può anche mettere su una parte scelta. Tutto dipende dalle vostre preferenze individuali.
 
 {:.distinction.distinction-information}
 
-When using a wallpaper, challenge your own creativity to achieve impressive results. For instance, you can choose a forest wallpaper and hang a coat rack where a branch has been printed.
+Quando si usa una carta da parati, mettete alla prova la vostra creatività per ottenere risultati impressionanti. Per esempio, potete scegliere una carta da parati per il bosco e appendere un appendiabiti dove è stato stampato un ramo.
 
-If you choose a style for a modern hallway, remember about the most important aspect. The priority is the **functionality of the interior**.
+Se scegliete uno stile per un corridoio moderno, ricordate l'aspetto più importante. La priorità è la **funzionalità degli interni**.
