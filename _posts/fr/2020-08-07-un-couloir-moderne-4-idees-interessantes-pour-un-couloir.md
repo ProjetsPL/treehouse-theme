@@ -1,133 +1,134 @@
 ---
 layout: post
 date: 2020-08-07
-main_keywords: []
+main_keywords:
+- couloir moderne
 toc: true
 promoted: false
 update_date: 2020-08-07
-title: Un couloir moderne - 4 idées intéressantes pour un couloir
-description: "How to easily decorate a modern hallway? \U0001F3E0 It doesn't have
-  to be a challenge. ➡️ See the most intriguing ideas and inspire yourself."
-intro: Wishing to be an owner of a modern hallway? Regardless whether your interior
-  is large or small - the most important part is a good idea. It's a room that should
-  invite your guests - therefore it should not only be aesthetic but also functional.
-  Find the most brilliant idea for your hallway - use some tips that will make it
-  easier for you.
+title: Un Couloir Moderne - 4 Idées Intéressantes Pour un Couloir
+description: "Comment décorer facilement un couloir moderne ? \U0001F3E0 Ce n'est
+  pas forcément un défi. ➡️ Voyez les idées les plus intrigantes et inspirez-vous."
+intro: Vous souhaitez être propriétaire d'un couloir moderne ? Que votre intérieur
+  soit grand ou petit, le plus important est d'avoir une bonne idée. C'est une pièce
+  qui doit inviter vos invités - elle doit donc être non seulement esthétique mais
+  aussi fonctionnelle. Trouvez l'idée la plus brillante pour votre couloir - utilisez
+  quelques conseils qui vous faciliteront la tâche.
 image: "/uploads/nowoczesny-przedpokoj.jpg"
 related_products: []
 published: false
 
 ---
-## How to decorate a small hallway?
+## Comment décorer un petit couloir ?
 
-**Small hallways might be quite difficult to furnish.** One needs to fit everything in a small space, being careful not to make a mess. An obligatory element in a hallway is a coat rack. It's advised to find a place for footwear and, even better - a free wall for a mirror.
+**Les petits couloirs peuvent être assez difficiles à meubler**. Il faut tout faire tenir dans un petit espace, en faisant attention à ne pas faire de désordre. Un élément obligatoire dans un couloir est un porte-manteau. Il est conseillé de trouver un endroit pour les chaussures et, mieux encore, un mur libre pour un miroir.
 
-There are many clever solutions that will allow you to have all those elements - even in a narrow hall. Wondering how can it be possible? If you have a micro-scale hallway - consider getting a **custom-made furniture.**
+Il existe de nombreuses solutions astucieuses qui vous permettront d'avoir tous ces éléments - même dans un couloir étroit. Vous vous demandez comment c'est possible ? Si vous avez un couloir à petite échelle, pensez à vous **procurer un mobilier sur mesure.**
 
 {% fig %}
 
-![How to decorate a small hallway?](/uploads/maly-przedpokoj.jpg "How to decorate a small hallway?")
+![Comment décorer un petit couloir ?](/uploads/maly-przedpokoj.jpg "Comment décorer un petit couloir ?")
 
 {% endfig %}
 
-**A shoe rack with a seat, coat rack panel and a mirror** is an excellent option. There are many companies who execute such projects, therefore it shouldn't be an expensive solution. Additionally, you can choose any color, so you can perfectly match such equipment with your project. It's a perfect idea for functional walls in a hallway - especially if it's small.
+**Un porte-chaussures avec un siège, un panneau de porte-mantea**u et un miroir est une excellente option. De nombreuses entreprises réalisent de tels projets, ce qui ne devrait donc pas être une solution coûteuse. De plus, vous pouvez choisir n'importe quelle couleur, ce qui vous permet d'assortir parfaitement ce type d'équipement à votre projet. C'est une idée parfaite pour des murs fonctionnels dans un couloir - surtout s'il est petit.
 
-### Storage system in a small hallway
+### Système de stockage dans un petit couloir
 
-If you have a little bit more space in your hallway, consider getting more storage compartments. It's perfect if you could fit a closet. It is, however, not always a good idea - especially if it takes a lot of space. In such a case you could choose a **smaller chest of drawers or a rack with boxes.**
+Si vous avez un peu plus d'espace dans votre couloir, pensez à vous procurer plus de compartiments de rangement. C'est parfait si vous pouvez installer un placard. Mais ce n'est pas toujours une bonne idée, surtout si cela prend beaucoup de place. Dans ce cas, vous pourriez **choisir une commode plus petite ou un casier avec des boîtes**.
 
 {:.distinction.distinction-information}
 
-Are there any nooks in your hallway? They can help you increase the functionality of the interior. **Turning a niche into a closet is a great idea.** You want the whole project to look modern? Choose minimalism - plain fronts and no handles.
+Y a-t-il des coins dans votre couloir ? Ils peuvent vous aider à améliorer la fonctionnalité de l'intérieur. **Transformer une niche en placard est une excellente idée**. Vous voulez que l'ensemble du projet ait l'air moderne ? Optez pour le minimalisme - des façades unies et pas de poignées.
 
 {% fig %}
 
-![Storage system in a small hallway](/uploads/duzy-bialy-nowoczesny-przedpokoj.jpg "Storage system in a small hallway")
+![Système de stockage dans un petit couloir](/uploads/duzy-bialy-nowoczesny-przedpokoj.jpg "Système de stockage dans un petit couloir")
 
 {% endfig %}
 
-## A long and narrow hallway - decor ideas
+## Un couloir long et étroit - idées de décoration
 
-Similar to small interiors - it might be difficult to make a **narrow, long hallway** a functional space. The usual solution involves hanging a classic wall coat rack on one side. Additionally - a mirror, and sometimes a small seat might also fit. But what about the other wall? How to decorate it?
+Comme pour les petits intérieurs, il peut être difficile de faire **d'un long et étroit couloir** un espace fonctionnel. La solution habituelle consiste à accrocher un porte-manteau mural classique sur un côté. En outre, un miroir et parfois un petit siège peuvent également être installés. Mais qu'en est-il de l'autre mur ? Comment le décorer ?
 
-A good idea for a modern hallway decor is **hanging some paintings, posters or framed pictures** on the wall. The trick is to make it so the room doesn't look smaller. So, instead of one large board with photos, hang separate frames on a rail.
+Une bonne idée pour la décoration d'un couloir moderne consiste à accrocher au mur **quelques peintures, affiches ou tableaux encadrés**. L'astuce consiste à faire en sorte que la pièce ne paraisse pas plus petite. Ainsi, au lieu d'un grand tableau avec des photos, accrochez des cadres séparés sur un rail.
 
 {% fig %}
 
-![Long and narrow hallway - decor ideas](/uploads/obrazy-na-scianie.jpg "Long and narrow hallway - decor ideas")
+![Couloir long et étroit - idées de décoration](/uploads/obrazy-na-scianie.jpg "Couloir long et étroit - idées de décoration")
 
 {% endfig %}
 
 {% fig %}
 
-![Hallway ideas pictures](/uploads/nowoczesny-przedpokoj-obrazy.jpg "Hallway ideas pictures")
+![Idées de couloir - images](/uploads/nowoczesny-przedpokoj-obrazy.jpg "Idées de couloir - images")
 
 {% endfig %}
 
-You can choose models that can be freely moved around - and change the arrangement from time to time. Another interesting option is illuminating each of the pictures. All you need is some light spots and the whole design will look modern and really impressive.
+Vous pouvez choisir des modèles qui peuvent être déplacés librement - et changer la disposition de temps en temps. Une autre option intéressante consiste à éclairer chacune des photos. Tout ce dont vous avez besoin, c'est de quelques points lumineux et l'ensemble aura un aspect moderne et vraiment impressionnant.
 
 {:.distinction.distinction-information}
 
-Instead of posters or pictures in ornamental frames, you could use mirrors. It's quite an unusual solution, but it will look very futuristic.
+Au lieu d'affiches ou d'images dans des cadres décoratifs, vous pourriez utiliser des miroirs. C'est une solution assez inhabituelle, mais elle aura l'air très futuriste.
 
 {% fig %}
 
-![Hallway decor mirror](/uploads/lustra-na-scianie.jpg "Hallway decor mirror")
+![Décor de couloir - miroir](/uploads/lustra-na-scianie.jpg "Décor de couloir - miroir")
 
 {% endfig %}
 
 {% fig %}
 
-![Hallway decor mirrors](/uploads/rozne-lustra-na-scianie.jpg "Hallway decor mirrors")
+![Décoration des couloirs - miroirs](/uploads/rozne-lustra-na-scianie.jpg "Décoration des couloirs - miroirs")
 
 {% endfig %}
 
-**Hanging shelves** have been a popular trend of the recent years. They often use metal elements or cords. You can place your favourite plants on them.
+**Les étagères suspendues** ont été une tendance populaire ces dernières années. Elles utilisent souvent des éléments métalliques ou des cordes. Vous pouvez y placer vos plantes préférées.
 
 {% fig %}
 
-![Hallway decor ideas shelf](/uploads/polki-z-kwiatami-przedpokoj.jpg "Hallway decor ideas shelf")
+![Idées de décoration de couloir - étagère](/uploads/polki-z-kwiatami-przedpokoj.jpg "Idées de décoration de couloir - étagère")
 
 {% endfig %}
 
-## Moulding on hallway walls? A great idea!
+## Des moulures sur les murs des couloirs ? Une idée géniale !
 
-**Moulding on a wall** is a very interesting idea for a hallway decor. It will look excellent especially in high ceiling interiors. In this case you can create a really impressive, extensive arrangement.
+**Le moulage sur un mur** est une idée très intéressante pour la décoration d'un couloir. Elle sera excellente, en particulier dans les intérieurs à hauts plafonds. Dans ce cas, vous pouvez créer un agencement vraiment impressionnant et étendu.
 
-Home interiors typically use styrofoam moulding, which is lightweight and easy to install - even by one person. It can be adjusted using a common utility knife. Such **decorative elements are available in different variants.** You can choose from classic chair rails or rosettes - they are used mostly for ceilings.
+Les intérieurs des maisons utilisent généralement des moulures en polystyrène, qui sont légères et faciles à installer, même par une seule personne. Elle peut être ajustée à l'aide d'un couteau utilitaire courant. **Ces éléments décoratifs sont disponibles en différentes variantes.** Vous pouvez choisir entre des cimaises ou des rosaces classiques - elles sont surtout utilisées pour les plafonds.
 
 {% fig %}
 
-![Moulding on hallway walls? A great idea!](/uploads/sztukateria-na-scianie-korytarz.jpg "Moulding on hallway walls? A great idea!")
+![Des moulures sur les murs des couloirs ? Une idée géniale !](/uploads/sztukateria-na-scianie-korytarz.jpg "Des moulures sur les murs des couloirs ? Une idée géniale !")
 
 {% endfig %}
 
-Many homeowners believe that moulding can be only white. While it is true that the manufacturers offer the ornaments mostly in this color, **you can easily paint them over**. So, if your dream is a plain grey wall with a moulding on it - just install the element and paint it in a chosen color.
+De nombreux propriétaires pensent que les moulures ne peuvent être que blanches. S'il est vrai que les fabricants proposent les ornements principalement dans cette couleur, vous **pouvez facilement les peindre par-dessus**. Ainsi, si vous rêvez d'un mur gris uni sur lequel se trouve une moulure, il vous suffit d'installer l'élément et de le peindre dans la couleur de votre choix.
 
 {:.distinction.distinction-information}
 
-A modern hallway is a result of your own creativity - so you can create interesting compositions - provided that you have enough space for it. A wall with a moulding doesn't have to be in just one color. You can use moulding to divide two shades. Decorative elements could be placed in the lower part by the floor. The upper part could use other decorations, like the aforementioned framed pictures. Remember that the styles of those two areas should correspond.
+Un couloir moderne est le résultat de votre propre créativité - vous pouvez donc créer des compositions intéressantes - à condition de disposer de suffisamment d'espace pour cela. Un mur avec une moulure n'a pas besoin d'être d'une seule couleur. Vous pouvez utiliser une moulure pour diviser deux teintes. Des éléments décoratifs peuvent être placés dans la partie inférieure par le sol. La partie supérieure peut utiliser d'autres décorations, comme les tableaux encadrés mentionnés ci-dessus. N'oubliez pas que les styles de ces deux zones doivent correspondre.
 
 {% fig %}
 
-![Wall mouding decoration](/uploads/sztukateria-na-scianie-przedpokoj.jpg "Wall mouding decoration")
+![Décoration murale](/uploads/sztukateria-na-scianie-przedpokoj.jpg "Décoration murale")
 
 {% endfig %}
 
-## Custom photo wallpaper in the hallway
+## Papier peint photo personnalisé dans le couloir
 
-You own a really large hallway? Have you taken care of all the basic elements but you seek inspiration and wonder what to install on the wall so that the hallway look really modern? Photograph wallpapers have become quite popular in the recent years. Thanks to them, you can bring a romantic old town, lavender fields of Provence or a forest into you interior. Manufacturers offer a lot of designs, so finding the right picture shouldn't be a problem. The pictures look highly realistic, so you can achieve an astonishing result.
+Vous possédez un très grand couloir ? Vous avez pris soin de tous les éléments de base mais vous cherchez l'inspiration et vous vous demandez quoi installer au mur pour que le couloir ait vraiment l'air moderne ? Les papiers peints photographiques sont devenus très populaires ces dernières années. Grâce à eux, vous pouvez faire entrer dans votre intérieur une vieille ville romantique, des champs de lavande de Provence ou une forêt. Les fabricants proposent de nombreux motifs, alors trouver la bonne photo ne devrait pas être un problème. Les images sont très réalistes, ce qui vous permet d'obtenir un résultat étonnant.
 
 {% fig %}
 
-![Custom photo wallpaper in the hallway](/uploads/nowoczesny-przedpokoj-fototapeta.jpg "Custom photo wallpaper in the hallway")
+![Papier peint photo personnalisé dans le couloir](/uploads/nowoczesny-przedpokoj-fototapeta.jpg "Papier peint photo personnalisé dans le couloir")
 
 {% endfig %}
 
-**You can cover the entire wall with a photo wallpaper - but that is just one of the options.** You can also put in on one chosen part. All depends on your individual preferences.
+**Vous pouvez couvrir tout le mur avec un fond d'écran photo - mais ce n'est qu'une des options.** Vous pouvez également en mettre sur une partie choisie. Tout dépend de vos préférences personnelles.
 
 {:.distinction.distinction-information}
 
-When using a wallpaper, challenge your own creativity to achieve impressive results. For instance, you can choose a forest wallpaper and hang a coat rack where a branch has been printed.
+Lorsque vous utilisez un papier peint, mettez votre propre créativité au défi pour obtenir des résultats impressionnants. Par exemple, vous pouvez choisir un papier peint de forêt et accrocher un porte-manteau à l'endroit où une branche a été imprimée.
 
-If you choose a style for a modern hallway, remember about the most important aspect. The priority is the **functionality of the interior**.
+Si vous choisissez un style pour un couloir moderne, n'oubliez pas l'aspect le plus important. La priorité est **la fonctionnalité de l'intérieur.**
