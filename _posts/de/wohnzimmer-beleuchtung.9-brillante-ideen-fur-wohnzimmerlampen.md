@@ -8,186 +8,186 @@ update_date: 2020-08-07
 title: Wohnzimmer-Beleuchtung. 9 Brillante Ideen für Wohnzimmerlampen
 description: "Suchen Sie nach einer Lampe für Wohnzimmer? \U0001F4A1 Sehen Sie sich
   die besten Modelle an. ➡️ Holen Sie sich die schönste Wohnzimmerbeleuchtung."
-intro: A living room is the special place in a house - that's where one spends most
-  of the time. It's a space for you and your guests. One of the most important elements
-  of such interiors is the right illumination. What type of living room lights to
-  choose so that it's both original and functional? Find some inspiration and choose
-  the perfect living room lighting.
+intro: Ein Wohnzimmer ist der besondere Ort in einem Haus - dort verbringt man die
+  meiste Zeit. Es ist ein Raum für Sie und Ihre Gäste. Eines der wichtigsten Elemente
+  solcher Innenräume ist die richtige Beleuchtung. Welche Art von Wohnzimmerbeleuchtung
+  sollte man wählen, damit es sowohl originell als auch funktionell ist? Lassen Sie
+  sich inspirieren und wählen Sie die perfekte Wohnzimmerbeleuchtung.
 image: "/uploads/lampy-do-salonu-9-pomyslow.jpg"
 related_products: []
 published: false
 
 ---
-## Living room lighting - modern and minimalistic
+## Wohnzimmerbeleuchtung - modern und minimalistisch
 
-Do you want to change the outdated illumination in your room? Do you like **simple, uncomplicated forms and minimalism?** The lamps you choose can reflect those features perfectly. Such elements have been quite popular recently. The most characteristic features of a room lighting of this type are:
+Wollen Sie die veraltete Beleuchtung in Ihrem Zimmer ändern? Mögen Sie **einfache, unkomplizierte Formen und Minimalismus**? Die Lampen, die Sie wählen, können diese Eigenschaften perfekt widerspiegeln. Solche Elemente sind in letzter Zeit recht beliebt. Die charakteristischsten Merkmale einer solchen Raumbeleuchtung sind
 
 {:.list}
 
-* simple design,
-* reference to traditional lightbulbs aesthetics,
-* exposed lightbulbs.
+* einfache Konstruktion,
+* Verweis auf traditionelle Glühbirnen-Ästhetik,
+* belichtete Glühbirnen.
 
-Minimalistic and at the same time modern living room lamps are typically offered in various sizes. Fitting them to the room shouldn't be any problem.
+Minimalistische und gleichzeitig moderne Wohnzimmerleuchten werden typischerweise in verschiedenen Größen angeboten. Die Anpassung an den Raum sollte kein Problem sein.
 
 {% fig %}
 
-![Living room lighting - modern and minimalistic](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_1.jpg "Living room lighting - modern and minimalistic")
+![Wohnzimmerbeleuchtung - modern und minimalistisch](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_1.jpg "Wohnzimmerbeleuchtung - modern und minimalistisch")
 
 {% endfig %}
 
 {% fig %}
 
-![Living room lighting - modern and minimalistic](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_3.jpg "Living room lighting - modern and minimalistic")
+![Wohnzimmerbeleuchtung - modern und minimalistisch](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_3.jpg "Wohnzimmerbeleuchtung - modern und minimalistisch")
 
 {% endfig %}
 
-**Classic shades made of transparent glass** are the hottest trend. There is also another, equally interesting and quite controversial solution - using only a lightbulb for a living room lighting. It's a characteristic solution especially for loft-style apartments, which refer to industrial aesthetics. They are quite popular among younger generations.
+**Klassische Töne aus transparentem Glas** sind der angesagteste Trend. Es gibt noch eine andere, ebenso interessante und ziemlich umstrittene Lösung - die ausschließliche Verwendung einer Glühbirne für die Wohnzimmerbeleuchtung. Es ist eine charakteristische Lösung vor allem für Wohnungen im Loft-Stil, die sich auf die industrielle Ästhetik beziehen. Sie sind bei den jüngeren Generationen recht beliebt.
 
 {:.distinction.distinction-information}
 
-If you decide to use an exposed lightbulb without a decorative shade, keep in mind that the socket should fit perfectly. You can choose different colors - although black is the most common - white, gold or silver might look equally interesting.
+Wenn Sie sich für eine freiliegende Glühbirne ohne Zierblende entscheiden, denken Sie daran, dass die Fassung perfekt passen sollte. Sie können verschiedene Farben wählen - obwohl Schwarz am häufigsten vorkommt - Weiß, Gold oder Silber könnten ebenso interessant aussehen.
 
 {% fig %}
 
-![Living room lighting - modern and minimalistic](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_2.jpg "Living room lighting - modern and minimalistic")
+![Wohnzimmerbeleuchtung - modern und minimalistisch](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_2.jpg "Wohnzimmerbeleuchtung - modern und minimalistisch")
 
 {% endfig %}
 
-## Living room lamps - inspired by nature
+## Wohnzimmerlampen - von der Natur inspiriert
 
-Another trend, quite similar to the previous one involves **the loft method for living room lighting**, but combined with natural elements, for instance raw wood. It fits perfectly with black lamp shades, which highlight the central point - lightbulb.
+Ein weiterer Trend, der dem vorhergehenden recht ähnlich ist, betrifft die **Loft-Methode für die Beleuchtung von Wohnzimmern**, allerdings in Kombination mit natürlichen Elementen, zum Beispiel rohem Holz. Sie passt perfekt zu schwarzen Lampenschirmen, die den zentralen Punkt - die Glühbirne - hervorheben.
 
-**Nature inspired living room lamps** are a good solution for those who like unusual ideas. This type of living room lighting might become the main ornament in the interior. As a result, no one will pass it without noticing it.
+**Von der Natur inspirierte Wohnzimmerlampen** sind eine gute Lösung für diejenigen, die ungewöhnliche Ideen mögen. Diese Art der Wohnzimmerbeleuchtung könnte zum Hauptschmuck des Interieurs werden. Infolgedessen wird niemand daran vorbeigehen, ohne es zu bemerken.
 
 {% fig %}
 
-![](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_4.jpg)
+![Wohnzimmerlampen - von der Natur inspiriert](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_4.jpg "Wohnzimmerlampen - von der Natur inspiriert")
 
 {% endfig %}
 
-## Living room lighting - timeless classics
+## Wohnzimmerbeleuchtung - zeitlose Klassiker
 
-Traditional living room chandeliers, as it turns out, are still in fashion - especially in classically furnished interiors. It's a highly advantageous solution. It provides a lot of light, which is crucial for many homeowners.
+Traditionelle Wohnzimmerleuchter sind, wie sich herausstellt, immer noch in Mode - vor allem in klassisch eingerichteten Innenräumen. Das ist eine sehr vorteilhafte Lösung. Er spendet viel Licht, was für viele Hausbesitzer entscheidend ist.
 
-It's also worth noting that there are a lot of **designs, colors and sizes** of living room lamps to choose from. Therefore, finding a model that fits one's needs shouldn't be an issue.
-
-{% fig %}
-
-![Living room lighting - timeless classics](/uploads/tradycyjne_lampy_do_salonu_1.jpg "Living room lighting - timeless classics")
-
-{% endfig %}
+Erwähnenswert ist auch, dass es eine **Menge Designs, Farben und Größen** von Wohnzimmerlampen zur Auswahl gibt. Daher sollte es kein Problem sein, ein Modell zu finden, das zu den eigenen Bedürfnissen passt.
 
 {% fig %}
 
-![Living room lighting - timeless classics](/uploads/tradycyjne_lampy_do_salonu_2.jpg "Living room lighting - timeless classics")
-
-{% endfig %}
-
-## Living room lighting - glamour style
-
-**Glamour style living room lamps** are very similar to the classic chandeliers. The difference is that they are far more ornamental. They also use plenty of crystals and other shiny elements.
-
-On the other hand, modern glamour style can be ornamental but not overwhelming in its construction. In this case, pay attention to the **shape of the lamp** instead of the number of elements.
-
-{% fig %}
-
-![Living room lighting - glamour style](/uploads/lampy_do_salonu_styl_glamour_1.jpg "Living room lighting - glamour style")
+![Wohnzimmerbeleuchtung - zeitlose Klassiker](/uploads/tradycyjne_lampy_do_salonu_1.jpg "Wohnzimmerbeleuchtung - zeitlose Klassiker")
 
 {% endfig %}
 
 {% fig %}
 
-![Living room lighting - glamour style](/uploads/lampy_do_salonu_styl_glamour_2.jpg "Living room lighting - glamour style")
+![Wohnzimmerbeleuchtung - zeitlose Klassiker](/uploads/tradycyjne_lampy_do_salonu_2.jpg "Wohnzimmerbeleuchtung - zeitlose Klassiker")
 
 {% endfig %}
 
-## Artistic living room lighting
+## Wohnzimmerbeleuchtung - Glamour-Stil
 
-**Artistic living room lamps** are quite the opposite of the minimalist style. They are chosen mostly by those who seek for an unusual style for their interior. Art, when it comes to living room lighting, has many dimensions.
+**Wohnzimmerlampen im Glamourstil** sind den klassischen Kronleuchtern sehr ähnlich. Der Unterschied besteht darin, dass sie viel dekorativer sind. Außerdem verwenden sie viele Kristalle und andere glänzende Elemente.
 
-The first one involves the form of the lighting. It can be quite simple but combine **several different shapes** that together look quite interesting.
-
-Another **unusual living room lighting idea** involves not only using several light points in one place, but also combining contrasting colors. It's a guarantee of a very good effect.
+Auf der anderen Seite kann der moderne Glamourstil zwar ornamental, aber nicht überwältigend in seiner Konstruktion sein. Achten Sie in diesem Fall auf die **Form der Lampe** und nicht auf die Anzahl der Elemente.
 
 {% fig %}
 
-![Artistic living room lighting](/uploads/lampy_do_salonu_artystyczne_1.jpg "Artistic living room lighting")
+![Wohnzimmerbeleuchtung - Glamour-Stil](/uploads/lampy_do_salonu_styl_glamour_1.jpg "Wohnzimmerbeleuchtung - Glamour-Stil")
 
 {% endfig %}
 
 {% fig %}
 
-![Artistic living room lighting](/uploads/lampy_do_salonu_artystyczne_4.jpg "Artistic living room lighting")
+![Wohnzimmerbeleuchtung - Glamour-Stil](/uploads/lampy_do_salonu_styl_glamour_2.jpg "Wohnzimmerbeleuchtung - Glamour-Stil")
 
 {% endfig %}
 
-Not only **hanging living room lamps can be pieces of art.** Additional lighting points of the room are also worth paying attention, as they can become interesting decorations. You can put some hand-painted lamps on a credenza or a desk, which will surely grab your guests' attention.
+## Künstlerische Wohnzimmer-Beleuchtung
+
+**Künstlerische Wohnzimmerlampen** sind das genaue Gegenteil des minimalistischen Stils. Sie werden vor allem von jenen gewählt, die einen ungewöhnlichen Stil für ihr Interieur suchen. Kunst, wenn es um Wohnzimmerbeleuchtung geht, hat viele Dimensionen.
+
+Die erste betrifft die Form der Beleuchtung. Sie kann recht einfach sein, aber **mehrere verschiedene Formen** kombinieren, die zusammen recht interessant aussehen.
+
+Eine weitere **ungewöhnliche Beleuchtungsidee im Wohnzimmer** besteht darin, nicht nur mehrere Lichtpunkte an einem Ort zu verwenden, sondern auch kontrastierende Farben zu kombinieren. Das ist eine Garantie für eine sehr gute Wirkung.
 
 {% fig %}
 
-![Artistic living room lighting](/uploads/lampy_do_salonu_artystyczne_2.jpg "Artistic living room lighting")
+![Künstlerische Wohnzimmer-Beleuchtung](/uploads/lampy_do_salonu_artystyczne_1.jpg "Künstlerische Wohnzimmer-Beleuchtung")
 
 {% endfig %}
-
-## Living room lights - ceiling illumination
-
-Although a **ceiling illumination** and recessed lighting cannot serve as the main light source in a living room, it is undoubtedly an impressive decoration. No wonder that this solution has been gaining popularity.
-
-You can decide to illuminate the whole interior or only its part, for instance over the sofa or the furniture. Additionally, you have a wide variety of colors to choose from.
 
 {% fig %}
 
-![Living room lights - ceiling illumination](/uploads/lampy_do_salonu_podswietlenie_sufitu_1.jpg "Living room lights - ceiling illumination")
+![Künstlerische Wohnzimmer-Beleuchtung](/uploads/lampy_do_salonu_artystyczne_4.jpg "Künstlerische Wohnzimmer-Beleuchtung")
 
 {% endfig %}
 
-## Unusual living room lamps - wall illumination
-
-The absolute **winner among the 2020 solutions is the idea of illuminated walls in the living room.** Popular several years ago wall lights are being replaced by modern constructions - the same as the ones used for illuminated ceilings. What are the limitations of such a solution? The only limit is your own imagination. By hiring a really good specialist, you can carry out any wall illumination project.
+Nicht nur **hängende Wohnzimmerlampen können Kunstwerke sein.** Auch zusätzliche Lichtpunkte des Raumes sind beachtenswert, da sie zu interessanten Dekorationen werden können. Sie können einige handbemalte Lampen auf eine Kredenz oder einen Schreibtisch stellen, die sicherlich die Aufmerksamkeit Ihrer Gäste erregen werden.
 
 {% fig %}
 
-![Unusual living room lamps - wall illumination](/uploads/nietypowe_podswietlenie_salon_1.jpg "Unusual living room lamps - wall illumination")
+![Künstlerische Wohnzimmer-Beleuchtung](/uploads/lampy_do_salonu_artystyczne_2.jpg "Künstlerische Wohnzimmer-Beleuchtung")
 
 {% endfig %}
 
-## Floor lamp for a living room
+## Wohnzimmerleuchten - Deckenbeleuchtung
 
-**Floor living room lamps** are a great addition to the main light sources in a room. They are particularly helpful if you like to read a lot in the evening. A well illuminated book can help you protect your eyes from strain. Lamps of this type can also serve as a perfect decoration.
+Obwohl eine **Decken- und Einbaubeleuchtung** nicht als Hauptlichtquelle in einem Wohnzimmer dienen kann, ist sie zweifellos eine beeindruckende Dekoration. Kein Wunder, dass diese Lösung an Popularität gewonnen hat.
+
+Sie können entscheiden, ob Sie den gesamten Innenraum oder nur einen Teil davon beleuchten möchten, zum Beispiel über dem Sofa oder den Möbeln. Zusätzlich haben Sie eine große Auswahl an Farben zur Verfügung.
+
+{% fig %}
+
+![Wohnzimmerleuchten - Deckenbeleuchtung](/uploads/lampy_do_salonu_podswietlenie_sufitu_1.jpg "Wohnzimmerleuchten - Deckenbeleuchtung")
+
+{% endfig %}
+
+## Ungewöhnliche Wohnzimmerlampen - Wandbeleuchtung
+
+Der absolute **Gewinner unter den Lösungen von 2020 ist die Idee der beleuchteten Wände im Wohnzimmer**. Die vor einigen Jahren beliebten Wandleuchten werden durch moderne Konstruktionen ersetzt - die gleichen, die auch für Lichtdecken verwendet werden. Was sind die Grenzen einer solchen Lösung? Die einzige Grenze ist Ihre eigene Vorstellungskraft. Wenn Sie einen wirklich guten Spezialisten beauftragen, können Sie jedes beliebige Wandbeleuchtungsprojekt durchführen.
+
+{% fig %}
+
+![Ungewöhnliche Wohnzimmerlampen - Wandbeleuchtung](/uploads/nietypowe_podswietlenie_salon_1.jpg "Ungewöhnliche Wohnzimmerlampen - Wandbeleuchtung")
+
+{% endfig %}
+
+## Stehleuchte für ein Wohnzimmer
+
+**Wohnzimmer-Stehlampen** sind eine großartige Ergänzung zu den Hauptlichtquellen in einem Raum. Sie sind besonders hilfreich, wenn Sie abends gerne und viel lesen. Ein gut beleuchtetes Buch kann Ihnen helfen, Ihre Augen vor Überanstrengung zu schützen. Lampen dieser Art können auch als perfekte Dekoration dienen.
 
 {:.distinction.distinction-information}
 
-Just a couple of years ago, smaller inconspicuous lamps were a more popular option. Today large shades attached to a bent stand are the common choice. It's a perfect solution for large living room spaces.
+Noch vor ein paar Jahren waren kleinere, unauffällige Lampen eine beliebtere Option. Heute sind große, an einem gebogenen Ständer befestigte Schirme die gängige Wahl. Es ist eine perfekte Lösung für große Wohnzimmerräume.
 
 {% fig %}
 
-![Floor lamp for a living room](/uploads/lampy_podlogowe_do_salonu_1.jpg "Floor lamp for a living room")
+![Stehleuchte für ein Wohnzimmer](/uploads/lampy_podlogowe_do_salonu_1.jpg "Stehleuchte für ein Wohnzimmer")
 
 {% endfig %}
 
-## Hanging living room lamps - DIY
+## Hängende Wohnzimmerlampen - DIY
 
-Do you like to be creative? Do you need an idea for an unusual living room lamp? You can make it yourself - the **DIY method**. It's quite easy. You can use a store-bought paper shade and decorate it, according to the result you wish to achieve. It's only one of many ideas.
+Sind Sie gerne kreativ? Brauchen Sie eine Idee für eine ungewöhnliche Wohnzimmerlampe? Das können Sie selbst machen - **die DIY-Methode.** Das ist ganz einfach. Sie können einen im Laden gekauften Papierschirm verwenden und ihn dekorieren, je nachdem, welches Ergebnis Sie erzielen möchten. Das ist nur eine von vielen Ideen.
 
-You can get equally interesting effect if you **make the lamp shade yourself**. For this purpose, you can use a flower pot. It all depends on your own creativity.
+Einen ebenso interessanten Effekt können Sie erzielen, wenn Sie den **Lampenschirm selbst anfertigen**. Zu diesem Zweck können Sie einen Blumentopf verwenden. Es hängt alles von Ihrer eigenen Kreativität ab.
 
 {% fig %}
 
-![Hanging living room lamps - DIY](/uploads/lampy_do_salonu_proste_diy_1.jpg "Hanging living room lamps - DIY")
+![Hängende Wohnzimmerlampen - DIY](/uploads/lampy_do_salonu_proste_diy_1.jpg "Hängende Wohnzimmerlampen - DIY")
 
 {% endfig %}
 
-**Find your own style and create an unusual interior with living room lighting.**
+Finden Sie Ihren eigenen Stil und schaffen Sie eine ungewöhnliche Einrichtung mit Wohnzimmerbeleuchtung.
 
-{% faqItem %} {% faqQuestion %} What type of lighting is best for living room? {% endfaqQuestion %}
+{% faqItem %} {% faqQuestion %} Welche Art von Beleuchtung eignet sich am besten für das Wohnzimmer? {% endfaqQuestion %}
 
-{% faqAnswer %} It is best to match the style of the living room lights with the style of the room. There are many ppossibilities - minimalist lamps are the most universal. If you want something more decorative, choose ornamental classic chandeliers or glamour style lamps. {% endfaqAnswer %} {% endfaqItem %}
+{% faqAnswer %} Es ist am besten, den Stil der Wohnzimmerleuchten auf den Stil des Raumes abzustimmen. Es gibt viele Möglichkeiten - minimalistische Lampen sind die universellsten. Wenn Sie etwas dekorativeres wünschen, wählen Sie ornamentale klassische Kronleuchter oder Lampen im Glamourstil.{% endfaqAnswer %} {% endfaqItem %}
 
-{% faqItem %} {% faqQuestion %} Where to place recessed lighting in living room? {% endfaqQuestion %}
+{% faqItem %} {% faqQuestion %} Wo soll die Einbaubeleuchtung im Wohnzimmer angebracht werden? {% endfaqQuestion %}
 
-{% faqAnswer %} You can create a pleasant, atmospheric glow by placing the lights by the ceiling. You can illuminate the whole room or choose just a part - over the sofa, the furniture or behind the TV. {% endfaqAnswer %} {% endfaqItem %}
+{% faqAnswer %} Sie können einen angenehmen, stimmungsvollen Schein erzeugen, indem Sie die Leuchten an der Decke platzieren. Sie können den ganzen Raum beleuchten oder nur einen Teil - über dem Sofa, den Möbeln oder hinter dem Fernseher - auswählen. {% endfaqAnswer %} {% endfaqItem %}
 
-{% faqItem %} {% faqQuestion %} How to design living room lighting? {% endfaqQuestion %}
+{% faqItem %} {% faqQuestion %} Wie entwirft man eine Wohnzimmerbeleuchtung? {% endfaqQuestion %}
 
-{% faqAnswer %} When designing a living room lighting, you should pay attention to several important aspects. The size of the room and access to the natural lighting are crucial. The rest lies in your own individual taste and the actual trends. {% endfaqAnswer %} {% endfaqItem %}
+{% faqAnswer %} Wenn Sie eine Wohnzimmerbeleuchtung entwerfen, sollten Sie auf mehrere wichtige Aspekte achten. Die Größe des Raumes und der Zugang zur natürlichen Beleuchtung sind entscheidend. Der Rest liegt in Ihrem individuellen Geschmack und den aktuellen Trends. {% endfaqAnswer %} {% endfaqItem %}
