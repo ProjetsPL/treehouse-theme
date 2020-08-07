@@ -94,7 +94,7 @@ Jedynym mankamentem przy zastosowaniu tej metody jest **ostry zapach octu**, kt�
 
 ### Czyszczenie pralki kwaskiem cytrynowym
 
-Jeżeli akurat zabrakło w domu wyżej wymienionych produktów, istnieje jeszcze trzecie rozwiązanie - **kwasek cytrynowy.** Środek ten idealnie sprawdza się do odkamieniania nie tylko pralki. Można nim czyścić również inne urządzenia narażone na ten szkodliwy osad - przykładowo czajnik lub ekspres do kawy.
+Jeżeli akurat zabrakło w domu wyżej wymienionych produktów, istnieje jeszcze trzecie rozwiązanie - **kwasek cytrynowy.** Środek ten idealnie sprawdza się do odkamieniania nie tylko pralki. Można nim czyścić również inne urządzenia narażone na ten szkodliwy osad - przykładowo czajnik lub [ekspres do kawy](https://treehouse.co/pl/recenzje/najlepsze-ekspresy-do-kawy.html).
 
 Jak **wyczyścić pralkę z użyciem kwasku cytrynowego**? Do pojemnika na proszek należy wsypać około 6 opakowań (czyli 120 g) substancji. Następnie trzeba wybrać program pustego prania w wysokiej temperaturze.
 
