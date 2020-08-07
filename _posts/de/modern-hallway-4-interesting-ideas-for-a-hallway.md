@@ -1,133 +1,134 @@
 ---
 layout: post
 date: 2020-08-07
-main_keywords: []
+main_keywords:
+- moderner flur
 toc: true
 promoted: false
 update_date: 2020-08-07
-title: Modern Hallway - 4 Interesting Ideas for a Hallway
-description: "How to easily decorate a modern hallway? \U0001F3E0 It doesn't have
-  to be a challenge. ➡️ See the most intriguing ideas and inspire yourself."
-intro: Wishing to be an owner of a modern hallway? Regardless whether your interior
-  is large or small - the most important part is a good idea. It's a room that should
-  invite your guests - therefore it should not only be aesthetic but also functional.
-  Find the most brilliant idea for your hallway - use some tips that will make it
-  easier for you.
+title: Moderner Flur - 4 interessante Ideen für einen Flur
+description: "Wie sich ein moderner Flur dekorieren? \U0001F3E0 Es muss keine Herausforderung
+  sein. ➡️ Sehen Sie sich die faszinierendsten Ideen an und inspirieren Sie sich."
+intro: Wollen Sie Besitzer eines modernen Flurs sein? Unabhängig davon, ob Ihr Interieur
+  groß oder klein ist - das Wichtigste ist eine gute Idee. Es ist ein Raum, der Ihre
+  Gäste einladen soll - deshalb sollte er nicht nur ästhetisch, sondern auch funktional
+  sein. Finden Sie die brillanteste Idee für Ihren Flur - nutzen Sie einige Tipps,
+  die es Ihnen leichter machen.
 image: "/uploads/nowoczesny-przedpokoj.jpg"
 related_products: []
 published: false
 
 ---
-## How to decorate a small hallway?
+## Wie schmückt man einen kleinen Flur?
 
-**Small hallways might be quite difficult to furnish.** One needs to fit everything in a small space, being careful not to make a mess. An obligatory element in a hallway is a coat rack. It's advised to find a place for footwear and, even better - a free wall for a mirror.
+**Kleine Flure können recht schwierig einzurichten sein**. Man muss alles auf engem Raum unterbringen und darauf achten, keine Unordnung zu machen. Ein obligatorisches Element in einem Flur ist eine Garderobe. Es ist ratsam, einen Platz für Schuhwerk zu finden und, noch besser - eine freie Wand für einen Spiegel.
 
-There are many clever solutions that will allow you to have all those elements - even in a narrow hall. Wondering how can it be possible? If you have a micro-scale hallway - consider getting a **custom-made furniture.**
+Es gibt viele clevere Lösungen, die es Ihnen ermöglichen, all diese Elemente zu haben - selbst in einem engen Flur. Sie fragen sich, wie das möglich sein kann? Wenn Sie einen Flur im Mikromaßstab haben - überlegen Sie, ob Sie sich **ein Möbel nach Maß** anfertigen lassen sollten.
 
 {% fig %}
 
-![How to decorate a small hallway?](/uploads/maly-przedpokoj.jpg "How to decorate a small hallway?")
+![Wie schmückt man einen kleinen Flur?](/uploads/maly-przedpokoj.jpg "Wie schmückt man einen kleinen Flur?")
 
 {% endfig %}
 
-**A shoe rack with a seat, coat rack panel and a mirror** is an excellent option. There are many companies who execute such projects, therefore it shouldn't be an expensive solution. Additionally, you can choose any color, so you can perfectly match such equipment with your project. It's a perfect idea for functional walls in a hallway - especially if it's small.
+**Ein Schuhregal mit einem Sitz, einer Garderobenplatte und einem Spiegel** ist eine ausgezeichnete Option. Es gibt viele Firmen, die solche Projekte ausführen, deshalb sollte es keine teure Lösung sein. Außerdem können Sie jede beliebige Farbe wählen, so dass Sie solche Ausstattung perfekt auf Ihr Projekt abstimmen können. Es ist eine perfekte Idee für funktionelle Wände in einem Flur - besonders wenn er klein ist.
 
-### Storage system in a small hallway
+### Lagersystem in einem kleinen Flur
 
-If you have a little bit more space in your hallway, consider getting more storage compartments. It's perfect if you could fit a closet. It is, however, not always a good idea - especially if it takes a lot of space. In such a case you could choose a **smaller chest of drawers or a rack with boxes.**
+Wenn Sie in Ihrem Flur etwas mehr Platz haben, sollten Sie mehr Ablagefächer in Erwägung ziehen. Es wäre perfekt, wenn Sie einen Schrank unterbringen könnten. Es ist jedoch nicht immer eine gute Idee - vor allem, wenn es viel Platz braucht. In einem solchen Fall könnten Sie eine kleinere **Kommode oder ein Regal mit Kästen** wählen.
 
 {:.distinction.distinction-information}
 
-Are there any nooks in your hallway? They can help you increase the functionality of the interior. **Turning a niche into a closet is a great idea.** You want the whole project to look modern? Choose minimalism - plain fronts and no handles.
+Gibt es irgendwelche Ecken in Ihrem Flur? Sie können Ihnen helfen, die Funktionalität des Innenraums zu erhöhen. **Eine Nische in einen Schrank zu verwandeln**, ist eine großartige Idee. Sie wollen, dass das ganze Projekt modern aussieht? Wählen Sie Minimalismus - schlichte Fronten und keine Griffe.
 
 {% fig %}
 
-![Storage system in a small hallway](/uploads/duzy-bialy-nowoczesny-przedpokoj.jpg "Storage system in a small hallway")
+![Lagersystem in einem kleinen Flur](/uploads/duzy-bialy-nowoczesny-przedpokoj.jpg "Lagersystem in einem kleinen Flur")
 
 {% endfig %}
 
-## A long and narrow hallway - decor ideas
+## Ein langer und schmaler Flur - Dekorationsideen
 
-Similar to small interiors - it might be difficult to make a **narrow, long hallway** a functional space. The usual solution involves hanging a classic wall coat rack on one side. Additionally - a mirror, and sometimes a small seat might also fit. But what about the other wall? How to decorate it?
+Ähnlich wie bei kleinen Innenräumen - es könnte schwierig sein, aus einem **schmalen, langen Flur** einen funktionalen Raum zu machen. Die übliche Lösung besteht darin, eine klassische Wandgarderobe an einer Seite aufzuhängen. Zusätzlich - ein Spiegel und manchmal auch ein kleiner Sitzplatz könnte ebenfalls passen. Aber was ist mit der anderen Wand? Wie kann sie dekoriert werden?
 
-A good idea for a modern hallway decor is **hanging some paintings, posters or framed pictures** on the wall. The trick is to make it so the room doesn't look smaller. So, instead of one large board with photos, hang separate frames on a rail.
+Eine gute Idee für eine moderne Flurdekoration ist es, einige **Gemälde, Poster oder gerahmte Bilder an die Wand zu hängen**. Der Trick ist, es so zu gestalten, dass der Raum nicht kleiner aussieht. Statt einer großen Tafel mit Fotos hängen Sie also separate Rahmen auf eine Schiene.
 
 {% fig %}
 
-![Long and narrow hallway - decor ideas](/uploads/obrazy-na-scianie.jpg "Long and narrow hallway - decor ideas")
+![Langer und schmaler Flur - Dekorationsideen](/uploads/obrazy-na-scianie.jpg "Langer und schmaler Flur - Dekorationsideen")
 
 {% endfig %}
 
 {% fig %}
 
-![Hallway ideas pictures](/uploads/nowoczesny-przedpokoj-obrazy.jpg "Hallway ideas pictures")
+![Bilder von Flurideen](/uploads/nowoczesny-przedpokoj-obrazy.jpg "Bilder von Flurideen")
 
 {% endfig %}
 
-You can choose such models that can be freely moved around - and change the arrangement from time to time. Another interesting option is illuminating each of the pictures. All you need is some light spots and the whole design will look modern and really impressive.
+Sie können solche Modelle wählen, die frei bewegt werden können - und die Anordnung von Zeit zu Zeit ändern. Eine weitere interessante Möglichkeit ist die Beleuchtung der einzelnen Bilder. Alles, was Sie brauchen, sind ein paar Lichtpunkte, und das ganze Design wird modern und wirklich beeindruckend aussehen.
 
 {:.distinction.distinction-information}
 
-Instead of posters or pictures in ornamental frames, you could use mirrors. It's quite an unusual solution, but it will look very futuristic.
+Statt Plakaten oder Bildern in Ornamentrahmen könnten Sie Spiegel verwenden. Das ist eine recht ungewöhnliche Lösung, aber sie wird sehr futuristisch aussehen.
 
 {% fig %}
 
-![Hallway decor mirror](/uploads/lustra-na-scianie.jpg "Hallway decor mirror")
+![Flur-Dekor-Spiegel](/uploads/lustra-na-scianie.jpg "Flur-Dekor-Spiegel")
 
 {% endfig %}
 
 {% fig %}
 
-![Hallway decor mirrors](/uploads/rozne-lustra-na-scianie.jpg "Hallway decor mirrors")
+![Flurdekor-Spiegel](/uploads/rozne-lustra-na-scianie.jpg "Flurdekor-Spiegel")
 
 {% endfig %}
 
-**Hanging shelves** have been a popular trend of the recent years. They often use metal elements or cords. You can place your favourite plants on them.
+**Hängende Regale** waren in den letzten Jahren ein beliebter Trend. Sie verwenden oft Metallelemente oder Schnüre. Sie können Ihre Lieblingspflanzen darauf platzieren.
 
 {% fig %}
 
-![Hallway decor ideas shelf](/uploads/polki-z-kwiatami-przedpokoj.jpg "Hallway decor ideas shelf")
+![Regal für Dekorationsideen im Flur](/uploads/polki-z-kwiatami-przedpokoj.jpg "Regal für Dekorationsideen im Flur")
 
 {% endfig %}
 
-## Moulding on hallway walls? A great idea!
+## Schimmelpilze an Flurwänden? Eine großartige Idee!
 
-**Moulding on a wall** is a very interesting idea for a hallway decor. It will look excellent especially in high ceiling interiors. In this case you can create a really impressive, extensive arrangement.
+Die Wandverkleidung ist eine sehr interessante Idee für eine Flurdekoration. Vor allem in Innenräumen mit hohen Decken wird es hervorragend aussehen. In diesem Fall können Sie ein wirklich beeindruckendes, umfangreiches Arrangement schaffen.
 
-Home interiors typically use styrofoam moulding, which is lightweight and easy to install - even by one person. It can be adjusted using a common utility knife. Such **decorative elements are available in different variants.** You can choose from classic chair rails or rosettes - they are used mostly for ceilings.
+In Innenräumen werden in der Regel Styroporformteile verwendet, die leicht und einfach zu installieren sind - sogar von einer Person. Sie können mit einem gewöhnlichen Universalmesser angepasst werden. Solche **dekorativen Elemente sind in verschiedenen Varianten erhältlich**. Sie können zwischen klassischen Stuhlschienen oder Rosetten wählen - sie werden meist für Decken verwendet.
 
 {% fig %}
 
-![Moulding on hallway walls? A great idea!](/uploads/sztukateria-na-scianie-korytarz.jpg "Moulding on hallway walls? A great idea!")
+![Schimmelpilze an Flurwänden? Eine großartige Idee!](/uploads/sztukateria-na-scianie-korytarz.jpg "Schimmelpilze an Flurwänden? Eine großartige Idee!")
 
 {% endfig %}
 
-Many homeowners believe that moulding can be only white. While it is true that the manufacturers offer the ornaments mostly in this color, **you can easily paint them over**. So, if your dream is a plain grey wall with a moulding on it - just install the element and paint it in a chosen color.
+Viele Hausbesitzer glauben, dass Leisten nur weiß sein können. Es stimmt zwar, dass die Hersteller die Ornamente meist in dieser Farbe anbieten, aber **man kann sie leicht übermalen**. Wenn Ihr Traum also eine schlichte graue Wand mit einer Leiste darauf ist - bauen Sie das Element einfach ein und streichen Sie es in einer gewählten Farbe.
 
 {:.distinction.distinction-information}
 
-A modern hallway is a result of your own creativity - so you can create interesting compositions - provided that you have enough space for it. A wall with a moulding doesn't have to be in just one color. You can use moulding to divide two shades. Decorative elements could be placed in the lower part by the floor. The upper part could use other decorations, like the aforementioned framed pictures. Remember that the styles of those two areas should correspond.
+Ein moderner Flur ist das Ergebnis Ihrer eigenen Kreativität - so können Sie interessante Kompositionen schaffen - vorausgesetzt, Sie haben genügend Platz dafür. Eine Wand mit einer Leiste muss nicht nur in einer Farbe sein. Sie können eine Leiste verwenden, um zwei Farbtöne zu unterteilen. Dekorative Elemente könnten im unteren Teil am Boden platziert werden. Im oberen Teil könnten andere Dekorationen verwendet werden, wie die bereits erwähnten gerahmten Bilder. Denken Sie daran, dass die Stile dieser beiden Bereiche übereinstimmen sollten.
 
 {% fig %}
 
-![Wall mouding decoration](/uploads/sztukateria-na-scianie-przedpokoj.jpg "Wall mouding decoration")
+![Wanddekoration](/uploads/sztukateria-na-scianie-przedpokoj.jpg "Wanddekoration")
 
 {% endfig %}
 
-## Custom photo wallpaper in the hallway
+## Benutzerdefinierte Fototapete im Flur
 
-You own a really large hallway? Have you taken care of all the basic elements but you seek inspiration and wonder what to install on the wall so that the hallway look really modern? Photograph wallpapers have become quite popular in the recent years. Thanks to them, you can bring a romantic old town, lavender fields of Provence or a forest into you interior. Manufacturers offer a lot of designs, so finding the right picture shouldn't be a problem. The pictures look highly realistic, so you can achieve an astonishing result.
+Sie besitzen einen wirklich großen Flur? Haben Sie sich um alle Grundelemente gekümmert, aber Sie suchen nach Inspiration und fragen sich, was Sie an der Wand anbringen sollen, damit der Flur wirklich modern aussieht? Fototapeten sind in den letzten Jahren sehr beliebt geworden. Dank ihnen können Sie eine romantische Altstadt, Lavendelfelder der Provence oder einen Wald in Ihr Inneres holen. Die Hersteller bieten eine Vielzahl von Designs an, so dass es kein Problem sein dürfte, das richtige Bild zu finden. Die Bilder sehen sehr realistisch aus, so dass Sie ein erstaunliches Ergebnis erzielen können.
 
 {% fig %}
 
-![Custom photo wallpaper in the hallway](/uploads/nowoczesny-przedpokoj-fototapeta.jpg "Custom photo wallpaper in the hallway")
+![Benutzerdefinierte Fototapete im Flur](/uploads/nowoczesny-przedpokoj-fototapeta.jpg "Benutzerdefinierte Fototapete im Flur")
 
 {% endfig %}
 
-**You can cover the entire wall with a photo wallpaper - but that is just one of the options.** You can also put in on one chosen part. All depends on your individual preferences.
+**Sie können die gesamte Wand mit einer Fototapete bedecken - aber das ist nur eine der Möglichkeiten**. Sie können auch nur einen ausgewählten Teil der Wand bekleben. Alles hängt von Ihren individuellen Vorlieben ab.
 
 {:.distinction.distinction-information}
 
-When using a wallpaper, challenge your own creativity to achieve impressive results. For instance, you can choose a forest wallpaper and hang a coat rack where a branch has been printed.
+Wenn Sie eine Tapete verwenden, fordern Sie Ihre eigene Kreativität heraus, um beeindruckende Ergebnisse zu erzielen. Sie können zum Beispiel eine Waldtapete wählen und eine Garderobe aufhängen, auf der ein Ast gedruckt wurde.
 
-If you choose a style for a modern hallway, remember about the most important aspect. The priority is the **functionality of the interior**.
+Wenn Sie einen Stil für einen modernen Flur wählen, denken Sie an den wichtigsten Aspekt. Die Priorität ist die **Funktionalität des Innenraums**.
