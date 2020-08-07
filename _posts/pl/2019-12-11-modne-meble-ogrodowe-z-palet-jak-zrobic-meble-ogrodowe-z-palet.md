@@ -81,7 +81,7 @@ Zanim będzie można wykonać **meble ogrodowe z palet**, należy zaopatrzyć si
 * impregnat do drewna,
 * emalia do drewna - jeżeli meble mają mieć określony kolor,
 * narzędzia malarskie - pędzle i wałki,
-* dodatkowe elementy - kółka, szklane blaty, poduszki, koce, materace.
+* dodatkowe elementy - kółka, szklane blaty, poduszki, koce, [materace](https://treehouse.co/pl/recenzje/najlepsze-materace.html "Najlepsze Materac").
 
 {% fig %}
 ![Jak zrobić meble z palet?](/uploads/meble-ogrodowe-z-palet-jak-je-zrobic-1.jpg "Jak zrobić meble z palet?")
@@ -111,7 +111,7 @@ Po wykonaniu **dokładnego projektu**, uwzględniającego ilość stosowanych pa
 ![Meble ogrodowe z palet - krok po kroku](/uploads/meble-ogrodowe-z-palet-krok-po-kroku.jpg "Meble ogrodowe z palet - krok po kroku")
 {% endfig %}
 
-Jeśli pomalowane elementy dokładnie wyschły, można zacząć łączyć je w **meble ogrodowe z palet**. Do łączenia należy wykorzystać śruby, kątowniki lub płaskowniki. Mocowania najlepiej wykonać w miejscach, które będą najmniej widoczne, czyli spody i boki palet. Do stolików warto dodać kółeczka, aby łatwiej było je przesuwać. Po połączeniu wszystkich elementów w całość wystarczy uzupełnić je dodatkami. **Siedziska** można zaopatrzyć w wygodne materace lub dekoracyjne poduszki.
+Jeśli pomalowane elementy dokładnie wyschły, można zacząć łączyć je w **meble ogrodowe z palet**. Do łączenia należy wykorzystać śruby, kątowniki lub płaskowniki. Mocowania najlepiej wykonać w miejscach, które będą najmniej widoczne, czyli spody i boki palet. Do stolików warto dodać kółeczka, aby łatwiej było je przesuwać. Po połączeniu wszystkich elementów w całość wystarczy uzupełnić je dodatkami. **Siedziska** można zaopatrzyć w wygodne [materace](https://treehouse.co/pl/recenzje/najlepsze-materace.html "Najlepsze materace") lub dekoracyjne poduszki.
 
 ## Przykładowe meble z europalet
 
