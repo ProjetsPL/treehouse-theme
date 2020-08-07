@@ -187,7 +187,7 @@ To doskonała opcja, którą możesz dowolnie zmieniać w zależności od pojawi
 
 Ożywienie białej kuchni to nie zawsze wprowadzanie do niej mocnych akcentów kolorystycznych. Na pewno nie jest to rozwiązanie dla osób, które cenią sobie klasykę i elegancję. Co w takim przypadku? Wybierz **srebro lub złoto, które są ponadczasowe i pasują do każdego wnętrza**. To bardzo stylowe ożywienie pomieszczenia.
 
-W tym przypadku doskonale sprawdzi się wyposażenie w takiej kolorystyce. Srebrny sprzęt AGD - **lodówki, kuchenki, okapy, ekspresy do kawy**.
+W tym przypadku doskonale sprawdzi się wyposażenie w takiej kolorystyce. Srebrny sprzęt AGD - **lodówki, kuchenki, okapy,** [**ekspresy do kawy**](https://treehouse.co/pl/recenzje/najlepsze-ekspresy-do-kawy.html).
 
 {% fig %}
 ![Złote i srebrne wykończenia białej kuchni](/uploads/biala-kuchnia-srebro.jpg "Złote i srebrne wykończenia białej kuchni")
