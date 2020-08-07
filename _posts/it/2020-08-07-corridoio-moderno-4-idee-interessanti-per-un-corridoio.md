@@ -7,8 +7,8 @@ toc: true
 promoted: false
 update_date: 2020-08-07
 title: Corridoio Moderno - 4 Idee Interessanti per un Corridoio
-description: "How to easily decorate a modern hallway? \U0001F3E0 It doesn't have
-  to be a challenge. ➡️ See the most intriguing ideas and inspire yourself."
+description: "Come decorare facilmente un corridoio moderno? \U0001F3E0 Non deve essere
+  una sfida. ➡️ Vedere le idee più intriganti e ispirarsi."
 intro: Desideri essere proprietario di un corridoio moderno? Indipendentemente dal
   fatto che il vostro interno sia grande o piccolo - la parte più importante è una
   buona idea. È una stanza che dovrebbe invitare i vostri ospiti - quindi non dovrebbe
@@ -19,49 +19,49 @@ related_products: []
 published: false
 
 ---
-## How to decorate a small hallway?
+## Come decorare un piccolo corridoio?
 
-**Small hallways might be quite difficult to furnish.** One needs to fit everything in a small space, being careful not to make a mess. An obligatory element in a hallway is a coat rack. It's advised to find a place for footwear and, even better - a free wall for a mirror.
+**I corridoi piccoli possono essere piuttosto difficili da arredare.** Bisogna inserire tutto in un piccolo spazio, facendo attenzione a non creare disordine. Un elemento obbligatorio in un corridoio è l'appendiabiti. Si consiglia di trovare un posto per le calzature e, ancora meglio, una parete libera per lo specchio.
 
-There are many clever solutions that will allow you to have all those elements - even in a narrow hall. Wondering how can it be possible? If you have a micro-scale hallway - consider getting a **custom-made furniture.**
+Ci sono molte soluzioni intelligenti che vi permetteranno di avere tutti questi elementi - anche in un corridoio stretto. Vi chiedete come può essere possibile? Se avete un corridoio in microscala - considerate la possibilità di **procurarvi un arredamento su misura.**
 
 {% fig %}
 
-![How to decorate a small hallway?](/uploads/maly-przedpokoj.jpg "How to decorate a small hallway?")
+![Come decorare un piccolo corridoio?](/uploads/maly-przedpokoj.jpg "Come decorare un piccolo corridoio?")
 
 {% endfig %}
 
-**A shoe rack with a seat, coat rack panel and a mirror** is an excellent option. There are many companies who execute such projects, therefore it shouldn't be an expensive solution. Additionally, you can choose any color, so you can perfectly match such equipment with your project. It's a perfect idea for functional walls in a hallway - especially if it's small.
+**Un portascarpe con sedile, pannello appendiabiti e specchio** è un'ottima opzione. Ci sono molte aziende che realizzano tali progetti, quindi non dovrebbe essere una soluzione costosa. Inoltre, è possibile scegliere qualsiasi colore, in modo da poter abbinare perfettamente tali attrezzature al proprio progetto. È un'idea perfetta per pareti funzionali in un corridoio - soprattutto se è piccolo.
 
-### Storage system in a small hallway
+### Sistema di stoccaggio in un piccolo corridoio
 
-If you have a little bit more space in your hallway, consider getting more storage compartments. It's perfect if you could fit a closet. It is, however, not always a good idea - especially if it takes a lot of space. In such a case you could choose a **smaller chest of drawers or a rack with boxes.**
+Se avete un po' più di spazio nel vostro corridoio, prendete in considerazione la possibilità di avere più vani portaoggetti. È perfetto se si potesse inserire un armadio. Tuttavia, non è sempre una buona idea - soprattutto se richiede molto spazio. In tal caso potreste scegliere **una cassettiera più piccola o uno scaffale con le scatole**.
 
 {:.distinction.distinction-information}
 
-Are there any nooks in your hallway? They can help you increase the functionality of the interior. **Turning a niche into a closet is a great idea.** You want the whole project to look modern? Choose minimalism - plain fronts and no handles.
+Ci sono degli angolini nel tuo corridoio? Possono aiutarvi ad aumentare la funzionalità degli interni. **Trasformare una nicchia in un armadio è una grande idea**. Volete che l'intero progetto sia moderno? Scegliete il minimalismo - facciate semplici e senza maniglie.
 
 {% fig %}
 
-![Storage system in a small hallway](/uploads/duzy-bialy-nowoczesny-przedpokoj.jpg "Storage system in a small hallway")
+![Sistema di stoccaggio in un piccolo corridoio](/uploads/duzy-bialy-nowoczesny-przedpokoj.jpg "Sistema di stoccaggio in un piccolo corridoio")
 
 {% endfig %}
 
-## A long and narrow hallway - decor ideas
+## Un corridoio lungo e stretto - idee di arredamento
 
-Similar to small interiors - it might be difficult to make a **narrow, long hallway** a functional space. The usual solution involves hanging a classic wall coat rack on one side. Additionally - a mirror, and sometimes a small seat might also fit. But what about the other wall? How to decorate it?
+Simile ai piccoli interni - potrebbe essere difficile rendere funzionale un **corridoio stretto e lungo** come uno spazio funzionale. La soluzione più comune è quella di appendere un classico appendiabiti a parete su un lato. Inoltre - uno specchio, e a volte anche una piccola seduta potrebbe andare bene. E l'altra parete? Come decorarla?
 
-A good idea for a modern hallway decor is **hanging some paintings, posters or framed pictures** on the wall. The trick is to make it so the room doesn't look smaller. So, instead of one large board with photos, hang separate frames on a rail.
+Una buona idea per un arredamento moderno del corridoio è **appendere alla parete alcuni dipinti, poster o quadri incorniciati.** Il trucco è far sì che la stanza non sembri più piccola. Così, invece di una grande lavagna con le foto, appendere cornici separate su una ringhiera.
 
 {% fig %}
 
-![Long and narrow hallway - decor ideas](/uploads/obrazy-na-scianie.jpg "Long and narrow hallway - decor ideas")
+![Corridoio lungo e stretto - idee di arredamento](/uploads/obrazy-na-scianie.jpg "Corridoio lungo e stretto - idee di arredamento")
 
 {% endfig %}
 
 {% fig %}
 
-![Hallway ideas pictures](/uploads/nowoczesny-przedpokoj-obrazy.jpg "Hallway ideas pictures")
+![Idee per i corridoi - immagini](/uploads/nowoczesny-przedpokoj-obrazy.jpg "Idee per i corridoi - immagini")
 
 {% endfig %}
 
