@@ -29,9 +29,10 @@ related_products: []
 ---
 ## Living room lighting - modern and minimalistic
 
-Do you want to change the outdated illumination in your room? Do you like **simple, uncomplicated forms and minimalism?** The lamps you choose can reflect those features perfectly. Such elements have been quite popular recently. The most characteristic features of a room lighting of this type are:
+Do you want to change the outdated illumination in your room? Do you like **simple, uncomplicated forms and minimalism?** The lamps you choose can reflect those features perfectly. Such elements have been **quite popular recently**. The most characteristic features of a room lighting of this type are:
 
 {:.list}
+
 * simple design,
 * reference to traditional lightbulbs aesthetics,
 * exposed lightbulbs.
