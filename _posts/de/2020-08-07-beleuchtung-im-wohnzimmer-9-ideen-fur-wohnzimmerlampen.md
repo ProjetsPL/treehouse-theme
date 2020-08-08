@@ -5,7 +5,7 @@ main_keywords: []
 toc: true
 promoted: false
 update_date: 2020-08-07
-title: Wohnzimmer-Beleuchtung. 9 Brillante Ideen für Wohnzimmerlampen
+title: Beleuchtung im Wohnzimmer. 9 Ideen für Wohnzimmerlampen
 description: "Suchen Sie nach einer Lampe für Wohnzimmer? \U0001F4A1 Sehen Sie sich
   die besten Modelle an. ➡️ Holen Sie sich die schönste Wohnzimmerbeleuchtung."
 intro: Ein Wohnzimmer ist der besondere Ort in einem Haus - dort verbringt man die
