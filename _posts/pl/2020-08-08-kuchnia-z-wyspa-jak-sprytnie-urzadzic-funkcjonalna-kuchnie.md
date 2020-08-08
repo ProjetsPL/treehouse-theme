@@ -13,7 +13,7 @@ promoted: false
 update_date: 2020-08-08
 title: Kuchnia z Wyspą - Jak Sprytnie Urządzić Funkcjonalną Kuchnię?
 description: "Marzy Ci się kuchnia z wyspą i szukasz inspiracji? \U0001F374 Postaw
-  na nowoczesny projekt. \U0001F449Sprawdź, jak różnie może wyglądać wyspa w kuchni."
+  na nowoczesny projekt. \U0001F449 Sprawdź, jak różnie może wyglądać wyspa w kuchni."
 intro: Kuchnia to jedno z głównych pomieszczeń w każdym domu. To tam większość osób
   spędza sporą część wolnego czasu - szczególnie, jeżeli pomieszczenie połączone jest
   z salonem. W takiej sytuacja doskonale sprawdzi się kuchnia z wyspą.  Chociaż takie
