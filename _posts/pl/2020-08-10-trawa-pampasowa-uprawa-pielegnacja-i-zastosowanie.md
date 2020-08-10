@@ -149,13 +149,3 @@ Trawa pampasowa - jak szybko rośnie?
 Trawa pampasowa rośnie stosunkowo bardzo szybko. Już w trakcie jednego sezonu jest w stanie osiągnąć maksymalne wysokości - do 2 metrów liście i pół metra kwiatostany. Wyjątkiem są miniaturki trawy pampasowej.
 {% endfaqAnswer %}
 {% endfaqItem %}
-
-{% faqItem %}
-{% faqQuestion %}
-Ile kosztuje czyszczenie pralki?
-{% endfaqQuestion %}
-
-{% faqAnswer %}
-Koszt domowych sposobów na czyszczenie pralki to zaledwie kilka złotych. Wiąże się to jedynie z zakupem środków, takich jak ocet, soda lub kwasek cytrynowy. Jest to rozwiązanie o wiele tańsze, niż stosowanie specjalistycznych produktów do czyszczenia.
-{% endfaqAnswer %}
-{% endfaqItem %}
