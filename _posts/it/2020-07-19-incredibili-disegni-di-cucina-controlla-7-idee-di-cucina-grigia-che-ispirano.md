@@ -18,7 +18,7 @@ main_keywords:
 - pareti grigie della cucina
 toc: true
 promoted: false
-update_date: 2020-07-19
+update_date: 2020-08-11
 title: Incredibili disegni di cucina - Controlla 7 idee di cucina grigia che ispirano
 description: "La cucina grigia è un classico, ma non deve essere per forza noiosa!
   \U0001F4A1 Cerchi idee per la cucina grigia? ➡️ Controlla i migliori design di mobili
@@ -110,6 +110,11 @@ Gli armadietti da cucina grigi sono spesso utilizzati in molti arredamenti d'int
 * Ripiani superiori della cucina in colore grigio - gli armadi da cucina grigi del livello superiore hanno un aspetto molto elegante. Fanno sembrare la cucina di classe e raffinata.
 * Tutto in grigio - i frontali grigi, i banconi, gli elettrodomestici e gli infissi in acciaio inox sono una combinazione interessante, e saranno alla moda per molto tempo.
 
+{% fig %}
+![Come si usano gli armadietti da cucina grigi? 3 modi semplici](/uploads/nowoczesna-szara-kuchnia.jpg "Come si usano gli armadietti da cucina grigi? 3 modi semplici")
+{% endfig %}
+
+
 {:.distinction.distinction-warning}
 I mobili da cucina grigi potrebbero sopraffare visivamente tutto l'interno, quindi dovrebbero essere applicati solo in cucine grandi e spaziose.
 
@@ -159,6 +164,10 @@ Se i mobili da cucina grigi hanno una tonalità scura, si possono combinare con 
 I mobili da cucina grigi devono essere ben illuminati, soprattutto se di colore grigio scuro. Assicuratevi, subito prima di fare un acquisto, che la luce non defletta i colori, il che potrebbe far apparire il frontale grigio in modo poco gradevole.
 
 Una cucina classica grigia non è noiosa, a patto che la tradizione sia sostenuta da un po' di modernità.
+
+{% fig %}
+![I mobili da cucina grigi ](/uploads/oryginalna-szara-kuchnia.jpg "I mobili da cucina grigi ")
+{% endfig %}
 
 {% faqItem %}
 {% faqQuestion %}
