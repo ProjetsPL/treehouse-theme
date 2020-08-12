@@ -18,7 +18,7 @@ main_keywords:
 - graue Küchenwände
 toc: true
 promoted: false
-update_date: 2020-07-19
+update_date: 2020-08-12
 title: Erstaunliche Küchendesigns - 7 inspirierende Ideen für die graue Küche
 description: "Die graue Küche ist ein Klassiker, aber sie muss nicht langweilig sein!
   \U0001F4A1 Auf der Suche nach Ideen für eine graue Küche? ➡️ Sehen Sie sich die
@@ -111,6 +111,10 @@ Graue Küchenschränke werden häufig in vielen Inneneinrichtungen verwendet, un
 * Obere Küchenregale in grauer Farbe - graue Küchenschränke im oberen Stockwerk sehen sehr elegant aus. Sie lassen die Küche stilvoll und raffiniert aussehen.
 * Alles in Grau - graue Fronten, Theken, Geräte und Einbauten aus Edelstahl sind eine interessante Kombination, die für lange Zeit im Trend liegen wird.
 
+{% fig %}
+![Wie benutzt man graue Küchenschränke? 3 einfache Wege](/uploads/nowoczesna-szara-kuchnia.jpg "Wie benutzt man graue Küchenschränke? 3 einfache Wege")
+{% endfig %}
+
 {:.distinction.distinction-warning}
 Graue Küchenmöbel können das gesamte Interieur optisch überwältigen, daher sollten sie nur in großen, geräumigen Küchen eingesetzt werden.
 
@@ -160,6 +164,10 @@ Wenn graue Küchenschränke dunkle Farbtöne haben, können Sie sie mit hellen W
 Graue Küchenschränke sollten gut ausgeleuchtet sein, besonders wenn es sich um eine dunkelgraue Farbe handelt. Vergewissern Sie sich unmittelbar vor dem Kauf, ob das Licht die Farben nicht ablenkt, was die graue Front schlecht aussehen lassen könnte.
 
 Eine klassisch graue Küche ist nicht langweilig, vorausgesetzt, dass die Tradition durch ein wenig Modernität unterstützt wird.
+
+{% fig %}
+![Graue Küchenschränke](/uploads/oryginalna-szara-kuchnia.jpg "Graue Küchenschränke")
+{% endfig %}
 
 {% faqItem %}
 {% faqQuestion %}
