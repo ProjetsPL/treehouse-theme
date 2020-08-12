@@ -13,7 +13,7 @@ main_keywords:
 - " szare szafki kuchenne"
 toc: true
 promoted: false
-update_date: 2020-06-26
+update_date: 2020-08-12
 title: Szara Kuchnia - 7 Pomysłów na Modne Szare Meble Kuchenne
 description: "Szara kuchnia to klasyka, która wcale nie musi być nudna. \U0001F4A1
   Szukasz pomysłu na aranżację? ➡️ Sprawdź, jak wykorzystać szare meble kuchenne."
@@ -104,6 +104,10 @@ Szare meble kuchenne są często wybierane do aranżacji wnętrz i choć wygląd
 * **Górne szafki kuchenne w w odcieniach szarości** - szare meble kuchenne zastosowane w górnej zabudowie to rozwiązanie do eleganckiej kuchni. Taka zabudowa nada pomieszczeniu klasy i eleganckiego stylu.
 * **Pełna zabudowa kuchni z szarych mebli** - szare fronty, blaty, sprzęt AGD oraz ceramika i armatura w wykończeniu ze stali nierdzewnej to ciekawe zestawienie, które będzie na topie przez długi czas.
 
+{% fig %}
+![Jak dobrze wykorzystać szare meble kuchenne? 3 proste sposoby](/uploads/nowoczesna-szara-kuchnia.jpg "Jak dobrze wykorzystać szare meble kuchenne? 3 proste sposoby")
+{% endfig %}
+
 {:.distinction.distinction-warning}  
 Szara zabudowa potrafi optycznie przytłoczyć pomieszczenie, dlatego zaleca się wykorzystywać ją w kuchniach przestronnych, o dużym metrażu.
 
@@ -143,6 +147,10 @@ Jeśli szare szafki kuchenne mają ciemny odcień, można zestawić je niekoniec
 Szare szafki kuchenne powinny też być odpowiednio oświetlone, zwłaszcza jeśli zdecydowałeś się na kolor ciemnoszary. Tuż przed zakupem warto sprawdzić, czy wybrane światło nie zakłamuje kolorów, przez co szare fonty mogą wyglądać niekorzystnie.
 
 Klasyczna, szara kuchnia nie będzie nudna pod warunkiem, że tradycyjne rozwiązanie przełamiesz odrobiną nowoczesności.
+
+{% fig %}
+![Szare szafki kuchenne](/uploads/oryginalna-szara-kuchnia.jpg "Szare szafki kuchenne")
+{% endfig %}
 
 {% faqItem %}
 {% faqQuestion %}  
