@@ -18,7 +18,7 @@ main_keywords:
 - paredes grises de la cocina
 toc: true
 promoted: false
-update_date: 2020-07-19
+update_date: 2020-08-12
 title: Increíbles diseños de cocina - compruebe 7 ideas inspiradoras de cocina gris
 description: "La cocina gris es un clásico, pero no tiene por qué ser aburrida. \U0001F4A1
   ¿Buscando ideas para la cocina gris? ➡️ Revisa los mejores diseños de gabinetes
@@ -111,6 +111,10 @@ Los armarios de cocina grises se utilizan a menudo en muchos diseños de interio
 * Estantes superiores de la cocina en color gris - los armarios superiores de la cocina en color gris se ven muy elegantes. Hacen que la cocina parezca elegante y refinada.
 * Todo en gris - los frentes, mostradores, electrodomésticos y accesorios de acero inoxidable en gris son una combinación interesante, y estarán de moda durante mucho tiempo.
 
+{% fig %}
+![¿Cómo usar los armarios de cocina grises? 3 maneras fáciles](/uploads/nowoczesna-szara-kuchnia.jpg "¿Cómo usar los armarios de cocina grises? 3 maneras fáciles")
+{% endfig %}
+
 {:.distinction.distinction-warning}
 Los muebles de cocina grises pueden abrumar visualmente todo el interior, por lo que deben aplicarse sólo en cocinas grandes y espaciosas.
 
@@ -160,6 +164,10 @@ Si los gabinetes de cocina grises tienen un tono oscuro, puede combinarlos con p
 Los gabinetes de cocina grises deben estar bien iluminados, especialmente si es de color gris oscuro. Asegúrese, justo antes de hacer una compra, si la luz no desvía los colores, lo que podría hacer que el frente gris se vea mal.
 
 Una cocina gris clásica no es aburrida, siempre que la tradición se apoye en un poco de modernidad.
+
+{% fig %}
+![Los gabinetes de cocina](/uploads/oryginalna-szara-kuchnia.jpg "Los gabinetes de cocina")
+{% endfig %}
 
 {% faqItem %}
 {% faqQuestion %}
