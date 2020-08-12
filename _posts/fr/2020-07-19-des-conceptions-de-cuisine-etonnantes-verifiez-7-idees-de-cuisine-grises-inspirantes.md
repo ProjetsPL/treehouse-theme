@@ -18,7 +18,7 @@ main_keywords:
 - murs de cuisine gris
 toc: true
 promoted: false
-update_date: 2020-07-19
+update_date: 2020-08-12
 title: Des conceptions de cuisine étonnantes - Vérifiez 7 idées de cuisine grises
   inspirantes
 description: "La cuisine grise est un classique, mais elle n'a pas besoin d'être ennuyeuse
@@ -102,7 +102,7 @@ Lorsque vous choisissez des armoires de cuisine blanches et un comptoir gris, il
 ![White kitchen with a grey countertop – an intriguing design idea](/uploads/biala-kuchnia-z-szarym-blatem.jpg "White kitchen with a grey countertop – an intriguing design idea")
 {% endfig %}
 
-## Comment utiliser les armoires de cuisine grises ? 3 façons simples
+## Comment utiliser les armoires de cuisine grises? 3 façons simples
 
 Les armoires de cuisine grises sont souvent utilisées dans de nombreux aménagements intérieurs et, bien qu'elles aient l'air simples et classiques, elles peuvent être utilisées de nombreuses façons. Il existe trois règles qui facilitent grandement la conception des armoires de cuisine grises :
 
@@ -111,6 +111,10 @@ Les armoires de cuisine grises sont souvent utilisées dans de nombreux aménage
 * Les armoires inférieures en gris - placer des armoires de cuisine grises au fond est l'une des solutions les plus populaires. Des fonds sombres et des dessus clairs peuvent alléger visuellement les murs et donner l'impression que la pièce est plus grande.
 * Étagères de cuisine supérieures en gris - les armoires de cuisine grises du niveau supérieur sont très élégantes. Ils donnent à la cuisine une allure de classe et de raffinement.
 * Tout en gris - les façades, les comptoirs, les appareils et les luminaires en acier inoxydable sont une combinaison intéressante, et ils seront à la mode pendant longtemps.
+
+{% fig %}
+![Comment utiliser les armoires de cuisine grises? 3 façons simples](/uploads/nowoczesna-szara-kuchnia.jpg "Comment utiliser les armoires de cuisine grises? 3 façons simples")
+{% endfig %}
 
 {:.distinction.distinction-warning}
 Grey kitchen furniture might overwhelm the whole interior visually, therefore it should be appliqué uniquement dans les grandes cuisines spacieuses.
@@ -161,6 +165,10 @@ Si les armoires de cuisine grises ont une teinte sombre, vous pouvez les combine
 Les armoires de cuisine grises doivent être bien éclairées, surtout si elles sont de couleur gris foncé. Assurez-vous, juste avant de faire un achat, que la lumière ne dévie pas les couleurs, ce qui pourrait donner une mauvaise image de la façade grise.
 
 Une cuisine grise classique n'est pas ennuyeuse, à condition que la tradition soit soutenue par un peu de modernité.
+
+{% fig %}
+![Les armoires de cuisine grises ](/uploads/oryginalna-szara-kuchnia.jpg "Les armoires de cuisine grises ")
+{% endfig %}
 
 {% faqItem %}
 {% faqQuestion %}
