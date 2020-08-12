@@ -13,7 +13,7 @@ intro: Cenisz sobie wyjątkowy czas świąteczny? To dobry moment na odpoczynek 
   przyozdobić wnętrze swojego domu lub mieszkania. Ozdoby świąteczne jeszcze bardziej
   podkreślają magiczny czas. Możesz wykonać je samodzielnie. Sprawdź, 10 pomysłów
   na ozdoby bożonarodzeniowe, które w tym roku będą najpopularniejsze.
-image: ''
+image: "/uploads/ozdoby-swiateczne.jpg"
 related_products: []
 published: false
 
