@@ -18,7 +18,7 @@ main_keywords:
 - grey kitchen walls
 toc: true
 promoted: false
-update_date: 2020-07-03
+update_date: 2020-08-12
 title: Amazing Kitchen Designs – Check 7 Inspiring Grey Kitchen Ideas
 description: "Grey kitchen is a classic, but it doesn't have to be boring! \U0001F4A1
   Looking for grey kitchen ideas? ➡️ Check the best gray kitchen cabinets designs."
@@ -109,6 +109,10 @@ Grey kitchen cabinets are often used in many interior designs, and although they
 * **Upper kitchen shelves in grey color** – upper level grey kitchen cupboards look very elegant. They make the kitchen look classy and refined.
 * **All in grey** – grey fronts, counters, appliances and fixtures made of stainless steel is an interesting combination, and it will be trendy for a long time.
 
+{% fig %}
+![How to use grey kitchen cabinets? 3 easy ways](/uploads/nowoczesna-szara-kuchnia.jpg "How to use grey kitchen cabinets? 3 easy ways")
+{% endfig %}
+
 {:.distinction.distinction-warning}
 Grey kitchen furniture might overwhelm the whole interior visually, therefore it should be applied in large, spacious kitchens only.
 
@@ -158,6 +162,10 @@ If grey kitchen cabinets have dark shade, you might combine them with light wall
 Grey kitchen cabinets should be well illuminated, especially if it's a dark grey color. Make sure, right before making a purchase, whether the light doesn't deflect the colors, which might make the grey front look poorly.
 
 A classic grey kitchen is not boring, provided that the tradition is supported by a little bit of modernity.
+
+{% fig %}
+![Grey kitchen cabinets](/uploads/oryginalna-szara-kuchnia.jpg "Grey kitchen cabinets")
+{% endfig %}
 
 {% faqItem %}
 {% faqQuestion %}
