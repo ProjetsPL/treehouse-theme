@@ -167,3 +167,43 @@ Are you looking for small apartment ideas? Are you wondering how to furnish a st
 {% endfig %}
 
 Remember that **apart from aesthetics, practicality also matters.** Even the most beautiful small apartment will not satisfy you if it's not functional. Therefore, pay a close attention to the elements you choose, to avoid common mistakes and dissappointment.
+
+{% faqItem %}
+{% faqQuestion %}
+How to organize a studio apartment?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+One of the most important aspects of a functional studio apartment is storage. Use the available space - you could build an in-wall closet if you have a recessed wall. Choose functional furniture like poufs with storage or a coffee table with drawers. 
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+How to arrange a studio apartment?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+You can draw inspiration from furniture catalogs and the Internet - but to not stick stiffly to a particular project. Browse through ideas and choose the ones you like the most, and think how to fit the best ellements into your own studio apartment.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+How do you arrange furniture in a studio apartment?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Make sure that your furniture has the right size. You shouldn't cram too many pieces of equipment on a small space, otherwise you will cause clutter. Plan everything in a moderate way - focus on functionality and organization, but do not make the space look sterile.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+How to style a studio apartment?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Choose one dominant style and make sure not to overwhelm the space with too many colors and textures. Small apartments do not benefit from chaos - make sure to organize everything neatly and pick matching decorations.
+{% endfaqAnswer %}
+{% endfaqItem %}
