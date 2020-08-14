@@ -4,7 +4,7 @@ date: 2020-08-03
 main_keywords: []
 toc: true
 promoted: false
-update_date: 2020-08-03
+update_date: 2020-08-14
 title: Comment Animer la Cuisine Blanche? 7 Idées Intéressantes
 description: Vous avez une cuisine blanche mais vous voulez y ajouter une couleur
   ? ➡️ Apprenez quelques astuces pour animer votre intérieur. ✔️ C'est facile !
@@ -192,6 +192,12 @@ Vous ne voulez pas perturber le design minimaliste blanc en utilisant des access
 
 {% fig %}
 
+![Les cuisines blanches aiment les herbes et les accents verts](/uploads/biala-kuchnia-rosliny.jpg "Les cuisines blanches aiment les herbes et les accents verts")
+
+{% endfig %}
+
+{% fig %}
+
 ![Les cuisines blanches aiment les herbes et les accents verts](/uploads/biala-kuchnia-ziola.jpg "Les cuisines blanches aiment les herbes et les accents verts")
 
 {% endfig %}
@@ -250,7 +256,7 @@ Si vous voulez animer votre cuisine toute blanche, choisissez un plan de travail
 
 {% faqItem %}
 {% faqQuestion %}
-Idées de cuisine blanche - comment animer les murs ? 
+Idées de cuisine blanche - comment animer les murs ?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
