@@ -214,4 +214,44 @@ Each of the mentioned Christmas items involves using hot glue, which can bind al
 
 {% endfig %}
 
-## 
+## Window Christmas decoration
+
+Household interiors frequently use **window Christmas decorations.** There are many ideas in that matter - but what is going to be exceptionally popular for Christmas 2020? Special pots with a gingerbread, snowman, angel or Santa painted over will be an absolute hit. All you need to make them are flower pots in a size to your liking, paint, a brush... and your own creativity.
+
+This type of Christmas decorations can be also used as **gift boxes**. Sweets or small gifts look brilliant in them.
+
+{% fig %}
+
+![](/uploads/ozdoby-swiateczne-na-parapet.jpg)
+
+{% endfig %}
+
+{% faqItem %}
+{% faqQuestion %}
+How to make Christmas decorations?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+It all depends on what kind of a Christmas ornament you want to make. Usually you only need several elements and glue - to bind them together. Each Christmas decoration requires individual anallysis and preparing necessary materials.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+How to make Christmas decorations with paper?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+One of the easiest ways to make Christmas ornaments with paper is cutting it into a shape. You could fold a square sheet of paper several times and cut some holes in it - unfold and you have a snowflake! Alternatively, fold a longer piece and cut a shape - a tree or an angel. This way you will get a Christmas garland.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+How to organize christmas decorations?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+To prepare the Christmas ornaments for the next season, dust them and put them in separate boxes. You can organize them by color, or by purpose - put Christmas tree decorations in one box, and the ones you use outside - in another. Use an egg carton to prevent glass Christmas balls from breaking.
+{% endfaqAnswer %}
+{% endfaqItem %}
