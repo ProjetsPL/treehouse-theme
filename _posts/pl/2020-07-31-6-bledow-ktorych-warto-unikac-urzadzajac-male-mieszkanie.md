@@ -34,7 +34,7 @@ Nieprawidłowo dopasowane oświetlenie to częsty problem, nie tylko, jeżeli ch
 
 Żeby dobrze oszacować ilość punktów świetlnych, trzeba dokładnie przeanalizować cały projekt. **Oświetlenie ma pomagać podczas codziennych czynności.** Musisz więc wiedzieć, gdzie będziesz przygotowywać posiłki, a w którym miejscu czytać książkę, aby dobrać odpowiednią lampę lub w ogóle pomyśleć, żeby ją tam umieścić.
 
-**Błędy związane z rozplanowaniem oświetlenia pojawiają się, ponieważ na tym etapie bardzo mało osób myśli całościowo.** Zamiast tego przyjmowane są ogólne schematy: główna lampa wisząca na środku pomieszczenie, oświetlenie na ścianie. Tymczasem małe mieszkanie pod kątem wykończenia bywa zwykle nietypowe, a poszczególne elementy wyposażenia nie zawsze znajdują się w oczywistych punktach. W ten sposób bardzo łatwo nieświadomie wpaść w pułapkę.
+**Błędy związane z rozplanowaniem oświetlenia pojawiają się, ponieważ na tym etapie bardzo mało osób myśli całościowo.** Zamiast tego przyjmowane są ogólne schematy: główna lampa wisząca na środku pomieszczenia, oświetlenie na ścianie. Tymczasem małe mieszkanie pod kątem wykończenia bywa zwykle nietypowe, a poszczególne elementy wyposażenia nie zawsze znajdują się w oczywistych punktach. W ten sposób bardzo łatwo nieświadomie wpaść w pułapkę.
 
 {% fig %}
 ![Małe mieszkanie źle dopasowane oświetlenie](/uploads/male-mieszkanie-zle-oswietlenie.jpg "Małe mieszkanie źle dopasowane oświetlenie")
