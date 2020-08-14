@@ -88,4 +88,71 @@ If you want, you can cut other elements from felt and glue them to the body. You
 
 **Table Christmas decorations can be easily purchased** in gift and flower shops. Wreaths, candleholders and other store-bought Christmas decorations look great. They are, however, not always exactly what you want. If Christmas atmosphere is your priority - choose DIY Christmas ornaments.
 
-One of the most interesting Christmas decorations are candle holders. To make them, you can use small bottles or jars. Just scrape the labels 
+One of the most interesting Christmas decorations are candle holders. To make them, you can use small bottles or jars. Just remove the labels and **pour some colorful sand, ornamental gravel or synthetic stones and other small decorations** inside. Finally, put a candle on top.
+
+{% fig %}
+
+![Table Christmas decorations](/uploads/domowe-swieczniki-ozdoby-swiateczne.jpg "Table Christmas decorations")
+
+{% endfig %}
+
+## Zero-waste, eco-friendly Christmas decorations
+
+**Ecological products** and taking care of natural environment are very important issues. No wonder that it's a widely discussed topic also in terms of Christmas ornaments. One of the more interesting suggestions are strwa Christmas decorations.
+
+It might not seem so, but preparing such Christmas ornaments is not very difficult. Just use some online video tutorials and you'll create unique, 3D elements such as balls that look like pine cones.
+
+**You are a rather impatient person?** No problem! You don't have to give up such ornaments. You could make flat stars - join the straws using a colorful red string.
+
+{:.distinction.distinction-information}
+
+3D Christmas ornaments do not require using any sort of glue. Are you wondering how they are joined? The straws overlap each other, forming a natural binding.
+
+{% fig %}
+
+![Zero-waste, eco-friendly Christmas decorations](/uploads/slomkowe-ozdoby-swiateczne.jpg "Zero-waste, eco-friendly Christmas decorations")
+
+{% endfig %}
+
+## Pinecone Christmas ornaments
+
+Pinecones make another great natural and zero-waste material that can used for Christmas decorations. **Painting them gold or silver with special spray-paint** is a popular method that has been used for years.
+
+You can do more than that and create very original **Christmas decorations - snow-capped Christmas trees**. To make them, you need:
+
+{:.list.list-positive}
+
+* several same-sized pinecones,
+* white paint,
+* small round wooden boards,
+* silver or golden beads,
+* hot glue,
+* a brush.
+
+**Start from preparing the pinecones.** Clean them up and spread them on a piece of paper. Then take a brush and white paint. Paint the pinecones tips, making it look like as if they were covered in snow. While they dry up, heat up the glue and attach a bead to each of the wooden boards, and then another - so that they form a tree trunk. After everything dries up, glue the pinecones to the beads - voila!
+
+{% fig %}
+
+![](/uploads/ozdoby-bozonarodzeniowe-szyszki-dekoracyjne.jpg)
+
+{% endfig %}
+
+## Scented Christmas ornaments
+
+Christmas magic lies not only in **decorative Christmas ornaments**, but also in certain smells which create the atmosphere. But can one coombine those two aspects? Of course. All you need is some natural DIY scented Christmas decorations.
+
+The absolute basis in this matter are **dried orange, lemon or grapefruit slices.** You can use them in a Christmas wreath, as well as solely - as a Christmas tree ornament. But, it is only one of the ways you can use orange. Pomander balls are another interesting option - just put some cloves in an orange forming a pattern and place the ball in an exposed spot.
+
+{:.distinction.distinction-information}
+
+You can also use cinammon sticks - another scented Christmas decor idea. Wrap an ornamental ribbon around them - red, golden or silver. It's a minimalistic, but highly atmospheric Christmas decoration.
+
+{% fig %}
+
+![Scented Christmas ornaments](/uploads/ozdoby-swiateczne-pomarancze-gozdziki-cynamon.jpg "Scented Christmas ornaments")
+
+{% endfig %}
+
+## Gingerbread Christmas decor ideas
+
+Are you a baked goods lover? It's a good opportunity to use them as Christmas decorations. **Gingerbread** 
