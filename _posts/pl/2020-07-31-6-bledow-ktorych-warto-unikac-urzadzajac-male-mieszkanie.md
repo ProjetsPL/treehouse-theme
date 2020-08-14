@@ -107,7 +107,7 @@ Bardzo dobrym pomysłem może okazać się wybór kilku lub kilkunastu projektó
 
 ### Przesadny ład
 
-Czy wchodząc do niektórych mieszkań, masz wrażenie, że **wnętrze jest wyjątkowo sterylne** - meble w rzędzie pod ścianą, pusta przestrzeń na środku? To nie wygląda dobrze - podobnie, jak i przesadny nadmiar. Ponadto zostawiają dużo wolnego miejsca na środku, marnujesz przestrzeń, która mogłaby być funkcjonalnie zagospodarowana.
+Czy wchodząc do niektórych mieszkań, masz wrażenie, że **wnętrze jest wyjątkowo sterylne** - meble w rzędzie pod ścianą, pusta przestrzeń na środku? To nie wygląda dobrze - podobnie, jak i przesadny nadmiar. Ponadto zostawiając dużo wolnego miejsca na środku, marnujesz przestrzeń, która mogłaby być funkcjonalnie zagospodarowana.
 
 {:.distinction.distinction-information}
 Jeżeli nie masz pomysłu na urządzenie centralnej części małego mieszkania, zacznij od ustawienia kanapy na środku. Może to być punkt wyjścia dla dalszych zmian.
@@ -126,17 +126,16 @@ Zastanawiasz się, ile będziesz musiał zapłacić za usługę projektanta? Wsz
 
 ## Skąd czerpać pomysły na małe mieszkanie?
 
-Nowe mieszkanie wymaga rozplanowania wszystkiego od podstaw. Na tym etapie nie trudno popełnić błędy, które mogą przekładać się na zdecydowanie mniejszy komfort późniejszego użytkowania. Oczywiście można zaplanować wszystko, korzystając z inspiracji internetowych, czy katalogowych. To wymaga jednak sporej uwagi i pochłania dużo czasu. **Zestawienie odpowiednich mebli, dodatków i materiałów wykończenia bywa w niektórych przypadkach kłopotliwe nawet dla specjalisty.** Właśnie z tego względu wiele osób rozważa zatrudnienie projektanta wnętrz.
-
-{% fig %}
-![Skąd czerpać pomysły na małe mieszkanie?](/uploads/male-mieszkanie-pomysly-na-aranzacje.jpg "Skąd czerpać pomysły na małe mieszkanie?")
-{% endfig %}
-
 **Największą kopalnią wiedzy, jeżeli chodzi o pomysły na urządzanie mieszkania, jest Internet.** Znajdziesz wiele stron i blogów poświęconych temu tematowi. Część z nich prowadzona jest przez osoby, które hobbystycznie zajmują się remontami i wykończeniem wnętrz.
 
 Na rynku nie brakuje czasopism wnętrzarskich, gdzie można podglądać projekty znanych specjalistów do spraw aranżacji mieszkań. **Popularne w ostatnich latach są również programy telewizyjne, skąd możesz czerpać wiele, ciekawych pomysłów.**
 
-{:.distinction.distinction-information}
+{:.distinction.distinction-information} 
+
 Szukasz pomysłu na małe mieszkanie? Udaj się do lokalnych sklepów meblowych. Dobrym pomysłem jest także wycieczka do IKEA, gdzie będziesz mógł podglądać gotowe aranżacje na ekspozycji.
+
+{% fig %}
+![Skąd czerpać pomysły na małe mieszkanie?](/uploads/male-mieszkanie-pomysly-na-aranzacje.jpg "Skąd czerpać pomysły na małe mieszkanie?")
+{% endfig %}
 
 Pamiętaj, że podczas urządzania **oprócz estetyki liczy się również wymiar praktyczny**. Nawet najpiękniejsze mieszkanie, jeżeli nie będzie funkcjonalne - nie zadowoli Cię podczas codziennego użytkowania. Dlatego zwróć dokładną uwagę na to, jakie elementy wyposażenia wybierasz, aby uniknąć najczęstszych błędów i rozczarowania.
