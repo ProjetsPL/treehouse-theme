@@ -159,6 +159,12 @@ A white kitchen design with a wooden panel over the counters is still not a very
 You don't want to disturb the white minimalistic design by using colorful accessories, but you still want the room to look fresh? **Herbs and green accents** is a perfect solution for a kitchen space. Most of all, they look very well and **bring "life" into the interior.** It's also very practical solution for cooking purposes. When preparing meals, you can spice them with the same herbs that serve as a decoration in your white kitchen.
 
 {% fig %}
+
+![White kitchens love herbs](/uploads/biala-kuchnia-rosliny.jpg "White kitchens love herbs")
+
+{% endfig %}
+
+{% fig %}
 ![White kitchens love herbs and green accents](/uploads/biala-kuchnia-ziola.jpg "White kitchens love herbs and green accents")
 {% endfig %}
 
