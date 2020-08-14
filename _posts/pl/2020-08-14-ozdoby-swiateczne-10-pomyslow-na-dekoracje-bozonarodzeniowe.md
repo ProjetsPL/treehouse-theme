@@ -140,7 +140,7 @@ Kochasz wypieki? To dobra okazja do tego, aby wykorzystać je jako dekoracje bo�
 
 Jak stworzyć piernikową chatkę? Podstawą będą piernikowe prostokąty - potrzebujesz trzech sztuki. Następnie konieczne będzie **wykonaniu lukru**, który będzie służył do mocowania poszczególnych elementów domku. Umieszczasz go na łączeniach daszku z podstawą i na szczycie dachu. Lukier wykorzystasz także do stworzenia śniegu spadającego z dachu chatki, mocowania figurek i ozdób na dachu - tu możesz zastosować gotowe cukierki lub żelki.
 
-Największym wyzwaniem będzie wykonanie **figurek z masy plastycznej** - chociaż i ono nie powinno sprawić Ci większego problemu. Jeżeli nie masz dużych zdolności - najprościej będzie wykonać aniołka - z białym korpusem, skrzydłami i aureolą na głowie. Lubisz wyzwania? Możesz spróbować odtworzyć figurki ze zdjęcia.
+Największym wyzwaniem będzie wykonanie **figurek z masy plastycznej** - chociaż i ono nie powinno sprawić Ci większego problemu. Jeżeli nie masz dużych zdolności - najprościej będzie wykonać aniołka - z białym korpusem, skrzydłami i aureolą na głowie. Lubisz wyzwania? Możesz spróbować odtworzyć figurki ze zdjęcia poniżej.
 
 {% fig %}
 ![Świąteczne dekoracje z piernika](/uploads/ozdoby-bozonarodzeniowe-piernik.jpg "Świąteczne dekoracje z piernika")
