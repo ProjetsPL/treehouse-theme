@@ -12,7 +12,7 @@ main_keywords:
 - white design
 toc: true
 promoted: false
-update_date: 2020-07-31
+update_date: 2020-08-14
 title: How to Enliven White Kitchen? 7 Interesting Ideas
 description: A white kitchen is your dream but you want to add a color to it? ➡️ Learn
   some simple tricks to enliven your interior. ✔️ It's easy!
