@@ -188,7 +188,7 @@ W przypadku każdej wymienionej ozdoby podstawą będzie zastosowanie kleju na g
 
 ## Ozdoby świąteczne na okno
 
-Bardzo często w domowych wnętrzach pojawiają się **ozdoby świąteczne na okno**. Pomysłów w tym przypadku może być wiele - jednak co w 2020 roku będzie szczególnie popularne? Absolutnym hitem będą specjalne doniczki przedstawiające chatkę z piernika, bałwanka, aniołka, czy strój mikołaja. Jedyne, czego potrzebujesz do ich wykonania to doniczki w rozmiarze, który Ci odpowiada, farbek, pędzla.. i własnej kreatywności.
+Bardzo często w domowych wnętrzach pojawiają się **ozdoby świąteczne na okno**. Pomysłów w tym przypadku może być wiele - jednak co w 2020 roku będzie szczególnie popularne? Absolutnym hitem będą specjalne doniczki przedstawiające chatkę z piernika, bałwanka, aniołka, czy strój mikołaja. Jedyne, czego potrzebujesz do ich wykonania to doniczki w rozmiarze, który Ci odpowiada, farbek, pędzla... i własnej kreatywności.
 
 Tego typu dekoracje bożonarodzeniowe z powodzeniem możesz wykorzystać także jako **opakowanie na prezent**. Doskonale zaprezentują się w nich słodkości lub niewielkie upominki.
 
