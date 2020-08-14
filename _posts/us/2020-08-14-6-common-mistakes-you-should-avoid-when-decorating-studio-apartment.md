@@ -106,7 +106,6 @@ A small studio apartment does not like chaos, therefore using many styles, textu
 {:.distinction.distinction-information}
 
 A mixture of various elements might work well in some cases, e.g. when you decorate an apartment in vintage style. It tends to draw inspiration from various notions. However, it's not a recommended style for small apartments.
-{% endfig %}
 
 {% fig %}
 
