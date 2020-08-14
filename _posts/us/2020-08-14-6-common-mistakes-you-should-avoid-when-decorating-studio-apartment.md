@@ -31,7 +31,7 @@ related_products: []
 ---
 ## Avoid those mistakes when decorating a studio apartment
 
-When looking for small apartment ideas to design the interior, one might make several mistakes. Some of them are barely noticeable, whereas others might turn everyday return from work into a nightmare. If you're not thrilled by this scenario, remember - to win the battle, you should know your enemy. It's the same in this particular case. **If you analyze the mistakes that might arise during a small apartment decoration, you will be able to avoid them.**
+When looking for **small apartment ideas** to design the interior, one might make several mistakes. Some of them are barely noticeable, whereas others might turn everyday return from work into a nightmare. If you're not thrilled by this scenario, remember - to win the battle, you should know your enemy. It's the same in this particular case. **If you analyze the mistakes that might arise during a small apartment decoration, you will be able to avoid them.**
 
 ### Poorly chosen lighting
 
