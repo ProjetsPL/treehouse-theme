@@ -155,4 +155,63 @@ You can also use cinammon sticks - another scented Christmas decor idea. Wrap an
 
 ## Gingerbread Christmas decor ideas
 
-Are you a baked goods lover? It's a good opportunity to use them as Christmas decorations. **Gingerbread** 
+Are you a baked goods lover? It's a good opportunity to use them as Christmas decorations. **Gingerbread ornaments with edible modeling paste** are the most popular options. It doesn't require many skills to create an interesting composition.
+
+How to make a gingerbread house? You need three gingerbread rectangles for the base. Then, prepare some **frosting -** you are going to use it to assemble the elements. Spread in onto spots where the basis meets the roof and on the roof joint. You can also use the frosting to paint snow, attach figurines and ornaments - use hard or jelly candies.
+
+ The biggest challenge is making the **figurines from the sugar paste** - although it shouldn't be too problematic. If you have no big skills - just make an angel - with white body, wings and a halo on the head. Do you like challenges? Try recreating the figurines from the photo below.
+
+{% fig %}
+
+![Gingerbread Christmas decor ideas](/uploads/ozdoby-bozonarodzeniowe-piernik.jpg "Gingerbread Christmas decor ideas")
+
+{% endfig %}
+
+## Christmas ornaments for children
+
+Children are usually eager to help with Christmas preparations. If you have children, you can ask them to make their own Christmas ornaments - of course, with your help. **Snowmen made from bottle caps** are a fantastic option - they will amaze every toddler. To make them, you are going to need:
+
+{:.list.list-positive}
+
+* bottle caps from any drink,
+* a colorful piece of string,
+* several small buttons,
+* a red ribbon,
+* black and orange nail polish,
+* white paint,
+* a small brush,
+* hot glue.
+
+How to make such a Christmas ornament? First, paint the caps white and wait until they dry. Then take the ribbon and use the hot glue to attach three caps to it - so that they form a snowman's body. Bend the ribbon by the last piece into a loop for hanging. **Paint the eyes, nose and a smile on the upper bottle cap, and buttons on the bottom ones.** The last step is a scarf made from the colorful string and a small button - attach them using the hot glue.
+
+{:.distinction.distinction-warning}
+
+When making the Christmas ornament, make sure to be careful and watch the child. Hot glue is dangerous, so any steps involving its use should be performed by an adult.
+
+{% fig %}
+
+![Christmas ornaments for children](/uploads/balwanki-ozdoby-swiateczne-dla-najmlodszych.jpg "Christmas ornaments for children")
+
+{% endfig %}
+
+## Traditional Christmas ornaments - creative Christmas trees
+
+**A Christmas tree is the absolute must-have for Christmas.** Trends change frequently in that matter and new ideas for Christmas decorations arise every year.  Christmas trees made of pasta were very popular for a long time. Nowadays, Christmas trees made of wine cork, wooden sticks or small flower pots are becoming a new trend.
+
+In this case everything depends on **your own creativity** and ideas for Christmas ornaments.
+
+{% fig %}
+
+![Traditional Christmas ornaments - creative Christmas trees](/uploads/ozdoby-bozonarodzeniowe-choinki.png "Traditional Christmas ornaments - creative Christmas trees")
+
+{% endfig %}
+
+Each of the mentioned Christmas items involves using hot glue, which can bind all of the elements. The rest is up to you - **you can match elements and accessories that you like the most.**
+
+{% fig %}
+
+![Traditional Christmas ornaments - flower pot Christmas trees](/uploads/ozdoby-swiateczne-kreatywne-choinki.jpg "Traditional Christmas ornaments - flower pot Christmas trees")
+
+{% endfig %}
+
+## 
