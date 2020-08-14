@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-08-14
+date: 2020-08-13
 main_keywords:
 - ozdoby świąteczne
 - dekoracje świąteczne
@@ -17,7 +17,7 @@ main_keywords:
 - ozdoby świąteczne z drewna
 toc: true
 promoted: false
-update_date: 2020-08-14
+update_date: 2020-08-13
 title: Ozdoby Świąteczne - 10 Pomysłów na Dekoracje Bożonarodzeniowe
 description: "Uwielbiasz świąteczny klimat? ❄️ Kochasz dekoracje bożonarodzeniowe?
   \U0001F384 Sprawdź, jakie ozdoby świąteczne będą w 2020 roku najpopularniejsze."
