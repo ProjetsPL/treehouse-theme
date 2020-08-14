@@ -32,7 +32,6 @@ intro: Do you value the special time of Christmas? It's a perfect moment to rela
   will be the most popular this year.
 image: "/uploads/ozdoby-swiateczne.jpg"
 related_products: []
-published: false
 
 ---
 ## Christmas ornaments made of wool or embroidery floss
@@ -133,7 +132,7 @@ You can do more than that and create very original **Christmas decorations - sno
 
 {% fig %}
 
-![](/uploads/ozdoby-bozonarodzeniowe-szyszki-dekoracyjne.jpg)
+![Pinecone Christmas ornaments](/uploads/ozdoby-bozonarodzeniowe-szyszki-dekoracyjne.jpg "Pinecone Christmas ornaments")
 
 {% endfig %}
 
@@ -222,7 +221,7 @@ This type of Christmas decorations can be also used as **gift boxes**. Sweets or
 
 {% fig %}
 
-![](/uploads/ozdoby-swiateczne-na-parapet.jpg)
+![Window Christmas decoration](/uploads/ozdoby-swiateczne-na-parapet.jpg "Window Christmas decoration")
 
 {% endfig %}
 
