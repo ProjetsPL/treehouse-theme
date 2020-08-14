@@ -4,7 +4,7 @@ date: 2020-08-03
 main_keywords: []
 toc: true
 promoted: false
-update_date: 2020-08-03
+update_date: 2020-08-14
 title: Come Animare la Cucina Bianca? 7 Idee Interessanti
 description: Una cucina bianca è il tuo sogno ma vuoi aggiungere un colore? ➡️ Imparate
   alcuni semplici trucchi per animare i vostri interni. ✔️ È facile!
@@ -189,6 +189,12 @@ Il design di una cucina bianca con un pannello di legno sopra i banchi non è an
 ## Le cucine bianche amano le erbe e gli accenti verdi
 
 Non volete disturbare il design minimalista bianco utilizzando accessori colorati, ma volete comunque che la stanza abbia un aspetto fresco? **Le erbe e gli accenti verdi** sono una soluzione perfetta per uno spazio cucina. Soprattutto, hanno un aspetto molto bello e **portano "vita" all'interno**. È anche una soluzione molto pratica per la cucina. Quando preparate i pasti, potete condirli con le stesse erbe che servono come decorazione nella vostra cucina bianca.
+
+{% fig %}
+
+![Le cucine bianche amano le erbe e gli accenti verdi](/uploads/biala-kuchnia-rosliny.jpg "Le cucine bianche amano le erbe e gli accenti verdi")
+
+{% endfig %}
 
 {% fig %}
 
