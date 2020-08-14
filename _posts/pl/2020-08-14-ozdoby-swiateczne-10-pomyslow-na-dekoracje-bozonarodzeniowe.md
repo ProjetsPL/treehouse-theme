@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-08-13
+date: 2020-08-14
 main_keywords:
 - ozdoby świąteczne
 - dekoracje świąteczne
@@ -17,7 +17,7 @@ main_keywords:
 - ozdoby świąteczne z drewna
 toc: true
 promoted: false
-update_date: 2020-08-13
+update_date: 2020-08-14
 title: Ozdoby Świąteczne - 10 Pomysłów na Dekoracje Bożonarodzeniowe
 description: "Uwielbiasz świąteczny klimat? ❄️ Kochasz dekoracje bożonarodzeniowe?
   \U0001F384 Sprawdź, jakie ozdoby świąteczne będą w 2020 roku najpopularniejsze."
@@ -32,15 +32,15 @@ related_products: []
 ---
 ## Ozdoby świąteczne z kordonka lub włóczki
 
-Jeżeli lubisz ręczne robótki, to doskonałą opcją dla Ciebie będą ozdoby świąteczne wykonane na szydełku z kordonka lub włóczki. Wystarczy, że znajdziesz odpowiedni wzór w sieci.
+Jeżeli lubisz ręczne robótki, to doskonałą opcją dla Ciebie będą **ozdoby świąteczne wykonane na szydełku z kordonka lub włóczki**. Wystarczy, że znajdziesz odpowiedni wzór w sieci.
 
-Bardzo popularne w okresie świątecznym są szydełkowe gwiazdki - śnieżynki, bombki, czy aniołki. Zazwyczaj tego typu dekoracje świąteczne są "płaskie" czyli wykonywane na zasadzie serwetek. Dysponując nieco większymi zdolności, bez problemu wykonasz jednak prawdziwą przestrzenną bombkę, czy dzwoneczek.
+Bardzo popularne w okresie świątecznym są szydełkowe gwiazdki - śnieżynki, bombki, czy aniołki. Zazwyczaj tego typu dekoracje świąteczne są "płaskie" czyli wykonywane na zasadzie serwetek. Dysponując nieco większymi zdolności, bez problemu **wykonasz jednak prawdziwą przestrzenną bombkę, czy dzwoneczek**.
 
-Jak sprawić, aby ozdoba była utwardzona? Istnieje kilka sposobów. Możesz dopasować metodę w zależności od wielkości ozdoby.
+Jak sprawić, aby ozdoba była utwardzona? Istnieje kilka sposobów. Możesz dopasować metodę w zależności od **wielkości ozdoby**.
 
 {:.list.list-positive}
 
-* W przypadku niewielkich elementów, ozdoby na Boże Narodzenie usztywnisz za pomocą zwykłego lakieru do włosów.
+* W przypadku niewielkich elementów, ozdoby na Boże Narodzenie usztywnisz **za pomocą zwykłego lakieru do włosów**.
 * W większości przypadków znacznie lepszym rozwiązaniem będzie krochmal w płynie - stara metoda usztywniania tkanin. Możesz kupić gotowy środek lub przygotować go samodzielnie - wykorzystując w tym celu mąkę ziemniaczaną.
 
 {:.distinction.distinction-information}
