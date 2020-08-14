@@ -83,7 +83,7 @@ Nie masz na nie miejsca? Możesz poradzić sobie w inny sposób. Część rzeczy
 
 ### Mnogość stylów, faktur i kolorów
 
-Małe mieszkanie nie lubi chaosu, dlatego stosowanie wielu stylów, faktów lub kolorów nie sprawdzi się w tym przypadku. **Warto przed rozpoczęciem urządzania zastanowić się, jaki ma być motyw przewodni wnętrz**. Pomieszanie ze sobą mocnych barw daje wrażenie nadmiaru. Wchodząc do mieszkania, nie będziesz wiedział, na czym się skupić. To, poza tym, że nie wygląda zbyt dobrze, może wpływać także negatywne na Twoje samopoczucie.
+Małe mieszkanie nie lubi chaosu, dlatego stosowanie wielu stylów, faktur lub kolorów nie sprawdzi się w tym przypadku. **Warto przed rozpoczęciem urządzania zastanowić się, jaki ma być motyw przewodni wnętrz**. Pomieszanie ze sobą mocnych barw daje wrażenie nadmiaru. Wchodząc do mieszkania, nie będziesz wiedział, na czym się skupić. To, poza tym, że nie wygląda zbyt dobrze, może wpływać także negatywne na Twoje samopoczucie.
 
 {:.distinction.distinction-information}
 Pomieszanie różnych elementów wyposażenia może sprawdzić się w wyjątkowych sytuacjach np. kiedy urządzasz mieszkanie w stylu vintage. Ten charakteryzuje się zestawieniem inspiracji z różnych nurtów. Nie jest jednak zbytnio polecany do małych wnętrz.
