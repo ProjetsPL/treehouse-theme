@@ -17,7 +17,6 @@ intro: Il soggiorno è il luogo speciale di una casa - è lì che si passa la ma
   e scegliete l'illuminazione perfetta per il soggiorno.
 image: "/uploads/lampy-do-salonu-9-pomyslow.jpg"
 related_products: []
-published: false
 
 ---
 ## Illuminazione del soggiorno - moderna e minimalista
@@ -34,13 +33,13 @@ Le lampade da soggiorno minimaliste e allo stesso tempo moderne sono tipicamente
 
 {% fig %}
 
- ![Illuminazione del soggiorno - moderna e minimalista](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_1.jpg "Illuminazione del soggiorno - moderna e minimalista") 
+![Illuminazione del soggiorno - moderna e minimalista](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_1.jpg "Illuminazione del soggiorno - moderna e minimalista")
 
 {% endfig %}
 
 {% fig %}
 
- ![Illuminazione del soggiorno - moderna e minimalista](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_3.jpg "Illuminazione del soggiorno - moderna e minimalista") 
+![Illuminazione del soggiorno - moderna e minimalista](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_3.jpg "Illuminazione del soggiorno - moderna e minimalista")
 
 {% endfig %}
 
@@ -52,7 +51,7 @@ Se si decide di utilizzare una lampadina esposta senza una tonalità decorativa,
 
 {% fig %}
 
- ![Illuminazione del soggiorno - moderna e minimalista](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_2.jpg "Illuminazione del soggiorno - moderna e minimalista") 
+![Illuminazione del soggiorno - moderna e minimalista](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_2.jpg "Illuminazione del soggiorno - moderna e minimalista")
 
 {% endfig %}
 
@@ -64,7 +63,7 @@ Un'altra tendenza, molto simile alla precedente, riguarda il **metodo del loft p
 
 {% fig %}
 
- ![Living room lamps - inspired by nature](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_4.jpg "Living room lamps - inspired by nature") 
+![Living room lamps - inspired by nature](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_4.jpg "Living room lamps - inspired by nature")
 
 {% endfig %}
 
@@ -76,13 +75,13 @@ Vale anche la pena di notare che ci sono molti **disegni, colori e dimensioni** 
 
 {% fig %}
 
- ![Illuminazione del soggiorno - classici senza tempo](/uploads/tradycyjne_lampy_do_salonu_1.jpg "Illuminazione del soggiorno - classici senza tempo") 
+![Illuminazione del soggiorno - classici senza tempo](/uploads/tradycyjne_lampy_do_salonu_1.jpg "Illuminazione del soggiorno - classici senza tempo")
 
 {% endfig %}
 
 {% fig %}
 
- ![Illuminazione del soggiorno - classici senza tempo](/uploads/tradycyjne_lampy_do_salonu_2.jpg "Illuminazione del soggiorno - classici senza tempo") 
+![Illuminazione del soggiorno - classici senza tempo](/uploads/tradycyjne_lampy_do_salonu_2.jpg "Illuminazione del soggiorno - classici senza tempo")
 
 {% endfig %}
 
@@ -94,13 +93,13 @@ D'altra parte, lo stile glamour moderno può essere ornamentale ma non travolgen
 
 {% fig %}
 
- ![Illuminazione del soggiorno - stile glamour](/uploads/lampy_do_salonu_styl_glamour_1.jpg "Illuminazione del soggiorno - stile glamour") 
+![Illuminazione del soggiorno - stile glamour](/uploads/lampy_do_salonu_styl_glamour_1.jpg "Illuminazione del soggiorno - stile glamour")
 
 {% endfig %}
 
 {% fig %}
 
- ![Illuminazione del soggiorno - stile glamour](/uploads/lampy_do_salonu_styl_glamour_2.jpg "Illuminazione del soggiorno - stile glamour") 
+![Illuminazione del soggiorno - stile glamour](/uploads/lampy_do_salonu_styl_glamour_2.jpg "Illuminazione del soggiorno - stile glamour")
 
 {% endfig %}
 
@@ -114,13 +113,13 @@ Un'altra insolita **idea di illuminazione** del soggiorno consiste non solo nell
 
 {% fig %}
 
- ![Illuminazione artistica del soggiorno](/uploads/lampy_do_salonu_artystyczne_1.jpg "Illuminazione artistica del soggiorno") 
+![Illuminazione artistica del soggiorno](/uploads/lampy_do_salonu_artystyczne_1.jpg "Illuminazione artistica del soggiorno")
 
 {% endfig %}
 
 {% fig %}
 
- ![Illuminazione artistica del soggiorno](/uploads/lampy_do_salonu_artystyczne_4.jpg "Illuminazione artistica del soggiorno") 
+![Illuminazione artistica del soggiorno](/uploads/lampy_do_salonu_artystyczne_4.jpg "Illuminazione artistica del soggiorno")
 
 {% endfig %}
 
@@ -128,7 +127,7 @@ Non solo **le lampade da salotto appese possono essere opere d'arte**. Vale la p
 
 {% fig %}
 
- ![Illuminazione artistica del soggiorno](/uploads/lampy_do_salonu_artystyczne_2.jpg "Illuminazione artistica del soggiorno") 
+![Illuminazione artistica del soggiorno](/uploads/lampy_do_salonu_artystyczne_2.jpg "Illuminazione artistica del soggiorno")
 
 {% endfig %}
 
@@ -140,7 +139,7 @@ Si può decidere di illuminare tutto l'interno o solo una sua parte, ad esempio 
 
 {% fig %}
 
- ![Luci del soggiorno - illuminazione a soffitto](/uploads/lampy_do_salonu_podswietlenie_sufitu_1.jpg "Luci del soggiorno - illuminazione a soffitto") 
+![Luci del soggiorno - illuminazione a soffitto](/uploads/lampy_do_salonu_podswietlenie_sufitu_1.jpg "Luci del soggiorno - illuminazione a soffitto")
 
 {% endfig %}
 
@@ -150,7 +149,7 @@ Il vincitore assoluto **tra le soluzioni 2020 è l'idea delle pareti illuminate 
 
 {% fig %}
 
- ![Insolite lampade da soggiorno - illuminazione a parete](/uploads/nietypowe_podswietlenie_salon_1.jpg "Insolite lampade da soggiorno - illuminazione a parete") 
+![Insolite lampade da soggiorno - illuminazione a parete](/uploads/nietypowe_podswietlenie_salon_1.jpg "Insolite lampade da soggiorno - illuminazione a parete")
 
 {% endfig %}
 
@@ -164,7 +163,7 @@ Solo un paio di anni fa, le lampade più piccole e poco appariscenti erano un'op
 
 {% fig %}
 
- ![Lampada da terra per soggiorno](/uploads/lampy_podlogowe_do_salonu_1.jpg "Lampada da terra per soggiorno") 
+![Lampada da terra per soggiorno](/uploads/lampy_podlogowe_do_salonu_1.jpg "Lampada da terra per soggiorno")
 
 {% endfig %}
 
@@ -176,7 +175,7 @@ Si può ottenere un effetto altrettanto interessante se **si fa il paralume da s
 
 {% fig %}
 
- ![Lampade da soggiorno a sospensione - fai da te](/uploads/lampy_do_salonu_proste_diy_1.jpg "Lampade da soggiorno a sospensione - fai da te") 
+![Lampade da soggiorno a sospensione - fai da te](/uploads/lampy_do_salonu_proste_diy_1.jpg "Lampade da soggiorno a sospensione - fai da te")
 
 {% endfig %}
 
@@ -208,6 +207,6 @@ Come progettare l'illuminazione del soggiorno?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Quando si progetta l'illuminazione di un soggiorno, si dovrebbe prestare attenzione a diversi aspetti importanti. Le dimensioni della stanza e l'accesso all'illuminazione naturale sono cruciali. Il resto sta nel vostro gusto individuale e nelle tendenze attuali. 
+Quando si progetta l'illuminazione di un soggiorno, si dovrebbe prestare attenzione a diversi aspetti importanti. Le dimensioni della stanza e l'accesso all'illuminazione naturale sono cruciali. Il resto sta nel vostro gusto individuale e nelle tendenze attuali.
 {% endfaqAnswer %}
 {% endfaqItem %}
