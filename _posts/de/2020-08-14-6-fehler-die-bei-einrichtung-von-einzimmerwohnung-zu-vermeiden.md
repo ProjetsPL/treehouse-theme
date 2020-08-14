@@ -99,7 +99,7 @@ Eine Mischung aus verschiedenen Elementen kann in einigen Fällen gut funktionie
 
 {% fig %}
 
-![Einzimmerwohnung - Eine Vielzahl von Stilen, Texturen und Farben](/uploads/male-mieszkanie-pomieszane-style.jpg "Einzimmerwohnung - Eine Vielzahl von Stilen, Texturen und Farben") 
+![Einzimmerwohnung - Eine Vielzahl von Stilen, Texturen und Farben](/uploads/male-mieszkanie-pomieszane-style.jpg "Einzimmerwohnung - Eine Vielzahl von Stilen, Texturen und Farben")
 
 {% endfig %}
 

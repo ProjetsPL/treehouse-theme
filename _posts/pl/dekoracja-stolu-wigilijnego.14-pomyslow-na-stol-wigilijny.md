@@ -13,3 +13,12 @@ related_products: []
 published: false
 
 ---
+![](/uploads/dekoracja-stolu-wigilijnego-zloto.jpg)
+
+![](/uploads/dekoracja-stolu-wigilijnego-tradycyjnie.jpg)
+
+![](/uploads/stol-wigilijny-miedz-i-roz.jpg)
+
+![](/uploads/stol-wiligijny-miedz-roz.jpg)
+
+![](/uploads/stol-wiligijny-stroiki.jpg)
