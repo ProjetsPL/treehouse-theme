@@ -27,7 +27,6 @@ intro: 'Have you just begun your adult life, and you want to get independent qui
   ones, so you can easily avoid them.'
 image: "/uploads/male-mieszkanie-bledy-podczas-jego-urzadzania.jpg"
 related_products: []
-published: false
 
 ---
 ## Avoid those mistakes when decorating a studio apartment
@@ -142,7 +141,7 @@ A new apartment requires good planning from the beginning. At this stage, one ca
 
 **Thanks to modern graphic software, a specialist is able to prepare a draft of the project, along with a full visualization.** It will help you to get the idea how a particular interior might look like and allow you to implement necessary changes - without really affecting the apartment.
 
- Are you wondering how much hiring a professional designer costs? It all depends on how big and complicated the project is. The full service usually involves designing a project and a supervision during the furnishing process. The more unusual the project, the higher the cost.
+Are you wondering how much hiring a professional designer costs? It all depends on how big and complicated the project is. The full service usually involves designing a project and a supervision during the furnishing process. The more unusual the project, the higher the cost.
 
 {% fig %}
 
@@ -174,7 +173,7 @@ How to organize a studio apartment?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-One of the most important aspects of a functional studio apartment is storage. Use the available space - you could build an in-wall closet if you have a recessed wall. Choose functional furniture like poufs with storage or a coffee table with drawers. 
+One of the most important aspects of a functional studio apartment is storage. Use the available space - you could build an in-wall closet if you have a recessed wall. Choose functional furniture like poufs with storage or a coffee table with drawers.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
