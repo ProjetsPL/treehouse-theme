@@ -16,7 +16,6 @@ intro: Le salon est l'endroit spécial de la maison, c'est là que l'on passe la
   choisissez le parfait éclairage de salon.
 image: "/uploads/lampy-do-salonu-9-pomyslow.jpg"
 related_products: []
-published: false
 
 ---
 ## L'éclairage du salon - moderne et minimaliste
@@ -33,13 +32,13 @@ Les lampes de salon à la fois minimalistes et modernes sont généralement prop
 
 {% fig %}
 
- ![L'éclairage de la salle de séjour - moderne et minimaliste](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_1.jpg "L'éclairage de la salle de séjour - moderne et minimaliste") 
+![L'éclairage de la salle de séjour - moderne et minimaliste](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_1.jpg "L'éclairage de la salle de séjour - moderne et minimaliste")
 
 {% endfig %}
 
 {% fig %}
 
- ![Living room lighting - modern and minimalistic](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_3.jpg "Living room lighting - modern and minimalistic") 
+![Living room lighting - modern and minimalistic](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_3.jpg "Living room lighting - modern and minimalistic")
 
 {% endfig %}
 
@@ -51,7 +50,7 @@ Si vous décidez d'utiliser une ampoule exposée sans abat-jour décoratif, gard
 
 {% fig %}
 
- ![L'éclairage de la salle de séjour - moderne et minimaliste](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_2.jpg "L'éclairage de la salle de séjour - moderne et minimaliste") 
+![L'éclairage de la salle de séjour - moderne et minimaliste](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_2.jpg "L'éclairage de la salle de séjour - moderne et minimaliste")
 
 {% endfig %}
 
@@ -63,7 +62,7 @@ Une autre tendance, assez similaire à la précédente, concerne **la méthode d
 
 {% fig %}
 
- ![Lampes de salon - inspirées par la nature](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_4.jpg "Lampes de salon - inspirées par la nature") 
+![Lampes de salon - inspirées par la nature](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_4.jpg "Lampes de salon - inspirées par la nature")
 
 {% endfig %}
 
@@ -75,13 +74,13 @@ Il convient également de noter qu'il existe un grand choix de **modèles, de co
 
 {% fig %}
 
- ![L'éclairage de la salle de séjour - des classiques intemporels](/uploads/tradycyjne_lampy_do_salonu_1.jpg "L'éclairage de la salle de séjour - des classiques intemporels") 
+![L'éclairage de la salle de séjour - des classiques intemporels](/uploads/tradycyjne_lampy_do_salonu_1.jpg "L'éclairage de la salle de séjour - des classiques intemporels")
 
 {% endfig %}
 
 {% fig %}
 
- ![L'éclairage de la salle de séjour - des classiques intemporels](/uploads/tradycyjne_lampy_do_salonu_2.jpg "L'éclairage de la salle de séjour - des classiques intemporels") 
+![L'éclairage de la salle de séjour - des classiques intemporels](/uploads/tradycyjne_lampy_do_salonu_2.jpg "L'éclairage de la salle de séjour - des classiques intemporels")
 
 {% endfig %}
 
@@ -93,13 +92,13 @@ D'un autre côté, le style glamour moderne peut être décoratif, mais sans êt
 
 {% fig %}
 
- ![Éclairage du salon - style glamour](/uploads/lampy_do_salonu_styl_glamour_1.jpg "Éclairage du salon - style glamour") 
+![Éclairage du salon - style glamour](/uploads/lampy_do_salonu_styl_glamour_1.jpg "Éclairage du salon - style glamour")
 
 {% endfig %}
 
 {% fig %}
 
- ![Éclairage du salon - style glamour](/uploads/lampy_do_salonu_styl_glamour_2.jpg "Éclairage du salon - style glamour") 
+![Éclairage du salon - style glamour](/uploads/lampy_do_salonu_styl_glamour_2.jpg "Éclairage du salon - style glamour")
 
 {% endfig %}
 
@@ -113,13 +112,13 @@ Une **autre idée inhabituelle d'éclairage** de salon consiste non seulement à
 
 {% fig %}
 
- ![Éclairage artistique du salon](/uploads/lampy_do_salonu_artystyczne_1.jpg "Éclairage artistique du salon") 
+![Éclairage artistique du salon](/uploads/lampy_do_salonu_artystyczne_1.jpg "Éclairage artistique du salon")
 
 {% endfig %}
 
 {% fig %}
 
- ![Éclairage artistique du salon](/uploads/lampy_do_salonu_artystyczne_4.jpg "Éclairage artistique du salon") 
+![Éclairage artistique du salon](/uploads/lampy_do_salonu_artystyczne_4.jpg "Éclairage artistique du salon")
 
 {% endfig %}
 
@@ -127,7 +126,7 @@ Il n'y a pas que **les lampes de salon suspendues qui peuvent être des œuvres 
 
 {% fig %}
 
- ![Éclairage artistique du salon](/uploads/lampy_do_salonu_artystyczne_2.jpg "Éclairage artistique du salon") 
+![Éclairage artistique du salon](/uploads/lampy_do_salonu_artystyczne_2.jpg "Éclairage artistique du salon")
 
 {% endfig %}
 
@@ -139,7 +138,7 @@ Vous pouvez décider d'éclairer tout l'intérieur ou seulement une partie, par 
 
 {% fig %}
 
- ![Luminaires de salon - éclairage du plafond](/uploads/lampy_do_salonu_podswietlenie_sufitu_1.jpg "Luminaires de salon - éclairage du plafond") 
+![Luminaires de salon - éclairage du plafond](/uploads/lampy_do_salonu_podswietlenie_sufitu_1.jpg "Luminaires de salon - éclairage du plafond")
 
 {% endfig %}
 
@@ -149,7 +148,7 @@ Le gagnant **absolu parmi les solutions 2020 est l'idée de murs éclairés dans
 
 {% fig %}
 
- ![Lampes de salon inhabituelles - éclairage mural](/uploads/nietypowe_podswietlenie_salon_1.jpg "Lampes de salon inhabituelles - éclairage mural") 
+![Lampes de salon inhabituelles - éclairage mural](/uploads/nietypowe_podswietlenie_salon_1.jpg "Lampes de salon inhabituelles - éclairage mural")
 
 {% endfig %}
 
@@ -163,7 +162,7 @@ Il y a quelques années encore, les petites lampes discrètes étaient plus popu
 
 {% fig %}
 
- ![Lampadaire pour une salle de séjour](/uploads/lampy_podlogowe_do_salonu_1.jpg "Lampadaire pour une salle de séjour") 
+![Lampadaire pour une salle de séjour](/uploads/lampy_podlogowe_do_salonu_1.jpg "Lampadaire pour une salle de séjour")
 
 {% endfig %}
 
@@ -175,7 +174,7 @@ Vous pouvez obtenir un effet tout aussi intéressant si vous **fabriquez vous-m�
 
 {% fig %}
 
- ![Lampes de salon suspendues - Bricolage](/uploads/lampy_do_salonu_proste_diy_1.jpg "Lampes de salon suspendues - Bricolage") 
+![Lampes de salon suspendues - Bricolage](/uploads/lampy_do_salonu_proste_diy_1.jpg "Lampes de salon suspendues - Bricolage")
 
 {% endfig %}
 
