@@ -64,7 +64,7 @@ Wykonanie filcowych dekoracji będzie zależało od tego, co chcesz zdobić: **k
 
 * Z filcu **wycinasz podwójnie korpus skrzata**, a następnie zszywasz go kolorową nitką lub włóczką po bokach, zostawiając dolną przestrzeń niezłączoną.
 * Do środka korpusu **wkładasz niewielka ilość waty**, upychając ją w jego górnej części.
-* Przygotuj sobie cztery koraliki tej samej wielkości, rozgrzej klej na gorąco i przykleja je - w dolnej części jako dwie nóżki i górnej jako ręce. W przypadku nóżek pamiętaj, żeby delikatnie zakrywał je korpus. Jego dolną część możesz także delikatnie skleić za pomocą gorącego środka - w ten sposób mocowanie koralików będzie praktycznie niewidoczne. Ważny będzie takie duży koral, który posłuży jako głowa skrzata.
+* Przygotuj sobie cztery koraliki tej samej wielkości, rozgrzej klej na gorąco i przyklej je - w dolnej części jako dwie nóżki i górnej jako ręce. W przypadku nóżek pamiętaj, żeby delikatnie zakrywał je korpus. Jego dolną część możesz także delikatnie skleić za pomocą gorącego środka - w ten sposób mocowanie koralików będzie praktycznie niewidoczne. Ważny będzie takie duży koral, który posłuży jako głowa skrzata.
 * Po przymocowaniu głowy - weź **pędzelek i lakier do paznokci**, a następnie namaluj krasnalowi oczy oraz usta.
 * Z rękawiczki ucinasz część, która nakłada się na palec i robisz z niej **czapkę dla skrzata**, wiążąc u góry i mocując tasiemkę lub sznurek, który posłuży do powieszenia na choince.
 
