@@ -16,7 +16,7 @@ main_keywords:
 - biała kuchnia aranżacje
 toc: true
 promoted: false
-update_date: 2020-06-16
+update_date: 2020-08-14
 title: Biała Kuchnia - 7 Ciekawych Propozycji Jak Ją Ożywić
 description: Podoba Ci się biała kuchnia, ale chcesz wprowadzić do niej akcent kolorystyczny?
   ➡️ Sprawdź proste sposoby na ożywienie wnętrza. ✔️ To proste!
