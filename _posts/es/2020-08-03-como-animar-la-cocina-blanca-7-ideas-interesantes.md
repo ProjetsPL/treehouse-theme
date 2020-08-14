@@ -4,7 +4,7 @@ date: 2020-08-03
 main_keywords: []
 toc: true
 promoted: false
-update_date: 2020-08-03
+update_date: 2020-08-14
 title: "¿Cómo animar la cocina blanca? 7 ideas interesantes"
 description: Una cocina blanca es tu sueño, ¿pero quieres añadirle un color? ➡️ Aprende
   algunos trucos simples para animar tu interior. ✔️ ¡Es fácil!
@@ -189,6 +189,12 @@ Un diseño de cocina blanca con un panel de madera sobre los mostradores todaví
 ## A las cocinas blancas les encantan las hierbas y los acentos verdes
 
 ¿No quieres perturbar el diseño minimalista blanco usando accesorios de colores, pero aún así quieres que la habitación luzca fresca? **Hierbas y acentos verdes** es una solución perfecta para un espacio de cocina. Sobre todo, se ven muy **bien y dan "vida" al interior**. También es una solución muy práctica para la cocina. Al preparar las comidas, puedes condimentarlas con las mismas hierbas que sirven de decoración en tu cocina blanca.
+
+{% fig %}
+
+![A las cocinas blancas les encantan las hierbas y los acentos verdes](/uploads/biala-kuchnia-rosliny.jpg "A las cocinas blancas les encantan las hierbas y los acentos verdes")
+
+{% endfig %}
 
 {% fig %}
 
