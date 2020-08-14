@@ -47,3 +47,29 @@ To estimate how many light points are needed, you should carefully analyze your 
 ![Studio apartment poorly chosen lighting](/uploads/male-mieszkanie-zle-oswietlenie.jpg "Studio apartment poorly chosen lighting")
 
 {% endfig %}
+
+### Too large furniture or... too much furniture
+
+A studioo apartment might be difficult to furnish because it's not easy to estimate the right size of the furniture.  **Many homeowners wonder whether all the elements will fit in there - and, more importantly, how will they look like.**
+
+One cann be certain of one thing: if you decide on a small apartment, you will probably have to forget about a large living room set you could spend time watching TV series on. **A small, stylish sofa or a corner settee** will be far more functional.
+
+{% fig %}
+
+![Too large furniture or... too much furniture](/uploads/male-mieszkanie-zbyt-duze-meble.jpg "Too large furniture or... too much furniture")
+
+{% endfig %}
+
+{% fig %}
+
+![Studio apartment furniture](/uploads/male-mieszkanie-za-duze-meble.jpg "Studio apartment furniture")
+
+{% endfig %}
+
+Instead of free-standing furniture, you could also **choose custom furniture designs.** Thanks to this solution, you can spare a lot of space. They also might look far better.
+
+{:.distinction.distinction-warning}
+
+The size of the furniture is not always the problem - the number of pieces might be also an issue. Keep in mind that small apartments do not have enough space to put any equipment in them. It might easily lead to clutter - and that's not the point, after all.
+
+Think carefully what do you really need. **Choose accessories that complement each other, forming a consistent, but not overwhelmed space.** This way you can achieve a well organized and functional interior.
