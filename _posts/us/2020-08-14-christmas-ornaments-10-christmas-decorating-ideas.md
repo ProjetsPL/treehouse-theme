@@ -46,7 +46,7 @@ How to make the Christmas ornament stiff? There are several ways to do that. Cho
 {:.list.list-positive}
 
 * For small elements, you can stiffen them using an **ordinary hair spray**.
-* In most cases liquid staarch is sa better soolution - it's an old method for stiffening fabrics. **You can purchase it or prepare some yourself - using potato starch.**
+* In most cases liquid starch is a better solution - it's an old method for stiffening fabrics. **You can purchase it or prepare some yourself - using potato starch.**
 
 {:.distinction.distinction-information}
 
@@ -88,7 +88,7 @@ If you want, you can cut other elements from felt and glue them to the body. You
 
 **Table Christmas decorations can be easily purchased** in gift and flower shops. Wreaths, candleholders and other store-bought Christmas decorations look great. They are, however, not always exactly what you want. If Christmas atmosphere is your priority - choose DIY Christmas ornaments.
 
-One of the most interesting Christmas decorations are candle holders. To make them, you can use small bottles or jars. Just remove the labels and **pour some colorful sand, ornamental gravel or synthetic stones and other small decorations** inside. Finally, put a candle on top.
+Quite interesting Christmas decorations are candle holders. To make them, you can use small bottles or jars. Just remove the labels and **pour some colorful sand, ornamental gravel or synthetic stones and other small decorations** inside. Finally, put a candle on top.
 
 {% fig %}
 
@@ -98,9 +98,9 @@ One of the most interesting Christmas decorations are candle holders. To make th
 
 ## Zero-waste, eco-friendly Christmas decorations
 
-**Ecological products** and taking care of natural environment are very important issues. No wonder that it's a widely discussed topic also in terms of Christmas ornaments. One of the more interesting suggestions are strwa Christmas decorations.
+**Ecological products** and taking care of the natural environment are very important issues. No wonder that it's a widely discussed topic also in terms of Christmas ornaments. One of the more interesting suggestions is straw Christmas decorations.
 
-It might not seem so, but preparing such Christmas ornaments is not very difficult. Just use some online video tutorials and you'll create unique, 3D elements such as balls that look like pine cones.
+It might not seem so, but preparing such Christmas ornaments is not very difficult. Just use some online video tutorials, and you'll create unique, 3D elements such as balls that look like pine cones.
 
 **You are a rather impatient person?** No problem! You don't have to give up such ornaments. You could make flat stars - join the straws using a colorful red string.
 
@@ -116,7 +116,7 @@ It might not seem so, but preparing such Christmas ornaments is not very difficu
 
 ## Pinecone Christmas ornaments
 
-Pinecones make another great natural and zero-waste material that can used for Christmas decorations. **Painting them gold or silver with special spray-paint** is a popular method that has been used for years.
+Pinecones make another great natural and zero-waste material that can be used for Christmas decorations. **Painting them, gold or silver with special spray-paint** is a popular method that has been used for years.
 
 You can do more than that and create very original **Christmas decorations - snow-capped Christmas trees**. To make them, you need:
 
@@ -139,13 +139,13 @@ You can do more than that and create very original **Christmas decorations - sno
 
 ## Scented Christmas ornaments
 
-Christmas magic lies not only in **decorative Christmas ornaments**, but also in certain smells which create the atmosphere. But can one coombine those two aspects? Of course. All you need is some natural DIY scented Christmas decorations.
+Christmas magic lies not only in **decorative Christmas ornaments**, but also in certain smells which create the atmosphere. But can one combine those two aspects? Of course. All you need is some natural DIY scented Christmas decorations.
 
 The absolute basis in this matter are **dried orange, lemon or grapefruit slices.** You can use them in a Christmas wreath, as well as solely - as a Christmas tree ornament. But, it is only one of the ways you can use orange. Pomander balls are another interesting option - just put some cloves in an orange forming a pattern and place the ball in an exposed spot.
 
 {:.distinction.distinction-information}
 
-You can also use cinammon sticks - another scented Christmas decor idea. Wrap an ornamental ribbon around them - red, golden or silver. It's a minimalistic, but highly atmospheric Christmas decoration.
+You can also use cinnamon sticks - another scented Christmas decor idea. Wrap an ornamental ribbon around them - red, golden or silver. It's a minimalistic but highly atmospheric Christmas decoration.
 
 {% fig %}
 
@@ -159,7 +159,7 @@ Are you a baked goods lover? It's a good opportunity to use them as Christmas de
 
 How to make a gingerbread house? You need three gingerbread rectangles for the base. Then, prepare some **frosting -** you are going to use it to assemble the elements. Spread in onto spots where the basis meets the roof and on the roof joint. You can also use the frosting to paint snow, attach figurines and ornaments - use hard or jelly candies.
 
- The biggest challenge is making the **figurines from the sugar paste** - although it shouldn't be too problematic. If you have no big skills - just make an angel - with white body, wings and a halo on the head. Do you like challenges? Try recreating the figurines from the photo below.
+The biggest challenge is making the **figurines from the sugar paste** - although it shouldn't be too problematic. If you have no big skills, just make an angel - with white body, wings and a halo on the head. Do you like challenges? Try recreating the figurines from the photo below.
 
 {% fig %}
 
@@ -232,7 +232,7 @@ How to make Christmas decorations?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-It all depends on what kind of a Christmas ornament you want to make. Usually you only need several elements and glue - to bind them together. Each Christmas decoration requires individual anallysis and preparing necessary materials.
+It all depends on what kind of a Christmas ornament you want to make. Usually, you only need several elements and glue - to bind them together. Each Christmas decoration requires individual analysis and preparing necessary materials.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
@@ -252,6 +252,6 @@ How to organize christmas decorations?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-To prepare the Christmas ornaments for the next season, dust them and put them in separate boxes. You can organize them by color, or by purpose - put Christmas tree decorations in one box, and the ones you use outside - in another. Use an egg carton to prevent glass Christmas balls from breaking.
+To prepare the Christmas ornaments for the next season, dust them and put them in separate boxes. You can organize them by color, or by their purpose - put Christmas tree decorations in one box, and the ones you use outside in another. Use an egg carton to prevent glass Christmas balls from breaking.
 {% endfaqAnswer %}
 {% endfaqItem %}
