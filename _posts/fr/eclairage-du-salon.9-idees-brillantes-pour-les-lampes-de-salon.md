@@ -19,112 +19,194 @@ related_products: []
 published: false
 
 ---
-## Living room lighting - modern and minimalistic
+## L'éclairage du salon - moderne et minimaliste
 
-Do you want to change the outdated illumination in your room? Do you like **simple, uncomplicated forms and minimalism?** The lamps you choose can reflect those features perfectly. Such elements have been **quite popular recently**. The most characteristic features of a room lighting of this type are:
+Vous voulez changer l'éclairage désuet de votre chambre ? Vous aimez les **formes simples et le minimalisme** ? Les lampes que vous choisissez peuvent parfaitement refléter ces caractéristiques. De tels éléments ont été assez **populaires récemment**. Les éléments les plus caractéristiques d'un tel éclairage de pièce sont les suivants :
 
 {:.list}
 
-* simple design,
-* reference to traditional lightbulbs aesthetics,
-* exposed lightbulbs.
+* une conception simple,
+* référence à l'esthétique des ampoules traditionnelles,
+* des ampoules exposées.
 
-Minimalistic and at the same time modern living room lamps are typically offered in various sizes. Fitting them to the room shouldn't be any problem.
+Les lampes de salon à la fois minimalistes et modernes sont généralement proposées en différentes tailles. Les adapter à la pièce ne devrait pas poser de problème.
 
-{% fig %} ![Living room lighting - modern and minimalistic](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_1.jpg "Living room lighting - modern and minimalistic") {% endfig %}
+{% fig %}
 
-{% fig %} ![Living room lighting - modern and minimalistic](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_3.jpg "Living room lighting - modern and minimalistic") {% endfig %}
+ ![L'éclairage de la salle de séjour - moderne et minimaliste](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_1.jpg "L'éclairage de la salle de séjour - moderne et minimaliste") 
 
-**Classic shades made of transparent glass** are the hottest trend. There is also another, equally interesting and quite controversial solution - using only a lightbulb for a living room lighting. It's a characteristic solution especially for loft-style apartments, which refer to industrial aesthetics. They are quite popular among younger generations.
+{% endfig %}
 
-{:.distinction.distinction-information} If you decide to use an exposed lightbulb without a decorative shade, keep in mind that the socket should fit perfectly. You can choose different colors - although black is the most common - white, gold or silver might look equally interesting.
+{% fig %}
 
-{% fig %} ![Living room lighting - modern and minimalistic](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_2.jpg "Living room lighting - modern and minimalistic") {% endfig %}
+ ![Living room lighting - modern and minimalistic](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_3.jpg "Living room lighting - modern and minimalistic") 
 
-## Living room lamps - inspired by nature
+{% endfig %}
 
-Another trend, quite similar to the previous one involves **the loft method for living room lighting**, but combined with natural elements, for instance raw wood. It fits perfectly with black lamp shades, which highlight the central point - lightbulb.
+**Les teintes classiques en verre transparent** sont la tendance la plus en vogue. Il existe également une autre solution, tout aussi intéressante et assez controversée, qui consiste à n'utiliser qu'une ampoule pour l'éclairage d'une salle de séjour. C'est une solution caractéristique, surtout pour les appartements de style loft, qui font référence à l'esthétique industrielle. Elles sont assez populaires parmi les jeunes générations.
 
-**Nature inspired living room lamps** are a good solution for those who like unusual ideas. This type of living room lighting might become the main ornament in the interior. As a result, no one will pass it without noticing it.
+{:.distinction.distinction-information}
 
-{% fig %} ![Living room lamps - inspired by nature](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_4.jpg "Living room lamps - inspired by nature") {% endfig %}
+Si vous décidez d'utiliser une ampoule exposée sans abat-jour décoratif, gardez à l'esprit que la douille doit s'adapter parfaitement. Vous pouvez choisir différentes couleurs - bien que le noir soit le plus courant - le blanc, l'or ou l'argent peuvent sembler tout aussi intéressants.
 
-## Living room lighting - timeless classics
+{% fig %}
 
-Traditional living room chandeliers, as it turns out, are still in fashion - especially in classically furnished interiors. It's a highly advantageous solution. It provides a lot of light, which is crucial for many homeowners.
+ ![L'éclairage de la salle de séjour - moderne et minimaliste](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_2.jpg "L'éclairage de la salle de séjour - moderne et minimaliste") 
 
-It's also worth noting that there are a lot of **designs, colors and sizes** of living room lamps to choose from. Therefore, finding a model that fits one's needs shouldn't be an issue.
+{% endfig %}
 
-{% fig %} ![Living room lighting - timeless classics](/uploads/tradycyjne_lampy_do_salonu_1.jpg "Living room lighting - timeless classics") {% endfig %}
+## Lampes de salon - inspirées par la nature
 
-{% fig %} ![Living room lighting - timeless classics](/uploads/tradycyjne_lampy_do_salonu_2.jpg "Living room lighting - timeless classics") {% endfig %}
+Une autre tendance, assez similaire à la précédente, concerne **la méthode du loft pour l'éclairage des salons**, mais combinée avec des éléments naturels, par exemple le bois brut. Elle s'accorde parfaitement avec les abat-jour noirs, qui mettent en valeur le point central - l'ampoule.
 
-## Living room lighting - glamour style
+**Les lampes de salon inspirées de la nature** sont une bonne solution pour ceux qui aiment les idées inhabituelles. Ce type d'éclairage de salon pourrait devenir l'ornement principal de l'intérieur. Ainsi, personne ne passera devant sans s'en apercevoir.
 
-**Glamour style living room lamps** are very similar to the classic chandeliers. The difference is that they are far more ornamental. They also use plenty of crystals and other shiny elements.
+{% fig %}
 
-On the other hand, modern glamour style can be ornamental but not overwhelming in its construction. In this case, pay attention to the **shape of the lamp** instead of the number of elements.
+ ![Lampes de salon - inspirées par la nature](/uploads/lampy_do_salonu_nowoczesne_minimalistyczne_4.jpg "Lampes de salon - inspirées par la nature") 
 
-{% fig %} ![Living room lighting - glamour style](/uploads/lampy_do_salonu_styl_glamour_1.jpg "Living room lighting - glamour style") {% endfig %}
+{% endfig %}
 
-{% fig %} ![Living room lighting - glamour style](/uploads/lampy_do_salonu_styl_glamour_2.jpg "Living room lighting - glamour style") {% endfig %}
+## L'éclairage de salon - des classiques intemporels
 
-## Artistic living room lighting
+Les lustres traditionnels de salon sont toujours à la mode, surtout dans les intérieurs classiques. C'est une solution très avantageuse. Il fournit beaucoup de lumière, ce qui est crucial pour de nombreux propriétaires.
 
-**Artistic living room lamps** are quite the opposite of the minimalist style. They are chosen mostly by those who seek for an unusual style for their interior. Art, when it comes to living room lighting, has many dimensions.
+Il convient également de noter qu'il existe un grand choix de **modèles, de couleurs et de tailles** de lampes de salon. Par conséquent, trouver un modèle qui correspond à ses besoins ne devrait pas être un problème.
 
-The first one involves the form of the lighting. It can be quite simple but combine **several different shapes** that together look quite interesting.
+{% fig %}
 
-Another **unusual living room lighting idea** involves not only using several light points in one place, but also combining contrasting colors. It's a guarantee of a very good effect.
+ ![L'éclairage de la salle de séjour - des classiques intemporels](/uploads/tradycyjne_lampy_do_salonu_1.jpg "L'éclairage de la salle de séjour - des classiques intemporels") 
 
-{% fig %} ![Artistic living room lighting](/uploads/lampy_do_salonu_artystyczne_1.jpg "Artistic living room lighting") {% endfig %}
+{% endfig %}
 
-{% fig %} ![Artistic living room lighting](/uploads/lampy_do_salonu_artystyczne_4.jpg "Artistic living room lighting") {% endfig %}
+{% fig %}
 
-Not only **hanging living room lamps can be pieces of art.** Additional lighting points of the room are also worth paying attention, as they can become interesting decorations. You can put some hand-painted lamps on a credenza or a desk, which will surely grab your guests' attention.
+ ![L'éclairage de la salle de séjour - des classiques intemporels](/uploads/tradycyjne_lampy_do_salonu_2.jpg "L'éclairage de la salle de séjour - des classiques intemporels") 
 
-{% fig %} ![Artistic living room lighting](/uploads/lampy_do_salonu_artystyczne_2.jpg "Artistic living room lighting") {% endfig %}
+{% endfig %}
 
-## Living room lights - ceiling illumination
+## Éclairage du salon - style glamour
 
-Although a **ceiling illumination** and recessed lighting cannot serve as the main light source in a living room, it is undoubtedly an impressive decoration. No wonder that this solution has been gaining popularity.
+**Les lampes de salon de style glamour** sont très similaires aux lustres classiques. La différence est qu'elles sont beaucoup plus décoratives. Elles utilisent également beaucoup de cristaux et d'autres éléments brillants.
 
-You can decide to illuminate the whole interior or only its part, for instance over the sofa or the furniture. Additionally, you have a wide variety of colors to choose from.
+D'un autre côté, le style glamour moderne peut être décoratif, mais sans être écrasant dans sa construction. Dans ce cas, faites attention à **la forme de la lampe** plutôt qu'au nombre d'éléments.
 
-{% fig %} ![Living room lights - ceiling illumination](/uploads/lampy_do_salonu_podswietlenie_sufitu_1.jpg "Living room lights - ceiling illumination") {% endfig %}
+{% fig %}
 
-## Unusual living room lamps - wall illumination
+ ![Éclairage du salon - style glamour](/uploads/lampy_do_salonu_styl_glamour_1.jpg "Éclairage du salon - style glamour") 
 
-The absolute **winner among the 2020 solutions is the idea of illuminated walls in the living room.** Popular several years ago wall lights are being replaced by modern constructions - the same as the ones used for illuminated ceilings. What are the limitations of such a solution? The only limit is your own imagination. By hiring a really good specialist, you can carry out any wall illumination project.
+{% endfig %}
 
-{% fig %} ![Unusual living room lamps - wall illumination](/uploads/nietypowe_podswietlenie_salon_1.jpg "Unusual living room lamps - wall illumination") {% endfig %}
+{% fig %}
 
-## Floor lamp for a living room
+ ![Éclairage du salon - style glamour](/uploads/lampy_do_salonu_styl_glamour_2.jpg "Éclairage du salon - style glamour") 
 
-**Floor living room lamps** are a great addition to the main light sources in a room. They are particularly helpful if you like to read a lot in the evening. A well illuminated book can help you protect your eyes from strain. Lamps of this type can also serve as a perfect decoration.
+{% endfig %}
 
-{:.distinction.distinction-information} Just a couple of years ago, smaller inconspicuous lamps were a more popular option. Today large shades attached to a bent stand are the common choice. It's a perfect solution for large living room spaces.
+## Éclairage artistique du salon
 
-{% fig %} ![Floor lamp for a living room](/uploads/lampy_podlogowe_do_salonu_1.jpg "Floor lamp for a living room") {% endfig %}
+**Les lampes de salon artistiques** sont tout le contraire du style minimaliste. Elles sont surtout choisies par ceux qui recherchent un style inhabituel pour leur intérieur. L'art, lorsqu'il s'agit d'éclairage de salon, a de nombreuses dimensions.
 
-## Hanging living room lamps - DIY
+La première concerne la forme de l'éclairage. Elle peut être assez simple mais combiner **plusieurs formes différentes** qui, ensemble, semblent assez intéressantes.
 
-Do you like to be creative? Do you need an idea for an unusual living room lamp? You can make it yourself - the **DIY method**. It's quite easy. You can use a store-bought paper shade and decorate it, according to the result you wish to achieve. It's only one of many ideas.
+Une **autre idée inhabituelle d'éclairage** de salon consiste non seulement à utiliser plusieurs points lumineux en un seul endroit, mais aussi à combiner des couleurs contrastées. C'est la garantie d'un très bon effet.
 
-You can get equally interesting effect if you **make the lamp shade yourself**. For this purpose, you can use a flower pot. It all depends on your own creativity.
+{% fig %}
 
-{% fig %} ![Hanging living room lamps - DIY](/uploads/lampy_do_salonu_proste_diy_1.jpg "Hanging living room lamps - DIY") {% endfig %}
+ ![Éclairage artistique du salon](/uploads/lampy_do_salonu_artystyczne_1.jpg "Éclairage artistique du salon") 
 
-**Find your own style and create an unusual interior with living room lighting.**
+{% endfig %}
 
-{% faqItem %} {% faqQuestion %} What type of lighting is best for living room? {% endfaqQuestion %}
+{% fig %}
 
-{% faqAnswer %} It is best to match the style of the living room lights with the style of the room. There are many ppossibilities - minimalist lamps are the most universal. If you want something more decorative, choose ornamental classic chandeliers or glamour style lamps. {% endfaqAnswer %} {% endfaqItem %}
+ ![Éclairage artistique du salon](/uploads/lampy_do_salonu_artystyczne_4.jpg "Éclairage artistique du salon") 
 
-{% faqItem %} {% faqQuestion %} Where to place recessed lighting in living room? {% endfaqQuestion %}
+{% endfig %}
 
-{% faqAnswer %} You can create a pleasant, atmospheric glow by placing the lights by the ceiling. You can illuminate the whole room or choose just a part - over the sofa, the furniture or behind the TV. {% endfaqAnswer %} {% endfaqItem %}
+Il n'y a pas que **les lampes de salon suspendues qui peuvent être des œuvres d'art**. Les points d'éclairage supplémentaires de la pièce méritent également une attention particulière, car ils peuvent devenir des décorations intéressantes. Vous pouvez placer quelques lampes peintes à la main sur une crédence ou un bureau, ce qui attirera certainement l'attention de vos invités.
 
-{% faqItem %} {% faqQuestion %} How to design living room lighting? {% endfaqQuestion %}
+{% fig %}
 
-{% faqAnswer %} When designing a living room lighting, you should pay attention to several important aspects. The size of the room and access to the natural lighting are crucial. The rest lies in your own individual taste and the actual trends. {% endfaqAnswer %} {% endfaqItem %}
+ ![Éclairage artistique du salon](/uploads/lampy_do_salonu_artystyczne_2.jpg "Éclairage artistique du salon") 
+
+{% endfig %}
+
+## Luminaires de salon - éclairage du plafond
+
+Bien qu'un **éclairage au plafond** et un éclairage encastré ne puissent pas servir de source de lumière principale dans une salle de séjour, il s'agit sans aucun doute d'une décoration impressionnante. Il n'est donc pas étonnant que cette solution gagne en popularité.
+
+Vous pouvez décider d'éclairer tout l'intérieur ou seulement une partie, par exemple au-dessus du canapé ou des meubles. De plus, vous avez le choix entre une grande variété de couleurs.
+
+{% fig %}
+
+ ![Luminaires de salon - éclairage du plafond](/uploads/lampy_do_salonu_podswietlenie_sufitu_1.jpg "Luminaires de salon - éclairage du plafond") 
+
+{% endfig %}
+
+## Lampes de salon inhabituelles - éclairage mural
+
+Le gagnant **absolu parmi les solutions 2020 est l'idée de murs éclairés dans le salon**. Populaires il y a quelques années, les appliques murales sont remplacées par des constructions modernes - les mêmes que celles utilisées pour les plafonds éclairés. Quelles sont les limites d'une telle solution ? La seule limite est votre propre imagination. En engageant un très bon spécialiste, vous pouvez réaliser n'importe quel projet d'éclairage mural.
+
+{% fig %}
+
+ ![Lampes de salon inhabituelles - éclairage mural](/uploads/nietypowe_podswietlenie_salon_1.jpg "Lampes de salon inhabituelles - éclairage mural") 
+
+{% endfig %}
+
+## Lampadaire pour une salle de séjour
+
+**Les lampes de salon au sol** sont un excellent complément aux principales sources de lumière dans une pièce. Elles sont particulièrement utiles si vous aimez beaucoup lire le soir. Un livre bien éclairé peut vous aider à protéger vos yeux de la fatigue. Les lampes de ce type peuvent également servir de décoration parfaite.
+
+{:.distinction.distinction-information}
+
+Il y a quelques années encore, les petites lampes discrètes étaient plus populaires. Aujourd'hui, les grands abat-jour fixés à un pied courbé sont le choix le plus courant. C'est une solution parfaite pour les grands espaces de la salle de séjour.
+
+{% fig %}
+
+ ![Lampadaire pour une salle de séjour](/uploads/lampy_podlogowe_do_salonu_1.jpg "Lampadaire pour une salle de séjour") 
+
+{% endfig %}
+
+## Lampes de salon suspendues - Bricolage
+
+Vous aimez être créatif ? Vous avez besoin d'une idée pour une lampe de salon inhabituelle ? Vous pouvez la réaliser vous-même - la **méthode du bricolage**. C'est très facile. Vous pouvez utiliser un abat-jour en papier acheté en magasin et le décorer, en fonction du résultat que vous souhaitez obtenir. Ce n'est qu'une idée parmi d'autres.
+
+Vous pouvez obtenir un effet tout aussi intéressant si vous **fabriquez vous-même l'abat-jour**. Pour cela, vous pouvez utiliser un pot de fleurs. Tout dépend de votre propre créativité.
+
+{% fig %}
+
+ ![Lampes de salon suspendues - Bricolage](/uploads/lampy_do_salonu_proste_diy_1.jpg "Lampes de salon suspendues - Bricolage") 
+
+{% endfig %}
+
+**Trouvez votre propre style et créez un intérieur insolite avec l'éclairage du salon.**
+
+{% faqItem %}
+{% faqQuestion %}
+Quel est le meilleur type d'éclairage pour la salle de séjour ?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Il est préférable de faire correspondre le style des lumières du salon avec le style de la pièce. Il existe de nombreuses possibilités - les lampes minimalistes sont les plus universelles. Si vous voulez quelque chose de plus décoratif, choisissez des lustres classiques décoratifs ou des lampes de style glamour.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+Où placer l'éclairage encastré dans le salon ?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Vous pouvez créer une lueur agréable et atmosphérique en plaçant les lumières au plafond. Vous pouvez éclairer toute la pièce ou n'en choisir qu'une partie : sur le canapé, les meubles ou derrière la télévision.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+Comment concevoir l'éclairage d'une salle de séjour ?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Lorsque vous concevez l'éclairage d'une salle de séjour, vous devez prêter attention à plusieurs aspects importants. La taille de la pièce et l'accès à l'éclairage naturel sont essentiels. Le reste dépend de vos goûts personnels et des tendances actuelles.
+{% endfaqAnswer %}
+{% endfaqItem %}
