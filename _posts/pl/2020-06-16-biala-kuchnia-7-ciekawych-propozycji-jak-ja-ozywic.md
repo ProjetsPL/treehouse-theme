@@ -163,7 +163,7 @@ Nie chcesz zakłócać białej, minimalistycznej kuchni żadnymi akcentami kolor
 
 {% fig %}
 
-![Biała kuchnia plants](/uploads/biala-kuchnia-rosliny.jpg "Biała kuchnia plants")
+![Biała kuchnia rośliny](/uploads/biala-kuchnia-rosliny.jpg "Biała kuchnia rośliny")
 
 {% endfig %}
 
