@@ -39,3 +39,11 @@ When looking for small apartment ideas to design the interior, one might make se
 Wrong lighting is a common problem - not only for small apartments, but also larger interiors. Lack of natural lighting, not enough artificial lighting sources or their wrong planning - **those are issues affecting 30% of the whole population.** Where do those difficulties come from?
 
 To estimate how many light points are needed, you should carefully analyze your project. **The lighting should help along everyday activities.** To choose the right lamp or even think about placing it, you have to know the exact spots at which you are going to prepare meals or read books.
+
+**Lights arrangement mistakes arise because few think holistically at this stage.** Instead, one adopts general schemes: the main lamp hanging in the middle, some lights on the wall. Meanwhile, small apartments tend to be unusual in terms of structure, and certain pieces of equipment do not always stand in the most obvious spots. This way you might accidentally fall into trap.
+
+{% fig %}
+
+![Studio apartment poorly chosen lighting](/uploads/male-mieszkanie-zle-oswietlenie.jpg "Studio apartment poorly chosen lighting")
+
+{% endfig %}
