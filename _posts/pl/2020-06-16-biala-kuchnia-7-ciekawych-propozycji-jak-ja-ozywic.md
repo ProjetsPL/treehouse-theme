@@ -162,6 +162,12 @@ Kuchnia biała z drewnem nad blatem to wciąż mało popularne rozwiązanie. Je�
 Nie chcesz zakłócać białej, minimalistycznej kuchni żadnymi akcentami kolorystycznymi w dodatkach, a mimo to zależy Ci, aby wnętrze wyglądało świeżo? **Zioła i zielone akcenty** to idealne rozwiązanie w kuchennej przestrzeni. Przede wszystkim bardzo dobrze się prezentują i **wprowadzają do wnętrza "życie"**. Jest to również bardzo praktyczna pomoc podczas gotowania. W dowolnym momencie do przyprawiania swoich dań możesz użyć tych samych ziół, które są dekoracją.
 
 {% fig %}
+
+![Biała kuchnia plants](/uploads/biala-kuchnia-rosliny.jpg "Biała kuchnia plants")
+
+{% endfig %}
+
+{% fig %}
 ![Biała kuchnia kocha zioła i zielone akcenty](/uploads/biala-kuchnia-ziola.jpg "Biała kuchnia kocha zioła i zielone akcenty")
 {% endfig %}
 
