@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2020-08-14
+date: 2020-08-15
 main_keywords:
 - einzimmerwohnung einrichten
 toc: true
 promoted: false
-update_date: 2020-08-14
+update_date: 2020-08-15
 title: 6 Fehler, die bei Einrichtung von Einzimmerwohnung zu vermeiden
 description: "Besitzen Sie eine Einzimmerwohnung? \U0001F3E0 Ein kleines Interieur
   zu entwerfen, könnte schwierig sein. ➡️ Vermeiden Sie häufige Fehler"
@@ -17,7 +17,6 @@ intro: 'Haben Sie Ihr Erwachsenenleben gerade erst begonnen und wollen sich schn
   können.'
 image: "/uploads/male-mieszkanie-bledy-podczas-jego-urzadzania.jpg"
 related_products: []
-published: false
 
 ---
 ## Vermeiden Sie solche Fehler bei der Einrichtung einer Einimmerwohnung
