@@ -18,7 +18,7 @@ intro: Święta już niebawem - więc to najwyższy czas, aby zastanowić się, 
   dekoracje stołu, które z pewnością zaskoczą całą rodzinę. Przygotowaliśmy kilkanaście
   ciekawych propozycji na wigilijnyh stół, dzięki którym możesz zainspirować się do
   stworzenia własnych stylizacji.
-image: "/uploads/stol-wigilijny-dekoracje-stolu-pomysly.jpg"
+image: "/uploads/stol-wigilijny.jpg"
 related_products: []
 
 ---
@@ -172,6 +172,12 @@ Absolutne **_must have_** to także świece. Te możesz bezkarnie wybierać w cz
 
 {% fig %}
 ![Czarne elementy - nietypowy wigilijny stół](/uploads/stol-wigilijny-czarne-elementy.jpg "Czarne elementy - nietypowy wigilijny stół")
+{% endfig %}
+
+{% fig %}
+
+![Stół wigilijny - czarne świece](/uploads/stol-wigilijny-dekoracje-stolu-pomysly.jpg "Stół wigilijny - czarne świece")
+
 {% endfig %}
 
 ## Dekoracje stołu - złoto, czerwień i rośliny
