@@ -14,12 +14,12 @@ opinion:
     confirmed_purchase: true
     content: dobra pralka , dobrze wiruje .
     author: ANIA
-    rating: '4'
+    rating: 4
   - template: review
     confirmed_purchase: true
     content: Spełniła oczekiwania, czego chcieć więcej.
     author: Damian
-    rating: '5'
+    rating: 5
   - template: review
     confirmed_purchase: true
     content: 'W porównaniu z modelem z przed 8 lat widać, że producent szuka oszczędności:
@@ -28,7 +28,7 @@ opinion:
       różnicy między wcześniejszym silnikiem a obecnie instalowanym (bez szczotkowym).
       Ładnie się prezentuje.'
     author: mariusz
-    rating: '3'
+    rating: 3
 distinction: ''
 name: Electrolux EW7F447WI PerfectCare
 description: |-
@@ -41,6 +41,7 @@ links:
   url: https://www.ceneo.pl/71584292#crid=357463&pid=21269
   anchor: Kup od 2049,00 zł
   provider: Ceneo
+  next-url: https://www.ceneo.pl/Click/Offer/?e=BZSX2RG8jAZG5U71ADWJSWlGyvc-j1b8Gngkm-eMnbpVpRPCmHkMCD21yqBi2xL00NjAw9YCrHJWyWZ3BxYSw1qKVXDcCYfgRQ4gf4-mr6SJ6pn4VpLsFDcuV2srB47vnGz-AwTvDC01UZyxWi3F5Y6lpPFAACNR3YNoYyvVpxvlbmSJQfypbvLSlfA4MFtBlWg8VDudMwRT-kMFfR38a3r7Zz9gi58aBytLDW3u6TsShu8hOtfXnDpKKL02opxsdppRLRfbbg-57zVZLWviLqUiqxHhjMYHLujkMR_dx_i2X5c2e9UzqVpD7uN3jiaQpVBMwlkFDd3Pmw-pee89XT5oRsey6YAXpVBMwlkFDd2lUEzCWQUN3YgKLunZy1EYyJVoAbnnazmJa58pYLAYwbb5yM9Jai-cLjtvlXAF6Yn5nCEDqlwHpLatU_3OrcWf6DztYpriZR34DNcl9hGFJAWsFbOndtJRw3zduzKTi5YTxFxnBwR5fw==&a=2&rc=notset
 properties:
   type: Do zabudowy
   size: Standard
@@ -48,7 +49,7 @@ properties:
   energy_class: A+++
   type_of_drum: Stalowy
   load: 7 kg
-  maximum_spin_speed: "1400"
+  maximum_spin_speed: '1400'
   annual_energy_usage: 174 kWh
   annual_water_usage: 10499 l
 
