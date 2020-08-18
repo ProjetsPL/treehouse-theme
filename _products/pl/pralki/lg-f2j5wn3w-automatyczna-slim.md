@@ -23,7 +23,7 @@ opinion:
       najczęściej ... jest waga i dobiera czas do ilości prania im mnie tym szybciej
       pierze... zatem tak podoba mi się ;)
     author: Użytkownik Ceneo
-    rating: '5'
+    rating: 5
   - template: review
     confirmed_purchase: true
     author: AK
@@ -31,19 +31,19 @@ opinion:
       czterech różnych programach. Jescze sie nie zepsułą !!! Jest to trzecia pralka
       w ostatnich 4 latach, Samsung padl miesiąc po upływie gwarancji, a Electrolux
       8 miesiecy po upływie gwarancji. Zobaczymy na ile wystarczy LG.
-    rating: '4'
+    rating: 4
   - template: review
     confirmed_purchase: true
     content: Cicha pralka i ekonomiczna. Duża ilość programów ponad przeciętna prędkość
       wirowania . Kompaktowa o sporej ładowności za rozsądne pieniądze
     author: fhueprom
-    rating: '5'
+    rating: 5
   - template: review
     confirmed_purchase: true
     content: Pralka dobra,choć mogłaby mieć większy zakres temperatury prania (ma
       tylko 20,40,60,95 stopni)
     author: Jerzy
-    rating: '4'
+    rating: 4
   - template: review
     confirmed_purchase: true
     content: Pralka jest u nas 2gi dzień, ale już się mocno napracowała. Jest rzeczywiście
@@ -52,7 +52,7 @@ opinion:
       Pierze bardzo ładnie, dużo programów, można zmieniać temperaturę/prędkość wirowania
       dla większości programów co jest super pomysłem.
     author: Łukasz
-    rating: '4'
+    rating: 4
 distinction: ''
 name: LG F2J5WN3W
 description: |-
@@ -69,6 +69,7 @@ links:
   url: https://www.ceneo.pl/50315228#crid=357429&pid=21269
   anchor: Kup od 1325,00
   provider: Ceneo
+  next-url: https://www.ceneo.pl/Click/Offer/?e=ThulPWoz8CVG5U71ADWJSSqd6Y6Im7mK04jzEsDDkYQdo93re1srX2ofrJjWpdO0zbB_1kpCfEgp4d_qdAMUiUcltRSbz1CURQ4gf4-mr6SJ6pn4VpLsFDcuV2srB47vnGz-AwTvDC01UZyxWi3F5Y6lpPFAACNRp4n5NYzKrgsEXbJZHzyDGsvd2L6s3JqyeTusiXu1bKsWKX1Ch7XW06i1eM6fuqKsUtpythcbEBziFjK2MuSYRqnVTOYUdAikhPNHwlj8Dq3LXwOx4Ps85pgHUZe-szT7PaihDhNKmI4TEmZCrTb7NoWC2hgW2ze91YE3EXH6Ok-lUEzCWQUN3XUNWsIsTvf0Tgogt7ftKQEsKuLn2dX6rb7dXEnUWPQ2kBy1awvnFwREXveF1GHygpUU8x1YzOFQN0HP03iXxigv-ZKvGK_fM5PNhRy7Y9LN3fH06QOu3hs=&a=2&rc=notset
 properties:
   type: Automatyczna
   size: Standard
@@ -76,7 +77,7 @@ properties:
   energy_class: A+++
   type_of_drum: Brak informacji
   load: 6,5 kg
-  maximum_spin_speed: "1200"
+  maximum_spin_speed: '1200'
   annual_energy_usage: 146 kWh
   annual_water_usage: 9500 l
 

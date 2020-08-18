@@ -19,33 +19,33 @@ opinion:
       mojego brata. Pralka bardzo przystępna cenowo. Brat ma ją dwa lata i działa
       bez zarzutu. Jedyny minus to nie zawsze dopiero ubrania do idealnej czystości.
     author: Ewelina
-    rating: '4'
+    rating: 4
   - template: review
     confirmed_purchase: true
     content: Pralka w sumie ok. Fajna funkcja energy saver ktora skraca czas prania,
       no i wyslwietlacz z czasem prania super wczsniej nie mialam i bylo ciagle zagladanie
       wypralo sie juz..... ;-)
     author: Dorota
-    rating: '4'
+    rating: 4
   - template: review
     confirmed_purchase: true
     content: pralka bardzo fajna w obsłudzę .rodzice koło 60 są bardzo zadowoleni
       bo panel nie jest skomplikowany. ładnie i zgrabnie wygląda ! cicha praca to
       miłe zaskoczenie .robi robotę :)
     author: Ewa
-    rating: '5'
+    rating: 5
   - template: review
     confirmed_purchase: true
     content: Pralka jak pralka, pierze, jest w miarę cicha, bardzo łatwa w obsłudze.
       Polecam !!
     author: Jacek
-    rating: '4'
+    rating: 4
   - template: review
     confirmed_purchase: true
     content: Polecam za te pieniądze nic lepszego nie znajdziecie pralka do małej
       łazienki
     author: Mirek
-    rating: '4'
+    rating: 4
 distinction: budget
 name: Indesit IWSD 51051 C ECO PL
 description: |-
@@ -60,6 +60,7 @@ links:
   url: https://www.ceneo.pl/31150093#cid=36645&crid=357442&pid=21269
   anchor: Kup od 749,00 zł
   provider: Ceneo
+  next-url: https://www.ceneo.pl/Click/Offer/?e=RWnjlDfwectG5U71ADWJSWlGyvc-j1b8DV1OlmvdsVcLfkzGz5LNGntBYcZbBE5YUGpYMt1aX5xUAmkO7gIHwT-dySaJ-abmb67SoUxt104i7WnluRttXmnoccMXfj2gxkA9gHaAX4zP78qSIGs_D9_jT4Unh5u_pyGAOWvPyChBDeFowtZ8mcMN0gN5lu1mq98evjytpvr8cn1VhksOhO3ZZD9nCygMxvT4bpN2YljsLZS34ShgAKsk9YYbYta5PwUFxFNirW9_IS8WBzafV49XzOUowv-pXN7c0ZWdKfilUEzCWQUN3aYsRvGCFqQthh3QM0f2Y8ClUEzCWQUN3aVQTMJZBQ3dmG6BbSxnT8_DwDtk3l04bbl1X9AfnYwWN-XAU3HXs3-KhgHyoMiNc6FHspby-8fcgWvj8JIi1YbvUFSPCh6hnBFjMwY2Vklk0zzERM3YTTRFqnVb_G77Aw==&a=2&rc=notset
 properties:
   type: Automatyczna
   size: Standard
@@ -67,7 +68,7 @@ properties:
   energy_class: A+
   type_of_drum: brak informacji
   load: 5 kg
-  maximum_spin_speed: "1000"
+  maximum_spin_speed: '1000'
   annual_energy_usage: 166 kWh
   annual_water_usage: 7550 l
 
