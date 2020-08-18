@@ -18,7 +18,8 @@
   </div>
   <div class="desc-section">
     <header class="header">
-      <a href="{{ include.product.links[0]['url'] }}" class="title cta">{{ context_name }}</a>
+      <a href="{{ include.product.links[0]['url']  }}" class="title cta" rel="nofollow noopener" target="_blank" onClick="reply_click(this.getAttribute('data-link'))" data-link="{{  include.product.links[0]['next-url'] }}">{{ context_name }}</a>
+
       <p class="subtitle">{{include.product.properties.type}} {{include.product.properties.size}}</p>
 
     </header>
