@@ -33,7 +33,7 @@ photo: "/uploads/ekspres-delonghi-icm-152101.png"
 links:
 - template: link
   url: https://www.ceneo.pl/21325131#crid=358498&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=lY7ZY0EoRE5zL7LX731tPd24GfE5ZWjnPo_ZYKP-F1-nhwo4-omeDGHoDq5OcKR6GPoG4eTo1IwqUu-34_Mdo8ZBKujby7IZWenvymVsaLcKka_TUDP_6pxW-mDyIkm03ZrH26ncUvTZtAMmi-HgWhLuwkFfHdp0e-j_W6qNyq7WO1p4e3hIN9Ti-foi58B35E4R65iTqmOlUEzCWQUN3boW6VCqVM5SARSBeMb0GFulUEzCWQUN3aVQTMJZBQ3deUYo02G5zfmZJhS2hoEQFljnw09jbnPAAWfNlKjdaxAduOM4nk_XULndXUQJq5QzEsnlzQLYB3u9nEzhWoDnpYHQPr028067Tq133SS0e3j25AsG9pO1N1Ek__9-pbfazAuC5nmTpqw=&a=2&rc=notset
   anchor: Kup od 149,00 zł
   provider: Ceneo
 properties:

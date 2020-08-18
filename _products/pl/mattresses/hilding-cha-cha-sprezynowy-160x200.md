@@ -53,7 +53,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/50747156#crid=319307&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=l9LNKtoNHTFG5U71ADWJSXoRyLKobC-Vh__335Ad9BtrpvSAVQWpyou4SpZy9PJuBCgirbFRVvZEKOXQWwXx5oHCZeoZrkXT0Aod-obHm0xsgzDzHkgBWwunbITp3ide6zeBC0FH61YwTlvOPL7vHSbwadmWDHYSCpKYTlKbrjuh567CVSBx3PJz3BOKvRC5Pw8ilqUh_NAP7P7a_CNrgHVCuvvi7Tajz06hbTklgYhkzozumd8lzYom8TIKp2KKaIYicvBpWD9a4J8ndIlMqVe8DfQhSz0Tue81WS1r4i75guiHmCutai7o5DEf3cf4tl-XNnvVM6kGIWJv3sdzU6VQTMJZBQ3dz5sPqXnvPV0-aEbHsumAF6VQTMJZBQ3dpVBMwlkFDd2c_O0ykDoRQ20cQiDNbY9vC_C6lDVBPHWwbgjlGquWqAKCCc7C78-7ERA0REv_mcs21QZwYkz5oeD623p6KiEbYZIMlT8fDc8E3UZ45gBUxd8ktxfF53xA&a=2&rc=notset
   anchor: Kup od 1167,00zł
 properties:
   type: sprężynowy

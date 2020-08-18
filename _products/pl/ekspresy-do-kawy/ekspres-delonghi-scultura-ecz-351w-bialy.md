@@ -37,7 +37,7 @@ photo: "/uploads/ekspres-delonghi-scultura-ecz-351w-bialy.png"
 links:
 - template: link
   url: https://www.ceneo.pl/26365561#crid=358081&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=qayMDhdzfdJzL7LX731tPd24GfE5ZWjnPo_ZYKP-F1-nhwo4-omeDJZcFmNvCyXhvWXyL8pyjauUa6X_25AHu_NoCkdkpRmdPsNl4miGpICmwuL7-YJ4BtQnrXsbHBa-vlZ9Rx1CoU7EhbawfqKl15s3vuU0TInrtzmfNZH3wB98_bzzJOuLziVYwhRBDeQhI03ywy2d6rSlUEzCWQUN3RO1WMBkqVTnH5r0V3snU1SlUEzCWQUN3TKqJd_AWN7a6Lrxrp6AZoF2SC4IMIrXN9mW2DccLE2yi18QoVI3OsFSlKYBcZod3PmcIQOqXAekzNfDX8EhFhbb40rbrEbEZNToz55DwKlgC8Q0rvPxmZrM0mTIeQQZUMwLguZ5k6as&a=2&rc=notset
   anchor: Kup od 594,50 zł
   provider: Ceneo
 properties:

@@ -34,7 +34,7 @@ photo: "/uploads/ambition-silverstone-patelnia-nalesnikowa-26-20135.png"
 links:
 - template: link
   url: https://www.ceneo.pl/57664279#crid=357900&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=AF7JC1M1SmpzL7LX731tPZ6Ax8bB3BvagyNz02gre7KOnsoagfuVQHvRApjz5KVXdUR_yuTQ2TPkUamJV0BS44wpmi9cQSszaDhCSai6laebWNybfffD6q9p-Zd8oj1SfEf-1XpAt61IgAkipf1wkOh81gicfa3OhNvj0F1xelLh52byKcuVC6N5SlIJwCalaNr5WVtIze9FpNFgCkXi5kgzmIxIVqjOpVBMwlkFDd0rPU-afU4aAv_F5Wh_f6kjpVBMwlkFDd2lUEzCWQUN3WaT7pQuXTeZcg2QAGkw7wGnlXU7aMNTpboakllzTmT1Kt7EY1jjQLDhIieUVTGZ4LpUcyh23iLR4o8yylMXQph00X8FYCPz2qB-VsKS0X1uSmlrbNMC3Xo_x-GY2zB2bQ==&a=2&rc=notset
   anchor: Kup od 53,68 zł
   provider: Ceneo
 properties:

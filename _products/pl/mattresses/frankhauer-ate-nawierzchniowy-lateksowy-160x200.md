@@ -53,7 +53,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/20764081#crid=319888&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=QL7AwwjrtW86RACzglAoWlYgWMLxkdddhAx-EQ0prjVXcbDKDxzqPwKW4Y1WUf05bda_Str3gyYLLoZhXHBwVfC7VixfhjbIW4MpGoNkwLwGqnNE1RGZ5X72ALEbEZT5D5RBb5U0PjKW95EjsYh1TI2XWAuOsdXq7UzLGrjqwftYvs7fsgQzEY3i9HEWkriCmWI9yt3KklDLHumjUXYQC_D33BRxIe1jj0YmdcDJSii0hB2pyG0gcqVQTMJZBQ3dpVBMwlkFDd25dOa-LJtP5oi9D3l6sBAFpVBMwlkFDd1lQuT1lZpu3yW44f1YLj8_qq-z4iSzXP9bylmbB2IVVvD7CgiwMflV7HkGVD1K6ReAOB97qiAY_nJO5JjGeuVexf-GtpZvge40MNMOR7aIKocelJ_4eU9rP8fhmNswdm0=&a=2&rc=notset
   anchor: Kup od 455,00 zł
 properties:
   type: nawierzchniowy

@@ -28,7 +28,7 @@ photo: "/uploads/zwieger-obsidian-20-cm.png"
 links:
 - template: link
   url: https://www.ceneo.pl/76521152#crid=357916&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=-tql3EBYtoRzL7LX731tPZ6Ax8bB3BvazHfqEP9GEhdL0_9J84THGMHsPhixcnjRWj1cjl2-OFBjFgMG7c-snbtQE3Y6RejoKVhzuILdwB437gI3BRqDBuHnZvIpy5ULTOhbBg3r2MYewAWm4WOjLEWk0WAKReLmGCXiPMX41MKlUEzCWQUN3Ss9T5p9ThoC_8XlaH9_qSOlUEzCWQUN3aVQTMJZBQ3dm6FLAJIqxQOpRI5GDbHnxgFwvWmRUiryQ0sp6X2bvN01mUDDm3-qGmpqTd1X2kDftiCKKQoc4LvQ9HKCCC9r-tILH1UtAvT4HLMvYCs9BTCS6ygM2552kMwLguZ5k6as&a=2&rc=notset
   anchor: Kup od 109,90 zł
   provider: Ceneo
 properties:

@@ -34,7 +34,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/51503788#crid=358512&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=9MuOfBgtnOFzL7LX731tPd24GfE5ZWjnPo_ZYKP-F1-nhwo4-omeDPECF70VOk7tvWXyL8pyjatNWy9ediAPidOHA-biUnbuXWo-o2Tv6Jgksoez19CaLNRHEeJJpiY2n1Yzw55AFMLNaAZI7WOuNgjpnfFyE5j2kq2J1Zi2zevVlU46AtlOAOHnZvIpy5ULoUJzZfVF_clIuNiNFdBWgUWk0WAKReLmy9paPzBg-P-lUEzCWQUN3Ss9T5p9ThoC_8XlaH9_qSOlUEzCWQUN3aVQTMJZBQ3dnmB9SO17Sp0fqRnKSh_OhHGfqxcMmzf6X3Kp-EXEBjLBsOYITjHCCf5TeMu5WgGasw8zvyN2KE08sUOaYMwjxD9FnwafuE8f44N6TwyVCSoyYgdO9Pk76xtwMBL1a1-4&a=2&rc=notset
   anchor: Kup od 4359,00 zł
 properties:
   type: ciśnieniowy

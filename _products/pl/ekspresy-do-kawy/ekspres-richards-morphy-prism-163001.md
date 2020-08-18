@@ -34,7 +34,7 @@ photo: "/uploads/ekspres-richards-morphy-prism-163001.png"
 links:
 - template: link
   url: https://www.ceneo.pl/58740431#crid=358500&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=cCL4T1313VRG5U71ADWJSd5B5CRQIv3frvhVr5Ajlpe-n1ESlF2fdhOi-CaaC9LWqUcR3bXX6WD4tAZbDD5hdZSQJfo-p9kS786XRnExVpCywc0uAt7WJfISw7FwiaHMw6X6nqIhgQHAb_VriiL8CEUOIH-Ppq-kieqZ-FaS7BQ3LldrKweO7xQ11HQ9od4HRDqhDDgXQpExnhwxOo11BBKx0hYjJMnlNGRnKWJHYL3Dlvfh_FC91AZUZcdnY_3bcsFh7S9cZbUa3OypnuR9Nr2aWnUtBw0cue81WS1r4i45dx3jxOsKw5tq-gszfsrBS8cfsPqO1uGlUEzCWQUN3aVQTMJZBQ3dDurybeyDH4CGHdAzR_ZjwKVQTMJZBQ3dpVBMwlkFDd2cGjoDWF08qGDjntWOG6rTZuRECyRt8I31l4y29cSmvr2Ism1-gtENoUeylvL7x9yBa-PwkiLVhhla_104kdcXuVzhO73To0t7KSIb9ymbLaxgmdPE8RiVVWv1QRWESzeCnMVQeO1lVTyJ5iGIcF2Y&a=2&rc=notset
   anchor: Kup od 299,00 zł
   provider: Ceneo
 properties:

@@ -41,7 +41,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/79135279#crid=358077&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=lIG__VSD1JVG5U71ADWJSWlGyvc-j1b84SGeuT7mSHj4hJluv2qF2JGPzWGBug8muC1qVKfK5VibjcgfhqvPQ56tVp_QZZ063COHgZx2ZskX1lolS7qtKv9vK2TEHbf4cBK1yP12ofs417jQiGIzEV4U3Kmk9NCpWKnvOgDSXBTDdKfE6Pv4h4shfCK7WCAa3U0bso2p1oBjS8o8x2NGhJw8TS4tTspuZVbX8Py6PFxMwyebEALf3zAtr8JaG4swokd0fjiTEFRiMR2Q7vAhKPJyv01WH3iUFxiKOICFDCw5eFzmI4OfDPaDpPXL_LQfgf1itPutk_YQOGruJOmFGvm5s7IWtKsKpVBMwlkFDd2y6SsAGlH36oX8bYqGlIVRuoWnRJ1epDXS245O8YP_35_WaedkI6Fd9KRxsLErgrvGj28uNGwOAZndCN1ptQ3xy0rZXtWRdq3YaJwSpQJsLoxnOmd0x5kN-Jl-Wlwq3HQTxFxnBwR5fw==&a=2&rc=notset
   anchor: Kup od 1635,00 zł
 properties:
   type: ciśnieniowy

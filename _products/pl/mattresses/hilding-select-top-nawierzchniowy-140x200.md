@@ -52,7 +52,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/38429205#crid=319902&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=EHQ3hzEkVD9G5U71ADWJSXoRyLKobC-Vh__335Ad9BtrpvSAVQWpymn-NpanfHFp59F84si0lv5qWsyKKTRiTrjZ6hQO3S-4g1iJ1jSBmmnLJCMqpWfOy5_30qyZ5vmshhIwxAKueQ7rN4ELQUfrVjBOW848vu8dJvBp2ZYMdhIKkphOUpuuO6HnrsJVIHHc8nPcE4q9ELk_DyKWpSH80A_s_tr8I2uAuKpUfjv4jV5s3_P7hbSSNSh2FHFl86ig3hY3ElIR-sdsgzDzHkgBW8Bnh9o3em1Dokd0fjiTEFQscRfI1sSUPDJ7DJrelTjIN6IQhiOzpXQ5eFzmI4OfDKVQTMJZBQ3dpVBMwlkFDd0QOGruJOmFGvm5s7IWtKsKpVBMwlkFDd3u6s7PAXhezgcamaOf05R-DqJNC5Rrue--1saW1CBP1REQNERL_5nLNtUGcGJM-aHg-tt6eiohG7mp0ug8D5wOcNVsSjv4djTMm0ZOZ5rbvg==&a=2&rc=notset
   anchor: Kup od 819,00 zł
 properties:
   type: nawierzchniowy

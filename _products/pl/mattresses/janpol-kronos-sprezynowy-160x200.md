@@ -66,7 +66,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/17039491#crid=319276&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=rcp-Uc0Gfedo4kUUuzcMCDGpVdq6v3xgFGlRUU4QM0e7fdi-vq73B2AF3glW6WV6JrAFjLNtcYX59ONuBXtBI6YLqI5Vj-GDaig2tUCcqOXH94GZXuxegdko1BSn9CYxue81WS1r4i4wvzeanSjDIe-C-G9XvleItl-XNnvVM6kUJjfMadfa36VQTMJZBQ3dz5sPqXnvPV0-aEbHsumAF6VQTMJZBQ3dpVBMwlkFDd3GuwFDOLG_oX8CbLHdi334B75eEzHcXao5KZSKsVLU-0MKqDKb3OVqERA0REv_mcs21QZwYkz5oeD623p6KiEbPkD9cvS2JgoDRDe-7JVXB98ktxfF53xA&a=2&rc=notset
   anchor: Kup od 948,60zł
 distinction:
 

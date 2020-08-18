@@ -35,7 +35,7 @@ photo: "/uploads/gerlach-patelnia-granitex-28-cm.png"
 links:
 - template: link
   url: https://www.ceneo.pl/69316451#crid=357907&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=1SjY_TVNwS1G5U71ADWJSfM2Ak8_suKPDJ8ArxnnHpeyzOdk9C4MfQvyR46g-YiGhy_o0Nng4cn3RzqEFpCYiI6sPk35JCZNo8jA7brDhW-wAeXRot7kHi36eSlhTSngRQ4gf4-mr6SJ6pn4VpLsFDcuV2srB47vFDXUdD2h3gdEOqEMOBdCkQpjzedwdNYEErHSFiMkyeU0ZGcpYkdgvfsgK-rCaJGcEu7CQV8d2nTZg0qFLKhPJnZ5Jm3oKZeG1OL5-iLnwHdIFslIyGQENqVQTMJZBQ3duhbpUKpUzlIBFIF4xvQYW6VQTMJZBQ3dpVBMwlkFDd21rh6egFzFLAtdJ1_CpFu7WKbhJLDYOZRAbpnhzAhRLQ79rj0sM88Gud1dRAmrlDNuF2eHEZGE6Qvkr6MO2nM7cdIgfT7QXC97n8lAn_ue7ydoP0QAt5LOzAuC5nmTpqw=&a=2&rc=notset
   anchor: Kup od 109,00 zł
   provider: Ceneo
 properties:

@@ -39,7 +39,7 @@ photo: "/uploads/gerlach-contrast-procoat-28-cm-489110.png"
 links:
 - template: link
   url: https://www.ceneo.pl/48338340#crid=357913&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=DDVjUlcvhDRG5U71ADWJSWlGyvc-j1b8CYBUjq-am9vQ4oOd-Re0rsdVSpZiz6J9t3G7-4uK3q_EJQTV2_uZdAlXZy-jRT8bGS0nluSqCJibjcgfhqvPQ56tVp_QZZ063COHgZx2ZskX1lolS7qtKv9vK2TEHbf4cBK1yP12ofs417jQiGIzEV4U3Kmk9NCpWKnvOgDSXBTDdKfE6Pv4h4shfCK7WCAa3U0bso2p1oD_u_hQoHKhjJzK0O1wRElmvYkXWumSulnt44yag-6ZCgoDY90J4FVtmWI9yt3KklDLHumjUXYQC7aokimLfhu8gZjQdaKT6dS0hB2pyG0gckTgdazSs-PhpVBMwlkFDd2conGV_TDUC4i9D3l6sBAFpVBMwlkFDd1lQuT1lZpu34FY6sdiLrykQ1w1wav_OdDxx5AebEgUITvc5snsYIY07HkGVD1K6ReAOB97qiAY_nJO5JjGeuVek7YE4Dy8BZN1ZnWyBkxHWojGAQIlHXcfE8RcZwcEeX8=&a=2&rc=notset
   anchor: Kup od 115,72 zł
   provider: Ceneo
 properties:

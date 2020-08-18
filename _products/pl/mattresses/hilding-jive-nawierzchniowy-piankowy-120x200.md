@@ -57,7 +57,7 @@ photo: "/uploads/hilding-jive-nawierzchniowy-piankowy-120x200 .jpg"
 links:
 - template: link
   url: https://www.ceneo.pl/44274327#crid=319884&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=0akPkrVt7oNzL7LX731tPRASj9aIbANYqH8p3LqvLGLfYG_HA5sTChEzZY14qSWEgcJl6hmuRdN-9gCxGxGU-QRkHusAP36J8tBOyj34MhAWV2-XD-7bysonTAnCuIGrWtjMqHf2Mdfh52byKcuVCxu1VWHcdTnnuQ12ZLW_1VJZvxdQqhWy6orfntcM3BqLpVBMwlkFDd3mr3KDRqqouP_F5Wh_f6kjpVBMwlkFDd2lUEzCWQUN3YLauFiqziP8DqJNC5Rrue8V0LO69I-9AbndXUQJq5QzbhdnhxGRhOnqCAXDSC-aNHc_xO-aT0M2CwW4N9z1O-InaD9EALeSztJTirvIFvN3&a=2&rc=notset
   anchor: Kup od 419,00 zł
   provider: ''
 properties:

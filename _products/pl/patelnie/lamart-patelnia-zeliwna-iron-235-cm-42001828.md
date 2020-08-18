@@ -33,7 +33,7 @@ photo: "/uploads/lamart-patelnia-zeliwna-iron-235-cm-42001828-4.png"
 links:
 - template: link
   url: https://www.ceneo.pl/41133043#crid=357856&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=Od-1jPfcHPxG5U71ADWJSfM2Ak8_suKPDJ8ArxnnHpeyzOdk9C4MfQvyR46g-YiGhy_o0Nng4cn3RzqEFpCYiE-kAKwSmtHIsaYT8fKTU7qJJJP-KdjBlr2ZfquHJohYxJ9QbgaNo2NvRUIb7cy2ed6YsA-VCLDs-xQocII8y-HvRzDTjJnX6zBlrO8MXHKBlWg8VDudMwQkmh2jOsgeYK2JusPujQf_twMeX8C3q71xdIfQlk7UgqJHdH44kxBUbe9BlANQ-1J_T62qTgvelik004JFDstpOXhc5iODnwyj7u3f5ntAXTKqJd_AWN7aEDhq7iTphRr5ubOyFrSrCqVQTMJZBQ3dUvygVVcStkEtsJZvPn2O2nBDhrK0D0_lxyjrRM0U1xCxJel36FcxEO1Oq3oHCGvruvc79ZfoB2ZDVFaK8py6c0jaGf4wunyP7mcg1XCI4vXLWkEpsLmeXWHyhv8zCL5m&a=2&rc=notset
   anchor: Kup od 48,99 zł
   provider: Ceneo
 properties:

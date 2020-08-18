@@ -41,7 +41,7 @@ photo: "/uploads/kinghoff-patelnia-zeliwna-28-cm-kh1119.png"
 links:
 - template: link
   url: https://www.ceneo.pl/48649400#crid=357808&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=pGPCETiFidorjapxHqwkvm51sPSl0HQ5r_ORWUbCnOR3Mjuu6-0RN_KFvL7gw733qT9x4wAxPvO4pEstET898qsk9YYbYta5iqA_k1Wlw3T0FyODSy5zW5zzFM6BWsELpVBMwlkFDd2lUEzCWQUN3Q7q8m3sgx-Ahh3QM0f2Y8ClUEzCWQUN3aVQTMJZBQ3dOXjA3Q_flegOok0LlGu57w7btP_zwG5MampN3VfaQN-2IIopChzgu9D0coIIL2v64id4gDp6hDwIz19GTI564v630amDIgy_PInmIYhwXZg=&a=2&rc=notset
   anchor: Kup od 54,00 zł
   provider: Ceneo
 properties:

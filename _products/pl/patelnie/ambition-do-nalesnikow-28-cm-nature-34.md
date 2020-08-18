@@ -34,7 +34,7 @@ photo: "/uploads/ambition-do-nalesnikow-28-cm-nature-34.png"
 links:
 - template: link
   url: https://www.ceneo.pl/47638732#crid=357897&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=-jcZ4jj7SuVG5U71ADWJSWlGyvc-j1b8kWE_IakUYv3Cadus6axoWGHJz1LaVKjJH6y-zjJvvhmMKZovXEErMxhiiTNcalWfzbB_1kpCfEgp4d_qdAMUie-SQYZX8Ln0_SMxBPn21M8_IxHUXH2HaRoZSbexVZUa_qPY6Kv4-9FYLcsb8C159j8PIpalIfzQwPC1KK1zSpVCjb95vRi-rDglfUSgVdLq7gZAry6S2S2oxzTl_Uoj8ub-V9zdiqgvE69DAkfjwmETI5tUfC-pDK-quftKeLVB4edm8inLlQsnBmZnbPkVmAwpCytnuhH7RaTRYApF4uaRpdib0jAFOqVQTMJZBQ3dKz1Pmn1OGgL_xeVof3-pI6VQTMJZBQ3dpVBMwlkFDd3QaBcjLVSHN2vKPZjIvZEeULEqf0pCzvWfY8MK_2RkPB6CTu0qsTWiampN3VfaQN-2IIopChzgu9D0coIIL2v6PxmvZsM0I3u1pp2s6bV3ipP1l-cBi_ZNP8fhmNswdm0=&a=2&rc=notset
   anchor: Kup od 53,00 zł
   provider: Ceneo
 properties:

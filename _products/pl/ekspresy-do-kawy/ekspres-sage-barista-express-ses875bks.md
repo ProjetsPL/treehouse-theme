@@ -40,7 +40,7 @@ photo: "/uploads/ekspres-sage-barista-express-ses875bks.png"
 links:
 - template: link
   url: https://www.ceneo.pl/73570535#crid=358207&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=4o7SatX-44grjapxHqwkvm51sPSl0HQ5qbbi912xa-w8NEhGKxdTt5F0T2N67ZxNDA8TqguWm-S86E8DCnxfgGjDu4dQDEfIu5YuW8GRb502QFmCBCvPh5liPcrdypJQyx7po1F2EAuLnRAMiUd4M6uXuZvmsvVRtIQdqchtIHKlUEzCWQUN3aVQTMJZBQ3duXTmviybT-aIvQ95erAQBaVQTMJZBQ3dNJRPnoyHBl8CWjpWl4gAFCHhdIr0QWbebZYAs62U9m-NJOdhdbETeWVlTKgifVIcN0C_1EJLfDOI5YW9x-14cAfpGt1Qa1pmf_uPtfAhXbu0ef7HQHpZx4R7joeINUKPRPm4WlGlAsI=&a=2&rc=notset
   provider: Ceneo
   anchor: Kup od 2899,00 zł
 properties:

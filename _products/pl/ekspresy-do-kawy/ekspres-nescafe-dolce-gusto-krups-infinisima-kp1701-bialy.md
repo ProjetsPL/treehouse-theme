@@ -39,7 +39,7 @@ photo: "/uploads/ekspres-nescafe-dolce-gusto-krups-infinisima-kp1701-bialy.png"
 links:
 - template: link
   url: https://www.ceneo.pl/69606328#crid=358478&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=tdvAexaA7X1G5U71ADWJSWOf5a1V4EiTT9tQsb_CcGW-4cWd7RKYDUyqpElUXMpnFguwxR5FOMKC4jr1Fbm5_dMKWPzGfmf2ZXcBve6UCakFX8TLiq9IY96YsA-VCLDsFkN1GkT5tGpLEQTN7Dhbii-XioFTckZZN3Eswzywa3yClEugWVKch1sErSyIEHV6lWg8VDudMwTYETL6b9ZaJNiU4rUkoCdDki0f5L8GBK7_hfefYZwCbrnvNVkta-Iu-XuJ2a9gh-cu6OQxH93H-LZflzZ71TOpYeqGwqNjvgalUEzCWQUN3c-bD6l57z1dPmhGx7LpgBelUEzCWQUN3aVQTMJZBQ3dXCXgHB3SxqKDFzx-wL_QiiXZ8zfdFqNe5Bp_CNuX6AxpJTe_QwJ45KcPaIUPGKmTRWyWqwHGlArIe_OE_ZIsweJM1cWlcS8G8lzpb7l1kQykmgH5dVXVAECZp00svHuF&a=2&rc=notset
   provider: Ceneo
   anchor: Kup od 249,00 zł
 properties:

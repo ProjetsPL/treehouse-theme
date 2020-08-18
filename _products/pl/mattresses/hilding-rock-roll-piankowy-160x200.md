@@ -49,7 +49,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/43972536#crid=319289&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=c5ix4e-LLAto4kUUuzcMCDGpVdq6v3xgFGlRUU4QM0e7fdi-vq73B008JzLg30GeImRSJPM7BOxroDEy7sjPWf4Mv-BvygELAGMaCdtf7ub0fC0Rx6YNCO-SdT13r_Gl86efAqlPuQfh52byKcuVC0xSAy9BulvMuQ12ZLW_1VJFpNFgCkXi5qDNRUX9GoqGpVBMwlkFDd0rPU-afU4aAv_F5Wh_f6kjpVBMwlkFDd2lUEzCWQUN3WnR-qUXycJySt3ZZfCyrMERBMcoyULGMfsGHDSTRHVK8h1UO3SHmodqak3dV9pA37YgiikKHOC7FJggyJ6DNaB_mY0Czp-IvcFcleHx3NRXVVXYUn3LOtM_x-GY2zB2bQ==&a=2&rc=notset
   anchor: Kup od 1359,00zł
 properties:
   type: piankowy

@@ -46,7 +46,7 @@ photo: "/uploads/ekspres-delonghi-magnifica-s-ecam-22110b.png"
 links:
 - template: link
   url: https://www.ceneo.pl/15872880#crid=358080&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=XanKEKewHEpG5U71ADWJSWlGyvc-j1b8JIIF9nh0MsypHuYAUWgtQY_7LRXHDN4yGmNkXIvnZtcV2w0qiX7h9ufYXM0XtmAN_OnwgFtoGqVT4aHuW_TXx6PHfeLbOsB-T1kPmnFdRMIvl4qBU3JGWRYYqv3_umRPNSsZiR8UzAqnIYA5a8_IKDN344Db6lL_ww3SA3mW7War3x6-PK2m-iy_wfFrGuQPpQAr5YzJQrPLMG2JwXF2X9iU4rUkoCdDhvR8rpbnybqZYj3K3cqSUMse6aNRdhALudx8l2LvUvl9GiTwif47dbSEHanIbSBy5rFvCOsxyb-lUEzCWQUN3ZyicZX9MNQLiL0PeXqwEAWlUEzCWQUN3TSUT56MhwZfFWqz27vetIuzAW2-QE0JgDZ1rW5U5fKUcI3POoQdqr70pHGwsSuCu8aPby40bA4Bmd0I3Wm1DfHLStle1ZF2rdhonBKlAmwuIv6NbArpcvoSAfiO0r1DvhPEXGcHBHl_&a=2&rc=notset
   anchor: Kup od 1149,00 zł
   provider: Ceneo
 properties:

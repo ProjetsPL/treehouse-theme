@@ -49,7 +49,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/47411195#crid=319914&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=IvPZomjSyXNrfRjipL-77I1C0IAYDDoZP8i9MWR2c8wLLoZhXHBwVWum9IBVBanKs_xtVqCS8OZhXCbX_o124oHCZeoZrkXTeo0uoY4bZsaSFmv947QXUAgjDvsyEwbrvZpadS0HDRy57zVZLWviLvTFffIl57KRLujkMR_dx_jS88PQmvwKoqVQTMJZBQ3dpVBMwlkFDd3Ufz4CkTh1vD5oRsey6YAXpVBMwlkFDd2lUEzCWQUN3Y0y61HJoyTdDqJNC5Rrue9wPZEAStiqtuEiJ5RVMZngulRzKHbeItEAMX4ddeQLug_Xn0hLgClRe8BoYjb7xWvSU4q7yBbzdw==&a=2&rc=notset
   anchor: Kup od 200,00 zł
 properties:
   type: piankowy

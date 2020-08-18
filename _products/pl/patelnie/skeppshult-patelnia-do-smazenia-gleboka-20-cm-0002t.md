@@ -47,7 +47,7 @@ photo: "/uploads/skeppshult-patelnia-do-smazenia-gleboka-20-cm-0002t.png"
 links:
 - template: link
   url: https://www.ceneo.pl/23168534#crid=357891&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=lsupo-Z-gYZzL7LX731tPSdtqS955Boal1fJ0i_8vpIJ7zHGRn695gxpg4AiJU6M-2YCa8DNW7GntTFK5IzBL_kUSJyUU70ur00UwqbouLGAIAbe7FYL1jCrrdFsh1D35QZZRWH2aIniFjK2MuSYRtDEHJR810lyhhQpQCK_Grc3c95PNgc1lZgHUZe-szT75DPSVj20NocTEmZCrTb7NoWC2hgW2ze91YE3EXH6Ok-lUEzCWQUN3RTzT2HpwwYI7-sMlSqLP5r427Qd1xzOvcfjuJ1zM8m_LuHLZ-k9Kxq53V1ECauUM24XZ4cRkYTpC-Svow7acztJvI5KyZLtuIrB2ydpcTFOJ2g_RAC3ks7MC4LmeZOmrA==&a=2&rc=notset
   provider: Ceneo
   anchor: Kup od 339,00 zł
 properties:

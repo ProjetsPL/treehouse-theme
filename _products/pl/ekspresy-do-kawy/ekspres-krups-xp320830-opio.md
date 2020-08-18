@@ -38,7 +38,7 @@ photo: "/uploads/ekspres-krups-xp320830-opio.png"
 links:
 - template: link
   url: https://www.ceneo.pl/73913451#crid=358082&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=FCI12ys6GoVG5U71ADWJSd5B5CRQIv3frvhVr5Ajlpe-n1ESlF2fdhOi-CaaC9LWqUcR3bXX6WDU6M-eQ8CpYBmQjlsXF9zrDIhEtOBH4ptHiC225m7MXNToz55DwKlgz5Qkr67PWX39IzEE-fbUzz8jEdRcfYdpGhlJt7FVlRqeJvHZjbJToz9b_zi0jxjo7LKnAgkWfeqClEugWVKch4y_s7P5WR7PT84Y3UDhdRGrKu_-oihvBYrrsMML7_gE2GicEqUCbC69mlp1LQcNHLnvNVkta-IuaYBRnzH4I9Au6OQxH93H-LZflzZ71TOpYoMM3u5u4cilUEzCWQUN3UjZMTW1Vlx7PmhGx7LpgBelUEzCWQUN3aVQTMJZBQ3dP8jWne78aMVvE85-pX8YCBoWmT1i1dmuzK0YO8Jl1nRxIJ9fCr3EaKcPaIUPGKmTRWyWqwHGlArIe_OE_ZIswRfaSxiYTIDHkofnmd4gkonm1fQgnsIytXGairdIIx8k&a=2&rc=notset
   anchor: Kup od 358,99 zł
   provider: Ceneo
 properties:

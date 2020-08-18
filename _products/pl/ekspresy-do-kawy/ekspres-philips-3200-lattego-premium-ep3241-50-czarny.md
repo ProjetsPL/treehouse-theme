@@ -40,7 +40,7 @@ photo: "/uploads/ekspres-philips-3200-lattego-premium-ep3241-50-czarny.png"
 links:
 - template: link
   url: https://www.ceneo.pl/78869130#crid=358073&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=MJuRq0ubXKpzL7LX731tPSYcDjitgfmhABD40CzqNhi44SbGzMdUMn_7j7XwIV27ojFmuK6qfkV4ZyFgrD3vnDqsDJbScrFf8Zlm5HozqN60mKFVhx6hXo6C5fatf6DRF1hRYQJwreg2ihNvLIPdggQTfxePl_i8Eu7CQV8d2nQPIilUP8KC4pxANTztZVJ81OL5-iLnwHdxJzgvNcIe6qVQTMJZBQ3duhbpUKpUzlIBFIF4xvQYW6VQTMJZBQ3dpVBMwlkFDd29M1cqDx0U_4nJ6JbPudBB9qU84fHJI7NLVZw_pSZQ4U_gVXTG1RGkud1dRAmrlDMSyeXNAtgHe72cTOFagOeliPcpBUrDmL7nzjIuV2cbMHx-_llYvCB20zzERM3YTTRFqnVb_G77Aw==&a=2&rc=notset
   provider: Ceneo
   anchor: Kup od 2023,00 zł
 properties:

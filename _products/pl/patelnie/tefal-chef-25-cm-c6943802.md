@@ -20,7 +20,7 @@ photo: "/uploads/tefal-chef-25-cm-c6943802.png"
 links:
 - template: link
   url: https://www.ceneo.pl/48647773#crid=357904&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=Op-PIFIYgRZG5U71ADWJSWOf5a1V4EiTDdBKGmMqGMtNt_Bu_1WYra7ZwoNHhKet9lZlGb8XNL9ZNUwbND7XXMI84WQui5BmVXj9tL6rGic6eC9-tHEe7npejxQ4G_PzAUachu9zo0mbyBKEYwAdc6xYfmUJSBmbxkA9gHaAX4zP78qSIGs_D9_jT4Unh5u_pyGAOWvPyChZcs_ClUqXG2Of0xLoS1dsQNv0cu7Lo9JtDnVaoHeACkdGw_a_rievEu7CQV8d2nQAGKPJ-wldjdjL9kR2WU2Z1OL5-iLnwHdkw-dKLWa4vaVQTMJZBQ3d7YFHJjOs8gkBFIF4xvQYW6VQTMJZBQ3dpVBMwlkFDd1eESc625PFn1q7pIUSkzIvArX9FFq2MDOLKTFIW6ZvZ0NUhcLol15oud1dRAmrlDNuF2eHEZGE6Qvkr6MO2nM7GZWsHFVv67y44SlaR_ZTUNcxb6Ucj2KorZ6zijBTOzo=&a=2&rc=notset
   provider: Ceneo
   anchor: Kup od 135,00 zł
 properties:

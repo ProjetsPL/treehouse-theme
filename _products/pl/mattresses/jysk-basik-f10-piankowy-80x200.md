@@ -55,7 +55,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/48153054#crid=319918&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=9cMi079jD0FrfRjipL-77I1C0IAYDDoZP8i9MWR2c8wLLoZhXHBwVWum9IBVBanKFVRCVwb6uPuWUzkNqu_fhbZXDxsIEmonVjEqC7e-a-k7QRq7pWWak1SiDsfDJCwZUpTWqAy2Si8S7sJBXx3adMOmrPUFaJy0KwUl1p6Xk-BYHUA0cTh982TD50otZri9pVBMwlkFDd3tgUcmM6zyCQEUgXjG9BhbpVBMwlkFDd2lUEzCWQUN3dxx7PRhLimresBP0zj3PWOj-GAzTj_YqkRe94XUYfKC6P9vDyDlYwQAgX_YyBZLtIgcHXMJwiFqBQH9HxkXA2ZVIzu-r3X0RQ==&a=2&rc=we2r0kK3XvtP-5sVLl--wLm68gKkZIfFvyv-wkJB_h9dWRXNno8vPw==
   anchor: Kup od 300,00 zł
 properties:
   type: piankowy

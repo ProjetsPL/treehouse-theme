@@ -56,7 +56,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/45989467#crid=319890&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=Fgask9P37ctzL7LX731tPSucCSebwpKVYQ8H5gCPWwlrpvSAVQWpytfgUKtcelNE50LI7YnOpro3afq5hMS6v3xxnVxTVeSdIjlIUPMvcPwx0uMehW7yOpliPcrdypJQyx7po1F2EAvK6VYSEDXQwYGY0HWik-nUtIQdqchtIHKNU8fpuxUOqqVQTMJZBQ3dnKJxlf0w1AuIvQ95erAQBaVQTMJZBQ3dZULk9ZWabt_s4MSkFnSkYSgVxhLepwQ-89ZZN0xb0NwfXLD1Bq3JmSlKsgjcW0eVgDgfe6ogGP5yTuSYxnrlXsX_hraWb4HuFkpCvgn6UnvDRk9odb1YCRPEXGcHBHl_&a=2&rc=notset
   anchor: Kup od 633,00 zł
 properties:
   type: nawierzchniowy

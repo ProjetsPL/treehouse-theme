@@ -53,7 +53,7 @@ photo: "/uploads/janpol-cora-sprezynowy-90x200.png"
 links:
 - template: link
   url: https://www.ceneo.pl/82244300#crid=319294&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=sECxL4fQ7jxG5U71ADWJSXoRyLKobC-Vh__335Ad9BtrpvSAVQWpyou4SpZy9PJuBFRXypeEq8E3yAC5j1f8WoHCZeoZrkXTQ6Wx5y3yt0uhP1znjdFOujANtJB_Ztpv5yylFntCkghFDiB_j6avpMNCO8yjTHvYNy5XaysHju_xeqpYlE-R1V4U3Kmk9NCp33WZCD-mG1wZt39Dhn_TxLKBaSY2UchA4fKkR4M-qfACNrG95b0yI1LnhQeYN47WHtntvk8TJhQptrp9MtQrzCdbCM2QY9sTue81WS1r4i5duqle7-ivFi7o5DEf3cf4tl-XNnvVM6khzrsIuVuH9aVQTMJZBQ3dz5sPqXnvPV0-aEbHsumAF6VQTMJZBQ3dpVBMwlkFDd13jjRS8KCWBUJJbDclyPAq2CAOfrSbhhzcGIaWCg51Ah3PoyhjACGcERA0REv_mcs21QZwYkz5oeD623p6KiEb7m4asGesfJiqZe4flZZZA98ktxfF53xA&a=2&rc=notset
   anchor: Kup od 1029,00zł
   provider: Ceneo
 properties:

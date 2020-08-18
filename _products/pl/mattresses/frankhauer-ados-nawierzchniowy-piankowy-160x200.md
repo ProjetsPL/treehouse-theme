@@ -48,7 +48,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/47179412#crid=319886&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=KxxRmf-A1CUt0kJnFU7rVBDnYQi5zzDth_avQUF_9_onub7Rlja5BRi8zhKpoEpiz4Rn4y_jVmZVlFAZNaDY8VwU162QuUjx8jBa6tH1XCletCI6JfhkKr-j041Q5lHwdX-d-Vz2eYnwuxHqgCFWDuw7b0RbPyWa4hYytjLkmEZDj7yRTfi9eNAZdtEcV6ekjAB-oq160gWq4xSuyHgFLqVQTMJZBQ3dpVBMwlkFDd2FgtoYFts3vdWBNxFx-jpPpVBMwlkFDd2VKDi4V-vsnlcF4uGYjOcsEH047bZU6NnseQZUPUrpF4A4H3uqIBj-ck7kmMZ65V7F_4a2lm-B7jFD-E8ECmuV-WXOoQKuNQQ_x-GY2zB2bQ==&a=2&rc=notset
   anchor: Kup od 359,00 zł
 properties:
   type: nawierzchniowy

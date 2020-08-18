@@ -31,7 +31,7 @@ photo: "/uploads/ekspres-delonghi-dolce-gusto-edg737b.png"
 links:
 - template: link
   url: https://www.ceneo.pl/54270606#crid=358480&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=F33kHNU79wr5DS_mAnmaWQGxdLvCnCxEbkjkoyBHR3oMhl65wXHOzhuiReDTnUlLsxaYnL9AaDzWG3W6M8dQGYeNsxuSn21Y0xsGpDxLtkcS7sJBXx3adOQ5Jc_xR1Sxeis0NyOKr9giUAOloMlAXarjFK7IeAUupVBMwlkFDd2lUEzCWQUN3YWC2hgW2ze91YE3EXH6Ok-lUEzCWQUN3S8Upt8ocHz3Rn7OW5Zn1mULU9RgEw91UUmRlvgphXvnpAlwlVvtR9u53V1ECauUMxLJ5c0C2Ad7vZxM4VqA56Wmkw-PBc3qasYwrrDq38qXIGjKtjAkem9eB--0Jmd6o1qghfru6aAlrZ6zijBTOzo=&a=2&rc=notset
   anchor: kup od 653,00 zł
   provider: Ceneo
 properties:

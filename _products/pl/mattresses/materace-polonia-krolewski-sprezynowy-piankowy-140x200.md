@@ -63,7 +63,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/68382038#crid=319909&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=gEm4iZlx1AhzL7LX731tPV_7_3xJzCI9aET7vCu2zYUlquY2EX-_r8GH1SAQQf94xRn_S5qPNpJ7BxkCclrqYCIn7jsBWNjWgh0Tu_C4a2jFXWlCSdGggjHS4x6FbvI6mWI9yt3KklDLHumjUXYQCy4NpXMnoUlUgZjQdaKT6dS0hB2pyG0gcqVQTMJZBQ3dpVBMwlkFDd25dOa-LJtP5oi9D3l6sBAFpVBMwlkFDd1lQuT1lZpu37o1JQ31dbFn-UUjXcax7DSTlsRL7e0s1ZRtMTcPTCMP7U6regcIa-u69zv1l-gHZkNUVorynLpzw8H23nb5VTQMzDi3HWbodgCHdh9rI-sqdj5ZfzjL_Yk=&a=2&rc=notset
   anchor: Kup od 707,00 zł
 properties:
   type: sprężynowy

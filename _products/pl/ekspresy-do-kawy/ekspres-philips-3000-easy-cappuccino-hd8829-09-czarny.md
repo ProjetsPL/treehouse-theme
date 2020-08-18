@@ -44,7 +44,7 @@ photo: "/uploads/ekspres-philips-3000-easy-cappuccino-hd8829-09-czarny.png"
 links:
 - template: link
   url: https://www.ceneo.pl/44993046#crid=358483&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=fmLXKC2ifzQd2j35ruxtp_OvcsP8zyhRxeqLx3D4wbV3zFZt2mFZ9fAK1czl8R3Bf_uPtfAhXbu6vTdUnd1wqCdkiBcwQEYA3QBp-CbmlaFlYZJ0SM5-FvdosOzfHL_LKFsww16_4uNBzOOeJf25f3oTbAHc5zPXzW30zlXw4DdbaWdJ02Fu4shzxT1St00TxIW2sH6ipdebN77lNEyJ658P4cbkjJ6BczZKhk0mDhglWMIUQQ3kIY8_bORYMxeapVBMwlkFDd0TtVjAZKlU5x-a9Fd7J1NUpVBMwlkFDd0yqiXfwFje2rHo3R4nKx-uArXuzSjg75Eh9PPMqIkXyOYLAzflYeP3ZWVMqCJ9Uhw3QL_UQkt8M4jlhb3H7XhwB-ka3VBrWmZ_-4-18CFdu0JXUkMMjQMfoyGvjEZ8tPLd8fTpA67eGw==&a=2&rc=notset
   anchor: Kup od 1424,00 zł
   provider: Ceneo
 properties:

@@ -49,7 +49,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/16909408#crid=319310&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=Np2Tq_nYTRho4kUUuzcMCB0IHJDjKCh47EUNtlCmZXeXKc4Jhv2pMcxB5Y8dB5I78rxBatXbxL1ETKswOtWg17jZ6hQO3S-4x2E6tT-jBv4EXRIOTyq5icyhQYEahR7J1ZVOOgLZTgDh52byKcuVC153Veyco69cph_LegFBNfBFpNFgCkXi5s19Ch_3cb1LpVBMwlkFDd0rPU-afU4aAv_F5Wh_f6kjpVBMwlkFDd2lUEzCWQUN3ZUi6t4umGENi2D_3ubjb4OQmvrU8sCoWANUpY4_sUlosydc9_mdqN1qak3dV9pA37YgiikKHOC7FJggyJ6DNaB5LQe4YHgIxtxf-b92Fvb4VVXYUn3LOtM_x-GY2zB2bQ==&a=2&rc=notset
   anchor: Kup od 1988,00zł
 properties:
   type: sprężynowy

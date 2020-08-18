@@ -46,7 +46,7 @@ photo: "/uploads/ekspres-philips-cafe-gaia-hd7546-20-metal.png"
 links:
 - template: link
   url: https://www.ceneo.pl/13559329#crid=358496&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=gdr-ob6kORFG5U71ADWJSZZOrrhowJD-uTT5hmbd25JS5dWn54pRpacZaKYiODRBhsm4m6ugr12rJkst1r2kdY8zKvA1hEORwPYI2HG58Zdlzkp4-CgcIquGrPbnAAnb3piwD5UIsOzratHqzSCpru9HMNOMmdfrMGWs7wxccoGVaDxUO50zBM3ujwXkbemSHvfWWFckx-q3Ax5fwLervYYWlCLaIhD1TMMnmxAC39_Ie_OE_ZIswVO1yNKFvoj4hs_Vj3RqWsLh52byKcuVCz5w_SOHUCRzGtKNDVW7SLFFpNFgCkXi5pGl2JvSMAU6pVBMwlkFDd0rPU-afU4aAv_F5Wh_f6kjpVBMwlkFDd2lUEzCWQUN3Tl_jZK9nrSbUz9tTc0l6hv8Ua93fKwsLJWKaUNGdkiKaAiJcJtoQR_-U3jLuVoBmrMPM78jdihNPLFDmmDMI8T8W0ncFXrFSFxZnzHmzRouinZYq5QspyJVVdhSfcs60z_H4ZjbMHZt&a=2&rc=notset
   anchor: Kup od 269,99 zł
   provider: Ceneo
 properties:

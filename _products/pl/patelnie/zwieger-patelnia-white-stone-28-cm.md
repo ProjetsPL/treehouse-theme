@@ -35,7 +35,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/84447142#crid=357914&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=ZKCxhEYB7F5zL7LX731tPSdtqS955Boal1fJ0i_8vpLLJK_eI-8kXFStQ4z4P-0dGivBxVL75N9aPVyOXb44UMVRpQKL3SRaAgGJz8AfsHPZtAMmi-HgWhLuwkFfHdp0trVTVGrWkA1xhk8zM5Akc9Ti-foi58B3ZMPnSi1muL2lUEzCWQUN3e2BRyYzrPIJARSBeMb0GFulUEzCWQUN3aVQTMJZBQ3dGq9RoM09UWjnats4-AaMMuooq8JZ02kY7VL036g_XpL9qh6TynQIfLndXUQJq5QzbhdnhxGRhOkL5K-jDtpzO-Z6PRt28xzLttfLrwPICniWMXfhn2-ArK2es4owUzs6&a=2&rc=notset
   anchor: Kup od 128,00 zł
 properties:
   type: Standardowa

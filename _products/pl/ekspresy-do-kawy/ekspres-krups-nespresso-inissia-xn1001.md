@@ -43,7 +43,7 @@ photo: "/uploads/ekspres-krups-nespresso-inissia-xn1001.png"
 links:
 - template: link
   url: https://www.ceneo.pl/28626548#crid=358210&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=D2ueKJ21ohNG5U71ADWJSWOf5a1V4EiTT9tQsb_CcGW-4cWd7RKYDaW60jhXkX8bUquEMQT9Ivnvd9aauJDUtvHMNO3P_9H-ySCIEfmYdB4i2afBuEocp5joHZVa2RZYaY4JweBEgUCNMAtXUHvZ6pFa7iXVOkhDqlIZGqv9Xxk3LldrKweO75xs_gME7wwtwYB5pdpz9udV4G-gOX-CZUdVg404jP4tq8ci7fMW_L3CX8HJigKc-isIamsVBKKJvNIGje6YOhfh52byKcuVC88zoQhFeIF_7d_Zdj_67EpFpNFgCkXi5orfntcM3BqLpVBMwlkFDd3mr3KDRqqouP_F5Wh_f6kjpVBMwlkFDd2lUEzCWQUN3Y4HmVaUx5YQdlowp0P8jPvZO1h_UQBfardCgyGVMS-KxtPC5QRccJP-U3jLuVoBmrMPM78jdihNPLFDmmDMI8QOgQ1FRBbKQEfRy4b0MB4pnm4I7-B0RtCpj3ELwoGRs9JTirvIFvN3&a=2&rc=notset
   anchor: Kup od 249,00 zł
   provider: Ceneo
 properties:

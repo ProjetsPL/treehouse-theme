@@ -32,7 +32,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/87302004#crid=319308&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=EUFmj6Lb4KVzL7LX731tPdUdnLNv22h6RYOFaKhjMLRrpvSAVQWpymgDfJNmUa3IoFXWzlHj1mHX-xyF5U-7b1B85ZET95apmWI9yt3KklDLHumjUXYQC_nvohlXdxd4gZjQdaKT6dS0hB2pyG0gcqVQTMJZBQ3dpVBMwlkFDd25dOa-LJtP5oi9D3l6sBAFpVBMwlkFDd1lQuT1lZpu37gxTDhQyjqBwU0MccliSuVe_nuNwC_HmSXN_8deV3267HkGVD1K6ReAOB97qiAY_nJO5JjGeuVexf-GtpZvge5E_N1j77qxJkgUe3LeiM1QXib7AVyztf8=&a=2&rc=notset
   anchor: Kup od 2499,00zł
 properties:
   type: sprężynowy

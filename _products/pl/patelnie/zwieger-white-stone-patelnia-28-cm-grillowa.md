@@ -36,7 +36,7 @@ photo: "/uploads/zwieger-white-stone-patelnia-28-cm-grillowa.png"
 links:
 - template: link
   url: https://www.ceneo.pl/85004140#crid=357915&pid=21269
-  next-url:
+  next-url: https://www.ceneo.pl/Click/Offer/?e=iTTQWXF4vvRzL7LX731tPSdtqS955Boal1fJ0i_8vpLLJK_eI-8kXFStQ4z4P-0dGivBxVL75N9aPVyOXb44UHtspZJRXXPqDy4Ln_NLHZDQXJFhNeKRyNm0AyaL4eBaEu7CQV8d2nSO6z01BTFIo1YscOwG4iT41OL5-iLnwHfkThHrmJOqY6VQTMJZBQ3duhbpUKpUzlIBFIF4xvQYW6VQTMJZBQ3dpVBMwlkFDd2bnIcVecDKe8ZKlN0ASVo3j9jjakin0hqXfELut10E70x9tUU0fT9aud1dRAmrlDNuF2eHEZGE6Qvkr6MO2nM75no9G3bzHMuMGA2W4n-Ap5Yxd-Gfb4CsRap1W_xu-wM=&a=2&rc=notset
   anchor: Kup od 159,99 zł
   provider: Ceneo
 properties:
