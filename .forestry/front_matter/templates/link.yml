@@ -18,8 +18,13 @@ fields:
 - name: url
   type: text
   config:
-    required: true
+    required: false
   label: URL
+- name: next-url
+  type: text
+  config:
+    required: true
+  label: Next URL
 - name: anchor
   type: text
   config:

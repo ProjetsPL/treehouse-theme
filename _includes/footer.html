@@ -5,6 +5,13 @@
       menuButton.classList.toggle("open");
       menuContainer.classList.toggle("open");
   }
+  function reply_click(link)  {
+    if ( link) {
+      setTimeout(function(){ 
+          window.location.href = link;
+      }, 1000)
+    }
+  }
 </script>
 
 

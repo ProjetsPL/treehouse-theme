@@ -57,6 +57,7 @@ photo: "/uploads/bosch-serie-8-waw24740pl-automatyczna-standard.png"
 links:
 - template: link
   url: https://www.ceneo.pl/43767349#crid=357440&pid=21269
+  next-url: https://www.ceneo.pl/Click/Offer/?e=QoEmVFvh0G9G5U71ADWJSZZOrrhowJD-uTT5hmbd25KYdmdSRIBBMCrWba_qqkiHXQS2UCe9Jweo15eGBQBnCV7bnkCHTR5YqeAHaGYXowX8h4K8xOhi1ZvIEoRjAB1z2HbXgmcHeRsMDd8QYFr_uuu-FKzAhGXfIt_7K3mFiq5ydUxfX-_wjo6lpPFAACNRneiCXqa_yljJtxbiEjl51yduov7HWyWL6agMu1d9LcarJPWGG2LWudsyo93c9b0M9Bcjg0suc1uPV8zlKML_qaZoza8fbo6HpVBMwlkFDd2mLEbxghakLYYd0DNH9mPApVBMwlkFDd2lUEzCWQUN3SIbdQRTyWcstWFuOPkYsSpfQcQDI100TBwtfwLyBLLccc0VorIMm6SnD2iFDxipk0VslqsBxpQKCDidzNzaDOBQ9HhtZm7AySdoP0QAt5LOzAuC5nmTpqw=&a=2&rc=we2r0kK3XvtP-5sVLl--wLm68gKkZIfFyoBjWCm1mvtdWRXNno8vPw==
   anchor: Kup od 3079,00 zl
   provider: ''
 properties:

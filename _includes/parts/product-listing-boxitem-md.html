@@ -32,7 +32,7 @@
 
           {% for link in include.product.links %}
           <div class="btn-group">
-            <a href="{{ link['url'] }}" class="btn btn-sm btn-cta" rel="nofollow noopener" target="_blank">{{ link['anchor'] }}</a>
+            <a href="{{ link['url'] }}" class="btn btn-sm btn-cta" rel="nofollow noopener" target="_blank" onClick="reply_click(this.getAttribute('data-link'))" data-link="{{ link['next-url'] }}">{{ link['anchor'] }}</a>
             <!-- <span class="info info-success">Oszczędzasz 15%</span> -->
           </div>
           {% endfor %}
