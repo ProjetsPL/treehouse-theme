@@ -2,6 +2,14 @@
 label: Product [Base]
 hide_body: true
 fields:
+- name: links
+  type: blocks
+  label: Linki
+  template_types:
+  - link
+  config:
+    min: 
+    max: 
 - name: name
   type: text
   config:
@@ -42,14 +50,6 @@ fields:
       max: 
     label: Recenzje
   label: Opinia
-- name: links
-  type: blocks
-  label: Linki
-  template_types:
-  - link
-  config:
-    min: 
-    max: 
 - name: distinction
   type: select
   default: []

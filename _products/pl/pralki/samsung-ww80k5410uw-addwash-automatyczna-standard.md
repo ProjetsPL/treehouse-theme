@@ -17,23 +17,23 @@ opinion:
     content: Tak jak w opisie praleczki. Jestem bardzo zadowolona, sprzęt pięknie
       wygląda i pięknie pierze. Polecam
     author: iza
-    rating: '5'
+    rating: 5
   - template: review
     confirmed_purchase: true
     content: Pralka ekstra, jedyny minusik to że widać kurz na czarnych drzwiczkach
       bębna ;)
     author: Użytkownik Ceneo
-    rating: '4'
+    rating: 4
   - template: review
     confirmed_purchase: true
     content: Wykonanie bardzo dobre
     author: Użytkownik Ceneo
-    rating: '5'
+    rating: 5
   - template: review
     confirmed_purchase: true
     content: Po tygodniu używania wszystko ok
     author: Użytkownik Ceneo
-    rating: '4'
+    rating: 4
   - template: review
     confirmed_purchase: true
     content: super odpowiednia w swojej klasie ,,perfekcja prania ,teraz przy pojemności
@@ -41,7 +41,7 @@ opinion:
       i zgniecione ,polecam ,nie wspąmne o oszczędnym praniu ,zarówno prądu jak i
       wody
     author: Ryszard
-    rating: '5'
+    rating: 5
 distinction: our_choice
 name: Samsung WW80K5410UW AddWash
 description: |-
@@ -58,6 +58,7 @@ links:
   url: https://www.ceneo.pl/43767253#crid=357431&pid=21269
   anchor: Kup od 2169,00 zł
   provider: Ceneo
+  next-url: https://www.ceneo.pl/Click/Offer/?e=oEX3xVusNae2SoVMh6yt18X0QFgK5S5p61oYgDUYxeYy0BdCtNPZybsrT_SPHvU4XJQvI0X_naaN5j-nSAnfMBasSJKLgcYpXzm3h7QGoquZYj3K3cqSUMse6aNRdhAL9QzaRyLhQ4yBmNB1opPp1LSEHanIbSByNN5LyOHsfjqlUEzCWQUN3ZyicZX9MNQLiL0PeXqwEAWlUEzCWQUN3WVC5PWVmm7fM-I7w1cNyqhwSfyUpPt2LM7CyzOIdiV_haefUPAkYltqF8_8rhKsWjdAv9RCS3wzpmthpSa9TRcugZjSyoFpBtWH2nKmZlngcZqKt0gjHyQ=&a=2&rc=notset
 properties:
   type: Automatyczna
   size: Standard
@@ -65,7 +66,7 @@ properties:
   energy_class: A+++
   type_of_drum: Diamond - o mniejszych otworach
   load: 8 kg
-  maximum_spin_speed: "1400"
+  maximum_spin_speed: '1400'
   annual_energy_usage: 116 kWh
   annual_water_usage: 8100 l
 
