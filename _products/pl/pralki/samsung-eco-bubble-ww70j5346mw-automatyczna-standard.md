@@ -65,7 +65,7 @@ links:
   url: https://www.ceneo.pl/50602213#crid=357326&pid=21269
   anchor: Kup od 1199,00
   provider: Ceneo
-  next-url: https://www.ceneo.pl/Click/Offer/?e=1reJhph1qfRzL7LX731tPSYcDjitgfmh6UKT1EJ8lRJjwU09OkZzDpaIwWfUOh_vtSMN3_lXAqSj8Etyf12KYU92c6BXizgqqAVwBx8x5gO96tHAFkyLs_CoqVcudkI4-c04_il5VgLEhbawfqKl15s3vuU0TInrOzPtOO2-7bl8_bzzJOuLziVYwhRBDeQhX2ZNfw6qd4GlUEzCWQUN3RO1WMBkqVTnH5r0V3snU1SlUEzCWQUN3TKqJd_AWN7akfgxA5f3QJtdxC9N4uxZfXfRhheUfK8na7gMx8DFRVvk5XyWKmGk0fmcIQOqXAektq1T_c6txZ9_odQBWpGoJLC9P_W1vOHLVVXYUn3LOtM_x-GY2zB2bQ==&a=2&rc=notset
+  next-url: https://www.ceneo.pl/Click/Offer/?e=1reJhph1qfRzL7LX731tPSYcDjitgfmh6UKT1EJ8lRJjwU09OkZzDpaIwWfUOh_vtSMN3_lXAqSj8Etyf12KYU92c6BXizgqqAVwBx8x5gO96tHAFkyLs_CoqVcudkI4-c04_il5VgLEhbawfqKl15s3vuU0TInrbP9yzSy-Fx58_bzzJOuLziVYwhRBDeQhX2ZNfw6qd4GlUEzCWQUN3RO1WMBkqVTnH5r0V3snU1SlUEzCWQUN3TKqJd_AWN7akfgxA5f3QJtdxC9N4uxZfXfRhheUfK8na7gMx8DFRVvk5XyWKmGk0fmcIQOqXAektq1T_c6txZ9_odQBWpGoJLC9P_W1vOHLVVXYUn3LOtM_x-GY2zB2bQ==&a=2&rc=notset
 properties:
   type: Automatyczna
   size: Standard

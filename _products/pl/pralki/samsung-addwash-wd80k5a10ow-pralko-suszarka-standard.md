@@ -19,7 +19,7 @@ opinion:
       nie widać co się dzieje w środku.....funkcjonowanie będę mógł ocenić dopiero
       po jakimś czasie.
     author: Piotr
-    rating: '5'
+    rating: 5
   - template: review
     confirmed_purchase: true
     content: Pralka " prowadzi się " intuicyjnie , suszarka zużywa sporo wody do chłodzenia
@@ -27,13 +27,13 @@ opinion:
       , po zakończeniu prania od razu można otworzyć - duży + , program odświeżania
       powietrzem + , ale jeszcze testuję dopiero od dwóch tygodni :)
     author: Agata
-    rating: '4'
+    rating: 4
   - template: review
     confirmed_purchase: true
     content: Pralko suszarka bardzo intuicyjna cicha, ładny design, duża pojemność,
       polecam
     author: Arturro
-    rating: '5'
+    rating: 5
 distinction: our_choice
 name: Samsung AddWash WD80K5A10OW
 description: |-
@@ -46,6 +46,7 @@ links:
   url: https://www.ceneo.pl/59161228#crid=357467&pid=21269
   anchor: Kup od 2249,00 zł
   provider: Ceneo
+  next-url: https://www.ceneo.pl/Click/Offer/?e=TA2lrzh6iRxG5U71ADWJSWlGyvc-j1b8WakxfTj76fkaSNWHcf_ejSByG-V9mElvyl5gZCAIGYe-TJo8YFu0K17-hvcethFE59hczRe2YA386fCAW2gapVPhoe5b9NfHo8d94ts6wH5PWQ-acV1Ewi-XioFTckZZFhiq_f-6ZE81KxmJHxTMCqchgDlrz8goQQ3haMLWfJnDDdIDeZbtZqvfHr48rab6_HJ9VYZLDoT1YZHFCozw-GzMqGWHqNKVEyObVHwvqQwm9h3LzNjBNOHnZvIpy5ULXTNAXvNovWnzuWPq9gkJg0Wk0WAKReLmZ6r0VNDFn4OlUEzCWQUN3Ss9T5p9ThoC_8XlaH9_qSOlUEzCWQUN3aVQTMJZBQ3dl33YKZJlOSp7M4C08mdmJs0B1U-kWz9_XE4yZO9DWcAhRTLQXbHdQ_5TeMu5WgGasw8zvyN2KE3yFeITRLSHrVLQsVfmykDHALFiF4QuzcXYEy4tngaHtRPEXGcHBHl_&a=2&rc=notset
 properties:
   type: z suszarką
   size: standard
