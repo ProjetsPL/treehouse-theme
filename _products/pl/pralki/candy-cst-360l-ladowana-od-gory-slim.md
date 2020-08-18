@@ -15,29 +15,29 @@ opinion:
     content: Pralka super się sprawuje. Cena adekwatna do produktu. Polecam z czystym
       sumieniem.
     author: Agnieszka
-    rating: '5'
+    rating: 5
   - template: review
     confirmed_purchase: true
     content: Pralka fajna jedyna wada to glosna praca tak to bez zastrzezen
     author: Artur
-    rating: '5'
+    rating: 5
   - template: review
     confirmed_purchase: true
     content: Narazie wszystko ok. Zobaczymy jak z trwałością.
     author: Miłosz
-    rating: '4'
+    rating: 4
   - template: review
     confirmed_purchase: true
     content: Pralka trochę głośna podczas wirowania.
     author: Krystyna
-    rating: '4'
+    rating: 4
   - template: review
     confirmed_purchase: true
     content: Super mała pralka . Posiadam tylko mała wnękę w lazience i większa pralka
       nie miała by szans żeby się zmieścić. Więc jestem bardzo zadowolona z jej gabarytów
       A także z jej zalet.
     author: U...o
-    rating: '5'
+    rating: 5
 distinction: ''
 name: Candy CST 360L
 description: |-
@@ -54,6 +54,7 @@ links:
   url: https://www.ceneo.pl/51182906#crid=357452&pid=21269
   anchor: kup od 799,00 zł
   provider: Ceneo
+  next-url: https://www.ceneo.pl/Click/Offer/?e=L1kl9ZD9CX1zL7LX731tPSYcDjitgfmh6UKT1EJ8lRIBtHY76ImqgrEehFacVV3Qg5MQOkPNBBaZ-ndzUWidUfKsx0g9aB3pSYwK0s6E8BldNXnpIlqLT319t6gQTorZYP78753kXO2rJPWGG2LWudrxlA0Ldqs_fyEvFgc2n1ePV8zlKML_qSsFmpcYFiFDpVBMwlkFDd2mLEbxghakLYYd0DNH9mPApVBMwlkFDd2lUEzCWQUN3TN_Wwe94htET5tmozMUR6XcsyOHPDDIfgczMRQslAoLJuVwUigkMwmhR7KW8vvH3IFr4_CSItWG71BUjwoeoZwv0P1DfrM6R9M8xETN2E00Rap1W_xu-wM=&a=2&rc=notset
 properties:
   type: Ładowana od góry
   size: Slim
@@ -61,7 +62,7 @@ properties:
   energy_class: A+++
   type_of_drum: Stal nierdzewna
   load: 6 kg
-  maximum_spin_speed: "1000"
+  maximum_spin_speed: '1000'
   annual_energy_usage: 153 kWh
   annual_water_usage: 8700 l
 
