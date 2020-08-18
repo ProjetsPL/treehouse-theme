@@ -24,7 +24,7 @@ opinion:
       będzie równie bezawaryjna co poprzednia innej marki. Przez 14 lat wymieniłem
       sam tylko łożyska bębna i szczotki silnika. I tylko zwarcie w instalacji elektrycznej
       mi ją wykończyło.
-    rating: '5'
+    rating: 5
   - template: review
     confirmed_purchase: true
     content: Po poprzedniej Gorenje (padła po 3 latach) ten samsung to bajka. Nie
@@ -32,10 +32,10 @@ opinion:
       uciążliwe melodyjki ale moża je szczęśliwie wyłączyć. Na plus także jakość wykonania.
       Nie żałuję zakupu.
     author: Bartosz81
-    rating: '4'
+    rating: 4
   - template: review
     confirmed_purchase: true
-    rating: '3'
+    rating: 3
     content: Dość głośna, zwłaszcza przy wirowaniu.
     author: jz1
   - template: review
@@ -43,12 +43,12 @@ opinion:
     content: Cicha, łatwa w użyciu, czysto pierze,nie skacze podczas wirowania jestem
       zadowolona.Polecam innym.
     author: Mira
-    rating: '5'
+    rating: 5
   - template: review
     confirmed_purchase: true
     author: Radosław
     content: Pralka ok. jest nowa i spełnia moje oczekiwania.
-    rating: '4'
+    rating: 4
 distinction: ''
 name: Samsung Eco Bubble WW70J5346MW
 description: |-
@@ -65,6 +65,7 @@ links:
   url: https://www.ceneo.pl/50602213#crid=357326&pid=21269
   anchor: Kup od 1199,00
   provider: Ceneo
+  next-url: https://www.ceneo.pl/Click/Offer/?e=1reJhph1qfRzL7LX731tPSYcDjitgfmh6UKT1EJ8lRJjwU09OkZzDpaIwWfUOh_vtSMN3_lXAqSj8Etyf12KYU92c6BXizgqqAVwBx8x5gO96tHAFkyLs_CoqVcudkI4-c04_il5VgLEhbawfqKl15s3vuU0TInrOzPtOO2-7bl8_bzzJOuLziVYwhRBDeQhX2ZNfw6qd4GlUEzCWQUN3RO1WMBkqVTnH5r0V3snU1SlUEzCWQUN3TKqJd_AWN7akfgxA5f3QJtdxC9N4uxZfXfRhheUfK8na7gMx8DFRVvk5XyWKmGk0fmcIQOqXAektq1T_c6txZ9_odQBWpGoJLC9P_W1vOHLVVXYUn3LOtM_x-GY2zB2bQ==&a=2&rc=notset
 properties:
   type: Automatyczna
   size: Standard
@@ -72,7 +73,7 @@ properties:
   energy_class: A+++
   type_of_drum: Stalowy, diamond - o zmniejszonych otworach
   load: 7 kg
-  maximum_spin_speed: "1200"
+  maximum_spin_speed: '1200'
   annual_energy_usage: 153 kWh
   annual_water_usage: 7400 l
 
