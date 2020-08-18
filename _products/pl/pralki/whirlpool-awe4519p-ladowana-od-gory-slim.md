@@ -14,28 +14,28 @@ opinion:
       pralka głośniej pracuje i trochę gorzej odwirowuje. Generalnie jestem zadowolona
       z zakupu. Dobra cena, dobrze, że jest program 15 min. - bardzo przydatny.
     author: Marya
-    rating: '4'
+    rating: 4
   - template: review
     confirmed_purchase: true
     content: polecam wszystkim pragnącym zaoszczędzić a nie mających zbyt wielkich
       wymagań
     author: natan
-    rating: '4'
+    rating: 4
   - template: review
     confirmed_purchase: true
     content: Pralka świetnie działająca prosta w obsłudze w miarę cicha.
     author: jola
-    rating: '5'
+    rating: 5
   - template: review
     confirmed_purchase: true
     content: "Bardzo dobra i niedroga pralka z funkcjonalnymi programami\U0001F60A"
     author: Agnetis
-    rating: '5'
+    rating: 5
   - template: review
     confirmed_purchase: true
     content: Cena produktu odpowiada moim oczekiwaniom.
     author: Dariusz
-    rating: '4'
+    rating: 4
 distinction: ''
 name: Whirlpool AWE4519P
 description: |-
@@ -50,6 +50,7 @@ links:
   url: https://www.ceneo.pl/27860268#crid=357456&pid=21269
   anchor: Kup od 799,00 zł
   provider: Ceneo
+  next-url: https://www.ceneo.pl/Click/Offer/?e=96OjHvZVXE5G5U71ADWJSSqd6Y6Im7mK04jzEsDDkYSJsP8EBvNBh0e5i-Ex_s3-yLfhX2X6b7fQ2MDD1gKsclbJZncHFhLDlXQdVBiUkWYi7WnluRttXmnoccMXfj2gxkA9gHaAX4zP78qSIGs_D8HImWMd_ZE5gpRLoFlSnIfpkVn_t0Qtcem4EMXc1w5O1_Xb0bonc-Y_W_84tI8Y6P9KSSOOVYlrTMMnmxAC399EbVXFTS9mxOIWMrYy5JhGc-dTmwcMnHu_6ykpWeocGTdz3k82BzWVmAdRl76zNPuZF_J_Yk4RBxMSZkKtNvs2hYLaGBbbN73VgTcRcfo6T6VQTMJZBQ3dX1TWYpq2DIkRIN2W-evTMDvDJPsVWQKf5AkEyc5NElEAu3MoRtRoOoXPMmMtge5Kpw9ohQ8YqZNFbJarAcaUCs0iHCgy1i6qr8CwPL1RsUAnaD9EALeSzswLguZ5k6as&a=2&rc=notset
 properties:
   type: Ładowana od góry
   size: Slim
@@ -57,7 +58,7 @@ properties:
   energy_class: A+
   type_of_drum: Stalowy
   load: 5 kg
-  maximum_spin_speed: "1000"
+  maximum_spin_speed: '1000'
   annual_energy_usage: 167 kWh
   annual_water_usage: 8454 l
 
