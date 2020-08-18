@@ -26,14 +26,14 @@ opinion:
       ale nie oszukujmy sie, ze to po prostu gadzet przy pralce:) ale pierze dobrze,
       wiruje dobrze, a to przeciez najwazniejsze :)
     author: paula
-    rating: '4'
+    rating: 4
   - template: review
     confirmed_purchase: true
     content: |-
       To już trzeci SAMSUNG w naszym użytkowaniu i muszę przyznać, że faktycznie silnik inwerterowy jest cichutki, w zasadzie jedyne dźwieki jakie słychać to wpuszczana woda przez elektrozawór i melodyjka (męcząca żonę) po zakończeniu prania :)
       Jako wadę dla nas należy wymienić wystający znacznie poza wymiary bęben pralki, który przy opcji wpakowania w szafkę powoduje kłopoty z dostępem do szuflady na detergenty.
     author: Piotr
-    rating: '4'
+    rating: 4
   - template: review
     confirmed_purchase: true
     content: |-
@@ -41,7 +41,7 @@ opinion:
       Pranie bawełny trwa około 3 godzin.
       Poza tym pralka jest cicha, stabilna, wygodna, przyjemna.
     author: Justyna
-    rating: '4'
+    rating: 4
   - template: review
     confirmed_purchase: true
     content: Jestem bardzo zadowolona. Co prawda trochę głośno pobiera wodę i wiruje...
@@ -49,14 +49,14 @@ opinion:
       . Mój ulubiony program. Wszystko super czysxiutkie. 6kg wsad - mnie wystarcza
       ;)
     author: Użytkownik Ceneo
-    rating: '5'
+    rating: 5
   - template: review
     confirmed_purchase: true
     content: fajna pralka, stosunkowo cicha, swieci sie jak choinka w ciemnosci po
       uruchomieniu programu prania, stabilna, nie przemieszcza sie podczas wirowania,
       denerwujaca dla mnie jest tylko melodyjka informujaca o zakonczonym praniu,
     author: Ewa
-    rating: '4'
+    rating: 4
 distinction: ''
 name: Samsung WW60K42138W Addwash
 description: |-
@@ -73,6 +73,7 @@ links:
   url: https://www.ceneo.pl/47489026#crid=357444&pid=21269
   provider: Ceneo
   anchor: Kup od 1549,00 zł
+  next-url: https://www.ceneo.pl/Click/Offer/?e=xLK13_m8a_pG5U71ADWJSWlGyvc-j1b8WakxfTj76fmOspL5cfdK3TRm2xpR_ylkIeEwZvn6UPg_nckmifmm5m-u0qFMbddOIu1p5bkbbV5p6HHDF349oMZAPYB2gF-Mz-_KkiBrPw_ByJljHf2ROYKUS6BZUpyH6ZFZ_7dELXHpuBDF3NcOTtf129G6J3PmP1v_OLSPGOj_SkkjjlWJa0zDJ5sQAt_fQ_bZIYuWVCiiR3R-OJMQVA4sE4NHz4dVb8mjevFMac0pNNOCRQ7LaTl4XOYjg58M01gtWRHoFYgyqiXfwFje2hA4au4k6YUa-bmzsha0qwqlUEzCWQUN3VL8oFVXErZB0zMXrKLiZyMuMcKRkoc53Mvb1zRo2gxhn2vZ0fYQGtdNWigl3xFk18aPby40bA4BAMr0aBuFa6I2EbXWGo6ILHv-RrBJ_AcB3yS3F8XnfEA=&a=2&rc=notset
 properties:
   type: Automatyczna
   size: Slim
@@ -80,7 +81,7 @@ properties:
   energy_class: A+++
   type_of_drum: Stalowy
   load: 6 kg
-  maximum_spin_speed: "1200"
+  maximum_spin_speed: '1200'
   annual_energy_usage: 140 kWh
   annual_water_usage: 7300 l
 
