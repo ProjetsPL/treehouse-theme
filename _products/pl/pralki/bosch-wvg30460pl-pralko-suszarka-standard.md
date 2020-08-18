@@ -23,13 +23,13 @@ opinion:
     content: super polecam jednak co bosch to bosch praca bez problemów cicha i prosta
       w obsludze
     author: michal
-    rating: '5'
+    rating: 5
   - template: review
     confirmed_purchase: true
     content: Brak „klucza” do wykręcenia filtra, który w innych pralkach był dołączany
       do pralki. Bez tego klucza trudno wykręcić oczyścić filtr.
     author: MP
-    rating: '4'
+    rating: 4
 distinction: ''
 name: Bosch WVG30460PL
 description: |-
@@ -42,6 +42,7 @@ links:
   url: https://www.ceneo.pl/58216629#crid=357536&pid=21269
   anchor: Kup od 2379,00 zł
   provider: Ceneo
+  next-url: https://www.ceneo.pl/Click/Offer/?e=gvpV_gbdq2dzL7LX731tPZTcdyWSowJuJvbSashFqj6OSkVagNQBACyqWCotIpaN1f8wFxEHfeJyBGnL_JjbkZWYpwZnso8oZ2GivnX99smrJPWGG2LWuc36fE-KeSrG9Bcjg0suc1uPV8zlKML_qQ_WsMTl8v0mpVBMwlkFDd2GBzLQynlVDoYd0DNH9mPApVBMwlkFDd2lUEzCWQUN3QOyBE39CH_seFeqLTnIez27jjFtn7wY4NQFEKvJbmcQa1iIcFBSlOShR7KW8vvH3IFr4_CSItWGTm05a0ciKNgXAxK1-dcp2Fci_6Z8D0KNSfQ97auHXvph8ob_Mwi-Zg==&a=2&rc=notset
 properties:
   type: z suszarką
   size: standard
