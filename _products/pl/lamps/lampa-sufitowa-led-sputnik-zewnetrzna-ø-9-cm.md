@@ -18,6 +18,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.awin1.com/pclick.php?p=24474695905&a=687127&m=10252
+  next-url:
   anchor: Kup od 329.90 zł
 properties:
   type: " Zewnętrzna Ø 9 cm"

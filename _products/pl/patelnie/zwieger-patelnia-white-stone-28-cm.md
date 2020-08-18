@@ -35,6 +35,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/84447142#crid=357914&pid=21269
+  next-url:
   anchor: Kup od 128,00 zł
 properties:
   type: Standardowa

@@ -58,6 +58,7 @@ photo: "/uploads/hilding-salsa-piankowy-160x200.jpg"
 links:
 - template: link
   url: https://www.ceneo.pl/43972516#crid=319287&pid=21269
+  next-url:
   anchor: Kup od 1519,00zł
   provider: Ceneo
 properties:

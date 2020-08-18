@@ -39,6 +39,7 @@ photo: "/uploads/tefal-talent-pro-25-cm-c6213852.png"
 links:
 - template: link
   url: https://www.ceneo.pl/40769739#crid=357906&pid=21269
+  next-url:
   anchor: Kup od 140,00 zł
   provider: Ceneo
 properties:

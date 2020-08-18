@@ -22,6 +22,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.awin1.com/pclick.php?p=23929995401&a=687127&m=10252
+  next-url:
   anchor: Kup od 276.90zł
 properties:
   type: Kinkiet zewnętrzny

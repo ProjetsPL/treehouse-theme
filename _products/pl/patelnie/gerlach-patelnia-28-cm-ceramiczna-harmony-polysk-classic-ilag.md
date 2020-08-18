@@ -39,6 +39,7 @@ photo: "/uploads/gerlach-patelnia-28-cm-ceramiczna-harmony-polysk-classic-ilag.p
 links:
 - template: link
   url: https://www.ceneo.pl/47398337#crid=357909&pid=21269
+  next-url:
   provider: Ceneo
   anchor: Kup od 75,00 zł
 properties:

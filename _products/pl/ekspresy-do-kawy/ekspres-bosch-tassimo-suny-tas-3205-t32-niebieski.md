@@ -35,6 +35,7 @@ photo: "/uploads/ekspres-bosch-tassimo-suny-tas-3205-t32-niebieski.png"
 links:
 - template: link
   url: https://www.ceneo.pl/29267866#crid=358482&pid=21269
+  next-url:
   provider: Ceneo
   anchor: Kup od 299,99 zł
 properties:

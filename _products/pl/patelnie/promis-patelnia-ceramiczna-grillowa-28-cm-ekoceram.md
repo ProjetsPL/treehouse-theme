@@ -35,6 +35,7 @@ photo: "/uploads/promis-patelnia-ceramiczna-grillowa-28-cm-ekoceram.png"
 links:
 - template: link
   url: https://www.ceneo.pl/17810502#crid=357795&pid=21269
+  next-url:
   anchor: Kup od 69,96 zł
   provider: Ceneo
 properties:

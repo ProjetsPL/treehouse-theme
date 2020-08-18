@@ -17,6 +17,7 @@ photo: "/uploads/kolo-ameland-piankowy-180x200.jpg"
 links:
 - template: link
   url: https://www.ceneo.pl/56220814#crid=319302&pid=21269
+  next-url:
   provider: Ceneo
   anchor: Kup od 2511,00zł
 properties:

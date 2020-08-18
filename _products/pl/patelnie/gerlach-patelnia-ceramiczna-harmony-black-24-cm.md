@@ -28,6 +28,7 @@ photo: "/uploads/gerlach-patelnia-ceramiczna-harmony-black-24-cm.png"
 links:
 - template: link
   url: https://www.ceneo.pl/33381796#crid=357910&pid=21269
+  next-url:
   anchor: Kup od 64,50 zł
   provider: Ceneo
 properties:

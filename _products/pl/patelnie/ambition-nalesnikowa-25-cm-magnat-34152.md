@@ -35,6 +35,7 @@ photo: "/uploads/ambition-nalesnikowa-25-cm-magnat-34152.png"
 links:
 - template: link
   url: https://www.ceneo.pl/47638500#crid=357902&pid=21269
+  next-url:
   anchor: Kup od 55,00 zł
   provider: Ceneo
 properties:

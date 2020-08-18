@@ -24,6 +24,7 @@ photo: "/uploads/zwieger-patelnia-z-pokrywa-silikonowa-white-stone-24-cm.png"
 links:
 - template: link
   url: https://www.ceneo.pl/89468282#crid=357917&pid=21269
+  next-url:
   anchor: Kup od 129,90
   provider: Ceneo
 properties:

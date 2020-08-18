@@ -29,6 +29,7 @@ photo: "/uploads/lodge-gleboka-patelnia-zeliwna-30-cm-l10dsk3.png"
 links:
 - template: link
   url: https://www.ceneo.pl/70956828#crid=357889&pid=21269
+  next-url:
   anchor: Kup od 375,00 zł
   provider: Ceneo
 properties:

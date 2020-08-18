@@ -39,6 +39,7 @@ photo: "/uploads/ekspres-krups-kp123b31-nescafe-dolce-gusto-mini-szary.png"
 links:
 - template: link
   url: https://www.ceneo.pl/69606327#crid=358208&pid=21269
+  next-url:
   provider: Ceneo
   anchor: Kup od 209,00 zł
 properties:

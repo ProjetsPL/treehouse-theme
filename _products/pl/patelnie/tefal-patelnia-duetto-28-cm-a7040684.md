@@ -46,6 +46,7 @@ photo: "/uploads/tefal-patelnia-duetto-28-cm-a7040684.png"
 links:
 - template: link
   url: https://www.ceneo.pl/39084411#crid=357908&pid=21269
+  next-url:
   provider: Ceneo
   anchor: Kup od 95,00 zł
 properties:

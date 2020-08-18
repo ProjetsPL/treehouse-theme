@@ -52,6 +52,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/38429205#crid=319902&pid=21269
+  next-url:
   anchor: Kup od 819,00 zł
 properties:
   type: nawierzchniowy

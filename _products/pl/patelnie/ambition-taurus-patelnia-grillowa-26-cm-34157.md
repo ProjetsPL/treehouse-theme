@@ -36,6 +36,7 @@ photo: "/uploads/ambition-taurus-patelnia-grillowa-26-cm-34157.png"
 links:
 - template: link
   url: https://www.ceneo.pl/48649212#crid=357749&pid=21269
+  next-url:
   anchor: Kup od 99,00 zł
   provider: Ceneo
 properties:

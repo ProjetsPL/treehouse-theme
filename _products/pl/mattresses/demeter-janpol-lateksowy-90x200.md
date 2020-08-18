@@ -45,6 +45,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/22385202#crid=319297&pid=21269
+  next-url:
   anchor: Kup od 1329,00zł
 properties:
   type: lateksowy

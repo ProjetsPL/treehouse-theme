@@ -40,6 +40,7 @@ photo: "/uploads/ekspres-philips-daily-collection-hd7459-20.png"
 links:
 - template: link
   url: https://www.ceneo.pl/32204080#crid=358485&pid=21269
+  next-url:
   anchor: Kup od 159,00 zł
   provider: Ceneo
 properties:

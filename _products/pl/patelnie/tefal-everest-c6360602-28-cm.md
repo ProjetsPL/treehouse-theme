@@ -34,6 +34,7 @@ photo: "/uploads/tefal-everest-c6360602-28-cm.png"
 links:
 - template: link
   url: https://www.ceneo.pl/61074987#crid=357737&pid=21269
+  next-url:
   anchor: Kup od 109,00
   provider: Ceneo
 properties:

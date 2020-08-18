@@ -34,6 +34,7 @@ links:
   provider: Ceneo
   anchor: Kup od 845,00 zł
   url: https://www.ceneo.pl/2111238#crid=319921&pid=21269
+  next-url:
 properties:
   type: sprężynowy
   size: 140x200

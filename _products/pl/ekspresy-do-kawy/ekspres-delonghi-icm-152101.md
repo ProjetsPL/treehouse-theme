@@ -33,6 +33,7 @@ photo: "/uploads/ekspres-delonghi-icm-152101.png"
 links:
 - template: link
   url: https://www.ceneo.pl/21325131#crid=358498&pid=21269
+  next-url:
   anchor: Kup od 149,00 zł
   provider: Ceneo
 properties:

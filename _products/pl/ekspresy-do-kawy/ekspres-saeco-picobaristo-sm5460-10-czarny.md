@@ -33,6 +33,7 @@ photo: "/uploads/ekspres-saeco-picobaristo-sm5460-10-czarny.png"
 links:
 - template: link
   url: https://www.ceneo.pl/61254824#crid=358070&pid=21269
+  next-url:
   provider: Ceneo
   anchor: Kup od 2299,00 zł
 properties:

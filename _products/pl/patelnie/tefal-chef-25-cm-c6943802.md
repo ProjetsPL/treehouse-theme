@@ -20,6 +20,7 @@ photo: "/uploads/tefal-chef-25-cm-c6943802.png"
 links:
 - template: link
   url: https://www.ceneo.pl/48647773#crid=357904&pid=21269
+  next-url:
   provider: Ceneo
   anchor: Kup od 135,00 zł
 properties:

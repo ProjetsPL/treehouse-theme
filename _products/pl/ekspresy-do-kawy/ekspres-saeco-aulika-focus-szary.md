@@ -37,6 +37,7 @@ photo: "/uploads/ekspres-saeco-aulika-focus-szary.png"
 links:
 - template: link
   url: https://www.ceneo.pl/26844366#crid=358513&pid=21269
+  next-url:
   provider: Ceneo
   anchor: Kup od 2859,00 zł
 properties:

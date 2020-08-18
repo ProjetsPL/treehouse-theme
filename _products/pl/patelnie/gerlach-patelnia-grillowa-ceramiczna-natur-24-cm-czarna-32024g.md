@@ -36,6 +36,7 @@ photo: "/uploads/gerlach-patelnia-grillowa-ceramiczna-natur-24-cm-czarna-32024g.
 links:
 - template: link
   url: https://www.ceneo.pl/44803328#crid=357630&pid=21269
+  next-url:
   anchor: Kup od 109,00 zł
   provider: Ceneo
 properties:

@@ -23,6 +23,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.awin1.com/pclick.php?p=21572000451&a=687127&m=10252
+  next-url:
   anchor: Sprawdź cenę!
 properties:
   type: Wysokiej jakości lampka biurkowa

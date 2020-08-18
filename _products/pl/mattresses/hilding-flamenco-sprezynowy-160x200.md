@@ -60,6 +60,7 @@ photo: "/uploads/hilding-flamenco-sprezynowy-160x200.jpg"
 links:
 - template: link
   url: https://www.ceneo.pl/43986785#crid=319291&pid=21269
+  next-url:
   anchor: Kup od 1607,20zł
   provider: Ceneo
 properties:

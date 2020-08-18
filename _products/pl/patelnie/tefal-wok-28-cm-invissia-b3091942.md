@@ -34,6 +34,7 @@ photo: "/uploads/tefal-wok-28-cm-invissia-b3091942.png"
 links:
 - template: link
   url: https://www.ceneo.pl/47242162#crid=357912&pid=21269
+  next-url:
   anchor: Kup od 72,86
   provider: Ceneo
 properties:

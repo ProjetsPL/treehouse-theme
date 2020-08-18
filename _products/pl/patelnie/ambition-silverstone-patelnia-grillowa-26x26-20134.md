@@ -33,6 +33,7 @@ photo: "/uploads/ambition-silverstone-patelnia-grillowa-26x26-20134.png"
 links:
 - template: link
   url: https://www.ceneo.pl/57664288#crid=357768&pid=21269
+  next-url:
   provider: Ceneo
   anchor: Kup od 56,00 zł
 properties:

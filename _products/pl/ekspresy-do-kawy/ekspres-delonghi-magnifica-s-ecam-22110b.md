@@ -46,6 +46,7 @@ photo: "/uploads/ekspres-delonghi-magnifica-s-ecam-22110b.png"
 links:
 - template: link
   url: https://www.ceneo.pl/15872880#crid=358080&pid=21269
+  next-url:
   anchor: Kup od 1149,00 zł
   provider: Ceneo
 properties:

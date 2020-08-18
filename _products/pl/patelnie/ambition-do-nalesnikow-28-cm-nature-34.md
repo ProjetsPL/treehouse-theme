@@ -34,6 +34,7 @@ photo: "/uploads/ambition-do-nalesnikow-28-cm-nature-34.png"
 links:
 - template: link
   url: https://www.ceneo.pl/47638732#crid=357897&pid=21269
+  next-url:
   anchor: Kup od 53,00 zł
   provider: Ceneo
 properties:

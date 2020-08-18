@@ -55,6 +55,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/48153054#crid=319918&pid=21269
+  next-url:
   anchor: Kup od 300,00 zł
 properties:
   type: piankowy

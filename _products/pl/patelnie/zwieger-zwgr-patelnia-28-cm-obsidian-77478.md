@@ -33,6 +33,7 @@ photo: "/uploads/zwieger-zwgr-patelnia-28-cm-obsidian-77478.png"
 links:
 - template: link
   url: https://www.ceneo.pl/86288080#crid=357911&pid=21269
+  next-url:
   anchor: Kup od 159,99 zł
   provider: Ceneo
 properties:

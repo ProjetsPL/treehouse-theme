@@ -51,6 +51,7 @@ photo: "/uploads/kolo-medivis-piankowy-180x200.jpg"
 links:
 - template: link
   url: https://www.ceneo.pl/14398582#crid=319305&pid=21269
+  next-url:
   provider: Ceneo
   anchor: Kup od 3644,00zł
 properties:

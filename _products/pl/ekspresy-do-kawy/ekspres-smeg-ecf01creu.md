@@ -32,6 +32,7 @@ photo: "/uploads/ekspres-smeg-ecf01creu.png"
 links:
 - template: link
   url: https://www.ceneo.pl/49593567#crid=358185&pid=21269
+  next-url:
   anchor: Kup od 1407,99 zł
   provider: Ceneo
 properties:

@@ -32,6 +32,7 @@ photo: "/uploads/kitchen-craft-patelnia-zeliwna-z-deska-do-serwowania-artfry-20.
 links:
 - template: link
   url: https://www.ceneo.pl/42958515#crid=357826&pid=21269
+  next-url:
   anchor: Kup od 79,00 zł
   provider: Ceneo
 properties:

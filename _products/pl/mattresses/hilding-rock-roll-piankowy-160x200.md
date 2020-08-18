@@ -49,6 +49,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/43972536#crid=319289&pid=21269
+  next-url:
   anchor: Kup od 1359,00zł
 properties:
   type: piankowy

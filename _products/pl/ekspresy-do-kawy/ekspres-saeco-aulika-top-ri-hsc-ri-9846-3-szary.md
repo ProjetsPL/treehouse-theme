@@ -34,6 +34,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/51503788#crid=358512&pid=21269
+  next-url:
   anchor: Kup od 4359,00 zł
 properties:
   type: ciśnieniowy

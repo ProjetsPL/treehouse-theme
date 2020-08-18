@@ -19,6 +19,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.awin1.com/pclick.php?p=21996783701&a=687127&m=10252
+  next-url:
   anchor: Kup od 209.90 zł
 properties:
   color: Antracyt

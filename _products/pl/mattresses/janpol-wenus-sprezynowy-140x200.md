@@ -51,6 +51,7 @@ links:
 - template: link
   provider: Ceneo
   url: https://www.ceneo.pl/17039702#crid=319931&pid=21269
+  next-url:
   anchor: Kup od 836,00 zł
 properties:
   type: sprężynowy
