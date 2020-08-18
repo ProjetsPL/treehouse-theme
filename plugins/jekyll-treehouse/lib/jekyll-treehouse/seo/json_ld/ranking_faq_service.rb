@@ -57,9 +57,7 @@ module Jekyll
             i = 0
             products.sort_by { |x| x["name"] }.map do |product|
               name = product["name"]
-              name = ["🥇", name].join if i == 0
-              name = ["🥈", name].join if i == 1
-              name = ["🥉", name].join if i == 2
+              name = ["📍 ", name].join
               name = [name, name_postfix].compact.join(" ")
 
               description = [product["description"][0..150], '...'].join
