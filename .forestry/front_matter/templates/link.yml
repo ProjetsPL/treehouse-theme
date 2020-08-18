@@ -23,7 +23,7 @@ fields:
 - name: next-url
   type: text
   config:
-    required: true
+    required: false
   label: Next URL
 - name: anchor
   type: text
