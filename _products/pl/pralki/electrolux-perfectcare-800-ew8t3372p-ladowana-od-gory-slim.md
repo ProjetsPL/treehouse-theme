@@ -15,7 +15,7 @@ opinion:
     content: Na chwile obecna pralkę mam dwa tyg i póki co jestem bardzo zadowolona.
       Oby służyła mi naprawdę długo.
     author: Malwina
-    rating: '5'
+    rating: 5
   - template: review
     confirmed_purchase: true
     content: To już moja druga pralka tej marki i jestem zachwycona! Pralka ta posiada
@@ -24,7 +24,7 @@ opinion:
       rozmiarowi zajmuje mało miejsca, ale i tak jest pojemna (7kg)! Mam nadzieję,
       że będę z niej długoooo zadowolona, tak jak do tej pory, zdecydowanie polecam.
     author: Iwona Cz.
-    rating: '5'
+    rating: 5
 distinction: our_choice
 name: Electrolux PerfectCare 800 EW8T3372P
 description: |-
@@ -37,6 +37,7 @@ links:
   url: https://www.ceneo.pl/81555028#crid=357459&pid=21269
   anchor: Kup od 2120,00 zł
   provider: ''
+  next-url: https://www.ceneo.pl/Click/Offer/?e=8lMznqO-MlNG5U71ADWJSWlGyvc-j1b8Gngkm-eMnbpVpRPCmHkMCBlYaYnwZjFA0NjAw9YCrHJWyWZ3BxYSw1qKVXDcCYfgRQ4gf4-mr6SJ6pn4VpLsFDcuV2srB47vnGz-AwTvDC01UZyxWi3F5Y6lpPFAACNRp4n5NYzKrgsEXbJZHzyDGsvd2L6s3JqyeTusiXu1bKsWKX1Ch7XW06i1eM6fuqKsQ9cy6HuEZs7iFjK2MuSYRo47Mgk6Er1daJYfYF9VKm7LXwOx4Ps85pgHUZe-szT7ItWWgLVbkEgTEmZCrTb7NoWC2hgW2ze91YE3EXH6Ok-lUEzCWQUN3XUNWsIsTvf0yBhW-FE2pm04-iETnclgo0h_ermCNuEJbkwSOkoB_kVEXveF1GHygpUU8x1YzOFQN0HP03iXxiiUbtfxd3C6D_TWy--bwP4P3fH06QOu3hs=&a=2&rc=notset
 properties:
   type: Ładowana od góry
   size: Slim
@@ -44,7 +45,7 @@ properties:
   energy_class: A+++
   type_of_drum: brak informacji
   load: 7 kg
-  maximum_spin_speed: "1300"
+  maximum_spin_speed: '1300'
   annual_energy_usage: 120 kWh
   annual_water_usage: 9990 l
 

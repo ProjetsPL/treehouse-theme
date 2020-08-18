@@ -17,18 +17,18 @@ opinion:
     content: Kolejny elektrolux pralka w moim domu. To już druga,pierwsza służyła
       ponad dziesięć lat. Popsuła się z naszej winy z przeładowania - wniosek nie
       wkładaj za dużo prania do bębna.
-    rating: '5'
+    rating: 5
   - template: review
     confirmed_purchase: true
     author: Użytkownik Ceneo
     content: Dobra jakość , bardzo pomysłowe otwieranie bębna , łatwy demontaż dozownika
       detergentów. Ogólnie polecam
-    rating: '5'
+    rating: 5
   - template: review
     confirmed_purchase: true
     content: Towar zgodny z potrzebami, w pełni spełnia moje oczekiwania
     author: DARIUSZ_M
-    rating: '4'
+    rating: 4
 distinction: ''
 name: Electrolux EWT1266EXW
 description: |-
@@ -41,6 +41,7 @@ links:
   url: https://www.ceneo.pl/39881312#crid=357535&pid=21269
   anchor: Kup od 1469,65
   provider: Ceneo
+  next-url: https://www.ceneo.pl/Click/Offer/?e=gUiT8VEmBYkrjapxHqwkvm51sPSl0HQ5r_ORWUbCnORsZInmd2lHiclPnNk6I_n2qT9x4wAxPvO4pEstET898qsk9YYbYta5lAaNXKFBJEf0FyODSy5zW49XzOUowv-ppVBMwlkFDd2lUEzCWQUN3Q7q8m3sgx-Ahh3QM0f2Y8ClUEzCWQUN3aVQTMJZBQ3dzcfPjBYR3D4Ook0LlGu571u10KK8QYh4guw3PoN9XoFvhf_mAL6YqacPaIUPGKmTRWyWqwHGlArqVIDPs8DGdWQSZZXnBclOJ2g_RAC3ks7SU4q7yBbzdw==&a=2&rc=notset
 properties:
   type: Ładowana od góry
   size: slim
