@@ -30,9 +30,9 @@ Quando si cercano **piccole idee di appartamenti** per progettare gli interni, s
 
 L'illuminazione sbagliata è un problema comune - non solo per i piccoli appartamenti, ma anche per gli interni più grandi. La mancanza di illuminazione naturale, le fonti di luce artificiale non sono sufficienti o la loro errata pianificazione - **quelli sono problemi che riguardano il 30% dell'intera popolazione.** Da dove vengono queste difficoltà?
 
-Per stimare quanti punti luce sono necessari, dovreste analizzare attentamente il vostro progetto. **Per scegliere la lampada giusta o anche solo pensare di posizionarla, è necessario conoscere i punti precisi in cui preparare i pasti o leggere i libri.
+Per stimare quanti punti luce sono necessari, dovreste analizzare attentamente il vostro progetto. **Per scegliere la lampada giusta o anche solo pensare di posizionarla, è necessario conoscere i punti precisi in cui preparare i pasti o leggere i libri**.
 
-**In questa fase, invece, si adotta uno schema generale: la lampada principale appesa al centro, alcune luci a parete. Nel frattempo, i piccoli appartamenti tendono ad essere insoliti in termini di struttura, e alcuni apparecchi non sempre si trovano nei punti più evidenti. In questo modo si rischia di cadere accidentalmente in una trappola.
+**In questa fase, invece, si adotta uno schema generale: la lampada principale appesa al centro, alcune luci a parete.** Nel frattempo, i piccoli appartamenti tendono ad essere insoliti in termini di struttura, e alcuni apparecchi non sempre si trovano nei punti più evidenti. In questo modo si rischia di cadere accidentalmente in una trappola.
 
 {% fig %}
 
@@ -100,7 +100,7 @@ Un piccolo monolocale non ama il caos, quindi l'utilizzo di molti stili, texture
 Una miscela di vari elementi potrebbe funzionare bene in alcuni casi, ad esempio quando si decora un appartamento in stile vintage. Tende a trarre ispirazione da varie nozioni. Tuttavia, non è uno stile consigliato per i piccoli appartamenti.
 
 {% fig %}
-![Studio apartment - A multitude of styles, textures and colors](/uploads/male-mieszkanie-pomieszane-style.jpg "SMonolocale - Una moltitudine di stili, texture e colori") 
+![Studio apartment - A multitude of styles, textures and colors](/uploads/male-mieszkanie-pomieszane-style.jpg "SMonolocale - Una moltitudine di stili, texture e colori")
 {% endfig %}
 
 {% fig %}
@@ -157,42 +157,42 @@ Siete alla ricerca di piccole idee per un appartamento? Vi state chiedendo come 
 
 Ricordate che anche l'appartamento più bello non vi soddisferà se non è funzionale. Quindi, fate molta attenzione agli elementi che scegliete, per evitare i comuni errori e le delusioni.
 
-{% faqItem %} 
-{% faqQuestion %} 
-Come organizzare un monolocale? 
+{% faqItem %}
+{% faqQuestion %}
+Come organizzare un monolocale?
 {% endfaqQuestion %}
 
-{% faqAnswer %} 
+{% faqAnswer %}
 Uno degli aspetti più importanti di un monolocale funzionale è il deposito. Sfruttate lo spazio disponibile - potreste costruire un armadio a muro se avete una parete incassata. Scegliete mobili funzionali come pouf con contenitore o un tavolino con cassetti.
-{% endfaqAnswer %} 
+{% endfaqAnswer %}
 {% endfaqItem %}
 
-{% faqItem %} 
-{% faqQuestion %} 
+{% faqItem %}
+{% faqQuestion %}
 Come trovare un monolocale?
 {% endfaqQuestion %}
 
-{% faqAnswer %} 
-Si può trarre ispirazione dai cataloghi di mobili e da Internet - ma non rimanere rigidi su un progetto particolare. Sfogliate le idee e scegliete quelle che vi piacciono di più, e pensate a come inserire le migliori ellements nel vostro monolocale. 
-{% endfaqAnswer %} 
+{% faqAnswer %}
+Si può trarre ispirazione dai cataloghi di mobili e da Internet - ma non rimanere rigidi su un progetto particolare. Sfogliate le idee e scegliete quelle che vi piacciono di più, e pensate a come inserire le migliori ellements nel vostro monolocale.
+{% endfaqAnswer %}
 {% endfaqItem %}
 
-{% faqItem %} 
-{% faqQuestion %} 
-Come si fa a sistemare i mobili in un monolocale? 
+{% faqItem %}
+{% faqQuestion %}
+Come si fa a sistemare i mobili in un monolocale?
 {% endfaqQuestion %}
 
-{% faqAnswer %} 
-Assicuratevi che i vostri mobili abbiano le giuste dimensioni. Non dovreste stipare troppi pezzi di attrezzatura su uno spazio ridotto, altrimenti causerete disordine. Pianificate tutto in modo moderato - concentratevi sulla funzionalità e sull'organizzazione, ma non fate sembrare lo spazio sterile. 
-{% endfaqAnswer %} 
+{% faqAnswer %}
+Assicuratevi che i vostri mobili abbiano le giuste dimensioni. Non dovreste stipare troppi pezzi di attrezzatura su uno spazio ridotto, altrimenti causerete disordine. Pianificate tutto in modo moderato - concentratevi sulla funzionalità e sull'organizzazione, ma non fate sembrare lo spazio sterile.
+{% endfaqAnswer %}
 {% endfaqItem %}
 
-{% faqItem %} 
-{% faqQuestion %} 
-Come si costruisce un monolocale? 
+{% faqItem %}
+{% faqQuestion %}
+Come si costruisce un monolocale?
 {% endfaqQuestion %}
 
-{% faqAnswer %} 
+{% faqAnswer %}
 Scegliete uno stile dominante e assicuratevi di non sopraffare lo spazio con troppi colori e texture. I piccoli appartamenti non beneficiano del caos - assicuratevi di organizzare tutto in modo ordinato e scegliete le decorazioni corrispondenti.
-{% endfaqAnswer %} 
+{% endfaqAnswer %}
 {% endfaqItem %}
