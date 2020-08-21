@@ -113,6 +113,8 @@ Such a Christmas table decoration needs a similar set of elements as a tradition
 
 {:.distinction.distinction-information}
 
+You don't have time to create your own Christmas table decorations? No worries! You can buysuch ornaments in every flower shop - just pick the one you like the most.
+
 ## Boho style Christmas table decorations
 
 Do you like **natural themes like forest** or rustic countryside? You can use them during the holiday season as well and create your own, unique composition. Such ornaments are not very demanding and you can make them in no time.
