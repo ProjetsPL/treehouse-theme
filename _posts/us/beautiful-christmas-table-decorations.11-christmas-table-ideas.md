@@ -117,9 +117,9 @@ You don't have time to create your own Christmas table decorations? No worries! 
 
 ## Boho style Christmas table decorations
 
-Do you like **natural themes like forest** or rustic countryside? You can use them during the holiday season as well and create your own, unique composition. Such ornaments are not very demanding and you can make them in no time.
+Do you like **natural themes like forest** or rustic countryside? You can use them during the holiday season as well, creating your own, unique composition. Such ornaments are not very demanding and you can make them in no time.
 
-You are going to need **cloth napkins, some live plants, large candles**. You can prepare the napkins for your guests by tying them with a piece of twine and attaching a pine twig. You can also use a piece of laced ribbon to tie the cloth.
+You are going to need **cloth napkins, some live plants, large candles**. You can prepare the napkins for your guests by tying them with a piece of twine and attaching a pine twig on top. You can also use a piece of laced ribbon.
 
 You can decorate your Christmas table by spreading a **burlap or laced table cloth** on its surface. Do not forget about candles. Small candleholders look great, but you can achieve even better effect by using plain long candles in candelabra.
 
@@ -131,13 +131,13 @@ You can decorate your Christmas table by spreading a **burlap or laced table clo
 
 ## Christmas table decorations made of wood and pine
 
-**Wood and pine** are two basic material that are very commonly used for a Christmas table setting. Why are they so popular? Most importantly, they are natural, meaning they fit with any color. You can easily match them with a white, red or green runner.
+**Wood and pine** are two basic material that are very commonly used for a Christmas table setting. Why are they so popular? Most importantly, they are natural, which means they fit  any color. You can easily match them with a white, red or green runner.
 
-**Simple ideas** often are the best. A wooden bed with candles, surrounded by loose green pine twigs alway looks fantastic.
+**Simple ideas** often are the best. A wooden bed with candles, surrounded by loose green pine twigs always looks fantastic.
 
 {:.distinction.distinction-information}
 
-What's good about a decoration of this type is the fact that you can buy each of those elements - you don't have to do anything yourself. You just choose the right elements and place them on the Christmas table. Such solution, however, requires a good concept.
+What's good about a decoration of this type is the fact that you can buy each of those elements - you don't have to do anything yourself. Just choose the right elements and place them on the Christmas table. Such solution, however, requires a good concept.
 
 {% fig %}
 
@@ -149,11 +149,11 @@ What's good about a decoration of this type is the fact that you can buy each of
 
 Do you care about a unique Christmas atmosphere? It’s not as difficult to achieve as you might think. Use **many candles and small lights** as your Christmas table decorations. There are battery-powered lights available on the market, and you can use them anywhere - even without access to an electric outlet.
 
-Christmas table decorations that use a lot of lights look best if the interior is **dark**. Therefore, to achieve the best results, you can darken the room.
+Christmas table decorations that use many lights look best if the interior is **dark**. Therefore, to achieve the best results, you can darken the room.
 
 {:.distinction.distinction-warning}
 
-If you use a lot of lights - be careful, especially if there are little children at home. The Christmas table is going to particularly interesting for them, however a direct conact with fire might end up poorly.
+If you use a lot of lights - be careful, especially if there are little children at home. The Christmas table is going to particularly interesting for them, however, a direct contact with fire might end up poorly.
 
 {% fig %}
 
@@ -163,9 +163,9 @@ If you use a lot of lights - be careful, especially if there are little children
 
 ## Red and silver Christmas table decorations
 
-Red is one of the colors associated with Christmas by many people. Hence, it's commonly chosen for a Christmas table decorations. **One must be careful not to choose too strong shade**. It is advised to break it with a lighter, equally elegant and stylish color.
+Red is one of the colors associated with Christmas by many people. Hence, it's commonly chosen for Christmas table decorations. **One must be careful not to choose too strong shade**. It is advised to break it with a lighter, equally elegant and stylish color.
 
-A combination of **red and silver** is a very good idea. You can choose a silver runner and red napkins or the other way around - red runner and silver napkins. Another interesting idea involves placing a wide ornamental tape with shiny sequins in the middle on the table, and surrounding it with tiny Christmas balls.
+A combination of **red and silver** is a very good idea. You can choose a silver runner and red napkins or the other way around - red runner and silver napkins. Another interesting idea involves placing a wide ornamental tape with shiny sequins in the middle, and surrounding it with tiny Christmas balls.
 
 {% fig %}
 
@@ -179,7 +179,7 @@ Are you not a fan of lavish Christmas table decorations? Do you like minimalism?
 
 Choose one color that you associate with Christmas and make it your theme tone. You could use **dark blue or bottle green**. White table cloths might be the basis for a minimalistic Christmas table setting. Match them with plain glass vases and standard tableware - white as well.
 
-Christmas table decorations of this type are based on accessories. **Colorful candles, napkins and flowers** that's all you need to make the Christmas table look really good.
+Christmas table decorations of this type are based on accessories. **Colorful candles, napkins and flowers** - that's all you need to make the Christmas table look really good.
 
 {% fig %}
 
@@ -189,15 +189,15 @@ Christmas table decorations of this type are based on accessories. **Colorful ca
 
 {:.distinction.distinction-information}
 
-Do you want to bring some Christmas atmosphere to your table? This design is perfect for small sequin ornaments - golden stars or green Chrristmas trees. You can buy them in any dry goods store. Just spread them in a few spots on the table to give it a special Christmas character.
+Do you want to bring Christmas atmosphere to your table? This design is perfect for small sequin ornaments - golden stars or green Christmas trees. You can buy them in any dry goods store. Just spread them in a few spots on the table to give it a special Christmas character.
 
 ## Black elements - unusual Christmas table decorations
 
 **Black color** is not typically associated with Christmas, nevertheless, it's becoming a popular choice for Christmas table decorations. All one needs is using it with taste to create a really stylish arrangement.
 
-The most important aspect in this case is keeping balance. **If you use black - combine it with white or silver**. Using black table cloth sometimes might be too bold. However, if you use a white runner and place a stripe of black cloth across - you will get a completely different result. Elements with shiny particles are particularly recommended - they reflect the light from lamps or candles and despite their black colour, they seem brighter.
+The most important aspect in this case is keeping balance. **If you use black - combine it with white or silver**. Using black table cloth sometimes might be too bold. However, if you use a white runner and place a stripe of black cloth across - you will get a completely different result. Elements with shiny particles are particularly recommended - they reflect the light from lamps or candles and despite the black colour, they seem brighter.
 
-Candles are absolute **must-have** Christmas table decorations. In this case, there are no limits - choose black candles without restrictions. This element always looks good.
+Candles are absolute **must-haves** as Christmas table decorations. In this case, there are no limits - choose black candles without restrictions. This element always looks good.
 
 {% fig %}
 
@@ -231,7 +231,7 @@ How to make christmas tree table decoration?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-One of the simplest ideas is arranging some pine twigs in an ornamental vase and hanging some ornaments on them. There are many possibilities - choose the one that fits the style of the resst of your Christmas table decorations. You can use pinecones, paper or even pastry.
+One of the simplest ideas involves arranging some pine twigs in an ornamental vase and hanging some ornaments on them. There are many possibilities - choose the one that fits the style of the rest of your Christmas table decorations. You can use pinecones, paper or even pastry.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
@@ -241,6 +241,6 @@ How to make a simple christmas table decoration?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Use candles - make a Christmas table centerpiece by placing one large candle or several smaller in the middle. Spread some green twigs, Christmas ornaments, ribbons or figurines around them to make a composiition.
+Use candles - make a simple Christmas table centerpiece by placing one large candle or several smaller ones in the middle. Spread some green twigs, Christmas ornaments, ribbons or figurines around them to make a composiition.
 {% endfaqAnswer %}
 {% endfaqItem %}
