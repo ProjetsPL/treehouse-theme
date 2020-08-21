@@ -43,7 +43,7 @@ Do you prefer slightly more ornamental Christmas table decorations? Choose class
 
 ## Traditional Christmas table decorations
 
-**Classic Christmas table decorations** are always trendy. Many people like to go reach out to the tradition lying in culture and go back to their younger days, recreating the exact same Christmas table.
+**Classic Christmas table decorations** are always trendy. Many people like to reach out to the tradition and culture, going back to their younger days and recreating the exact same Christmas table they remember.
 
 What is going to look best in such a case? **Napkins with a Christmas pattern, white elegant plates, cookies in platters and candles.** Those elements will create a unique, magical atmosphere, characteristic for family gatherings full of love.
 
@@ -55,13 +55,13 @@ What is going to look best in such a case? **Napkins with a Christmas pattern, w
 
 ## A modern Christmas table - copper and pink
 
-Do you want your Christmas table to look unique, different from any other setting? Choose a **modern arrangement** which will surely surprise your family. The recent years have brought bolder Chriistmas table decoration ideas. Surprisigly, the elements do not necessarily have to be directly linked with the theme of Christmas.
+Do you want your Christmas table to look unique, different from any other setting? Choose a **modern arrangement** which will surely surprise your family. The recent years have brought bolder Chriistmas table decoration ideas. Surprisingly, the elements do not necessarily have to be directly linked with the theme of Christmas.
 
-Quite bold, but at the same time interesting solution involves using pink color and copper, which are not so obvious elements of a Christmas atmosphere. By choosing those two colors, you can achieve an effect of a subtle elegance. They also look great with white.
+Quite bold, but at the same time interesting solution involves using pink color and copper, which are not so obvious elements of a Christmas atmosphere. By choosing those two colors, you can achieve an effect of subtle elegance. They also look great with white tones.
 
 {:.distinction.distinction-information}
 
-Do you want to squeeze some Christmas atmosphere into the modern arrangement? Choose subtle ornaments - white porcelain angels figurines, glass candlehoders shaped like Christmas trees. Such decorations will fit the design perfectly without disrupting the arrangement.
+Do you want to add some Christmas atmosphere into the modern arrangement? Choose subtle ornaments - white porcelain angels figurines, glass candlehoders shaped like Christmas trees. They will fit the design perfectly without disrupting the whole arrangement.
 
 {% fig %}
 
