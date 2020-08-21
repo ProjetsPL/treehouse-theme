@@ -22,7 +22,6 @@ intro: Christmas is coming soon - it's high time you think of how your table sho
   Christmas table setting ideas for you to get inspired and create your own arrangements.
 image: "/uploads/stol-wigilijny.jpg"
 related_products: []
-published: false
 
 ---
 ## Golden Christmas table
@@ -219,7 +218,7 @@ If you own a **natural wooden table** - use it and do not cover it with a tablec
 
 {% fig %}
 
-![](/uploads/stol-wigilijny-zloto-czerwien-rosliny.jpg)
+![Christmas table decor - gold, red and plants](/uploads/stol-wigilijny-zloto-czerwien-rosliny.jpg "Christmas table decor - gold, red and plants")
 
 {% endfig %}
 
