@@ -222,3 +222,23 @@ If you own a **natural wooden table** - use it and do not cover it with a tablec
 {% endfig %}
 
 Regardless of the style you choose, remember that Christmas table decorations should be consistent. Apart from the table, you can also **decorate the whole room in a similar fashion** - just use small accessories.
+
+{% faqItem %}
+{% faqQuestion %}
+How to make christmas tree table decoration?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+One of the simplest ideas is arranging some pine twigs in an ornamental vase and hanging some ornaments on them. There are many possibilities - choose the one that fits the style of the resst of your Christmas table decorations. You can use pinecones, paper or even pastry.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+How to make a simple christmas table decoration?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Use candles - make a Christmas table centerpiece by placing one large candle or several smaller in the middle. Spread some green twigs, Christmas ornaments, ribbons or figurines around them to make a composiition.
+{% endfaqAnswer %}
+{% endfaqItem %}
