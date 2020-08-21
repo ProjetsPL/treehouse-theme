@@ -1,7 +1,10 @@
 ---
 layout: post
 date: 2020-08-21
-main_keywords: []
+main_keywords:
+- Apartamento-Estudio
+- un pequeño arreglo de apartamentos
+- pequeño apartamento
 toc: true
 promoted: false
 update_date: 2020-08-21
@@ -15,10 +18,9 @@ intro: "¿Acabas de empezar tu vida adulta y quieres independizarte rápidamente
   evitarlos fácilmente."
 image: "/uploads/male-mieszkanie-bledy-podczas-jego-urzadzania.jpg"
 related_products: []
-published: false
 
 ---
-## Evita esos errores al decorar un estudio.
+## Evita esos errores al decorar un estudio
 
 Cuando se buscan **ideas para pequeños apartamentos** para diseñar el interior, uno puede cometer varios errores. Algunos de ellos son apenas perceptibles, mientras que otros pueden convertir el regreso diario del trabajo en una pesadilla. Si no te emociona este escenario, recuerda: para ganar la batalla, debes conocer a tu enemigo. Es lo mismo en este caso particular. **Si analizas los errores que pueden surgir durante la decoración de un pequeño apartamento, serás capaz de evitarlos.**
 
@@ -98,7 +100,7 @@ Una mezcla de varios elementos podría funcionar bien en algunos casos, por ejem
 
 {% fig %}
 
-![Apartamento-estudio - Una multitud de estilos, texturas y colores](/uploads/male-mieszkanie-pomieszane-style.jpg "Apartamento-estudio - Una multitud de estilos, texturas y colores") 
+![Apartamento-estudio - Una multitud de estilos, texturas y colores](/uploads/male-mieszkanie-pomieszane-style.jpg "Apartamento-estudio - Una multitud de estilos, texturas y colores")
 
 {% endfig %}
 
