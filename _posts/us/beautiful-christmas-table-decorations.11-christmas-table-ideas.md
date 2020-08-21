@@ -161,4 +161,64 @@ If you use a lot of lights - be careful, especially if there are little children
 
 ## Red and silver Christmas table decorations
 
-Red is one of the 
+Red is one of the colors associated with Christmas by many people. Hence, it's commonly chosen for a Christmas table decorations. **One must be careful not to choose too strong shade**. It is advised to break it with a lighter, equally elegant and stylish color.
+
+A combination of **red and silver** is a very good idea. You can choose a silver runner and red napkins or the other way around - red runner and silver napkins. Another interesting idea involves placing a wide ornamental tape with shiny sequins in the middle on the table, and surrounding it with tiny Christmas balls.
+
+{% fig %}
+
+![Red and silver Christmas table decorations](/uploads/dekoracja-stolu-wigilijnego-srebro-czerwien.jpg "Red and silver Christmas table decorations")
+
+{% endfig %}
+
+## Green minimalistic Christmas table
+
+Are you not a fan of lavish Christmas table decorations? Do you like minimalism? This setting is perfect for you. Remember - **plain doesn't mean boring**. The simplicity is very often a key to success.
+
+Choose one color that you associate with Christmas and make it your theme tone. You could use **dark blue or bottle green**. White table cloths might be the basis for a minimalistic Christmas table setting. Match them with plain glass vases and standard tableware - white as well.
+
+Christmas table decorations of this type are based on accessories. **Colorful candles, napkins and flowers** that's all you need to make the Christmas table look really good.
+
+{% fig %}
+
+![Green minimalistic Christmas table](/uploads/stol-wigilijny-zielone-dodatki.jpg "Green minimalistic Christmas table")
+
+{% endfig %}
+
+{:.distinction.distinction-information}
+
+Do you want to bring some Christmas atmosphere to your table? This design is perfect for small sequin ornaments - golden stars or green Chrristmas trees. You can buy them in any dry goods store. Just spread them in a few spots on the table to give it a special Christmas character.
+
+## Black elements - unusual Christmas table decorations
+
+**Black color** is not typically associated with Christmas, nevertheless, it's becoming a popular choice for Christmas table decorations. All one needs is using it with taste to create a really stylish arrangement.
+
+The most important aspect in this case is keeping balance. **If you use black - combine it with white or silver**. Using black table cloth sometimes might be too bold. However, if you use a white runner and place a stripe of black cloth across - you will get a completely different result. Elements with shiny particles are particularly recommended - they reflect the light from lamps or candles and despite their black colour, they seem brighter.
+
+Candles are absolute **must-have** Christmas table decorations. In this case, there are no limits - choose black candles without restrictions. This element always looks good.
+
+{% fig %}
+
+![Black elements - unusual Christmas table decorations](/uploads/stol-wigilijny-czarne-elementy.jpg "Black elements - unusual Christmas table decorations")
+
+{% endfig %}
+
+{% fig %}
+
+![Christmas table - black candles](/uploads/stol-wigilijny-dekoracje-stolu-pomysly.jpg "Christmas table - black candles")
+
+{% endfig %}
+
+## Christmas table decor - gold, red and plants
+
+You can use the the Christmas table ideas presented above and **create your own designs**. One of the many options involves matching gold and red colors with plants in a climate referring to boho style.
+
+If you own a **natural wooden table** - use it and do not cover it with a tablecloth. Instead, choose cloth napkins. Put some plant twigs between the dishes. To make the whole Christmas table decor look more elegant, use golden cutlery or gold underplates.
+
+{% fig %}
+
+![](/uploads/stol-wigilijny-zloto-czerwien-rosliny.jpg)
+
+{% endfig %}
+
+Regardless of the style you choose, remember that Christmas table decorations should be consistent. Apart from the table, you can also **decorate the whole room in a similar fashion** - just use small accessories.
