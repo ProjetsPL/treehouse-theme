@@ -139,7 +139,7 @@ Jeżeli decydujesz się na wykorzystanie dużej ilości świeczek - bądź ostro
 
 Czerwień jest jedną z tych barw, które większości osób kojarzą się ze Świętami Bożego Narodzenia. Bardzo często jest więc wybierana, kiedy trzeba przyozdobić stół wigilijny. **Trzeba jednak uważać, aby nie przesadzić z intensywnym odcieniem**. Bardzo przełamać go czymś jaśniejszym, a jednocześnie równie eleganckim i stylowym.
 
-Doskonałą propozycją jest **zestawienie czerwieni ze srebrem**. Możesz postawić na srebrny bieżnik i czerwone serwetki lu odwrotnie czerwony bieżnik i srebrne serwetki. Ciekawym pomysłem jest puszczenie pośrodku stołu szerokiej, dekoracyjnej taśmy z błyszczącymi cekinami, wokół których umieścisz mini-bombki.
+Doskonałą propozycją jest **zestawienie czerwieni ze srebrem**. Możesz postawić na srebrny bieżnik i czerwone serwetki lub odwrotnie czerwony bieżnik i srebrne serwetki. Ciekawym pomysłem jest puszczenie pośrodku stołu szerokiej, dekoracyjnej taśmy z błyszczącymi cekinami, wokół których umieścisz mini-bombki.
 
 {% fig %}
 ![Dekoracje stołu w czerwieni i srebrze](/uploads/dekoracja-stolu-wigilijnego-srebro-czerwien.jpg "Dekoracje stołu w czerwieni i srebrze")
