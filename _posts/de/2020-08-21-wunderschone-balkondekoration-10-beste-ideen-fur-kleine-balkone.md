@@ -20,7 +20,6 @@ intro: Ein kleiner Balkon - besonders in Wohnungen in Großstädten - ist ein pe
   die Sie inspirieren und Ihnen helfen sollen, Ihren eigenen Balkon zu dekorieren.
 image: "/uploads/aranzacja-balkonu-10-najlepszych-rozwiazan-na-maly-balkon-treehouse.jpg"
 related_products: []
-published: false
 
 ---
 ## Idee eines kleinen Balkons - eine Leseecke
