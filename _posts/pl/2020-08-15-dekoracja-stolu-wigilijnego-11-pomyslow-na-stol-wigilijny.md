@@ -168,7 +168,7 @@ Podstawą w tym przypadku jest zachowanie umiaru. **Jeżeli używasz czerni - ze
 
 Doskonałym pomysłem mogą okazać się **czarne sztućce**. To nietypowy dodatek, który dopiero niedawno pojawił się na rynku. Tym bardziej wyróżni Twój stół wigilijny.
 
-Absolutne **_must have_** to także świece. Te możesz bezkarnie wybierać w czarny kolorze. Taki dodatek zawsze będzie prezentował się dobrze.
+Absolutne **_must have_** to także świece. Te możesz bezkarnie wybierać w czarnym kolorze. Taki dodatek zawsze będzie prezentował się dobrze.
 
 {% fig %}
 ![Czarne elementy - nietypowy wigilijny stół](/uploads/stol-wigilijny-czarne-elementy.jpg "Czarne elementy - nietypowy wigilijny stół")
