@@ -2,8 +2,8 @@
 layout: post
 date: 2020-08-21
 main_keywords:
-- pequeño apartamento
-- un pequeño arreglo de apartamentos
+- petit appartement
+- la décoration d'un studio
 toc: true
 promoted: false
 update_date: 2020-08-21
@@ -19,7 +19,6 @@ intro: 'Vous venez de commencer votre vie d''adulte et vous souhaitez devenir ra
   facilement.'
 image: "/uploads/male-mieszkanie-bledy-podczas-jego-urzadzania.jpg"
 related_products: []
-published: false
 
 ---
 ## Éviter ces erreurs lors de la décoration d'un studio
@@ -86,7 +85,7 @@ La conception des petits appartements requiert plus d'attention, principalement 
 
 {% fig %}
 
-![Studio - placard mural](/uploads/male-mieszkanie-szafy-zabudowane.jpg "Studio - placard mural")
+![Studio - placard mural](/uploads/male-mieszkanie-szafy-zabudowane.jpg "Studio - affiche murale")
 
 {% endfig %}
 
@@ -122,82 +121,83 @@ Par conséquent, **vous ne devez pas tout transférer à votre propre intérieur
 
 C'est une bonne idée de choisir plusieurs projets qui vous plaisent vraiment et de les analyser. Marquez dans chacun des projets quelque chose qui vous attire particulièrement et quelque chose qui vous déplaît. En utilisant la méthode d'essai et d'erreur, essayez de faire correspondre les différents éléments. De cette façon, vous avez la possibilité de créer un projet unique qui s'adaptera parfaitement à votre intérieur.
 
-### Excessive order
+### Ordre excessif
 
-When you enter some apartments, do they seem **exceptionally sterile** to you - a neat row of furniture by the wall, an empty space in the middle? It doesn't look good at all - just like a surplus of elements. What's more, by leaving an empty area in the middle, you waste space that could be used in a functional way.
-
-{:.distinction.distinction-information}
-
-If you don't have any idea on how to decorate a studio apartment and its central area, start from placing a sofa in the middle. It might become a starting point for further changes.
-
-## How to decorate a studio apartment - with a specialist or by yourself?
-
-A new apartment requires good planning from the beginning. At this stage, one can make a lot of mistakes that will affect the comfort of living in the future. Of course, you might **design everything drawing inspiration from the internet or sales catalogs.** It requires a lot of attention and takes a lot of time. Matching the right furniture, accessories and finishing materials might be problematic in some cases - even for a specialist. For this reason many homeowners consider hiring an interior designer.
-
-**Thanks to modern graphic software, a specialist is able to prepare a draft of the project, along with a full visualization.** It will help you to get the idea how a particular interior might look like and allow you to implement necessary changes - without really affecting the apartment.
-
-Are you wondering how much hiring a professional designer costs? It all depends on how big and complicated the project is. The full service usually involves designing a project and a supervision during the furnishing process. The more unusual the project, the higher the cost.
-
-{% fig %}
-
-![How to decorate a studio apartment - with a specialist or by yourself?](/uploads/male-mieszkanie-projekt-projektant.jpg "How to decorate a studio apartment - with a specialist or by yourself?")
-
-{% endfig %}
-
-## Small apartment ideas - where to take them from?
-
-**The biggest source of ideas for small apartments is the Internet.** You can find plenty of pages and blogs on this topic with plenty of pictures of cute apartments. Some of them are run by people who design and finish interiors as a hobby.
-
-There are many interior design magazines on the market, where you can view projects from renowned designers. **Interior design** **TV shows have gained popularity recently - you can learn a lot of interesting ideas from them.**
+Lorsque vous entrez dans certains appartements, vous semblent-ils **exceptionnellement stériles** - une rangée de meubles bien rangés près du mur, un espace vide au milieu ? Cela ne semble pas bon du tout - tout comme un surplus d'éléments. De plus, en laissant un espace vide au milieu, vous gaspillez un espace qui pourrait être utilisé de manière fonctionnelle.
 
 {:.distinction.distinction-information}
 
-Are you looking for small apartment ideas? Are you wondering how to furnish a studio apartment? Visit local furniture stores. You can also plan a trip to IKEA, where you can see expositions of interesting designs.
+Si vous n'avez aucune idée de la manière de décorer un studio et sa partie centrale, commencez par placer un canapé au milieu. Cela pourrait devenir un point de départ pour d'autres changements.
+
+## Comment décorer un studio - avec un spécialiste ou par vous-même?
+
+Un nouvel appartement nécessite une bonne planification dès le départ. À ce stade, on peut faire beaucoup d'erreurs qui affecteront le confort de vie futur. Bien sûr, vous pouvez **concevoir tout en vous inspirant d'Internet ou de catalogues de vente**, ce qui demande beaucoup d'attention et de temps. L'adéquation entre les meubles, les accessoires et les matériaux de finition peut être problématique dans certains cas - même pour un spécialiste. C'est pourquoi de nombreux propriétaires envisagent d'engager un architecte d'intérieur.
+
+**Grâce à un logiciel graphique moderne, un spécialiste est en mesure de préparer une ébauche du projet, ainsi qu'une visualisation complète.**            Il vous aidera à vous faire une idée de l'aspect d'un intérieur particulier et vous permettra de mettre en œuvre les changements nécessaires - sans vraiment affecter l'appartement.
+
+Vous vous demandez combien coûte l'embauche d'un designer professionnel ? Tout dépend de l'ampleur et de la complexité du projet. Le service complet comprend généralement la conception d'un projet et une supervision pendant le processus d'ameublement. Plus le projet est inhabituel, plus le coût est élevé.
 
 {% fig %}
 
-![Small apartment ideas - where to take them from?](/uploads/male-mieszkanie-pomysly-na-aranzacje.jpg "Small apartment ideas - where to take them from?")
+![How to decorate a studio apartment - with a specialist or by yourself?](/uploads/male-mieszkanie-projekt-projektant.jpg "Comment décorer un studio - avec un spécialiste ou par vous-même?")
 
 {% endfig %}
 
-Remember that **apart from aesthetics, practicality also matters.** Even the most beautiful small apartment will not satisfy you if it's not functional. Therefore, pay a close attention to the elements you choose, to avoid common mistakes and disappointment.
+## Idées de petits appartements - où les prendre?
 
-{% faqItem %} 
-{% faqQuestion %} 
-How to organize a studio apartment? 
+**La plus grande source d'idées pour les petits appartements est l'Internet ** Vous pouvez trouver de nombreuses pages et blogs sur ce sujet avec beaucoup de photos d'appartements mignons. Certains d'entre eux sont gérés par des personnes qui conçoivent et finissent des intérieurs comme un passe-temps.
+
+Il existe de nombreux magazines de design d'intérieur sur le marché, où vous pouvez voir des projets de designers renommés. **Les émissions de télévision ont gagné en popularité ces derniers temps - vous pouvez y apprendre beaucoup d'idées intéressantes.
+
+
+{:.distinction.distinction-information}
+
+Vous cherchez des idées de petits appartements ? Vous vous demandez comment meubler un studio ? Visitez les magasins de meubles locaux. Vous pouvez également planifier un voyage chez IKEA, où vous pourrez voir des expositions de dessins intéressants.
+
+{% fig %}
+
+![Small apartment ideas - where to take them from?](/uploads/male-mieszkanie-pomysly-na-aranzacje.jpg "Idées de petits appartements - où les prendre?")
+
+{% endfig %}
+
+N'oubliez pas que **en dehors de l'esthétique, le côté pratique compte aussi** Même le plus beau petit appartement ne vous satisfera pas s'il n'est pas fonctionnel. Par conséquent, faites bien attention aux éléments que vous choisissez, afin d'éviter les erreurs courantes et les déceptions.
+
+{% faqItem %}
+{% faqQuestion %}
+Comment organiser un studio?
 {% endfaqQuestion %}
 
-{% faqAnswer %} 
-One of the most important aspects of a functional studio apartment is storage. Use the available space - you could build an in-wall closet if you have a recessed wall. Choose functional furniture like poufs with storage or a coffee table with drawers. 
-{% endfaqAnswer %} 
+{% faqAnswer %}
+L'un des aspects les plus importants d'un studio fonctionnel est le rangement. Utilisez l'espace disponible - vous pourriez construire un placard mural si vous avez un mur encastré. Choisissez des meubles fonctionnels comme des poufs avec rangement ou une table basse avec tiroirs.
+{% endfaqAnswer %}
 {% endfaqItem %}
 
-{% faqItem %} 
-{% faqQuestion %} 
-How to arrange a studio apartment? 
+{% faqItem %}
+{% faqQuestion %}
+Comment organiser un studio?
 {% endfaqQuestion %}
 
-{% faqAnswer %} 
-You can draw inspiration from furniture catalogs and the Internet - but to not stick stiffly to a particular project. Browse through ideas and choose the ones you like the most, and think how to fit the best ellements into your own studio apartment. 
-{% endfaqAnswer %} 
+{% faqAnswer %}
+Vous pouvez vous inspirer des catalogues de meubles et de l'Internet - mais sans vous attacher à un projet particulier. Parcourez les idées et choisissez celles qui vous plaisent le plus, et réfléchissez à la façon d'intégrer les meilleurs éléments dans votre propre studio.
+{% endfaqAnswer %}
 {% endfaqItem %}
 
-{% faqItem %} 
-{% faqQuestion %} 
-How do you arrange furniture in a studio apartment? 
+{% faqItem %}
+{% faqQuestion %}
+Comment disposer les meubles dans un studio?
 {% endfaqQuestion %}
 
-{% faqAnswer %} 
-Make sure that your furniture has the right size. You shouldn't cram too many pieces of equipment on a small space, otherwise you will cause clutter. Plan everything in a moderate way - focus on functionality and organization, but do not make the space look sterile. 
-{% endfaqAnswer %} 
+{% faqAnswer %}
+Veillez à ce que vos meubles aient la bonne taille. Il ne faut pas entasser trop de matériel sur un petit espace, sous peine d'encombrement. Planifiez tout de manière modérée - concentrez-vous sur la fonctionnalité et l'organisation, mais ne donnez pas l'impression que l'espace est stérile.
+{% endfaqAnswer %}
 {% endfaqItem %}
 
-{% faqItem %} 
-{% faqQuestion %} 
-How to style a studio apartment? 
+{% faqItem %}
+{% faqQuestion %}
+Comment aménager un studio?
 {% endfaqQuestion %}
 
-{% faqAnswer %} 
-Choose one dominant style and make sure not to overwhelm the space with too many colors and textures. Small apartments do not benefit from chaos - make sure to organize everything neatly and pick matching decorations. 
-{% endfaqAnswer %} 
+{% faqAnswer %}
+Choisissez un style dominant et veillez à ne pas submerger l'espace avec trop de couleurs et de textures. Les petits appartements ne bénéficient pas du chaos - assurez-vous de tout organiser proprement et de choisir des décorations assorties.
+{% endfaqAnswer %}
 {% endfaqItem %}
