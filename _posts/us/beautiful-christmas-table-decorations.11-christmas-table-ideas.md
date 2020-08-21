@@ -135,4 +135,30 @@ You can decorate your Christmas table by spreading a **burlap or laced table clo
 
 {:.distinction.distinction-information}
 
-What's good about a decoration of this type is the fact that you can buy each of those elements - you don't have to do anything yourself. You just choose the right elements and place them on the Christmas table. Such solution 
+What's good about a decoration of this type is the fact that you can buy each of those elements - you don't have to do anything yourself. You just choose the right elements and place them on the Christmas table. Such solution, however, requires a good concept.
+
+{% fig %}
+
+![Christmas table decorations made of wood and pine](/uploads/stol-wigilijny-drewno-swierk.jpg "Christmas table decorations made of wood and pine")
+
+{% endfig %}
+
+## A well illuminated Christmas table - the absolute essential
+
+Do you care about a unique Christmas atmosphere? It’s not as difficult to achieve as you might think. Use **many candles and small lights** as your Christmas table decorations. There are battery-powered lights available on the market, and you can use them anywhere - even without access to an electric outlet.
+
+Christmas table decorations that use a lot of lights look best if the interior is **dark**. Therefore, to achieve the best results, you can darken the room.
+
+{:.distinction.distinction-warning}
+
+If you use a lot of lights - be careful, especially if there are little children at home. The Christmas table is going to particularly interesting for them, however a direct conact with fire might end up poorly.
+
+{% fig %}
+
+![A well illuminated Christmas table - the absolute essential](/uploads/stol-wigilijny-oswietlenie.jpg "A well illuminated Christmas table - the absolute essential")
+
+{% endfig %}
+
+## Red and silver Christmas table decorations
+
+Red is one of the 
