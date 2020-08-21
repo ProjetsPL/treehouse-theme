@@ -140,6 +140,7 @@ Prezenty na parapetówkę często bywają przesadzone podczas gdy często te naj
 * 300 g ulubionej czekolady (możesz pomieszać kilka rodzajów)
 
 **Wykonanie ciasteczek z czekoladą**
+
 Mąkę wsyp do dużej miski, dodaj cukier wanilinowy, proszek do pieczenie, szczyptę soli i wymieszaj. Następnie do drugiej miski wsyp cukier, jajko i masło - wszystko dokładnie zmiksuj. Do ubitej masy wsyp składniki z drugiej miski, ponownie miksując. Kiedy uzyskasz gładką konsystencję - dodaj posiekaną na drobne kawałki czekoladę.
 
 Piekarnik rozgrzej do temperatury 160 ℃. Dużą blaszkę wyłóż papierem do pieczenia.
