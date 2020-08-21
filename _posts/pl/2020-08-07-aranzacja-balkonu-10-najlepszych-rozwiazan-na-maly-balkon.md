@@ -121,7 +121,7 @@ Możesz wybrać dwa sposoby uprawy warzyw i roślin. Jedną z nich są tradycyjn
 
 **Dysponujesz ograniczonym funduszem i obawiasz się, że Twoja aranżacja balkonu będzie nie do końca taka, jak sobie wyobraziłeś?** Zastanawiasz się, czy będziesz musiał zrezygnować z pewnych elementów wyposażenia? Nie ma takiej potrzeby! Wystarczy, że znajdziesz pomysł na balkon i wykorzystasz odrobinę swojej kreatywności.
 
-Doskonałą opcją jest **wykorzystanie palet**, które są tanie i dają możliwość stworzenia wielu ciekawych przedmiotów np. sof, czy ławeczek. Wystarczy standardów zbicie palet (instrukcję znajdziesz w sieci) i zastosowanie zwykłych poduszek.
+Doskonałą opcją jest **wykorzystanie palet**, które są tanie i dają możliwość stworzenia wielu ciekawych przedmiotów np. sof, czy ławeczek. Wystarczy standardowe zbicie palet (instrukcję znajdziesz w sieci) i zastosowanie zwykłych poduszek.
 
 {:.distinction.distinction-information}
 Meble balkonowe z palet są w ostatnich latach bardzo popularne. Na ich korzyść przemawia nie tylko niewielki koszt związany z samodzielnym wykonaniem. Plusem jest także możliwość idealnego dopasowania do przestrzeni, którą dysponujesz. W ten sposób zagospodarujesz nawet naprawdę mały balkon.
@@ -138,7 +138,7 @@ Meble balkonowe z palet są w ostatnich latach bardzo popularne. Na ich korzyś�
 
 Chcesz wrócić wspomnieniami do czasów dzieciństwa? Zależy Ci na relaksie, na świeżym powietrzu, ale Twój balkon ma mikroskopijne rozmiary. **Doskonałą opcją będącą częścią wyposażenia może okazać się huśtawka.** Bardzo popularne są w ostatnim czasie plecione modele nazywane "bocianimi gniazdami". Są one wykorzystywane zarówno w domowych wnętrzach, na balkonach, jak i w przestrzeniach publicznych np. restauracjach w klimacie boho.
 
-Zastanawiasz się, dlaczego huśtawka jest idealnym pomysłem na mały balkon? Przede wszystkim jej wykorzystanie tak naprawdę **aranżację typu 2w1**. Na co dzień, na balkonie możesz wykorzystywać składany stolik z krzesłem. Kiedy będziesz miał ochotę na relaks, na huśtawce - wystarczy, że je złożysz i zawiesisz swoje "bocianie gniazdo" na haku przymocowanym na stałe do znajdującego się kondygnację wyżej balkonu. Ta wersja jest doskonała także dla niezdecydowanych, którzy lubią od czasu do czasu zmiany.
+Zastanawiasz się, dlaczego huśtawka jest idealnym pomysłem na mały balkon? Przede wszystkim jej wykorzystanie obejmuje tak naprawdę **aranżację typu 2w1**. Na co dzień, na balkonie możesz wykorzystywać składany stolik z krzesłem. Kiedy będziesz miał ochotę na relaks, na huśtawce - wystarczy, że je złożysz i zawiesisz swoje "bocianie gniazdo" na haku przymocowanym na stałe do znajdującego się kondygnację wyżej balkonu. Ta wersja jest doskonała także dla niezdecydowanych, którzy lubią od czasu do czasu zmiany.
 
 {% fig %}
 ![Huśtawka - idealna na mały balkon!](/uploads/hustawka-maly-balkon.jpg "Huśtawka - idealna na mały balkon!")
