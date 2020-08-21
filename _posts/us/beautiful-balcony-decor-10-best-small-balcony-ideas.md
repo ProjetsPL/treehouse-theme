@@ -1,7 +1,10 @@
 ---
 layout: post
 date: 2020-08-21
-main_keywords: []
+main_keywords:
+- small balcony ideas
+- balcony ideas
+- balcony garden ideas
 toc: true
 promoted: false
 update_date: 2020-08-21
