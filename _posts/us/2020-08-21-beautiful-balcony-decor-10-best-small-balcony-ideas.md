@@ -20,7 +20,6 @@ intro: A small balcony - especially in apartments located in large cities - is a
   help you decorate your own balcony.
 image: "/uploads/aranzacja-balkonu-10-najlepszych-rozwiazan-na-maly-balkon-treehouse.jpg"
 related_products: []
-published: false
 
 ---
 ## Small balcony idea - a reading corner
