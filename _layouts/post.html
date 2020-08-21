@@ -17,6 +17,8 @@
 <link href="{{ site.baseurl }}/assets/css/pages/review.css?v=3" rel="stylesheet">
 
 <body>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
   {% if page.lang == "pl" %}
   <div id="fb-root"></div>
   <script async defer crossorigin="anonymous" src="https://connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v8.0" nonce="r5fqc9Oi"></script>
@@ -60,7 +62,6 @@
             </figure>
           </header>
 
-          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
           <ins class="adsbygoogle"
               style="display:block"
               data-ad-format="fluid"
@@ -126,9 +127,8 @@
               </div>
           </div>
 
-          {{ content | inject_anchors }}
+          {{ content | inject_anchors | inject_ads }}
 
-          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
           <ins class="adsbygoogle"
               style="display:block"
               data-ad-format="fluid"
