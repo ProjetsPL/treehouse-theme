@@ -145,10 +145,9 @@ Vous vous demandez combien coûte l'embauche d'un designer professionnel ? Tout 
 
 ## Idées de petits appartements - où les prendre?
 
-**La plus grande source d'idées pour les petits appartements est l'Internet ** Vous pouvez trouver de nombreuses pages et blogs sur ce sujet avec beaucoup de photos d'appartements mignons. Certains d'entre eux sont gérés par des personnes qui conçoivent et finissent des intérieurs comme un passe-temps.
+\**La plus grande source d'idées pour les petits appartements est l'Internet ** Vous pouvez trouver de nombreuses pages et blogs sur ce sujet avec beaucoup de photos d'appartements mignons. Certains d'entre eux sont gérés par des personnes qui conçoivent et finissent des intérieurs comme un passe-temps.
 
 Il existe de nombreux magazines de design d'intérieur sur le marché, où vous pouvez voir des projets de designers renommés. **Les émissions de télévision ont gagné en popularité ces derniers temps - vous pouvez y apprendre beaucoup d'idées intéressantes.
-
 
 {:.distinction.distinction-information}
 
