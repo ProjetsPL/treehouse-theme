@@ -20,7 +20,6 @@ intro: Un piccolo balcone - soprattutto negli appartamenti situati nelle grandi 
   che dovrebbero ispirarvi e aiutarvi a decorare il vostro balcone.
 image: "/uploads/aranzacja-balkonu-10-najlepszych-rozwiazan-na-maly-balkon-treehouse.jpg"
 related_products: []
-published: false
 
 ---
 ## Piccola idea di balcone - un angolo lettura
