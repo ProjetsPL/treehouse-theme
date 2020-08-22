@@ -21,7 +21,6 @@ intro: "¿Valora la época especial de la Navidad? Es un momento perfecto para r
   que serán las más populares este año."
 image: "/uploads/ozdoby-swiateczne.jpg"
 related_products: []
-published: false
 
 ---
 ## Adornos navideños hechos de lana o hilo de bordar
