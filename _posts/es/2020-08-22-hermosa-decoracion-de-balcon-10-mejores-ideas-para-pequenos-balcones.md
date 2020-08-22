@@ -19,7 +19,6 @@ intro: Un pequeño balcón, especialmente en los apartamentos de las grandes ciu
   deberían inspirarte y ayudarte a decorar tu propio balcón.
 image: "/uploads/aranzacja-balkonu-10-najlepszych-rozwiazan-na-maly-balkon-treehouse.jpg"
 related_products: []
-published: false
 
 ---
 ## Idea de un pequeño balcón - un rincón de lectura
