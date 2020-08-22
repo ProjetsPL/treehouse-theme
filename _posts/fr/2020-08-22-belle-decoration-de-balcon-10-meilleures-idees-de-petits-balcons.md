@@ -21,7 +21,6 @@ intro: Un petit balcon - surtout dans les appartements situés dans les grandes 
   balcon.
 image: "/uploads/aranzacja-balkonu-10-najlepszych-rozwiazan-na-maly-balkon-treehouse.jpg"
 related_products: []
-published: false
 
 ---
 ## Idée de petit balcon - un coin lecture
