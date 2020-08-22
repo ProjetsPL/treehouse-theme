@@ -26,7 +26,7 @@ related_products: []
 
 Wenn Sie Freude an der Handarbeit haben, dann werden Ihnen **Weihnachtsschmuck, der mit Wolle oder Stickgarn gehäkelt wird, sicher gefallen.** Finden Sie einfach das richtige Muster im Internet.
 
-Ziemlich beliebter Weihnachtsschmuck sind gehäkelte Schneeflocken, Kugeln und Engel. Gewöhnlich sind solche Dekorationen flach - genau wie Servietten. Wenn Sie über bessere Fähigkeiten verfügen, ** wird die Herstellung einer 3D-Kugel oder sogar einer Glocke** kein Problem für Sie sein.
+Ziemlich beliebter Weihnachtsschmuck sind gehäkelte Schneeflocken, Kugeln und Engel. Gewöhnlich sind solche Dekorationen flach - genau wie Servietten. Wenn Sie über bessere Fähigkeiten verfügen, **wird die Herstellung einer 3D-Kugel oder sogar einer Glocke** kein Problem für Sie sein.
 
 Wie macht man den Weihnachtsschmuck steif? Es gibt mehrere Möglichkeiten, das zu tun. Wählen Sie die Methode entsprechend der **Größe des Gegenstandes**.
 
@@ -213,32 +213,32 @@ Diese Art von Weihnachtsdekoration kann auch als **Geschenkbox** verwendet werde
 
 {% endfig %}
 
-{% faqItem %} 
-{% faqQuestion %} 
-Wie macht man Weihnachtsdekoration? 
+{% faqItem %}
+{% faqQuestion %}
+Wie macht man Weihnachtsdekoration?
 {% endfaqQuestion %}
 
-{% faqAnswer %} 
-Es hängt alles davon ab, welche Art von Weihnachtsschmuck Sie anfertigen möchten. Normalerweise braucht man nur mehrere Elemente und Klebstoff - um sie miteinander zu verbinden. Jeder Weihnachtsschmuck erfordert eine individuelle Analyse und Vorbereitung der notwendigen Materialien. 
-{% endfaqAnswer %} 
+{% faqAnswer %}
+Es hängt alles davon ab, welche Art von Weihnachtsschmuck Sie anfertigen möchten. Normalerweise braucht man nur mehrere Elemente und Klebstoff - um sie miteinander zu verbinden. Jeder Weihnachtsschmuck erfordert eine individuelle Analyse und Vorbereitung der notwendigen Materialien.
+{% endfaqAnswer %}
 {% endfaqItem %}
 
-{% faqItem %} 
-{% faqQuestion %} 
-Wie macht man Weihnachtsschmuck aus Papier? 
+{% faqItem %}
+{% faqQuestion %}
+Wie macht man Weihnachtsschmuck aus Papier?
 {% endfaqQuestion %}
 
-{% faqAnswer %} 
+{% faqAnswer %}
 Eine der einfachsten Möglichkeiten, Weihnachtsschmuck aus Papier herzustellen, ist das Zuschneiden in eine Form. Sie könnten ein quadratisches Blatt Papier mehrmals falten und einige Löcher hineinschneiden - entfalten Sie es und Sie haben eine Schneeflocke! Alternativ können Sie ein längeres Stück falten und eine Form ausschneiden - einen Baum oder einen Engel. Auf diese Weise erhalten Sie eine Weihnachtsgirlande.
-{% endfaqAnswer %} 
+{% endfaqAnswer %}
 {% endfaqItem %}
 
-{% faqItem %} 
-{% faqQuestion %} 
-Wie organisiert man Weihnachtsschmuck? 
+{% faqItem %}
+{% faqQuestion %}
+Wie organisiert man Weihnachtsschmuck?
 {% endfaqQuestion %}
 
-{% faqAnswer %} 
-Um den Weihnachtsschmuck für die nächste Saison vorzubereiten, stauben Sie ihn ab und legen Sie ihn in separate Schachteln. Sie können sie nach Farbe oder nach ihrem Zweck ordnen - legen Sie den Christbaumschmuck in eine Schachtel und die, die Sie draußen verwenden, in eine andere. Verwenden Sie einen Eierkarton, um zu verhindern, daß Weihnachtskugeln aus Glas zerbrechen. 
-{% endfaqAnswer %} 
+{% faqAnswer %}
+Um den Weihnachtsschmuck für die nächste Saison vorzubereiten, stauben Sie ihn ab und legen Sie ihn in separate Schachteln. Sie können sie nach Farbe oder nach ihrem Zweck ordnen - legen Sie den Christbaumschmuck in eine Schachtel und die, die Sie draußen verwenden, in eine andere. Verwenden Sie einen Eierkarton, um zu verhindern, daß Weihnachtskugeln aus Glas zerbrechen.
+{% endfaqAnswer %}
 {% endfaqItem %}
