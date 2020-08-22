@@ -20,7 +20,6 @@ intro: Schätzen Sie die besondere Zeit von Weihnachten? Es ist ein perfekter Mo
   die beliebtesten sein werden.
 image: "/uploads/ozdoby-swiateczne.jpg"
 related_products: []
-published: false
 
 ---
 ## Weihnachtsschmuck aus Wolle oder Stickgarn
