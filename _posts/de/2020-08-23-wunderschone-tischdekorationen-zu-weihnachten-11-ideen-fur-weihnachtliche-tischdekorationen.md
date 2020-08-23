@@ -22,7 +22,6 @@ intro: Weihnachten steht vor der Tür - es ist höchste Zeit, dass Sie sich übe
   Ihre eigenen Arrangements kreieren können.
 image: "/uploads/stol-wigilijny.jpg"
 related_products: []
-published: false
 
 ---
 ## Goldener Weihnachtstisch
