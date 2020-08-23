@@ -20,7 +20,6 @@ intro: Apprezzate il periodo speciale del Natale? È un momento perfetto per ril
   che quest'anno saranno le più popolari.
 image: "/uploads/ozdoby-swiateczne.jpg"
 related_products: []
-published: false
 
 ---
 ## Ornamenti natalizi in lana o ricamo di filo interdentale
