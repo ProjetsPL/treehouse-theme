@@ -21,7 +21,6 @@ intro: Noël arrive bientôt - il est grand temps que vous réfléchissiez à l'
   inspirer et créer vos propres arrangements.
 image: "/uploads/stol-wigilijny.jpg"
 related_products: []
-published: false
 
 ---
 ## Table de Noël dorée
