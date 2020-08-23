@@ -21,7 +21,6 @@ intro: Il Natale è alle porte - è ora che pensiate a come dovrebbe essere la v
   Natale per ispirarvi e creare i vostri arrangiamenti.
 image: "/uploads/stol-wigilijny.jpg"
 related_products: []
-published: false
 
 ---
 ## Tavolo d'oro di Natale
