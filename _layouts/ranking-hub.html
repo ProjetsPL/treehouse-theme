@@ -44,7 +44,84 @@
                 </div>
             </header>
 
-            {{ content }}
+            {% assign products = site.products | where: "category", page.products_category | where: 'distinction', 'our_choice' %}
+
+            {% assign main_product = products[0] %}
+            <!-- {% assign second_product = products[-1] %} -->
+
+            <div class="beam b-size-5  review-section">
+                <div class="beam-item b-size-5 review-text">
+                {{page.rankings_list.intro | markdownify}}
+            </div>
+            </div>
+
+            <nav class="beam-item b-size-5 reviews-nav">
+            <ul class="beam b-size-3 reviews-nav-lvl-1">
+                {% assign rankings_list_categories = page.rankings_list.categories%}
+                {% for item in rankings_list_categories%}
+                <li class="beam-item b-size-1">
+                <span class="title {{item.icon}}-reviews">{{page.rankings_list.list_main_title}} <b>{{item.title}}</b></span>
+                <ul class="reviews-nav-lvl-2 ">
+                    {% assign categorie_list = item.list %}
+                    {% for item in categorie_list%} 
+                    <li><a href="{{item.link}}" title="{{page.rankings_list.list_main_title}}  {{item.title}}">{{page.rankings_list.list_main_title}} <strong>{{item.title}}</strong></a></li>
+                    {% endfor %}
+                </ul>
+                </li>
+                {% endfor %}
+            </ul>
+            </nav>
+
+            <div class="beam b-size-5  review-section">
+                <div class="beam-item b-size-3 review-text">
+                    <figure>
+                        <img src="{{ page.image }}" alt="Test">
+                        <figcaption>{{ page.h1 }}</figcaption>
+                    </figure>
+                    {{ page.intro | markdownify }}
+                </div>
+                <div class="beam-item b-size-2 beam-rail  review-sidebar">      	
+                    <div class="beam-rail-item r-height-100">
+                        <div class="sticky-element">
+                        {% include parts/product-listing-boxitem-md.html product=main_product %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="beam b-size-5  review-section">
+                <div class="beam-item b-size-5  review-text">
+                    <h2>{{page.rankings_list.list_main_title}}</h2>
+                    <div class="flex-wrapper  nowrap">
+                        <div class="flex-container">
+                        {% for product in products %}
+                            <div class="flex-item" >
+                            {% include parts/product-listing-boxitem-md.html product=product %}
+                            </div>
+                        {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="beam b-size-5  review-section">
+            <div class="beam-item b-size-3 review-text">
+                {{ content | markdownify | inject_anchors }}
+            </div>
+
+
+            <div class="beam-item b-size-2 beam-rail  review-sidebar">
+                <div class="beam-rail-item r-height-100">
+                    <div class="sticky-element">
+                        <nav class="table-of-content">
+                            <span class="title">{{site.i18n[page.lang].toc}}</span>
+                            {{ content | markdownify | toc_only }}
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            </div>
 
             <div class="beam">
                 <div class="beam-item">
