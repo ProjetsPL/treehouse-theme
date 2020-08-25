@@ -1,6 +1,6 @@
 url: "https://treehouse.co" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "" # the name of your site, e.g. ACME Corp.
+title: "Treehouse" # the name of your site, e.g. ACME Corp.
 logo: '/assets/img/logo.png'
 logo_svg: '/assets/img/logo.svg'
 icon: '/assets/img/01.png'
@@ -167,7 +167,7 @@ defaults:
       full-lang: "pl"
   -
     scope:
-      path: "pl/recenzje"
+      path: "pl/rankings"
     values:
       type: "ranking"
 

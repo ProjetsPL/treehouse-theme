@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21.002" viewBox="0 0 21 21.002">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #007c8f;
+        opacity: 0.3;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke: #006370;
+        stroke-linecap: square;
+      }
+
+      .cls-3 {
+        stroke: #1b2524;
+      }
+    </style>
+  </defs>
+  <g id="Icon_-_Articles" data-name="Icon - Articles" transform="translate(0.5 0.5)">
+    <path id="Shadow" class="cls-1" d="M186.593,249.141a2.573,2.573,0,0,1-1.666.846A2.666,2.666,0,0,1,182,247.333V242s2.083.005,2.662,0C184.7,248.646,184.4,249.146,186.593,249.141Z" transform="translate(-167.333 -230)"/>
+    <g id="Color">
+      <rect id="Rectangle_17" data-name="Rectangle 17" class="cls-2" width="9.333" height="4" transform="translate(2.667 2.667)"/>
+      <line id="Line_1" data-name="Line 1" class="cls-2" x2="9.333" transform="translate(2.667 8.667)"/>
+      <path id="Path_96" data-name="Path 96" class="cls-2" d="M164,238" transform="translate(-161.333 -228.667)"/>
+      <line id="Line_2" data-name="Line 2" class="cls-2" x2="4.667" transform="translate(2.667 10.667)"/>
+      <line id="Line_3" data-name="Line 3" class="cls-2" x2="4.667" transform="translate(2.667 12.667)"/>
+      <line id="Line_4" data-name="Line 4" class="cls-2" x2="9.333" transform="translate(2.667 14.667)"/>
+      <line id="Line_5" data-name="Line 5" class="cls-2" x2="9.333" transform="translate(2.667 16.667)"/>
+      <rect id="Rectangle_18" data-name="Rectangle 18" class="cls-2" width="2.667" height="2" transform="translate(9.333 10.667)"/>
+    </g>
+    <g id="Black">
+      <path id="Path_94" data-name="Path 94" class="cls-3" d="M177.333,244H162.667A2.667,2.667,0,0,1,160,241.333V224h14.667v17.333A2.666,2.666,0,0,0,177.333,244Z" transform="translate(-160 -224)"/>
+      <path id="Path_95" data-name="Path 95" class="cls-3" d="M187.333,242v5.219a2.743,2.743,0,0,1-2.406,2.768A2.666,2.666,0,0,1,182,247.333V242Z" transform="translate(-167.333 -230)"/>
+    </g>
+  </g>
+</svg>

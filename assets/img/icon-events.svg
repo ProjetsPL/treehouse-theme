@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #006370;
+        opacity: 0.3;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke: #006370;
+        stroke-linecap: square;
+      }
+
+      .cls-3 {
+        stroke: #1b2524;
+      }
+    </style>
+  </defs>
+  <g id="Icon_-_Events" data-name="Icon - Events" transform="translate(0.5 0.5)">
+    <rect id="shadow" class="cls-1" width="4" height="18" transform="translate(0 2)"/>
+    <g id="Color">
+      <line id="Line_91" data-name="Line 91" class="cls-2" x2="2" transform="translate(11 9)"/>
+      <line id="Line_92" data-name="Line 92" class="cls-2" x2="2" transform="translate(15 9)"/>
+      <line id="Line_93" data-name="Line 93" class="cls-2" x2="2" transform="translate(3 11)"/>
+      <line id="Line_94" data-name="Line 94" class="cls-2" x2="2" transform="translate(7 11)"/>
+      <line id="Line_95" data-name="Line 95" class="cls-2" x2="2" transform="translate(11 11)"/>
+      <line id="Line_96" data-name="Line 96" class="cls-2" x2="2" transform="translate(15 11)"/>
+      <line id="Line_97" data-name="Line 97" class="cls-2" x2="2" transform="translate(3 13)"/>
+      <line id="Line_98" data-name="Line 98" class="cls-2" x2="2" transform="translate(7 13)"/>
+      <line id="Line_99" data-name="Line 99" class="cls-2" x2="2" transform="translate(11 13)"/>
+      <line id="Line_100" data-name="Line 100" class="cls-2" x2="2" transform="translate(15 13)"/>
+      <line id="Line_101" data-name="Line 101" class="cls-2" x2="2" transform="translate(3 15)"/>
+      <line id="Line_102" data-name="Line 102" class="cls-2" x2="2" transform="translate(7 15)"/>
+      <line id="Line_103" data-name="Line 103" class="cls-2" x2="2" transform="translate(11 15)"/>
+      <line id="Line_104" data-name="Line 104" class="cls-2" x2="2" transform="translate(15 15)"/>
+      <line id="Line_105" data-name="Line 105" class="cls-2" x2="2" transform="translate(3 17)"/>
+      <line id="Line_106" data-name="Line 106" class="cls-2" x2="2" transform="translate(7 17)"/>
+      <line id="Line_107" data-name="Line 107" class="cls-2" x2="2" transform="translate(11 17)"/>
+    </g>
+    <g id="Black">
+      <rect id="Rectangle_96" data-name="Rectangle 96" class="cls-3" width="20" height="18" transform="translate(0 2)"/>
+      <path id="Path_209" data-name="Path 209" class="cls-3" d="M124,268c-.552,0-1-.895-1-2s.448-2,1-2,1,.895,1,2" transform="translate(-120 -264)"/>
+      <path id="Path_210" data-name="Path 210" class="cls-3" d="M128,268c-.552,0-1-.895-1-2s.448-2,1-2,1,.895,1,2" transform="translate(-120 -264)"/>
+      <path id="Path_211" data-name="Path 211" class="cls-3" d="M132,268c-.552,0-1-.895-1-2s.448-2,1-2,1,.895,1,2" transform="translate(-120 -264)"/>
+      <path id="Path_212" data-name="Path 212" class="cls-3" d="M136,268c-.552,0-1-.895-1-2s.448-2,1-2,1,.895,1,2" transform="translate(-120 -264)"/>
+      <line id="Line_90" data-name="Line 90" class="cls-3" x2="20" transform="translate(0 6)"/>
+    </g>
+  </g>
+</svg>
