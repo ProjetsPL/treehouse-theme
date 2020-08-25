@@ -88,6 +88,23 @@ defaults:
       lang: "us"
       full-lang: 'en-US'
       categories: "us"
+  -
+    scope:
+      path: "_products/us"
+    values:
+      lang: "us"
+      full-lang: "en-US"
+  -
+    scope:
+      path: "_events/us"
+    values:
+      lang: "us"
+      full-lang: "en-US"
+  -
+    scope:
+      path: "us/reviews"
+    values:
+      type: "ranking"
   # DE
   -
     scope:
@@ -102,6 +119,23 @@ defaults:
       lang: "de"
       full-lang: 'de-DE'
       categories: "de"
+  -
+    scope:
+      path: "_products/de"
+    values:
+      lang: "de"
+      full-lang: "de-DE"
+  -
+    scope:
+      path: "_events/de"
+    values:
+      lang: "de"
+      full-lang: "de-DE"
+  -
+    scope:
+      path: "de/bewertungen"
+    values:
+      type: "ranking"
   # FR
   -
     scope:
@@ -116,6 +150,23 @@ defaults:
       lang: "fr"
       full-lang: 'fr-FR'
       categories: "fr"
+  -
+    scope:
+      path: "_products/fr"
+    values:
+      lang: "fr"
+      full-lang: "fr-FR"
+  -
+    scope:
+      path: "_events/fr"
+    values:
+      lang: "fr"
+      full-lang: "fr-FR"
+  -
+    scope:
+      path: "fr/commentaires"
+    values:
+      type: "ranking"
   # ES
   -
     scope:
@@ -130,6 +181,23 @@ defaults:
       lang: "es"
       full-lang: 'es-ES'
       categories: "es"
+  -
+    scope:
+      path: "_products/es"
+    values:
+      lang: "es"
+      full-lang: "es-ES"
+  -
+    scope:
+      path: "_events/es"
+    values:
+      lang: "es"
+      full-lang: "es-ES"
+  -
+    scope:
+      path: "es/resenas"
+    values:
+      type: "ranking"
   # IT
   -
     scope:
@@ -144,7 +212,23 @@ defaults:
       lang: "it"
       full-lang: 'it-IT'
       categories: "it"
-
+  -
+    scope:
+      path: "_products/it"
+    values:
+      lang: "it"
+      full-lang: "it-IT"
+  -
+    scope:
+      path: "_events/it"
+    values:
+      lang: "it"
+      full-lang: "it-IT"
+  -
+    scope:
+      path: "it/recensioni"
+    values:
+      type: "ranking"
   # PL
   -
     scope:
@@ -162,6 +246,12 @@ defaults:
   -
     scope:
       path: "_products/pl"
+    values:
+      lang: "pl"
+      full-lang: "pl"
+  -
+    scope:
+      path: "_events/pl"
     values:
       lang: "pl"
       full-lang: "pl"
