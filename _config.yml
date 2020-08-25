@@ -167,7 +167,7 @@ defaults:
       full-lang: "pl"
   -
     scope:
-      path: "pl/rankings"
+      path: "pl/recenzje"
     values:
       type: "ranking"
 
