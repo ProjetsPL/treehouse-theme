@@ -6,13 +6,12 @@ description: Treehouse est une plateforme où vous pouvez trouver de nombreuses 
 h1: Laissez-vous inspirer et créez la maison de vos rêves avec nous !
 recent_articles: true
 recent_rankings: false
-seo_section:
-    first:
-        title: Inspirez-vous des dernières tendances
-        content: |-
-          Faites entrer les projets les plus originaux chez vous. Laissez-vous inspirer par nos meilleures idées de décoration intérieure. Sur Treehouse, vous trouverez les projets les plus innovants. Vous êtes peut-être un traditionaliste ? Nous avons ce qu'il vous faut. Nous avons préparé quelques nouveaux modèles de formes classiques bien connues. Sur notre site web, vous trouverez les dernières tendances et les derniers styles en matière de décoration intérieure.
-    second:
-        title: Demandez à nos experts
-        content: |-
-          Vous rêvez d'une belle maison ou d'un beau jardin mais vous ne savez pas par où commencer ? Vous cherchez des conseils pour choisir un produit, faire une rénovation ou meubler votre chambre ? Vous ne savez pas quels meubles choisir ou s'ils seront adaptés à votre maison ? Ne vous inquiétez plus. Référez-vous à nos spécialistes. Nous avons préparé les meilleurs et les plus originaux conseils et astuces sur divers sujets.
+first_seo_section:
+  title: Inspirez-vous des dernières tendances
+  content: |-
+    Faites entrer les projets les plus originaux chez vous. Laissez-vous inspirer par nos meilleures idées de décoration intérieure. Sur Treehouse, vous trouverez les projets les plus innovants. Vous êtes peut-être un traditionaliste ? Nous avons ce qu'il vous faut. Nous avons préparé quelques nouveaux modèles de formes classiques bien connues. Sur notre site web, vous trouverez les dernières tendances et les derniers styles en matière de décoration intérieure.
+second_seo_section:
+  title: Demandez à nos experts
+  content: |-
+    Vous rêvez d'une belle maison ou d'un beau jardin mais vous ne savez pas par où commencer ? Vous cherchez des conseils pour choisir un produit, faire une rénovation ou meubler votre chambre ? Vous ne savez pas quels meubles choisir ou s'ils seront adaptés à votre maison ? Ne vous inquiétez plus. Référez-vous à nos spécialistes. Nous avons préparé les meilleurs et les plus originaux conseils et astuces sur divers sujets.
 ---
