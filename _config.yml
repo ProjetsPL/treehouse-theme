@@ -16,7 +16,6 @@ include:
 
 # Build settings
 markdown: kramdown
-permalink: /:categories/blog/:title:output_ext
 
 # Sass
 sass:
@@ -33,6 +32,8 @@ collections:
     output: false
   products:
     output: false
+  events:
+    output: true
 
 # Author Settings
 author:
@@ -88,6 +89,7 @@ defaults:
       lang: "us"
       full-lang: 'en-US'
       categories: "us"
+      permalink: /:categories/blog/:title:output_ext
   -
     scope:
       path: "_products/us"
@@ -100,6 +102,8 @@ defaults:
     values:
       lang: "us"
       full-lang: "en-US"
+      categories: "us"
+      permalink: /:categories/events/:title:output_ext
   -
     scope:
       path: "us/reviews"
@@ -119,6 +123,7 @@ defaults:
       lang: "de"
       full-lang: 'de-DE'
       categories: "de"
+      permalink: /:categories/blog/:title:output_ext
   -
     scope:
       path: "_products/de"
@@ -131,6 +136,8 @@ defaults:
     values:
       lang: "de"
       full-lang: "de-DE"
+      categories: "de"
+      permalink: /:categories/veranstaltungen/:title:output_ext
   -
     scope:
       path: "de/bewertungen"
@@ -150,6 +157,7 @@ defaults:
       lang: "fr"
       full-lang: 'fr-FR'
       categories: "fr"
+      permalink: /:categories/blog/:title:output_ext
   -
     scope:
       path: "_products/fr"
@@ -162,6 +170,8 @@ defaults:
     values:
       lang: "fr"
       full-lang: "fr-FR"
+      categories: "fr"
+      permalink: /:categories/evenements/:title:output_ext
   -
     scope:
       path: "fr/commentaires"
@@ -181,6 +191,7 @@ defaults:
       lang: "es"
       full-lang: 'es-ES'
       categories: "es"
+      permalink: /:categories/blog/:title:output_ext
   -
     scope:
       path: "_products/es"
@@ -193,6 +204,8 @@ defaults:
     values:
       lang: "es"
       full-lang: "es-ES"
+      categories: "es"
+      permalink: /:categories/eventos/:title:output_ext
   -
     scope:
       path: "es/resenas"
@@ -212,6 +225,7 @@ defaults:
       lang: "it"
       full-lang: 'it-IT'
       categories: "it"
+      permalink: /:categories/blog/:title:output_ext
   -
     scope:
       path: "_products/it"
@@ -224,6 +238,8 @@ defaults:
     values:
       lang: "it"
       full-lang: "it-IT"
+      categories: "it"
+      permalink: /:categories/eventi/:title:output_ext
   -
     scope:
       path: "it/recensioni"
@@ -243,6 +259,7 @@ defaults:
       lang: "pl"
       full-lang: "pl"
       categories: "pl"
+      permalink: /:categories/blog/:title:output_ext
   -
     scope:
       path: "_products/pl"
@@ -255,6 +272,8 @@ defaults:
     values:
       lang: "pl"
       full-lang: "pl"
+      categories: "pl"
+      permalink: /:categories/wydarzenia/:title:output_ext
   -
     scope:
       path: "pl/recenzje"
@@ -290,6 +309,7 @@ i18n:
     recent_rankings: "Najnowsze Recenzje"    
     featured_rankings: "Polecane Recenzje"
     featured_articles: "Polecane Artykuły"
+    featured_events: "Polecane Wydarzenia"
     boolean:
       true: Tak
       false: Nie
@@ -351,6 +371,7 @@ i18n:
     recent_rankings: "Recent Rankings"
     featured_rankings: "Featured Rankings"
     featured_articles: "Featured Articles"
+    featured_events: "Featured Events"
 
   de:
     read_more: "Lesen Sie mehr"
@@ -378,6 +399,7 @@ i18n:
     recent_rankings: "Aktuelle Rankings"
     featured_rankings: "Ausgewählte Ranglisten"
     featured_articles: "Empfohlene Artikel"
+    featured_events: "Ausgewählte Veranstaltungen"
 
 
   es:
@@ -406,6 +428,7 @@ i18n:
     recent_rankings: "Clasificaciones recientes"
     featured_rankings: "Rankings destacados"
     featured_articles: "Artículos destacados"
+    featured_events: "Eventos especiales"
 
 
   fr:
@@ -434,6 +457,7 @@ i18n:
     recent_rankings: "Classements Récents"
     featured_rankings: "Classements en vedette"
     featured_articles: "Articles de fond"
+    featured_events: "Événements en vedette"
 
 
   it:
@@ -462,6 +486,7 @@ i18n:
     recent_rankings: "Classifiche Recenti"
     featured_rankings: "Classifiche in primo piano"
     featured_articles: "Articoli in primo piano"
+    featured_events: "Eventi in primo piano"
 
 
   en:

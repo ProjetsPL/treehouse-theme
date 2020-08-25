@@ -31,7 +31,7 @@
                   </div>
               </header>
               
-              {% assign products = site.products | where: "category", page.products_category | where: page.property , page.property_value  %}
+              {% assign products = site.products | where: "category", page.products_category | where: page.property , page.property_value | where: "lang", page.lang %}
 
             {% assign main_product = products[0] %}
             <div class="beam b-size-5  review-section">

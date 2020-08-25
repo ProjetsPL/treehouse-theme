@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="{{ page.full-lang | default: site.lang | default: 'en' }}">
+
+  {% include head.html %}
+
+  <link href="{{ site.baseurl }}/assets/css/pages/events-listing.css?v=3" rel="stylesheet">
+
+  <body>
+    {% include header.html %}
+    <main class="page page-events-list">
+        {% include breadcrumbs.html %}    
+        <div class="beams-wrapper  global-beam-wrapper events-list-content ">
+            <div class="beam b-size-4">
+                <div class="beam-item b-size-3 events-list-events">
+                    <section class="beam">
+                        <div class="beam-item">
+                            <h1 class="h-section">{{page.h1}}</h1>
+                            <p>{{page.intro}}</p>
+                        </div>    
+                        {% assign events = site.events | where:"lang", page.lang  | sort:  page.event_date | reverse %}    
+                        {% assign today_date = 'now' | date: '%s' %}              
+                        {% for item in events %}                  
+                            <div class="beam-item b-size-3">          
+                              {% assign event_date = item.event_date | date: '%s' %}
+                              {% if today_date > event_date %}
+                                {% include parts/events-listing-listitem-md.html event=item status="close" %}
+                              {% else %}                              
+                                {% include parts/events-listing-listitem-md.html event=item %}
+                              {% endif%}
+                            </div>
+                        {% endfor %}                       
+                    </section>
+                </div>
+                <div class="beam-item b-size-1 events-list-sidebar">
+
+                    {% assign rankings = site.pages | where: 'lang', page.lang | where: 'layout', 'ranking' | sort: 'is_hub' | reverse  %}
+                    {% assign promoted_articles = site.posts | where:"lang", page.lang  | where:"promoted", true %}
+
+                    {% if  rankings[0] %}
+                      <section class="beam recommended-reviews">
+                          <div class="beam-item">
+                              <h2 class="h-section">{{site.i18n[page.lang].featured_rankings}}</h2>
+                          </div>
+                          {% for item in rankings limit: 4%}
+                            <div class="beam-item">
+                              {% include parts/reviews-listing-listitem-sm.html ranking=item %}
+                            </div>
+                          {% endfor %}
+                          <!-- <div class="beam-item beam-more">
+                              <a href="" class="btn btn-img-right btn-link">Zobacz więcej<img src="/assets/img/more-arrow.svg"  alt="Przeczytaj więcej"></a>
+                          </div> -->
+                      </section>
+                    {% endif %}    
+                    {% if  promoted_articles[0] %}
+                      <section class="beam recommended-articles">
+                          <div class="beam-item">
+                              <h2 class="h-section">{{site.i18n[page.lang].featured_articles}}</h2>
+                          </div>                       
+                          {% for item in promoted_articles limit: 4 %}
+                            <div class="beam-item">
+                              {% include parts/articles-listing-listitem-sm.html article=item %}
+                            </div>
+                          {% endfor %}
+                          <!-- <div class="beam-item beam-more">
+                              <a href="" class="btn btn-img-right btn-link">Zobacz więcej<img src="/assets/img/more-arrow.svg"  alt="Przeczytaj więcej"></a>
+                          </div> -->
+                      </section>
+                    {% endif %}    
+                </div>
+            </div>    
+            <div class="beam b-size-2">    
+                <section class="beam-item b-size-2">
+                    <h2 class="h-section">{{page.seo_section.title}}</h2>
+                    <p>{{page.seo_section.content}}</p>
+                </section>
+            </div>
+        </div>
+    </main>
+    {% include footer.html %}    
+    {% include all_pages_footer.html %}
+  </body>
+</html>

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="{{ page.full-lang | default: site.lang | default: 'en' }}">
+
+{% include head.html %}
+
+<link href="{{ site.baseurl }}/assets/css/pages/event.css?v=3" rel="stylesheet">
+
+<body>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+  {% if page.lang == "pl" %}
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v8.0" nonce="r5fqc9Oi"></script>
+  {% endif %}
+  {% include header.html %}
+
+  <main class="page page-article">
+
+    {% include breadcrumbs.html %}
+    <div class="beams-wrapper  global-beam-wrapper event-content">
+        <article class="beam b-size-5 event-article">
+            <div class="beam-item b-size-3 event-text">
+                    <header class="event-header">
+                        <h1>{{ page.title }}</h1>
+                        {{ page.intro }}            
+                        <figure>
+                          {% if page.image %}
+                          <img src='{{site.baseurl}}{{page.image}}' alt='{{ page.title | escape }}'></img>
+                          {% endif %}
+                        </figure>
+                      </header>
+                    {{ content }}
+                    </section>
+                    <footer class="event-footer">
+                        <div class="other-publications">
+
+
+                            {% assign events = site.events | where: "lang", page.lang  | sort:  page.event_date | reverse %}
+
+                            {% for i in (0..events.size) %}
+                              {% if events[i] != page %}
+                               {% continue %}
+                              {% endif %}
+                
+                              {% assign prev_index = i | minus: 1 %}
+                              {% assign prev_event = events[prev_index] %}
+                
+                              {% assign last_index = events.size | minus: 1 %}
+                
+                              {% if i == last_index %}
+                                {% assign next_index = 0 %}
+                              {% else %}
+                                {% assign next_index = i | plus: 1 %}
+                              {% endif %}
+                
+                              {% assign next_event = events[next_index] %}
+                
+                              {% break %}
+                            {% endfor %}
+
+                            {% if prev_event.url and prev_event.lang == page.lang %}
+                            <a href="{{ prev_event.url | prepend: site.baseurl }}" class="previous">
+                              <span class="label">{{prev_event.event_date}}</span>
+                              <span class="title">{{prev_event.title}}</span>
+                              <img class="arrow" src="/assets/img/more-arrow-md.svg" alt="Przeczytaj więcej">
+                            </a>
+                          {% endif %}
+            
+                          {% if next_event.url and next_event.lang == page.lang %}
+                            <a href="{{ next_event.url | prepend: site.baseurl }}" class="next">
+                              <span class="label">{{next_event.event_date}}</span>
+                              <span class="title">{{next_event.title}}</span>
+                              <img class="arrow" src="/assets/img/more-arrow-md.svg" alt="Przeczytaj więcej">
+                            </a>
+                          {% endif %}
+
+                        </div>
+                    </footer>
+            </div>
+            <div class="beam-item b-size-2 event-sidebar">
+                <section class="sticky-element details">                        
+                    <div class="img-box">
+                        <img class="img" src="{{page.organizer.logo}}" alt="{{page.organizer.name}}">
+                    </div>
+                    <ul class="details-list">
+                        {% for item in page.details.desc %}
+                            {%if item.link %}
+                            <li>{{item.label}}: <span><a href="{{item.link}}" rel="nofollow noopener" target="_blank">{{item.value}}</a></span></li>
+                            {% else %}
+                            <li>{{item.label}}: <span>{{item.value}}</span></li>
+                            {%endif%}
+                        {% endfor %}
+                    </ul>
+                </section>
+            </div>
+        </article>
+        
+        
+        <section class="beam  b-size-4 featured-articles">
+            <div class="beam-item b-size-4">
+                <h2 class="h-section">{{site.i18n[page.lang].promoted_articles}}</h2>
+            </div>
+
+            {% assign promoted_articles = site.posts | where:"lang", page.lang | where:"promoted", true %}
+
+            {% for article in promoted_articles limit: 4 %}
+            <div class="beam-item b-size-1">
+                {% include parts/articles-listing-boxitem-sm.html article=article %}
+            </div>
+            {% endfor %}
+        </section>
+    </div>
+</main>
+
+{% include footer.html %}
+
+<script type="text/javascript" src="/assets/js/stickybits.js"></script>
+<script type="text/javascript">
+    stickybits('.sticky-element', { stickyBitStickyOffset: 110 });
+</script>
+
+{% include all_pages_footer.html %}
+</body>
+</html>

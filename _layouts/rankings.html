@@ -14,7 +14,7 @@
   
       <div class="beams-wrapper  global-beam-wrapper reviews-list-content ">
           <div class="beam b-size-4">
-              <div class="beam-item b-size-3 reviews-list-articles">
+              <div class="beam-item b-size-3 reviews-list-reviews">
                    <section class="beam b-size-6">
                       <div class="beam-item b-size-6">
                           <h1 class="h-section">{{page.h1}}</h1>
@@ -40,17 +40,42 @@
                   </section>
               </div>
               <div class="beam-item b-size-1 reviews-list-sidebar">
+                    
+                  {% assign promoted_articles = site.posts | where:"lang", page.lang  | where:"promoted", true %}  
+                  {% assign promoted_events = site.events | where:"lang", page.lang  | where:"promoted", true | sort:  page.event_date | reverse %}   
+
+                    {% if  promoted_events[0] %}
+                    <section class="beam recommended-events">
+                        <div class="beam-item">
+                            <h2 class="h-section">{{site.i18n[page.lang].featured_events}}</h2>
+                        </div>                       
+                        {% for item in promoted_events limit: 4 %}
+                          <div class="beam-item">
+                            {% include parts/events-listing-listitem-sm.html event=item %}
+                          </div>
+                        {% endfor %}
+                          <!-- <div class="beam-item beam-more">
+                              <a href="" class="btn btn-img-right btn-link">Zobacz więcej<img src="/assets/img/more-arrow.svg"  alt="Przeczytaj więcej"></a>
+                          </div> -->
+                    </section>
+                  {% endif %}     
+
+                  {% if  promoted_articles[0] %}
                    <section class="beam recommended-articles">
                       <div class="beam-item">
                           <h2 class="h-section">{{site.i18n[page.lang].featured_articles}}</h2>
                       </div>
-                      {% assign promoted_articles = site.posts | where:"lang", page.lang  | where:"promoted", true %}  
-                      {% for article in promoted_articles limit: 10 %}
+                      {% for article in promoted_articles limit: 4 %}
                         <div class="beam-item">
                           {% include parts/articles-listing-listitem-sm.html article=article %}
                         </div>
-                      {% endfor %}
-                  </section>
+                      {% endfor %}               
+                          <!-- <div class="beam-item beam-more">
+                              <a href="" class="btn btn-img-right btn-link">Zobacz więcej<img src="/assets/img/more-arrow.svg"  alt="Przeczytaj więcej"></a>
+                          </div> -->
+                    </section>
+                    {% endif %}
+
   
               </div>
           </div>

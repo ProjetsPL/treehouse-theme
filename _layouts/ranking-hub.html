@@ -30,7 +30,7 @@
                 </div>
             </header>
 
-            {% assign products = site.products | where: "category", page.products_category | where: 'distinction', 'our_choice' %}
+            {% assign products = site.products | where: "category", page.products_category | where: 'distinction', 'our_choice'  | where: "lang", page.lang %}
 
             {% assign main_product = products[0] %}
             <!-- {% assign second_product = products[-1] %} -->
