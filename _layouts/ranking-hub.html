@@ -145,8 +145,7 @@
               <div class="beam-item b-size-4">
                   <h2 class="h-section">Polecane rankingi</h2>
               </div>
-              {% assign related_rankings = site.pages | where: 'is_hub', false | where: 'hub_name', page.hub_name %}
-
+              {% assign related_rankings = site.pages | where: 'is_hub', false | where: 'hub_name', page.hub_name %}             
               {% for related_ranking in related_rankings limit: 4 %}
                 <div class="beam-item b-size-1">
                     {% include parts/reviews-listing-boxitem-sm.html ranking=related_ranking %}
