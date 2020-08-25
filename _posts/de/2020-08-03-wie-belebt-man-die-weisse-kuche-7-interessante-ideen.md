@@ -3,7 +3,7 @@ layout: post
 date: 2020-08-03
 main_keywords: []
 toc: true
-promoted: false
+promoted: true
 update_date: 2020-08-14
 title: Wie belebt man die weiße Küche? 7 Interessante Ideen
 description: Eine weiße Küche ist Ihr Traum, aber Sie möchten ihr eine Farbe geben?

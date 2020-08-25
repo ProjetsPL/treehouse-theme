@@ -4,7 +4,7 @@ date: 2020-08-07
 main_keywords:
 - corridoio moderno
 toc: true
-promoted: false
+promoted: true
 update_date: 2020-08-07
 title: Corridoio Moderno - 4 Idee Interessanti per un Corridoio
 description: "Come decorare facilmente un corridoio moderno? \U0001F3E0 Non deve essere

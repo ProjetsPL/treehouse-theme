@@ -3,7 +3,7 @@ layout: post
 date: 2020-08-03
 main_keywords: []
 toc: true
-promoted: false
+promoted: true
 update_date: 2020-08-14
 title: Come Animare la Cucina Bianca? 7 Idee Interessanti
 description: Una cucina bianca è il tuo sogno ma vuoi aggiungere un colore? ➡️ Imparate

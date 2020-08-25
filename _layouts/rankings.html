@@ -8,8 +8,63 @@
   <body>
     {% include header.html %}
 
-    {{ content }}
+    <main class=" page page-reviews-list">
 
+      {% include breadcrumbs.html %}
+  
+      <div class="beams-wrapper  global-beam-wrapper reviews-list-content ">
+          <div class="beam b-size-4">
+              <div class="beam-item b-size-3 reviews-list-articles">
+                   <section class="beam b-size-6">
+                      <div class="beam-item b-size-6">
+                          <h1 class="h-section">{{page.h1}}</h1>
+                          <p>{{page.intro}}</p>
+                      </div>
+  
+                      {% assign rankings = site.pages | where: 'type', 'ranking' | where: 'is_hub', true  | where:"lang", page.lang %}
+                      {% assign i = 0 %}  
+                      {% for ranking in rankings %}
+                        {% if i == 0 or i == 1 %}
+                          <div class="beam-item b-size-3">
+                            {% include parts/reviews-listing-boxitem-md.html ranking=ranking %}
+                          </div>
+                        {% else %}
+                        <div class="beam-item b-size-2">
+                          {% include parts/reviews-listing-boxitem-sm.html ranking=ranking %}
+                        </div>
+                        {% endif %}
+  
+                        {% assign i = i | plus: 1 %}
+                      {% endfor %}
+  
+                  </section>
+              </div>
+              <div class="beam-item b-size-1 reviews-list-sidebar">
+                   <section class="beam recommended-articles">
+                      <div class="beam-item">
+                          <h2 class="h-section">{{site.i18n[page.lang].featured_articles}}</h2>
+                      </div>
+                      {% assign promoted_articles = site.posts | where:"lang", page.lang  | where:"promoted", true %}  
+                      {% for article in promoted_articles limit: 10 %}
+                        <div class="beam-item">
+                          {% include parts/articles-listing-listitem-sm.html article=article %}
+                        </div>
+                      {% endfor %}
+                  </section>
+  
+              </div>
+          </div>
+  
+          <div class="beam b-size-2">
+  
+              <section class="beam-item b-size-2">
+                  <h2 class="h-section">{{page.seo_section.title}}</h2>
+                  <p>{{page.seo_section.content}}</p>
+              </section>
+          </div>
+      </div>
+  </main>
+  
     {% include footer.html %}
     <!-- <script type="text/javascript">
     WebFontConfig = {

@@ -3,7 +3,7 @@ layout: post
 date: 2020-08-03
 main_keywords: []
 toc: true
-promoted: false
+promoted: true
 update_date: 2020-08-03
 title: Muro di mattoni - 14 Fantastici Disegni che vi Delizieranno
 description: "Cercate idee per l'interior design? ➡️ Controlla le soluzioni migliori.

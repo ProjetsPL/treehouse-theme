@@ -4,7 +4,7 @@ date: 2020-08-08
 main_keywords:
 - 'Wohnzimmerbeleuchtung '
 toc: true
-promoted: false
+promoted: true
 update_date: 2020-08-08
 title: Beleuchtung im Wohnzimmer. 9 Ideen für Wohnzimmerlampen
 description: "Suchen Sie nach einer Lampe für Wohnzimmer? \U0001F4A1 Sehen Sie sich

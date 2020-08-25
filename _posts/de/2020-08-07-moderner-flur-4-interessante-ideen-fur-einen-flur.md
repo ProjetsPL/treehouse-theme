@@ -4,7 +4,7 @@ date: 2020-08-07
 main_keywords:
 - moderner flur
 toc: true
-promoted: false
+promoted: true
 update_date: 2020-08-07
 title: Moderner Flur - 4 interessante Ideen für einen Flur
 description: "Wie sich ein moderner Flur dekorieren? \U0001F3E0 Es muss keine Herausforderung

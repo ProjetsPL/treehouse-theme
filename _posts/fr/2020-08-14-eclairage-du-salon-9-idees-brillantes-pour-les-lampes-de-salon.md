@@ -4,7 +4,7 @@ date: 2020-08-14
 main_keywords:
 - lampes de salon
 toc: true
-promoted: false
+promoted: true
 update_date: 2020-08-14
 title: Éclairage du salon. 9 idées brillantes pour les lampes de salon
 description: "Vous cherchez une lampe originale pour votre salon ? \U0001F4A1 Consultez

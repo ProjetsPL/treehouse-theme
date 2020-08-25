@@ -3,7 +3,7 @@ layout: post
 date: 2020-08-08
 main_keywords: []
 toc: true
-promoted: false
+promoted: true
 update_date: 2020-08-08
 title: Sala de Estar Iluminación. 9 Ideas Para Sala de Estar Lámparas
 description: "¿Busca una lámpara para su sala de estar? \U0001F4A1 Revisa los mejores

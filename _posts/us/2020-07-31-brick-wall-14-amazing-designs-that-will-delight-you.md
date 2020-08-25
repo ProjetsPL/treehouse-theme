@@ -18,7 +18,7 @@ main_keywords:
 - brick wall ideas
 - how to make brick design on wall
 toc: true
-promoted: false
+promoted: true
 update_date: 2020-07-31
 title: Brick Wall – 14 Amazing Designs That Will Delight You
 description: "Looking for interior design ideas? ➡️ Unusual solutions are the most

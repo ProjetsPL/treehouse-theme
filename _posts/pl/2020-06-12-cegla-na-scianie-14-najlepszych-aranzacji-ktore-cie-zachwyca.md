@@ -7,7 +7,7 @@ main_keywords:
 - 'ściana z cegły '
 - 'cegła na ścianie '
 toc: true
-promoted: false
+promoted: true
 update_date: 2020-06-12
 title: Cegła na Ścianie - 14 Najlepszych Aranżacji, Które Cię Zachwycą
 description: "Szukasz pomysłu na aranżację domu? ➡️ Postaw na nietypowe rozwiązania.

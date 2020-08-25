@@ -12,7 +12,7 @@ main_keywords:
 - praktyczne ściany w przedpokoju
 - jak urządzić przedpokój
 toc: true
-promoted: false
+promoted: true
 update_date: 2020-06-26
 title: Nowoczesny Przedpokój - 4 Ciekawe Aranżacje Ściany w Przedpokoju
 description: "Zastanawiasz się jak urządzić nowoczesny przedpokój w domu? \U0001F3E0

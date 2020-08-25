@@ -3,7 +3,7 @@ layout: post
 date: 2020-08-03
 main_keywords: []
 toc: true
-promoted: false
+promoted: true
 update_date: 2020-08-03
 title: Backsteinmauer - 14 erstaunliche Entwürfe, die Sie begeistern
 description: "Suchen Sie Ideen für die Innenausstattung? ➡️ Wählen Sie einzigartige

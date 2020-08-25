@@ -3,7 +3,7 @@ layout: post
 date: 2020-08-03
 main_keywords: []
 toc: true
-promoted: false
+promoted: true
 update_date: 2020-08-03
 title: Muro de Ladrillo - 14 Increíbles Diseños que te Encantarán
 description: "¿Buscando ideas de diseño interior? ➡️ Conozca las mejores soluciones.

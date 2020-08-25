@@ -4,7 +4,7 @@ date: 2020-08-07
 main_keywords:
 - couloir moderne
 toc: true
-promoted: false
+promoted: true
 update_date: 2020-08-07
 title: Un Couloir Moderne - 4 Idées Intéressantes Pour un Couloir
 description: "Comment décorer facilement un couloir moderne ? \U0001F3E0 Ce n'est

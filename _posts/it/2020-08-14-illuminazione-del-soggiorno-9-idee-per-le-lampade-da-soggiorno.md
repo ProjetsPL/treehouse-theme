@@ -4,7 +4,7 @@ date: 2020-08-14
 main_keywords:
 - " lampade da soggiorno"
 toc: true
-promoted: false
+promoted: true
 update_date: 2020-08-14
 title: Illuminazione del soggiorno. 9 Idee per le lampade da soggiorno
 description: "Cercate una lampada originale per il vostro salotto? \U0001F4A1 Controlla

@@ -13,7 +13,7 @@ main_keywords:
 - living room lamp ideas
 - small living room lighting ideas
 toc: true
-promoted: false
+promoted: true
 update_date: 2020-08-08
 title: Living Room Lighting. 9 Brilliant Ideas for Living Room Lamps
 description: "Are you looking for an original lamp for your living room? \U0001F4A1

@@ -12,7 +12,7 @@ main_keywords:
 - hall decorations
 - which modern lights look good in small hallway
 toc: true
-promoted: false
+promoted: true
 update_date: 2020-08-07
 title: Modern Hallway - 4 Interesting Ideas for a Hallway
 description: "How to easily decorate a modern hallway? \U0001F3E0 It doesn't have

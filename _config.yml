@@ -196,6 +196,10 @@ i18n:
     ranking: "Ranking"
     ranking_page_slug: "recenzje"
     ranking_page: "Recenzje"
+    recent_articles: "Najnowsze Artykuły"
+    recent_rankings: "Najnowsze Recenzje"    
+    featured_rankings: "Polecane Recenzje"
+    featured_articles: "Polecane Artykuły"
     boolean:
       true: Tak
       false: Nie
@@ -253,6 +257,10 @@ i18n:
     ranking: "Ranking"
     ranking_page_slug: "reviews"
     ranking_page: "Reviews"
+    recent_articles: "Recent Articles"
+    recent_rankings: "Recent Rankings"
+    featured_rankings: "Featured Rankings"
+    featured_articles: "Featured Articles"
 
   de:
     read_more: "Lesen Sie mehr"
@@ -276,6 +284,11 @@ i18n:
     ranking: "Rangliste"
     ranking_page_slug: "rezensionen"
     ranking_page: "Rezensionen"
+    recent_articles: "Aktuelle Posts"
+    recent_rankings: "Aktuelle Rankings"
+    featured_rankings: "Ausgewählte Ranglisten"
+    featured_articles: "Empfohlene Artikel"
+
 
   es:
     read_more: "Leer más..."
@@ -299,6 +312,11 @@ i18n:
     ranking: "Clasificación"
     ranking_page_slug: "resenas"
     ranking_page: "Reseñas"
+    recent_articles: "Mensajes recientes"
+    recent_rankings: "Clasificaciones recientes"
+    featured_rankings: "Rankings destacados"
+    featured_articles: "Artículos destacados"
+
 
   fr:
     read_more: "En savoir plus"
@@ -322,6 +340,11 @@ i18n:
     ranking: "Classement"
     ranking_page_slug: "commentaires"
     ranking_page: "Commentaires"
+    recent_articles: "Messages récents"
+    recent_rankings: "Classements Récents"
+    featured_rankings: "Classements en vedette"
+    featured_articles: "Articles de fond"
+
 
   it:
     read_more: "Per saperne di più"
@@ -345,6 +368,11 @@ i18n:
     ranking: "Classifica"
     ranking_page_slug: "recensioni"
     ranking_page: "Reviews"
+    recent_articles: "Messaggi Recenti"
+    recent_rankings: "Classifiche Recenti"
+    featured_rankings: "Classifiche in primo piano"
+    featured_articles: "Articoli in primo piano"
+
 
   en:
     read_more: "Read more"

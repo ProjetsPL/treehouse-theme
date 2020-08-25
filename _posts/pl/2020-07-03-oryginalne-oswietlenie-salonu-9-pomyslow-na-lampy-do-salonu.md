@@ -13,7 +13,7 @@ main_keywords:
 - salon oświetlenie
 - zyrandole do salonu
 toc: true
-promoted: false
+promoted: true
 update_date: 2020-07-03
 title: Oryginalne Oświetlenie Salonu. 9 Pomysłów na Lampy do Salonu
 description: "Poszukujesz oryginalnej lampy do salonu? \U0001F4A1 Sprawdź modele,

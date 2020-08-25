@@ -11,7 +11,7 @@ main_keywords:
 - modern white kitchen
 - white design
 toc: true
-promoted: false
+promoted: true
 update_date: 2020-08-14
 title: How to Enliven White Kitchen? 7 Interesting Ideas
 description: A white kitchen is your dream but you want to add a color to it? ➡️ Learn

@@ -15,7 +15,7 @@ main_keywords:
 - biała kuchnia nowoczesna
 - biała kuchnia aranżacje
 toc: true
-promoted: false
+promoted: true
 update_date: 2020-08-14
 title: Biała Kuchnia - 7 Ciekawych Propozycji Jak Ją Ożywić
 description: Podoba Ci się biała kuchnia, ale chcesz wprowadzić do niej akcent kolorystyczny?

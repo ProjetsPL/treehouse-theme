@@ -3,7 +3,7 @@ layout: post
 date: 2020-08-03
 main_keywords: []
 toc: true
-promoted: false
+promoted: true
 update_date: 2020-08-14
 title: "¿Cómo animar la cocina blanca? 7 ideas interesantes"
 description: Una cocina blanca es tu sueño, ¿pero quieres añadirle un color? ➡️ Aprende

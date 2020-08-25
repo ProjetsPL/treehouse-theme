@@ -9,23 +9,9 @@
   {% include header.html %}
 
   <main class="page page-review">
-      <div class="beams-wrapper global-beam-wrapper breadcrumbs">
-          <div class="beam b-size-4">
-              <div class="beam-item b-size-4 breadcrumbs-content">
-                  <svg id="Signature_-_gray" data-name="Signature - gray" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
-                      <g id="Group_42" data-name="Group 42" transform="translate(-172.5 -172.5)" opacity="0.19">
-                          <path id="Path_129" data-name="Path 129" d="M214.082,188.5v8.909a1.018,1.018,0,0,1-1.018,1.018H209.5v-8.176Z" transform="translate(-27.582 -11.927)" fill="#233030"/>
-                          <path id="Path_130" data-name="Path 130" d="M177.845,178.1v1.782l2.291-.876V186.5h-6.618a1.018,1.018,0,0,1-1.018-1.018V173.518a1.018,1.018,0,0,1,1.018-1.018h11.964a1.018,1.018,0,0,1,1.018,1.018v1.273Z" fill="#233030"/>
-                      </g>
-                  </svg>
-                  <ul>
-                      <li><a href="/{{page.lang}}/">{{site.i18n[page.lang].home_page}}</a></li>
-                      <li><a href="/pl/{{site.i18n[page.lang].ranking_page_slug}}.html">{{site.i18n[page.lang].ranking_page}}</a></li>
-                      <li><a href="">{{ page.h1 }}</a></li>
-                  </ul>
-              </div>
-          </div>
-      </div>
+      
+    {% include breadcrumbs.html %}
+
       <div class="beams-wrapper  global-beam-wrapper review-content">
           <article class="beam b-size-5">
             <header class="beam-item b-size-5 review-header">
