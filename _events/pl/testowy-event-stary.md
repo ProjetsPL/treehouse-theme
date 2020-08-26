@@ -4,6 +4,7 @@ event_date: 2020-06-12
 localization: Bochnia
 toc: true
 title: 3 Tytuł eventu który już miał miejsce
+h1: SEO title trzeci
 description: "META Szukasz pomysłu na aranżację domu? ➡️ Postaw na nietypowe rozwiązania.
   \U0001F9F1 Odkryj możliwości, jakie daje cegła na ścianę."
 intro: Intro eventu Czeka Cię wykończenie domu? Szukasz niebanalnych pomysłów na aranżację wnętrza?

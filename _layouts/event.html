@@ -21,7 +21,7 @@
         <article class="beam b-size-5 event-article">
             <div class="beam-item b-size-3 event-text">
                     <header class="event-header">
-                        <h1>{{ page.title }}</h1>
+                        <h1>{{ page.h1 }}</h1>
                         {{ page.intro }}            
                         <figure>
                           {% if page.image %}
@@ -61,7 +61,7 @@
                             {% if prev_event.url and prev_event.lang == page.lang %}
                             <a href="{{ prev_event.url | prepend: site.baseurl }}" class="previous">
                               <span class="label">{{prev_event.event_date}}</span>
-                              <span class="title">{{prev_event.title}}</span>
+                              <span class="title">{{prev_event.h1}}</span>
                               <img class="arrow" src="/assets/img/more-arrow-md.svg" alt="Przeczytaj więcej">
                             </a>
                           {% endif %}
@@ -69,7 +69,7 @@
                           {% if next_event.url and next_event.lang == page.lang %}
                             <a href="{{ next_event.url | prepend: site.baseurl }}" class="next">
                               <span class="label">{{next_event.event_date}}</span>
-                              <span class="title">{{next_event.title}}</span>
+                              <span class="title">{{next_event.h1}}</span>
                               <img class="arrow" src="/assets/img/more-arrow-md.svg" alt="Przeczytaj więcej">
                             </a>
                           {% endif %}

@@ -4,6 +4,7 @@ event_date: 2020-10-12
 localization: Bochnia
 toc: true
 title: 1Tytuł eventu spotkanie z naturą
+h1: SEO title pierwszy
 description: "META Szukasz pomysłu na aranżację domu? ➡️ Postaw na nietypowe rozwiązania.
   \U0001F9F1 Odkryj możliwości, jakie daje cegła na ścianę."
 intro: Intro eventu Czeka Cię wykończenie domu? Szukasz niebanalnych pomysłów na aranżację wnętrza?
