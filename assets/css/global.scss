@@ -381,7 +381,7 @@ body {
             margin-left: 0;
             margin-right: 0;
             .flex-item {
-                margin: 0 $beam-gutter-size/4;
+                margin: 0 $beam-gutter-size/4 $beam-gutter-size/4 ;
                 &:first-child {
                     margin-left: 0;
                 }

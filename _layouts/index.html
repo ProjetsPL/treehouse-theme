@@ -34,7 +34,7 @@
                       {% assign i = 0 %}
   
                       {% for article in articles limit: 7 %}
-                        {% if i == 2 or i == 9 %}
+                        {% if i == 0 or i == 9 %}
                           <div class="beam-item b-size-2">
                             {% include parts/articles-listing-boxitem-lg.html article=article %}
                           </div>
@@ -48,37 +48,53 @@
                       {% endfor %}
   
                   </section>
-              </div>
-          </div>
-          {% if page.recent_rankings %}
-          <div class="beam b-size-4">
-              <div class="beam-item b-size-4 index-articles">
-                  <section class="beam b-size-4">
-                      <div class="beam-item b-size-4">
-                          <h2 class="h-section">{{site.i18n[page.lang].recent_rankings}}</h2>
+                    {% assign random_products = site.products | sample: 8 | where: "lang", page.lang%}
+                    {% if random_products[3]%}
+                    <section class="beam">                      
+                      <div class="beam-item b-size-4">                        
+                        <h2 class="h-section">{{site.i18n[page.lang].featured_products}}</h2>
                       </div>
-  
-                      {% assign rankings = site.pages | where:"lang",  page.lang  | where:"layout","ranking" | sort: 'is_hub' | reverse %}
-                      {% assign i = 0 %}
-  
-                      {% for ranking in rankings limit:7%}
-                        {% if i == 0 or i == 9 %}
-                          <div class="beam-item b-size-2">
-                            {% include parts/reviews-listing-boxitem-lg.html ranking=ranking %}
+                      <div class="beam-item index-products">
+                        <div class="flex-wrapper  nowrap">
+                          <div class="flex-container">
+                            {% for item in random_products %}
+                                <div class="flex-item" >
+                                {% include parts/product-listing-boxitem-md.html product=item %}
+                                </div>
+                            {% endfor %}
                           </div>
-                        {% else %}
-                        <div class="beam-item b-size-1">
-                          {% include parts/reviews-listing-boxitem-sm.html ranking=ranking %}
                         </div>
-                        {% endif %}
-  
-                        {% assign i = i | plus: 1 %}
-                      {% endfor %}
-  
-                  </section>
+                      </div>
+                    </section>
+                    {%endif%}
+                    {% if page.recent_rankings %}
+                    <section class="beam b-size-4">
+                        <div class="beam-item b-size-4">
+                            <h2 class="h-section">{{site.i18n[page.lang].recent_rankings}}</h2>
+                        </div>
+    
+                        {% assign rankings = site.pages | where:"lang",  page.lang  | where:"layout","ranking" | sort: 'is_hub' | reverse %}
+                        {% assign i = 0 %}
+    
+                        {% for ranking in rankings limit:7%}
+                          {% if i == 2 or i == 9 %}
+                            <div class="beam-item b-size-2">
+                              {% include parts/reviews-listing-boxitem-lg.html ranking=ranking %}
+                            </div>
+                          {% else %}
+                          <div class="beam-item b-size-1">
+                            {% include parts/reviews-listing-boxitem-sm.html ranking=ranking %}
+                          </div>
+                          {% endif %}
+    
+                          {% assign i = i | plus: 1 %}
+                        {% endfor %}
+    
+                    </section>
+                    {%endif%}       
               </div>
-          </div>
-          {%endif%}
+          </div>       
+
           <div class="beam  b-size-4">
               <section class="beam-item b-size-2">
                   <h2 class="h-section">{{page.first_seo_section.title}}</h2>
