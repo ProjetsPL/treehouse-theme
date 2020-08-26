@@ -1,14 +1,3 @@
-{% assign related_products_1 = site.products | where: "path", page.related_products[0] %}
-{% assign related_products_2 = site.products | where: "path", page.related_products[1]  %}
-{% assign related_products_3 = site.products | where: "path", page.related_products[2]  %}
-{% assign related_products_4 = site.products | where: "path", page.related_products[3]  %}
-{% assign related_products_5 = site.products | where: "path", page.related_products[4]  %}
-{% assign related_products_6 = site.products | where: "path", page.related_products[5]  %}
-{% assign related_products_7 = site.products | where: "path", page.related_products[6]  %}
-{% assign related_products_8 = site.products | where: "path", page.related_products[7]  %}
-{% assign related_products_9 = site.products | where: "path", page.related_products[8]  %}
-{% assign related_products_10 = site.products | where: "path", page.related_products[9]  %}
-
 <!DOCTYPE html>
 <html lang="{{ page.full-lang | default: site.lang | default: 'en' }}">
 
@@ -60,56 +49,19 @@
 
           <div class="flex-wrapper  nowrap">
               <div class="flex-container">
-                {% for product in related_products_1 %}
-                  <div class="flex-item" >
-                    {% include parts/product-listing-boxitem-md.html product=product %}
-                  </div>
-                {% endfor %}
-                {% for product in related_products_2 %}
-                  <div class="flex-item" >
-                    {% include parts/product-listing-boxitem-md.html product=product %}
-                  </div>
-                {% endfor %}
-                {% for product in related_products_3 %}
-                  <div class="flex-item" >
-                    {% include parts/product-listing-boxitem-md.html product=product %}
-                  </div>
-                {% endfor %}
-                {% for product in related_products_4 %}
-                  <div class="flex-item" >
-                    {% include parts/product-listing-boxitem-md.html product=product %}
-                  </div>
-                {% endfor %}
-                {% for product in related_products_5 %}
-                  <div class="flex-item" >
-                    {% include parts/product-listing-boxitem-md.html product=product %}
-                  </div>
-                {% endfor %}
-                {% for product in related_products_6 %}
-                  <div class="flex-item" >
-                    {% include parts/product-listing-boxitem-md.html product=product %}
-                  </div>
-                {% endfor %}
-                {% for product in related_products_7 %}
-                  <div class="flex-item" >
-                    {% include parts/product-listing-boxitem-md.html product=product %}
-                  </div>
-                {% endfor %}
-                {% for product in related_products_8 %}
-                  <div class="flex-item" >
-                    {% include parts/product-listing-boxitem-md.html product=product %}
-                  </div>
-                {% endfor %}
-                {% for product in related_products_9 %}
-                  <div class="flex-item" >
-                    {% include parts/product-listing-boxitem-md.html product=product %}
-                  </div>
-                {% endfor %}
-                {% for product in related_products_10 %}
-                  <div class="flex-item" >
-                    {% include parts/product-listing-boxitem-md.html product=product %}
-                  </div>
-                {% endfor %}
+
+                {% assign i = 0 %}
+                {% assign related_products = page.related_products%}
+               {% for item in  related_products %}
+                 {% assign products = site.products | where: "path", page.related_products[i]  %}
+                 {% for item in  products %}
+                 <div class="flex-item" >
+                  {% include parts/product-listing-boxitem-md.html product=item %}
+                </div>
+                 {% endfor %}
+                 {% assign i = i | plus: 1 %}
+               {% endfor %}
+             
               </div>
           </div>
 
@@ -197,77 +149,31 @@
                   {% endif %}
                 </div>
             </div>
-
-            {% for product in related_products_1 %}
-              <div class="beam-rail-item  r-height-auto">
-                <div class="sticky-element">
-                  {% include parts/product-listing-boxitem-md.html product=product %}
+           {% assign i = 0 %}
+           {% assign related_products = page.related_products%}
+           
+          {% if related_products.size > 0 %}
+            {% for item in  related_products %}
+              {% assign products = site.products | where: "path", page.related_products[i]  %}
+              {% for item in  products %}
+                <div class="beam-rail-item  r-height-auto">
+                  <div class="sticky-element">
+                    {% include parts/product-listing-boxitem-md.html product=item %}
+                  </div>
                 </div>
+              {% endfor %}
+              {% assign i = i | plus: 1 %}
+            {% endfor %}
+          {%else%}
+          {% assign products = site.products | where: "lang", page.lang |  sample: 10  %}
+          {% for item in  products %}
+            <div class="beam-rail-item  r-height-auto">
+              <div class="sticky-element">
+                {% include parts/product-listing-boxitem-md.html product=item %}
               </div>
-            {% endfor%}
-            {% for product in related_products_2 %}
-              <div class="beam-rail-item r-height-auto">
-                <div class="sticky-element">
-                  {% include parts/product-listing-boxitem-md.html product=product %}
-                </div>
-              </div>
-            {% endfor%}
-            {% for product in related_products_3 %}
-              <div class="beam-rail-item r-height-auto">
-                <div class="sticky-element">
-                  {% include parts/product-listing-boxitem-md.html product=product %}
-                </div>
-              </div>
-            {% endfor%}
-            {% for product in related_products_4 %}
-              <div class="beam-rail-item r-height-auto">
-                <div class="sticky-element">
-                  {% include parts/product-listing-boxitem-md.html product=product %}
-                </div>
-              </div>
-            {% endfor%}
-            {% for product in related_products_5 %}
-              <div class="beam-rail-item r-height-auto">
-                <div class="sticky-element">
-                  {% include parts/product-listing-boxitem-md.html product=product %}
-                </div>
-              </div>
-            {% endfor%}
-            {% for product in related_products_6 %}
-              <div class="beam-rail-item r-height-auto">
-                <div class="sticky-element">
-                  {% include parts/product-listing-boxitem-md.html product=product %}
-                </div>
-              </div>
-            {% endfor%}
-            {% for product in related_products_7 %}
-              <div class="beam-rail-item r-height-auto">
-                <div class="sticky-element">
-                  {% include parts/product-listing-boxitem-md.html product=product %}
-                </div>
-              </div>
-            {% endfor%}
-            {% for product in related_products_8 %}
-              <div class="beam-rail-item r-height-auto">
-                <div class="sticky-element">
-                  {% include parts/product-listing-boxitem-md.html product=product %}
-                </div>
-              </div>
-            {% endfor%}
-            {% for product in related_products_9 %}
-              <div class="beam-rail-item r-height-auto">
-                <div class="sticky-element">
-                  {% include parts/product-listing-boxitem-md.html product=product %}
-                </div>
-              </div>
-            {% endfor%}
-            {% for product in related_products_10 %}
-              <div class="beam-rail-item r-height-auto">
-                <div class="sticky-element">
-                  {% include parts/product-listing-boxitem-md.html product=product %}
-                </div>
-              </div>
-            {% endfor%}
+            </div>
+          {% endfor %}
+          {%endif%}
         </div>
       </article>
 
