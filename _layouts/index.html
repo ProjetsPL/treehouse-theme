@@ -48,25 +48,7 @@
                       {% endfor %}
   
                   </section>
-                    {% assign random_products = site.products | sample: 8 | where: "lang", page.lang%}
-                    {% if random_products[3]%}
-                    <section class="beam">                      
-                      <div class="beam-item b-size-4">                        
-                        <h2 class="h-section">{{site.i18n[page.lang].featured_products}}</h2>
-                      </div>
-                      <div class="beam-item index-products">
-                        <div class="flex-wrapper  nowrap">
-                          <div class="flex-container">
-                            {% for item in random_products %}
-                                <div class="flex-item" >
-                                {% include parts/product-listing-boxitem-md.html product=item %}
-                                </div>
-                            {% endfor %}
-                          </div>
-                        </div>
-                      </div>
-                    </section>
-                    {%endif%}
+
                     {% if page.recent_rankings %}
                     <section class="beam b-size-4">
                         <div class="beam-item b-size-4">
@@ -90,6 +72,25 @@
                           {% assign i = i | plus: 1 %}
                         {% endfor %}
     
+                    </section>
+                    {%endif%}
+                    {% assign random_products = site.products | sample: 8 | where: "lang", page.lang%}
+                    {% if random_products[3]%}
+                    <section class="beam">                      
+                      <div class="beam-item b-size-4">                        
+                        <h2 class="h-section">{{site.i18n[page.lang].featured_products}}</h2>
+                      </div>
+                      <div class="beam-item index-products">
+                        <div class="flex-wrapper  nowrap">
+                          <div class="flex-container">
+                            {% for item in random_products %}
+                                <div class="flex-item" >
+                                {% include parts/product-listing-boxitem-md.html product=item %}
+                                </div>
+                            {% endfor %}
+                          </div>
+                        </div>
+                      </div>
                     </section>
                     {%endif%}       
               </div>
