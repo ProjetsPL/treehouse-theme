@@ -31,41 +31,45 @@
                         {% endfor %}                       
                     </section>
                 </div>
-                <div class="beam-item b-size-1 events-list-sidebar">
+                <div class="beam-item beam-rail b-size-1 events-list-sidebar">
+                  <div class="beam-rail-item rail-sidebar r-height-auto">
+                    <div class="sticky-sidebar">
 
-                    {% assign rankings = site.pages | where: 'lang', page.lang | where: 'layout', 'ranking' | sort: 'is_hub' | reverse  %}
-                    {% assign promoted_articles = site.posts | where:"lang", page.lang  | where:"promoted", true %}
+                      {% assign rankings = site.pages | where: 'lang', page.lang | where: 'layout', 'ranking' | sort: 'is_hub' | reverse  %}
+                      {% assign promoted_articles = site.posts | where:"lang", page.lang  | where:"promoted", true %}
 
-                    {% if  rankings[0] %}
-                      <section class="beam recommended-reviews">
-                          <div class="beam-item">
-                              <h2 class="h-section">{{site.i18n[page.lang].featured_rankings}}</h2>
-                          </div>
-                          {% for item in rankings limit: 4%}
+                      {% if  rankings[0] %}
+                        <section class="beam recommended-reviews">
                             <div class="beam-item">
-                              {% include parts/reviews-listing-listitem-sm.html ranking=item %}
+                                <h2 class="h-section">{{site.i18n[page.lang].featured_rankings}}</h2>
                             </div>
-                          {% endfor %}
-                          <!-- <div class="beam-item beam-more">
-                              <a href="" class="btn btn-img-right btn-link">Zobacz więcej<img src="/assets/img/more-arrow.svg"  alt="Przeczytaj więcej"></a>
-                          </div> -->
-                      </section>
-                    {% endif %}    
-                    {% if  promoted_articles[0] %}
-                      <section class="beam recommended-articles">
-                          <div class="beam-item">
-                              <h2 class="h-section">{{site.i18n[page.lang].featured_articles}}</h2>
-                          </div>                       
-                          {% for item in promoted_articles limit: 4 %}
+                            {% for item in rankings limit: 4%}
+                              <div class="beam-item">
+                                {% include parts/reviews-listing-listitem-sm.html ranking=item %}
+                              </div>
+                            {% endfor %}
+                            <!-- <div class="beam-item beam-more">
+                                <a href="" class="btn btn-img-right btn-link">Zobacz więcej<img src="/assets/img/more-arrow.svg"  alt="Przeczytaj więcej"></a>
+                            </div> -->
+                        </section>
+                      {% endif %}    
+                      {% if  promoted_articles[0] %}
+                        <section class="beam recommended-articles">
                             <div class="beam-item">
-                              {% include parts/articles-listing-listitem-sm.html article=item %}
-                            </div>
-                          {% endfor %}
-                          <!-- <div class="beam-item beam-more">
-                              <a href="" class="btn btn-img-right btn-link">Zobacz więcej<img src="/assets/img/more-arrow.svg"  alt="Przeczytaj więcej"></a>
-                          </div> -->
-                      </section>
-                    {% endif %}    
+                                <h2 class="h-section">{{site.i18n[page.lang].featured_articles}}</h2>
+                            </div>                       
+                            {% for item in promoted_articles limit: 4 %}
+                              <div class="beam-item">
+                                {% include parts/articles-listing-listitem-sm.html article=item %}
+                              </div>
+                            {% endfor %}
+                            <!-- <div class="beam-item beam-more">
+                                <a href="" class="btn btn-img-right btn-link">Zobacz więcej<img src="/assets/img/more-arrow.svg"  alt="Przeczytaj więcej"></a>
+                            </div> -->
+                        </section>
+                      {% endif %}    
+                      </div>
+                    </div>
                 </div>
             </div>    
             <div class="beam b-size-2">    
@@ -77,6 +81,9 @@
         </div>
     </main>
     {% include footer.html %}    
+
+    {% include stickby-sidebar.html %}
+
     {% include all_pages_footer.html %}
   </body>
 </html>

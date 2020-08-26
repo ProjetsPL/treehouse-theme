@@ -77,21 +77,25 @@
                         </div>
                     </footer>
             </div>
-            <div class="beam-item b-size-2 event-sidebar">
-                <section class="sticky-element details">                        
-                    <div class="img-box">
-                        <img class="img" src="{{page.organizer.logo}}" alt="{{page.organizer.name}}">
-                    </div>
-                    <ul class="details-list">
-                        {% for item in page.details.desc %}
-                            {%if item.link %}
-                            <li>{{item.label}}: <span><a href="{{item.link}}" rel="nofollow noopener" target="_blank">{{item.value}}</a></span></li>
-                            {% else %}
-                            <li>{{item.label}}: <span>{{item.value}}</span></li>
-                            {%endif%}
-                        {% endfor %}
-                    </ul>
-                </section>
+            <div class="beam-item beam-rail b-size-2 event-sidebar">
+              <div class="beam-rail-item rail-sidebar r-height-auto">
+                <div class="sticky-sidebar">
+                  <section class=" details">                        
+                      <div class="img-box">
+                          <img class="img" src="{{page.organizer.logo}}" alt="{{page.organizer.name}}">
+                      </div>
+                      <ul class="details-list">
+                          {% for item in page.details.desc %}
+                              {%if item.link %}
+                              <li>{{item.label}}: <span><a href="{{item.link}}" rel="nofollow noopener" target="_blank">{{item.value}}</a></span></li>
+                              {% else %}
+                              <li>{{item.label}}: <span>{{item.value}}</span></li>
+                              {%endif%}
+                          {% endfor %}
+                      </ul>
+                  </section>
+                </div>
+              </div>
             </div>
         </article>
         
@@ -114,10 +118,7 @@
 
 {% include footer.html %}
 
-<script type="text/javascript" src="/assets/js/stickybits.js"></script>
-<script type="text/javascript">
-    stickybits('.sticky-element', { stickyBitStickyOffset: 110 });
-</script>
+{% include stickby-sidebar.html %}
 
 {% include all_pages_footer.html %}
 </body>

@@ -72,8 +72,8 @@
                 {{ content | markdownify | inject_anchors }}
             </div>
             <div class="beam-item b-size-2 beam-rail  review-sidebar">
-                <div class="beam-rail-item r-height-100">
-                    <div class="sticky-element">
+                <div class="beam-rail-item rail-sidebar r-height-auto">
+                    <div class="sticky-sidebar">
                         <nav class="table-of-content">
                             <span class="title">{{site.i18n[page.lang].toc}}</span>
                             {{ content | markdownify | toc_only }}
@@ -148,10 +148,8 @@
 
   {% include footer.html %}
 
-  <script type="text/javascript" src="/assets/js/stickybits.js"></script>
-  <script type="text/javascript">
-      stickybits('.sticky-element', { stickyBitStickyOffset: 110 });
-  </script>
+  {% include stickby-sidebar.html %}
+  {% include stickby-element.html %}
 
   {% include all_pages_footer.html %}
 </body>

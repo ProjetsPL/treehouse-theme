@@ -8,6 +8,7 @@
 {% assign related_products_8 = site.products | where: "path", page.related_products[7]  %}
 {% assign related_products_9 = site.products | where: "path", page.related_products[8]  %}
 {% assign related_products_10 = site.products | where: "path", page.related_products[9]  %}
+
 <!DOCTYPE html>
 <html lang="{{ page.full-lang | default: site.lang | default: 'en' }}">
 
@@ -183,8 +184,8 @@
         </div>
 
         <div class="beam-item b-size-2 beam-rail  review-sidebar">
-            <div class="beam-rail-item r-height-auto">
-                <div class="sticky-element">
+            <div class="beam-rail-item rail-sidebar r-height-auto">
+                <div class="sticky-sidebar">
                   <nav class="table-of-content" id="some-stickybit-nav">
                     <span class="title">{{ site.i18n[page.lang].toc }}</span>
                     {{ content | toc_only }}
@@ -198,7 +199,7 @@
             </div>
 
             {% for product in related_products_1 %}
-              <div class="beam-rail-item r-height-auto">
+              <div class="beam-rail-item  r-height-auto">
                 <div class="sticky-element">
                   {% include parts/product-listing-boxitem-md.html product=product %}
                 </div>
@@ -306,10 +307,8 @@
 
   {% include footer.html %}
 
-  <script type="text/javascript" src="/assets/js/stickybits.js"></script>
-  <script type="text/javascript">
-      stickybits('.sticky-element', { stickyBitStickyOffset: 110 });
-  </script>
+  {% include stickby-sidebar.html %}
+  {% include stickby-element.html %}
 
   {% include all_pages_footer.html %}
 </body>

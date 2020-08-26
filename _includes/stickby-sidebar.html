@@ -1,0 +1,13 @@
+<script type="text/javascript" src="/assets/js/sticky-sidebar.js"></script>
+<script type="text/javascript">
+Promise.all(Array.from(document.images).filter(img => !img.complete).map(img => new Promise(resolve => { img.onload = img.onerror = resolve; }))).then(() => {
+  if (document.querySelector('.sticky-sidebar')) {
+    var sidebar = new StickySidebar('.rail-sidebar', {
+        innerWrapperSelector: '.sticky-sidebar',
+        containerSelector: '.rail-sidebar',
+        topSpacing: 110,
+        // bottomSpacing: 30
+    });
+  }
+});
+</script>
