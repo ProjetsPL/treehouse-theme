@@ -156,10 +156,10 @@
         }
         &.label-strong {            
             border-color: $main;
-        }
-        .cloud-arrow {
-            path {
-                stroke: $main
+            .cloud-arrow {
+                path {
+                    stroke: $main
+                }
             }
         }
     }
@@ -170,10 +170,10 @@
         }
         &.label-strong {            
             border-color: $garden;
-        }
-        .cloud-arrow {
-            path {
-                stroke: $garden;
+            .cloud-arrow {
+                path {
+                    stroke: $garden;
+                }
             }
         }
     }
@@ -184,10 +184,10 @@
         }
         &.label-strong {            
             border-color: $construction;
-        }
-        .cloud-arrow {
-            path {
-                stroke: $construction;
+            .cloud-arrow {
+                path {
+                    stroke: $construction;
+                }
             }
         }
     }
@@ -198,10 +198,10 @@
         }
         &.label-strong {            
             border-color: $danger;
-        }
-        .cloud-arrow {
-            path {
-                stroke: $danger;
+            .cloud-arrow {
+                path {
+                    stroke: $danger;
+                }
             }
         }
     }
@@ -212,10 +212,10 @@
         }
         &.label-strong {            
             border-color: $info;
-        }
-        .cloud-arrow {
-            path {
-                stroke: $info;
+            .cloud-arrow {
+                path {
+                    stroke: $info;
+                }
             }
         }
     }

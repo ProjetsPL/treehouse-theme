@@ -35,13 +35,13 @@
 //     }
 // }
 
-.product-listing-boxitem-md {
-  &.arrow-left {
-    .cloud-arrow {
-        transform: translateX(-94%) translateY(-50%) !important;
-    }
-  }
-}
+// .product-listing-boxitem-md {
+//   &.arrow-left {
+//     .cloud-arrow {
+//         transform: translateX(-94%) translateY(-50%) !important;
+//     }
+//   }
+// }
 
 .h1,
 .h2,
@@ -145,7 +145,6 @@
 .fb-page-wrapper {
     width: 100%;
     overflow: hidden;
-    margin-top: 40px;
     min-height: 121px;
 }
 

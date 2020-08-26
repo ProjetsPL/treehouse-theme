@@ -1,15 +1,15 @@
 {% assign context_name = include.product.name | append: " " | append: include.context %}
 
 {% if include.product.distinction == 'our_choice'%}
-  <section class="product-listing-boxitem-md label label-strong label-danger {% if include.arrow == 'left' %}arrow-left{% endif %}">
+  <section class="product-listing-boxitem-md label label-strong label-danger arrow-{{include.arrow}}">
 {% elsif include.product.distinction == 'budget'%}
-  <section class="product-listing-boxitem-md label label-strong label-success {% if include.arrow == 'left' %}arrow-left{% endif %}">
+  <section class="product-listing-boxitem-md label label-strong label-success  arrow-{{include.arrow}}">
 {% elsif include.product.distinction == 'hot'%}
-  <section class="product-listing-boxitem-md label label-main label-danger">
+  <section class="product-listing-boxitem-md label label-danger arrow-{{include.arrow}}">
 {% elsif include.product.distinction == 'premium'%}
-  <section class="product-listing-boxitem-md label label-main label-warning">
+  <section class="product-listing-boxitem-md label label-warning arrow-{{include.arrow}}">
 {% else %}
-  <section class="product-listing-boxitem-md ">
+  <section class="product-listing-boxitem-md arrow-{{include.arrow}}">
 {% endif %}
 
 
