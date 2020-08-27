@@ -2,6 +2,8 @@
 layout: products-category
 products_category: materace
 toc: true
+canonical: false
+canonical_url:
 page_name: Materace
 product_context: Materac
 title: Materace

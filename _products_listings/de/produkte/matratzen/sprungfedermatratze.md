@@ -2,6 +2,8 @@
 layout: products-subcategory
 products_category: materace
 toc: true
+canonical: false
+canonical_url:
 page_name: Sprężynowe
 product_context: Materace niemieckie Sprężynowe
 property: properties.type

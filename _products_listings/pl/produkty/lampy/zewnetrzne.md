@@ -2,6 +2,8 @@
 layout: products-subcategory
 products_category: lampy
 toc: true
+canonical: false
+canonical_url:
 page_name: Zewnętrzne
 product_context: Lampa zewnętrzna
 property: properties.type

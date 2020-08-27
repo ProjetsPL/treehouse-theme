@@ -2,6 +2,8 @@
 layout: products-subcategory
 products_category: lampy
 toc: true
+canonical: false
+canonical_url:
 page_name: Podwieszane
 product_context: Lampa Podwieszana
 property: properties.type

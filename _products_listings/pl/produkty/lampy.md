@@ -2,6 +2,8 @@
 layout: products-category
 products_category: lampy
 toc: true
+canonical: false
+canonical_url:
 page_name: Lampy
 product_context: Lampa
 title: Lampy
