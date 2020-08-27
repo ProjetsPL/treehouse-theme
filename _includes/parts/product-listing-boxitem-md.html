@@ -28,7 +28,7 @@
     </div>
     {% if include.product.links.size > 0 %}
       <footer class="footer">
-        <span class="title">Opcje zakupu:</span>
+        <span class="title">{{site.i18n[page.lang].purchase_variants}}:</span>
         <div class="buttons">
 
           {% for link in include.product.links %}
@@ -45,9 +45,9 @@
   </div>
 
   {% if include.product.distinction == 'our_choice'%}
-    <div class="label-section">Nasz wybór</div>
+    <div class="label-section">{{site.i18n[page.lang].our_choice}}</div>
   {% elsif include.product.distinction == 'budget'%}
-    <div class="label-section">Budżet</div>
+    <div class="label-section">{{site.i18n[page.lang].budget}}</div>
   {% elsif include.product.distinction == 'hot'%}
     <div class="label-section">🔥 hot</div>
   {% elsif include.product.distinction == 'premium'%}

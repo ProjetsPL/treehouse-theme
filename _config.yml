@@ -34,6 +34,8 @@ collections:
     output: false
   events:
     output: true
+  products_listings:
+    output: true
 
 # Author Settings
 author:
@@ -106,6 +108,14 @@ defaults:
       permalink: /:categories/events/:title:output_ext
   -
     scope:
+      path: "_products_listings/us"
+    values:
+      lang: "us"
+      full-lang: "en-US"
+      categories: "us"
+      permalink: /:path:output_ext
+  -
+    scope:
       path: "us/reviews"
     values:
       type: "ranking"
@@ -138,6 +148,14 @@ defaults:
       full-lang: "de-DE"
       categories: "de"
       permalink: /:categories/veranstaltungen/:title:output_ext
+  -
+    scope:
+      path: "_products_listings/de"
+    values:
+      lang: "de"
+      full-lang: "de-DE"
+      categories: "de"
+      permalink: /:path:output_ext
   -
     scope:
       path: "de/rezensionen"
@@ -174,6 +192,14 @@ defaults:
       permalink: /:categories/evenements/:title:output_ext
   -
     scope:
+      path: "_products_listings/fr"
+    values:
+      lang: "fr"
+      full-lang: "fr-FR"
+      categories: "fr"
+      permalink: /:path:output_ext
+  -
+    scope:
       path: "fr/commentaires"
     values:
       type: "ranking"
@@ -206,6 +232,14 @@ defaults:
       full-lang: "es-ES"
       categories: "es"
       permalink: /:categories/eventos/:title:output_ext
+  -
+    scope:
+      path: "_products_listings/es"
+    values:
+      lang: "es"
+      full-lang: "es-ES"
+      categories: "es"
+      permalink: /:path:output_ext
   -
     scope:
       path: "es/resenas"
@@ -242,6 +276,14 @@ defaults:
       permalink: /:categories/eventi/:title:output_ext
   -
     scope:
+      path: "_products_listings/it"
+    values:
+      lang: "it"
+      full-lang: "it-IT"
+      categories: "it"
+      permalink: /:path:output_ext
+  -
+    scope:
       path: "it/recensioni"
     values:
       type: "ranking"
@@ -274,6 +316,14 @@ defaults:
       full-lang: "pl"
       categories: "pl"
       permalink: /:categories/wydarzenia/:title:output_ext
+  -
+    scope:
+      path: "_products_listings/pl"
+    values:
+      lang: "pl"
+      full-lang: "pl"
+      categories: "pl"
+      permalink: /:path:output_ext
   -
     scope:
       path: "pl/recenzje"
@@ -311,6 +361,11 @@ i18n:
     featured_articles: "Polecane Artykuły"
     featured_events: "Polecane Wydarzenia"
     featured_products: "Polecane Produkty"
+    all_categories: "Wszsytkie kategorie"
+    categories: "Kategorie"    
+    purchase_variants: "Opcje zakupów"
+    our_choice: "Nasz wybór"
+    budget: "Budżet"
     boolean:
       true: Tak
       false: Nie
@@ -374,6 +429,11 @@ i18n:
     featured_articles: "Featured Articles"
     featured_events: "Featured Events"
     featured_products: "Featured Products"
+    all_categories: "All categories"
+    categories: "Categories"
+    purchase_variants: "Shopping variants:"
+    our_choice: "Our choice"
+    budget: "Budget"
 
   de:
     read_more: "Lesen Sie mehr"
@@ -403,6 +463,11 @@ i18n:
     featured_articles: "Empfohlene Artikel"
     featured_events: "Ausgewählte Veranstaltungen"
     featured_products: "Ausgewählte Produkte"
+    all_categories: "Alle Kategorien"
+    categories: "Kategorien"
+    purchase_variants: "Einkaufsvarianten"
+    our_choice: "Unsere Wahl"
+    budget: "Budget"
 
 
 
@@ -434,6 +499,11 @@ i18n:
     featured_articles: "Artículos destacados"
     featured_events: "Eventos especiales"
     featured_products: "Productos Destacados"
+    all_categories: "Todas las categorias"
+    categories: "Categorías"
+    purchase_variants: "Variantes de compra"
+    our_choice: "Nuestra eleccion"
+    budget: "Presupuesto"
 
 
 
@@ -465,6 +535,11 @@ i18n:
     featured_articles: "Articles de fond"
     featured_events: "Événements en vedette"
     featured_products: "Produits populaires"
+    all_categories: "Toutes catégories"
+    categories: "Catégories"
+    purchase_variants: "Variantes d'achat"
+    our_choice: "Notre choix"
+    budget: "Budget"
 
 
 
@@ -496,6 +571,11 @@ i18n:
     featured_articles: "Articoli in primo piano"
     featured_events: "Eventi in primo piano"
     featured_products: "Prodotti Sponsorizzati"
+    all_categories: "Tutte le categorie"
+    categories: "Categorie"
+    purchase_variants: "Varianti di acquisto"
+    our_choice: "La nostra scelta"
+    budget: "Budget"
 
 
 

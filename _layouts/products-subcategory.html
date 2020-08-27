@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="{{ page.full-lang | default: site.lang | default: 'en' }}">
+
+  {% include head.html %}
+
+  <link href="{{ site.baseurl }}/assets/css/pages/products-listing.css?v=3" rel="stylesheet">
+
+  <body>
+    {% include header.html %}
+
+    <main class="page page-products-listing">
+
+        {% include breadcrumbs.html %}
+
+        <div class="beams-wrapper  global-beam-wrapper">
+            <div class="beam b-size-4 products-listing-content">
+                <div class="beam-item b-size-1 beam-rail products-listing-sidebar">
+                    <div class="beam-rail-item rail-sidebar r-height-auto">
+                        <div class="sticky-sidebar">
+
+                            {% include parts/products-listings-nav.html %}
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="beam-item b-size-3 products-listing-products">
+                    <section class="beam b-size-4">
+                        <div class="beam-item b-size-4">
+                            <h1 class="h-section">{{page.h1}}</h1>
+                            <p>{{page.intro}}</p>
+                        </div>
+                        {% assign random_products = site.products | where: "lang", page.lang | where: "category", page.products_category | where: page.property , page.property_value %}
+                        <div class="beam-item index-products">
+                            <div class="flex-wrapper">
+                              <ul class="flex-container">
+                                {% for item in random_products %}
+                                    <li class="flex-item" >
+                                    {% include parts/product-listing-boxitem-md.html product=item context=page.product_context %}
+                                    </li>
+                                {% endfor %}
+                              </ul>
+                            </div>
+                          </div>
+
+                    </section>
+                </div>                
+            </div>
+            {% if page.seo_section%}
+            <div class="beam b-size-5  seo-section">
+                <div class="beam-item b-size-3 seo-text">
+                    {{ content | markdownify | inject_anchors }}    
+                </div>
+                <div class="beam-item b-size-2 beam-rail  seo-sidebar">
+                    <div class="beam-rail-item  r-height-auto">
+                        <div class="sticky-element">
+                            <nav class="table-of-content">
+                                <span class="title">{{site.i18n[page.lang].toc}}</span>
+                                {{ content | markdownify | toc_only }}
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif%}
+            
+
+        </div> 
+    </main>
+
+    {% include footer.html %}
+    {% include stickby-sidebar.html %}   
+    {% include stickby-element.html %} 
+    {% include all_pages_footer.html %}
+  </body>
+</html>

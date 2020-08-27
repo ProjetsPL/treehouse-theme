@@ -1,0 +1,44 @@
+---
+---
+// two lines are required to parse scss
+
+@import "variables.scss";
+
+.page-products-listing {
+    .products-listing-content {
+        margin-bottom: 50px;
+    }    
+}
+
+.products-listing-sidebar {
+    margin-top: 30px;
+    .h-section {
+        margin-top: 0px;
+    }
+}
+
+@media (max-width: 800px) {
+    .page-products-listing {
+        .products-listing-content {
+            margin-bottom: 20px;
+            .beam-item {
+                flex-basis: 100%;
+                }
+            .seo-section{
+                .beam-item {
+                    flex-basis: 100%;
+                }
+            }
+        }
+        .seo-section {
+            margin-bottom: 30px;
+            .beam-item {
+                flex-basis: 100%;
+            }
+        }
+    }
+}
+
+
+@import "components/product-listing-nav.scss";
+@import "components/product-listing-boxitem-md.scss";

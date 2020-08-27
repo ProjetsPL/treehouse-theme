@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="{{ page.full-lang | default: site.lang | default: 'en' }}">
+
+  {% include head.html %}
+
+  <link href="{{ site.baseurl }}/assets/css/pages/products-listing.css?v=3" rel="stylesheet">
+
+  <body>
+    {% include header.html %}
+
+    <main class="page page-products-listing">
+
+        {% include breadcrumbs.html %}
+
+        <div class="beams-wrapper  global-beam-wrapper">
+            <div class="beam b-size-4 products-listing-content">
+                <div class="beam-item b-size-1 beam-rail products-listing-sidebar">
+                    <div class="beam-rail-item rail-sidebar r-height-auto">
+                        <div class="sticky-sidebar">
+
+                            {% include parts/products-listings-nav.html %}
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="beam-item b-size-3 products-listing-products">
+                    <section class="beam b-size-4">
+                        <div class="beam-item b-size-4">
+                            <h1 class="h-section">{{page.h1}}</h1>
+                            <p>{{page.intro}}</p>
+                        </div>
+                        <div class="beam-item index-products">
+                            <div class="flex-wrapper">
+                              <ul class="flex-container">
+                                {% assign all_products = site.products | where: "lang", page.lang%}
+                                {% if all_products.size > 18 %}
+                                    {% assign random_products = all_products | sample:18 %}
+                                    {% for item in random_products %}
+                                        <li class="flex-item" >
+                                        {% include parts/product-listing-boxitem-md.html product=item %}
+                                        </li>
+                                    {% endfor %}
+                                {% else %}
+                                    {% for item in all_products %}
+                                        <li class="flex-item" >
+                                        {% include parts/product-listing-boxitem-md.html product=item %}
+                                        </li>
+                                    {% endfor %}
+                                {% endif %}
+                              
+                              </ul>
+                            </div>
+                          </div>
+
+                    </section>
+                </div>                
+            </div>
+            
+
+            <div class="beam b-size-2 ">    
+                <section class="beam-item b-size-2">
+                    <h2 class="h-section">{{page.seo_section.title}}</h2>
+                    <p>{{page.seo_section.content}}</p>
+                </section>
+            </div>
+
+            
+        </div> 
+    </main>
+
+    {% include footer.html %}
+    {% include stickby-sidebar.html %}    
+    {% include all_pages_footer.html %}
+  </body>
+</html>

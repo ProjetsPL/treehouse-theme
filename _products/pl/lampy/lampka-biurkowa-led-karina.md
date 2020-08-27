@@ -5,7 +5,7 @@ opinion:
   disadvantages: []
   reviews: []
 distinction: premium
-name: Lampka biurkowa LED Karina
+name: LED Karina
 description: 'Lampka biurkowa LED Karina z różnymi barwami światła oraz trzystopniowym
   ściemniaczem Lampka biurkowa LED Karina wyróżnia się nie tylko wyjątkowo wysoką
   jakością, lecz również wieloma innymi zaletami. Dzięki dwóm odchylanym przegubom
@@ -26,7 +26,7 @@ links:
   next-url:
   anchor: Sprawdź cenę!
 properties:
-  type: Wysokiej jakości lampka biurkowa
+  type: biurkowa
   color: Antracyt
 
 ---

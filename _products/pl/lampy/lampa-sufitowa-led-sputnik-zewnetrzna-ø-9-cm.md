@@ -5,7 +5,7 @@ opinion:
   disadvantages: []
   reviews: []
 distinction: ''
-name: Lampa sufitowa LED Sputnik
+name: LED Sputnik
 description: 'Do zastosowań zewnętrznych: reflektor sufitowy wpuszczany LED Sputnik
   Rurowy reflektor sufitowy wpuszczany LED Sputnik z wydajnym źródłem światła COB
   LED może być stosowany w szerokim zakresie zastosowań zarówno na zewnątrz, jak i
@@ -21,7 +21,7 @@ links:
   next-url:
   anchor: Kup od 329.90 zł
 properties:
-  type: " Zewnętrzna Ø 9 cm"
+  type: podwieszana
   color: Antracyt
 
 ---

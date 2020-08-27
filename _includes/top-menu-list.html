@@ -1,7 +1,8 @@
 {% assign blog = site.pages | where: "lang", page.lang | where: "layout", "blog" %}
 {% assign ranking = site.pages | where: "lang", page.lang | where: "layout", "rankings" %}
-{% assign event = site.pages | where: "lang", page.lang | where: "layout", "events" %}
-{% assign menu_pages = blog | concat: ranking | concat: event  %}
+{% assign products = site.pages | where: "lang", page.lang | where: "layout", "products" %} 
+{% assign event = site.pages | where: "lang", page.lang | where: "layout", "events" %} 
+{% assign menu_pages = blog | concat: ranking | concat: products | concat: event  %}
 <ul>
   {% for item in  menu_pages %}
   <li>
@@ -12,6 +13,8 @@
       <img src="/assets/img/icon-rankings.svg" alt="{{item.page_name}}">
       {% elsif item.layout == "events" %}
       <img src="/assets/img/icon-events.svg" alt="{{item.page_name}}">
+      {% elsif item.layout == "products" %}
+      <img src="/assets/img/icon-products.svg" alt="{{item.page_name}}">
       {%endif%}
       <span>{{item.page_name}}</span></a>
   </li>

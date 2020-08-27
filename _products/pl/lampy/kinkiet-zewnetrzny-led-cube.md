@@ -5,7 +5,7 @@ opinion:
   disadvantages: []
   reviews: []
 distinction: 'our_choice'
-name: Kinkiet zewnętrzny LED Cube
+name: Kinkiet LED Cube
 description: 'Lampa zewnętrzna ścienna LED Cube w kształcie kostki, z możliwością
   ustawienia snopu światła Ta lampa zewnętrzna ścienna LED Cube zapewnia możliwość
   ustawiania snopu światła, dzięki czemu umiejętnie podkreśla elementy każdej aranżacji
@@ -25,7 +25,7 @@ links:
   next-url:
   anchor: Kup od 276.90zł
 properties:
-  type: Kinkiet zewnętrzny
+  type: zewnętrzna
   color: Antracyt
 
 ---

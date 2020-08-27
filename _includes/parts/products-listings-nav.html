@@ -1,0 +1,65 @@
+<nav class="products-listing-nav">
+    <header>
+        <span span class="h-section">{{site.i18n[page.lang].categories}}</span>
+    </header>
+        {% if page.layout == "products" %}                                        
+            {%assign listings = site.products_listings | where: "lang" , page.lang | sort: "page_name"  | where: "layout" , "products-category"  %}                                        
+            <ul>
+            {% for item in listings %} 
+                <li>
+                    <a href="{{item.url}}">{{item.page_name}}</a>
+                </li>
+                {%endfor%}
+            </ul>
+
+
+            
+        {% elsif  page.layout == "products-category"  %}
+            {% assign products = site.pages | where: "layout", "products"   | where: "lang" , page.lang  %}
+            {% for item in products %}
+                <a href="{{item.url}}" class="back-link">{{site.i18n[page.lang].all_categories}}</a>
+            {% endfor %}
+            {%assign listings = site.products_listings | where: "products_category", page.products_category | where: "lang" , page.lang | where: "layout" , "products-subcategory"  | sort: "page_name" %}      
+            <ul>  
+                <li>
+                    <a href="{{page.url}}" class="active">{{page.page_name}}</a>
+                    <ul>                                                    
+                        {% for item in listings %} 
+                            <li>
+                                <a href="{{item.url}}">{{item.page_name}}</a>
+                            </li>
+                        {%endfor%}
+                    </ul>
+                </li>
+            </ul>     
+            
+            
+        {% elsif  page.layout == "products-subcategory"  %}
+            {% assign products = site.pages | where: "layout", "products"   | where: "lang" , page.lang  %}
+            {% for item in products %}
+                <a href="{{item.url}}" class="back-link">{{site.i18n[page.lang].all_categories}}</a>
+            {% endfor %}
+            {%assign listings = site.products_listings | where: "products_category", page.products_category | where: "lang" , page.lang | where: "layout" , "products-subcategory"  | sort: "page_name" %}                  
+            {%assign products_category = site.products_listings | where: "products_category", page.products_category | where: "lang" , page.lang | where: "layout" , "products-category" %}     
+            <ul>  
+                <li> 
+                    {% for item in products_category %} 
+                        <a href="{{item.url}}">{{item.page_name}}</a>
+                    {% endfor %}
+                    <ul>                                                    
+                        {% for item in listings %} 
+                            {% if item.path == page.path %}
+                            <li>
+                                <a href="{{item.url}}" class="active">{{item.page_name}}</a>
+                            </li>
+                            {% else %}
+                            <li>
+                                <a href="{{item.url}}">{{item.page_name}}</a>
+                            </li>
+                            {%endif%}
+                        {%endfor%}
+                    </ul>
+                </li>
+            </ul>
+        {% endif %}
+</nav>  
