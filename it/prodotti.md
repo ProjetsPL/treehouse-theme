@@ -1,9 +1,9 @@
 ---
 layout: products
-page_name: Produkty
-title: Produkty  SEO TITLE
-description:  Produkty  SEO META
-h1: Produkty
+page_name: prodotti
+title: prodotti  SEO TITLE
+description:  prodotti  SEO META
+h1: prodotti
 intro: intro
 seo_section:
     title: SEO section title

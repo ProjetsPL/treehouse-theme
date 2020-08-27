@@ -2,6 +2,7 @@
 layout: products-subcategory
 products_category: materace
 toc: true
+intro: intro
 canonical: false
 canonical_url:
 page_name: Sprężynowe

@@ -2,6 +2,7 @@
 layout: products-category
 products_category: lampy
 toc: true
+intro: intro
 canonical: false
 canonical_url:
 page_name: Lampy

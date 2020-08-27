@@ -11,26 +11,35 @@
         color: $gray-6;
         padding-left: 23px;
         padding-right: 23px;
+        &:before {
+            content: " ";
+            position: absolute;
+            right: 12px;
+            top: 50%;
+            display: none;
+            height: 4px;
+            width: 16px;
+            background-image: url('../../img/breadcrumb-arrow.svg');
+            background-size: cover;
+            transform: translateY(-70%);
+        }
+        &:hover {
+            background-color: $gray-1;
+        }
+        &:active {
+            transform: scale(0.98);
+        }
         &.active {
             background-color: $gray-1;
             position: relative;
             font-weight: bold;
             &:before {
-                content: " ";
-                position: absolute;
-                right: 12px;
-                top: 50%;
                 display: block;
-                height: 4px;
-                width: 16px;
-                background-image: url('../../img/breadcrumb-arrow.svg');
-                background-size: cover;
-                transform: translateY(-70%);
             }
         }
     }
     .back-link {
-        border-bottom: 1px solid #E7E9E9;
+        border-bottom: 1px solid $gray-2;
         position: relative;
         &:before {
             content: " ";
@@ -50,7 +59,7 @@
     }
    > ul {
         > li {
-            border-bottom: 1px solid #E7E9E9;
+            border-bottom: 1px solid $gray-2;
             >ul {
                 li {
                     >a {
