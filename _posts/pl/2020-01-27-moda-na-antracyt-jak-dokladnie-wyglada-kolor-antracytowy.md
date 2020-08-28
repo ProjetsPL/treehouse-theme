@@ -25,7 +25,18 @@ related_products:
 - _products/pl/lampy/kinkiet-zewnetrzny-led-cube.md
 - _products/pl/lampy/lampka-biurkowa-led-karina.md
 - _products/pl/lampy/lampa-sufitowa-led-sputnik-zewnetrzna-ø-9-cm.md
-product_category: lampy
+
+# new
+use_related_products: false
+products_quantity:  4
+products_category: 
+  - lampy
+products_tags: 
+  - swieta
+property: properties.type
+property_value: podwieszana
+
+
 
 ---
 ## Antracyt - jaki to kolor?

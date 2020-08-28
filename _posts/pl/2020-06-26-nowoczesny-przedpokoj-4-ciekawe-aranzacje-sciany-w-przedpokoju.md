@@ -25,6 +25,17 @@ intro: Zależy Ci, aby urządzić nowoczesny przedpokój? Niezależnie od tego, 
 image: "/uploads/nowoczesny-przedpokoj.jpg"
 related_products: []
 
+## new
+products_quantity: 3
+products_category:
+  - materace
+products_tags: 
+  - swieta
+  - wesele
+property: properties.size
+property_value: 90x200
+
+
 ---
 ## Jak urządzić przedpokój, który jest mały?
 

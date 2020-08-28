@@ -28,4 +28,9 @@ properties:
   type: zewnętrzna
   color: Antracyt
 
+#new
+tags:
+  - wesele
+  - swieta
+
 ---

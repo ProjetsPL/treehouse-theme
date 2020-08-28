@@ -26,6 +26,13 @@ intro: Salon to wyjątkowe miejsce w domu, gdzie niemal każdy spędza większą
 image: "/uploads/lampy-do-salonu-9-pomyslow.jpg"
 related_products: []
 
+## new
+products_quantity: 12
+products_category:
+products_tags: 
+property: properties.size
+property_value: 90x200
+
 ---
 ## Oświetlenie salonu - minimalistyczne i nowoczesne
 

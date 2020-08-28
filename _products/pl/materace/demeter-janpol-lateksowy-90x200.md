@@ -48,7 +48,7 @@ links:
   next-url: https://www.ceneo.pl/Click/Offer/?e=tnZWJb4nz7RG5U71ADWJSXoRyLKobC-Vh__335Ad9BtrpvSAVQWpypRSxDfqjjxEdosz1L1-s5k3yCftm7FjvoHCZeoZrkXTOVbF3A1bvacs7Xl102nH2qcYgYr5Q6-cRe83JACqgNhve_2iVLHh4KNdEQMoDYQz5nrND4mVia4_IxHUXH2HaRoZSbexVZUayWKw_uicGrESsdIWIyTJ5TlEX88oRn2dZCI5k6Zxxm9f3QYLdW_0QZ8gi65NJQAI9LXv9-uBGUexFiVqKZkRsqaIeZIHtFbaxIW2sH6ipdebN77lNEyJ66N9ffniTPeyczZKhk0mDhglWMIUQQ3kIWyR1KDfilNKpVBMwlkFDd0TtVjAZKlU5x-a9Fd7J1NUpVBMwlkFDd0yqiXfwFje2tR4qyAeFeMZa48BS3tKP6yWaJsRMZE1CZWl-sW8N068u4A7XBczVYyPxTeSA1apYX7WdoZe6BiTPs5zrNOQXGtD5AX65LRdMjEBSSmwcQyM3fH06QOu3hs=&a=2&rc=notset
   anchor: Kup od 1329,00zł
 properties:
-  type: lateksowy
+  type: podwieszana
   size: 90x200
   brand: Janpol
   hardness: średni
@@ -58,5 +58,10 @@ properties:
   bilateral: true
   handles: true
 distinction: 'premium'
+
+#new
+tags:
+  - wesele
+  - swieta
 
 ---

@@ -27,6 +27,16 @@ intro: Biała kuchnia to klasyczne i ponadczasowe rozwiązanie, które sprawdza 
 image: "/uploads/biala-kuchnia-jak-ja-ozywic.jpg"
 related_products: []
 
+## new
+products_quantity: 3
+products_category:
+products_tags: 
+  - świąteczny
+  - weselny
+property: properties.size
+property_value: 90x200
+
+
 ---
 ## Biała kuchnia z nietypowym wzorem na ścianie
 

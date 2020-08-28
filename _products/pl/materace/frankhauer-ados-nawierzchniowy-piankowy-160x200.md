@@ -61,4 +61,7 @@ properties:
   bilateral: true
   handles: false
 
+#new
+tags:
+  - swieta
 ---

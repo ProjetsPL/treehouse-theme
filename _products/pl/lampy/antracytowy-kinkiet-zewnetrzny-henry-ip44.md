@@ -25,4 +25,8 @@ properties:
   color: Antracyt
   type: podwieszana
 
+#new
+tags:
+  - swieta
+
 ---

@@ -46,4 +46,7 @@ properties:
   handles: false
 distinction: 'premium'
 
+#new
+tags:
+
 ---
