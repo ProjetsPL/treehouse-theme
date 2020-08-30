@@ -31,10 +31,37 @@
                       </div>
                   </div>
               </header>
-              
-              {% assign products = site.products | where: "category", page.products_category | where: page.property , page.property_value | where: "lang", page.lang %}
+
+
+            {% assign products_path_array = '' | split: ',' %}
+            {% assign property_name =  page.property | remove: "properties."%}         
+            {% assign products_collection = site.products | where: "category", page.products_category | where: "lang" , page.lang %}  
+            {% for item in page.property_value  %}
+                {%assign post_value = item | downcase %}
+                {% for product in products_collection %}        
+                    {% for property in product.properties %}                                
+                            {% if property[0] ==  property_name %}     
+                                {%assign matching_property_values = property[1] | downcase | split: ", " %}     
+                                {% for value  in matching_property_values %}
+                                    {% if value == post_value %}
+                                        {% assign path_handle = product.path  | split: ',' %}
+                                        {% assign products_path_array = products_path_array | concat: path_handle %}
+                                    {%endif%}
+                                {% endfor %}            
+                            {%endif%}
+                    {% endfor %}           
+                {% endfor %}
+            {%endfor%}
+            {% assign products_path_array = products_path_array | uniq %}
+            <!-- creating array of products with matching property -->
+            {% assign products = '' | split: ',' %}
+            {% for item in products_path_array %}
+                {% assign found_product = site.products | where: "path" , item %}
+                {% assign products = products  | concat: found_product %}
+            {% endfor %}
 
             {% assign main_product = products[0] %}
+
             <div class="beam b-size-5  review-section">
                 <div class="beam-item b-size-3 review-text">
                     <figure>

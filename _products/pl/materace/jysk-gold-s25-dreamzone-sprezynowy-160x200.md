@@ -39,6 +39,7 @@ description: |-
 photo: "/uploads/jysk-gold-s25-dreamzone-sprezynowy-160x200.jpeg"
 links: []
 properties:
+  color: czerwony, czarny, zielony
   type: sprężynowy
   size: 160x200
   brand: Jysk

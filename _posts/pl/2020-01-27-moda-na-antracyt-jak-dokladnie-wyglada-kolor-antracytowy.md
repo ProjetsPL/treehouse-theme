@@ -28,13 +28,16 @@ related_products:
 
 # new
 use_related_products: false
-products_quantity:  4
+products_quantity:  5
 products_category: 
   - lampy
 products_tags: 
   - swieta
-property: properties.type
-property_value: podwieszana
+  - wesele
+property: properties.color
+property_value: 
+  - zielony
+  - Antracyt
 
 
 

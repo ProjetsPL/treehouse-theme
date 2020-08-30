@@ -36,6 +36,7 @@ links:
   anchor: Kup od 2499,00zł
 properties:
   type: sprężynowy
+  color: ANtracyt, zielony
   size: 90x200
   brand: FDM
   hardness: twardy

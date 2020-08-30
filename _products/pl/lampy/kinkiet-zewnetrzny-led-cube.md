@@ -25,7 +25,7 @@ links:
   next-url:
   anchor: Kup od 276.90zł
 properties:
-  type: zewnętrzna
+  type: 
   color: Antracyt
 
 #new

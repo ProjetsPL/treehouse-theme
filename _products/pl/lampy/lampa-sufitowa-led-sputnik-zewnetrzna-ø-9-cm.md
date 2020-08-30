@@ -22,6 +22,8 @@ links:
   anchor: Kup od 329.90 zł
 properties:
   type: podwieszana
-  color: Antracyt
+  color: szary
 
+tags:
+  - wesele
 ---

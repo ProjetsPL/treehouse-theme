@@ -157,306 +157,145 @@
             {%assign products_with_lang = site.products | where: "lang" , page.lang %}
             {% assign products_collection = products_with_lang%}
 
-            {% assign products_path_array = '' | split: ',' %}
-          
-            {% assign i = 0 %}
-            {% assign related_products = page.related_products%}
-
-
-              {% if page.use_related_products %}
-                 <!-- Produkty przypisane ręcznie -->
-                {% for item in  related_products %}
-                  {% assign products = products_collection | where: "path", page.related_products[i]  %}
-                  {% for product in  products %}
-
-                  {% assign path_handle = product.path  | split: ',' %}
-                  {% assign products_path_array = products_path_array | concat: path_handle %}
-
-                  {% endfor %}
-                  {% assign i = i | plus: 1 %}
-                {% endfor %}
-
-              
-              {%elsif  page.products_category.size > 0  %}
-
-                    
-                    
-                    {% if page.products_tags.size > 0 and page.property and page.property_value   %}
-                      <!-- kategorie + tagi + właściwość -->
-                      
-                      {% for post_tag in page.products_tags  %}
-
-                         {% assign products_collection = products_with_lang | where: page.property , page.property_value %}
-                        <!-- Po przefiltrowaniu właściwości: {{products_collection.size}}<br> -->
-
-                        {% for product in products_collection %}
-                          {% for product_tag in product.tags %}                      
-                            {% if product_tag == post_tag %}
-                              {% assign path_handle = product.path  | split: ',' %}
-                              {% assign products_path_array_check = products_path_array_check | concat: path_handle %}
-                          
-                            {% endif %}
-                          {% endfor%}
-                        {% endfor %}
-
-                      {% endfor %}
-                    
-                      <!-- Po przefiltrowaniu tagów: {{products_path_array_check.size}}<br> -->
-
-                      {% for post_category in page.products_category  %}
-                        {% for product in products_collection %}
-                          {% for product_category in product.category  %}
-                            {% if product_category == post_category %}
-
-
-                              {%for item in products_path_array_check %}
-                                {%if product.path == item %}
-                                {% assign path_handle = product.path  | split: ',' %}
-                                  {% assign products_path_array = products_path_array | concat: path_handle %}
-                                {%endif%}
-                              {% endfor%}
-
-                            {% endif %}
-                          {% endfor%}
-                        {% endfor %}
-                      {% endfor %}
- 
-                      <!-- Po przefiltrowaniu kategorii:  {{products_path_array.size}}<br> --> 
-
-
-                    
-                    {% elsif page.products_tags.size > 0 %}                    
-                      <!-- kategorie + tagi -->
-
-                      {% for post_tag in page.products_tags  %}
-                      
-                        {% for product in products_collection %}
-                          {% for product_tag in product.tags %}                      
-                            {% if product_tag == post_tag %}
-                              {% assign path_handle = product.path  | split: ',' %}
-                              {% assign products_path_array_check = products_path_array_check | concat: path_handle %}
-                          
-                            {% endif %}
-                          {% endfor%}
-                        {% endfor %}
-
-                      {% endfor %}
-                    
-                      <!-- Po przefiltrowaniu tagów: {{products_path_array_check.size}}<br> -->
-
-                      {% for post_category in page.products_category  %}
-                        {% for product in products_collection %}
-                          {% for product_category in product.category  %}
-                            {% if product_category == post_category %}
-
-                              {%for item in products_path_array_check %}
-                                {%if product.path == item %}
-                                {% assign path_handle = product.path  | split: ',' %}
-                                  {% assign products_path_array = products_path_array | concat: path_handle %}
-                                {%endif%}
-                              {% endfor%}
-
-                            {% endif %}
-                          {% endfor%}
-                        {% endfor %}
-                      {% endfor %}
-
-                      <!-- Po przefiltrowaniu kategorii:  {{products_path_array.size}}<br> -->
-
-                      
-
-                    {% elsif page.property and page.property_value %}
-                      <!-- kategorie + właściwość -->
-
-                      {% for post_category in page.products_category  %}
-
-                        {% assign products_collection = products_with_lang | where: page.property , page.property_value %}
-
-                        <!-- Po przefiltrowaniu właściwości: {{products_collection.size}}<br> -->
-                      
-                        {% for product in products_collection %}
-                          {% for product_category in product.category  %}
-                            {% if product_category == post_category %}
-                            
-                              {% assign path_handle = product.path  | split: ',' %}
-                              {% assign products_path_array = products_path_array | concat: path_handle %}
-
-                            {% endif %}
-                          {% endfor%}
-                        {% endfor %}
-
-                      {% endfor %}
-
-                  
-                    {%else %}
-
-                      <!-- tylko kategorie  -->
-
-                      {% for post_category in page.products_category  %}
-                        {% for product in products_collection %}
-                          {% for product_category in product.category  %}
-                            {% if product_category == post_category %}
-                            
-                              {% assign path_handle = product.path  | split: ',' %}
-                              {% assign products_path_array = products_path_array | concat: path_handle %}
-
-                            {% endif %}
-                          {% endfor%}
-                        {% endfor %}
-                      {% endfor %}
-
-
-                    {%endif%}
-
-              
-
-              {%elsif  page.products_tags.size > 0  %}                   
-
-                      
-                      {% for post_tag in page.products_tags  %}
-
-                        <!-- tag + właściwość -->
-                        {% if page.property and page.property_value %}
-                          {% assign products_collection = products_with_lang | where: page.property , page.property_value %}
-                        {% endif %}
-
-                        <!-- tag  -->
-                        {% for product in products_collection %}
-                          {% for product_tag in product.tags %}
-                            {% if product_tag == post_tag %}
-
-                              {% assign path_handle = product.path  | split: ',' %}
-                              {% assign products_path_array = products_path_array | concat: path_handle %}
-
-                            {% endif %}
-                          {% endfor%}
-                        {% endfor %}
-
-                      {% endfor %}
-                      
-                    
-              {%elsif  page.property and page.property_value  %}
-
-                    <!-- właściwość  -->
-                    {% assign products_collection = products_with_lang | where: page.property , page.property_value %}
-
-                    {% for item in  products_collection %} 
-
-                      {% assign path_handle = item.path  | split: ',' %}
-                      {% assign products_path_array = products_path_array | concat: path_handle %}
-
-                    {% endfor %} 
-
-
-              {% else %}
-
-                <!-- brak zdefiniowanych kategori tagów i właściwości  -->
-                {% assign products = site.products | where: "lang", page.lang  %}
-                {% for item in  products %}
-                  {% assign path_handle = item.path  | split: ',' %}
-                  {% assign products_path_array = products_path_array | concat: path_handle %}
-                {% endfor %}
-
-
-              {%endif%}
-            <!-- End - Related products  - Filter -->
-                
-
-            <!-- Related products - display -->
-            
-
             {% if page.use_related_products %}
-              {% assign products_quantity = related_products.size %}          
-            {% elsif page.products_quantity %}
-              {% assign products_quantity = page.products_quantity %}          
-            {% else %} 
-              {% assign products_quantity = 10 %}
-            {%endif%}
 
-
-            {% assign unique_products_path_array = products_path_array  | uniq %}
-            {% assign unique_products_path_quantity =  unique_products_path_array.size %}
-                   
-            {% if unique_products_path_quantity >= products_quantity %}
-
-              <!--
-                {{unique_products_path_array.size}} - tyle mamy unikalnych<br>
-                 {{products_quantity}} - tyle potrzebujemy <br>
-               -->
-
-              {% assign mixed_unique_products_path_array = unique_products_path_array | sample: products_quantity%}
-
-              {% for item in mixed_unique_products_path_array %}
-                {% assign products = site.products | where: "path", item %}
-                {% for item in products %}
-                  <div class="beam-rail-item  r-height-auto">
-                    <div class="sticky-element">
-                      {% include parts/product-listing-boxitem-md.html product=item %}
-                    </div>
-                  </div>
+                 <!-- MANUALLY ASSIGNED PRODUCTS -->
+                {% assign i = 0 %}
+                {% assign related_products = page.related_products%}
+                {% for item in  related_products %}
+                    {% assign products = products_collection | where: "path", page.related_products[i]  %}
+                    {% for product in  products %}
+                        {% assign path_handle = product.path  | split: ',' %}
+                        {% assign products_path_array = products_path_array | concat: path_handle %}
+                    {% endfor %}
+                    {% assign i = i | plus: 1 %}
                 {% endfor %}
-              {%endfor%}     
-              
-              <!-- 
-                Zdeklarowane: {{page.products_quantity}}<br>       
-                Pasujące (z powtórzeniami): {{products_path_array.size}}<br>     
-                Unikalne: {{unique_products_path_array.size}}  
-              -->
+                <!-- creating array of products with matching category -->
+                {% assign products_collection = '' | split: ',' %}        
+                {% for item in products_path_array %}
+                    {% assign found_product = site.products | where: "path" , item %}
+                    {% assign products_collection = products_collection  | concat: found_product %}
+                {% endfor %}
 
             {% else %}
-                  
 
-              {% assign rest_products_quantity =  products_quantity | minus: unique_products_path_quantity %}       
+                {% if  page.products_category.size > 0  %}                   
 
-              
-               <!-- 
-                 {{unique_products_path_array.size}} - tyle mamy unikalnych<br>     
-                 {{rest_products_quantity}} - tyle brakuje <br> 
-                -->
+                    {% assign products_path_array = '' | split: ',' %}        
+                    {% for post_category in page.products_category  %}
+                        {% for product in products_collection %}
+                            {% for product_category in product.category  %}
+                                {% if product_category == post_category %}
+                                    {% assign path_handle = product.path  | split: ',' %}
+                                    {% assign products_path_array = products_path_array | concat: path_handle %}
+                                {% endif %}
+                            {% endfor%}
+                        {% endfor %}
+                    {% endfor %}                    
+                    {% assign products_path_array = products_path_array | uniq %}
+                    <!-- creating array of products with matching category -->
+                    {% assign products_collection = '' | split: ',' %}        
+                    {% for item in products_path_array %}
+                        {% assign found_product = site.products | where: "path" , item %}
+                        {% assign products_collection = products_collection  | concat: found_product %}
+                    {% endfor %}
+                    <!-- Po przefiltrowaniu kategorii:  {{products_collection.size}}<br> -->  
 
-               {%assign final_products_path_array = unique_products_path_array %}   
+                {% endif %}
+                {% if  page.products_tags.size > 0  %}                       
+                    
+                    {% assign products_path_array = '' | split: ',' %}        
+                    {% for post_tag in page.products_tags  %}
+                        {% for product in products_collection %}
+                            {% for product_tag in product.tags %}                      
+                                {% if product_tag == post_tag %}
+                                    {% assign path_handle = product.path  | split: ',' %}
+                                    {% assign products_path_array = products_path_array | concat: path_handle %}
+                                {% endif %}
+                            {% endfor%}
+                        {% endfor %}
+                    {% endfor %}                   
+                    {% assign products_path_array = products_path_array | uniq %}
+                    <!-- creating array of products with matching tags -->
+                    {% assign products_collection = '' | split: ',' %}        
+                    {% for item in products_path_array %}
+                        {% assign found_product = site.products | where: "path" , item %}
+                        {% assign products_collection = products_collection  | concat: found_product %}
+                    {% endfor %}
+                    <!-- Po przefiltrowaniu tagów:  {{products_collection.size}}<br> -->        
 
+                {% endif %}
+                {% if  page.property and page.property_value  %}       
 
-             {% assign  other_products_sample_quantity = rest_products_quantity  | plus:1%}
-              {% assign products_if_need_one = products_with_lang | sample: other_products_sample_quantity  %}           
+                    {% assign products_path_array = '' | split: ',' %}
+                    {% assign property_name =  page.property | remove: "properties."%}           
+                    {% for item in page.property_value  %}
+                        {%assign post_value = item | downcase %}
+                        {% for product in products_collection %}        
+                            {% for property in product.properties %}                                
+                                    {% if property[0] ==  property_name %}     
+                                        {%assign matching_property_values = property[1] | downcase | split: ", " %}     
+                                        {% for value  in matching_property_values %}
+                                            {% if value == post_value %}
+                                                {% assign path_handle = product.path  | split: ',' %}
+                                                {% assign products_path_array = products_path_array | concat: path_handle %}
+                                            {%endif%}
+                                        {% endfor %}            
+                                    {%endif%}
+                            {% endfor %}           
+                        {% endfor %}
+                    {%endfor%}
+                    {% assign products_path_array = products_path_array | uniq %}
+                    <!-- creating array of products with matching property -->
+                    {% assign products_collection = '' | split: ',' %}        
+                    {% for item in products_path_array %}
+                        {% assign found_product = site.products | where: "path" , item %}
+                        {% assign products_collection = products_collection  | concat: found_product %}
+                    {% endfor %}
+                    <!-- Po przefiltrowaniu właściwości:  {{products_collection.size}}<br> -->   
 
-              {% assign products_if_need_more = products_with_lang | sample: rest_products_quantity  %}
+                {%endif%}  
 
-              
-              {% if rest_products_quantity == 1 %}
-                  {% assign path_handle =  products_if_need_one[1].path  | split: ',' %}
-                  {% assign final_products_path_array = final_products_path_array | concat: path_handle %}
-              {% else %}
-                {% for item in  products_if_need_more %}
-                  {% assign path_handle = item.path  | split: ',' %}
-                  {% assign final_products_path_array = final_products_path_array | concat: path_handle %}
-                {% endfor %}
-              {% endif %}
-              
-              {%assign mixed_final_products_path_array = final_products_path_array | sample: products_quantity %}
+            {%endif%}
 
-              {% for item in mixed_final_products_path_array %}
-                {% assign products = site.products | where: "path", item %}
-                {% for item in products %}
-                  <div class="beam-rail-item  r-height-auto">
-                    <div class="sticky-element">
-                      {% include parts/product-listing-boxitem-md.html product=item %}
-                    </div>
-                  </div>
-                {% endfor %}
-              {%endfor%} 
+            <!-- End - Related products  - Filter -->                
 
-            <!-- 
-              Zdeklarowane: {{page.products_quantity}}<br>     
-              Pasujące (z powtórzeniami)  {{products_path_array.size}} <br>       
-              Unikalne: {{unique_products_path_array.size}}  <br>     
-              Losowe: {{rest_products_quantity}} 
-            -->
+            <!-- Related products - display -->       
 
+            {% if page.use_related_products %}
+                {% assign products_quantity = related_products.size %}          
+            {% elsif page.products_quantity %}
+                {% assign products_quantity = page.products_quantity %}          
+            {% else %} 
+                {% assign products_quantity = 10 %}
+            {%endif%}
+
+            {% assign products_collection_quantity =  products_collection.size %}
+                   
+            {% if products_collection_quantity < products_quantity %}
+
+                {% assign rest_products_quantity =  products_quantity | minus: products_collection_quantity %}       
+                {% assign mixed_products_quantity = products_with_lang.size %}
+                {% assign mixed_products = products_with_lang | sample: mixed_products_quantity  %}  
+
+                {%  for i in (1..rest_products_quantity) %}
+                    {% assign additional_product_path = mixed_products[i].path  %}
+                    {% assign found_product = site.products | where: "path" , additional_product_path %}
+                    {% assign products_collection = products_collection  | concat: found_product %}
+                {%endfor%}
             
             {% endif %}
-            <!-- End - Related products - display -->
 
+            {% assign mixed_products_collection = products_collection | sample: products_quantity%}
+            {% for item in mixed_products_collection %}
+                <div class="beam-rail-item  r-height-auto">
+                    <div class="sticky-element">
+                        {% include parts/product-listing-boxitem-md.html product=item %}
+                    </div>
+                </div>
+            {%endfor%}     
+
+            <!-- End - Related products - display -->
 
 
         </div>
