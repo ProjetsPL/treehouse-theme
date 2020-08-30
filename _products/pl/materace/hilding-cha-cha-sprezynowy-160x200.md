@@ -57,7 +57,7 @@ links:
   anchor: Kup od 1167,00zł
 properties:
   type: sprężynowy
-  size: 160x200
+  product_size: 160x200
   brand: Hilding
   hardness: średni
   height: ok. 21 cm

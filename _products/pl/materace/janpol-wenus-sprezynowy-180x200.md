@@ -57,7 +57,7 @@ links:
   anchor: Kup od 1049,00zł
 properties:
   type: Sprężynowy
-  size: 180x200
+  product_size: 180x200
   brand: Janpol
   hardness: Średni
   height: 18 cm

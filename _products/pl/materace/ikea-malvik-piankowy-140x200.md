@@ -59,7 +59,7 @@ photo: "/uploads/ikea-malvik-piankowy-140x200.jpg"
 links: []
 properties:
   type: piankowy
-  size: 140x200
+  product_size: 140x200
   brand: Ikea
   hardness: twardy
   height: 14 cm

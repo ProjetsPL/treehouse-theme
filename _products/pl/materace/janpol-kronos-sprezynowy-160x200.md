@@ -3,7 +3,7 @@ category: materace
 name: Janpol Kronos
 properties:
   type: sprężynowy
-  size: 160x200
+  product_size: 160x200
   brand: Janpol
   hardness: twardy
   height: 17,5cm

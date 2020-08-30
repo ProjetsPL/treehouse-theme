@@ -67,7 +67,7 @@ links:
   anchor: Kup od 707,00 zł
 properties:
   type: sprężynowy
-  size: 140x200
+  product_size: 140x200
   brand: Materace Polonia
   hardness: twardy/średni
   height: 17 cm

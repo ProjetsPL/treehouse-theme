@@ -63,7 +63,7 @@ links:
   provider: Ceneo
 properties:
   type: piankowy
-  size: 160x200
+  product_size: 160x200
   brand: Hilding
   hardness: Średni
   height: ok. 22cm

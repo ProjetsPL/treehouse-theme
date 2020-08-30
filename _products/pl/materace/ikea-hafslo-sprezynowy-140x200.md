@@ -46,7 +46,7 @@ photo: "/uploads/ikea-hafslo-sprezynowy-140x200.jpg"
 links: []
 properties:
   type: sprężynowy
-  size: 140x200
+  product_size: 140x200
   brand: Ikea
   hardness: twardy
   height: 18 cm

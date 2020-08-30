@@ -41,7 +41,7 @@ links: []
 properties:
   color: czerwony, czarny, zielony
   type: sprężynowy
-  size: 160x200
+  product_size: 160x200
   brand: Jysk
   hardness: twardy/średni
   height: 22 cm

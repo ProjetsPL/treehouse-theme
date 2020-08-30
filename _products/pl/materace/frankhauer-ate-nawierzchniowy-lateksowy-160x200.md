@@ -57,7 +57,7 @@ links:
   anchor: Kup od 455,00 zł
 properties:
   type: nawierzchniowy
-  size: 160x200
+  product_size: 160x200
   brand: Frankhauer
   hardness: średni
   height: 3 cm

@@ -62,7 +62,7 @@ links:
   provider: ''
 properties:
   type: nawierzchniowy
-  size: 120x200
+  product_size: 120x200
   brand: Hilding
   hardness: średni
   height: 4,5 cm

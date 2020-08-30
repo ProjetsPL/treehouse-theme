@@ -59,7 +59,7 @@ links:
   anchor: Kup od 300,00 zł
 properties:
   type: piankowy
-  size: 80x200
+  product_size: 80x200
   brand: Jysk
   hardness: średni
   height: 7 cm

@@ -55,7 +55,7 @@ links:
   anchor: Kup od 836,00 zł
 properties:
   type: sprężynowy
-  size: 140x200
+  product_size: 140x200
   brand: Janpol
   hardness: średni
   height: 18 cm

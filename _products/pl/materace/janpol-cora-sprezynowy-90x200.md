@@ -58,7 +58,7 @@ links:
   provider: Ceneo
 properties:
   type: sprężynowy
-  size: 90x200
+  product_size: 90x200
   brand: Janpol
   hardness: średni
   height: ok. 22cm

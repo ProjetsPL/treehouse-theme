@@ -60,7 +60,7 @@ links:
   anchor: Kup od 633,00 zł
 properties:
   type: nawierzchniowy
-  size: 160x200
+  product_size: 160x200
   brand: Sleep o’clock
   hardness: średni
   height: 4 cm

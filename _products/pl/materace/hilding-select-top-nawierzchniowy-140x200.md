@@ -56,7 +56,7 @@ links:
   anchor: Kup od 819,00 zł
 properties:
   type: nawierzchniowy
-  size: 140x200
+  product_size: 140x200
   brand: Hilding
   hardness: miękki
   height: 6 cm

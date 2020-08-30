@@ -51,7 +51,7 @@ photo: "/uploads/jysk-gold-f95-dreamzone-piankowy-80x200.jpeg"
 links: []
 properties:
   type: piankowy
-  size: 80x200
+  product_size: 80x200
   brand: Jysk
   hardness: średni
   height: 22 cm

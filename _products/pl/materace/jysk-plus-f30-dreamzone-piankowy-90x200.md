@@ -53,7 +53,7 @@ links:
   anchor: Kup od 200,00 zł
 properties:
   type: piankowy
-  size: 90x200
+  product_size: 90x200
   brand: Jysk
   hardness: twardy
   height: 11 cm

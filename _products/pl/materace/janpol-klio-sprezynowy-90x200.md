@@ -50,7 +50,7 @@ links:
   anchor: Kup od 509,00zł
 properties:
   type: sprężynowy
-  size: 90x200
+  product_size: 90x200
   brand: Janpol
   hardness: średni
   height: 18 cm

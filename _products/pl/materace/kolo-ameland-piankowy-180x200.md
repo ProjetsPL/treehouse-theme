@@ -22,7 +22,7 @@ links:
   anchor: Kup od 2511,00zł
 properties:
   type: piankowy
-  size: 180x200
+  product_size: 180x200
   brand: Koło
   hardness: średni
   height: ok. 18 cm

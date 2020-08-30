@@ -65,7 +65,7 @@ links:
   provider: Ceneo
 properties:
   type: sprężynowy
-  size: 160x200
+  product_size: 160x200
   brand: Hilding
   hardness: twardy
   height: 23-24cm

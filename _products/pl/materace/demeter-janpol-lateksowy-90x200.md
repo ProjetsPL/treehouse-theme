@@ -49,7 +49,7 @@ links:
   anchor: Kup od 1329,00zł
 properties:
   type: podwieszana
-  size: 90x200
+  product_size: 90x200
   brand: Janpol
   hardness: średni
   height: ok. 18 cm

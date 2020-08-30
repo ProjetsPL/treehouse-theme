@@ -371,7 +371,7 @@ i18n:
       false: Nie
     properties:
       type: Rodzaj
-      size: Rozmiar
+      product_size: Rozmiar
       brand: Marka
       material: Materiał
       hardness: Twardość

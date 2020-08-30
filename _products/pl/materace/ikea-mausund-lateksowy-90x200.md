@@ -25,7 +25,7 @@ photo: "/uploads/ikea-mausund-lateksowy-90x200.jpg"
 links: []
 properties:
   type: lateksowy
-  size: 90x200
+  product_size: 90x200
   brand: Ikea
   hardness: średni
   height: 20 cm

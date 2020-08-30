@@ -42,7 +42,7 @@ photo: "/uploads/ikea-matrand-lateksowy-140x200.jpg"
 links: []
 properties:
   type: lateksowy
-  size: 140x200
+  product_size: 140x200
   brand: Ikea
   hardness: średni
   height: 18 cm

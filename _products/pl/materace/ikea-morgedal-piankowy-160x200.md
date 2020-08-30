@@ -55,7 +55,7 @@ photo: "/uploads/ikea-morgedal-piankowy-160x200.jpg"
 links: []
 properties:
   type: piankowy
-  size: 160x200
+  product_size: 160x200
   brand: Ikea
   hardness: twardy
   height: 18 cm

@@ -39,7 +39,7 @@ links:
   anchor: Kup od 703,00 zł
 properties:
   type: sprężynowy
-  size: 140x200
+  product_size: 140x200
   brand: Koło
   hardness: średni
   height: 18 cm

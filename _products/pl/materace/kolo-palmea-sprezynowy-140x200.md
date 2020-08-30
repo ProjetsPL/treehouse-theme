@@ -37,7 +37,7 @@ links:
   next-url: https://www.ceneo.pl/Click/Offer/?e=15ErBmUM_OJo4kUUuzcMCB0IHJDjKCh47EUNtlCmZXeXKc4Jhv2pMcxB5Y8dB5I72heG59Lv-O-hbA3XHRUkcHZh4ohu-YyyeW8Ggo-lOUyiR3R-OJMQVKDbPnShR6XwE-Qtim7i8ospNNOCRQ7LaTl4XOYjg58M_LfSECaQAbuB_WK0-62T9hA4au4k6YUa-bmzsha0qwqlUEzCWQUN3VL8oFVXErZBJs53-tmzU9_7YRM11rd3B13DdUer0d4ZQpWmEPCZYFTV901RqeLCNbr3O_WX6AdmQ1RWivKcunPDwfbedvlVNDhhzyskIg0P0zzERM3YTTRFqnVb_G77Aw==&a=2&rc=notset
 properties:
   type: sprężynowy
-  size: 140x200
+  product_size: 140x200
   brand: Koło
   hardness: twardy
   height: 18 cm

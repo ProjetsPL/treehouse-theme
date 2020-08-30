@@ -37,7 +37,7 @@ links:
 properties:
   type: sprężynowy
   color: ANtracyt, zielony
-  size: 90x200
+  product_size: 90x200
   brand: FDM
   hardness: twardy
   height: 21 cm

@@ -53,7 +53,7 @@ links:
   anchor: Kup od 1988,00zł
 properties:
   type: sprężynowy
-  size: 180x200
+  product_size: 180x200
   brand: Koło
   hardness: twardy
   height: ok. 19 cm

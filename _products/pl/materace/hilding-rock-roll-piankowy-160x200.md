@@ -53,7 +53,7 @@ links:
   anchor: Kup od 1359,00zł
 properties:
   type: piankowy
-  size: 160x200
+  product_size: 160x200
   brand: Hilding
   hardness: średni
   height: ok. 22cm
