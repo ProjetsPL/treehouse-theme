@@ -16,7 +16,7 @@ description: 'Kwadratowa lampa zewnętrzna ścienna Henry, IP44 Ta zewnętrzna l
   A++'
 photo: "/uploads/antracytowy-kinkiet-zewnetrzny-henry-ip44.jpg"
 links:
-- template: link
+  template: link
   provider: Ceneo
   url: https://www.awin1.com/pclick.php?p=21996783701&a=687127&m=10252
   next-url:
