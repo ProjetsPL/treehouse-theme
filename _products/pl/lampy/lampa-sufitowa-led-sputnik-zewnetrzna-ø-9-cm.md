@@ -5,7 +5,7 @@ opinion:
   disadvantages: []
   reviews: []
 distinction: ''
-name: LED Sputnik
+name: LED Sputnik LampA podwieszana
 description: 'Do zastosowań zewnętrznych: reflektor sufitowy wpuszczany LED Sputnik
   Rurowy reflektor sufitowy wpuszczany LED Sputnik z wydajnym źródłem światła COB
   LED może być stosowany w szerokim zakresie zastosowań zarówno na zewnątrz, jak i

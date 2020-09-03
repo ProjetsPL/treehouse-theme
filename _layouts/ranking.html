@@ -96,7 +96,7 @@
                         <div class="flex-container">
                         {% for product in products %}
                             <div class="flex-item" >
-                            {% include parts/product-listing-boxitem-md.html product=product %}
+                            {% include parts/product-listing-boxitem-md.html product=product context=page.product_context %}
                             </div>
                         {% endfor %}
                         </div>

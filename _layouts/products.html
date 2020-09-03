@@ -37,13 +37,13 @@
                                     {% assign random_products = all_products | sample:18 %}
                                     {% for item in random_products %}
                                         <li class="flex-item" >
-                                        {% include parts/product-listing-boxitem-md.html product=item %}
+                                        {% include parts/product-listing-boxitem-md.html product=item   title_tag="p" %}
                                         </li>
                                     {% endfor %}
                                 {% else %}
                                     {% for item in all_products %}
                                         <li class="flex-item" >
-                                        {% include parts/product-listing-boxitem-md.html product=item %}
+                                        {% include parts/product-listing-boxitem-md.html product=item   title_tag="p" %}
                                         </li>
                                     {% endfor %}
                                 {% endif %}

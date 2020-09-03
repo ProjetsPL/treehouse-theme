@@ -42,6 +42,14 @@
                 font-weight: bold;
                 color: $danger;
                 margin-bottom: 0;
+                font-size: 15px;
+                line-height: 26px;
+                &:before {
+                    display: none;
+                }
+                &:after {
+                    display: none;
+                }
             }
             .subtitle {
                 font-weight: bold;

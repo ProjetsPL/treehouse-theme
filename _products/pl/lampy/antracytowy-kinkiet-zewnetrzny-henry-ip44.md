@@ -5,7 +5,7 @@ opinion:
   disadvantages: []
   reviews: []
 distinction: ''
-name: Kinkiet Henry IP44
+name: Kinkiet Henry IP44 lampa
 description: 'Kwadratowa lampa zewnętrzna ścienna Henry, IP44 Ta zewnętrzna lampa
   ścienna Henry, posiadając duży dyfuzor z opalowego szkła, sprawia, że światło rozchodzi
   się we wszystkich kierunkach. Rama w kolorze antracytowym, wykonana z aluminium,
