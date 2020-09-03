@@ -193,6 +193,7 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     width: calc(100%);
+    list-style: none;
     &.b-size-6 {
         >.b-size-1 {
             flex-basis: 16.66%;

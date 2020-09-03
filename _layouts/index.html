@@ -26,9 +26,9 @@
           <div class="beam b-size-4">
               <div class="beam-item b-size-4 index-articles">
                   <section class="beam b-size-4">
-                      <div class="beam-item b-size-4">
-                          <h2 class="h-section">{{site.i18n[page.lang].recent_articles}}</h2>
-                      </div>
+                      <header class="beam-item b-size-4">
+                          <p class="h-section">{{site.i18n[page.lang].recent_articles}}</p>
+                      </header>
   
                       {% assign articles = site.posts | where:"lang", page.lang %}
                       {% assign i = 0 %}
@@ -51,9 +51,9 @@
 
                     {% if page.recent_rankings %}
                     <section class="beam b-size-4">
-                        <div class="beam-item b-size-4">
-                            <h2 class="h-section">{{site.i18n[page.lang].recent_rankings}}</h2>
-                        </div>
+                        <header class="beam-item b-size-4">
+                            <p class="h-section">{{site.i18n[page.lang].recent_rankings}}</p>
+                        </header>
     
                         {% assign rankings = site.pages | where:"lang",  page.lang  | where:"layout","ranking" | sort: 'is_hub' | reverse %}
                         {% assign i = 0 %}
@@ -77,9 +77,9 @@
                     {% assign random_products = site.products | sample: 8 | where: "lang", page.lang%}
                     {% if random_products[3]%}
                     <section class="beam">                      
-                      <div class="beam-item b-size-4">                        
-                        <h2 class="h-section">{{site.i18n[page.lang].featured_products}}</h2>
-                      </div>
+                      <header class="beam-item b-size-4">                        
+                        <p class="h-section">{{site.i18n[page.lang].featured_products}}</p>
+                      </header>
                       <div class="beam-item index-products">
                         <div class="flex-wrapper  nowrap">
                           <div class="flex-container">

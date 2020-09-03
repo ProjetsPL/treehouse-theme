@@ -161,9 +161,9 @@
             </div>
           </article>
           <section class="beam  b-size-4 featured-reviews">
-              <div class="beam-item b-size-4">
-                  <h2 class="h-section">Polecane rankingi</h2>
-              </div>
+                <header class="beam-item b-size-4">
+                    <p  class="h-section">Polecane rankingi</p >
+                </header>
               {% assign related_rankings = site.pages | where: 'is_hub', false | where: 'hub_name', page.hub_name %}             
               {% for related_ranking in related_rankings limit: 4 %}
                 <div class="beam-item b-size-1">
@@ -173,9 +173,9 @@
           </section>
 
           <section class="beam b-size-4 featured-articles">
-            <div class="beam-item b-size-4">
-              <h2 class="h-section">{{site.i18n[page.lang].maybe_interesting}}</h2>
-            </div>
+            <header class="beam-item b-size-4">
+                <p  class="h-section">{{site.i18n[page.lang].maybe_interesting}}</p >
+            </header>
     
             <!-- <div class="beam-item b-size-4"> -->
               {% assign random_articles = site.pages | where:"lang", page.lang | where: "layout", "ranking" | sample: 8 %}

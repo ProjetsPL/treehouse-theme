@@ -19,7 +19,8 @@
         }
         .reviews-list-sidebar {
             .reviews-listing-listitem-sm {
-                h3 {
+                h3,
+                .h3 {
                     display: flex;
                     align-items: left;
                     justify-content: flex-start;
@@ -64,7 +65,8 @@
             }
             .reviews-list-sidebar {
                 .events-listing-listitem-sm {
-                    h3 {
+                    h3,
+                    .h3 {
                         display: flex;
                         align-items: left;
                         justify-content: flex-start;

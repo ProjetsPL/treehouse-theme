@@ -101,9 +101,9 @@
         
         
         <section class="beam  b-size-4 featured-articles">
-            <div class="beam-item b-size-4">
-                <h2 class="h-section">{{site.i18n[page.lang].promoted_articles}}</h2>
-            </div>
+            <header class="beam-item b-size-4">
+                <p class="h-section">{{site.i18n[page.lang].promoted_articles}}</p>
+            </header>
 
             {% assign promoted_articles = site.posts | where:"lang", page.lang | where:"promoted", true %}
 

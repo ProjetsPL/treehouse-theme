@@ -16,10 +16,10 @@
           <div class="beam b-size-4">
               <div class="beam-item b-size-3 reviews-list-reviews">
                    <section class="beam b-size-6">
-                      <div class="beam-item b-size-6">
+                      <header class="beam-item b-size-6">
                           <h1 class="h-section">{{page.h1}}</h1>
                           <p>{{page.intro}}</p>
-                      </div>
+                      </header>
   
                       {% assign rankings = site.pages | where: 'type', 'ranking' | where: 'is_hub', true  | where:"lang", page.lang %}
                       {% assign i = 0 %}  
@@ -48,9 +48,9 @@
 
                         {% if  promoted_events[0] %}
                         <section class="beam recommended-events">
-                            <div class="beam-item">
-                                <h2 class="h-section">{{site.i18n[page.lang].featured_events}}</h2>
-                            </div>                       
+                            <header class="beam-item">
+                                <p class="h-section">{{site.i18n[page.lang].featured_events}}</p>
+                            </header>                       
                             {% for item in promoted_events limit: 4 %}
                               <div class="beam-item">
                                 {% include parts/events-listing-listitem-sm.html event=item %}
@@ -63,9 +63,9 @@
                       {% endif %}
                       {% if  promoted_articles[0] %}
                         <section class="beam recommended-articles">
-                          <div class="beam-item">
-                              <h2 class="h-section">{{site.i18n[page.lang].featured_articles}}</h2>
-                          </div>
+                          <header class="beam-item">
+                              <p  class="h-section">{{site.i18n[page.lang].featured_articles}}</p >
+                              </header>
                           {% for article in promoted_articles limit: 4 %}
                             <div class="beam-item">
                               {% include parts/articles-listing-listitem-sm.html article=article %}

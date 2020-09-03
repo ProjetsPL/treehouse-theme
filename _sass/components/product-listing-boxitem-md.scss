@@ -1,3 +1,12 @@
+.product-link-wrapper {
+    text-decoration: none;
+    display: block;
+    &:hover {
+        .btn-cta {            
+            background-color: lighten( $danger, 5%);
+        }
+    }
+}
 .product-listing-boxitem-md {
     border: 2px solid $gray-2;
     padding:15px 15px 5px 0px;
@@ -31,6 +40,8 @@
             }
             .title {
                 font-weight: bold;
+                color: $danger;
+                margin-bottom: 0;
             }
             .subtitle {
                 font-weight: bold;
@@ -40,44 +51,17 @@
         }
         .content {
             margin: 10px 0;
-            > * {
-                margin: 0 0 5px 0;
-            }
-            * {
-                font-size: 13px;
-                line-height: 18px;
-            }
+            font-size: 13px;
+            line-height: 18px;
         }
         .footer {
-            .title {
-                display: inline-block;
-                font-size: 13px;
-                line-height: 18px;
-                text-transform: uppercase;
-                font-weight: bold;
+            margin-bottom: 5px;
+            .btn {
                 margin-bottom: 10px;
+                margin-right: 10px;
             }
-            .buttons {
-                a {
-                    display: inline-flex;
-                    margin-bottom: 10px;
-                    margin-right: 10px;
-                    font-size: 13px;
-                    font-weight: bold;
-                    * {
-                        font-size: 13px;
-                    }
-                }
-                .btn {
-                    margin-bottom: 10px;
-                    margin-right: 10px;
-                }
-                .btn-group {
-                    margin-bottom: 10px;
-                    .info {
-                        bottom: -4px;
-                    }
-                }
+            .info {
+                bottom: -4px;
             }
         }
     }

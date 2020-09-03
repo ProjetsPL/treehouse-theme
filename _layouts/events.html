@@ -40,9 +40,9 @@
 
                       {% if  rankings[0] %}
                         <section class="beam recommended-reviews">
-                            <div class="beam-item">
-                                <h2 class="h-section">{{site.i18n[page.lang].featured_rankings}}</h2>
-                            </div>
+                            <header class="beam-item">
+                                <p class="h-section">{{site.i18n[page.lang].featured_rankings}}</p>
+                            </header>
                             {% for item in rankings limit: 4%}
                               <div class="beam-item">
                                 {% include parts/reviews-listing-listitem-sm.html ranking=item %}
@@ -55,9 +55,9 @@
                       {% endif %}    
                       {% if  promoted_articles[0] %}
                         <section class="beam recommended-articles">
-                            <div class="beam-item">
-                                <h2 class="h-section">{{site.i18n[page.lang].featured_articles}}</h2>
-                            </div>                       
+                            <header class="beam-item">
+                                <p class="h-section">{{site.i18n[page.lang].featured_articles}}</p>
+                            </header>                       
                             {% for item in promoted_articles limit: 4 %}
                               <div class="beam-item">
                                 {% include parts/articles-listing-listitem-sm.html article=item %}
