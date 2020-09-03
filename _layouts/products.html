@@ -56,13 +56,14 @@
                 </div>                
             </div>
             
-
+            {% if page.seo_section.title and page.seo_section.content %}
             <div class="beam b-size-2 ">    
                 <section class="beam-item b-size-2">
                     <h2 class="h-section">{{page.seo_section.title}}</h2>
                     <p>{{page.seo_section.content}}</p>
                 </section>
             </div>
+            {% endif %}
 
             
         </div> 
