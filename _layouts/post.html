@@ -36,7 +36,9 @@
 
             <figure>
               {% if page.image %}
-              <img src='{{site.baseurl}}{{page.image}}' alt='{{ page.title | escape }}'></img>
+              <div class="img-box img-ratio-16-9">
+                <img  class="img"  src='{{site.baseurl}}{{page.image}}' alt='{{ page.title | escape }}'></img>
+              </div>
               {% endif %}
             </figure>
           </header>
@@ -141,17 +143,19 @@
         </div>
 
         <div class="beam-item b-size-2 beam-rail  review-sidebar">
-            <div class="beam-rail-item rail-sidebar r-height-auto">
-                <div class="sticky-sidebar">
-                  <nav class="table-of-content" id="some-stickybit-nav">
-                    <span class="title">{{ site.i18n[page.lang].toc }}</span>
-                    {{ content | toc_only }}
-                  </nav>
-                  {% if page.lang == "pl" %}
-                  <div class="fb-page-wrapper">
-                    <div class="fb-page" data-href="https://www.facebook.com/treehouseinspiruje/" data-tabs="" data-width="440" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/treehouseinspiruje/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/treehouseinspiruje/">Treehouse</a></blockquote></div>
+            <div class="beam-rail-item r-height-auto">
+              <div class="rail-sidebar">
+                  <div class="sticky-sidebar">
+                    <nav class="table-of-content" id="some-stickybit-nav">
+                      <span class="title">{{ site.i18n[page.lang].toc }}</span>
+                      {{ content | toc_only }}
+                    </nav>
+                    {% if page.lang == "pl" %}
+                    <div class="fb-page-wrapper">
+                      <div class="fb-page" data-href="https://www.facebook.com/treehouseinspiruje/" data-tabs="" data-width="440" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/treehouseinspiruje/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/treehouseinspiruje/">Treehouse</a></blockquote></div>
+                    </div>
+                    {% endif %}
                   </div>
-                  {% endif %}
                 </div>
             </div>
 
