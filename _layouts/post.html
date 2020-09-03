@@ -294,14 +294,6 @@
             
             {% endif %}
 
-            {% assign mixed_products_collection = products_collection | sample: products_quantity%}
-            {% for item in mixed_products_collection %}
-                <aside class="beam-rail-item  r-height-auto">
-                    <div class="sticky-element">
-                        {% include parts/product-listing-boxitem-md.html product=item %}
-                    </div>
-                </aside>
-            {%endfor%}     
 
             <!-- End - Related products - display -->
 
