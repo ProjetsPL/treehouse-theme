@@ -1,9 +1,13 @@
 <!DOCTYPE html>
 <html lang="{{ page.full-lang | default: site.lang | default: 'en' }}">
+    <head>
+    <link rel="preload"  href="{{ site.baseurl }}/assets/css/pages/products-listing.css?v=3"  as="style">
 
   {% include head.html %}
 
   <link href="{{ site.baseurl }}/assets/css/pages/products-listing.css?v=3" rel="stylesheet">
+
+</head>
 
   <body>
     {% include header.html %}
