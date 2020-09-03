@@ -6,6 +6,9 @@
 
 .article-content {
     margin-top: 30px;
+    >.beam {
+        justify-content: flex-start;
+    }
     .article-text {
         .article-header {
             .detail-box {
