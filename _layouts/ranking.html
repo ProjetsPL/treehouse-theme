@@ -15,7 +15,7 @@
   {% include header.html %}
 
   <main class="page page-review">
-      
+
     {% include breadcrumbs.html %}
 
       <div class="beams-wrapper  global-beam-wrapper review-content">
@@ -38,24 +38,24 @@
 
 
             {% assign products_path_array = '' | split: ',' %}
-            {% assign property_name =  page.property | remove: "properties."%}         
-            {% assign products_collection = site.products | where: "category", page.products_category | where: "lang" , page.lang %}  
+            {% assign property_name =  page.property | remove: "properties."%}
+            {% assign products_collection = site.products | where: "category", page.products_category | where: "lang" , page.lang %}
             {% for item in page.property_value  %}
-                {%assign post_value = item | downcase %}
-                {% for product in products_collection %}        
-                    {% for property in product.properties %}                                
-                            {% if property[0] ==  property_name %}     
-                                {%assign matching_property_values = property[1] | downcase | split: ", " %}     
-                                {% for value  in matching_property_values %}
+                {% assign post_value = item | downcase %}
+                {% for product in products_collection %}
+                    {% for property in product.properties %}
+                            {% if property[0] ==  property_name %}
+                                {% assign matching_property_values = property[1] | downcase | split: ", " %}
+                                {% for value in matching_property_values %}
                                     {% if value == post_value %}
                                         {% assign path_handle = product.path  | split: ',' %}
                                         {% assign products_path_array = products_path_array | concat: path_handle %}
-                                    {%endif%}
-                                {% endfor %}            
-                            {%endif%}
-                    {% endfor %}           
+                                    {% endif%}
+                                {% endfor %}
+                            {% endif%}
+                    {% endfor %}
                 {% endfor %}
-            {%endfor%}
+            {% endfor%}
             {% assign products_path_array = products_path_array | uniq %}
             <!-- creating array of products with matching property -->
             {% assign products = '' | split: ',' %}
@@ -83,7 +83,7 @@
                     <script>
                         (adsbygoogle = window.adsbygoogle || []).push({});
                     </script>
-                    
+
                 </div>
                 <div class="beam-item b-size-2 beam-rail  review-sidebar">
                     <div class="beam-rail-item r-height-100">
@@ -192,13 +192,13 @@
             <header class="beam-item b-size-4">
               <p class="h-section">{{site.i18n[page.lang].maybe_interesting}}</p>
             </header>
-    
+
             <!-- <div class="beam-item b-size-4"> -->
               {% assign random_articles = site.pages | where:"lang", page.lang | where: "layout", "ranking" | sample: 8 %}
-    
+
               {% for article in random_articles %}
                 {% assign main_keywords = article.main_keywords | sample: 1 %}
-    
+
                 {% if main_keywords %}
                   <a href="{{ article.url | prepend: site.baseurl }}" class="btn btn-sm btn-link">{{ main_keywords }}</a>
                 {% endif %}

@@ -52,7 +52,7 @@ rankings_list:
     - title: KOŁO
       link: "/pl/recenzje/najlepsze-materace/kolo.html"
 products_category_2: ''
-
+product_context: Materac
 ---
 Wybór właściwego materaca jest kwestią kluczową. Czas spędzony w łóżku to według statystyk jedna trzecia życia. Dlatego warto poświęcić szczególną uwagę na to, aby wybrać jak najlepszy materac - wygodny i dopasowany.
 

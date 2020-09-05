@@ -15,7 +15,7 @@
   {% include header.html %}
 
   <main class="page page-review">
-      
+
     {% include breadcrumbs.html %}
 
       <div class="beams-wrapper  global-beam-wrapper review-content">
@@ -55,8 +55,8 @@
                 <span class="title {{item.icon}}-reviews">{{page.rankings_list.list_main_title}} <b>{{item.title}}</b></span>
                 <ul class="reviews-nav-lvl-2 ">
                     {% assign categorie_list = item.list %}
-                    {% for item in categorie_list%} 
-                    <li><a href="{{item.link}}" title="{{page.rankings_list.list_main_title}}  {{item.title}}">{{page.rankings_list.list_main_title}} <strong>{{item.title}}</strong></a></li>
+                    {% for item in categorie_list%}
+                    <li><a href="{{item.link}}" title="{{page.rankings_list.list_main_title}} {{item.title}}">{{page.rankings_list.list_main_title}} <strong>{{item.title}}</strong></a></li>
                     {% endfor %}
                 </ul>
                 </li>
@@ -72,10 +72,10 @@
                     </figure>
                     {{ page.intro | markdownify }}
                 </div>
-                <div class="beam-item b-size-2 beam-rail  review-sidebar">      	
+                <div class="beam-item b-size-2 beam-rail  review-sidebar">
                     <div class="beam-rail-item r-height-100">
                         <div class="sticky-element">
-                        {% include parts/product-listing-boxitem-md.html product=main_product %}
+                        {% include parts/product-listing-boxitem-md.html product=main_product context=page.product_context %}
                         </div>
                     </div>
                 </div>
@@ -89,7 +89,7 @@
                         <div class="flex-container">
                         {% for product in products %}
                             <div class="flex-item" >
-                            {% include parts/product-listing-boxitem-md.html product=product %}
+                            {% include parts/product-listing-boxitem-md.html product=product context=page.product_context %}
                             </div>
                         {% endfor %}
                         </div>
@@ -99,7 +99,7 @@
 
             <div class="beam b-size-5  review-section">
             <div class="beam-item b-size-3 review-text">
-            
+
             <ins class="adsbygoogle"
                 style="display:block"
                 data-ad-format="fluid"
@@ -168,7 +168,7 @@
                 <header class="beam-item b-size-4">
                     <p  class="h-section">Polecane rankingi</p >
                 </header>
-              {% assign related_rankings = site.pages | where: 'is_hub', false | where: 'hub_name', page.hub_name %}             
+              {% assign related_rankings = site.pages | where: 'is_hub', false | where: 'hub_name', page.hub_name %}
               {% for related_ranking in related_rankings limit: 4 %}
                 <div class="beam-item b-size-1">
                     {% include parts/reviews-listing-boxitem-sm.html ranking=related_ranking %}
@@ -180,13 +180,13 @@
             <header class="beam-item b-size-4">
                 <p  class="h-section">{{site.i18n[page.lang].maybe_interesting}}</p >
             </header>
-    
+
             <!-- <div class="beam-item b-size-4"> -->
               {% assign random_articles = site.pages | where:"lang", page.lang | where: "layout", "ranking" | sample: 8 %}
-    
+
               {% for article in random_articles %}
                 {% assign main_keywords = article.main_keywords | sample: 1 %}
-    
+
                 {% if main_keywords %}
                   <a href="{{ article.url | prepend: site.baseurl }}" class="btn btn-sm btn-link">{{ main_keywords }}</a>
                 {% endif %}
@@ -198,7 +198,7 @@
 
 
   {% include footer.html %}
-  
+
   {% include stickby-sidebar.html %}
   {% include stickby-element.html %}
 
