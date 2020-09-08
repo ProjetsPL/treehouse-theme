@@ -20,7 +20,7 @@ layout: amp
         <time class="amp-post__date " datetime="{{ page.date | date_to_xmlschema }}">{{ site.i18n[page.lang].updated }}: {{page.update_date | date: '%d-%m-%Y'}}</time>
         <h1 class="amp-post__title">{{ page.title | escape }}</h1>
         <p>{{ page.intro }}</p>
-        {% if page.post_list.display %}
+        {% if page.is_hub %}
         <nav class="beam-item b-size-5 posts-nav">
           <ul class="beam b-size-3 posts-nav-lvl-1">
               {% assign post_list_categories = page.post_list.categories%}
