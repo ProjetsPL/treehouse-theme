@@ -16,6 +16,7 @@ intro: Ein Wohnzimmer ist der besondere Ort in einem Haus - dort verbringt man d
   sich inspirieren und wählen Sie die perfekte Wohnzimmerbeleuchtung.
 image: "/uploads/lampy-do-salonu-9-pomyslow.jpg"
 related_products: []
+belongs_to_hub: false
 
 ---
 ## Wohnzimmerbeleuchtung - modern und minimalistisch

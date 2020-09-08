@@ -785,6 +785,50 @@ q {
         }
     }
 }
+.posts-nav {
+    margin-top: 30px;
+    .posts-nav-lvl-1 {
+        list-style: none;
+        display: flex;
+        flex-wrap: wrap;
+        >li {
+            padding-right: 30px;
+            min-width: 300px;
+            flex-grow: 1;
+            flex-shrink: 0;
+            margin-bottom: 30px;
+            .title {
+                display: block;
+                padding-left: 0px;
+                position: relative;
+                margin-bottom: 20px;
+            }
+            .posts-nav-lvl-2 {
+                list-style: none;
+                padding-left: 30px;
+                margin-left: 0px;
+                border-left: 1px solid $gray-2;
+                > li {
+                    &:first-child {
+                        a {
+                            padding-top: 0px;
+                        }
+                    }
+                    &:last-child {
+                        a {
+                            padding-bottom: 0px;
+                        }
+                    }
+                    a {
+                        display: block;
+                        padding: 7px 0;
+                        line-height: 20px;
+                    }
+                }
+            }
+        }
+    }
+}
 
 .publication-author {
     display: flex;

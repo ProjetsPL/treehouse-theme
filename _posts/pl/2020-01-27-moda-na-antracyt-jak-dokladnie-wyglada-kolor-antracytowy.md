@@ -26,7 +26,8 @@ related_products:
 - _products/pl/lampy/lampka-biurkowa-led-karina.md
 - _products/pl/lampy/lampa-sufitowa-led-sputnik-zewnetrzna-ø-9-cm.md
 
-# new
+belongs_to_hub: false
+
 use_related_products: false
 products_quantity:  5
 products_category: 

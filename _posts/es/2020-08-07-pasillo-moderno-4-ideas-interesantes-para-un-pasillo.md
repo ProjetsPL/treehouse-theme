@@ -16,6 +16,7 @@ intro: "¿Deseando ser el dueño de un pasillo moderno? Independientemente de si
   consejos que le facilitarán la tarea."
 image: "/uploads/nowoczesny-przedpokoj.jpg"
 related_products: []
+belongs_to_hub: false
 
 ---
 ## ¿Cómo decorar un pequeño pasillo?

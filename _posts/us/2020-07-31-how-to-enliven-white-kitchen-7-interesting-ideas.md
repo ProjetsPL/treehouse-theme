@@ -22,6 +22,7 @@ intro: A white kitchen is a classic and timeless design – always trendy. It's 
   All you need is a couple of small modifications.
 image: "/uploads/biala-kuchnia-jak-ja-ozywic.jpg"
 related_products: []
+belongs_to_hub: false
 
 ---
 ## A white kitchen with a unique pattern on the wall

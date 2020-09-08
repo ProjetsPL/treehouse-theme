@@ -32,7 +32,26 @@
             </div>
             <h1>{{ page.title }}</h1>
 
-            {{ page.intro }}
+            <p>{{ page.intro }}</p>
+          
+            {% if page.is_hub%}
+              <nav class="posts-nav">
+                <ul class="posts-nav-lvl-1">
+                    {% assign post_list_categories = page.post_list.categories%}
+                    {% for item in post_list_categories%}
+                    <li class="">
+                    <span class="title">{{page.post_list.list_main_title}} <b>{{item.title}}</b></span>
+                    <ul class="posts-nav-lvl-2 ">
+                        {% assign categorie_list = item.list %}
+                        {% for item in categorie_list%}
+                        <li><a href="{{item.link}}" title="{{page.post_list.list_main_title}} {{item.title}}">{{page.post_list.list_main_title}} <strong>{{item.title}}</strong></a></li>
+                        {% endfor %}
+                    </ul>
+                    </li>
+                    {% endfor %}
+                </ul>
+              </nav>
+            {% endif %}
 
             <figure>
               {% if page.image %}
@@ -73,6 +92,15 @@
           </div>
 
           {{ content | inject_anchors | inject_ads }}
+         
+            <!-- {% assign posts_belongs_to_hub = site.posts | where: "belongs_to_hub", true | where: "lang", page.lang %}
+            {% for post in posts_belongs_to_hub %}
+              {% for item in post.categories %}
+                {% if item == page.hub_name %}   
+                  <a href="{{post.url}}"> {{post.title}}</a><br>
+                {% endif %}
+              {% endfor %}
+            {% endfor %} -->
 
           <ins class="adsbygoogle"
               style="display:block"

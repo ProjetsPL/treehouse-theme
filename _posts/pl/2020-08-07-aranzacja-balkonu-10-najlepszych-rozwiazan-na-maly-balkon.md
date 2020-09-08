@@ -26,6 +26,9 @@ intro: Mały balkon - szczególnie w mieszkaniach zlokalizowanych w dużych mias
 image: "/uploads/aranzacja-balkonu-10-najlepszych-rozwiazan-na-maly-balkon-treehouse.jpg"
 related_products: []
 
+belongs_to_hub: true
+categories: 
+  - balkony
 ---
 ## Wykorzystaj mały balkon na kącik czytelniczy
 

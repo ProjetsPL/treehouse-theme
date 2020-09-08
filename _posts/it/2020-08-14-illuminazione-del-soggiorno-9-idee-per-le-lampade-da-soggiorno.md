@@ -17,6 +17,7 @@ intro: Il soggiorno è il luogo speciale di una casa - è lì che si passa la ma
   e scegliete l'illuminazione perfetta per il soggiorno.
 image: "/uploads/lampy-do-salonu-9-pomyslow.jpg"
 related_products: []
+belongs_to_hub: false
 
 ---
 ## Illuminazione del soggiorno - moderna e minimalista

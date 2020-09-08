@@ -15,6 +15,7 @@ intro: Eine weiße Küche ist ein klassisches und zeitloses Design - immer im Tr
   kleine Modifikationen.
 image: "/uploads/biala-kuchnia-jak-ja-ozywic.jpg"
 related_products: []
+belongs_to_hub: false
 
 ---
 ## Eine weiße Küche mit einem einzigartigen Muster an der Wand

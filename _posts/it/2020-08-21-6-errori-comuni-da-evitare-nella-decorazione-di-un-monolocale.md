@@ -20,6 +20,7 @@ intro: 'Hai appena iniziato la tua vita da adulto e vuoi diventare indipendente 
   i più comuni, in modo da poterli evitare facilmente.'
 image: "/uploads/male-mieszkanie-bledy-podczas-jego-urzadzania.jpg"
 related_products: []
+belongs_to_hub: false
 
 ---
 ## Evitare questi errori quando si decora un monolocale

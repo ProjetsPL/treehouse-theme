@@ -15,6 +15,7 @@ intro: Sind Sie auf der Suche nach einer Einrichtungsidee? Sind Sie an den ausge
   und schaffen Sie ein außergewöhnliches Interieur.
 image: "/uploads/cegla-na-scianie.jpg"
 related_products: []
+belongs_to_hub: false
 
 ---
 ## Backsteinwand in einem Wohnzimmer - ein minimalistisches Design mit Kontrast

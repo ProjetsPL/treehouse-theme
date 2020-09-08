@@ -25,7 +25,8 @@ intro: Zależy Ci, aby urządzić nowoczesny przedpokój? Niezależnie od tego, 
 image: "/uploads/nowoczesny-przedpokoj.jpg"
 related_products: []
 
-## new
+belongs_to_hub: false
+
 products_quantity: 3
 products_category:
   - materace

@@ -21,6 +21,7 @@ intro: La Navidad está por llegar, es hora de que pienses en cómo debería ser
   arreglos.
 image: "/uploads/stol-wigilijny.jpg"
 related_products: []
+belongs_to_hub: false
 
 ---
 ## Mesa de Navidad dorada

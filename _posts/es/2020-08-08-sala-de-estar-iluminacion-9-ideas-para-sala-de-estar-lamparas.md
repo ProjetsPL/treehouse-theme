@@ -15,6 +15,7 @@ intro: Una sala de estar es el lugar especial de una casa, es donde uno pasa la 
   algo de inspiración y elige la iluminación perfecta para la sala de estar.
 image: "/uploads/lampy-do-salonu-9-pomyslow.jpg"
 related_products: []
+belongs_to_hub: false
 
 ---
 ## Iluminación de la sala de estar - moderna y minimalista

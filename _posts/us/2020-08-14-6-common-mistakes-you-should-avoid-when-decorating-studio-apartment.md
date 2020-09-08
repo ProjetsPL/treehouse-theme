@@ -27,6 +27,7 @@ intro: 'Have you just begun your adult life, and you want to get independent qui
   ones, so you can easily avoid them.'
 image: "/uploads/male-mieszkanie-bledy-podczas-jego-urzadzania.jpg"
 related_products: []
+belongs_to_hub: false
 
 ---
 ## Avoid those mistakes when decorating a studio apartment

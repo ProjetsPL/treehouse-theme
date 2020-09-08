@@ -18,6 +18,7 @@ intro: "¿Acabas de empezar tu vida adulta y quieres independizarte rápidamente
   evitarlos fácilmente."
 image: "/uploads/male-mieszkanie-bledy-podczas-jego-urzadzania.jpg"
 related_products: []
+belongs_to_hub: false
 
 ---
 ## Evita esos errores al decorar un estudio

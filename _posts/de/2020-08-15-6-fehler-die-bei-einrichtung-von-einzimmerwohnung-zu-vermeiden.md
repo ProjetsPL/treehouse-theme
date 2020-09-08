@@ -17,6 +17,7 @@ intro: 'Haben Sie Ihr Erwachsenenleben gerade erst begonnen und wollen sich schn
   können.'
 image: "/uploads/male-mieszkanie-bledy-podczas-jego-urzadzania.jpg"
 related_products: []
+belongs_to_hub: false
 
 ---
 ## Vermeiden Sie solche Fehler bei der Einrichtung einer Einzimmerwohnung

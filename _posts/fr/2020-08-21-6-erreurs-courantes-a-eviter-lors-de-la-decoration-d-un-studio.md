@@ -19,6 +19,7 @@ intro: 'Vous venez de commencer votre vie d''adulte et vous souhaitez devenir ra
   facilement.'
 image: "/uploads/male-mieszkanie-bledy-podczas-jego-urzadzania.jpg"
 related_products: []
+belongs_to_hub: false
 
 ---
 ## Éviter ces erreurs lors de la décoration d'un studio

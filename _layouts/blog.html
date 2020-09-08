@@ -25,7 +25,7 @@
                             <p>{{page.intro}}</p>
                         </div>
     
-                        {% assign articles = site.posts | where:"lang", page.lang %}
+                        {% assign articles = site.posts | where: "belongs_to_hub", false | where:"lang", page.lang %}
                         {% assign i = 0 %}
     
                         {% for article in articles %}

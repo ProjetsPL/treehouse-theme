@@ -19,6 +19,14 @@
                     {% for item in blog %}
                         <li><a href="{{item.url}}">{{item.page_name}}</a></li>
                     {% endfor %}
+                    {% if page.belongs_to_hub %}
+                        {% for item in page.categories %}
+                            {% assign post_hubs = site.posts | where: "hub_name", item %}
+                            {% for post_hub in post_hubs%}
+                                <li><a href="{{post_hub.url}}">{{post_hub.title}}</a></li>
+                            {% endfor %}             
+                        {% endfor %}     
+                    {% endif %}
                 {% endif %}       
 
 

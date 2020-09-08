@@ -16,6 +16,7 @@ intro: Le salon est l'endroit spécial de la maison, c'est là que l'on passe la
   choisissez le parfait éclairage de salon.
 image: "/uploads/lampy-do-salonu-9-pomyslow.jpg"
 related_products: []
+belongs_to_hub: false
 
 ---
 ## L'éclairage du salon - moderne et minimaliste

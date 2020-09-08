@@ -90,8 +90,8 @@ defaults:
     values:
       lang: "us"
       full-lang: 'en-US'
-      categories: "us"
-      permalink: /:categories/blog/:title:output_ext
+      # categories: "us"
+      permalink: /us/blog/:categories/:title:output_ext
   -
     scope:
       path: "_products/us"
@@ -104,15 +104,15 @@ defaults:
     values:
       lang: "us"
       full-lang: "en-US"
-      categories: "us"
-      permalink: /:categories/events/:title:output_ext
+      # categories: "us"
+      permalink: /us/events/:title:output_ext
   -
     scope:
       path: "_products_listings/us"
     values:
       lang: "us"
       full-lang: "en-US"
-      categories: "us"
+      # categories: "us"
       permalink: /:path:output_ext
   -
     scope:
@@ -132,8 +132,8 @@ defaults:
     values:
       lang: "de"
       full-lang: 'de-DE'
-      categories: "de"
-      permalink: /:categories/blog/:title:output_ext
+      # categories: "de"
+      permalink: /de/blog/:categories/:title:output_ext
   -
     scope:
       path: "_products/de"
@@ -146,15 +146,15 @@ defaults:
     values:
       lang: "de"
       full-lang: "de-DE"
-      categories: "de"
-      permalink: /:categories/veranstaltungen/:title:output_ext
+      # categories: "de"
+      permalink: /de/veranstaltungen/:title:output_ext
   -
     scope:
       path: "_products_listings/de"
     values:
       lang: "de"
       full-lang: "de-DE"
-      categories: "de"
+      # categories: "de"
       permalink: /:path:output_ext
   -
     scope:
@@ -174,8 +174,8 @@ defaults:
     values:
       lang: "fr"
       full-lang: 'fr-FR'
-      categories: "fr"
-      permalink: /:categories/blog/:title:output_ext
+      # categories: "fr"
+      permalink: /fr/blog/:categories/:title:output_ext
   -
     scope:
       path: "_products/fr"
@@ -188,15 +188,15 @@ defaults:
     values:
       lang: "fr"
       full-lang: "fr-FR"
-      categories: "fr"
-      permalink: /:categories/evenements/:title:output_ext
+      # categories: "fr"
+      permalink: /fr/evenements/:title:output_ext
   -
     scope:
       path: "_products_listings/fr"
     values:
       lang: "fr"
       full-lang: "fr-FR"
-      categories: "fr"
+      # categories: "fr"
       permalink: /:path:output_ext
   -
     scope:
@@ -216,8 +216,8 @@ defaults:
     values:
       lang: "es"
       full-lang: 'es-ES'
-      categories: "es"
-      permalink: /:categories/blog/:title:output_ext
+      # categories: "es"
+      permalink: /es/blog/:categories/:title:output_ext
   -
     scope:
       path: "_products/es"
@@ -230,15 +230,15 @@ defaults:
     values:
       lang: "es"
       full-lang: "es-ES"
-      categories: "es"
-      permalink: /:categories/eventos/:title:output_ext
+      # categories: "es"
+      permalink: /es/eventos/:title:output_ext
   -
     scope:
       path: "_products_listings/es"
     values:
       lang: "es"
       full-lang: "es-ES"
-      categories: "es"
+      # categories: "es"
       permalink: /:path:output_ext
   -
     scope:
@@ -258,8 +258,8 @@ defaults:
     values:
       lang: "it"
       full-lang: 'it-IT'
-      categories: "it"
-      permalink: /:categories/blog/:title:output_ext
+      # categories: "it"
+      permalink: /it/blog/:categories/:title:output_ext
   -
     scope:
       path: "_products/it"
@@ -272,15 +272,15 @@ defaults:
     values:
       lang: "it"
       full-lang: "it-IT"
-      categories: "it"
-      permalink: /:categories/eventi/:title:output_ext
+      # categories: "it"
+      permalink: /it/eventi/:title:output_ext
   -
     scope:
       path: "_products_listings/it"
     values:
       lang: "it"
       full-lang: "it-IT"
-      categories: "it"
+      # categories: "it"
       permalink: /:path:output_ext
   -
     scope:
@@ -300,8 +300,8 @@ defaults:
     values:
       lang: "pl"
       full-lang: "pl"
-      categories: "pl"
-      permalink: /:categories/blog/:title:output_ext
+      # categories: "pl"
+      permalink: /pl/blog/:categories/:title:output_ext
   -
     scope:
       path: "_products/pl"
@@ -314,15 +314,15 @@ defaults:
     values:
       lang: "pl"
       full-lang: "pl"
-      categories: "pl"
-      permalink: /:categories/wydarzenia/:title:output_ext
+      # categories: "pl"
+      permalink: /pl/wydarzenia/:title:output_ext
   -
     scope:
       path: "_products_listings/pl"
     values:
       lang: "pl"
       full-lang: "pl"
-      categories: "pl"
+      # categories: "pl"
       permalink: /:path:output_ext
   -
     scope:

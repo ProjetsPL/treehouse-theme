@@ -23,7 +23,9 @@ intro: 'Zaczynasz dorosłe życie i chcesz szybko się usamodzielnić? Dobrym ro
 image: "/uploads/male-mieszkanie-bledy-podczas-jego-urzadzania.jpg"
 related_products: []
 
-## new
+belongs_to_hub: true
+categories: "balkony"
+
 products_quantity: 10
 products_category:
 products_tags: 

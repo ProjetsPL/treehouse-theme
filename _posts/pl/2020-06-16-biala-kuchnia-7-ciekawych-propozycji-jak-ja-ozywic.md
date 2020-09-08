@@ -27,7 +27,8 @@ intro: Biała kuchnia to klasyczne i ponadczasowe rozwiązanie, które sprawdza 
 image: "/uploads/biala-kuchnia-jak-ja-ozywic.jpg"
 related_products: []
 
-## new
+belongs_to_hub: false
+
 products_quantity: 3
 products_category:
 products_tags: 

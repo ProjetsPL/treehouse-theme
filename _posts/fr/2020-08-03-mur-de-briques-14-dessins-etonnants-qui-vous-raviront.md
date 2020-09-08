@@ -15,6 +15,7 @@ intro: Vous cherchez une idée de décoration intérieure ? Vous êtes intéress
   un intérieur extraordinaire.
 image: "/uploads/cegla-na-scianie.jpg"
 related_products: []
+belongs_to_hub: false
 
 ---
 ## Mur de briques dans un salon - un design minimaliste et contrasté

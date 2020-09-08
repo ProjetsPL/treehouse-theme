@@ -25,6 +25,7 @@ intro: A living room is the special place in a house - that's where one spends m
   the perfect living room lighting.
 image: "/uploads/lampy-do-salonu-9-pomyslow.jpg"
 related_products: []
+belongs_to_hub: false
 
 ---
 ## Living room lighting - modern and minimalistic

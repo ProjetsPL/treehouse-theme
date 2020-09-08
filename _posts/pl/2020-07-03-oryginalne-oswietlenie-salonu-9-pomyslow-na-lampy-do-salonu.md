@@ -26,7 +26,8 @@ intro: Salon to wyjątkowe miejsce w domu, gdzie niemal każdy spędza większą
 image: "/uploads/lampy-do-salonu-9-pomyslow.jpg"
 related_products: []
 
-## new
+belongs_to_hub: false
+
 products_quantity: 12
 products_category:
 products_tags: 

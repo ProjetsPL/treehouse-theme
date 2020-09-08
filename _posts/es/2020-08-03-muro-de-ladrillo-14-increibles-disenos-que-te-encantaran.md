@@ -15,6 +15,7 @@ intro: "¿Está buscando una idea para la decoración de interiores? ¿Está int
   extraordinario."
 image: "/uploads/cegla-na-scianie.jpg"
 related_products: []
+belongs_to_hub: false
 
 ---
 ## Pared de ladrillo en una sala de estar - un diseño minimalista con contraste

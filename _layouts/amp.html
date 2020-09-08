@@ -19,6 +19,25 @@ layout: amp
       <article class="amp-post">
         <time class="amp-post__date " datetime="{{ page.date | date_to_xmlschema }}">{{ site.i18n[page.lang].updated }}: {{page.update_date | date: '%d-%m-%Y'}}</time>
         <h1 class="amp-post__title">{{ page.title | escape }}</h1>
+        <p>{{ page.intro }}</p>
+        {% if page.post_list.display %}
+        <nav class="beam-item b-size-5 posts-nav">
+          <ul class="beam b-size-3 posts-nav-lvl-1">
+              {% assign post_list_categories = page.post_list.categories%}
+              {% for item in post_list_categories%}
+              <li class="beam-item b-size-1">
+              <span class="title">{{page.post_list.list_main_title}} <b>{{item.title}}</b></span>
+              <ul class="posts-nav-lvl-2 ">
+                  {% assign categorie_list = item.list %}
+                  {% for item in categorie_list%}
+                  <li><a href="{{item.link}}" title="{{page.post_list.list_main_title}} {{item.title}}">{{page.post_list.list_main_title}} <strong>{{item.title}}</strong></a></li>
+                  {% endfor %}
+              </ul>
+              </li>
+              {% endfor %}
+          </ul>
+        </nav>
+      {% endif %}
 
         {% if page.image %}
           <amp-img class="amp-post-image" src="{{site.baseurl}}{{page.image}}" alt="{{ page.title | escape }}" height="500" width="800" layout="responsive"></amp-img>

@@ -14,6 +14,7 @@ intro: Une cuisine blanche est un design classique et intemporel - toujours à l
   intérieur pour qu'il ait un aspect fantastique ? Il suffit de quelques petites modifications.
 image: "/uploads/biala-kuchnia-jak-ja-ozywic.jpg"
 related_products: []
+belongs_to_hub: false
 
 ---
 ## Une cuisine blanche avec un motif unique sur le mur

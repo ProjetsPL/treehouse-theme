@@ -14,6 +14,7 @@ intro: Siete alla ricerca di un'idea di arredamento d'interni? Siete interessati
   più interessanti con un muro di mattoni. Ispiratevi e create un interno straordinario.
 image: "/uploads/cegla-na-scianie.jpg"
 related_products: []
+belongs_to_hub: false
 
 ---
 ## Parete in mattoni in un soggiorno - un design minimalista con contrasto

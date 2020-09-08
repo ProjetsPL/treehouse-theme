@@ -24,6 +24,7 @@ intro: Wishing to be an owner of a modern hallway? Regardless whether your inter
   easier for you.
 image: "/uploads/nowoczesny-przedpokoj.jpg"
 related_products: []
+belongs_to_hub: false
 
 ---
 ## How to decorate a small hallway?

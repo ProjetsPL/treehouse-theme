@@ -14,6 +14,7 @@ intro: Una cocina blanca es un diseño clásico y atemporal, siempre de moda. Es
   Todo lo que necesitas es un par de pequeñas modificaciones.
 image: "/uploads/biala-kuchnia-jak-ja-ozywic.jpg"
 related_products: []
+belongs_to_hub: false
 
 ---
 ## Una cocina blanca con un patrón único en la pared

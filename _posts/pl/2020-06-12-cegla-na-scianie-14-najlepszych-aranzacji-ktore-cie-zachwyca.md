@@ -19,7 +19,8 @@ intro: Czeka Cię wykończenie domu? Szukasz niebanalnych pomysłów na aranżac
 image: "/uploads/cegla-na-scianie.jpg"
 related_products: []
 
-## new
+belongs_to_hub: false
+
 products_quantity: 3
 products_category:
   - materace

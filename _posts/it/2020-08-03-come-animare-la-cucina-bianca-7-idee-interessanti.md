@@ -14,6 +14,7 @@ intro: Una cucina bianca è un design classico e senza tempo - sempre alla moda.
   aspetto fantastico? Tutto ciò che serve sono un paio di piccole modifiche.
 image: "/uploads/biala-kuchnia-jak-ja-ozywic.jpg"
 related_products: []
+belongs_to_hub: false
 
 ---
 ## Una cucina bianca con un motivo unico alla parete
