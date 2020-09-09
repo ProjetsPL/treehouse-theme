@@ -29,8 +29,13 @@
 {% assign product_final_name = product_context | append: " " | append: product_name  %}
 {% assign product_final_properties = product_properties | remove: ","  %}
 
-<a href="{{ include.product.url }}" class="product-link-wrapper" rel="nofollow noopener" target="_blank"
-    onClick="reply_click(this.getAttribute('data-link'))" data-link="{{include.product.links[0]['next-url'] }}{{include.product.links['next-url'] }}">
+
+{%if include.product.links[0].url or include.product.links.url }}%}
+<a href="{{ include.product.url }}" target="_blank" class="product-link-wrapper" rel="nofollow noopener"  onClick="reply_click(this.getAttribute('data-link'))" data-link="{{include.product.links[0]['next-url'] }}{{include.product.links['next-url'] }}">
+{%else%}
+<div class="product-link-wrapper">
+{%endif%}
+
 
     {% if include.product.distinction == 'our_choice'%}
     <div class="product-listing-boxitem-md label label-strong label-danger arrow-{{include.arrow}}">
@@ -95,4 +100,8 @@
 
     </div>
 
+{%if include.product.links[0].url or include.product.links.url }}%}
 </a>
+{%else%}
+</div>
+{%endif%}
