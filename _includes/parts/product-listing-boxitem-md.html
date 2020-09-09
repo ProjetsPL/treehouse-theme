@@ -29,7 +29,7 @@
 {% assign product_final_name = product_context | append: " " | append: product_name  %}
 {% assign product_final_properties = product_properties | remove: ","  %}
 
-<a href="{{ include.product.links[0].url }}{{ include.product.links.url }}" class="product-link-wrapper" rel="nofollow noopener" target="_blank"
+<a href="{{ include.product.url }}" class="product-link-wrapper" rel="nofollow noopener" target="_blank"
     onClick="reply_click(this.getAttribute('data-link'))" data-link="{{include.product.links[0]['next-url'] }}{{include.product.links['next-url'] }}">
 
     {% if include.product.distinction == 'our_choice'%}

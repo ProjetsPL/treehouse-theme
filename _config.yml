@@ -31,7 +31,7 @@ collections:
   posts:
     output: false
   products:
-    output: false
+    output: true
   events:
     output: true
   products_listings:
@@ -98,6 +98,9 @@ defaults:
     values:
       lang: "us"
       full-lang: "en-US"
+      permalink: /us/go/:title:output_ext
+      layout: product
+      sitemap: false
   -
     scope:
       path: "_events/us"
@@ -140,6 +143,9 @@ defaults:
     values:
       lang: "de"
       full-lang: "de-DE"
+      permalink: /de/go/:title:output_ext
+      layout: product
+      sitemap: false
   -
     scope:
       path: "_events/de"
@@ -182,6 +188,9 @@ defaults:
     values:
       lang: "fr"
       full-lang: "fr-FR"
+      permalink: /fr/go/:title:output_ext
+      layout: product
+      sitemap: false
   -
     scope:
       path: "_events/fr"
@@ -224,6 +233,9 @@ defaults:
     values:
       lang: "es"
       full-lang: "es-ES"
+      permalink: /es/go/:title:output_ext
+      layout: product
+      sitemap: false
   -
     scope:
       path: "_events/es"
@@ -266,6 +278,9 @@ defaults:
     values:
       lang: "it"
       full-lang: "it-IT"
+      permalink: /it/go/:title:output_ext
+      layout: product
+      sitemap: false
   -
     scope:
       path: "_events/it"
@@ -308,6 +323,9 @@ defaults:
     values:
       lang: "pl"
       full-lang: "pl"
+      permalink: /pl/go/:title:output_ext
+      layout: product
+      sitemap: false
   -
     scope:
       path: "_events/pl"
