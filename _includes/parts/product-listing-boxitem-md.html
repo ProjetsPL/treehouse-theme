@@ -31,7 +31,7 @@
 
 
 {%if include.product.links[0].url or include.product.links.url }}%}
-<a href="{{ include.product.url }}" target="_blank" class="product-link-wrapper" rel="nofollow noopener"  onClick="reply_click(this.getAttribute('data-link'))" data-link="{{include.product.links[0]['next-url'] }}{{include.product.links['next-url'] }}">
+<a href="{{ include.product.url }}" target="_blank" class="product-link-wrapper" rel="nofollow noopener"  onClick="reply_click(this.getAttribute('data-link'))" data-link="{{include.product.links[0]['next-url'] }}{{include.product.links['next-url'] }}" data-product_name="{{include.product.name}}" data-product_category="{{include.product.category}}" data-product_type="{{include.product.properties.type}}" >
 {%else%}
 <div class="product-link-wrapper">
 {%endif%}
