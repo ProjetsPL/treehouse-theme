@@ -38,9 +38,15 @@
                             <div class="flex-wrapper">
                               <ul class="flex-container">
                                 {% for item in random_products %}
-                                    <li class="flex-item" >
-                                    {% include parts/product-listing-boxitem-md.html product=item context=page.product_context   title_tag="h2" %}
-                                    </li>
+                                    {% if page.seo_section%}
+                                        <li class="flex-item" >
+                                            {% include parts/product-listing-boxitem-md.html product=item context=page.product_context   title_tag="p" %}
+                                        </li>
+                                    {%else%}
+                                        <li class="flex-item" >
+                                            {% include parts/product-listing-boxitem-md.html product=item context=page.product_context   title_tag="h2" %}
+                                        </li>
+                                    {% endif %}
                                 {% endfor %}
                               </ul>
                             </div>
