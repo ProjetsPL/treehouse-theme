@@ -326,6 +326,7 @@ defaults:
       permalink: /pl/go/:title:output_ext
       layout: product
       sitemap: false
+      canonical_url: /pl/produkty.html
   -
     scope:
       path: "_events/pl"
