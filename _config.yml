@@ -106,6 +106,7 @@ defaults:
       permalink: /us/go/:title:output_ext
       layout: product
       sitemap: false
+      canonical_url: https://treehouse.co/us/products.html
   -
     scope:
       path: "_events/us"
@@ -151,6 +152,7 @@ defaults:
       permalink: /de/go/:title:output_ext
       layout: product
       sitemap: false
+      canonical_url: https://treehouse.co/de/produkte.html
   -
     scope:
       path: "_events/de"
@@ -196,6 +198,7 @@ defaults:
       permalink: /fr/go/:title:output_ext
       layout: product
       sitemap: false
+      canonical_url: https://treehouse.co/fr/produits.html
   -
     scope:
       path: "_events/fr"
@@ -241,6 +244,7 @@ defaults:
       permalink: /es/go/:title:output_ext
       layout: product
       sitemap: false
+      canonical_url: https://treehouse.co/es/productos.html
   -
     scope:
       path: "_events/es"
@@ -286,6 +290,7 @@ defaults:
       permalink: /it/go/:title:output_ext
       layout: product
       sitemap: false
+      canonical_url: https://treehouse.co/it/prodotti.html
   -
     scope:
       path: "_events/it"
@@ -331,7 +336,7 @@ defaults:
       permalink: /pl/go/:title:output_ext
       layout: product
       sitemap: false
-      canonical_url: /pl/produkty.html
+      canonical_url: https://treehouse.co/pl/produkty.html
   -
     scope:
       path: "_events/pl"
