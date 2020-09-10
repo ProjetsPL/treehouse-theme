@@ -12,12 +12,48 @@
 
   {% include alternate.html %}
   {% include amp.html %}
-
   {% treehouseseo %}
-
   {% include pwa.html %}
 
-  <meta name="google-site-verification" content="85fd8fxFGicXrGYGnfbLgOJYGeLdrnF4obSdotY4D48" />
-  <script data-ad-client="ca-pub-2667869260064660" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   <!-- Main Stylesheet -->
   <link href="{{ site.baseurl }}/assets/css/global.css?v=3" rel="stylesheet">
+  <!-- End - Main Stylesheet -->
+
+  <!-- Google AdSense -->
+  <script data-ad-client="ca-pub-2667869260064660" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- End - Google AdSense -->
+
+  {% if site.scvarificationnumber %}
+    <!-- Google Search Console -->
+      <meta name="google-site-verification" content="{{site.scvarificationnumber}}" />
+    <!-- End Google Search Console -->    
+  {% endif %}
+
+  {% if site.analyticsvarificationnumber %}
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{site.analyticsvarificationnumber}}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', '{{site.analyticsvarificationnumber}}');
+    </script>
+    <!-- End Google Analytics -->
+  {% endif %}
+
+  {% if site.gtagmanagervarificationnumber %}
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','{{site.gtagmanagervarificationnumber}}');</script> 
+    <!-- End Google Tag Manager -->
+  {% endif %}
+
+  {% if site.optimizevarificationnumber %}
+    <!-- Google Optimie -->
+    <script src="https://www.googleoptimize.com/optimize.js?id={{site.optimizevarificationnumber}}"></script>
+    <!-- End Google Optimie -->
+  {% endif %}

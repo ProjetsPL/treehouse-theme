@@ -5,6 +5,11 @@ logo: '/assets/img/logo.png'
 logo_svg: '/assets/img/logo.svg'
 icon: '/assets/img/01.png'
 
+scvarificationnumber: scvarificationnumber
+analyticsvarificationnumber: analyticsvarificationnumber
+gtagmanagervarificationnumber: gtagmanagervarificationnumber
+optimizevarificationnumber: optimizevarificationnumber 
+
 exclude:
   - config
   - plugins
