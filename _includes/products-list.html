@@ -1,0 +1,102 @@
+
+{% assign products_categories = include.categories | split: ', ' %}
+{% assign products_tags = include.tags | split: ', ' %}
+{% assign property_values = include.property_values | split: ', ' %}
+
+{%assign products_with_lang = site.products | where: "lang" , page.lang %}
+{% assign products_collection = products_with_lang%}
+
+
+{% if   include.categories.size > 0  %}                   
+
+    {% assign products_path_array = '' | split: ',' %}        
+    {% for post_category in products_categories  %}
+        {% for product in products_collection %}
+            {% for product_category in product.category  %}
+                {% if product_category == post_category %}
+                    {% assign path_handle = product.path  | split: ',' %}
+                    {% assign products_path_array = products_path_array | concat: path_handle %}
+                {% endif %}
+            {% endfor%}
+        {% endfor %}
+    {% endfor %}                    
+    {% assign products_path_array = products_path_array | uniq %}
+    
+    {% assign products_collection = '' | split: ',' %}        
+    {% for item in products_path_array %}
+        {% assign found_product = site.products | where: "path" , item %}
+        {% assign products_collection = products_collection  | concat: found_product %}
+    {% endfor %}
+    
+
+{% endif %}
+{% if  include.tags.size > 0  %}                       
+    
+    {% assign products_path_array = '' | split: ',' %}        
+    {% for post_tag in products_tags  %}
+        {% for product in products_collection %}
+            {% for product_tag in product.tags %}                      
+                {% if product_tag == post_tag %}
+                    {% assign path_handle = product.path  | split: ',' %}
+                    {% assign products_path_array = products_path_array | concat: path_handle %}
+                {% endif %}
+            {% endfor%}
+        {% endfor %}
+    {% endfor %}                   
+    {% assign products_path_array = products_path_array | uniq %}
+    
+    {% assign products_collection = '' | split: ',' %}        
+    {% for item in products_path_array %}
+        {% assign found_product = site.products | where: "path" , item %}
+        {% assign products_collection = products_collection  | concat: found_product %}
+    {% endfor %}     
+
+{% endif %}
+{% if  include.property_values.size > 0 and include.property.size > 0  %}       
+
+    {% assign products_path_array = '' | split: ',' %}
+    {% assign property_name = include.property %}           
+    {% for item in property_values  %}
+        {%assign post_value = item | downcase %}
+        {% for product in products_collection %}        
+            {% for property in product.properties %}                                
+                    {% if property[0] ==  property_name %}     
+                        {%assign matching_property_values = property[1] | downcase | split: ", " %}     
+                        {% for value  in matching_property_values %}
+                            {% if value == post_value %}
+                                {% assign path_handle = product.path  | split: ',' %}
+                                {% assign products_path_array = products_path_array | concat: path_handle %}
+                            {%endif%}
+                        {% endfor %}            
+                    {%endif%}
+            {% endfor %}           
+        {% endfor %}
+    {%endfor%}
+    {% assign products_path_array = products_path_array | uniq %}
+    
+    {% assign products_collection = '' | split: ',' %}        
+    {% for item in products_path_array %}
+        {% assign found_product = site.products | where: "path" , item %}
+        {% assign products_collection = products_collection  | concat: found_product %}
+    {% endfor %}
+
+{%endif%}         
+
+
+{% if products_collection.size>10 %}
+    {% assign mixed_products_collection = products_collection | sample: 7 %}
+{% elsif products_collection.size == 1 %}
+    {% assign mixed_products_collection = products_collection %}      
+{% else %}
+    {% assign mixed_products_collection = products_collection | sample: products_collection.size %}        
+{% endif %}
+
+<div class="flex-wrapper  {{include.type}}">
+    <div class="flex-container">
+        {% for item in mixed_products_collection %}
+            <div class="flex-item" >
+                {% include parts/product-listing-boxitem-md.html product=item%}
+            </div>
+        {%endfor%}     
+    </div>
+</div>

@@ -49,6 +49,8 @@ property_value:
 
 Antracyt to bardzo intrygująca barwa. Na czym polega tak naprawdę jego fenomen? Jest on zbliżony do czerni, jednak ma wyraźnie jaśniejszy odcień. To czyni go wyjątkowym.
 
+{% include products-list.html type="nowrap" categories="lampy"  tags="" property="color" property_values="zielony"%}
+
 ## Czy antracyt pasuje do domowych aranżacji wnętrz?
 
 Kolor antracytowy **doskonale pasuje do domowych wnętrz**, dlatego właśnie ten rodzaj szarego znacznie zyskał na popularności w ostatnich latach. Jest to jednak kolor dosyć trudny w zastosowaniu. **Antracytowy w aranżacji wnętrz** należy wkomponować w sposób ostrożny i umiejętny. Łatwo przytłoczyć pokój zbyt dużą ilością tej ciemnej barwy. Najlepiej stosować go w przestronnych wnętrzach. Nie oznacza to jednak, że w przypadku mniejszych pomieszczeń trzeba z niego całkowicie rezygnować. Warto natomiast w takim przypadku postawić na dodatki.
