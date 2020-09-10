@@ -1,8 +1,8 @@
 {% assign product_type = include.product.properties.type %}
 {% assign product_size = include.product.properties.product_size%}
 {% assign product_color = include.product.properties.color %}
-{% assign product_properties = product_type | append: ", " | append: product_size | append: ", " | append: product_color %}
-{% assign product_properties_array = product_properties  | split: ", " %}
+{% assign product_properties = product_type | append: " " | append: product_size | append: " " | append: product_color %}
+{% assign product_properties_array = product_properties | remove: "," | split: " " %}
 
 {% assign product_name = include.product.name %}
 {% assign name_array = product_name  | split: " " %}
@@ -25,6 +25,16 @@
         {% endfor %}
     {%endfor%}    
 {% endfor %}
+
+{% for name_item in  name_array %}
+    {% assign compare_name_item = name_item | downcase %}
+    {% for property_item  in product_properties_array %}
+        {% assign compare_property_item = property_item | downcase %}
+        {% if compare_property_item ==  compare_name_item%}    
+        {% assign product_name = product_name | remove: property_item %}
+        {% endif %}         
+    {% endfor %}
+{%endfor%}    
 
 {% assign product_final_name = product_context | append: " " | append: product_name  %}
 {% assign product_final_properties = product_properties | remove: ","  %}

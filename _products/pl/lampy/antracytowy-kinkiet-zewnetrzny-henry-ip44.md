@@ -23,7 +23,7 @@ links:
   anchor: Kup od 209.90 zł
 properties:
   color: zielonY, Antracyt
-  type: poDwieszana
+  type: podwieszana
 
 #new
 tags:
