@@ -5,15 +5,7 @@
     <meta name="robots" content="noindex, nofollow">
     <meta http-equiv="refresh"  content="1; url={{ page.links[0].url }}{{ page.links.url }}">
 
-    <meta charset="utf-8">
-    <meta name="theme-color" content="#fff">
-    <!-- mobile responsive meta -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    {% treehouseseo %}
-
-    {% include pwa.html %}
+    {% include head.html %}
     
     <link href="{{ site.baseurl }}/assets/css/global.css?v=3" rel="stylesheet">
     <link href="{{ site.baseurl }}/assets/css/pages/product.css?v=3" rel="stylesheet">
@@ -21,7 +13,7 @@
 </head>
 
   <body>
-
+    {% include parts/gtagmanager.html %}
     <div class="move-box">
       <img class="logo" src="/assets/img/logo.svg" alt="{{site.title}}">
       <div class="line">
