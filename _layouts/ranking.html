@@ -88,11 +88,15 @@
                 <div class="beam-item b-size-2 beam-rail  review-sidebar">
                     <div class="beam-rail-item r-height-100">
                         <div class="sticky-element">
+                            
+            {% if products.size > 1 %}
                         {% include parts/product-listing-boxitem-md.html product=main_product context=page.product_context %}
+                        {%endif%}
                         </div>
                     </div>
                 </div>
             </div>
+            {% if products.size > 1 %}
             <div class="beam b-size-5  review-section">
                 <div class="beam-item b-size-5  review-text">
                     <h2>{{page.ranking_list_title}}</h2>
@@ -107,6 +111,7 @@
                     </div>
                 </div>
             </div>
+            {%endif%}
             {% for product in products %}
             {% include parts/product-section.html product=product context=page.product_context%}
             {% endfor %}
