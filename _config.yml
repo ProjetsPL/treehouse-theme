@@ -9,6 +9,7 @@ scvarificationnumber: scvarificationnumber
 analyticsvarificationnumber: analyticsvarificationnumber
 gtagmanagervarificationnumber: gtagmanagervarificationnumber
 optimizevarificationnumber: optimizevarificationnumber 
+facebookpixelnumber: facebookpixelnumber
 
 exclude:
   - config

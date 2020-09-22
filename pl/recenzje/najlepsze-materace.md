@@ -28,9 +28,9 @@ rankings_list:
     icon: type
     list:
     - title: Piankowe
-      link: "/pl/recenzje/najlepsze-materace/piankowe.html"
+      link: /pl/recenzje/najlepsze-materace/piankowe.html
     - title: Sprężynowe
-      link: "/pl/recenzje/najlepsze-materace/sprezynowe.html"
+      link: /pl/recenzje/najlepsze-materace/sprezynowe.html
     - title: Nawierzchniowe
       link: "/pl/recenzje/najlepsze-materace/nawierzchniowe.html"
   - title: wg rozmiaru
