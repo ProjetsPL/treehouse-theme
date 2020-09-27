@@ -1,28 +1,6 @@
-
-  <link rel="preload"  href="{{ site.baseurl }}/assets/css/global.css?v=3"  as="style">
-  <meta charset="utf-8">
-  <meta name="theme-color" content="#fff">
-  <!-- mobile responsive meta -->
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="p:domain_verify" content=" "/>
-
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
-  <link rel="manifest" href="/manifest.json">
-
-  {% include alternate.html %}
-  {% include amp.html %}
-  {% treehouseseo %}
-  {% include pwa.html %}
-
-  <!-- Main Stylesheet -->
-  <link href="{{ site.baseurl }}/assets/css/global.css?v=3" rel="stylesheet">
-  <!-- End - Main Stylesheet -->
-
-
   {% if site.facebookpixelnumber %}
   <!-- Facebook Pixel Code -->
-<script>
+  <script>
   !function(f,b,e,v,n,t,s)
   {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
   n.callMethod.apply(n,arguments):n.queue.push(arguments)};
@@ -40,6 +18,25 @@
   <!-- End Facebook Pixel Code -->
   {% endif %}
 
+  <link rel="preload"  href="{{ site.baseurl }}/assets/css/global.css?v=3"  as="style">
+  <meta charset="utf-8">
+  <meta name="theme-color" content="#fff">
+  <!-- mobile responsive meta -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="p:domain_verify" content=" "/>
+  
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+  <link rel="manifest" href="/manifest.json">
+
+  {% include alternate.html %}
+  {% include amp.html %}
+  {% treehouseseo %}
+  {% include pwa.html %}
+
+  <!-- Main Stylesheet -->
+  <link href="{{ site.baseurl }}/assets/css/global.css?v=3" rel="stylesheet">
+  <!-- End - Main Stylesheet -->
 
   <!-- Google AdSense -->
   <script data-ad-client="ca-pub-2667869260064660" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
