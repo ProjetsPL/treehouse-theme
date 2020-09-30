@@ -78,5 +78,16 @@
     <!-- End Google Optimie -->
   {% endif %}
 
-
-  
+  <!-- dataLayer push -->
+  {% if page.segmenting_tags[0] %}
+  <script>
+    dataLayer.push({
+      segmenting_tags: {
+        {% for item in page.segmenting_tags  %}
+          'segmenting_tag_{{ forloop.index }}': '{{item}}',
+        {% endfor %}
+      }
+    });
+    </script>
+  {% endif %}
+  <!-- End dataLayer push -->

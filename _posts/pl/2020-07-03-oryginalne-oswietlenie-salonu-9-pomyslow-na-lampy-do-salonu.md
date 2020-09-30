@@ -12,6 +12,9 @@ main_keywords:
 - lampa sufitowa do salonu
 - salon oświetlenie
 - zyrandole do salonu
+segmenting_tags:
+- ogród zarośnięty
+- ogrodnik
 toc: true
 promoted: true
 update_date: 2020-07-03

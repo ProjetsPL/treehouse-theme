@@ -7,9 +7,9 @@ icon: '/assets/img/01.png'
 
 scvarificationnumber: scvarificationnumber
 analyticsvarificationnumber: analyticsvarificationnumber
-gtagmanagervarificationnumber: gtagmanagervarificationnumber
+gtagmanagervarificationnumber: GTM-WQTL795
 optimizevarificationnumber: optimizevarificationnumber 
-facebookpixelnumber: facebookpixelnumber
+facebookpixelnumber: "748223282422521"
 
 exclude:
   - config
