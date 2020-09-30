@@ -23,6 +23,8 @@ self.addEventListener("install", function (event) {
 self.addEventListener("fetch", function (event) {
   if (event.request.method !== "GET") return;
 
+  if (event.request.url.search("www.facebook.com") != -1 || event.request.url.search("connect.facebook.net") != -1) return;
+
   event.respondWith(
     fetch(event.request)
       .then(function (response) {
