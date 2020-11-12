@@ -366,6 +366,14 @@
               <a href="{{ article.url | prepend: site.baseurl }}" class="btn btn-sm btn-link">{{ main_keywords }}</a>
             {% endif %}
           {% endfor %}
+          
+          {% assign random_product_listing = site.products_listings | where:"lang", page.lang | sample: 2 %}
+          {% for product_listing in random_product_listing %}
+            {% assign main_keywords = product_listing.main_keywords | sample: 1 %}
+            {% if main_keywords %}
+              <a href="{{ product_listing.url | prepend: site.baseurl }}" class="btn btn-sm btn-link">{{ main_keywords }}</a>
+            {% endif %}
+          {% endfor %}
         <!-- </div> -->
       </section>
     </div>

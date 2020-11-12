@@ -13,6 +13,8 @@ title: Lampy Biurkowe
 description: TreeHouse to miejsce, w którym znajdziesz wskazówki dotyczące domu i ogrodu. Zainspiruj się się pomysłami i znajdź produkty odpowiadające Twoim oczekiwaniom.
 h1: Lampy Biurkowe
 seo_section: true
+main_keywords:
+- lampy biurkowe
 ---
 ## Jak wybrać najlepszy materac?
 

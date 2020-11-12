@@ -73,7 +73,33 @@
                 </div>
             </div>
             {% endif%}
-
+            
+            <section class="beam b-size-4 featured-articles">
+                <header class="beam-item b-size-4">
+                  <p class="h-section">{{site.i18n[page.lang].maybe_interesting}}</p>
+                </header>
+        
+                <!-- <div class="beam-item b-size-4"> -->
+                  {% assign random_articles = site.posts | where:"lang", page.lang | sample: 8 %}
+        
+                  {% for article in random_articles %}
+                    {% assign main_keywords = article.main_keywords | sample: 1 %}
+        
+                    {% if main_keywords %}
+                      <a href="{{ article.url | prepend: site.baseurl }}" class="btn btn-sm btn-link">{{ main_keywords }}</a>
+                    {% endif %}
+                  {% endfor %}
+                  
+                  {% assign random_product_listing = site.products_listings | where:"lang", page.lang | sample: 2 %}
+                  {% for product_listing in random_product_listing %}
+                    {% assign main_keywords = product_listing.main_keywords | sample: 1 %}
+                    {% if main_keywords %}
+                      <a href="{{ product_listing.url | prepend: site.baseurl }}" class="btn btn-sm btn-link">{{ main_keywords }}</a>
+                    {% endif %}
+                  {% endfor %}
+                <!-- </div> -->
+              </section>
+              
         </div> 
     </main>
 

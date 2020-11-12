@@ -13,6 +13,8 @@ title: Lampy Zewnętrzne
 description: TreeHouse to miejsce, w którym znajdziesz wskazówki dotyczące domu i ogrodu. Zainspiruj się się pomysłami i znajdź produkty odpowiadające Twoim oczekiwaniom.
 h1: Lampy Zewnętrzne
 seo_section: true
+main_keywords:
+- lampy zewnętrzna
 ---
 ## Jak wybrać najlepszy materac?
 
