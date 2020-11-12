@@ -80,7 +80,15 @@
 
                 <p class="subtitle">{{product_final_properties}}</p>
             </header>
+            {% if page.layout == "products" %}
+                
+            {% elsif page.layout == "products-category"%}       
+            
+            {% elsif page.layout == "products-subcategory"%}       
+            
+            {%else%}
             <p class="content">{{ include.product.description | truncate: 120 }}</p>
+            {% endif %}
             {% if include.product.links.size > 0 %}
                 <footer class="footer">
                     <span class="btn btn-sm btn-cta">{{ include.product.links[0]['anchor'] }} {{ include.product.links['anchor'] }}</span>
