@@ -38,7 +38,7 @@
                               <ul class="flex-container">
                                 {% assign all_products = site.products | where: "lang", page.lang%}
                                 {% if all_products.size > 18 %}
-                                    {% assign random_products = all_products | sample: 30 %}
+                                    {% assign random_products = all_products | sample: 12 %}
                                     {% for item in random_products %}
                                         <li class="flex-item" >
                                         {% include parts/product-listing-boxitem-md.html product=item   title_tag="p" %}
