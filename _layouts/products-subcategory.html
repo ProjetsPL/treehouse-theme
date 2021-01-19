@@ -33,7 +33,7 @@
                             <h1 class="h-section">{{page.h1}}</h1>
                             <p>{{page.intro}}</p>
                         </div>
-                        {% assign random_products = site.products | where: "lang", page.lang | where: "category", page.products_category | where: page.property , page.property_value %}
+                        {% assign random_products = site.products | where: "lang", page.lang | where: "category", page.products_category | where: page.property , page.property_value | sample: 12 %}
                         <div class="beam-item index-products">
                             <div class="flex-wrapper">
                               <ul class="flex-container">
