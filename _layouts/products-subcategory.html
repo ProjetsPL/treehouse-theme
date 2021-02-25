@@ -51,27 +51,12 @@
                               </ul>
                             </div>
                           </div>
-
+                          <div class="beam-item seo-text">
+                              {{ content | markdownify | inject_anchors }}    
+                          </div>
                     </section>
                 </div>                
             </div>
-            {% if page.seo_section%}
-            <div class="beam b-size-5  seo-section">
-                <div class="beam-item b-size-3 seo-text">
-                    {{ content | markdownify | inject_anchors }}    
-                </div>
-                <div class="beam-item b-size-2 beam-rail  seo-sidebar">
-                    <div class="beam-rail-item  r-height-auto">
-                        <div class="sticky-element">
-                            <nav class="table-of-content">
-                                <span class="title">{{site.i18n[page.lang].toc}}</span>
-                                {{ content | markdownify | toc_only }}
-                            </nav>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            {% endif%}
             
             <section class="beam b-size-4 featured-articles">
                 <header class="beam-item b-size-4">
