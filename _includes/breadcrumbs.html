@@ -49,7 +49,8 @@
                     {% for item in products %}
                         <li><a href="{{item.url}}">{{item.page_name}}</a></li>
                     {% endfor %}
-                    {% assign products_category = site.products_listings | where: 'products_category', page.products_category | where: "layout", "products-category"%}
+                    {% assign products_category_layout = site.products_listings |  where: "layout", "products-category"%}
+                    {% assign products_category = products_category_layout | where: 'products_category', page.products_category %}
                     {% for item in products_category %}
                         <li><a href="{{item.url}}">{{item.page_name}}</a></li>
                     {% endfor %}

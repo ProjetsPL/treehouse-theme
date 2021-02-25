@@ -39,8 +39,11 @@
             {% for item in products %}
                 <a href="{{item.url}}" class="back-link">{{site.i18n[page.lang].all_categories}}</a>
             {% endfor %}
-            {%assign listings = site.products_listings | where: "products_category", page.products_category | where: "lang" , page.lang | where: "layout" , "products-subcategory"  | sort: "page_name" %}                  
-            {%assign products_category = site.products_listings | where: "products_category", page.products_category | where: "lang" , page.lang | where: "layout" , "products-category" %}     
+            {%assign listings = site.products_listings | where: "products_category", page.products_category | where: "lang" , page.lang | where: "layout" , "products-subcategory"  | sort: "page_name" %}            
+            
+            {% assign products_category_lang = site.products_listings |  where: "lang" , page.lang%}
+            {% assign products_category_layout = products_category_lang | where: "layout", "products-category"%}
+            {% assign products_category = products_category_layout | where: 'products_category', page.products_category %}
             <ul>  
                 <li> 
                     {% for item in products_category %} 
