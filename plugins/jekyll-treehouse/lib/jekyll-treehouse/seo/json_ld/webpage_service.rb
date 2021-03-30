@@ -13,7 +13,7 @@ module Jekyll
             @lang = @page['lang']
 
             {
-              "@type": ["WebPage", "FAQPage"],
+              "@type": "WebPage",
               "@id": id,
               "url": url,
               "inLanguage": in_language,

@@ -17,14 +17,17 @@ module Jekyll
             questions = prepare_questions
             return [] if questions.count.zero?
 
-            array = []
-            array << overview(questions: questions)
+            question_array = []
 
             questions.each_with_index do |question, i|
-              array << question(question: question, i: i)
+              question_array << question(question: question, i: i)
             end
 
-            array
+            {
+              "@context": "https://schema.org",
+              "@type": "FAQPage",
+              "mainEntity": question_array
+            }
           end
 
           private
@@ -43,22 +46,22 @@ module Jekyll
             end
           end
 
-          def overview(questions: )
-            [
-              {
-                "@type": "ItemList",
-                "mainEntityOfPage": {
-                  "@id": "#{@page['url']}#article"
-                },
-                "numberOfItems": questions.count,
-                "itemListElement": questions.map do |question|
-                  {
-                    "@id": question[:id]
-                  }
-                end
-              }
-            ]
-          end
+          # def overview(questions: )
+          #   [
+          #     {
+          #       "@type": "ItemList",
+          #       "mainEntityOfPage": {
+          #         "@id": "#{@page['url']}#article"
+          #       },
+          #       "numberOfItems": questions.count,
+          #       "itemListElement": questions.map do |question|
+          #         {
+          #           "@id": question[:id]
+          #         }
+          #       end
+          #     }
+          #   ]
+          # end
 
           def question(question: , i: )
             {
