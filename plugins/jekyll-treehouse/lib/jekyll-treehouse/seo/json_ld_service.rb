@@ -36,7 +36,7 @@ module Jekyll
           end
 
           if context['page']['layout'] == 'post'
-            graph += JsonLd::ContentFaqService.call(context: context).result
+            graph << JsonLd::ContentFaqService.call(context: context).result
           end
 
           if context['page']['layout'] == 'ranking'
