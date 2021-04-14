@@ -135,6 +135,7 @@ DEPENDENCIES
   jekyll-sitemap!
   jekyll-toc (~> 0.12.2)
   jekyll-treehouse!
+  pry
   rvm1-capistrano3 (~> 1.4.0)
   sanitize (~> 5.1.0)
 

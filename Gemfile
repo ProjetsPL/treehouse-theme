@@ -11,3 +11,5 @@ gem 'sanitize', '~> 5.1.0'
 gem 'capistrano-rvm', '~> 0.1.2'
 gem 'capistrano-bundler', '~> 1.6.0'
 gem 'rvm1-capistrano3', '~> 1.4.0', require: false
+
+gem 'pry'

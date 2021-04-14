@@ -46,23 +46,6 @@ module Jekyll
             end
           end
 
-          # def overview(questions: )
-          #   [
-          #     {
-          #       "@type": "ItemList",
-          #       "mainEntityOfPage": {
-          #         "@id": "#{@page['url']}#article"
-          #       },
-          #       "numberOfItems": questions.count,
-          #       "itemListElement": questions.map do |question|
-          #         {
-          #           "@id": question[:id]
-          #         }
-          #       end
-          #     }
-          #   ]
-          # end
-
           def question(question: , i: )
             {
               "@type": "Question",
