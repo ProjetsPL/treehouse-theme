@@ -33,7 +33,34 @@
                             <h1 class="h-section">{{page.h1}}</h1>
                             <p>{{page.intro}}</p>
                         </div>
-                        {% assign random_products = site.products | where: "lang", page.lang | where: "category", page.products_category | where: page.property , page.property_value | sample: 12 %}
+                        <!-- Related products - Filter -->  
+
+                        {% assign products_with_lang = site.products | where: "lang" , page.lang %}
+                        {% assign products_collection = products_with_lang%}
+
+                        {% if  page.products_tags.size > 0  %}
+                          {% assign products_path_array = '' | split: ',' %}
+                          {% for category_tag in page.products_tags  %}
+                              {% for product in products_collection %}
+                                  {% for product_tag in product.tags %}
+                                      {% if product_tag == category_tag %}
+                                          {% assign path_handle = product.path  | split: ',' %}
+                                          {% assign products_path_array = products_path_array | concat: path_handle %}
+                                      {% endif %}
+                                  {% endfor%}
+                              {% endfor %}
+                          {% endfor %}
+                          {% assign products_path_array = products_path_array | uniq %}
+                          <!-- creating array of products with matching tags -->
+                          {% assign products_collection = '' | split: ',' %}
+                          {% for item in products_path_array %}
+                              {% assign found_product = site.products | where: "path" , item %}
+                              {% assign products_collection = products_collection  | concat: found_product %}
+                          {% endfor %}
+                          <!-- Po przefiltrowaniu tagów:  {{products_collection.size}}<br> -->
+                        {% endif %}
+
+                        {% assign random_products = products_collection | where: "category", page.products_category | where: page.property , page.property_value | sample: 12  %}           
                         <div class="beam-item index-products">
                             <div class="flex-wrapper">
                               <ul class="flex-container">

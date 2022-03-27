@@ -261,7 +261,7 @@
                     <!-- Po przefiltrowaniu tagów:  {{products_collection.size}}<br> -->        
 
                 {% endif %}
-                {% if  page.property and page.property_value  %}       
+                {% if  page.property.size > 0 and page.property_value.size  > 0  %}     
 
                     {% assign products_path_array = '' | split: ',' %}
                     {% assign property_name =  page.property | remove: "properties."%}           
