@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="{{ page.full-lang | default: site.lang | default: 'en' }}">
+<head>
+<link rel="preload"  href="{{ site.baseurl }}/assets/css/pages/article.css?v=3" as="style">
+
+{% include head.html %}
+
+<link href="{{ site.baseurl }}/assets/css/pages/article.css?v=3" rel="stylesheet">
+
+</head>
+
+<body>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+  {% if page.lang == "pl" %}
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v8.0" nonce="r5fqc9Oi"></script>
+  {% endif %}
+  {% include header.html %}
+
+  <main class="page page-article">
+
+    {% include breadcrumbs.html %}
+    
+    <div class="beams-wrapper  global-beam-wrapper article-content">
+      <article class="beam b-size-5">
+        <div class="beam-item b-size-3 article-text">
+          <header class="article-header">
+            <div class="detail-box">
+              <span>{{ site.i18n[page.lang].updated }}: <time datetime="{{ page.update_date | date_to_xmlschema }}">{{page.update_date | date: '%d-%m-%Y'}}</time></span>
+              <span class="article-label article-label-garden">{{ site.i18n[page.lang].home_and_garden }}</span>
+            </div>
+            <h1>{{ page.title }}</h1>
+
+            <p>{{ page.intro }}</p>
+          
+            {% if page.is_hub%}
+              <nav class="posts-nav">
+                <ul class="posts-nav-lvl-1">
+                    {% assign post_list_categories = page.post_list.categories%}
+                    {% for item in post_list_categories%}
+                    <li class="">
+                    <span class="title">{{page.post_list.list_main_title}} <b>{{item.title}}</b></span>
+                    <ul class="posts-nav-lvl-2 ">
+                        {% assign categorie_list = item.list %}
+                        {% for item in categorie_list%}
+                        <li><a href="{{item.link}}" title="{{page.post_list.list_main_title}} {{item.title}}">{{page.post_list.list_main_title}} <strong>{{item.title}}</strong></a></li>
+                        {% endfor %}
+                    </ul>
+                    </li>
+                    {% endfor %}
+                </ul>
+              </nav>
+            {% endif %}
+
+            <figure>
+              {% if page.image %}
+              <div class="img-box img-ratio-16-9">
+                <img  class="img"  src='{{site.baseurl}}{{page.image}}' alt='{{ page.title | escape }}'></img>
+              </div>
+              {% endif %}
+            </figure>
+          </header>
+
+          <ins class="adsbygoogle"
+              style="display:block"
+              data-ad-format="fluid"
+              data-ad-layout-key="-dx+59+ez-g3-g4"
+              data-ad-client="ca-pub-2667869260064660"
+              data-ad-slot="4714133490"></ins>
+          <script>
+              (adsbygoogle = window.adsbygoogle || []).push({});
+          </script>
+
+
+          {% if page.use_related_products %}
+          <div class="flex-wrapper  nowrap">
+            <div class="flex-container">
+              {% for i in (1..page.products_quantity)  %}
+                <div class="flex-item" >
+                  {% include parts/product-listing-boxitem-sm-2.html productnumber=forloop.index %}
+                </div>
+              {%endfor%}
+            </div>
+          </div>
+          {% endif %}
+
+          {{ content | inject_anchors | inject_ads }}
+         
+            <!-- {% assign posts_belongs_to_hub = site.posts | where: "belongs_to_hub", true | where: "lang", page.lang %}
+            {% for post in posts_belongs_to_hub %}
+              {% for item in post.categories %}
+                {% if item == page.hub_name %}   
+                  <a href="{{post.url}}"> {{post.title}}</a><br>
+                {% endif %}
+              {% endfor %}
+            {% endfor %} -->
+
+          <ins class="adsbygoogle"
+              style="display:block"
+              data-ad-format="fluid"
+              data-ad-layout-key="-dx+59+ez-g3-g4"
+              data-ad-client="ca-pub-2667869260064660"
+              data-ad-slot="4714133490"></ins>
+          <script>
+              (adsbygoogle = window.adsbygoogle || []).push({});
+          </script>
+
+          <footer class="article-footer">
+            <section class="publication-author">
+              <div class="profile-photo">
+                <img class="img" src="/assets/img/authors/dorota_czerwinska.png" alt="Dorota Czerwińska - Treehouse">
+              </div>
+              <div class="profile-details">
+                <span class="name">Dorota Czerwińska</span>
+                <span class="position">{{site.i18n[page.lang].autor_label}}</span>
+                <p>{{site.i18n[page.lang].author_description}}</p>
+                <a href="mailto:dorota@treehouse.co" class="more">{{site.i18n[page.lang].contact_label}}: dorota@treehouse.co</a>
+              </div>
+            </section>
+
+
+            {% assign articles = site.posts | where: "lang", page.lang %}
+
+            {% for i in (0..articles.size) %}
+              {% if articles[i] != page %}
+               {% continue %}
+              {% endif %}
+
+              {% assign prev_index = i | minus: 1 %}
+              {% assign prev_article = articles[prev_index] %}
+
+              {% assign last_index = articles.size | minus: 1 %}
+
+              {% if i == last_index %}
+                {% assign next_index = 0 %}
+              {% else %}
+                {% assign next_index = i | plus: 1 %}
+              {% endif %}
+
+              {% assign next_article = articles[next_index] %}
+
+              {% break %}
+            {% endfor %}
+
+
+            <nav class="other-publications">
+              {% if prev_article.url and prev_article.lang == page.lang %}
+                <a href="{{ prev_article.url | prepend: site.baseurl }}" class="previous">
+                  <span class="label">{{site.i18n[page.lang].previous_article}}:</span>
+                  <span class="title">{{prev_article.title}}</span>
+                  <img class="arrow" src="/assets/img/more-arrow-md.svg" alt="Przeczytaj więcej">
+                </a>
+              {% endif %}
+
+              {% if next_article.url and next_article.lang == page.lang %}
+                <a href="{{ next_article.url | prepend: site.baseurl }}" class="next">
+                  <span class="label">{{site.i18n[page.lang].next_article}}:</span>
+                  <span class="title">{{next_article.title}}</span>
+                  <img class="arrow" src="/assets/img/more-arrow-md.svg" alt="Przeczytaj więcej">
+                </a>
+              {% endif %}
+            </nav>
+          </footer>
+        </div>
+
+        <div class="beam-item b-size-2 beam-rail  review-sidebar">
+            <div class="beam-rail-item r-height-auto">
+              <div class="rail-sidebar">
+                  <div class="sticky-sidebar">
+                    <nav class="table-of-content" id="some-stickybit-nav">
+                      <span class="title">{{ site.i18n[page.lang].toc }}</span>
+                      {{ content | toc_only }}
+                    </nav>
+                    {% if page.lang == "pl" %}
+                    <div class="fb-page-wrapper">
+                      <div class="fb-page" data-href="https://www.facebook.com/treehouseinspiruje/" data-tabs="timeline" data-width="440px" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/treehouseinspiruje/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/treehouseinspiruje/">Treehouse</a></blockquote></div>
+                    </div>
+                    {% endif %}
+                  </div>
+                </div>
+            </div>
+
+
+            {% if page.use_related_products %}
+            {% for i in (1..page.products_quantity)  %}
+                <aside class="beam-rail-item  r-height-auto">
+                    <div class="sticky-element">
+                        {% include parts/product-listing-boxitem-md-2.html productnumber=forloop.index%}
+                    </div>
+                </aside>
+            {% endfor %}
+            {% endif %}
+
+            <!-- End - Related products - display -->
+
+
+        </div>
+      </article>
+
+      <section class="beam  b-size-4 featured-articles">
+        <header class="beam-item b-size-4">
+            <p class="h-section">{{site.i18n[page.lang].promoted_articles}}</p>
+        </header>
+
+        {% assign promoted_articles = site.posts | where:"lang", page.lang | where:"promoted", true %}
+
+        {% for article in promoted_articles limit: 4 %}
+          <div class="beam-item b-size-1">
+            {% include parts/articles-listing-boxitem-sm.html article=article %}
+          </div>
+        {% endfor %}
+      </section>
+
+      <section class="beam b-size-4 featured-articles">
+        <header class="beam-item b-size-4">
+          <p class="h-section">{{site.i18n[page.lang].maybe_interesting}}</p>
+        </header>
+
+        <!-- <div class="beam-item b-size-4"> -->
+          {% assign random_articles = site.posts | where:"lang", page.lang | sample: 8 %}
+
+          {% for article in random_articles %}
+            {% assign main_keywords = article.main_keywords | sample: 1 %}
+
+            {% if main_keywords %}
+              <a href="{{ article.url | prepend: site.baseurl }}" class="btn btn-sm btn-link">{{ main_keywords }}</a>
+            {% endif %}
+          {% endfor %}
+          
+          {% assign random_product_listing = site.products_listings | where:"lang", page.lang | sample: 2 %}
+          {% for product_listing in random_product_listing %}
+            {% assign main_keywords = product_listing.main_keywords | sample: 1 %}
+            {% if main_keywords %}
+              <a href="{{ product_listing.url | prepend: site.baseurl }}" class="btn btn-sm btn-link">{{ main_keywords }}</a>
+            {% endif %}
+          {% endfor %}
+        <!-- </div> -->
+      </section>
+    </div>
+  </main>
+
+  {% include footer.html %}
+
+  {% include stickby-sidebar.html %}
+  {% include stickby-element.html %}
+  
+  {% if page.use_related_products %}
+  {% include generate-products.html %}
+    <script type="text/javascript">
+      generateProducts({{page.shop_id}}, [
+      {% for category in page.categories_ids %}
+        "{{category}}",
+      {% endfor %}
+      ], {{page.products_quantity}});
+    </script>
+  {% endif %}
+
+  {% include all_pages_footer.html %}
+</body>
+</html>

@@ -1,0 +1,81 @@
+---
+---
+// two lines are required to parse scss
+
+@import "variables.scss";
+
+.article-content {
+    margin-top: 30px;
+    >.beam {
+        justify-content: flex-start;
+    }
+    .article-text {
+        .article-header {
+            .detail-box {
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+                span {
+                    align-self: flex-start;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 800px) {
+    .article-content {
+        .beam>.beam-item {
+            flex-basis: 100%;
+        }
+        .article-footer {
+            .other-publications {
+                border-bottom: 1px solid $gray-2;
+                padding-bottom: 30px;
+            }
+        }
+        .featured-articles {
+            >.beam-item {
+                &:first-child {
+                    flex-basis: 100%;
+                }
+                flex-basis: 50%;
+            }
+        }
+    }
+}
+
+@media (max-width: 450px) {
+    .article-content {
+        .featured-articles {
+            >.beam-item {
+                &:first-child {
+                    flex-basis: 100%;
+                }
+                flex-basis: 100%;
+            }
+        }
+    }
+}
+
+@media (max-width: 350px) {
+    .article-content {
+        .article-text {
+            .article-header {
+                .detail-box {
+                    flex-direction: column;
+                    >* {
+                        margin-bottom: 10px;
+                        &:last-child {
+                            margin-bottom: 0px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@import "components/articles-listing-boxitem-sm.scss";
+@import "components/product-listing-boxitem-md-2.scss";
+@import "components/product-listing-boxitem-sm-2.scss";

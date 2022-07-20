@@ -14,7 +14,7 @@
                 {% endfor %}
                 
 
-                {% if  page.layout == "post" %} 
+                {% if  page.layout == "post" or page.layout == "post-2"  %} 
                     {% assign blog = site.pages | where: "layout", "blog"   | where: "lang" , page.lang %}
                     {% for item in blog %}
                         <li><a href="{{item.url}}">{{item.page_name}}</a></li>
@@ -75,7 +75,7 @@
                 {% endif %}
 
 
-                {% if  page.layout == "post" %} 
+                {% if  page.layout == "post" or page.layout == "post-2"  %} 
                     <li><a href="{{page.url}}">{{page.title}}</a></li>
                 {% elsif page.layout == "ranking-hub"  or page.layout == "ranking"  or page.layout == "event" %}
                     <li><a href="{{page.url}}">{{page.h1}}</a></li>
