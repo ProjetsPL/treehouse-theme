@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-2
 date: 2020-07-03
 main_keywords:
 - lampy do salonu
@@ -27,15 +27,15 @@ intro: Salon to wyjątkowe miejsce w domu, gdzie niemal każdy spędza większą
   wybrać, aby prezentowała się oryginalnie, a jednocześnie spełniała swoją najważniejszą
   funkcję? Czerp inspirację i wybierz idealne dla siebie oświetlenie do salonu.
 image: "/uploads/lampy-do-salonu-9-pomyslow.jpg"
-related_products: []
+
 
 belongs_to_hub: false
 
-products_quantity: 12
-products_category:
-products_tags: 
-property: properties.size
-property_value: 90x200
+use_related_products: true
+shop_id: 3
+categories_ids:
+- 611
+products_quantity: 5
 
 ---
 ## Oświetlenie salonu - minimalistyczne i nowoczesne

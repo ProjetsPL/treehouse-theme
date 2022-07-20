@@ -13,3 +13,5 @@ gem 'capistrano-bundler', '~> 1.6.0'
 gem 'rvm1-capistrano3', '~> 1.4.0', require: false
 
 gem 'pry'
+
+gem "webrick", "~> 1.7"
