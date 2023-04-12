@@ -72,19 +72,6 @@
               (adsbygoogle = window.adsbygoogle || []).push({});
           </script>
 
-
-          {% if page.use_related_products %}
-          <div class="flex-wrapper  nowrap">
-            <div class="flex-container">
-              {% for i in (1..page.products_quantity)  %}
-                <div class="flex-item" >
-                  {% include parts/product-listing-boxitem-sm-2.html productnumber=forloop.index %}
-                </div>
-              {%endfor%}
-            </div>
-          </div>
-          {% endif %}
-
           {{ content | inject_anchors | inject_ads }}
          
             <!-- {% assign posts_belongs_to_hub = site.posts | where: "belongs_to_hub", true | where: "lang", page.lang %}
